@@ -1,12 +1,17 @@
-<strong>{{ .title }}</strong>
-<p>
-    {{ with getJSON "https://api.github.com/repos/cabforum/{{ .repository }}/releases/latest" }}
-        <strong><a href="https://github.com/cabforum/code-signing/blob/{{ .tag_name }}/{{ $.filename }}" target="_blank">{{ .name }}</a></strong><br />
-        <span>{{ .published_at }}</span><br />
-        <p>{{ .body }}</p>
+{{- $url := (printf "https://api.github.com/repos/cabforum/%s/releases/latest" .repository) -}}
+{{- with resources.GetRemote $url -}}
+    {{- with .Err -}}
+        {{- warnf "%s - %s" . $url -}}
     {{ else }}
-        Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.
-    {{ end }}
-</p>
-<hr>
-
+        {{- with . | transform.Unmarshal -}}
+        <div class="border-bottom">
+            <strong>{{ .title }}</strong>
+            <strong><a href="https://github.com/cabforum/code-signing/blob/{{ .tag_name }}/{{ $.filename }}" target="_blank">{{ .name }}</a></strong><br />
+            <span>{{ .published_at }}</span><br />
+            <p>{{ .body }}</p>
+        </div>
+        {{- end -}}
+    {{- end -}}
+{{- else -}}
+    Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.
+{{- end -}}
