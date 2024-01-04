@@ -1,0 +1,6 @@
+Contact: mailto:questions@cabforum.org
+
+# For issues regarding cabforum.org that can be publicly reported:
+Contact: https://github.com/cabforum/cabforum.org/issues
+
+Preferred-Languages: en

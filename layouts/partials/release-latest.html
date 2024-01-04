@@ -1,0 +1,12 @@
+<strong>{{ .title }}</strong>
+<p>
+    {{ with getJSON "https://api.github.com/repos/cabforum/{{ .repository }}/releases/latest" }}
+        <strong><a href="https://github.com/cabforum/code-signing/blob/{{ .tag_name }}/{{ $.filename }}" target="_blank">{{ .name }}</a></strong><br />
+        <span>{{ .published_at }}</span><br />
+        <p>{{ .body }}</p>
+    {{ else }}
+        Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.
+    {{ end }}
+</p>
+<hr>
+

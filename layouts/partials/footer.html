@@ -1,0 +1,47 @@
+
+    <footer class="bg-dark" data-bs-theme="dark">
+        <div class="container fw-light text-light opacity-50">
+            {{ with .File }}
+                <a href="{{$.Site.Params.siteSource}}/content/{{ .File.Path }}" class="btn btn-sm btn-outline-light align-top float-end m-3">Edit this page</a>
+            {{ end }}
+            <div class="pt-3 pb-5">
+                {{ partial "social.html" .Site.Params.social }}
+            </div>
+
+            <div class="py-2">
+                {{ range $id, $menu := .Site.Menus.footer }}
+                <a title="{{ $menu.Title }}" href="{{ $menu.URL }}" class="link-light">{{ $menu.Name }}</a> 
+                {{ if lt (add $id 1) (len $.Site.Menus.footer) }} | {{end}}
+                {{ end }}
+            </div>
+
+            <div class="py-2">
+                <small>{{ .Site.Params.about }}</small>
+            </div>
+
+            <div class="py-2">
+                <p class="float-end">
+                    <a href="#" title="Back to top" class="m-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#fff" class="bi bi-chevron-up" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z"/>
+                        </svg>
+                    </a>
+                </p>
+            </div>
+
+        </div>
+    </footer>
+
+    {{ if .Site.GoogleAnalytics }}
+    {{ template "_internal/google_analytics_async.html" . }}
+    {{ end }}
+
+    {{ $js := resources.Get "js/main.js" }}
+    {{ $params := dict }}
+    {{ $sourceMap := cond hugo.IsProduction "" "inline" }}
+    {{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2018" "params" $params }}
+    {{ $js = $js | js.Build $opts }}
+    {{ if hugo.IsProduction }}
+    {{ $js = $js | fingerprint }}
+    {{ end }} 
+    <script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }} defer></script>

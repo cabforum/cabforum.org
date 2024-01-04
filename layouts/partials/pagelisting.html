@@ -1,0 +1,12 @@
+<p>
+    <strong><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></strong>
+    {{ with .Params.authors }}
+    {{ $customDateFormat := "January 2, 2006" }}
+    {{ with $.Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
+    <br>
+    <small class="d-inline-block text-secondary text-truncate overflow-hidden" style="max-width: 95%">{{ $.PublishDate.Format $customDateFormat }} by {{ partial "authors.html" $ }}
+    {{ partial "tags" $.Params.tags }}</small>
+    {{end}}
+    <br>
+    {{ .Summary }}
+</p>

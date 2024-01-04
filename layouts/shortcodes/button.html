@@ -1,0 +1,1 @@
+<a href="{{ .Get `link` }}"{{ with .Get `target` }} target="{{ . }}"{{ end }}class="btn btn-{{ with .Get `type`}}{{ . }}{{ else }}secondary{{ end }} my-2">{{ .Get `label` }}</a>

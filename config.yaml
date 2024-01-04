@@ -1,0 +1,142 @@
+baseURL: https://cabforum.org
+languageCode: en-us
+title: CA/Browser Forum
+
+copyright: 
+googleAnalytics:
+
+permalinks:
+  post: /:year/:month/:day/:title/
+
+#canonifyurls: true
+enableRobotsTXT: true
+buildDrafts: false
+disableHugoGeneratorInject: true
+enableInlineShortcodes: true
+rssLimit: 30
+enableEmoji: true
+
+# not great, but it's not a big deal if some rss feeds fail
+ignoreErrors: ["error-remote-getjson"]
+
+# it can take some time to query the rss feeds
+timeout: 120s
+
+taxonomies:
+  tag: tags
+  series: series
+  author: authors
+
+# disableKinds:
+#   - RSS
+#   - taxonomyTerm
+
+# menu:
+#   main:
+#      -
+#        name: Example page
+#        identifier: example
+#        weight: -100
+#        url: https://www.example.com
+
+params:
+  name: CA/Browser Forum
+  shortName: CABForum
+  email: questions@cabforum.org
+  website: https//cabforum.org
+  about: Certificate Issuers, Certificate Consumers, and Interested Parties Working to Secure the Web
+  siteSource: https://github.com/cabforum/cabforum.org/edit/main
+
+  social:
+    github: https://github.com/cabforum
+
+# https://gohugo.io/content-management/related/#default-configuration
+related:
+  includeNewer: true
+  indices:
+  - name: tags
+    weight: 100
+  - name: keywords
+    weight: 60
+  - name: title
+    weight: 30
+  - name: date
+    weight: 10
+  threshold: 90
+  toLower: true
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: true
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+
+module:
+  imports:
+  - path: github.com/gohugoio/hugo-mod-bootstrap-scss/v5
+
+outputFormats:
+  rss:
+    mediatype: application/rss
+    path: feed
+  redirects:
+    baseName: _redirects
+    path: /
+    isPlainText: true
+
+outputs:
+  home:
+  - HTML
+  - redirects
+  page:
+  - HTML
+  section:
+  - HTML
+  - RSS  
+
+caches:
+  getjson:
+    dir: :cacheDir/:project
+    maxAge: 28800
+  getresource:
+    dir: :cacheDir/:project
+    maxAge: 28800
+
+server:
+  headers:
+  - for: /**
+    values:
+      X-Frame-Options: DENY
+      X-Content-Type-Options: nosniff
+      Referrer-Policy: strict-origin-when-cross-origin
+      Content-Security-Policy: default-src 'none'; form-action 'self'; base-uri 'self'; 
+          block-all-mixed-content;
+          style-src 'unsafe-inline' 'self' https://fonts.googleapis.com/css;
+          font-src https://fonts.gstatic.com/s/droidsans/  https://fonts.gstatic.com/s/bebasneue/;
+          script-src 'self' 'wasm-unsafe-eval' https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js;
+          img-src 'self' https://i.ytimg.com data:;
+          frame-src https://www.youtube-nocookie.com/ https://player.vimeo.com/ https://www.youtube.com/;
+          connect-src ws://localhost:1313/livereload 'self';

@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="py-5 text-center container">
+    <div class="row py-lg-5">
+        <div class="col-10 mx-auto">
+        <h1 class="fw-light">404: Page not found</h1>
+        <p class="lead text-muted">You will be redirected to the homepage ...</p>
+        </div>
+    </div>
+</section>
+
+<script>
+    setTimeout("location.href = '/';", 20000);
+</script>
+{{ end }}

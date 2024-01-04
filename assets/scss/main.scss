@@ -1,0 +1,170 @@
+// required to get color variables
+@import "bootstrap/functions"; 
+
+$primary: rgb(55, 184, 235);
+$secondary: rgb(16, 90, 117);
+
+$link-color: $primary; 
+$link-hover-color: $primary; 
+
+@import "bootstrap/bootstrap";
+
+// import font(s)
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bebas+Neue:400,300,700);
+
+h1 {
+    font-family: 'Bebas Neue', Arial, Verdana, sans-serif;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 60px;
+}
+div {
+    scroll-margin-top: 150px;
+}
+
+html,
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Droid Sans', Arial, Verdana, sans-serif;
+
+    background-image: url(/img/background.png);
+    background-color: rgb(255, 255, 255);
+
+    color: #333;
+    font-size: 0.95em;
+
+}
+
+.nav-link {
+    margin-top: -5px;
+    margin-left: 10px;
+    padding-top: 15px;
+    color: #fff;
+}
+
+table {
+    @extend .table;
+    @extend .table-bordered;
+    @extend .table-striped;
+    @extend .table-hover;
+
+    text-align: left;
+    width: 100%;
+    margin-top: 1.6em;
+}
+
+thead {
+    @extend .table-dark;
+}
+
+main {
+    flex: 1;
+}
+
+figure, #content>p>img {
+    margin: 2rem;
+    text-align: center;
+}
+
+figure>img, #content>p>img {
+    max-width: 80%;
+}
+
+figcaption, figcaption h4 {
+    font-size: 70%;
+    text-align: center !important;
+}
+
+blockquote {
+    font-size: 1.3em;
+    margin-left: -1.2em;
+    font-weight: 400 !important;
+    font-style: italic;
+    color: #555555;
+    padding: 1.2em 30px 1.2em 75px;
+    border-left: 8px solid rgb(33, 37, 41);
+    line-height: 1.6;
+    position: relative;
+    background: #efefef;
+}
+
+blockquote::before {
+    font-family: Arial;
+    content: "\201C";
+    color: rgb(33, 37, 41);
+    font-size: 4em;
+    position: absolute;
+    left: 10px;
+    top: -10px;
+}
+
+blockquote::after {
+    content: '';
+}
+
+blockquote h4 {
+    display: block;
+    color: #333333;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+.callout-warning {
+    font-size: 1em;
+    color: rgb(200, 0, 0);
+    margin-left: 0em;
+    border-left: 8px solid rgb(200, 0, 0);
+    background: rgba(200, 0, 0, 0.2);
+}
+
+.callout-warning::before {
+    margin-left: 10px;
+    line-height: 1em;
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='rgb(200, 0, 0)' class='bi bi-exclamation-triangle' viewBox='0 0 16 16'%3E%3Cpath d='M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z'/%3E%3Cpath d='M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995z'/%3E%3C/svg%3E");
+}
+
+.callout-info {
+    font-size: 1em;
+    color: rgb(160, 140, 0);
+    margin-left: 0em;
+    border-left: 8px solid rgb(255, 225, 0);
+    background: rgba(255, 225, 0, 0.2);
+}
+
+.callout-info::before {
+    margin-left: 10px;
+    line-height: 1em;
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' fill='rgb(160, 140, 0)' class='bi bi-info-circle' viewBox='0 0 16 16'%3E%3Cpath d='M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z'/%3E%3Cpath d='m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z'/%3E%3C/svg%3E");
+}
+
+.highlight>pre {
+    padding: 1.5rem;
+}
+
+main h2 {
+    text-align: left;
+    font-size: 1.6em;
+    padding-top: 1em;
+    font-weight: 500 !important;
+}
+
+main h3 {
+    text-align: left;
+    font-size: 1.2em;
+    padding-top: 1em;
+    font-weight: 500 !important;
+}
+
+main h4 {
+    text-align: left;
+    font-size: 1.1em;
+    padding-top: 1em;
+    font-weight: 500 !important;
+}

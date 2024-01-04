@@ -1,0 +1,5 @@
+{{ $poster := resources.GetMatch (printf "/images/**/%s" (.Get `poster`)) }}
+<video width="100%" poster="{{ $poster.RelPermalink }}" controls>
+    <source src="{{ .Get `link` }}" type="{{ .Get `type` }}">
+    Your browser does not support the video tag.
+</video>

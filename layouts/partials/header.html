@@ -1,0 +1,28 @@
+    <meta charset="utf-8">
+
+    <title>{{ .Title }}{{ if eq .IsHome false }} | {{ .Site.Title }}{{ end }}</title>
+
+    {{- with $.Param "robots" -}}
+    <meta name="robots" content="{{.}}">
+    {{- end -}}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {{ if (or .Description .Summary)}}<meta content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ end }}{{ end }}" name="description">{{ end }}
+    {{ if .Keywords }}<meta content="{{ delimit .Keywords "," }}" name="keywords">{{ end }}
+    {{ with $.Param "redirect" }}<meta http-equiv="refresh" content="0; url={{ . }}" />{{ end }}
+
+    {{ partial "image.html" . }}
+    {{ template "_internal/opengraph.html" . }}
+
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL}}/blog/feed/" title="Subscribe to updates from the CA/Browser Forum blog" />
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL}}/news/feed/" title="Subscribe to news from the CA/Browser Forum members" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.svg">
+	<!--<link rel="shortcut icon" href="/img/favicon.ico">{{ template "_internal/twitter_cards.html" . }}
+
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">-->
+    <meta name="theme-color" content="#212528">
+    

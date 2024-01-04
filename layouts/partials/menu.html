@@ -1,0 +1,23 @@
+<div class="bg-white shadow-sm border-bottom border-primary border-4">
+    <div class="border-top border-start border-end pb-4">
+        {{ $currentPage := . }}
+        {{ with .FirstSection }}
+            <div class="bg-body-secondary fw-bolder p-1 text-uppercase"><a class="text-reset text-decoration-none" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></div>
+            <ul class="px-4 nav flex-column">
+                {{- range .Sections -}}
+                    {{ $section := . }}
+                    <li class="nav-item pt-4 fw-bold{{ if .Eq $.Page }} active {{ end }}"><a {{ if .Eq $.Page }}class="text-secondary"{{end}} href="{{ .Permalink }}" title="{{ .Title }}">{{ .LinkTitle }}</a></li>
+                        {{- range first 50 .Data.Pages.ByWeight -}}
+                            <li class="nav-item ms-3{{ if .Eq $.Page }} active {{ end }}"><a {{ if .Eq $.Page }}class="text-secondary"{{end}} href="{{ .Permalink }}" title="{{ .Title }}">{{ .LinkTitle }}</a></li>
+                        {{- end -}}
+                {{- end -}}
+                
+
+                <li class="mt-4"></li>
+                {{- range first 50 .RegularPages.ByWeight -}}
+                <li class="nav-item{{ if .Eq $.Page }} active {{ end }}"><a {{ if .Eq $.Page }}class="text-secondary"{{end}} href="{{ .Permalink }}" title="{{ .Title }}">{{ .LinkTitle }}</a></li>
+                {{- end -}}
+            </ul>
+        {{- end -}}
+    </div>
+</div>

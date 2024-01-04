@@ -1,0 +1,68 @@
+{{- if .Title -}}
+    {{- $titleSize := 60 -}}
+    {{- $summaryY := 220 -}}
+    {{- $summaryTruncate := 400 -}}
+
+    {{- $summary := " " -}}
+    {{- if .Description -}}
+        {{- $summary = .Description -}}
+    {{- else if .Summary -}}
+        {{- $summary = .Summary -}}
+    {{- else if eq .Data.Singular "author" -}}
+        {{- $summary = (printf "View all articles authored by %s" .Data.Term ) -}}
+    {{- else if eq .Data.Singular "tag" -}}
+        {{- $summary = (printf "An overview of articles with the tag %s" .Data.Term ) -}}
+    {{- end -}}
+
+    {{- if lt (len .Title) 20 -}}
+        {{- $titleSize = 80 -}}
+    {{- end -}}
+
+    {{- if gt (len .Title) 35 -}}
+        {{- $summaryY = 280 -}}
+        {{- $summaryTruncate = 300 -}}        
+    {{- end -}}
+
+    {{- if gt (len .Title) 70 -}}
+        {{- $titleSize = 45 -}}
+
+        {{- if gt (len .Title) 100 -}}
+            {{- $summaryY = 300 -}}
+            {{- $summaryTruncate = 200 -}}
+        {{- end -}}
+    {{- end -}}
+    
+    {{- $robotoBlack := resources.GetRemote "https://github.com/google/fonts/raw/113bac0943d5b85dcc6c2c01b48fae88d4b5c52a/ofl/roboto/static/Roboto-Black.ttf" -}}
+    {{- with $robotoBlack.Err -}}
+        {{- errorf "Failed to load font: %s" . -}}
+    {{- end -}}
+
+    {{- $robotoLight := resources.GetRemote "https://github.com/google/fonts/raw/113bac0943d5b85dcc6c2c01b48fae88d4b5c52a/ofl/roboto/static/Roboto-Light.ttf" -}}
+    {{- with $robotoLight.Err -}}
+        {{- errorf "Failed to load font: %s" . -}}
+    {{- end -}}
+
+    {{- $img := resources.Get "/images/cabforum-og.png"  -}}
+    {{- $img = $img | images.Filter (
+    images.Text .Title (dict 
+            "color" "#ffffff" 
+            "size" $titleSize
+            "linespacing" 8
+            "x" 70 "y" 100
+            "font" $robotoBlack ))              
+    | images.Filter (images.Text (string ($summary | truncate $summaryTruncate)) (dict 
+            "color" "#ffffff" 
+            "size" 30
+            "linespacing" 10
+            "x" 70 "y" $summaryY
+            "font" $robotoLight ))               
+    -}}
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="{{ .Title }}"/>
+    <meta name="twitter:description" content="{{ $summary }}"/>
+    <meta name="twitter:site" content="@PKIConsortium"/>
+    <meta name="twitter:image" content="{{ $img.Permalink }}"/>
+
+    <meta property="og:image" content="{{- $img.Permalink -}}" data-pagefind-default-meta="image[content]"/>
+{{- end -}}

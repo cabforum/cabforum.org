@@ -1,0 +1,9 @@
+public
+resources/_gen/
+static/pagefind
+content-*
+archive
+
+# Ignore hugo itself when located here
+hugo
+hugo.*

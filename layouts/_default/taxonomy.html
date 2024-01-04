@@ -1,0 +1,34 @@
+{{ define "main" }}
+<section class="py-4 text-center container">
+    <div class="row py-lg-4">
+        <div class="col-lg-7 col-lg-8 mx-auto">
+            <h1 class="fw-light">{{ $.Site.Params.shortName }} blog</h1>
+            {{ if eq .Kind "term" }}
+            <p class="lead text-muted">Posts by <a href="../{{.Data.Plurar }}">{{.Data.Singular }}</a> <strong>{{.Data.Term }}</strong></p>
+            {{ else }}
+            <p class="lead text-muted">Posts by <strong>{{.Data.Singular }}</strong>, back to <a href="/blog/">blog</a></p>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<div class="album py-5">
+    <div class="container">
+        <ul>
+            {{ range .Data.Terms.ByCount }}
+                    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }} <span class="mx-2 badge rounded-pill bg-secondary">{{ .Count }}</span></a></li>
+            {{ end }}
+        </ul>
+
+        {{ if eq .Kind "term" }}
+            {{ range .Paginator.Pages }}
+            {{ partial "pagelisting.html" . }}
+            {{ end }}
+
+            <div class="pagination justify-content-center mt-5">
+            {{ template "_internal/pagination.html" . }}
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,7 @@
+{{- range where .Site.Pages "Params.redirect" "!=" nil -}}
+{{- if hasPrefix (.Param "redirect") "/" | or (hasPrefix (.Param "redirect") "https://") | or (hasPrefix (.Param "redirect") "http://") -}}
+{{- printf "%s %s 301\n" .RelPermalink (.Param "redirect") -}}
+{{- else -}}
+{{- printf "%s %s 301\n" .RelPermalink (path.Join .RelPermalink (.Param "redirect")) -}}
+{{- end -}}
+{{- end -}}

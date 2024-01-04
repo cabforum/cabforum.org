@@ -1,0 +1,6 @@
+{{ .Scratch.Set "date" (.Get "date") }}
+<div class="container members {{ .Get "class"}}">
+    <div class="py-5 justify-content-center text-center">
+        {{ partial "members.html" . }}
+    </div>
+</div>

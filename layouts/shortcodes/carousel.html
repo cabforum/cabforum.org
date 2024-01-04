@@ -1,0 +1,26 @@
+{{- with $.Page.Resources.Match (.Get 0) -}}
+<div id="carousel" class="carousel slide bg-light mb-4" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Photo 1"></button>
+      {{- range $index, $image := . -}}
+        <button type="button" data-bs-target="#carousel" data-bs-slide-to="{{ add $index 1 }}" aria-label="Photo {{ add $index 2 }}"></button>
+      {{- end -}}
+   </div>
+    <div class="carousel-inner">
+      {{- range $index, $image := . -}}
+      {{ $image := $image.Fit "1000x400" }}
+      <div class="carousel-item{{ if eq $index 0 }} active{{end}}">
+        <img src="{{ $image.RelPermalink }}" class="d-block mx-auto" alt="{{ .Title }}">
+      </div>
+      {{- end -}}
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+{{- end -}}
