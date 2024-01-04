@@ -1,0 +1,11 @@
+{{- $url := (.Get `url`) -}}
+{{- with resources.GetRemote $url -}}
+    {{- with .Err -}}
+        {{- warnf "%s - %s" . $url -}}
+    {{ else }}
+        {{ $content := (strings.ReplaceRE "^---[\\s\\S]*?---" "" .Content )}}
+        {{ $content | markdownify }}
+    {{- end -}}
+{{- else -}}
+    Unable to retrieve markdown from {{ $url }}.
+{{- end -}}
