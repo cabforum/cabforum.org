@@ -11,8 +11,6 @@
     {{ if (or .Description .Summary)}}<meta content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ end }}{{ end }}" name="description">{{ end }}
     {{ if .Keywords }}<meta content="{{ delimit .Keywords "," }}" name="keywords">{{ end }}
     {{ with $.Param "redirect" }}<meta http-equiv="refresh" content="0; url={{ . }}" />{{ end }}
-
-    <base href="{{ .Site.BaseURL }}">
     
     {{ partial "image.html" . }}
     {{ template "_internal/opengraph.html" . }}
@@ -22,7 +20,7 @@
     <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL}}/news/feed/" title="Subscribe to news from the CA/Browser Forum members" />
 
     <!-- Favicon -->
-    <link rel="icon" href="/favicon.svg">
+    <link rel="icon" href="{{ .Site.BaseURL }}/favicon.svg">
 	<!--<link rel="shortcut icon" href="/img/favicon.ico">{{ template "_internal/twitter_cards.html" . }}
 
     <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">-->
