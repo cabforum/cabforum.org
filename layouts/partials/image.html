@@ -45,13 +45,13 @@
     {{- $img := resources.Get "/images/cabforum-og.png"  -}}
     {{- $img = $img | images.Filter (
     images.Text .Title (dict 
-            "color" "#ffffff" 
+            "color" "#333333" 
             "size" $titleSize
             "linespacing" 8
             "x" 70 "y" 100
             "font" $robotoBlack ))              
     | images.Filter (images.Text (string ($summary | truncate $summaryTruncate)) (dict 
-            "color" "#ffffff" 
+            "color" "#333333" 
             "size" 30
             "linespacing" 10
             "x" 70 "y" $summaryY
