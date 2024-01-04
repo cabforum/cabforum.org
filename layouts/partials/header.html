@@ -12,6 +12,8 @@
     {{ if .Keywords }}<meta content="{{ delimit .Keywords "," }}" name="keywords">{{ end }}
     {{ with $.Param "redirect" }}<meta http-equiv="refresh" content="0; url={{ . }}" />{{ end }}
 
+    <base href="{{ .Site.BaseURL }}">
+    
     {{ partial "image.html" . }}
     {{ template "_internal/opengraph.html" . }}
 
