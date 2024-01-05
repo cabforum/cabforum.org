@@ -3,6 +3,9 @@ aliases:
 - /2019-05-16-2019-05-02-minutes-for-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2019-05-16 00:39:57
+tags:
+- Minutes
+- Forum
 title: 2019-05-02 Minutes for the CA/Browser Forum Teleconference
 type: post
 ---

@@ -3,6 +3,9 @@ aliases:
 - /2018-11-29-2018-11-29-minutes-for-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2018-11-29 17:41:09
+tags:
+- Minutes
+- Forum
 title: 2018-11-29 Minutes for CA/Browser Forum Teleconference
 type: post
 ---

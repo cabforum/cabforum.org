@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-04-13 20:22:26
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 40 – Terms of Use
 type: post

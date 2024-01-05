@@ -3,6 +3,9 @@ aliases:
 - /2019-02-07-2019-02-07-minutes-of-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2019-02-07 20:42:14
+tags:
+- Minutes
+- Forum
 title: 2019-02-07 Minutes of CA/Browser Forum Teleconference
 type: post
 ---

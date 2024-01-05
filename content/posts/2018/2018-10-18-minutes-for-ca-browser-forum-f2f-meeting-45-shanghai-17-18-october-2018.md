@@ -3,6 +3,9 @@ aliases:
 - /2018-10-18-minutes-for-ca-browser-forum-f2f-meeting-45-shanghai-17-18-october-2018/
 author: Jos Purvis
 date: 2018-10-18 15:42:05
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 45 Meeting in Shanghai, China, 17-18 October 2018
 type: post
 ---

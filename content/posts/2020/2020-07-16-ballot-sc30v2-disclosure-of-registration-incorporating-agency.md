@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2020-07-16 22:41:25
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC30v2: Disclosure of Registration / Incorporating Agency'
 type: post

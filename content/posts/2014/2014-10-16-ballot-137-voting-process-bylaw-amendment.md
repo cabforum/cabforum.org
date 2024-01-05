@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2014-10-16 23:53:18
 tags:
 - Forum
+- Ballot
 title: Ballot 137 – Voting Process Bylaw Amendment (Passed)
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-05-29 21:39:42
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 72 – Reorganize EV Documents
 type: post

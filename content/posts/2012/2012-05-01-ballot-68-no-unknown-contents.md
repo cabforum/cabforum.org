@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-05-01 00:14:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 68- No Unknown Contents
 type: post

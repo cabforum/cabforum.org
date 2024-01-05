@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2021-11-22 22:21:25
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC50: Remove the requirements of section 4.1.1'
 type: post

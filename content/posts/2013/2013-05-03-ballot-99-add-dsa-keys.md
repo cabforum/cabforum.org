@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-05-03 18:24:59
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 99 – Add DSA Keys
 type: post

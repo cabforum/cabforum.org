@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-04-17 20:42:30
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 196 – Define “Audit Period”
 type: post

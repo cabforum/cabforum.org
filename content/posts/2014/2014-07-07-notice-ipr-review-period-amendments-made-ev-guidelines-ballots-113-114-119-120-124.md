@@ -3,6 +3,8 @@ aliases:
 - /2014-07-07-notice-ipr-review-period-amendments-made-ev-guidelines-ballots-113-114-119-120-124/
 author: Ben Wilson
 date: 2014-07-07 20:11:14
+tags:
+- Ballot
 title: Notice of IPR Review Period for Amendments Made to the EV Guidelines by Ballots
   113, 114, 119, 120, and 124
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2011-02-21 21:04:16
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 56 – QGIS Contact Information
 type: post

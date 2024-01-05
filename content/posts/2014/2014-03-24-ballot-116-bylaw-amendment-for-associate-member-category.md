@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2014-03-24 16:37:20
 tags:
 - Forum
+- Ballot
 title: Ballot 116 – Bylaw Amendment for Associate Member Category(passed)
 type: post
 ---

@@ -4,7 +4,9 @@ aliases:
 author: Ben Wilson
 date: 2023-06-07 18:48:37
 tags:
+- Minutes
 - Forum
+- Face-to-Face
 title: Minutes of the F2F 59 Meeting in Redmond, Washington, 6-7 June 2023
 type: post
 ---

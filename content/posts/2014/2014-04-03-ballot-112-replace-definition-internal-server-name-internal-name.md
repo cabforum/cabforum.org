@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-04-03 23:29:22
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 112 – Replace Definition of “Internal Server Name” with “Internal Name”(passed)
 type: post

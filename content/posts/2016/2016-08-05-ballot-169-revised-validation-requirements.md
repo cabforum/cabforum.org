@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-08-05 21:47:02
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 169 – Revised Validation Requirements
 type: post

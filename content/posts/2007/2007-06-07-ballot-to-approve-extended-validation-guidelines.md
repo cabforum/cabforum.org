@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2007-06-07 00:08:15
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 1 – Version 1.0 of Extended Validation Guidelines Approved
 type: post

@@ -3,6 +3,8 @@ aliases:
 - /2012-11-23-cabrowser-forum-adopts-bylaws/
 author: Ben Wilson
 date: 2012-11-23 23:55:32
+tags:
+- Forum
 title: CA/Browser Forum adopts Bylaws
 type: post
 ---

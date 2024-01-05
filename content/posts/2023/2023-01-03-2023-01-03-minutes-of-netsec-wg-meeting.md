@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2023-01-03 16:37:27
 tags:
+- Minutes
 - Network Security
 title: 2023-01-03 Minutes of the Network Security Working Group
 type: post

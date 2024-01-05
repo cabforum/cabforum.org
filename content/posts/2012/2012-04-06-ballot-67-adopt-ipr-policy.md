@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2012-04-06 21:24:15
 tags:
 - Forum
+- Ballot
 title: Ballot 67 – Adopt IPR Policy
 type: post
 ---

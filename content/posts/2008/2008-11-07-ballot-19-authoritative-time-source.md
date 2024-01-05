@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-11-07 18:50:10
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 19 – Authoritative Time Source
 type: post

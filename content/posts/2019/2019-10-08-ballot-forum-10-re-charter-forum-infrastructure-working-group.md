@@ -5,6 +5,7 @@ author: Jos Purvis
 date: 2019-10-08 20:57:30
 tags:
 - Forum
+- Ballot
 title: 'Ballot FORUM-10: Re-Charter Forum Infrastructure Working Group'
 type: post
 ---

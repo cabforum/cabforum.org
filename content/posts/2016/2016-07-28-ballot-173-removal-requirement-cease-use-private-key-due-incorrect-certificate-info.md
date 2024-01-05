@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-07-28 18:03:50
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 173 – Removal of requirement to cease use of private key due to incorrect
   certificate info

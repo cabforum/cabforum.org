@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-07-24 23:03:45
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 126  – Operational Existence (passed)
 type: post

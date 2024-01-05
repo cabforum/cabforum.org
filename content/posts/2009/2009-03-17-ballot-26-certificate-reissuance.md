@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-03-17 19:04:17
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 26 – Certificate Reissuance
 type: post

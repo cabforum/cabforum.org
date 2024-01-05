@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-01-10 20:14:40
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 35 – Role Requirements
 type: post

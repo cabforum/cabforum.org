@@ -3,6 +3,9 @@ aliases:
 - /2017-10-04-2017-10-04-minutes-face-face-meeting-42-taipei/
 author: Ben Wilson
 date: 2017-10-04 20:04:27
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 42 Meeting in Taipei, 4-5 October 2017
 type: post
 ---

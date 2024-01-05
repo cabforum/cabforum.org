@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-03-20 02:26:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 194 – Effective Date of Ballot 193 Provisions
 type: post

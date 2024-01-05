@@ -3,6 +3,10 @@ aliases:
 - /2020-02-07-minutes-for-server-certificate-working-group-f2f-meeting-5-november-2019/
 author: Jos Purvis
 date: 2020-02-07 19:41:40
+tags:
+- Minutes
+- Face-to-Face
+- Server Certificates
 title: Minutes for Server Certificate Working Group F2F Meeting, 5 November 2019
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-01-13 23:53:39
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 113 –  Revision to QIIS in EV Guidelines(passes)
 type: post

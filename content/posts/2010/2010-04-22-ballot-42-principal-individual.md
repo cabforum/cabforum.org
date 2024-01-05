@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-04-22 20:28:04
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 42 – Principal Individual
 type: post

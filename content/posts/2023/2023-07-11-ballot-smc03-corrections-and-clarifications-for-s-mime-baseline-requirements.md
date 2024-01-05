@@ -4,6 +4,7 @@ aliases:
 author: Stephen Davidson
 date: 2023-07-11 02:02:31
 tags:
+- Ballot
 - S/MIME
 title: 'Ballot SMC03: Corrections and clarifications for “S/MIME Baseline Requirements”'
 type: post

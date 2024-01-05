@@ -3,6 +3,9 @@ aliases:
 - /2020-07-23-minutes-for-ca-browser-forum-f2f-meeting-50-virtual-10-11-june-2020/
 author: Jos Purvis
 date: 2020-07-23 15:43:00
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 50 Meeting, Virtual, 10-11 June 2020
 type: post
 ---

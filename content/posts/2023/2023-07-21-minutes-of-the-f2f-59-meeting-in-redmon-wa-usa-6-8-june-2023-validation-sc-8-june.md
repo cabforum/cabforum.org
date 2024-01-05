@@ -4,6 +4,8 @@ aliases:
 author: Iñigo Barreira
 date: 2023-07-21 12:20:00
 tags:
+- Minutes
+- Face-to-Face
 - Server Certificates
 title: Minutes of the F2F 59 Meeting in Redmond, WA, USA, 6-8 June 2023 – Validation
   SC (8 June)

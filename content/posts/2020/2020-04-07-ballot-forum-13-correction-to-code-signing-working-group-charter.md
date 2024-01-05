@@ -5,6 +5,7 @@ author: Jos Purvis
 date: 2020-04-07 02:16:24
 tags:
 - Forum
+- Ballot
 title: 'Ballot FORUM-13: Correction to Code-Signing Working Group Charter'
 type: post
 ---

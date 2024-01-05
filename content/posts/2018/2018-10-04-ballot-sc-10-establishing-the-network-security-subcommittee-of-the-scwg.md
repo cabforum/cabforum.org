@@ -4,6 +4,8 @@ aliases:
 author: Jos Purvis
 date: 2018-10-04 18:06:12
 tags:
+- Ballot
+- Network Security
 - Server Certificates
 title: 'Ballot SC-10: Establishing the Network Security Subcommittee of the SCWG'
 type: post

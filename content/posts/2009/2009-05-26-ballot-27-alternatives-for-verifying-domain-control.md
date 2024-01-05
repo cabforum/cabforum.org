@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-05-26 19:33:28
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 27 – Alternatives for Verifying Domain Control
 type: post

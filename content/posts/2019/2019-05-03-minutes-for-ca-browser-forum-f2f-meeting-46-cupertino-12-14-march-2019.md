@@ -3,6 +3,9 @@ aliases:
 - /2019-05-03-minutes-for-ca-browser-forum-f2f-meeting-46-cupertino-12-14-march-2019/
 author: Jos Purvis
 date: 2019-05-03 20:06:42
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 46 Meeting in Cupertino, California, 12-14 March 2019
 type: post
 ---

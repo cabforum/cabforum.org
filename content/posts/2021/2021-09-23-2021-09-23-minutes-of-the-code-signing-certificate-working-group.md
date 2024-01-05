@@ -3,6 +3,9 @@ aliases:
 - /2021-09-23-2021-09-23-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-09-23 16:00:00
+tags:
+- Code Signing
+- Minutes
 title: 2021-09-23 Minutes of the Code Signing Certificate Working Group
 type: post
 ---

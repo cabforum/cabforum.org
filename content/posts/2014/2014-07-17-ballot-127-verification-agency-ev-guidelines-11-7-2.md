@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-07-17 21:11:21
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 127 – Verification of Agency in EV Guidelines 11.7.2 (passes)
 type: post

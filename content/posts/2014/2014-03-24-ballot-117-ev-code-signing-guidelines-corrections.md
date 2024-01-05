@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2014-03-24 16:40:15
 tags:
 - Code Signing
+- Ballot
 title: Ballot 117 – EV Code Signing Guidelines Corrections(passed)
 type: post
 ---

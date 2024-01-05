@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2019-02-01 02:58:36
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC14: Updated Phone Validation Methods'
 type: post

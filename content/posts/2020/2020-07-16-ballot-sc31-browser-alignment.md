@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2020-07-16 18:23:06
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC31: Browser Alignment'
 type: post

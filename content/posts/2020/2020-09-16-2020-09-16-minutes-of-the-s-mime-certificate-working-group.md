@@ -3,6 +3,9 @@ aliases:
 - /2020-09-16-2020-09-16-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2020-09-16 00:51:57
+tags:
+- Minutes
+- S/MIME
 title: 2020-09-16 Minutes of the S/MIME Certificate Working Group
 type: post
 ---

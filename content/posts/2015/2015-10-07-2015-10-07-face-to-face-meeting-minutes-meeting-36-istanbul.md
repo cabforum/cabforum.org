@@ -3,6 +3,9 @@ aliases:
 - /2015-10-07-2015-10-07-face-to-face-meeting-minutes-meeting-36-istanbul/
 author: Ben Wilson
 date: 2015-10-07 16:58:46
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 36 Meeting in Istanbul, Turkey, 7-8 October 2015
 type: post
 ---

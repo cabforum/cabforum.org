@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-03-16 21:51:30
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 162 – Sunset of Exceptions
 type: post

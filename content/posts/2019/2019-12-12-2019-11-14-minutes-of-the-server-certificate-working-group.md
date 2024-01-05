@@ -3,6 +3,9 @@ aliases:
 - /2019-12-12-2019-11-14-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2019-12-12 15:15:27
+tags:
+- Minutes
+- Server Certificates
 title: 2019-11-14 Minutes of the Server Certificate Working Group
 type: post
 ---

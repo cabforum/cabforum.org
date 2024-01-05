@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2018-05-24 17:49:17
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 221 – Two-Factor Authentication and Password Improvements
 type: post

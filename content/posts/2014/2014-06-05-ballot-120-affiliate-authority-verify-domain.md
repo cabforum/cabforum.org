@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-06-05 18:03:05
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 120 – Affiliate Authority to Verify Domain (passed)
 type: post

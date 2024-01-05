@@ -3,6 +3,9 @@ aliases:
 - /2020-10-21-minutes-of-the-ca-browser-forum-f2f-meeting-51-virtual-21-22-october-2020/
 author: Jos Purvis
 date: 2020-10-21 03:38:00
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 51 Meeting, Virtual, 21-22 October 2020
 type: post
 ---

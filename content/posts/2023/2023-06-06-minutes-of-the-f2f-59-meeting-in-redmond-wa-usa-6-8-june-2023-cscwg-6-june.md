@@ -5,6 +5,9 @@ author: Corey Bonnell
 date: 2023-06-06 19:00:40
 tags:
 - Code Signing
+- Minutes
+- Face-to-Face
+- Server Certificates
 title: Minutes of the F2F 59 Meeting in Redmond, WA, USA, 6-8 June 2023 – CSCWG (6
   June)
 type: post

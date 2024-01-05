@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-06-16 18:51:20
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 170 – Amend Section 5.1 of Baseline Requirements
 type: post

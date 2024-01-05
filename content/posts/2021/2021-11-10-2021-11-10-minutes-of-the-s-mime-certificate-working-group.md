@@ -4,6 +4,7 @@ aliases:
 author: Stephen Davidson
 date: 2021-11-10 22:50:00
 tags:
+- Minutes
 - S/MIME
 title: 2021-11-10 Minutes of the S/MIME Certificate Working Group
 type: post

@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2023-10-30 20:00:47
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-20: Restore Version Reference to EV Guidelines'
 type: post
 ---

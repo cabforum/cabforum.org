@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-12-03 16:53:45
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 156 – Amend Sections 1 and 2 of Baseline Requirements
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-05-23 16:31:37
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 191 – Clarify Place of Business Information
 type: post

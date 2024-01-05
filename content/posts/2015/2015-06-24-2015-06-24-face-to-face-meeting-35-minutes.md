@@ -3,6 +3,9 @@ aliases:
 - /2015-06-24-2015-06-24-face-to-face-meeting-35-minutes/
 author: Ben Wilson
 date: 2015-06-24 17:51:40
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 35 Meeting in Zurich, Switzerland, 23-25 June 2015
 type: post
 ---

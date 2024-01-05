@@ -3,6 +3,9 @@ aliases:
 - /2014-02-19-2014-02-19-minutes-of-mountain-view-f2f/
 author: Ben Wilson
 date: 2014-02-19 18:14:10
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 31 Meeting in Mountain View, California, 18-20 February
   2014
 type: post

@@ -3,6 +3,9 @@ aliases:
 - /2018-03-08-final-minutes-for-ca-browser-forum-f2f-meeting-herndon-va-7-8-march-2018/
 author: Jos Purvis
 date: 2018-03-08 19:43:30
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 43 Meeting in Herndon, Virginia, 7-8 March 2018
 type: post
 ---

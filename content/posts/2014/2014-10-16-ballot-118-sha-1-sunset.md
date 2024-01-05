@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-10-16 23:43:32
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 118 – SHA-1 Sunset (passed)
 type: post

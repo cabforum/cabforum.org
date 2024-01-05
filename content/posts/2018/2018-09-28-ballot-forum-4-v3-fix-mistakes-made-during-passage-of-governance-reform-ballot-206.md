@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2018-09-28 04:04:38
 tags:
 - Forum
+- Ballot
 title: 'Ballot FORUM-4 v3: Fix mistakes made during passage of Governance Reform Ballot
   206'
 type: post

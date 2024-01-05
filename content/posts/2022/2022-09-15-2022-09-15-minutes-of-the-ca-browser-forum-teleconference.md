@@ -3,6 +3,9 @@ aliases:
 - /2022-09-15-2022-09-15-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-09-15 17:08:00
+tags:
+- Minutes
+- Forum
 title: 2022-09-15 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---

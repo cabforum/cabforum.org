@@ -3,6 +3,9 @@ aliases:
 - /2019-07-22-2019-06-27-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2019-07-22 15:33:50
+tags:
+- Minutes
+- Server Certificates
 title: 2019-06-27 Minutes of the Server Certificate Working Group
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2020-09-21 19:03:00
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC36: Election of Server Certificate Working Group Chair'
 type: post

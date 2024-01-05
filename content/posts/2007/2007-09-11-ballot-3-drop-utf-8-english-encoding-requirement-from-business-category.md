@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2007-09-11 17:52:25
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 3 – Drop UTF-8 English Encoding Requirement From Business Category
 type: post

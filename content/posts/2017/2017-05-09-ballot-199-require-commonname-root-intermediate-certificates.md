@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-05-09 21:02:05
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 199 – Require commonName in Root and Intermediate Certificates
 type: post

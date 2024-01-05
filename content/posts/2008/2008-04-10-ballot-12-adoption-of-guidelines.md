@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-04-10 18:20:20
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 12 – Adoption of Guidelines v1.1
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-05-08 04:52:30
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 198 – .Onion Revisions
 type: post

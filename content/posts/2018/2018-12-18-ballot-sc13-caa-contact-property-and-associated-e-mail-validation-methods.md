@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2018-12-18 16:46:00
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC13: CAA Contact Property and Associated E-mail Validation Methods'
 type: post

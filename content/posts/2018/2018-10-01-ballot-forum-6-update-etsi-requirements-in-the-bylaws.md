@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2018-10-01 03:13:10
 tags:
 - Forum
+- Ballot
 title: Ballot Forum-6 – Update ETSI Requirements in the Bylaws
 type: post
 ---

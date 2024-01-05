@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2011-04-08 21:08:06
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 57 – Verifying Agency Through Confirmation of Employment Using QIIS
   or QGIS

@@ -5,6 +5,8 @@ author: Ben Wilson
 date: 2020-06-15 02:59:00
 tags:
 - Forum
+- Ballot
+- S/MIME
 title: Ballot Forum-14 – Creation of S/MIME Certificates Working Group v2
 type: post
 ---

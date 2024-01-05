@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-06-24 20:36:40
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 46 – Audit Report Availability Timing
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-04-22 20:30:30
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 43 – Business Categories
 type: post

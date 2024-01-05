@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2012-05-08 21:36:44
 tags:
 - Code Signing
+- Ballot
 title: Ballot 70 – EV Code Signing Identifier
 type: post
 ---

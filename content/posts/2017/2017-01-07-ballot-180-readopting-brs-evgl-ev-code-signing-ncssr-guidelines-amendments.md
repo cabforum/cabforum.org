@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2017-01-07 18:51:05
 tags:
 - Code Signing
+- Ballot
 - Server Certificates
 title: Ballot 180 – Readopting the BRs, EVGL, EV Code Signing, and NCSSR Guidelines
   with Amendments

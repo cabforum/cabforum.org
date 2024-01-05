@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-05-30 01:42:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 100 – Extend Deadline – OCSP Good Response
 type: post

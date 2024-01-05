@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-09-07 20:53:43
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 51 – Notaries
 type: post

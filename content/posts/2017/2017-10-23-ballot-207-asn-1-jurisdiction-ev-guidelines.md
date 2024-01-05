@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-10-23 16:37:28
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 207 – ASN.1 Jurisdiction in EV Guidelines
 type: post

@@ -3,6 +3,9 @@ aliases:
 - /2014-08-25-cabrowser-forum-releases-code-signing-baseline-requirements-public-comment-draft/
 author: Ben Wilson
 date: 2014-08-25 20:38:54
+tags:
+- Code Signing
+- Forum
 title: CA/Browser Forum Releases Code Signing Baseline Requirements Public Comment
   Draft
 type: post

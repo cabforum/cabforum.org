@@ -4,7 +4,9 @@ aliases:
 author: Ben Wilson
 date: 2023-03-02 16:22:30
 tags:
+- Minutes
 - Forum
+- Face-to-Face
 title: Minutes of the F2F 58 Meeting in Ottawa, Canada, 28 February – 1 March, 2023
 type: post
 ---

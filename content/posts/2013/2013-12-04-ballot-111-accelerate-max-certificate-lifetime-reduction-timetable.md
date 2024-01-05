@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-12-04 19:58:04
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 111 – Accelerate Max Certificate Lifetime Reduction Timetable
 type: post

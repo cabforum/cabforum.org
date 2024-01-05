@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-07-11 16:06:37
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 204 – Forbid DTPs from doing Domain/IP Ownership
 type: post

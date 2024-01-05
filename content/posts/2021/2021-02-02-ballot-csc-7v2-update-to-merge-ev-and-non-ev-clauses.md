@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2021-02-02 16:18:00
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-7v2: Update to merge EV and Non-EV clauses'
 type: post
 ---

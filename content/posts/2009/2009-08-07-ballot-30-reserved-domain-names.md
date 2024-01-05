@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-08-07 19:48:57
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 30 – Reserved Domain Names
 type: post

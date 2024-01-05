@@ -3,6 +3,8 @@ aliases:
 - /2012-04-15-cabrowser-forum-publishes-submissions/
 author: Ben Wilson
 date: 2012-04-15 23:59:00
+tags:
+- Forum
 title: CA/Browser Forum Publishes Submissions
 type: post
 ---

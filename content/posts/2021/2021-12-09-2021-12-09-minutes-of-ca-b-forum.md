@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2021-12-09 17:18:00
 tags:
+- Minutes
 - Forum
 title: 2021-12-09 Minutes of CA/B Forum Teleconference
 type: post

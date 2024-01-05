@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-06-25 18:43:48
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 147 – Attorney Accountant Letter Changes
 type: post

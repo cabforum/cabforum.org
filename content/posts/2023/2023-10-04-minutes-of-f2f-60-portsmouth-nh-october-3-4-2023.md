@@ -4,7 +4,9 @@ aliases:
 author: Ben Wilson
 date: 2023-10-04 22:22:48
 tags:
+- Minutes
 - Forum
+- Face-to-Face
 title: Minutes of the F2F 60 Meeting in Portsmouth, NH, October 3-4, 2023
 type: post
 ---

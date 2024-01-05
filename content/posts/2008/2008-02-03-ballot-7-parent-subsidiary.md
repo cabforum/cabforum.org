@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-02-03 18:05:04
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 7 – Parent Subsidiary
 type: post

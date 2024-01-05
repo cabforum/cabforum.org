@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-06-05 18:14:08
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 124 – Business Entity Clarification (passed)
 type: post

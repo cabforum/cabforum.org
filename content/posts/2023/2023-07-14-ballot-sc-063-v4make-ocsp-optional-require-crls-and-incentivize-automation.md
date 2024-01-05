@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2023-07-14 15:33:20
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC-063 v4: Make OCSP Optional, Require CRLs, and Incentivize Automation'
 type: post

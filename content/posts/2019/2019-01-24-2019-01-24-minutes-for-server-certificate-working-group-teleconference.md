@@ -3,6 +3,9 @@ aliases:
 - /2019-01-24-2019-01-24-minutes-for-server-certificate-working-group-teleconference/
 author: Jos Purvis
 date: 2019-01-24 15:18:42
+tags:
+- Minutes
+- Server Certificates
 title: 2019-01-24 Minutes for Server Certificate Working Group Teleconference
 type: post
 ---

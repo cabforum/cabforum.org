@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2023-01-19 18:14:13
 tags:
+- Minutes
 - Server Certificates
 title: 2023-01-19 Minutes of the Server Certificate Working Group
 type: post

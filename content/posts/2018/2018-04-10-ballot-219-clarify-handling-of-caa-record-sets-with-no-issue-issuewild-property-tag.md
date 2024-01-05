@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2018-04-10 17:23:21
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 219 – Clarify handling of CAA Record Sets with no “issue”/”issuewild”
   property tag

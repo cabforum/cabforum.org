@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2022-03-02 13:00:00
 tags:
 - Code Signing
+- Ballot
 title: Ballot CSC-6 – Update to Subscriber Private Key Protection Requirements
 type: post
 ---

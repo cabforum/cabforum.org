@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-04-23 20:34:17
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 45 – Verification of Authority
 type: post

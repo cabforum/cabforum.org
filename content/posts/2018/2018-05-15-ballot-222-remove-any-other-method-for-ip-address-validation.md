@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2018-05-15 02:40:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 222 – Remove “Any other method” for IP Address validation
 type: post

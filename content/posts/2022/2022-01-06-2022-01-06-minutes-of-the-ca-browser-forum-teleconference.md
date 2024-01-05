@@ -4,6 +4,7 @@ aliases:
 author: Corey Bonnell
 date: 2022-01-06 11:00:00
 tags:
+- Minutes
 - Forum
 title: 2022-01-06 Minutes of the CA/Browser Forum Teleconference
 type: post

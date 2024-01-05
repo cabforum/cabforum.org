@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-07-29 19:52:32
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 32 – Revocation for Well-Known Private Key
 type: post

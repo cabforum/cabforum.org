@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2023-06-15 09:06:35
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC-64: Temporary Moratorium on New Certificate Consumer Memberships'
 type: post

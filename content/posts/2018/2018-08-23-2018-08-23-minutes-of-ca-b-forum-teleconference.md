@@ -3,6 +3,9 @@ aliases:
 - /2018-08-23-2018-08-23-minutes-of-ca-b-forum-teleconference/
 author: Ben Wilson
 date: 2018-08-23 15:18:29
+tags:
+- Minutes
+- Forum
 title: 2018-08-23 Minutes of CA/B Forum Teleconference
 type: post
 ---

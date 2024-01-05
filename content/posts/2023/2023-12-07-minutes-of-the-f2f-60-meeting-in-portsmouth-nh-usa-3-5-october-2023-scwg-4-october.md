@@ -4,6 +4,8 @@ aliases:
 author: Iñigo Barreira
 date: 2023-12-07 17:39:46
 tags:
+- Minutes
+- Face-to-Face
 - Server Certificates
 title: Minutes of the F2F 60 Meeting in Portsmouth, NH, USA, 3-5 October 2023 – SCWG
   (4 October)

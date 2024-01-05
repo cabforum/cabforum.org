@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-04-10 18:18:47
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 11 – Prior Equivalent Authority
 type: post

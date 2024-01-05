@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-02-20 18:11:16
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 96 – Wildcard Certificates and New gTLDs
 type: post

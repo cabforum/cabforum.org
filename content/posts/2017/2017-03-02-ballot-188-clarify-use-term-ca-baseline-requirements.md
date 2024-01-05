@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-03-02 08:02:18
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 188 – Clarify use of term “CA” in Baseline Requirements
 type: post

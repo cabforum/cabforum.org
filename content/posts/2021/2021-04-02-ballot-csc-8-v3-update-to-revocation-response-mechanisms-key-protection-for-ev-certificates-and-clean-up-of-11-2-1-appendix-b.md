@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2021-04-02 19:59:00
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-8 v3: Update to Revocation response mechanisms. key protection
   for EV certificates, and clean-up of 11.2.1 & Appendix B'
 type: post

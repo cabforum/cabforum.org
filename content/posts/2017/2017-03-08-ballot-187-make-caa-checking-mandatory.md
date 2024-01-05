@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-03-08 13:44:23
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 187 – Make CAA Checking Mandatory
 type: post

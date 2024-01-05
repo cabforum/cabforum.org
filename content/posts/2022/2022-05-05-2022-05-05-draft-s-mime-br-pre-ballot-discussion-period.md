@@ -4,6 +4,7 @@ aliases:
 author: Stephen Davidson
 date: 2022-05-05 15:18:41
 tags:
+- Ballot
 - S/MIME
 title: 2022-05-05 Pre-Ballot Discussion Period for S/MIME Baseline Requirements
 type: post

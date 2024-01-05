@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2018-11-12 18:40:21
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC12: Sunset of Underscores in dNSNames'
 type: post

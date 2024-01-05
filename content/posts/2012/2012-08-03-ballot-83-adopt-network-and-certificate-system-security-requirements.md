@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-08-03 23:15:16
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 83 – Adopt Network and Certificate System Security Requirements
 type: post

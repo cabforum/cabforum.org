@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-10-16 23:50:20
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 134 – Application of RFC 5280 to Pre-certificates
 type: post

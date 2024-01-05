@@ -3,6 +3,9 @@ aliases:
 - /2021-08-05-2021-07-22-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2021-08-05 17:59:06
+tags:
+- Minutes
+- Forum
 title: 2021-07-22 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-09-23 00:06:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 52 – Contract Signer Self-Asserted Authority
 type: post

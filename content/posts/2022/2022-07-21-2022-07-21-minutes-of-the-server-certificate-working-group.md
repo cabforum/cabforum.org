@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2022-07-21 17:39:00
 tags:
+- Minutes
 - Server Certificates
 title: 2022-07-21 Minutes of the Server Certificate Working Group
 type: post

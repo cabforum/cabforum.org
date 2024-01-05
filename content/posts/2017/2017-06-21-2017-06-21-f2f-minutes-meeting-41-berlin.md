@@ -3,6 +3,9 @@ aliases:
 - /2017-06-21-2017-06-21-f2f-minutes-meeting-41-berlin/
 author: Ben Wilson
 date: 2017-06-21 16:58:05
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 41 Meeting in Berlin, Germany, 20-22 June 2017
 type: post
 ---

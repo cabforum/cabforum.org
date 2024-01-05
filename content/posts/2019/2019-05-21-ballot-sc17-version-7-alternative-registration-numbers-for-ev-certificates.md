@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2019-05-21 15:53:12
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC17 version 7: Alternative registration numbers for EV certificates'
 type: post

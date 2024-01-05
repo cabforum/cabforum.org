@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-09-07 20:51:06
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 50 – 64-Character “O” Field
 type: post

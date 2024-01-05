@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-02-18 21:07:50
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 144 – Validation rules for .onion names
 type: post

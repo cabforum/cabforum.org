@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2007-12-15 16:16:36
 tags:
 - Forum
+- Ballot
 title: Ballot 4 – Browser Voting Rules
 type: post
 ---

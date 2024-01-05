@@ -4,6 +4,7 @@ aliases:
 author: Stephen Davidson
 date: 2023-12-08 09:10:16
 tags:
+- Ballot
 - S/MIME
 title: 'Ballot SMC04: Addition of ETSI TS 119 411-6 to audit standards'
 type: post

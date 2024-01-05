@@ -5,6 +5,8 @@ author: Jos Purvis
 date: 2020-09-23 19:03:04
 tags:
 - Code Signing
+- Ballot
+- Server Certificates
 title: 'Ballot CSCWG-3: Election of Code Signing Certificate Working Group Chair'
 type: post
 ---

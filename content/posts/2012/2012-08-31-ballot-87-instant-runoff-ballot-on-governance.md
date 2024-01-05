@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2012-08-31 04:44:48
 tags:
 - Forum
+- Ballot
 title: Ballot 87 – Instant Runoff Ballot on Governance
 type: post
 ---

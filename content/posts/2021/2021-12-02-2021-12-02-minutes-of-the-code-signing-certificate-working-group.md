@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2021-12-02 17:00:00
 tags:
 - Code Signing
+- Minutes
 title: 2021-12-02 Minutes of the Code Signing Certificate Working Group
 type: post
 ---

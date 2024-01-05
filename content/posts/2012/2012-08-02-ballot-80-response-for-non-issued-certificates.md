@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-08-02 21:52:42
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 80 – Response for Non-Issued Certificates
 type: post

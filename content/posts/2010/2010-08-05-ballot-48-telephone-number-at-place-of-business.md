@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-08-05 20:43:05
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 48 – Telephone Number at Place of Business
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2011-11-22 21:17:19
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 62 – Adopt Baseline Requirements Draft 50
 type: post

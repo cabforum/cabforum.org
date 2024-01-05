@@ -3,6 +3,9 @@ aliases:
 - /2015-02-05-cab-forum-releases-code-signing-baseline-requirements-final-draft-public-exposure/
 author: Ben Wilson
 date: 2015-02-05 17:17:45
+tags:
+- Code Signing
+- Forum
 title: CA/B Forum Releases Code Signing Baseline Requirements – Final Draft for Public
   Exposure
 type: post

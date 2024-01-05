@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-06-17 18:29:39
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 14 – Allowed EKUs
 type: post

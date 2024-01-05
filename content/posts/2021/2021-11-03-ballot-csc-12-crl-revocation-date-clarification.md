@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2021-11-03 12:00:00
 tags:
 - Code Signing
+- Ballot
 title: Ballot CSC-12 – CRL Revocation Date Clarification
 type: post
 ---

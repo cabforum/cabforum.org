@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2018-08-27 19:16:17
 tags:
 - Forum
+- Ballot
 title: Ballot Forum-1 Establish Forum Infrastructure Working Group
 type: post
 ---

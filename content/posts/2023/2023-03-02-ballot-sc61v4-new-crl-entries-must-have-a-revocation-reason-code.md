@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2023-03-02 22:02:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC61v4 – New CRL Entries must have a Revocation Reason Code
 type: post

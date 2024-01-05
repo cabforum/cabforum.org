@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-10-15 01:58:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 152 – SHA-1 Deprecation
 type: post

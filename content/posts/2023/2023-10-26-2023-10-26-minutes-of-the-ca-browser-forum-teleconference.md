@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2023-10-26 16:50:19
 tags:
+- Minutes
 - Forum
 title: 2023-10-26 Minutes of the CA/Browser Forum Teleconference
 type: post

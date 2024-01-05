@@ -3,6 +3,8 @@ aliases:
 - /2018-09-14-notice-of-review-period-ballot-sc6/
 author: Ben Wilson
 date: 2018-09-14 19:31:01
+tags:
+- Ballot
 title: NOTICE OF REVIEW PERIOD – BALLOT SC6
 type: post
 ---

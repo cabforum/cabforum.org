@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-01-15 02:17:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 184 – RFC822 Names and otherNames
 type: post

@@ -3,6 +3,9 @@ aliases:
 - /2019-08-16-minutes-for-ca-browser-forum-f2f-meeting-47-thessaloniki-12-13-june-2019/
 author: Jos Purvis
 date: 2019-08-16 19:14:50
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 47 Meeting in Thessaloniki, Greece, 12-13 June 2019
 type: post
 ---

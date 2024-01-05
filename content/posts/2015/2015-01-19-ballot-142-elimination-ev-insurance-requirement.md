@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-01-19 19:58:34
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 142 – Elimination of EV Insurance Requirement
 type: post

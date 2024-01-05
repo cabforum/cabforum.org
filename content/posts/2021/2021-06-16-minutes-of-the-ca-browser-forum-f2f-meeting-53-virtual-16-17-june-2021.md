@@ -3,6 +3,9 @@ aliases:
 - /2021-06-16-minutes-of-the-ca-browser-forum-f2f-meeting-53-virtual-16-17-june-2021/
 author: Jos Purvis
 date: 2021-06-16 15:30:42
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 53 Meeting, Virtual, 16-17 June 2021
 type: post
 ---

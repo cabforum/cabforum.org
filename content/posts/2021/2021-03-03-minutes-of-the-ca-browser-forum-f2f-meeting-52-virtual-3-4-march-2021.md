@@ -3,6 +3,9 @@ aliases:
 - /2021-03-03-minutes-of-the-ca-browser-forum-f2f-meeting-52-virtual-3-4-march-2021/
 author: Jos Purvis
 date: 2021-03-03 16:42:00
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 52 Meeting, Virtual, 3-4 March 2021
 type: post
 ---

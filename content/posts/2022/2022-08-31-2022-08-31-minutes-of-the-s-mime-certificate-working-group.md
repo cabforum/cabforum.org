@@ -4,6 +4,7 @@ aliases:
 author: Stephen Davidson
 date: 2022-08-31 18:05:00
 tags:
+- Minutes
 - S/MIME
 title: 2022-08-31 Minutes of the S/MIME Certificate Working Group 
 type: post

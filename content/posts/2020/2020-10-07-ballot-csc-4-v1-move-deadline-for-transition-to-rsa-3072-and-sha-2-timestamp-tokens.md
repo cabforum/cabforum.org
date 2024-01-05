@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2020-10-07 20:56:19
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-4 v1: Move deadline for transition to RSA-3072 and SHA-2 timestamp
   tokens'
 type: post

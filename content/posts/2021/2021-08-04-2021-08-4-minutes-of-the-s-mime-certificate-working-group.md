@@ -3,6 +3,9 @@ aliases:
 - /2021-08-04-2021-08-4-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2021-08-04 20:59:00
+tags:
+- Minutes
+- S/MIME
 title: 2021-08-04 Minutes of the S/MIME Certificate Working Group
 type: post
 ---

@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2012-11-23 18:21:17
 tags:
 - Forum
+- Ballot
 title: Ballot 94 – Adoption of CA/Browser Forum Bylaws
 type: post
 ---

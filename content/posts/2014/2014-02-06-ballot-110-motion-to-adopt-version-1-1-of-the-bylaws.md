@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2014-02-06 21:34:19
 tags:
 - Forum
+- Ballot
 title: Ballot 110 – Motion to Adopt Version 1.1 of the Bylaws(failed)
 type: post
 ---

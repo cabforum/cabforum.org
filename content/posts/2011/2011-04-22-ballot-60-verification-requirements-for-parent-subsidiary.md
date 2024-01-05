@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2011-04-22 21:13:02
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 60 – Verification Requirements for Parent Subsidiary
 type: post

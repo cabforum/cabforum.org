@@ -3,6 +3,9 @@ aliases:
 - /2021-10-07-2021-10-07-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-10-07 17:00:00
+tags:
+- Code Signing
+- Minutes
 title: 2021-10-07 Minutes of the Code Signing Certificate Working Group
 type: post
 ---

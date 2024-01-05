@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2021-02-09 03:49:00
 tags:
+- Ballot
 - Network Security
 - Server Certificates
 title: Ballot SC40 – Security Requirements for Air-Gapped CA Systems

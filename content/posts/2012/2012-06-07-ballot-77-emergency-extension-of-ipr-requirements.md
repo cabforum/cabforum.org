@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2012-06-07 21:47:55
 tags:
 - Forum
+- Ballot
 title: Ballot 77 – Emergency Extension of IPR Requirements
 type: post
 ---

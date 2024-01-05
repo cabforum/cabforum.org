@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-05-08 21:38:12
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 71 – Auditor Qualification Requirements
 type: post

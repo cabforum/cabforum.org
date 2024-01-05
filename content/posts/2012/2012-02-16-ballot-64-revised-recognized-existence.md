@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-02-16 21:18:42
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 64 Revised – Recognized Existence
 type: post

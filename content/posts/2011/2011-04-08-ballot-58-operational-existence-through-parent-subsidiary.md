@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2011-04-08 21:10:43
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 58 – Operational Existence Through Parent Subsidiary
 type: post

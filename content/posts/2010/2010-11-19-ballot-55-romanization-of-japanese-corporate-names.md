@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-11-19 21:02:25
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 55 – Romanization of Japanese Corporate Names
 type: post

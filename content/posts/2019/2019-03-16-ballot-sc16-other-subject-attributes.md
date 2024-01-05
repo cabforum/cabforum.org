@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2019-03-16 00:07:47
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC16: Other Subject Attributes'
 type: post

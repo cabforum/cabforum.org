@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-12-29 18:54:37
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 22 – RSA 1024 Retirement
 type: post

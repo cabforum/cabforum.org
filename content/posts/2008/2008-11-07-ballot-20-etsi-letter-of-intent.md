@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2008-11-07 18:51:39
 tags:
 - Forum
+- Ballot
 title: Ballot 20 – ETSI Letter of Intent
 type: post
 ---

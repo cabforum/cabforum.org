@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2023-03-17 12:44:51
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC62v2-Certificate profiles update
 type: post

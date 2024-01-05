@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2022-09-27 21:00:00
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-17:  Subscriber Private Key Extension'
 type: post
 ---

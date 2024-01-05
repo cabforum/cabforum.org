@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2023-01-01 17:43:00
 tags:
+- Ballot
 - S/MIME
 title: Ballot SMC01 – Adopt S/MIME Baseline Requirements v1.0.0
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-07-13 00:17:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 69 – Individual Validation Policy
 type: post

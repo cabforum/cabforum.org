@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2020-12-16 03:45:00
 tags:
+- Ballot
 - Network Security
 - Server Certificates
 title: 'Ballot SC38: Alignment of Record Archival'

@@ -3,6 +3,9 @@ aliases:
 - /2019-03-07-2019-02-21-minutes-for-ca-browser-forum/
 author: Jos Purvis
 date: 2019-03-07 15:32:05
+tags:
+- Minutes
+- Forum
 title: 2019-02-21 Minutes for CA/Browser Forum
 type: post
 ---

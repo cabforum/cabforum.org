@@ -3,6 +3,8 @@ aliases:
 - /2014-03-25-cabrowser-forum-revises-bylaws-for-associate-members/
 author: Ben Wilson
 date: 2014-03-25 21:08:54
+tags:
+- Forum
 title: CA/Browser Forum Revises Bylaws for Associate Members
 type: post
 ---

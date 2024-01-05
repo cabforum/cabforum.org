@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-03-26 20:18:33
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 36 – Public WHOIS Information
 type: post

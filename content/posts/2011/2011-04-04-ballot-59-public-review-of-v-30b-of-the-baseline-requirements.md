@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2011-04-04 00:08:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 59 – Public Review of v. 30b of the Baseline Requirements
 type: post

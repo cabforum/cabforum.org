@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-05-31 18:33:17
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 102 – BR 9.2.3 domainComponent
 type: post

@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2023-05-24 13:54:22
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-18: Update Revocation Requirements'
 type: post
 ---

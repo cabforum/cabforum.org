@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-03-17 14:24:09
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 193 – 825-day Certificate Lifetimes
 type: post

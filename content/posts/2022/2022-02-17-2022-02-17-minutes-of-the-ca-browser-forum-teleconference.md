@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2022-02-17 19:42:00
 tags:
+- Minutes
 - Forum
 title: 2022-02-17 Minutes of the CA/Browser Forum Teleconference
 type: post

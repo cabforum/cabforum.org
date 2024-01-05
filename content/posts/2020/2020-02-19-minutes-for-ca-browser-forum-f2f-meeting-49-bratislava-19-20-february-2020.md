@@ -3,6 +3,9 @@ aliases:
 - /2020-02-19-minutes-for-ca-browser-forum-f2f-meeting-49-bratislava-19-20-february-2020/
 author: Jos Purvis
 date: 2020-02-19 15:54:51
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 49 Meeting in Bratislava, Slovakia, 19-20 February 2020
 type: post
 ---

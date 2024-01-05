@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-02-13 18:58:23
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 24 – Acceptable Audits in EV Processing Guidelines
 type: post

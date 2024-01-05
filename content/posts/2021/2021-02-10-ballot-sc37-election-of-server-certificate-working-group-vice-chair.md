@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2021-02-10 17:23:34
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC37: Election of Server Certificate Working Group Vice Chair'
 type: post

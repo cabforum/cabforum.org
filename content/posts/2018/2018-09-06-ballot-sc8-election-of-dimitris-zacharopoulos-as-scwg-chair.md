@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2018-09-06 03:31:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC8 – Election of Dimitris Zacharopoulos as SCWG Chair
 type: post

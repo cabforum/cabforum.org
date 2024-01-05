@@ -3,6 +3,9 @@ aliases:
 - /2018-12-13-2018-12-13-minutes-for-server-certificate-working-group-teleconference/
 author: Ben Wilson
 date: 2018-12-13 17:47:25
+tags:
+- Minutes
+- Server Certificates
 title: 2018-12-13 Minutes for Server Certificate Working Group Teleconference
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2022-10-22 18:24:00
 tags:
+- Ballot
 - S/MIME
 title: SMC-002 Confirmation Ballot for Vice Chair
 type: post

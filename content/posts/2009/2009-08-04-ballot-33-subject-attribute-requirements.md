@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-08-04 20:00:37
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 33- Subject Attribute Requirements
 type: post

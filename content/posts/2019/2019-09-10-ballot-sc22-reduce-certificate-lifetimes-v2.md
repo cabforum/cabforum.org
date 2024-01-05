@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2019-09-10 20:26:45
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC22 – Reduce Certificate Lifetimes (v2)
 type: post

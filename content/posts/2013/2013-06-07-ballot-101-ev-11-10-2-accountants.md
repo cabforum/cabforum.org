@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-06-07 18:28:46
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 101 – EV 11.10.2 Accountants
 type: post

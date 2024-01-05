@@ -3,6 +3,8 @@ aliases:
 - /2015-08-11-forum-releases-final-code-signing-baseline-requirements-for-vote/
 author: Ben Wilson
 date: 2015-08-11 13:26:41
+tags:
+- Code Signing
 title: Forum Releases Final Code Signing Baseline Requirements for Vote
 type: post
 ---

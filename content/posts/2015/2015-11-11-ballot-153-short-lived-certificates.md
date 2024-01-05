@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-11-11 23:51:27
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 153 – Short-Lived Certificates
 type: post

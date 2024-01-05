@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2018-03-30 14:09:07
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 220 – Minor Cleanups (Spring 2018)
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-08-09 18:43:40
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 107 – Removing Version Numbers to WebTrust and ETSI Standards From CABF
   Guidelines

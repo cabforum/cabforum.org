@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-06-15 21:49:20
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 78 – Updates to Domain and IP Validation, High Risk Requests, and Data
   Source in the Baseline Requirements

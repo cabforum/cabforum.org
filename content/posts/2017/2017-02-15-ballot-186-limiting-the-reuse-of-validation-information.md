@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-02-15 02:23:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 186 – Limiting the Reuse of Validation Information
 type: post

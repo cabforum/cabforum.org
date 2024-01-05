@@ -4,6 +4,8 @@ aliases:
 author: Iñigo Barreira
 date: 2023-03-02 11:50:29
 tags:
+- Minutes
+- Face-to-Face
 - Server Certificates
 title: Minutes of the F2F 58 Meeting in Ottawa, Canada, 28 Feb-2 March 2023 – SCWG
   (2 March)

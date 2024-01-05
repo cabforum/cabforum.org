@@ -4,6 +4,8 @@ aliases:
 author: Ben Wilson
 date: 2012-06-12 21:46:28
 tags:
+- Ballot
+- Network Security
 - Server Certificates
 title: Ballot 76 – Public Review of Network Security Controls
 type: post

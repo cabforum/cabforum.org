@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2018-05-16 10:25:36
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 223 – Update BR Section 8.4 for CA    audit criteria
 type: post

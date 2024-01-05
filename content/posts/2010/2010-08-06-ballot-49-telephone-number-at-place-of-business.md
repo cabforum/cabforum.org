@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-08-06 20:46:53
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 49 – New Certificate for Existing Subscriber
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-01-16 18:55:47
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 23 – EV Processing Guidelines
 type: post

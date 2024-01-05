@@ -3,6 +3,9 @@ aliases:
 - /2018-08-09-2018-08-09-server-certificate-working-group-minutes/
 author: Ben Wilson
 date: 2018-08-09 17:49:37
+tags:
+- Minutes
+- Server Certificates
 title: 2018-08-09 Server Certificate Working Group Minutes
 type: post
 ---

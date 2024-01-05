@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-08-29 15:04:58
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 174 – Reform of Requirements Relating to Conflict with Local Laws
 type: post

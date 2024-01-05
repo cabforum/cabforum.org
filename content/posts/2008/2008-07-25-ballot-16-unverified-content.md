@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-07-25 18:46:14
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 16- Unverified Content
 type: post

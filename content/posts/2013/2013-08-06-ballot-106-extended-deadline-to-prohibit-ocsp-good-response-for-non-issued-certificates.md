@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-08-06 18:56:29
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 106 – Extended Deadline to Prohibit OCSP “Good” Response for Non-Issued
   Certificates

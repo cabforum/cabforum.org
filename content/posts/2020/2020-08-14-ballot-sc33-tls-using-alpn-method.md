@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2020-08-14 22:25:18
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC33: TLS Using ALPN Method'
 type: post

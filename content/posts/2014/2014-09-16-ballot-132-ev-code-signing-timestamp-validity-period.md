@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2014-09-16 15:28:25
 tags:
 - Code Signing
+- Ballot
 title: Ballot 132 – EV Code Signing Timestamp Validity Period (passed)
 type: post
 ---

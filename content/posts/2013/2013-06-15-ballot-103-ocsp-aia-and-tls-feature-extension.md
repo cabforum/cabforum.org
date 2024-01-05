@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-06-15 01:44:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 103 – OCSP AIA and TLS Feature Extension
 type: post

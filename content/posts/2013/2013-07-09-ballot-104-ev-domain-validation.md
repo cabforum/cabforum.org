@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-07-09 18:35:50
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 104 – EV Domain Validation
 type: post

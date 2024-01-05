@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-04-17 15:16:04
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 195 – CAA Fixup
 type: post

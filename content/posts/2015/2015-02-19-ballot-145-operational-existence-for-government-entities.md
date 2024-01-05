@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-02-19 21:55:27
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 145 – Operational Existence for Government Entities
 type: post

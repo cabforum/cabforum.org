@@ -3,6 +3,9 @@ aliases:
 - /2019-10-31-2019-10-17-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2019-10-31 16:02:18
+tags:
+- Minutes
+- Forum
 title: 2019-10-17 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---

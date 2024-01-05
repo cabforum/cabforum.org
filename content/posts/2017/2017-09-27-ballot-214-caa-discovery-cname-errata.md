@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-09-27 16:05:58
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 214 – CAA Discovery CNAME Errata
 type: post

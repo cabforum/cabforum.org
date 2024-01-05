@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-09-12 15:06:24
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 131 – Update to Verified Method of Communication (passed)
 type: post

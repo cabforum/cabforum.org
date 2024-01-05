@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2022-08-03 16:04:00
 tags:
 - Forum
+- Ballot
 title: Ballot FORUM-18 – Allow Re-election of CWG Chairs and Vice Chairs
 type: post
 ---

@@ -3,6 +3,9 @@ aliases:
 - /2022-07-21-2022-07-21-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-07-21 16:54:00
+tags:
+- Minutes
+- Forum
 title: 2022-07-21 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---

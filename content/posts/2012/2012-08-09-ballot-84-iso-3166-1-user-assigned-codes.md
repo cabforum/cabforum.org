@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-08-09 01:31:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 84 – ISO 3166-1 User-assigned codes
 type: post

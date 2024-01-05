@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-07-25 18:31:23
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 15 – Certificate Renewal
 type: post

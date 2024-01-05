@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-09-28 16:12:29
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 151 – Addition of Optional OIDs for Indicating Level of Validation
 type: post

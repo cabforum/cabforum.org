@@ -3,6 +3,9 @@ aliases:
 - /2019-11-06-minutes-for-ca-browser-forum-f2f-meeting-48-guangzhou-5-7-november-2019/
 author: Jos Purvis
 date: 2019-11-06 15:52:20
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 48 Meeting in Guangzhou, China, 6-7 November 2019
 type: post
 ---

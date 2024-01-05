@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2018-09-14 19:24:30
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC6 – Revocation Timeline Extension
 type: post

@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2020-11-15 04:06:00
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-6: Reserved'
 type: post
 ---

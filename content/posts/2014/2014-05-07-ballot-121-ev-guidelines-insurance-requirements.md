@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-05-07 00:20:45
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 121 – EV Guidelines Insurance Requirements(failed)
 type: post

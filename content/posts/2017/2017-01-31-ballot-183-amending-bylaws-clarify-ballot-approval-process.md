@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2017-01-31 21:29:38
 tags:
 - Forum
+- Ballot
 title: Ballot 183 – Amending the Bylaws to Clarify the Ballot Approval Process
 type: post
 ---

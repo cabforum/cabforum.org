@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-10-26 22:49:30
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 208 – dnQualifiers
 type: post

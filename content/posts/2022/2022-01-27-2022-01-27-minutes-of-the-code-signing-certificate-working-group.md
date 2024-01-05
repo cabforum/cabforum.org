@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2022-01-27 14:00:00
 tags:
 - Code Signing
+- Minutes
 title: 2022-01-27 Minutes of the Code Signing Certificate Working Group
 type: post
 ---

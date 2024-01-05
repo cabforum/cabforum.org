@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2019-02-09 00:02:24
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC7: Update IP Address Validation Methods'
 type: post

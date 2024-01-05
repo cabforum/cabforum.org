@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-02-03 18:03:06
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 6 – Non Commercial Entity Type
 type: post

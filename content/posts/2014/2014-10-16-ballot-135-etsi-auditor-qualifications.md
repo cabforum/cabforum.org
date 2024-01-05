@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-10-16 23:51:26
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 135 – ETSI Auditor Qualifications (passed)
 type: post

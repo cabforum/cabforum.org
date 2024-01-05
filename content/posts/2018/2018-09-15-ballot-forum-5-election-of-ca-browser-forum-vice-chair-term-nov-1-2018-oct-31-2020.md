@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2018-09-15 02:48:00
 tags:
 - Forum
+- Ballot
 title: Ballot Forum-5 – Election of CA/Browser Forum Vice Chair – Term Nov. 1, 2018
   – Oct. 31, 2020
 type: post

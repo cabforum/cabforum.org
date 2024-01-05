@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2022-10-25 20:46:00
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC56: 2022 Cleanup'
 type: post

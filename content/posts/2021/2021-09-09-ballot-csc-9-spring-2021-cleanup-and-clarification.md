@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2021-09-09 21:09:00
 tags:
 - Code Signing
+- Ballot
 title: Ballot CSC-9 – Spring 2021 Cleanup and Clarification
 type: post
 ---

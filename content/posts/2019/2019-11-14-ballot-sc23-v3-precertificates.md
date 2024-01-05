@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2019-11-14 16:40:22
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC23 V3 – Precertificates
 type: post

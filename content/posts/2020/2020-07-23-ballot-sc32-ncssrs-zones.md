@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2020-07-23 03:39:00
 tags:
+- Ballot
 - Network Security
 - Server Certificates
 title: Ballot SC32 – NCSSRs Zones

@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2020-08-10 16:00:27
 tags:
+- Minutes
 - S/MIME
 title: 2020-07-22 Minutes of the S/MIME Certificate Working Group
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-01-17 21:52:22
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 89 – Publish Recommendations for the Processing of EV SSL Certificates
   v.2(passes)

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-02-09 21:21:15
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 65 – QIIS Definition Update
 type: post

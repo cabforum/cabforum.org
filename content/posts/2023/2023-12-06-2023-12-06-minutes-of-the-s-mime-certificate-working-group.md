@@ -3,6 +3,9 @@ aliases:
 - /2023-12-06-2023-12-06-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-12-06 19:45:52
+tags:
+- Minutes
+- S/MIME
 title: 2023-12-06 Minutes of the S/MIME Certificate Working Group
 type: post
 ---

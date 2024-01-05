@@ -3,6 +3,8 @@ aliases:
 - /2013-09-02-cab-forum-welcomes-new-members/
 author: Ben Wilson
 date: 2013-09-02 23:51:35
+tags:
+- Forum
 title: CA/B Forum Welcomes New Members
 type: post
 ---

@@ -4,6 +4,8 @@ aliases:
 author: Stephen Davidson
 date: 2023-10-05 20:31:43
 tags:
+- Minutes
+- Face-to-Face
 - S/MIME
 title: 2023-10-05 (F2F#60) Minutes of the S/MIME Certificate Working Group
 type: post

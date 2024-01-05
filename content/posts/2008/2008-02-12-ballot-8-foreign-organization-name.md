@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-02-12 18:10:50
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 8 – Foreign Organization Name
 type: post

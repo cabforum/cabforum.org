@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-01-28 22:03:42
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 114 – Improvements to the EV Definitions(passed)
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-04-16 17:37:17
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 146 – Convert Baseline Requirements to RFC 3647 Framework
 type: post

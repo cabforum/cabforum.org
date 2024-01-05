@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-02-21 18:13:06
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 97 – Prevention of Unknown Certificate Contents
 type: post

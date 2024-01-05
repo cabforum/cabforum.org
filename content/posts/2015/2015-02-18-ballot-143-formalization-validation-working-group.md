@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2015-02-18 12:02:06
 tags:
 - Forum
+- Ballot
 - Server Certificates
 title: Ballot 143 – Formalization of Validation Working Group
 type: post

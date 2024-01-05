@@ -3,6 +3,9 @@ aliases:
 - /2018-06-06-minutes-for-ca-browser-forum-f2f-meeting-44-london-6-7-june-2018/
 author: Ben Wilson
 date: 2018-06-06 04:10:11
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 44 Meeting in London, England, 6-7 June 2018
 type: post
 ---

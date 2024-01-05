@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2018-09-06 19:20:51
 tags:
 - Forum
+- Ballot
 title: 'Ballot Forum-3:   Election of CA/Browser Forum Chair – Term Nov. 1, 2018 –
   Oct. 31, 2020'
 type: post

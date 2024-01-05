@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-05-05 18:25:17
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 13 – QGIS for Place of Business
 type: post

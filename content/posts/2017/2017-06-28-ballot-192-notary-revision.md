@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-06-28 17:41:46
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 192 – Notary Revision
 type: post

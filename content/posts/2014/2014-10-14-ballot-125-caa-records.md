@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-10-14 23:34:09
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 125 – CAA Records (passed)
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2019-02-01 03:04:17
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC15: Remove Validation Method Number 9'
 type: post

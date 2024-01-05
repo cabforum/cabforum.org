@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2022-12-08 12:42:17
 tags:
+- Minutes
 - Server Certificates
 title: 2022-12-08 Minutes of the Server Certificate Working Group
 type: post

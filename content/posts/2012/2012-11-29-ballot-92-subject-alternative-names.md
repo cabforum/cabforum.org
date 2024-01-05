@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-11-29 01:35:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 92 – Subject Alternative Names
 type: post

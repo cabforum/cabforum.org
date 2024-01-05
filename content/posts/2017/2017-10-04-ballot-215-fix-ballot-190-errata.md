@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-10-04 15:10:09
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 215 – Fix Ballot 190 Errata
 type: post

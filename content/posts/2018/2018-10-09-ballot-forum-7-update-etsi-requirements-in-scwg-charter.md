@@ -5,6 +5,8 @@ author: Jos Purvis
 date: 2018-10-09 18:49:04
 tags:
 - Forum
+- Ballot
+- Server Certificates
 title: 'Ballot Forum-7: Update ETSI requirements in SCWG Charter'
 type: post
 ---

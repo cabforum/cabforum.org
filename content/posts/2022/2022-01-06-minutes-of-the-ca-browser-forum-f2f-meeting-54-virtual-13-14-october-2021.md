@@ -4,7 +4,9 @@ aliases:
 author: Jos Purvis
 date: 2022-01-06 20:48:00
 tags:
+- Minutes
 - Forum
+- Face-to-Face
 title: Minutes of the F2F 54 Meeting, Virtual, 13-14 October 2021
 type: post
 ---

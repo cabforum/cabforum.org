@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2018-02-05 18:35:26
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 218 – Remove validation methods 1 and 5
 type: post

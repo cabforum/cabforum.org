@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-07-26 07:56:36
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 202 – Underscore and Wildcard Characters
 type: post

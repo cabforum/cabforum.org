@@ -5,6 +5,7 @@ author: Corey Bonnell
 date: 2022-05-26 21:56:17
 tags:
 - Code Signing
+- Ballot
 title: Ballot CSC-14 – Convert Code Signing Baseline Requirements to RFC 3647 Framework
 type: post
 ---

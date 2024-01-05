@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-08-31 15:20:47
 tags:
+- Ballot
 - Network Security
 - Server Certificates
 title: Ballot 210 – Misc. Changes to the NCSSR

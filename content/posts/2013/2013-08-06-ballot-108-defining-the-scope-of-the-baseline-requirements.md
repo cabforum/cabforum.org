@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-08-06 18:58:34
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 108 – Defining the Scope of the Baseline Requirements
 type: post

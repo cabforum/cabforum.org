@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2016-07-05 16:12:46
 tags:
 - Code Signing
+- Ballot
 title: Ballot 172 – Removal of permanentIdentifier from EV Code Signing Guidelines
 type: post
 ---

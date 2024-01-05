@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2018-10-03 12:00:25
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC-9: Establish the Validation Subcommittee of the SCWG'
 type: post

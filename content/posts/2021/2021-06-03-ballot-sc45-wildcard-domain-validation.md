@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2021-06-03 21:43:09
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC45: Wildcard Domain Validation'
 type: post

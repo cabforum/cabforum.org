@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-05-10 22:37:45
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 168 – Baseline Requirement Corrections – revised
 type: post

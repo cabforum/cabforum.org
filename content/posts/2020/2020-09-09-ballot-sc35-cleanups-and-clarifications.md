@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2020-09-09 23:23:47
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC35: Cleanups and Clarifications'
 type: post

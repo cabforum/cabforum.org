@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2022-03-01 19:53:00
 tags:
+- Ballot
 - Network Security
 - Server Certificates
 title: 'Ballot SC51: Reduce and Clarify Audit Log and Records Archival Retention Requirements'

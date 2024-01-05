@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-09-07 20:38:35
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 175 – Addition of given name and surname
 type: post

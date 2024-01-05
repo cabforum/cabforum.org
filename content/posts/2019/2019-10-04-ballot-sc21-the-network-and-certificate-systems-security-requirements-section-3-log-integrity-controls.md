@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2019-10-04 03:49:15
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC21 – the Network and Certificate Systems Security Requirements section
   3 (Log Integrity Controls)

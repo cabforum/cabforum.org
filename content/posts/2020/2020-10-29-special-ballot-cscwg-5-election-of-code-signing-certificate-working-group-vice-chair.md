@@ -5,6 +5,8 @@ author: Ben Wilson
 date: 2020-10-29 04:04:00
 tags:
 - Code Signing
+- Ballot
+- Server Certificates
 title: 'Special Ballot CSCWG-5: Election of Code Signing Certificate Working Group
   Vice Chair'
 type: post

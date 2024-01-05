@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2020-03-23 03:36:00
 tags:
+- Ballot
 - Network Security
 - Server Certificates
 title: 'Ballot SC20: System Configuration Management'

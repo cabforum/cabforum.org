@@ -3,6 +3,9 @@ aliases:
 - /2020-08-20-2020-08-05-minutes-of-the-s-mime-certificate-working-group/
 author: Jos Purvis
 date: 2020-08-20 16:02:00
+tags:
+- Minutes
+- S/MIME
 title: 2020-08-05 Minutes of the S/MIME Certificate Working Group
 type: post
 ---

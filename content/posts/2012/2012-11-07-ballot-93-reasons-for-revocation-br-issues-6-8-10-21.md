@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-11-07 18:08:46
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 93 – Reasons for Revocation (BR issues 6, 8, 10, 21)
 type: post

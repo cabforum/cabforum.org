@@ -3,6 +3,9 @@ aliases:
 - /2020-08-10-2020-07-23-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2020-08-10 17:00:29
+tags:
+- Minutes
+- Server Certificates
 title: 2020-07-23 Minutes of the Server Certificate Working Group
 type: post
 ---

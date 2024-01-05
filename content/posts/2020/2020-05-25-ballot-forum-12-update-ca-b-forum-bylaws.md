@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2020-05-25 02:57:00
 tags:
 - Forum
+- Ballot
 title: 'Ballot Forum-12: Update CA/B Forum Bylaws'
 type: post
 ---

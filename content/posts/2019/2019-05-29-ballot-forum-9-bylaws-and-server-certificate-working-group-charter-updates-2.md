@@ -5,6 +5,8 @@ author: Jos Purvis
 date: 2019-05-29 20:53:16
 tags:
 - Forum
+- Ballot
+- Server Certificates
 title: 'Ballot FORUM-9: Bylaws and Server Certificate Working Group Charter Updates'
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-09-16 18:47:49
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 18 – Pre-Approved Requests
 type: post

@@ -3,6 +3,8 @@ aliases:
 - /2013-04-22-announcing-the-formation-of-the-code-signing-working-group-call-for-participants/
 author: Ben Wilson
 date: 2013-04-22 23:52:23
+tags:
+- Code Signing
 title: Announcing the formation of the Code Signing Working Group – Call for Participants
 type: post
 ---

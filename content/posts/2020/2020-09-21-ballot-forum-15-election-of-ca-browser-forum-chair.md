@@ -5,6 +5,7 @@ author: Jos Purvis
 date: 2020-09-21 18:57:00
 tags:
 - Forum
+- Ballot
 title: 'Ballot FORUM-15: Election of CA/Browser Forum Chair'
 type: post
 ---

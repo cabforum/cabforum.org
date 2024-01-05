@@ -4,6 +4,7 @@ aliases:
 author: Stephen Davidson
 date: 2021-06-23 20:51:00
 tags:
+- Minutes
 - S/MIME
 title: Minutes of SMCWG
 type: post

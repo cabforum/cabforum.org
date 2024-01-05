@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2012-07-25 21:51:03
 tags:
 - Forum
+- Ballot
 title: Ballot 79 – Mailing List Usage
 type: post
 ---

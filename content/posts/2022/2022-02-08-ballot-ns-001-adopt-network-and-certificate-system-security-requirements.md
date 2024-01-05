@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2022-02-08 22:16:24
 tags:
+- Ballot
 - Network Security
 title: 'Ballot NS-001: Adopt Network and Certificate System Security Requirements'
 type: post

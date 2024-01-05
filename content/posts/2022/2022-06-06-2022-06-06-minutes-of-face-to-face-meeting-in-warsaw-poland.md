@@ -3,6 +3,9 @@ aliases:
 - /2022-06-06-2022-06-06-minutes-of-face-to-face-meeting-in-warsaw-poland/
 author: Ben Wilson
 date: 2022-06-06 22:49:55
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 56 Meeting in Warsaw, Poland, 6-8 June 2022
 type: post
 ---

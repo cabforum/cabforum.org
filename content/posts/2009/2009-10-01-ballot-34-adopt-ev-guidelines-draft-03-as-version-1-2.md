@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-10-01 20:03:33
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 34 – Adopt EV Guidelines draft 03 as Version 1.2
 type: post

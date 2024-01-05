@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2018-07-27 00:56:34
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC2 – Validating Certificates via CAA CONTACT
 type: post

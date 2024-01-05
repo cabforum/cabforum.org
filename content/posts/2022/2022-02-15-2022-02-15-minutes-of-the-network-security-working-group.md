@@ -4,6 +4,7 @@ aliases:
 author: Clint Wilson
 date: 2022-02-15 12:00:00
 tags:
+- Minutes
 - Network Security
 title: 2022-02-15 Minutes of the Network Security Working Group
 type: post

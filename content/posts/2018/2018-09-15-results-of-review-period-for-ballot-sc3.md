@@ -3,6 +3,8 @@ aliases:
 - /2018-09-15-results-of-review-period-for-ballot-sc3/
 author: Ben Wilson
 date: 2018-09-15 19:35:37
+tags:
+- Ballot
 title: Results of Review Period for Ballot SC3
 type: post
 ---

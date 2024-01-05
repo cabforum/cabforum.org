@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-12-04 18:52:58
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 21 – Phone Number at Place of Business
 type: post

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2010-11-19 21:01:03
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 54 – EV 1-3 Adoption
 type: post

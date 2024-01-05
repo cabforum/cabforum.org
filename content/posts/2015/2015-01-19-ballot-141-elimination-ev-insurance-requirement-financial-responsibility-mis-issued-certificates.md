@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-01-19 19:54:28
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 141 – Elimination of EV Insurance Requirement; Financial Responsibility
   for Mis-Issued Certificates

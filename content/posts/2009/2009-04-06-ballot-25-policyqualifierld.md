@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-04-06 19:00:03
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 25 – PolicyQualifierld
 type: post

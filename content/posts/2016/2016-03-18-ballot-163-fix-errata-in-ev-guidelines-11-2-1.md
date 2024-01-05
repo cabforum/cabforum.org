@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-03-18 18:40:37
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 163 – Fix Errata in EV Guidelines 11.2.1
 type: post

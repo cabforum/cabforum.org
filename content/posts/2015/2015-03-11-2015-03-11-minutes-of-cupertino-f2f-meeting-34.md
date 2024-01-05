@@ -3,6 +3,9 @@ aliases:
 - /2015-03-11-2015-03-11-minutes-of-cupertino-f2f-meeting-34/
 author: Ben Wilson
 date: 2015-03-11 17:27:45
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 34 Meeting in Cupertino, California, 10-12 March 2015
 type: post
 ---

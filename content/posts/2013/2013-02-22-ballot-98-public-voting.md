@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2013-02-22 18:14:35
 tags:
 - Forum
+- Ballot
 title: Ballot 98 – Public Voting
 type: post
 ---

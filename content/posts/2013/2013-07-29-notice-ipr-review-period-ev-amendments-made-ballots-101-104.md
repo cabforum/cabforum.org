@@ -3,6 +3,8 @@ aliases:
 - /2013-07-29-notice-ipr-review-period-ev-amendments-made-ballots-101-104/
 author: Ben Wilson
 date: 2013-07-29 18:27:52
+tags:
+- Ballot
 title: Notice of IPR Review Period for EV Amendments Made by Ballots 101 and 104
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-10-16 23:48:31
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 123 – Reuse of Information (passed)
 type: post

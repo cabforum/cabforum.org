@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-05-08 20:59:09
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 122 – Verified Method of Communication (failed)
 type: post

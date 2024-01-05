@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2023-02-01 10:29:51
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC60: Membership of ZT Browser'
 type: post

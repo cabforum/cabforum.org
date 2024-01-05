@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-02-24 08:06:18
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 185 – Limiting the Lifetime of Certificates
 type: post

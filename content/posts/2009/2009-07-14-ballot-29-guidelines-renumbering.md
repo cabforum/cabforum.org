@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2009-07-14 19:38:18
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 29 – Guidelines Renumbering
 type: post

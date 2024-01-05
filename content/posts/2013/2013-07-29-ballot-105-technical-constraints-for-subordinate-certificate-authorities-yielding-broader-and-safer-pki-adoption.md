@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2013-07-29 18:38:28
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 105 – Technical Constraints for Subordinate Certificate Authorities
   Yielding Broader and Safer PKI Adoption.

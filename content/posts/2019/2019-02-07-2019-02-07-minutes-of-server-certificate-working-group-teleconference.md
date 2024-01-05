@@ -3,6 +3,9 @@ aliases:
 - /2019-02-07-2019-02-07-minutes-of-server-certificate-working-group-teleconference/
 author: Ben Wilson
 date: 2019-02-07 20:45:38
+tags:
+- Minutes
+- Server Certificates
 title: 2019-02-07 Minutes of Server Certificate Working Group Teleconference
 type: post
 ---

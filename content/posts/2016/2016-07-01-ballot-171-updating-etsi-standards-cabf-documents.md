@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2016-07-01 22:35:01
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 171 – Updating the ETSI standards in the CABF documents
 type: post

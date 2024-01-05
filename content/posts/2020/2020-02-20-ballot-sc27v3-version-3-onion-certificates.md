@@ -4,6 +4,7 @@ aliases:
 author: Wayne Thayer
 date: 2020-02-20 09:29:06
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC27v3: Version 3 Onion Certificates'
 type: post

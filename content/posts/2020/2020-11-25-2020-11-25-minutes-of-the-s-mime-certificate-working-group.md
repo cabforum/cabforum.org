@@ -3,6 +3,9 @@ aliases:
 - /2020-11-25-2020-11-25-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2020-11-25 13:53:00
+tags:
+- Minutes
+- S/MIME
 title: 2020-11-25 Minutes of the S/MIME Certificate Working Group
 type: post
 ---

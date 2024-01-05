@@ -4,6 +4,7 @@ aliases:
 author: Jos Purvis
 date: 2021-02-26 20:24:01
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC41: Reformatting the BRs, EVGs, and NCSSRs'
 type: post

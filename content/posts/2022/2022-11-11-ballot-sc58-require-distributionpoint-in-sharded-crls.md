@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2022-11-11 17:03:04
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC58 – Require distributionPoint in sharded CRLs
 type: post

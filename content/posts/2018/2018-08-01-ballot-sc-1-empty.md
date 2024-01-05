@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2018-08-01 03:20:00
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC-1: [Empty]'
 type: post

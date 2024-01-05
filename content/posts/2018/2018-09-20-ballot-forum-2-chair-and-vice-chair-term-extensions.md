@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2018-09-20 19:11:30
 tags:
 - Forum
+- Ballot
 title: Ballot Forum-2 – Chair and Vice-Chair Term Extensions
 type: post
 ---

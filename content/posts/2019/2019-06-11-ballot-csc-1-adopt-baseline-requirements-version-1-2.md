@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2019-06-11 03:56:00
 tags:
 - Code Signing
+- Ballot
 title: 'Ballot CSC-1: Adopt Baseline Requirements version 1.2'
 type: post
 ---

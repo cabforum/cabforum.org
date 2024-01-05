@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2020-11-01 03:13:00
 tags:
 - Forum
+- Ballot
 title: Ballot Forum 16 – Election of CA/Browser Forum Vice Chair
 type: post
 ---

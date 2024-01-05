@@ -3,6 +3,8 @@ aliases:
 - /2013-09-02-hello-worldcabrowser-forum/
 author: Ben Wilson
 date: 2013-09-02 18:02:11
+tags:
+- Forum
 title: Welcome to the CA/Browser Forum
 type: post
 ---

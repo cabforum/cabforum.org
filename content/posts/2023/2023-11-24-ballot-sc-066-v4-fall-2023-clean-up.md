@@ -4,6 +4,7 @@ aliases:
 author: Iñigo Barreira
 date: 2023-11-24 12:50:07
 tags:
+- Ballot
 - Server Certificates
 title: 'Ballot SC-066 v4: Fall 2023 Clean up'
 type: post

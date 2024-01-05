@@ -5,6 +5,8 @@ author: Jos Purvis
 date: 2020-02-12 18:53:10
 tags:
 - Forum
+- Ballot
+- S/MIME
 title: 'Ballot FORUM-11: Creation of S/MIME Certificates Working Group'
 type: post
 ---

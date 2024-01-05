@@ -5,6 +5,7 @@ author: Ben Wilson
 date: 2016-02-04 17:10:11
 tags:
 - Forum
+- Ballot
 title: Ballot 157 – Adopt version 1.2 of the Intellectual Property Rights Policy
 type: post
 ---

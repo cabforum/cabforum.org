@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2012-06-08 21:44:07
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 75 – NameConstraints Criticality Flag
 type: post

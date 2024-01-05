@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-09-19 17:18:21
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 190 – Revised Validation Requirements
 type: post

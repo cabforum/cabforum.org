@@ -4,7 +4,9 @@ aliases:
 author: Jos Purvis
 date: 2019-03-09 20:43:39
 tags:
+- Code Signing
 - Forum
+- Ballot
 title: 'Ballot FORUM-8: Establishment of a Code Signing Working Group'
 type: post
 ---

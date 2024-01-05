@@ -5,6 +5,8 @@ author: Corey Bonnell
 date: 2023-10-05 21:00:43
 tags:
 - Code Signing
+- Minutes
+- Face-to-Face
 title: 2023-10-05 Minutes of the F2F Code Signing Certificate Working Group
 type: post
 ---

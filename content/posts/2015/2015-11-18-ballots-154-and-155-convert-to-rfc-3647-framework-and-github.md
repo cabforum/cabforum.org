@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2015-11-18 23:11:03
 tags:
+- Ballot
 - Server Certificates
 title: Ballots 154 and 155 – Convert to RFC 3647 Framework and GitHub
 type: post

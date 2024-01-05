@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2008-02-12 18:16:53
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 10 – Non-Latin Names
 type: post

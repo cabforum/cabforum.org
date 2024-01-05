@@ -3,6 +3,9 @@ aliases:
 - /2022-08-18-ballot-csc-15-summer-2022-cleanup/
 author: Corey Bonnell
 date: 2022-08-18 18:00:00
+tags:
+- Code Signing
+- Ballot
 title: Ballot CSC-15 – Summer 2022 Cleanup
 type: post
 ---

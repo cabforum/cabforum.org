@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2021-04-08 03:53:00
 tags:
+- Ballot
 - Server Certificates
 title: Ballot SC43 – Clarify Acceptable Status Codes
 type: post

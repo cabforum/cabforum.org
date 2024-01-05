@@ -3,6 +3,9 @@ aliases:
 - /2022-10-24-2022-10-24-minutes-of-face-to-face-meeting-in-berlin-germany/
 author: Ben Wilson
 date: 2022-10-24 04:07:28
+tags:
+- Minutes
+- Face-to-Face
 title: Minutes of the F2F 57 Meeting in Berlin, Germany, 24-26 October 2022
 type: post
 ---

@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2017-01-07 19:01:19
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 182 – Readopting BR 3.2.2.4 (Part 2)
 type: post

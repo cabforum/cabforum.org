@@ -4,7 +4,9 @@ aliases:
 author: Ben Wilson
 date: 2022-02-22 22:05:00
 tags:
+- Minutes
 - Forum
+- Face-to-Face
 title: Minutes of the F2F 55 Meeting in Salt Lake City, Utah, 22-24 February 2022
 type: post
 ---

@@ -5,6 +5,8 @@ author: Jos Purvis
 date: 2020-07-21 18:14:00
 tags:
 - Code Signing
+- Ballot
+- Server Certificates
 title: 'Ballot CSCWG-2: Combine Baseline and EV Code Signing Documents'
 type: post
 ---

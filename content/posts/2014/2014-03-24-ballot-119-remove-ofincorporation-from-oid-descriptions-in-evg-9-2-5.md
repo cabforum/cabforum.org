@@ -4,6 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-03-24 16:42:59
 tags:
+- Ballot
 - Server Certificates
 title: Ballot 119 – Remove “OfIncorporation” from OID descriptions in EVG 9.2.5(passed)
 type: post
