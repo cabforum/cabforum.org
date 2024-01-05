@@ -2,9 +2,9 @@
 {{- with resources.GetRemote $url -}}
     {{- with .Err -}}
         {{- warnf "%s - %s" . $url -}}
-    {{ else }}
-        {{- warnf "%s - %s" $url .Content -}}
-        {{- with . | transform.Unmarshal -}}
+        <div class="border-bottom pb-2 mb-4">Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.</div>
+    {{- else -}}
+        {{- with .Content | transform.Unmarshal -}}
         <div class="border-bottom pb-2 mb-4">
             <strong>{{ .title }}</strong>
             <strong><a href="https://github.com/cabforum/code-signing/blob/{{ .tag_name }}/{{ $.filename }}" target="_blank">{{ .name }}</a></strong><br />
@@ -12,7 +12,5 @@
             <p>{{ .body }}</p>
         </div>
         {{- end -}}
-    {{- end -}}
-{{- else -}}
-    <div class="border-bottom pb-2 mb-4">Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.</div>
+    {{- end -}}   
 {{- end -}}
