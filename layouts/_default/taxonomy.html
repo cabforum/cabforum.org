@@ -2,11 +2,11 @@
 <section class="py-4 text-center container">
     <div class="row py-lg-4">
         <div class="col-lg-7 col-lg-8 mx-auto">
-            <h1 class="fw-light">{{ $.Site.Params.shortName }} blog</h1>
+            <h1 class="fw-light">{{ .Site.Params.name }} posts</h1>
             {{ if eq .Kind "term" }}
-            <p class="lead text-muted">Posts by <a href="../{{.Data.Plurar }}">{{.Data.Singular }}</a> <strong>{{.Data.Term }}</strong></p>
+            <p class="lead text-muted">Posts by <a href="../{{ .Data.Plurar }}">{{ .Data.Singular }}</a> <strong>{{ .Data.Term }}</strong></p>
             {{ else }}
-            <p class="lead text-muted">Posts by <strong>{{.Data.Singular }}</strong>, back to <a href="/blog/">blog</a></p>
+            <p class="lead text-muted">Posts by <strong>{{ .Data.Singular }}</strong>, back to <a href="../posts/">all posts</a></p>
             {{ end }}
         </div>
     </div>
@@ -16,7 +16,7 @@
     <div class="container">
         <ul>
             {{ range .Data.Terms.ByCount }}
-                    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }} <span class="mx-2 badge rounded-pill bg-secondary">{{ .Count }}</span></a></li>
+                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }} <span class="mx-2 badge rounded-pill bg-secondary">{{ .Count }}</span></a></li>
             {{ end }}
         </ul>
 

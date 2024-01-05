@@ -1,22 +1,45 @@
 {{ define "main" }}
-<section class="py-4 text-center container">
-    <div class="row py-lg-4">
-        <div class="col-lg-7 col-lg-8 mx-auto">
-            <h1 class="fw-light">{{ $.Site.Params.shortName }} posts</h1>
-            <p class="lead text-muted">Show posts by <a href="/authors/">Author</a>, <a href="/tags/">Tag</a> or <a href="/series/">Series</a></p>
-        </div>
-    </div>
-</section>
+<div class="row p-0 mx-0 my-2">
 
-<div class="album py-5">
-    <div class="container">
-        {{ range .Paginator.Pages }}
-        {{ partial "pagelisting.html" . }}
-        {{ end }}
-
-        <div class="pagination justify-content-center mt-5">
-        {{ template "_internal/pagination.html" . }}
+    <div class="col-12 col-lg-9">
+        <div class="border-bottom pb-1 mb-2 fw-light">
+            <small>
+                {{ partial "breadcrumbs.html" . }}
+            </small>
         </div>
+
+        <div class="bg-white shadow-sm border-bottom border-primary border-4">
+            <div id="content" class="p-4 border-top border-start border-end" data-pagefind-body>
+                <div class="pt-3">
+
+                    <section class="pb-5 text-center">
+                        <h1 class="fw-light">{{ .Site.Params.name }} posts</h1>
+                        <p class="lead text-muted">Filter posts by <a href="/authors/">Author</a>, <a href="/tags/">Tag</a> or <a href="/series/">Series</a></p>
+                    </section>
+
+                    {{ range .Paginator.Pages }}
+                        {{ partial "pagelisting.html" . }}
+                    {{ end }}
+                
+                    <div class="pagination justify-content-center my-5">
+                    {{ template "_internal/pagination.html" . }}
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-2"></div>
     </div>
+    
+    <div class="col">
+        <div class="mb-4 d-none d-lg-block">{{- partial "search.html" . -}}</div>
+        <div class="mb-4 mt-2">
+            <!-- show tags -->
+        </div>
+        
+    </div>
+    
 </div>
+
 {{ end }}

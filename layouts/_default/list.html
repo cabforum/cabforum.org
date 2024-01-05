@@ -1,15 +1,11 @@
 {{ define "main" }}
-<div class="album py-5">
-    <div class="container">
-        {{ range .Data.Pages }}
-            {{ if not .Params.robots }}
-                {{ partial "pagelisting.html" . }}
-            {{ end }}
-        {{ end }}
+<div class="container">
+    {{ range .Data.Pages }}
+        {{ partial "pagelisting.html" . }}
+    {{ end }}
 
-        <div class="pagination justify-content-center mt-5">
-        {{ template "_internal/pagination.html" . }}
-        </div>
+    <div class="pagination justify-content-center my-5">
+    {{ template "_internal/pagination.html" . }}
     </div>
 </div>
 {{ end }}
