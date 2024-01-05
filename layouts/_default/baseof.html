@@ -9,58 +9,28 @@
     
   </head>
   <body>
-    <div class="container">
-      <div class="shadow-sm bg-white mt-4 border-top border-bottom border-primary border-4">
-        <div class="mt-4 p-4 ms-2 mb-1">
+    <div class="d-none d-lg-block py-2"></div>
+    
+    <div class="container-lg">
+      <div class="row shadow-sm bg-white border-top border-bottom border-primary border-4">
+        <div class="mt-4 p-4 ms-2 mb-1 col-md-6">
           <a href="/">
-            <img src="{{ .Site.BaseURL }}/img/cabforum-logo-tag-right.svg" height="80" alt="CA/Browser Forum">
+            <img src="{{ .Site.BaseURL }}/img/cabforum-logo-tag-right.svg" width="80%" alt="CA/Browser Forum">
           </a>
         </div>
 
         {{ partial "navbar.html" . }}
       </div>
 
-      <main class="bg-white border my-4">
+      <div class="row d-none d-lg-block py-2"></div>
+
+      <main class="row bg-white border">
       {{ block "main" . }}
-      <div class="row g-4 p-4">
-        <div class="col-9">
-            <div class="border-bottom pb-1 mb-2 fw-light">
-                <small>
-                    <a href="/">Home</a> »  
-                    {{ partial "breadcrumbs.html" . }}
-                </small>
-            </div>
-    
-            <div class="bg-white shadow-sm border-bottom border-primary border-4">
-                <div id="content" class="p-4 border-top border-start border-end" data-pagefind-body>
-                    <div class="border-bottom mb-2"><h1>{{ .Title }}</h1></div>
-                    <div class="pt-3">{{ .Content }}</div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-3">
-            <div class="mb-4">{{- partial "menu.html" . -}}</div>
-            <div class="mb-4">{{- partial "search.html" . -}}</div>
-            <div class="mb-4">
-                <div class="bg-white shadow-sm border-bottom border-primary border-4">
-                    <div class="border-top border-start border-end">
-                        <div class="bg-body-secondary fw-bolder p-1 text-uppercase">Latest releases</div>
-                        <div class="p-4">
-                            {{- partial "release-latest.html" (dict "title" "Server Certificate" "repository" "servercert" "filename" "docs/BR.md") -}}
-                            {{- partial "release-latest.html" (dict "title" "Code Signing" "repository" "code-signing" "filename" "docs/CSBR.md") -}}
-                            {{- partial "release-latest.html" (dict "title" "S/MIME" "repository" "smime" "filename" "docs/SBR.md") -}}
-                            {{- partial "release-latest.html" (dict "title" "Network and Certificate System Security Requirements" "repository" "netsec" "filename" "docs/NSR.md") -}}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-      </div>
+        {{ .Content }}
       {{ end }}
       </main>
 
-      <div data-pagefind-ignore="all">
+      <div class="row" data-pagefind-ignore="all">
       {{- if .Page.Store.Get "hasMermaid" -}}
         <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
       {{- end -}}

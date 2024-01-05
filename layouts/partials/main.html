@@ -1,0 +1,39 @@
+<div class="row p-0 mx-0 my-2">
+
+    <div class="col-12 col-lg-9">
+        <div class="border-bottom pb-1 mb-2 fw-light">
+            <small>
+                <a href="/">Home</a> »  
+                {{ partial "breadcrumbs.html" . }}
+            </small>
+        </div>
+
+        <div class="bg-white shadow-sm border-bottom border-primary border-4">
+            <div id="content" class="p-4 border-top border-start border-end" data-pagefind-body>
+                <div class="border-bottom mb-2"><h1>{{ .Title }}</h1></div>
+                <div class="pt-3">{{ .Content }}</div>
+            </div>
+        </div>
+
+        <div class="mb-2"></div>
+    </div>
+    
+    <div class="col">
+        <div class="mb-4 mt-2">{{- partial "menu.html" . -}}</div>
+        <div class="mb-4 d-none d-lg-block">{{- partial "search.html" . -}}</div>
+        <div class="mb-4 d-none d-lg-block">
+            <div class="bg-white shadow-sm border-bottom border-primary border-4">
+                <div class="border-top border-start border-end">
+                    <div class="bg-body-secondary fw-bolder p-1 text-uppercase">Latest releases</div>
+                    <div class="p-4">
+                        {{- partial "release-latest.html" (dict "title" "Server Certificate" "repository" "servercert" "filename" "docs/BR.md") -}}
+                        {{- partial "release-latest.html" (dict "title" "Code Signing" "repository" "code-signing" "filename" "docs/CSBR.md") -}}
+                        {{- partial "release-latest.html" (dict "title" "S/MIME" "repository" "smime" "filename" "docs/SBR.md") -}}
+                        {{- partial "release-latest.html" (dict "title" "Network and Certificate System Security Requirements" "repository" "netsec" "filename" "docs/NSR.md") -}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>

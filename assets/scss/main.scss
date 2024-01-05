@@ -4,8 +4,9 @@
 $primary: rgb(55, 184, 235);
 $secondary: rgb(16, 90, 117);
 
-$link-color: $primary; 
-$link-hover-color: $primary; 
+$link-color: $primary;
+$link-hover-color: $secondary;
+$link-active-color: $secondary;
 
 @import "bootstrap/bootstrap";
 
@@ -41,11 +42,16 @@ body {
 
 }
 
-.nav-link {
-    margin-top: -5px;
-    margin-left: 10px;
-    padding-top: 15px;
-    color: #fff;
+@include media-breakpoint-up(lg) {
+    .nav-link {
+        margin-top: -5px;
+        margin-left: 10px;
+        padding-top: 15px;
+        color: #fff;
+    }
+    .nav-link.active {
+        background-color: $primary !important;
+    }
 }
 
 table {
