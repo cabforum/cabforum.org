@@ -13,7 +13,7 @@
 
                 <li class="mt-4"></li>
                 {{- range first 50 .RegularPages.ByWeight -}}
-                <li class="nav-item{{ if .Eq $.Page }} active {{ end }}"><a {{ if .Eq $.Page }}class="text-secondary"{{end}} href="{{ .Permalink }}" title="{{ .Title }}">{{ .LinkTitle }}</a></li>
+                <li class="nav-item{{ if .Eq $.Page }} active{{ end }}"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .LinkTitle }}</a></li>
                 {{- end -}}
             </ul>
         {{- end -}}

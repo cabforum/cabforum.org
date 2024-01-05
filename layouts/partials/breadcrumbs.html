@@ -1,6 +1,4 @@
 {{ range .Ancestors.Reverse }}
-    {{ if ne .RelPermalink "/" }}
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>  » 
-    {{ end }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>  » 
 {{ end }}
 {{ .LinkTitle }}

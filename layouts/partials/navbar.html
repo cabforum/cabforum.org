@@ -8,7 +8,7 @@
         <div class="navbar-nav">
           {{ range .Site.Menus.main }}
           <li class="nav-item">
-            <a class="nav-link{{ if or (and (ne .URL "/") (.Page.IsAncestor $.Page)) (.Page.Eq $.Page) }} active{{ end }}" title="{{ .Title }}" href="{{ .URL }}">{{ .Name }}</a>
+            <a class="nav-link{{ if or (and (not .Page.IsHome) (.Page.IsAncestor $.Page)) (.Page.Eq $.Page) }} active{{ end }}" title="{{ .Title }}" href="{{ .URL }}">{{ .Name }}</a>
           </li>
           {{ end }}
         </div>
