@@ -3,12 +3,13 @@ aliases:
 - /scwg/
 author: Ben Wilson
 date: 2018-07-12 16:39:37
+title: Server Certificate Working Group
+linkTitle: Server Cert WG
+
 menu:
   main:
-    name: Server Cert WG
     weight: 2
-title: Server Certificate Working Group
-type: page
+
 ---
 
 ## Officers

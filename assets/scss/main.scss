@@ -54,6 +54,37 @@ body {
     }
 }
 
+.menu {
+    font-size: 90%;
+    line-height: 170%;
+
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        margin-left: 1.5em;
+    }
+    li::before {
+        content: "-"; 
+        margin-left: -1em;
+        padding-right: 0.5em;
+        color: $primary;
+        font-weight: bolder;
+    }
+
+    li.active::before {
+        content: ">"; 
+        color: $secondary;
+    }
+    li a {
+        text-decoration: none;
+    }
+    li.active a {
+        color: $secondary !important;
+        text-decoration: underline;
+    }
+}
+
 table {
     @extend .table;
     @extend .table-bordered;

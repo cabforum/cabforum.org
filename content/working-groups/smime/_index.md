@@ -3,12 +3,12 @@ aliases:
 - /smime-certificate-wg/
 author: Stephen Davidson
 date: 2020-06-23 04:38:00
+title: S/MIME Certificate Working Group
+linkTitle: S/MIME Cert WG
+
 menu:
   main:
-    name: S/MIME Cert WG
     weight: 4
-title: S/MIME Certificate Working Group
-type: page
 ---
 
 ## About {#about.wp-block-heading}

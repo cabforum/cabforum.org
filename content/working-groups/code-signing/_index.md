@@ -3,13 +3,13 @@ aliases:
 - /code-signing-working-group/
 author: Ben Wilson
 date: 2013-09-04 03:49:36
+title: Code Signing Certificate Working Group
+linkTitle: Code Signing Cert WG
+
 menu:
   main:
-    id: cs
-    name: Code Signing Cert WG
     weight: 3
-title: Code Signing Certificate Working Group
-type: page
+
 ---
 
 **Code Signing Certificate Working Group**

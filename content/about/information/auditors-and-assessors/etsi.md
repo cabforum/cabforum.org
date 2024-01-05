@@ -4,15 +4,14 @@ aliases:
 author: Ben Wilson
 date: 2014-11-10 23:50:44
 title: ETSI – European Telecommunications Standards Institute
-type: page
+linkTitle: ETSI
+
 ---
 
-# Current Standards (as of Sept. 2020)
+## Current Standards (as of Sept. 2020)
 
-**For the most current version of ETSI standards, please refer to this site:
-**
-
-______________________________________________________________________
+**For the most current version of ETSI standards, please refer to this site:**  
+https://portal.etsi.org/TB-SiteMap/ESI/Trust-Service-Providers
 
 ### Conformity Assessment – EN 319 403
 
@@ -34,11 +33,10 @@ ______________________________________________________________________
 
 [ETSI EN 319 411-2 V2.2.2 (2018-04) – Electronic Signatures and Infrastructures (ESI); Policy and security requirements for Trust Service Providers issuing certificates; Part 2: Requirements for trust service providers issuing EU qualified certificates][6]
 
-**You can also use the number for that ETSI standard on this search page:**
+**You can also use the number for that ETSI standard on this search page:**  
+https://www.etsi.org/standards-search
 
-****
-
-# Accreditation
+## Accreditation
 
 #### National Accreditation Bodies (NABs)
 
@@ -50,7 +48,7 @@ ______________________________________________________________________
 
 [Accredited Conformity Assessment Bodies’ Council (ACAB’c)][9]
 
-# ETSI Electronic Signatures and Infrastructure (ESI)
+## ETSI Electronic Signatures and Infrastructure (ESI)
 
 [ESI Activities][10]
 
@@ -64,11 +62,8 @@ ______________________________________________________________________
 
 [Specialist Task Force 438: Guidance on TS 102 042 for CAB Forum Baseline Certificates](http://portal.etsi.org/stfs/STF_HomePages/STF438/STF438.asp)
 
-****
 
-# 
-
-Previous Versions
+## Previous Versions
 
 #### General Policy Requirements for CAs – EN 319 401 and EN 319 411-1
 
@@ -84,9 +79,7 @@ Previous Versions
 
 [Information Preservation Systems Security;  Part 1: Requirements for Implementation and Management  – TS 101 533-1 V1.1.1 (2011-05)](http://www.etsi.org/deliver/etsi_ts/101500_101599/10153301/01.01.01_60/ts_10153301v010101p.pdf) (pdf)
 
-#### 
-
-Qualified Certificates – EN 319 411-2 (replaces TS 101 456)
+#### Qualified Certificates – EN 319 411-2 (replaces TS 101 456)
 
 [Policy requirements for certification authorities issuing qualified certificates – TS 101 456 V1.4.3 (2007-05)](http://www.etsi.org/deliver/etsi_ts/101400_101499/101456/01.04.03_60/ts_101456v010403p.pdf)  (pdf)
 
@@ -106,17 +99,13 @@ Qualified Certificates – EN 319 411-2 (replaces TS 101 456)
 
 [Draft ETSI EN 319 411-3 V1.0.0 (2012-04)](http://www.etsi.org/deliver/etsi_en/319400_319499/31941103/01.00.00_20/en_31941103v010000c.pdf)
 
-#### 
-
-Extended Validation Certificates – TS 103 090 and TR 101 564
+#### Extended Validation Certificates – TS 103 090 and TR 101 564
 
 [Guidance for assessment of CAs issuing EV Certificates against TS 102 042 and the EV Guidelines – ETSI TR 101 564 V1.1.1 (2011-09)][14] (pdf)
 
 [Conformity Assessment for Trust Service Providers (TSP) issuing EV Certificates – ETSI TS 103 090 V1.1.1 (2012-04)](http://www.etsi.org/deliver/etsi_ts/103000_103099/103090/01.01.01_60/ts_103090v010101p.pdf)  (pdf)
 
-#### 
-
-Certificate Profiles – TS 119 412 and EN 319 412
+#### Certificate Profiles – TS 119 412 and EN 319 412
 
 [Part 1: Overview and common data structures- EN 319 412-1 V0.0.4 (2013-09)](http://docbox.etsi.org/ESI/Open/Latest_Drafts/prEN_319412-1v000004-cert-profiles-common-structures_stable-draft.pdf) (pdf)
 
@@ -132,9 +121,7 @@ Certificate Profiles – TS 119 412 and EN 319 412
 
 (Replaces TS 101 862 – Qualified certificate profile)
 
-#### 
-
-Time Stamping – EN 319 421 (replaces TS 101 861)
+#### Time Stamping – EN 319 421 (replaces TS 101 861)
 
 [Time-stamping protocol and electronic time-stamp profiles – EN 319 422](http://docbox.etsi.org/ESI/Open/Latest_Drafts/prEN_319422v004-time-stamping-profile-COMPLETE-draft.pdf) (pdf)
 

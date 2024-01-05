@@ -15,13 +15,13 @@ Below are links to the respective web pages for the CABF-recognized audit framew
 
 **WebTrust** –
 
-Internal URL – ****
+Internal URL – **[/about/information/auditors-and-assessors/webtrust-for-cas/](/about/information/auditors-and-assessors/webtrust-for-cas/)**
 
 External URL – **[http://www.webtrust.org][2]**
 
 **ETSI**–
 
-Internal URL – [**/etsi/**][3]
+Internal URL – **[/etsi/][3]**
 
 External URL – **[http://www.etsi.org/technologies-clusters/technologies/security/certification-authorities-and-other-certification-service-providers][4]**
 
@@ -31,4 +31,4 @@ For additional information from the **CA / Browser Forum** about auditing availa
 [2]: http://www.webtrust.org "WebTrust for CAs"
 [3]: /etsi/
 [4]: http://www.etsi.org/technologies-clusters/technologies/security/certification-authorities-and-other-certification-service-providers "CAs issuing Qualified Certificates IAW ETSI TS 101 456 and Directive 1999/93"
-[5]: /?page_id=51 "Information for Auditors and Assessors"
+[5]: /information-for-auditors-and-assessors/ "Information for Auditors and Assessors"

@@ -3,12 +3,13 @@ aliases:
 - /netsec-wg/
 author: Ben Wilson
 date: 2022-01-25 20:00:41
+title: Network Security Working Group
+linkTitle: NetSec WG
+
 menu:
   main:
     name: NetSec WG
     weight: 3
-title: Network Security Working Group
-type: page
 ---
 
 ## **Background** {#background.wp-block-heading}
