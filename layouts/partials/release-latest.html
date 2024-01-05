@@ -3,8 +3,9 @@
     {{- with .Err -}}
         {{- warnf "%s - %s" . $url -}}
     {{ else }}
+        {{- warnf "%s - %s" $url .Content -}}
         {{- with . | transform.Unmarshal -}}
-        <div class="border-bottom mb-4">
+        <div class="border-bottom pb-2 mb-4">
             <strong>{{ .title }}</strong>
             <strong><a href="https://github.com/cabforum/code-signing/blob/{{ .tag_name }}/{{ $.filename }}" target="_blank">{{ .name }}</a></strong><br />
             <span>{{ .published_at }}</span><br />
@@ -13,5 +14,5 @@
         {{- end -}}
     {{- end -}}
 {{- else -}}
-    <div class="border-bottom mb-4">Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.</div>
+    <div class="border-bottom pb-2 mb-4">Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.</div>
 {{- end -}}
