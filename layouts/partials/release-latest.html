@@ -4,7 +4,7 @@
         {{- warnf "%s - %s" . $url -}}
     {{ else }}
         {{- with . | transform.Unmarshal -}}
-        <div class="border-bottom">
+        <div class="border-bottom mb-4">
             <strong>{{ .title }}</strong>
             <strong><a href="https://github.com/cabforum/code-signing/blob/{{ .tag_name }}/{{ $.filename }}" target="_blank">{{ .name }}</a></strong><br />
             <span>{{ .published_at }}</span><br />
@@ -13,5 +13,5 @@
         {{- end -}}
     {{- end -}}
 {{- else -}}
-    Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.
+    <div class="border-bottom mb-4">Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ .repository }}/releases" target="_blank">{{ .repository }} repository</a>.</div>
 {{- end -}}
