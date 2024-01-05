@@ -21,16 +21,16 @@
   </div>
   
   <div class="col">
-      <div class="mb-4 d-none d-lg-block">{{- partial "search.html" . -}}</div>
+      <div class="mb-4 d-none d-lg-block">{{- partialCached "search.html" . -}}</div>
       <div class="mb-4 d-none d-lg-block">
           <div class="bg-white shadow-sm border-bottom border-primary border-4">
               <div class="border-top border-start border-end">
                   <div class="bg-body-secondary fw-bolder p-1 text-uppercase">Latest releases</div>
                   <div class="p-4">
-                      {{- partial "release-latest.html" (dict "title" "Server Certificate" "repository" "servercert" "filename" "docs/BR.md") -}}
-                      {{- partial "release-latest.html" (dict "title" "Code Signing" "repository" "code-signing" "filename" "docs/CSBR.md") -}}
-                      {{- partial "release-latest.html" (dict "title" "S/MIME" "repository" "smime" "filename" "docs/SBR.md") -}}
-                      {{- partial "release-latest.html" (dict "title" "Network and Certificate System Security Requirements" "repository" "netsec" "filename" "docs/NSR.md") -}}
+                      {{- partialCached "release-latest.html" (dict "title" "Server Certificate" "repository" "servercert" "filename" "docs/BR.md") -}}
+                      {{- partialCached "release-latest.html" (dict "title" "Code Signing" "repository" "code-signing" "filename" "docs/CSBR.md") -}}
+                      {{- partialCached "release-latest.html" (dict "title" "S/MIME" "repository" "smime" "filename" "docs/SBR.md") -}}
+                      {{- partialCached "release-latest.html" (dict "title" "Network and Certificate System Security Requirements" "repository" "netsec" "filename" "docs/NSR.md") -}}
                   </div>
               </div>
           </div>
