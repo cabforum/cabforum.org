@@ -9,7 +9,7 @@ title: 'Ballot SC45: Wildcard Domain Validation'
 type: post
 ---
 
-## **Voting Results** {.wp-block-heading}
+## Voting Results 
 
 **Certificate Issuers**
 
@@ -46,7 +46,7 @@ _This requirement was MET_.
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Purpose of Ballot {.wp-block-heading}
+## Purpose of Ballot 
 
 This Ballot addresses security issues with the use of methods 3.2.2.4.6, 3.2.2.4.18, and 3.2.2.4.19 of the Baseline Requirements to authenticate an entire domain namespace. These methods rely on an HTTP based demonstration of control, which only demonstrates control over a particular host and service, rather than the entire Domain Namespace.
 

@@ -7,15 +7,15 @@ title: Minutes of the F2F 46 Meeting in Cupertino, California, 12-14 March 2019
 type: post
 ---
 
-## WG and Subcommittee Meetings (Tuesday March 12, 2019) {#WG_and_Subcommittee_Meetings\_.28Tuesday_March_12.2C_2019.29.wp-block-heading}
+## WG and Subcommittee Meetings (Tuesday March 12, 2019) 
 
-### Call to Order – CA/Browser Forum Meeting {#Call_to_Order\_-\_CA.2FBrowser_Forum_Meeting.wp-block-heading}
+### Call to Order – CA/Browser Forum Meeting 
 
 **Attendees on March 12, 2019:** Adam Clark (Visa), Adam Sink (GoDaddy), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Bailey Basile (Apple), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust Datacard), Xiaotong Chen (SHECA), Chris Kemmerer (SSL.com), Corey Rasmussen (OATI), JiuQing Cui (SHECA), Curt Spann (Apple), Dave Blunt (Amazon Trust Services), Davut Tokgöz (E-Tugra), Daymion Reynolds (GoDaddy), Dean Coclin (DigiCert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), Georgy Sebastian (Amazon Trust Services), Gordon Bock (Microsoft), Hwai-Ling Shan (Chunghwa Telecom Co. Ltd.), Iñigo Barreira (360), Janet Treasure (CPA Canada), Jason Cooper (Microsoft), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), Joanna Fox (GoDaddy), Jos Purvis (Cisco), Josselin Allemandou (Dhimyotis (Certigna)), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Ken Myers (FPKI), Khadija Amin (Cisco), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom Co. Ltd.), Matthias Wiedenhorst (ACAB-c / TÜViT), Michelle Coon (OATI), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nur H. Kuran (E-Tugra), Philippe Bouchet (ACAB’C/LSTI), Renne Rodriguez (Apple), Rich Smith (Sectigo), Robin Alden (Sectigo), Romain Delval (Dhimyotis (Certigna)), Ryan Hurst (Google), Ryan Sleevi (Google), Scott Rea (DarkMatter), Somer Shively (Cisco), Tad Kaburaki (Amazon Trust Services), Tadahiko Ito (Secom), Xingkun Tang (SHECA), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Trevoli Ponds-White (Amazon Trust Services), VijayaKumar Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Xiu Lei (GDCA), Yuu Hidaka (Secom), Zane Lewiston (Microsoft), Zhihui Liang (360).
 
 Welcome, Preliminary Matters, Meeting Recordings, Photo Policy, Logistics, Antitrust Statement, Code of Conduct, Assign Minute Taking
 
-### Forum Infrastructure Working Group meeting {#Forum_Infrastructure_Working_Group_meeting.wp-block-heading}
+### Forum Infrastructure Working Group meeting 
 
 Presenter:
 
@@ -89,7 +89,7 @@ Tim: bylaws only allow for acceptance of questions by the forum as a whole, prol
 
 Jos: adjourns mtg at 10:06
 
-### Forum Bylaws and CWG Charter discussion {#Forum_Bylaws_and_CWG_Charter_discussion.wp-block-heading}
+### Forum Bylaws and CWG Charter discussion 
 
 Presenters:
 
@@ -175,13 +175,13 @@ Wayne: OK
 
 **Adjourn CA/B Forum Meeting**
 
-### Call to Order – Server Certificate Working Group Meeting {#Call_to_Order\_-\_Server_Certificate_Working_Group_Meeting.wp-block-heading}
+### Call to Order – Server Certificate Working Group Meeting 
 
 **Attendees on March 12, 2019:** Adam Clark (Visa), Adam Sink (GoDaddy), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Bailey Basile (Apple), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust Datacard), Xiaotong Chen (SHECA), Chris Kemmerer (SSL.com), Corey Rasmussen (OATI), JiuQing Cui (SHECA), Curt Spann (Apple), Dave Blunt (Amazon Trust Services), Davut Tokgöz (E-Tugra), Daymion Reynolds (GoDaddy), Dean Coclin (DigiCert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), Georgy Sebastian (Amazon Trust Services), Gordon Bock (Microsoft), Hwai-Ling Shan (Chunghwa Telecom Co. Ltd.), Iñigo Barreira (360), Janet Treasure (CPA Canada), Jason Cooper (Microsoft), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), Joanna Fox (GoDaddy), Jos Purvis (Cisco), Josselin Allemandou (Dhimyotis (Certigna)), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Ken Myers (FPKI), Khadija Amin (Cisco), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom Co. Ltd.), Matthias Wiedenhorst (ACAB-c / TÜViT), Michelle Coon (OATI), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nur H. Kuran (E-Tugra), Philippe Bouchet (ACAB’C/LSTI), Renne Rodriguez (Apple), Rich Smith (Sectigo), Robin Alden (Sectigo), Romain Delval (Dhimyotis (Certigna)), Ryan Hurst (Google), Ryan Sleevi (Google), Scott Rea (DarkMatter), Somer Shively (Cisco), Tad Kaburaki (Amazon Trust Services), Tadahiko Ito (Secom), Xingkun Tang (SHECA), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Trevoli Ponds-White (Amazon Trust Services), VijayaKumar Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Xiu Lei (GDCA), Yuu Hidaka (Secom), Zane Lewiston (Microsoft), Zhihui Liang (360).
 
 Antitrust Statement, Assign Minute Taking
 
-#### Network Security Subcommittee {#Network_Security_Subcommittee.wp-block-heading}
+#### Network Security Subcommittee 
 
 Presenter:
 
@@ -214,7 +214,7 @@ Recommendation: For system breakout grouping them based on risk level. A table f
 
 Request to focus on logs Pain Point: There isn’t a different retention requirement for different items from different sources so it is confusing as to whether or not everything really needs to be kept for 7 years.
 
-#### Validation Subcommittee {#Validation_Subcommittee.wp-block-heading}
+#### Validation Subcommittee 
 
 Presenters:
 
@@ -311,13 +311,13 @@ Summary of Validation Methods in section 3.2.2.4:
 
 **Adjourn Server Certificate Working Group Meeting**
 
-### Call to Order – Code Signing Certificate Working Group preparatory Meeting {#Call_to_Order\_-\_Code_Signing_Certificate_Working_Group_preparatory_Meeting.wp-block-heading}
+### Call to Order – Code Signing Certificate Working Group preparatory Meeting 
 
 **Attendees on March 12, 2019:** Not captured as this was not an official meeting of the CSCWG.
 
 Antitrust Statement, Assign Minute Taking
 
-#### Kick-off preparatory meeting for the newly established CSCWG {#Kick-off_preparatory_meeting_for_the_newly_established_CSCWG.wp-block-heading}
+#### Kick-off preparatory meeting for the newly established CSCWG 
 
 Presenter:
 
@@ -333,15 +333,15 @@ Dean noted that the first meeting will take place on Thursday during the Face-to
 
 **Adjourn Code Signing Certificate Working Group preparatory Meeting**
 
-## Plenary Meeting Day 1 (Wednesday March 13, 2019) {#Plenary_Meeting_Day_1\_.28Wednesday_March_13.2C_2019.29.wp-block-heading}
+## Plenary Meeting Day 1 (Wednesday March 13, 2019) 
 
-### Call to Order – CA/Browser Forum Meeting {#Call_to_Order\_-\_CA.2FBrowser_Forum_Meeting-1.wp-block-heading}
+### Call to Order – CA/Browser Forum Meeting 
 
 **Attendees on March 13, 2019:** Adam Clark (Visa), Aleksandra Kapinos (Certum), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Bailey Basile (Apple), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust Datacard), Xiaotong Chen (SHECA), Chris Bailey (Entrust Datacard), Chris Kemmerer (SSL.com), Corey Rasmussen (OATI), JiuQing Cui (SHECA), Curt Spann (Apple), Dai Yeqi (SHECA), Dave Blunt (Amazon Trust Services), Davut Tokgöz (E-Tugra), Daymion Reynolds (GoDaddy), Dean Coclin (DigiCert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), Gordon Bock (Microsoft), Hwai-Ling Shan (Chunghwa Telecom Co. Ltd.), Iñigo Barreira (360), J.P. Hamilton (Cisco), Janet Treasure (CPA Canada), Jason Cooper (Microsoft), Jed Glazner (Apple), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), Joanna Fox (GoDaddy), John Noll (Apple), Jos Purvis (Cisco), Josselin Allemandou (Dhimyotis (Certigna)), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom Co. Ltd.), Lin Feng (CFCA), Marcelo Silva (Visa), Matthias Wiedenhorst (ACAB-c / TÜViT), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nur H. Kuran (E-Tugra), Philippe Bouchet (ACAB’C/LSTI), Rachel McPherson (TrustCor), Rich Smith (Sectigo), Robin Alden (Sectigo), Romain Delval (Dhimyotis (Certigna)), Ryan Hurst (Google), Ryan Sleevi (Google), Scott Rea (DarkMatter), Somer Shively (Cisco), Tadahiko Ito (Secom), Xingkun Tang (SHECA), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Tony Perez (GoDaddy), Trevoli Ponds-White (Amazon Trust Services), VijayaKumar Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Wojciech Trapczyński (Certum), Xiu Lei (GDCA), Yuu Hidaka (Secom), Zhihui Liang (360), Mads Henriksveen (Buypass), Mike Agrenius Kushner (PrimeKey), Kirk Hall (Entrust Datacard).
 
 Welcome, Recap of Preliminary Matters, Meeting Recordings, Photo Policy, Logistics, Antitrust Statement, Code of Conduct, Assign Minute Taking
 
-### Approval of CABF Minutes from March 7, 2019 {#Approval_of_CABF_Minutes_from_March_7.2C_2019.wp-block-heading}
+### Approval of CABF Minutes from March 7, 2019 
 
 Presenter:
 
@@ -349,7 +349,7 @@ Presenter:
 
 Approval of CABF Minutes from March 7, 2019
 
-### Report from Forum Infrastructure Working Group {#Report_from_Forum_Infrastructure_Working_Group.wp-block-heading}
+### Report from Forum Infrastructure Working Group 
 
 Presenter:
 
@@ -367,7 +367,7 @@ Notetaker:
 - Based on a long discussion we decided it makes sense to convert the Infrastructure Working Group into a subcommittee because it’s cleaner from a membership perspective.
 - We confirmed that remote attendees are governed by the same requirements as those present, which means we don’t have to stop and start the WebEx from working group to working group during in-person meetings.
 
-### Report on Bylaws, SCWG Charter updates {#Report_on_Bylaws.2C_SCWG_Charter_updates.wp-block-heading}
+### Report on Bylaws, SCWG Charter updates 
 
 Presenters:
 
@@ -381,7 +381,7 @@ Notetaker:
 Dimitris: We had good discussion yesterday, and some contributions from Apple’s counsel.
 Wayne: We’re going to take the bylaws and circulate them again, give a few weeks for review, and then ballot.
 
-### CA/B Forum Issues to be addressed {#CA.2FB_Forum_Issues_to_be_addressed.wp-block-heading}
+### CA/B Forum Issues to be addressed 
 
 Presenters:
 
@@ -423,7 +423,7 @@ Sessions for Specific Regions/Geographies – members in those regions can prepa
 
 We need volunteers to write about good, bad and best practices for the web site subject to approval from the Forum membership.
 
-### Creation of additional Working Groups – Secure Mail {#Creation_of_additional_Working_Groups\_-\_Secure_Mail.wp-block-heading}
+### Creation of additional Working Groups – Secure Mail 
 
 Presenters:
 
@@ -457,13 +457,13 @@ Notetaker:
 
 **Adjourn CA/B Forum Meeting**
 
-## Call to Order – Server Certificate Working Group Meeting {#Call_to_Order\_-\_Server_Certificate_Working_Group_Meeting-1.wp-block-heading}
+## Call to Order – Server Certificate Working Group Meeting 
 
 **Attendees on March 13, 2019:** Adam Clark (Visa), Aleksandra Kapinos (Certum), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Bailey Basile (Apple), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust Datacard), Xiaotong Chen (SHECA), Chris Bailey (Entrust Datacard), Chris Kemmerer (SSL.com), Corey Rasmussen (OATI), JiuQing Cui (SHECA), Curt Spann (Apple), Dai Yeqi (SHECA), Dave Blunt (Amazon Trust Services), Davut Tokgöz (E-Tugra), Daymion Reynolds (GoDaddy), Dean Coclin (DigiCert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), Gordon Bock (Microsoft), Hwai-Ling Shan (Chunghwa Telecom Co. Ltd.), Iñigo Barreira (360), J.P. Hamilton (Cisco), Janet Treasure (CPA Canada), Jason Cooper (Microsoft), Jed Glazner (Apple), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), Joanna Fox (GoDaddy), John Noll (Apple), Jos Purvis (Cisco), Josselin Allemandou (Dhimyotis (Certigna)), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom Co. Ltd.), Lin Feng (CFCA), Marcelo Silva (Visa), Matthias Wiedenhorst (ACAB-c / TÜViT), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nur H. Kuran (E-Tugra), Philippe Bouchet (ACAB’C/LSTI), Rachel McPherson (TrustCor), Rich Smith (Sectigo), Robin Alden (Sectigo), Romain Delval (Dhimyotis (Certigna)), Ryan Hurst (Google), Ryan Sleevi (Google), Scott Rea (DarkMatter), Somer Shively (Cisco), Tadahiko Ito (Secom), Xingkun Tang (SHECA), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Tony Perez (GoDaddy), Trevoli Ponds-White (Amazon Trust Services), VijayaKumar Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Wojciech Trapczyński (Certum), Xiu Lei (GDCA), Yuu Hidaka (Secom), Zhihui Liang (360), Mads Henriksveen (Buypass), Mike Agrenius Kushner (PrimeKey), Kirk Hall (Entrust Datacard).
 
 Antitrust Statement, Assign Minute Taking
 
-### Approval of SCWG Minutes from March 7, 2019 {#Approval_of_SCWG_Minutes_from_March_7.2C_2019.wp-block-heading}
+### Approval of SCWG Minutes from March 7, 2019 
 
 Presenter:
 
@@ -471,7 +471,7 @@ Presenter:
 
 The Minutes were approved.
 
-### Procedures for ballots and guideline updates {#Procedures_for_ballots_and_guideline_updates.wp-block-heading}
+### Procedures for ballots and guideline updates 
 
 Presenters:
 
@@ -508,7 +508,7 @@ Then I was wondering whether this doc address that and avoid rushing ballots.
 
 So the idea is working on the ideas, language, get endorsers, reach out an initial consensus, and then get a ballot number and start the official discussion period.
 
-### 360 Root Program Update {#A360_Root_Program_Update.wp-block-heading}
+### 360 Root Program Update 
 
 Presenter:
 
@@ -523,7 +523,7 @@ Notetaker:
 **
 News: Root store inclusion** – Updated list December 2018, new in browsers Jan 2019, new list expected by end of March 2019 (and expected updates to RSP every three months) – See: caprogram.360.cn/#trust – Still many issues w/CA documentation noted (and slow responses from CAs to 360 queries), would like more attention paid to documentation by CAs and auditors.
 
-### Apple Root Program Update {#Apple_Root_Program_Update.wp-block-heading}
+### Apple Root Program Update 
 
 Presenters:
 
@@ -542,7 +542,7 @@ Apple advised of the following:
 - Apple plans to mark HTTP as “not secure.”
 - Apple root program is not changing significantly, yet.
 
-### Cisco Systems Root Program Update {#Cisco_Systems_Root_Program_Update.wp-block-heading}
+### Cisco Systems Root Program Update 
 
 Presenters:
 
@@ -582,7 +582,7 @@ In the next year:
 - Replace the contents of Intersect with validations from CCADB
 - Open a formal inclusion request process through CCADB
 
-### Google Safe Browsing (Guest Speaker session) {#Google_Safe_Browsing\_.28Guest_Speaker_session.29.wp-block-heading}
+### Google Safe Browsing (Guest Speaker session) 
 
 Presenter:
 
@@ -590,7 +590,7 @@ Presenter:
 
 Presentation: [Safe Browsing Overview for CAB.pdf](/uploads/Safe-Browsing-Overview-for-CAB.pdf)
 
-### Google Root Program Update {#Google_Root_Program_Update.wp-block-heading}
+### Google Root Program Update 
 
 Presenters:
 
@@ -624,7 +624,7 @@ Q: Where is the progress on that one?
 
 A: I don’t know, will need to check.
 
-### Microsoft Root Program Update {#Microsoft_Root_Program_Update.wp-block-heading}
+### Microsoft Root Program Update 
 
 Presenters:
 
@@ -636,7 +636,7 @@ Notetaker:
 
 Presentation: [Microsoft CABF Update Presentation.pdf](/uploads/Microsoft-CABF-Update-Presentation.pdf)
 
-### Mozilla Root Program Update {#Mozilla_Root_Program_Update.wp-block-heading}
+### Mozilla Root Program Update 
 
 Presenter:
 
@@ -659,7 +659,7 @@ If CAs get stuck using CCADB, they can email ; the home page in CCADB also lists
 
 Wayne went next; he opted to read the Mozilla root store update into the record. A copy of the update is available in PDF as an attachment to this page.
 
-#### Questions for Mozilla {#Questions_for_Mozilla.wp-block-heading}
+#### Questions for Mozilla 
 
 **Ryan Hurst:** Thanks for clarifying M’s policy on bulk revocation. I think there’s an opportunity for more clarity here. You’ve requested more information about non-disclosures, including justifications on a per-customer basis. When dealing with millions of certificates, how will customer-by-customer justifications work, and how are we supposed to even gather that within 5 days? Can we accommodate this type of problem? **Wayne:** My significant takeaway here is that it’s not policy, it’s best practice in the wiki. It was updated in response to the underscore sunset period, focused on the small set of certs there. I think there’s room in that guidance to expand to look at the impact of 500,000-certificate revocations and take that into consideration. Clearly it doesn’t make sense to require per-subscriber explanations for 500k certs; I have that as a to-do to clarify and request input from the community.
 
@@ -679,7 +679,7 @@ Wayne went next; he opted to read the Mozilla root store update into the record.
 
 **Rich Smith:** For the differential between Mozilla policy and the BRs on allowed ECDSA curves, I don’t recall: was there an attempt to bring that to ballot in the Forum to eliminate the differential? **Wayne:** I don’t know or recall, but it was discussed back in 2017. **Rich Smith:** Root stores are free to be tighter than the BRs, but diverging from the BRs creates issues. It would be helpful to rationalize those. **Ryan Sleevi:** There has been discussion about this in the past with, e.g., the P-521 curve that Chrome doesn’t support but Microsoft/Apple do. BRs always capture the floor of the industry, but others are free to raise the bar further. It made more sense to allow Microsoft to continue allowing it and allow CAs not to get qualified audits for using it to support them. **Rich Smith:** Would you consider that a mis-issuance? **Ryan Sleevi:** Google hasn’t stated that as a policy requirement; it just won’t work in Chrome. We would have done it as a policy requirement. **Rich:** So if it’s a mis-issuance, shouldn’t we fix it? **Wayne:** I think there’s two pieces to that. There are and will be cases where Mozilla policy goes above the BRs, and those will create a mis-issuance. I don’t see that as a problem. But I agree that if you’re setting policy to be applied broadly, we should apply that in the BRs wherever we can. **Geoff Keating:** One comment is that in terms of treating it as a mis-issuance, I don’t think it’s helpful for browsers to ask that certs they don’t accept be treated as mis-issued and revoked, because that prevents them from being used with other platforms that do accept and use them. As a good example, Apple does not consider certs without CT to be mis-issued or require revocation for them—we just don’t support them. **Wayne:** Moz doesn’t require revocation or treat them as a mis-issuance if they obey the current BRs. That’s something we should fix in our language to clarify it.
 
-### ETSI Update {#ETSI_Update.wp-block-heading}
+### ETSI Update 
 
 Presenter:
 
@@ -718,7 +718,7 @@ ETSI is engaged in activities on the global acceptance of European Trust Service
 - Workshops to be held this summer in Dubai, Tokyo and Mexiko City
 - TSP Day in Berlin on September 25th/26th
 
-### ACAB’c Update {#ACAB.27c_Update.wp-block-heading}
+### ACAB’c Update 
 
 Presenters:
 
@@ -739,7 +739,7 @@ ACABc cooperates with ENISA, ETSI, CEN, CA/B-Forum, FESA and the European Commis
 
 Even if accredited against the same standard, CABs follow their own certification scheme. Acab’c is proposing unified procedures to have a single certification scheme at European level compliant with appropriate ISO standards. For any further question and membership criteria please contact: Secretariat Armelle Trotin + 33 608 675 144;
 
-### WebTrust Update {#WebTrust_Update.wp-block-heading}
+### WebTrust Update 
 
 Presenters:
 
@@ -805,7 +805,7 @@ Webtrust Update:
 - Does a period of time audit still comment on a control, even if it isn’t being used?
 - Yes, they still do everything.
 
-### WebTrust for RAs {#WebTrust_for_RAs.wp-block-heading}
+### WebTrust for RAs 
 
 Presenter:
 
@@ -837,7 +837,7 @@ It seems like a safe space to encourage it but not risk qualifications for CAs i
 
 This topic needs more discussion, maybe create some root program expectations and in case of failures, require disclosure with details and problems that were discovered in external RA functions.
 
-### Report from SCWG Validation Subcommittee {#Report_from_SCWG_Validation_Subcommittee.wp-block-heading}
+### Report from SCWG Validation Subcommittee 
 
 Presenter:
 
@@ -854,7 +854,7 @@ Notetaker:
 - Validation summit document created last year has lots of good history.
 - Trello board is also a good way to keep up with what’s going on, as well as monitoring the mailing list.
 
-### Demo how to create a ballot and red-line version on GitHub {#Demo_how_to_create_a_ballot_and_red-line_version_on_GitHub.wp-block-heading}
+### Demo how to create a ballot and red-line version on GitHub 
 
 Presenter:
 
@@ -870,15 +870,15 @@ In case members want to try out this process and encounter problems, please cont
 
 **Adjourn Server Certificate Working Group Meeting for the day**
 
-# Plenary Meeting Day 2 (Thursday March 14, 2019) {#Plenary_Meeting_Day_2\_.28Thursday_March_14.2C_2019.29.wp-block-heading}
+# Plenary Meeting Day 2 (Thursday March 14, 2019) 
 
-## Call to Order – Resume Server Certificate Working Group Plenary Meeting {#Call_to_Order\_-\_Resume_Server_Certificate_Working_Group_Plenary_Meeting.wp-block-heading}
+## Call to Order – Resume Server Certificate Working Group Plenary Meeting 
 
 **Attendees on March 14, 2019:** Adam Sink (GoDaddy), Aleksandra Kapinos (Certum), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Bailey Basile (Apple), Ben Wilson (DigiCert), Bruce Morton (Entrust Datacard), Chris Bailey (Entrust Datacard), Chris Kemmerer (SSL.com), Corey Rasmussen (OATI), Curt Spann (Apple), Dave Blunt (Amazon Trust Services), Davut Tokgöz (E-Tugra), Daymion Reynolds (GoDaddy), Dean Coclin (DigiCert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), Gordon Bock (Microsoft), Hwai-Ling Shan (Chunghwa Telecom Co. Ltd.), Iñigo Barreira (360), Jason Cooper (Microsoft), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), Joanna Fox (GoDaddy), John Noll (Apple), Jos Purvis (Cisco), Josselin Allemandou (Dhimyotis (Certigna)), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Li-Chun Chen (Chunghwa Telecom Co. Ltd.), Lin Feng (CFCA), Marcelo Silva (Visa), Matthias Wiedenhorst (ACAB-c / TÜViT), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nur H. Kuran (E-Tugra), Philippe Bouchet (ACAB’C/LSTI), Rachel McPherson (TrustCor), Rich Smith (Sectigo), Robin Alden (Sectigo), Romain Delval (Dhimyotis (Certigna)), Ryan Hurst (Google), Ryan Sleevi (Google), Scott Rea (DarkMatter), Somer Shively (Cisco), Tad Kaburaki (Amazon Trust Services), Tadahiko Ito (Secom), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Trevoli Ponds-White (Amazon Trust Services), VijayaKumar Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Wojciech Trapczyński (Certum), Xiu Lei (GDCA), Yuu Hidaka (Secom), Zhihui Liang (360), Mads Henriksveen (Buypass), Mike Agrenius Kushner (PrimeKey), Kirk Hall (Entrust Datacard).
 
 Recap of Preliminary Matters, Logistics, Antitrust Statement, Assign Minute Taking
 
-### Report from SCWG Network Security Subcommittee {#Report_from_SCWG_Network_Security_Subcommittee.wp-block-heading}
+### Report from SCWG Network Security Subcommittee 
 
 Presenter:
 
@@ -895,7 +895,7 @@ Notetaker:
 - On Tuesday we discussed document structure and statements of principles followed by requriements to better address concerns of the WebTrust task force
 - The committee will look at other standards and how they organize their requirements (such as PCI and WebTrust requirements)
 
-### S/N Entropy {#S.2FN_Entropy.wp-block-heading}
+### S/N Entropy 
 
 Presenter:
 
@@ -922,7 +922,7 @@ Notetaker:
 - The BRs do not account for the fact that revocation could be a bad decision.
 - Cannot think of a way to phrase items to allow non-compliance. These are the requirements so either comply or not comply.
 
-### Update on London Protocol – Anti-Phishing, Flag List {#Update_on_London_Protocol\_-\_Anti-Phishing.2C_Flag_List.wp-block-heading}
+### Update on London Protocol – Anti-Phishing, Flag List 
 
 Presenters:
 
@@ -1064,7 +1064,7 @@ Rich: OFAC checks, only required for CAs in the US. CAs in other countries may o
 Can we filter out the entries I don’t care about?
 A: Not today, but good feedback and can incorporate.
 
-### Audit requirements over the lifecycle of a Root CA {#Audit_requirements_over_the_lifecycle_of_a_Root_CA.wp-block-heading}
+### Audit requirements over the lifecycle of a Root CA 
 
 Presenter:
 
@@ -1154,7 +1154,7 @@ Ryan asked for clarification of whether Wayne’s proposal attempts to address t
 
 Dimitris noted that in the last slide Wayne had added the ETSI policy scope for EV in proposed changes to EV section 17.4. What about the ETSI policies that need to be added / updated? Arno mentioned that Part 2 is for QWACS. Part 1 – should be for publicly trusted, and then you can do part 2 additionally, so reference to 411-2 could be removed, according to his understanding.
 
-### BygoneSSL (Guest Speaker Session) {#BygoneSSL\_.28Guest_Speaker_Session.29.wp-block-heading}
+### BygoneSSL (Guest Speaker Session) 
 
 Presenter:
 
@@ -1162,7 +1162,7 @@ Presenter:
 
 Presentation: [BygoneSSL CAB.pdf](/uploads/BygoneSSL-CAB.pdf)
 
-### Quantum Cryptography (problem, need, solutions and timeframe) – assign Forum/SCWG liaison(s) {#Quantum_Cryptography\_.28problem.2C_need.2C_solutions_and_timeframe.29\_-\_assign_Forum.2FSCWG_liaison.28s.29.wp-block-heading}
+### Quantum Cryptography (problem, need, solutions and timeframe) – assign Forum/SCWG liaison(s) 
 
 Presenters:
 
@@ -1184,7 +1184,7 @@ Notetaker:
 - We’re looking for volunteers to lead this effort.
 - It’s an international effort; there is work being done all around the world. Dean reports that China is doing a lot of work in this area, and Tadahiko reports they are as well. Dean and Tim H. invite interested forum members to reach out to them if they are interested in this area.
 
-### Automatically produced PDFs from GitHub vs current document PDFs. What features are really needed? {#Automatically_produced_PDFs_from_GitHub_vs_current_document_PDFs.\_What_features_are_really_needed.3F.wp-block-heading}
+### Automatically produced PDFs from GitHub vs current document PDFs. What features are really needed? 
 
 Presenters:
 
@@ -1221,7 +1221,7 @@ Notetaker:
 - Ryan said that documentation doesn’t need to delay this change, and it doesn’t need to be in the bylaws but agrees that it should be documented. Jos agreed.
 - Dimitris said he normally has the responsibility for creating the final version of the doc, and would be happy to change to using GitHub instead of updating the Word doc.
 
-### Update EV Guidelines to cater for alternative registration numbers (Ballot SC17) {#Update_EV_Guidelines_to_cater_for_alternative_registration_numbers\_.28Ballot_SC17.29.wp-block-heading}
+### Update EV Guidelines to cater for alternative registration numbers (Ballot SC17) 
 
 Presenter:
 
@@ -1256,7 +1256,7 @@ Final outcome: will likely take a few more versions of this ballot to allign wit
 
 **Adjourn Server Certificate Working Group Meeting**
 
-## Call to Order – Code Signing Certificate Working Group Plenary Meeting {#Call_to_Order\_-\_Code_Signing_Certificate_Working_Group_Plenary_Meeting.wp-block-heading}
+## Call to Order – Code Signing Certificate Working Group Plenary Meeting 
 
 The Minutes of the CSCWG have already been approved and by the WG and distributed via the WG’s public mailing list
 

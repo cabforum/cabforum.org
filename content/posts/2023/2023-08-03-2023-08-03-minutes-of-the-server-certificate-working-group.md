@@ -9,7 +9,7 @@ title: 2023-08-03 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-# **ServerCert WG Meeting: August 3, 2023**
+# ServerCert WG Meeting: August 3, 2023
 
 _Present:_
 

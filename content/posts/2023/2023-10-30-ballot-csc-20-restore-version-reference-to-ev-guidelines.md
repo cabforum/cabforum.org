@@ -11,7 +11,7 @@ type: post
 
 # Ballot CSC-20: Restore Version Reference to EV Guidelines {.name.post-title.entry-title}
 
-## Notice of Review Period {.wp-block-heading}
+## Notice of Review Period 
 
 The IPR review period ended on December 7, 2023 and no exclusion notices were filed.
 
@@ -27,7 +27,7 @@ End of Review Period:        December 1, 2023 at 6:00 pm Eastern Time
 
 Please forward a written notice to exclude Essential Claims to the Forum and Working Group Chair by email to and a copy to the CA/B Forum CSCWG public mailing list before the end of the Review Period.
 
-## Results of Voting {.wp-block-heading}
+## Results of Voting 
 
 | | | | |
 | --- | --- | --- | --- |
@@ -44,13 +44,13 @@ Microsoft
 
 This ballot has PASSED.
 
-## Purpose of the Ballot {.wp-block-heading}
+## Purpose of the Ballot 
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Code Signing Certificates” version 3.4 in order to restore a version reference to the Extended Validation Guidelines which was inadvertently removed in a previous version of the Requirements. In addition, a minor typographical issue is also resolved.
 
 The following motion has been proposed by Corey Bonnell of DigiCert and endorsed by Bruce Morton of Entrust and Dimitris Zacharopoulos of HARICA.
 
-## Motion {.wp-block-heading}
+## Motion 
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Code Signing Certificates” (“Code Signing Baseline Requirements”) based on version 3.4.
 

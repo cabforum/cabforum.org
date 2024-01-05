@@ -7,35 +7,35 @@ title: 2020-10-01 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Adrian Mueller (SwissSign), Amanda Mendieta (Apple), Ben Wilson (Mozilla), Bruce Morton (Entrust), Clint Wilson (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jos Purvis (Cisco Systems), Julie Olson (GlobalSign), Karina Sirota (Microsoft), Kirk Hall (Entrust), Li-Chun Chen (Chunghwa Telecom), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thanos Vrachnos (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 Anti-trust statement was read. The working group expressed its gratitude to Robin Alden (“the voice of the anti-trust statement”) for his years of service both to Sectigo and to the CABF and SCWG, as he is retiring this year.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Dimitris reviewed the agenda; no changes were identified. Minute-taker for the next call will be Dimitris.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Tim Hollebeek presented. The committee continued discussion of the SubjectDN field for various certificate types. They’re most of the way through the field, but more discussion is needed around these DNs and other fields in the certificate profile.
 
 Subcommittee minutes:
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Neil presented. They are still trying to get feedback on SC34 (acct mgt) around GH comments posted a few weeks ago. Threat Modeling group met a few weeks ago to review network zones ballot, looking for feedback from network eng, and got some good feedback from Clint and others around need for comms and protection. Impromptu discussion started around when NCSSRs are considered “complete” and what the end goals might be. Continued discussions around extending CA operations into cloud and what cloud operators might be able to do better (automation, verification, etc.). Not trying to boil the ocean, but instead look at some specific use cases and then develop NCSSR updates around those.
 
@@ -47,23 +47,23 @@ Neil: Understood! Yes.
 
 Subcommittee minutes:
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _None._
 
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Voting Period 
 
 _None_**.**
 
-#### Ballots in IPR Review Period {.wp-block-heading}
+#### Ballots in IPR Review Period 
 
 \_SC28: Logging and Log Retention \_(Review ends October 14, 2020)
 
 _SC35: Cleanups and Clarifications_\_ \_(Review ends October 14, 2020)
 
-#### Draft Ballots under Consideration {.wp-block-heading}
+#### Draft Ballots under Consideration 
 
 \_Minimum expectations regarding weak keys \_(Chris)
 
@@ -78,7 +78,7 @@ No updates
 \_SC34 Account Management \_(Tobi)
 No updates
 
-### 8. Topics for the next virtual F2F {.wp-block-heading}
+### 8. Topics for the next virtual F2F 
 
 Dimitris sent out draft agenda for F2F to the public and management lists. Dean is discussing guest speakers and will need slots for those to be announced later. Dimitris will send messages to subcommittee chairs to request time estimates for discussions on Tuesday (subcommittee & WG day). We will not be spending full days as with physical-F2F; instead we will try to keep things short as with the previous virtual-F2F. If members have any topics or special challenges, they’re asked to email Dimitris or respond on the list, as they see fit.
 
@@ -96,12 +96,12 @@ Dimitris> Dean, how are registrations?
 
 Dean> Pretty good! We’ve merged attendee lists into one (since everyone is virtual). We are at 68 registered attendees now.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 No other business was discussed.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 The next call will take place on October 15, 2020 at 11:00am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

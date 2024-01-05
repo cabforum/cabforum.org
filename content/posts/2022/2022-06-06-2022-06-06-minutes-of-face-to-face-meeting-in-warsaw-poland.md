@@ -9,20 +9,20 @@ type: post
 
 **CABF Face-to-Face Meeting 56**
 
-# **Day 1 – June 6, 2022**
+# Day 1 – June 6, 2022
 
-## **Attendance**
+## Attendance
 
 Dean Coclin, Corey Bonnell, Aleksandra Kurosz, Dustin Hollenback, Ben Wilson, Clemens Wanko, Dimitris Zacharopoulos, Iñigo Barreira, Martijn Katerbarg, Paul van Brouwershaven, Andreas Henschel, Arnold Essing, Stephen Davidson, Peter Miskovic, Jozef Nigut, Aneta Wojtczak-Iwanicka, Kateryna Aleksieieva, Atsushi Inaba, Michał Malinowski, Wojciech Trapczyński, Mike Agrenius Kushner (Guest), Henrik Sunmark (Guest), Aleksandra Ilnicka, Anna Sikorska, Leo Grove, Huseyin Kuran, Robert Poznański (Guest), Sissel Hoel, Mads Henriksveen, Tomasz Litarowicz, Ewelina Chudy, Paulina Karwowska
 
 **REMOTE**: Ryan Dickson, Bruce Morton, Trevoli Ponds-White, Doug Beattie, Rae Ann Gonzales, Ian McMillan, Steven Deitte, Wendy Brown, Don Sheehy, Jeff Ward, Curt Spann, Pekka Lahtiharju, Daryn Wright, Wayne Thayer, Roman Fischer, Clint Wilson, Adam Jones, Raffaela Achermann, Tadahiko Ito, Joanna Fox, Rachel McPherson, Fumihiko Yoneda, Yoshiro Yoneya, Sooyoung Eo, Ho Geun Yoo, Michelle Coon, Brittany Randall, Li-Chun Chen, Aaron Poulsen, Marcelo Silva, Adam Clark, Tim Hollebeek, Heather Warncke, Michael Slaughter, Xiu Lei, Antti Backman, Andrea Holland, Israr Ahmed, Lynn Jeun, Vijayakumar Manjunatha, Prachi Jain, Daniel Jeffery, Tyler Myers, Hazhar Ismail, Katsuyoshi OZAKI, Yoshihiko Matsuo, Janet Hines, Niko Carpenter, Nargis Mannan, Nick Pope, Arno Fiedler, Karina Sirota, Rebecca Kelley, Zurina Zolkaffly, Khairil Nizam, Adrian Mueller, Rich Smith, Joseph Ramm, Corey Rasmussen, Tsung-Min Kuo, Eva Van Steenberge, Chris Kemmerer, Michael Sykes, Tom Zermeno Jeremy Rowley, Ashish Dhiman, Roland Yiu
 
-## **Approval of CABF Minutes from last teleconference**
+## Approval of CABF Minutes from last teleconference
 
 **Leader:** Dean Coclin (Digicert)
 **Minutes:** Approval was postponed so members can have time to review the minutes which were posted late.
 
-## **Future face to face meeting schedule, fall election discussion, working group chairs**
+## Future face to face meeting schedule, fall election discussion, working group chairs
 
 **Leader:** Dean Coclin (Chair)
 
@@ -30,9 +30,9 @@ Presentation: [Forum Election Summary][1]
 
 **Minutes:** Volunteers were requested for 2023 meeting hosts. Interested parties should contact Dean. A discussion around the fall election and the allowance of WG chairs to be re-elected as the WG charter is vague in that regard. Tim and Dimitris believe the Forum charter should be revised to specifically allow this. Tim to draft revised language.
 
-## **Browser Updates**
+## Browser Updates
 
-### **Mozilla Root Program Update**
+### Mozilla Root Program Update
 
 **Leader:** Ben Wilson (Mozilla)
 **Minutes:** Dimitris Zacharopoulos (HARICA)
@@ -40,7 +40,7 @@ Presentation: [Forum Election Summary][1]
 
 **Discussion outside the presentation:** No additional discussion or questions.
 
-### **Google Root Program Update**
+### Google Root Program Update
 
 **Leader:** Ryan Dickson (Google)
 **Minutes:** Doug Beattie (Globalsign)
@@ -48,7 +48,7 @@ Presentation: [Forum Election Summary][1]
 
 Ryan’s presentation had these 3 main agenda items; please see the presentation for details.
 
-#### **1. Chrome Root Program Updates**
+#### 1. Chrome Root Program Updates
 
 **Update Summary:** Chrome is continuing to make progress on establishing their own root store
 
@@ -67,7 +67,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 - Chrome is continuing its gradual roll-out of new features related to the Chrome Root Program, including the Chrome Certificate Verifier and Chrome Root Store.
 - Ryan shared general reminders for CA operators.
 
-#### **2. Certificate Transparency Updates**
+#### 2. Certificate Transparency Updates
 
 **Update Summary:** No significant updates since the February F2F. A few reminders were shared.
 
@@ -78,13 +78,13 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 - CT enforcement in Chrome on Android landed in Chrome 101
 - Google is still working to turn-down its legacy, non-shared Logs. Advance notice will be shared when these efforts restart.
 
-#### **3. General Browser Updates**
+#### 3. General Browser Updates
 
 - Ryan detailed the planned deployment schedule for features related to the Chrome Root Program Launch. He indicated that a “backup“ slide included in the presentation discusses testing procedures using Chrome Canary.
 - Updated contact email:
 - Policy page reminder:
 
-### **Apple Root Program Update**
+### Apple Root Program Update
 
 **Leader:** Clint Wilson (Apple)
 **Minutes:** Dustin Hollenback (Microsoft)
@@ -130,7 +130,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 - Clint (Apple) said that it could be a combination of IETF, the browsers, and other forums
 - Tim (DigiCert) encouraged Clint to bring this up at IETF. He suggested going to all of the forums to discuss.
 
-### **Microsoft Root Program Update**
+### Microsoft Root Program Update
 
 **Leader:** Karina Sirota (Microsoft)
 **Minutes:** Martijn Katerbarg (Sectigo)
@@ -158,7 +158,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 **Communications Reminder:** Program audit requirements can be found at .
 
-## **Guest Speaker: Quantum Cryptography**
+## Guest Speaker: Quantum Cryptography
 
 **Presenter:** Robert Poznański (Certum)
 
@@ -166,7 +166,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 [Post-Quantum Cryptography and Trust Services][4]
 
-## **Potential Working Group on standardizing terms across the Forum**
+## Potential Working Group on standardizing terms across the Forum
 
 **Leader:** Clint Wilson (Apple)/Trevoli Ponds-White (Amazon)
 **Minutes:** Stephen Davidson (Digicert)
@@ -189,7 +189,7 @@ Tadahiko noted that this may impact CA CPSs that currently ref the different BR 
 
 Stephen noted that there would have to be clear allocation of responsibilities between the Definition WG and the other WGs, and handling how WG’s can propose new or changed defs, otherwise the defs would quickly begin to deviate again in the “type” BRS. He gave the example of how the TLS BR dealt with conversion of non ASCII characters in the context of TLS but the sense was slightly different for S/MIME and called for an expanded definition. It would be important to explain how “niche” changes would be dealt with. Trevoli Ponds-White noted this would be for core defs, and that the niches would probably stay in the WG documents. Paul van Brouwershaven suggested that an automated definition check could make the documentation effort more useful and accurate. Clint asked CABF members who were interested in assisting in writing the charter to contact he and Trev.
 
-## **SMCWG Meeting**
+## SMCWG Meeting
 
 Leader: Stephen Davidson (DigiCert) Minutes: Mads Stephen: Discussion of feedback to the draft SBR: the goal today is to go through the feedback and try to solve open issues. We hope to be able to create a ballot after the next WG meeting.
 
@@ -275,13 +275,13 @@ Change Country to SHALL and require state and localliy if this is necessary to d
 
 Stephen: I will create a new redline based on this feedback and encourages all groups to add comments.
 
-# **CABF Face-to-Face Meeting 56: Day 2**
+# CABF Face-to-Face Meeting 56: Day 2
 
-## **Attendees**
+## Attendees
 
 See Day 1 list with the addition of the following: Nick Pope,
 
-## **Continued discussion of Fall elections**
+## Continued discussion of Fall elections
 
 **Leader:** Dean Coclin (DigiCert)
 
@@ -289,9 +289,9 @@ See Day 1 list with the addition of the following: Nick Pope,
 
 **Minutes:** Tim to propose a ballot and will decide if re-elections will be allowed for Forum Chairs.
 
-## **Audit Updates**
+## Audit Updates
 
-### **ETSI Update**
+### ETSI Update
 
 **Leader:** Nick Pope (Vice Chair ETSI ESI))
 **Minutes:** Clemens Wanko (TUV AUSTRIA)
@@ -311,7 +311,7 @@ Further information was provided with regard to:
 
 ETSI already identified 40 requirements resulting from eIDAS 2 which are covered by the current ETSI standards. Ten further standards require updates. Three new standards for eIDAS 2 currently have high priority: Profiles for Attribute Attestation, Policy and security requirements for Attribute Attestation Services, EU Digital ID Wallet interfaces for trust services and signing.
 
-### **ACAB’C Update**
+### ACAB’C Update
 
 **Leader:** Clemens Wanko (TÜV AUSTRIA)
 **Minutes:** Andreas Henschel (D-TRUST)
@@ -329,7 +329,7 @@ Ben – When is the adoption deadline of NIS 2?
 Clemens – Still in discussion. eIDAS 2 will set a date. Probably not before 2023 plus transition period.
 Dimitris – there will be a two year transition from the date the directive comes into force for implementing national legislation
 
-### **WebTrust Update**
+### WebTrust Update
 
 **Leader:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Minutes:** Ben Wilson
@@ -365,13 +365,13 @@ Slide 19 – Reporting Structure / Roles – Jeff Ward – Chair, Don Sheehy –
 
 Slide 20 – Questions. Re: CPA Canada and China. Since the last F2F meeting, the situation was resolved as follows: CPA Canada will not address directly with mainland China, but a Hong Kong auditor can list China as an area and provide seals for a CA located in mainland China.
 
-## **Continued discussion of Fall elections**
+## Continued discussion of Fall elections
 
 Leader: Dean Coclin (DigiCert) Minutes: [See attached presentation][1]
 
-## **Summary Presentations from Working Groups**
+## Summary Presentations from Working Groups
 
-### **Server Certificate Working Group (SCWG)**
+### Server Certificate Working Group (SCWG)
 
 **Leader:** Doug Beattie (GlobalSign), Vice-Chair, SCWG
 **Minutes:** Aneta Wojtczak (Microsoft)
@@ -398,7 +398,7 @@ The project work tracking was moved from Trello to GitHub.
 
 There was some discussion about EV guidelines regarding “3-second rule” for downloading CRLs for EV certificate chains and clean up EV Enterprise RA language. Those two items will be covered in more details tomorrow during the Validation subcommittee meeting.
 
-### **Code-Signing Certificate Working Group (CSCWG)**
+### Code-Signing Certificate Working Group (CSCWG)
 
 **Leader:** Bruce Morton (Entrust)
 **Minutes:** Bruce Morton
@@ -416,7 +416,7 @@ Now that the format ballot is done, we will move ahead with ballots to address t
 - Time-stamp updates
 - Open-Source Project Applicants
 
-### **S/MIME Certificate Working Group (SMCWG)**
+### S/MIME Certificate Working Group (SMCWG)
 
 **Leader:** Mads Henriksveen (BuyPass)
 **Minutes:** Stephen Davidson (DigiCert)
@@ -438,7 +438,7 @@ Target to move to ballot at end of summer!
 - 60 day IPR review
 - 8 month effective date
 
-### **Network Security Working Group (NETSECWG)**
+### Network Security Working Group (NETSECWG)
 
 **Leader:** Clint Wilson (Apple)
 **Minutes:** Adam Jones (Microsoft)
@@ -459,7 +459,7 @@ Target to move to ballot at end of summer!
 - Usage of cloud services – need to update requirements to reflect changing reality
 - True understanding of high security zones and requirements (are vs. should)
 
-### **Infrastructure Subcommittee**
+### Infrastructure Subcommittee
 
 **Leader:** Ben Wilson (Mozilla), Vice-Chair, Infrastructure Subcommittee
 **Minutes:** Martijn Katerbarg
@@ -472,7 +472,7 @@ Our webpage uses an old PHP version (version 7), which means we may need to take
 
 Ballot shepherds that can help with any issues and setup a process for creating ballots using GitHub is still on the backlog.
 
-## **CSCWG Meeting**
+## CSCWG Meeting
 
 Leader: Bruce Morton (Entrust) Minutes: Dean Coclin Bruce read the anti-trust statement. Attendance: In the room: Leo Grove (SSL.com), Josef Nigut (Disig), Atsushi Inaba (Globalsign), Mike Agrenius Kushner (Keyfactor-Guest), Heinrik (Keyfactor – Guest), Clemens Wanko (ACAB-c), Aneta Wojcak (Microsoft), Martin Karterbarg (Sectigo), Corey Bonnell (DigiCert), Ben Wilson (Mozilla), Dean Coclin (DigiCert), Inigo Barreira (Sectigo), Dimitris Zacharopoulos (Harica), Tomasz Litarowicz (Certum), Paul vanBrowershaven (Entrust). Alexksandra Kurosz (Certum), Paulina Karwowska (Certum), Ewelina Chudy (Certum), Anna Sikorska (Certum), Aleksandra Iinicka (Certum). On the line: TIm Hollobeek (DigiCert), Wayne Thayer (Fastly), Aaron Paulson (Amazon), Adam Jones (Microsoft), Andrea Holland (SecureTrust), Bruce Wei (TrustAsia), Chris Kemmerer (SSL.com), Don Sheehy (WebTrust), Doug Beattie (Globalsign), Ian McMillan (Microsoft), Eva VanSteenberge (Globalsign), Hazhar Ismail (MSC Trustgate), Jeff Ward (WebTrust), Joanna Fox (Trustcor), Kharil Nizam (MSC Trustgate), Li-Chun Chen (Chungwa Telecom), Lynn Jeun (Visa), Marcelo Silva (Visa), Michael Sykes (SSL.com), Nargis Mannan (SecureTrust), Niko Carpenter (SecureTrust), Rollin Yiu (TrustAsia), Tadahiko Ito (Secom), Thomas Zermeno (SSL.com), Trevoli Ponds-White (Amazon), Tsung Min-Kuo (Chungwa Telecom), Tyler Myers (GoDaddy), Vijay Kumar (e-Muhdra), Wojciech Trapczynski (Certum), Yoshiro Yoneya (JPRS), Zurina Zolkaffly (MSC Trustgate).
 
@@ -500,20 +500,20 @@ Dimitris asked what the next steps were for future ballots. Martijn suggested we
 
 The meeting for next Thursday (16th) will be canceled so the next meeting will be the 30th.
 
-# **CABF Face-to-Face Meeting 56: Day 3**
+# CABF Face-to-Face Meeting 56: Day 3
 
-## **Attendance**
+## Attendance
 
 See Day 1 with the addition of the following: Attila Rozgonyi (Guest)
 
-## **Approval of CABF Minutes from last teleconference**
+## Approval of CABF Minutes from last teleconference
 
 **Leader:** Dean Coclin (Digicert)
 **Minutes:**
 
 Minutes approved from last 2 teleconferences
 
-## **Server Certificate Working Group Meeting**
+## Server Certificate Working Group Meeting
 
 **Antitrust Statement, Assign Minute Taking, Approval of SCWG Minutes from last teleconference**
 
@@ -534,19 +534,19 @@ The agenda is presented by Doug
 - Debian Weak-Keys
 - SLA for OCSP and CRL responses
 
-### **Validation subcommittee**
+### Validation subcommittee
 
 **Leaders:** Corey Bonnell (DigiCert)
 **Minutes:** Martijn Katerbarg (Sectigo)
 **Presentation link:**
 
-#### **Agenda**
+#### Agenda
 
 Validation Subcommittee Agenda is presented
 
 V1 of the Certificate Profiles Ballot
 
-#### **Any Other business**
+#### Any Other business
 
 Minutes haven’t gone out yet and thus will be reviewed and approved at the next call instead
 
@@ -558,7 +558,7 @@ Progress since Spring F2F
 - We’ve been working on a transition plan
 - Migrated from Trello to GitHub Project for tracking all changes and issues
 
-#### **Certificate Profiles**
+#### Certificate Profiles
 
 Major reformat and changes in BR section 7.1. Getting close to a formal discussion and voting period. A few normative changes are introduced and every CA should start analyzing the draft ballot to determine the impact for them
 
@@ -638,11 +638,11 @@ _MUST (NOT) level changes for Non-TLS ICAs_
 
 There’s a discussion on what or when the TLS BRs can say something of a non-TLS ICA. This is deemed in scope when the issuing certificate’s key is used when the issuing CA is also TLS-capable.
 
-## **Guest Speaker – Attila Rozgonyi, EFQTSP and Microsec**
+## Guest Speaker – Attila Rozgonyi, EFQTSP and Microsec
 
 [EFQTSP and CA/B Forum relations][7]
 
-## **Network Security Working Group Meeting**
+## Network Security Working Group Meeting
 
 Presenter: Clint Wilson (Apple) Minutes: Ryan Dickson (Google Chrome)
 

@@ -3,13 +3,11 @@ aliases:
 - /scwg/
 author: Ben Wilson
 date: 2018-07-12 16:39:37
-title: Server Certificate Working Group
 linkTitle: Server Cert WG
-
 menu:
   main:
     weight: 2
-
+title: Server Certificate Working Group
 ---
 
 ## Officers
@@ -40,7 +38,7 @@ Archives –
 
 [Validation Subcommittee][6]
 
-## Members {#members.wp-block-heading}
+## Members 
 
 **Certificate Issuers**:
 AC Camerfirma SA

@@ -9,11 +9,11 @@ title: 'Ballot SC42: 398-day Re-use Period'
 type: post
 ---
 
-## Voting Results {.wp-block-heading}
+## Voting Results 
 
 The voting on **SC42v2** has completed, and the ballot has **passed**.
 
-### Certificate Issuers {.wp-block-heading}
+### Certificate Issuers 
 
 **2****6 votes total, with no abstentions**
 
@@ -23,7 +23,7 @@ The voting on **SC42v2** has completed, and the ballot has **passed**.
 
 ·         0 Abstentions
 
-### **Certificate Consumers** {.wp-block-heading}
+### Certificate Consumers 
 
 **5 votes total, with no abstentions**
 
@@ -33,7 +33,7 @@ The voting on **SC42v2** has completed, and the ballot has **passed**.
 
 3.      0 Abstentions
 
-### Bylaw Requirements {.wp-block-heading}
+### Bylaw Requirements 
 
 1. Bylaw 2.3(f) requires:
 
@@ -47,9 +47,9 @@ The voting on **SC42v2** has completed, and the ballot has **passed**.
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Ballot Text {.wp-block-heading}
+## Ballot Text 
 
-### Ballot SC42v2: 398-day IP Address and Domain Validation Reuse Period. {.wp-block-heading}
+### Ballot SC42v2: 398-day IP Address and Domain Validation Reuse Period. 
 
 **Type of Ballot:**
 

@@ -9,37 +9,37 @@ title: 2022-01-20 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees {#attendees.wp-block-heading}
+## Attendees 
 
 Aaron Gable (Let’s Encrypt), Adam Clark (Visa), Adam Jones (Microsoft), Andrea Holland (SecureTrust), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (Digicert), Daryn Wright (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Fumihiko Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Israel Ventura (US Federal PKI Management Authority), Janet Hines (SecureTrust), Joanna Fox (TrustCor Systems), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Kati Davids (GoDaddy), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Miguel Sanchez (Google), Natalia Kotliarsky (SecureTrust), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Pekka Lahtiharju (Telia Company), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Ryan Dickson (Google), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Tom Zermeno (SSL.com), Trevoli Ponds-White (Amazon), Tyler Myers (GoDaddy), Vijay Kumar (India PKI Forum), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## Minutes {#minutes.wp-block-heading}
+## Minutes 
 
-### 1. Read Antitrust Statement {#1-read-antitrust-statement.wp-block-heading}
+### 1. Read Antitrust Statement 
 
 Jos Purvis read the antitrust statement.
 
-### 2. Roll Call {#2-roll-call.wp-block-heading}
+### 2. Roll Call 
 
 Dean read the roll.
 
-### 3. Review Agenda {#3-review-agenda.wp-block-heading}
+### 3. Review Agenda 
 
 No changes were made to the agenda.
 
-### 4. Approval of Minutes from Last Teleconference {#4-approval-of-minutes-from-last-teleconference.wp-block-heading}
+### 4. Approval of Minutes from Last Teleconference 
 
 The minutes from the 6-January call were approved without changes.
 
 Jos said that the minutes from the last face-to-face will be published to the website once one last browser update presentation is received.
 
-### 5. Validation Subcommittee Update {#5-validation-subcommittee-update.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Tim Hollebeek said that he resigned as the chair, and Corey Bonnell was approved as the new chair by consensus on the last call. The subcommittee (SC) discussed the “Amazon delegation to the CA” method and some concerns that were posted to the list. The concern is when the CNAME is delegated to the CA and the Subscriber is not involved. There is interest in developing a new validation method that resolves these concerns and supports automation. The now-expired ballot SC52 was discussed but it’s unclear how to proceed given concerns that were raised during the discussion period. Paul Van Brouwershaven presented some interesting findings on “Mojibake” IDNs such as when it is not appropriate to mix different encodings. This issue may be taken up by the SC in the future. Finally, Wayne Thayer noted that the literal text of tracking BR version number is not what most CAs actually do. It was agreed that this should be clarified.
 
 Jos thanked Tim for his service as chair.
 
-### 6. NetSec Subcommittee Update {#6-netsec-subcommittee-update.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Jos said that the NetSec SC is now a working group (WG) and their update will shift to the Forum plenary, but any transition items will be discussed here for the next few meetings.
 
@@ -67,32 +67,32 @@ Tim commented that all the NCSSR requirements are general.
 
 Bruce Morton said that the CSCWG doesn’t have a specific version reference for the NCSSRs as it does for the BRs and EVGLs. This is good because we need to adopt improvements the NetSec WG has made to the NCSSRs. Requirements that are specific to other WGs should land in the respective WGs requirements, not in the NCSSRs.
 
-### 7. Ballot Status {#7-ballot-status.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {#ballots-in-discussion-period.wp-block-heading}
+#### Ballots in Discussion Period 
 
-##### Ballot SC51: Reduce & Clarify Audit Log and Records Archival Retention Requirements {#ballot-sc51-reduce-clarify-audit-log-and-records-archival-retention-requirements.wp-block-heading}
+##### Ballot SC51: Reduce & Clarify Audit Log and Records Archival Retention Requirements 
 
 Clint said that there is great discussion on the list. This ballot originally came from an attempt by Neil Dunbar to reduce the retention period for archives to match the reduced period for audit logs. In the process, it was discovered that there is not a shared understanding of what section 5.5 is about. It eventually became clear that the processing of data is a sequence of events. A large portion of the data comes from event logs. The records archive is a superset that includes audit logs. To clarify the meaning of 5.5, the new ballot language is repetitious and very specific. Clint said that he is open to alternatives, then asked if there is there interest in including the note that Dimitris proposed stating that this is a minimum requirement and CAs are encouraged to go beyond it.
 
 Trev said that one theme in the feedback is that “archive” is an undefined term and the feedback is oriented to individual interpretations. These are the records that you are supposed to keep and for how long. How to store and secure this data is currently undefined.
 
-#### Ballots in Voting Period {#ballots-in-voting-period.wp-block-heading}
+#### Ballots in Voting Period 
 
-##### Ballot SC53: Sunset for SHA-1 OCSP Signing – voting ends on 24-Jan {#ballot-sc53-sunset-for-sha-1-ocsp-signing-voting-ends-on-24-jan.wp-block-heading}
+##### Ballot SC53: Sunset for SHA-1 OCSP Signing – voting ends on 24-Jan 
 
-#### Ballots in Review Period {#ballots-in-review-period.wp-block-heading}
-
-None
-
-#### Draft Ballots Under Consideration {#draft-ballots-under-consideration.wp-block-heading}
-
-##### SC52 (expired) replacement ballot {#sc52-expired-replacement-ballot.wp-block-heading}
-
-### 8. Any Other Business {#8-any-other-business.wp-block-heading}
+#### Ballots in Review Period 
 
 None
 
-### 9. Next call: February 3rd, 2022 at 11AM Eastern {#9-next-call-february-3rd-2022-at-11am-eastern.wp-block-heading}
+#### Draft Ballots Under Consideration 
+
+##### SC52 (expired) replacement ballot 
+
+### 8. Any Other Business 
+
+None
+
+### 9. Next call: February 3rd, 2022 at 11AM Eastern 
 
 Adjourn; Immediately convene meeting of CA Browser Forum (same call)

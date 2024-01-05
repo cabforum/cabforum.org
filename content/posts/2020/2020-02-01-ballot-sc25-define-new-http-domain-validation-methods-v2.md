@@ -9,11 +9,11 @@ title: 'Ballot SC25: Define New HTTP Domain Validation Methods v2'
 type: post
 ---
 
-## BALLOT RESULTS {.wp-block-heading}
+## BALLOT RESULTS 
 
 The voting period for Ballot SC25 has ended and **the Ballot has Passed**. Here are the results:
 
-### **Voting by Certificate Issuers** {.wp-block-heading}
+### Voting by Certificate Issuers 
 
 **24 votes total including abstentions**
 
@@ -23,7 +23,7 @@ The voting period for Ballot SC25 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Issuers voted in favor.
 
-### **Voting by Certificate Consumers** {.wp-block-heading}
+### Voting by Certificate Consumers 
 
 **5 votes total including abstentions**
 
@@ -33,7 +33,7 @@ The voting period for Ballot SC25 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Consumers voted in favor.
 
-### **Relevant Bylaw references** {.wp-block-heading}
+### Relevant Bylaw references 
 
 Bylaw 2.3(f) requires:
 
@@ -42,7 +42,7 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was **11** votes – quorum was met.”
 
-## Ballot SC25: Define New HTTP Domain Validation Methods v2 {.wp-block-heading}
+## Ballot SC25: Define New HTTP Domain Validation Methods v2 
 
 **Purpose of Ballot:**
 

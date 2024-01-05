@@ -7,23 +7,23 @@ title: Minutes of the F2F 45 Meeting in Shanghai, China, 17-18 October 2018
 type: post
 ---
 
-## Day One – 17 October 2018 {.wp-block-heading}
+## Day One – 17 October 2018 
 
 **Attendees on October 17, 2018:** Iñigo Barreira, 360; Richard Wang, 360 Group; Billy Qin, 360 Group; Danny Wu, 360 Group; Clemens Wanko, ACAB’c; Phillipe Bouchet, ACAB’c; Trevoli Ponds-White, Amazon Trust Services; Xiaosi Li, Amazon Trust Services; Geoff Keating, Apple; Paul Yang, BaishanCloud / OpenSSL; Franck Leroy, Certinomis (Docapost); Aleksandra Kapinos, Certum; Wojciech Trapczyński, Certum; Yi Zhang, CFCA; Jonathan Sun, CFCA; Ivy Xu, CFCA; J.P. Hamilton, Cisco; Jos Purvis, Cisco; Robin Alden, Comodo CA; Tony K.F. Chan, Deloitte China (Beijing); Jesse Yun He Wang, Deloitte China (Beijing); Putzy De Wei Lu, Deloitte China (Beijing); Peter Koo, Deloitte China (Hong Kong); Ben Wilson, DigiCert; Tim Hollebeek, DigiCert; Arno Fiedler, D-TRUST; Enrico Entschew, D-TRUST; Vijayakumar (Vijay) Manjunatha, eMudhra Technologies Limited; Kirk Hall, Entrust Datacard; Bruce Morton, Entrust Datacard; Chris Bailey, Entrust Datacard; Ken Myers, Federal PKI; Wei Yicai, GDCA; Zhang Yongqiang, GDCA; Wang Chunlan, GDCA; Xiu Lei, GDCA; Atsushi Inaba, GlobalSign; Doug Beattie, GlobalSign; Daymion Reynolds, GoDaddy; Adam Sink, GoDaddy; Devon O’Brien, Google; Ryan Sleevi, Google; Ryan Hurst, Google; Dimitris Zacharopoulos, HARICA; Xu Jiang 徐江, Huace Network Security Cert. Auth.; Zhang Yong, Huace Network Security Cert. Auth.; Rachel Gao, Huace Network Security Cert. Auth.; Mike Reilly, Microsoft; Gordon Bock, Microsoft; Wayne Thayer, Mozilla; Tomasz Nowak, Opera; Albert L. Lam, PwC; Freeman Guo, PwC; Tadahiko Ito, SECOM; Cui Jiuqiang, SHECA; Dai Yeqi, SHECA; William Luo, ShenZhen Digital Certificate Authority Center Co., Ltd; Zheng Huitao, ShenZhen Digital Certificate Authority Center Co., Ltd; Fotis Loukos, SSL.com; Leo Grove, SSL.com; Matthias Bartholdi, SwissSign; Edwin Zhai, TrustAsia Technologies, Inc.; Jack Zhang, TrustAsia Technologies, Inc.; Frank Corday, Trustwave; Jeff Ward, WebTrust/BDO; Don Sheehy, WebTrust/CPA Canada.
 
-### Call to Order – CA/Browser Forum Plenary Meeting {#mce_8.wp-block-heading}
+### Call to Order – CA/Browser Forum Plenary Meeting 
 
-#### Read Antitrust Statement {.wp-block-heading}
+#### Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-#### 1. Approval of CABF Minutes from Oct. 4 call (emailed Oct. 5) {.wp-block-heading}
+#### 1. Approval of CABF Minutes from Oct. 4 call (emailed Oct. 5) 
 
 **Presenter:** Kirk Hall, Entrust Datacard
 **Notetaker:** Kirk.
 The draft Minutes were approved, and will be posted to the Public list.
 
-#### 2. Report from Forum Infrastructure Working Group {.wp-block-heading}
+#### 2. Report from Forum Infrastructure Working Group 
 
 **Presenter:** Jos Purvis, Cisco
 **Notetaker:** Robin
@@ -31,7 +31,7 @@ The first item discussed by the Forum Infrastructure Working Group was website c
 The second item discussed was the wiki. We have an offer from Microsoft to test out SharePoint. We also have a couple of open-source, self-hosted options we can test, so the idea was to test the options. When we have something set up, we’ll migrate over a little bit of data and test and then make a recommendation to the Forum as a whole.
 The third item was document management. We felt there were several different problems. One was identifying the canonical version of the Baseline Requirements. The EV Guidelines and the Network Security document already have defined GitHub as the canonical version. We discussed how to improve the document management workflow for ballots. Tim volunteered to put together a set of instructions on how to get a ballot from idea into GitHub and to the Forum vote. Hopefully in working on the process we’ll identify where we have problems, such as identifying the canonical version of the Baseline Requirements. We discussed whether to use GitHub or Word, but before deciding on a process, we felt that we needed to identify the canonical version first. We also decided that we need to identify the what – “I need a red-line version, I don’t care what format it’s in”, etc.
 
-#### 3. Report on Governance Change, Bylaws Issues: (1) Governance WG or Subcommittee, (2) Review Bylaws Change List {.wp-block-heading}
+#### 3. Report on Governance Change, Bylaws Issues: (1) Governance WG or Subcommittee, (2) Review Bylaws Change List 
 
 **Presenter:** Jos Purvis, Cisco
 **Notetaker:** Bruce
@@ -45,13 +45,13 @@ _**Conflicts in Forum and WG Rules**_
 Finally, Dimitris raised the question of whether the Forum rules take precedence over conflicting rules from the WG charters. Ryan pointed out there are two questions here: one of conflicting rules, and one of lack of guidance. The group agreed that conflicts in WG charters should be avoided by more careful reviews of charters while establishing them; Ryan added that a more specific list of requirements would improve this (e.g. ‘must specify voting structure’, ‘must specify mailing list requirements’, etc.).
 Tim indicated that a major problem with the Bylaws was a lack of guidance over what rules applied only to the Forum, what rules also were required to apply to Working Groups or Subcommittees no matter what, and which rules were required to apply to WGs if they didn’t specify anything else. That is, which rules descended to WGs and which ones of those could the WG decide to override in their charter. The group agreed that the resolution to this was to review and revise the Bylaws to add statements like “Working Groups must do X” vs. “Working Groups must do X unless otherwise specified in the WG charter”. We know the SCWG has this issue with the Bylaws already, so everyone felt the group as a whole could begin tackling the Bylaws for review immediately, without needing to wait on the resolution of the Governance committee issue.
 
-#### 4. Potential Amendments to SCWG Charter {.wp-block-heading}
+#### 4. Potential Amendments to SCWG Charter 
 
 **Presenter:** Tim Hollebeek, DigiCert
 **Notetaker:** Dimitris
 This topic was covered by the previous (slot #3) discussion. There was consensus that the current SCWG Charter should be amended to reflect the changes that we would like to see in a CWG template. This review needs to take place along with the review of the Bylaws.
 
-#### 5. Creation of additional Working Groups – Code Signing {.wp-block-heading}
+#### 5. Creation of additional Working Groups – Code Signing 
 
 **Presenter:** Ben Wilson, DigiCert
 **Notetaker:** Arno
@@ -59,7 +59,7 @@ Tim had sent the draft charter on 24.04.2018 to the Mailinglist. Previously ther
 Ryan S – Regarding scope, it would be good to identify the work in detail and then define the working group.
 Discussion followed on who should participate in a working group and what user agents would be involved.
 
-#### 6. Creation of additional Working Groups – Secure Mail; Other {.wp-block-heading}
+#### 6. Creation of additional Working Groups – Secure Mail; Other 
 
 **Presenter:** Ben Wilson, DigiCert
 **Notetaker:** Kenneth Myers, Protiviti supporting the US Federal PKI
@@ -84,28 +84,28 @@ A Secure Email Working Group was first brought up at the London meeting. We unde
 - Ryan – IETF ran into this problem where they had multiple groups with no products and caused confusion when trying to update or create a new document because of the overlapping scopes.
 - Kirk – Geoff, if you are interested in a CA Certificate Working group, please draft a charter for the group to discuss.
 
-### Call to Order – Server Certificate Working Group Plenary Meeting {.wp-block-heading}
+### Call to Order – Server Certificate Working Group Plenary Meeting 
 
 **Attendees on October 17, 2018:** Iñigo Barreira, 360; Richard Wang, 360 Group; Billy Qin, 360 Group; Danny Wu, 360 Group; Clemens Wanko, ACAB’c; Phillipe Bouchet, ACAB’c; Trevoli Ponds-White, Amazon Trust Services; Xiaosi Li, Amazon Trust Services; Geoff Keating, Apple; Paul Yang, BaishanCloud / OpenSSL; Franck Leroy, Certinomis (Docapost); Aleksandra Kapinos, Certum; Wojciech Trapczyński, Certum; Yi Zhang, CFCA; Jonathan Sun, CFCA; Ivy Xu, CFCA; J.P. Hamilton, Cisco; Jos Purvis, Cisco; Robin Alden, Comodo CA; Tony K.F. Chan, Deloitte China (Beijing); Jesse Yun He Wang, Deloitte China (Beijing); Putzy De Wei Lu, Deloitte China (Beijing); Peter Koo, Deloitte China (Hong Kong); Ben Wilson, DigiCert; Tim Hollebeek, DigiCert; Arno Fiedler, D-TRUST; Enrico Entschew, D-TRUST; Vijayakumar (Vijay) Manjunatha, eMudhra Technologies Limited; Kirk Hall, Entrust Datacard; Bruce Morton, Entrust Datacard; Chris Bailey, Entrust Datacard; Ken Myers, Federal PKI; Wei Yicai, GDCA; Zhang Yongqiang, GDCA; Wang Chunlan, GDCA; Xiu Lei, GDCA; Atsushi Inaba, GlobalSign; Doug Beattie, GlobalSign; Daymion Reynolds, GoDaddy; Adam Sink, GoDaddy; Devon O’Brien, Google; Ryan Sleevi, Google; Ryan Hurst, Google; Dimitris Zacharopoulos, HARICA; Xu Jiang 徐江, Huace Network Security Cert. Auth.; Zhang Yong, Huace Network Security Cert. Auth.; Rachel Gao, Huace Network Security Cert. Auth.; Mike Reilly, Microsoft; Gordon Bock, Microsoft; Wayne Thayer, Mozilla; Tomasz Nowak, Opera; Albert L. Lam, PwC; Freeman Guo, PwC; Tadahiko Ito, SECOM; Cui Jiuqiang, SHECA; Dai Yeqi, SHECA; William Luo, ShenZhen Digital Certificate Authority Center Co., Ltd; Zheng Huitao, ShenZhen Digital Certificate Authority Center Co., Ltd; Fotis Loukos, SSL.com; Leo Grove, SSL.com; Matthias Bartholdi, SwissSign; Edwin Zhai, TrustAsia Technologies, Inc.; Jack Zhang, TrustAsia Technologies, Inc.; Frank Corday, Trustwave; Jeff Ward, !WebTrust/BDO; Don Sheehy, !WebTrust/CPA Canada.
 
-#### Read Antitrust Statement {.wp-block-heading}
+#### Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-#### 7. Approval of SCWG Minutes from Oct. 4 call (emailed Oct. 5) {.wp-block-heading}
+#### 7. Approval of SCWG Minutes from Oct. 4 call (emailed Oct. 5) 
 
 **Presenter:** Kirk Hall, Entrust Datacard
 **Notetaker:** Kirk.
 The draft Minutes were approved, and will be posted to the Public list.
 
-#### 8. Opera Root Program Update {.wp-block-heading}
+#### 8. Opera Root Program Update 
 
 **Presenter:** Tomasz Nowak, Opera
 **Notetaker:** Doug
 
 [CAB Forum 2018-10-17 Opera Root Program Update](/uploads/CAB-Forum-2018-10-17-Opera-Root-Program-Update.pdf)[Download](/uploads/CAB-Forum-2018-10-17-Opera-Root-Program-Update.pdf)
 
-#### 9. Mozilla Root Program Update {.wp-block-heading}
+#### 9. Mozilla Root Program Update 
 
 **Presenter:** Wayne Thayer, Mozilla
 **Notetaker:** Jos Purvis, Cisco
@@ -147,26 +147,26 @@ Mozilla has enabled the “full” Symantec distrust in Firefox 63 Nightly. Due 
 _**No Stipulation in CPS**_
 Kathleen recently began a discussion on the mozilla.dev.security.policy list about the use of “No stipulation” in sections of a CP or CPS. It appears that the term is sometimes being used to mean that the CA does not do whatever is covered by that section of the document, but that is not what the term means. Mozilla interprets the term to mean “the CA has placed no limits on what it can do”, so we are concerned by its use, especially in sections where we want to know exactly what a CA’s policies are. Kathleen has added a section to our Required Practices that requires CAs to include all sections defined in RFC 3647 in their CP/CPS and forbids the use of the term “no stipulation” in any section other than those BR sections that state “no stipulation”, “not applicable”, or are blank. If you have any concerns, please join in the discussion on the mailing list. _A member pointed out that RFC3647 contains guidance on the use of the term ‘No Stipulation’ that matches Wayne’s request here._
 
-#### 10. Microsoft Root Program Update {.wp-block-heading}
+#### 10. Microsoft Root Program Update 
 
 **Presenter:** Mike Reilly, Microsoft
 **Notetaker:** Tim
 
 [Microsoft_CABF_45_Update](/uploads/Microsoft_CABF_45_Update.pdf)[Download](/uploads/Microsoft_CABF_45_Update.pdf)
 
-#### 11. International Adoption of Chinese Cryptography Algorithms – Implementation and Standardization Progress {.wp-block-heading}
+#### 11. International Adoption of Chinese Cryptography Algorithms – Implementation and Standardization Progress 
 
 **Presenter:** Paul Yang, BaishanCloud / Open SSL
 
 [CABTalks](/uploads/CABTalks.pdf)[Download](/uploads/CABTalks.pdf)
 
-#### 12. Introduction and Expectations for Standards and Restrictions for Browsers and Government Websites in China {.wp-block-heading}
+#### 12. Introduction and Expectations for Standards and Restrictions for Browsers and Government Websites in China 
 
 **Presenter:** Quan Liu, China Electronic Authorization Industry Alliance
 
 [Browser-Support-for-SM2](/uploads/Browser-Support-for-SM2.pdf)[Download](/uploads/Browser-Support-for-SM2.pdf)
 
-#### 13. Google Root Program Update {.wp-block-heading}
+#### 13. Google Root Program Update 
 
 **Presenter:** Devon O’Brien, Google
 **Notetaker:** Trevoli Ponds-White, Amazon Trust Services
@@ -177,7 +177,7 @@ Google intentionally hasn’t made any changes to the policy immediately followi
 - Enforce time sharding for CT logs
 - Improvements to clarity of Compliance Monitoring and CT logs inclusion process
 
-#### 14. Cisco Systems Root Program Update {.wp-block-heading}
+#### 14. Cisco Systems Root Program Update 
 
 **Presenter:** Jos Purvis, Cisco
 **Notetaker:** JP Hamilton, Cisco
@@ -190,7 +190,7 @@ Jos gave an overview of Cisco’s Root Store Trust-bundles. The slides presented
 
 [Cisco-CABF-Trust-Store-Update-October-2018](/uploads/Cisco-CABF-Trust-Store-Update-October-2018.pdf)[Download](/uploads/Cisco-CABF-Trust-Store-Update-October-2018.pdf)
 
-#### 15. Apple Root Program Update {.wp-block-heading}
+#### 15. Apple Root Program Update 
 
 **Presenter:** Geoff Keating, Apple
 **Notetaker:** Mike
@@ -207,7 +207,7 @@ _**Other Changes**_
 
 - Virginia has left Apple for other opportunities
 
-#### 16. 360 Root Program Update {.wp-block-heading}
+#### 16. 360 Root Program Update 
 
 **Presenter:** Iñigo Barreira, 360 Group
 **Notetaker:** Ben
@@ -219,7 +219,7 @@ A discussion followed about whether a CP/CPS could be updated during an audit. T
 
 [360_Browser_Updates_CABF_F2F_Shanghai_October_18](/uploads/360_Browser_Updates_CABF_F2F_Shanghai_October_18.pdf)[Download](/uploads/360_Browser_Updates_CABF_F2F_Shanghai_October_18.pdf)
 
-#### 17. ETSI Update {.wp-block-heading}
+#### 17. ETSI Update 
 
 **Presenter:** Arno Fiedler, D-Trust; Phillipe Bouchet, ACAB’c
 **Notetaker:** Enrico
@@ -229,7 +229,7 @@ The accreditation scheme is not person-based, it is accreditation of the auditin
 
 [2018-10-17-ETSI-ACABc-CABFORUM_ShanghaiWednesday](/uploads/2018-10-17-ETSI-ACABc-CABFORUM_ShanghaiWednesday.pdf)[Download](/uploads/2018-10-17-ETSI-ACABc-CABFORUM_ShanghaiWednesday.pdf)
 
-#### 18. WebTrust Update {.wp-block-heading}
+#### 18. WebTrust Update 
 
 **Presenter:** Jeff Ward and Don Sheehy, CPA Canada
 **Notetaker:** Kirk
@@ -252,7 +252,7 @@ Jeff Ward and Don Sheehy presented an update on the WebTrust for CA’s program
 1. **Personnel.** CPA Canada / CPA Canada: Gord Beal, Kaylynn Pippo, Janet Treasue, Bryan Walker, Annette DaRocha, Taryn Abate. Consultant to CPA Canada: Don Sheehy (Vice Chair). Task Force Members and Technical Support Volunteers: Jeff Ward (Chair), BDO; Chris Czajczyc, Deloitte, Reema Anand, KPMG, David Roque, EY; Eric Lin, EY; Daniel Adam, Deloitte; Tim Crawford, BDO; Zain Shabbir, KPMG; Donoghue Clarke, EY; Santhan Raj, KPMG.
 1. **Reporting Structure/Roles.** Gord Beal – WebTrust falls into Guidance and Support activities of CPA Canada / Janet Treasure – Seal system and licensing responsibility / Bryan Walker – Licensing advisor. Don Sheehy – Task Force and CABF liaison. Jeff Ward – Chair of the WebTrust Task Force and primary contact. All Task Force members provide WebTrust services to clients. Volunteers are supported by additional technical associates and CPA Canada liaison but report to CPA Canada
 
-#### 19. Report from SCWG Validation Subcommittee {.wp-block-heading}
+#### 19. Report from SCWG Validation Subcommittee 
 
 **Presenter:** Tim Hollebeek, DigiCert
 **Notetaker:** Leo
@@ -269,7 +269,7 @@ Jeff Ward and Don Sheehy presented an update on the WebTrust for CA’s program
 - No CA voluntarily acknowledges using those methods
 - HTTP validation – write a ballot to tighten up some of the text
 
-#### 20. Improving validation for identity certificates {.wp-block-heading}
+#### 20. Improving validation for identity certificates 
 
 **Presenter:** Tim Hollebeek, DigiCert
 **Notetaker:** Daymion
@@ -284,11 +284,11 @@ Jeff Ward and Don Sheehy presented an update on the WebTrust for CA’s program
 - Building the source list would be a good first step.
 - Tim H: Off of this list we could build a white list.
 
-## Day 2 – 18 October 2019 {.wp-block-heading}
+## Day 2 – 18 October 2019 
 
 **Attendees on October 18, 2018:** Richard Wang, 360 Group; Clemens Wanko, ACAB’c; Phillipe Bouchet, ACAB’c; Trevoli Ponds-White, Amazon Trust Services; Xiaosi Li, Amazon Trust Services; Geoff Keating, Apple; Franck Leroy, Certinomis (Docapost); Aleksandra Kapinos, Certum; Wojciech Trapczyński, Certum; Yi Zhang, CFCA; Jonathan Sun, CFCA; J.P. Hamilton, Cisco; Jos Purvis, Cisco; Robin Alden, Comodo CA; Tony K.F. Chan, Deloitte China (Beijing); Jesse Yun He Wang, Deloitte China (Beijing); Putzy De Wei Lu, Deloitte China (Beijing); Peter Koo, Deloitte China (Hong Kong); Ben Wilson, DigiCert; Tim Hollebeek, DigiCert; Arno Fiedler, D-TRUST; Enrico Entschew, D-TRUST; Vijay Manjunatha, eMudhra Technologies Limited; Kirk Hall, Entrust Datacard; Bruce Morton, Entrust Datacard; Chris Bailey, Entrust Datacard; Wei Yicai, GDCA; Zhang Yongqiang, GDCA; Wang Chunlan, GDCA; Atsushi Inaba, GlobalSign; Doug Beattie, GlobalSign; Daymion Reynolds, GoDaddy; Devon O’Brien, Google; Ryan Sleevi, Google; Ryan Hurst, Google; Dimitris Zacharopoulos, HARICA; Mike Reilly, Microsoft; Gordon Bock, Microsoft; Wayne Thayer, Mozilla; Tomasz Nowak, Opera; Tadahiko Ito, SECOM; Cui Jiuqiang, SHECA; Chen Xiaotong, SHECA; Dai Yeqi, SHECA; William Luo, ShenZhen Digital Certificate Authority Center Co., Ltd; Zheng Huitao, ShenZhen Digital Certificate Authority Center Co., Ltd; Fotis Loukos, SSL.com; Leo Grove, SSL.com; Edwin Zhai, TrustAsia Technologies, Inc.; Ralph Zeng, TrustAsia Technologies, Inc.; Frank Corday, Trustwave; Jeff Ward, WebTrust/BDO; Don Sheehy, WebTrust/CPA Canada.
 
-#### 21. Report from SCWG Network Security Subcommittee {.wp-block-heading}
+#### 21. Report from SCWG Network Security Subcommittee 
 
 **Presenter:** Ben Wilson, DigiCert
 **Notetaker:** Robin Alden, Comodo CA
@@ -306,7 +306,7 @@ Thoughts include:
 
 We will have a doodle pool to have the best meeting time, every two weeks. Have F2F meet or an all-day summit, either before the next CABF F2F, or the day before – on a Monday – in Cupertino. Contact Ben offline to say whether good idea or not. What is the best way to get a jump start on the work tasks. Maybe better not to have summit first, lets talk on the call.
 
-#### 22. Update on London Protocol {.wp-block-heading}
+#### 22. Update on London Protocol 
 
 **Presenter:** Chris Bailey, Entrust Datacard
 **Notetaker:** Bruce
@@ -326,7 +326,7 @@ Summary – We think this is quite positive as customers are thankful to be proa
 Members were listed are: Comodo, GlobalSign, Entrust Datacard, GoDaddy, D-Trust, Trustwave, and Buypass.
 Ryan asked why there was focus on OV and EV certificates? Specifically, the slides discussing it being about improving OV and EV, but seemingly DV could also benefit if this was useful. Chris responded that Entrust only does OV and EV, so it’s naturally where they start, but other participants in the protocol could discuss their motivations. There was a suggestion that one reason is because contact information exists for OV and EV, but Ryan pointed out that DV has contact information as well by virtue of needing to execute the Subscriber agreement. Chris and Daymion clarified that they thing it’s a lot of work, so they’re testing the waters with OV and EV, because it’s not as large as DV.
 
-#### 23. Report on Name Clash Service {.wp-block-heading}
+#### 23. Report on Name Clash Service 
 
 **Presenter:** Daymion Reynolds, GoDaddy
 **Notetaker:** Jos
@@ -359,12 +359,12 @@ At this point, Daymion introduced three proposals from his research:
 
 Ryan asked about the core problem these proposals were trying to solve and whether the gradual elimination of organizational information in the UI by the browsers would affect needing to solve these problems. Daymion responded that the goal was to eliminate the periodic security issues raised around organization information, to get the ecosystem to a more trustable but also more transparent state. He felt that the recent plethora of questions around the contents of the O field had not been answered well by the CA community, and it was clear this piece of the puzzle was lacking in transparency. Wayne Thayer pointed out that improvements here could be done, but collisions would still occur, and the community needed proposals for handling collisions when they happen. Daymion agreed, but pointed out that the CA community is constrained by the dictates of the EV Guidelines, so if there are proposals to be made they have to be baked into the EV Guidelines; he felt it was clear that how CAs are handling the problem right now is insufficient. Another member pointed out CAs often handle collisions in their own issuances well, but don’t properly handle collisions when they cross CAs (i.e. two CAs issuing certificates for colliding values) because they aren’t sharing information sets, and that transparency would help CAs share validation information in order to prevent that.
 
-#### 24. Potential changes to server certificate issuance processes for increased transparency {.wp-block-heading}
+#### 24. Potential changes to server certificate issuance processes for increased transparency 
 
 **Presenter:** Daymion Reynolds, GoDaddy
 **Notetaker:** Gordon
 
-#### 25. Types of audits/reports under WebTrust and their terminology {.wp-block-heading}
+#### 25. Types of audits/reports under WebTrust and their terminology 
 
 **Presenter:** Jeff Ward, Don Sheehy
 **Notetaker:** Kirk
@@ -487,7 +487,7 @@ The path forward:
 1. Depending on 1, 2, and possibly 3 – develop detailed SOC 3 or SOC 2 reporting template for approval by CPA Canada, AICPA and IFAC
 1. Release report for use
 
-#### 26. Types of audits/reports under ETSI and their terminology {.wp-block-heading}
+#### 26. Types of audits/reports under ETSI and their terminology 
 
 **Presenter:** Clemens Wanko, ACAB’c
 **Notetaker:** Phillipe
@@ -496,7 +496,7 @@ The path forward:
 
 [Presentation of ETSI audit reporting](/uploads/20181018_ETSI_Overview_fin_pres.pdf)[Download](/uploads/20181018_ETSI_Overview_fin_pres.pdf)
 
-#### 27. Discussion of current state of audits and membership requirements {.wp-block-heading}
+#### 27. Discussion of current state of audits and membership requirements 
 
 **Presenter:** Ryan Sleevi, Google
 **Notetaker:** Ben
@@ -530,7 +530,7 @@ Ryan: do we have as a priority specificity or transparency? Which of the SOC-typ
 
 [CABF45 – Sleevi – Whats Wrong With the Ecosystem](/uploads/CABF45-Sleevi-Whats-Wrong-With-the-Ecosystem.pdf)[Download](/uploads/CABF45-Sleevi-Whats-Wrong-With-the-Ecosystem.pdf)
 
-#### 28. Audit requirements over the lifecycle of a root {.wp-block-heading}
+#### 28. Audit requirements over the lifecycle of a root 
 
 **Presenter:** Wayne Thayer, Mozilla
 **Notetaker:** Ryan

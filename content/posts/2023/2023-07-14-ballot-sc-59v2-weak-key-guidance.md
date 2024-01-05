@@ -42,7 +42,7 @@ type: post
 
 # Ballot Contents
 
-## **Purpose of the Ballot SC-59**
+## Purpose of the Ballot SC-59
 
 This ballot proposes updates to the Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates related to the identification and revocation of certificates with private keys that were generated in a manner that may make them susceptible to easy decryption. It specifically deals with Debian weak keys, ROCA, and Close Primes Vulnerability.
 
@@ -54,7 +54,7 @@ Notes:
 
 The following motion has been proposed by Thomas Zermeno of SSL.com and has been endorsed by Martijn Katerbarg of Sectigo and Ben Wilson of Mozilla.
 
-## **– Motion Begins –**
+## – Motion Begins –
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 2.0.0.
 
@@ -69,7 +69,7 @@ The procedure for approval of this ballot is as follows:
 - Start time: 2023-06-26 22:00:00 UTC
 - End time: 2023-07-03 21:59:59 UTC
 
-# **Vote for approval (7 days)******
+# Vote for approval (7 days)****
 
 - Start Time:  2023-07-06 17:00:00
 - End Time:  2023-07-13 16:59:59

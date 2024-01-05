@@ -9,13 +9,13 @@ title: 'Ballot SC36: Election of Server Certificate Working Group Chair'
 type: post
 ---
 
-# Ballot Results {.wp-block-heading}
+# Ballot Results 
 
 The voting period for Special Ballot SC36 has ended and **the Ballot has Passed**. Congratulations Jos!
 
 Here are the results:
 
-## Voting by Certificate Issuers {.wp-block-heading}
+## Voting by Certificate Issuers 
 
 **24 votes total including abstentions**
 
@@ -25,7 +25,7 @@ Here are the results:
 
 _100% of voting Certificate Issuers voted in favor._
 
-## Voting by Certificate Consumers {.wp-block-heading}
+## Voting by Certificate Consumers 
 
 **5 votes total including abstentions**
 
@@ -35,7 +35,7 @@ _100% of voting Certificate Issuers voted in favor._
 
 _100% of voting Certificate Consumers voted in favor._
 
-## **Relevant Bylaw references** {.wp-block-heading}
+## Relevant Bylaw references 
 
 Bylaw 2.3(f) requires:
 
@@ -44,11 +44,11 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **11**, so quorum was** 12** votes – **quorum was met**.”
 
-# Ballot Contents {.wp-block-heading}
+# Ballot Contents 
 
 The following motion has been proposed by the Server Certificate Working Group Chair Dimitris Zacharopoulos of HARICA.
 
-## Purpose of Ballot {#purpose_of_ballot.wp-block-heading}
+## Purpose of Ballot 
 
 This special ballot is to confirm the new Chair of the Server Certificate Working Group.
 

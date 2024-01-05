@@ -7,31 +7,31 @@ title: 2021-09-01 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 September 1, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Daniel Zens (GlobalTrust), Don Sheehy (WebTrust), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Joanna Fox (TrustCor), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Mrugesh Chandarana (IdenTrust), Niko Carpenter (SecureTrust), Patrycja Tulinska (PSW), Paul van Brouwershaven (Entrust), Rebecca Kelley (Apple), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Tim Crawford (WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the August 18 teleconference were approved.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 Discussion moved to the Individual Corporate-validation profile (aka the Sponsored profile).
 
@@ -49,12 +49,12 @@ It was agreed to drop the streetAddress and PostalCode from the Strict profiles.
 
 There was discussion surrounding the limits of “affiliation of the individual with the Org” … for example it can be straight forward for me to have an O in my personal cert reflecting my employer or perhaps a membership organisation (see also ETSI EN 319 411-1, 5.4.2). But how about a O issuing to customers or partners? Should they be directed towards using a simpler profile like the Mailbox-validated? Should the WG define a tag or extension for external RAs? These issues will need to be clarified in the later WG discussions of Enterprise and Delegated RA and corresponding audit.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, September 15, 2021 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

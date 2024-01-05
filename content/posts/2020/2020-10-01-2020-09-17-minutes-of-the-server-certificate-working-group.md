@@ -7,29 +7,29 @@ title: 2020-09-17 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Amanda Mendieta (Apple), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Chris McMillan (Visa), Clint Wilson (Apple), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dre Aremeda (GoDaddy), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Karina Sirota (Microsoft), Kirk Hall (Entrust Datacard), Mayur Manchanda (Visa), Michelle Coon (OATI), Michol Murray (GoDaddy), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Sissel Hoel (Buypass AS), Stephen Davidson (Digicert), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 No changes to the agenda were noted. Dimitris took minutes for this meeting. Jos will take the minutes for the next call.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Doug provided a summary of the last subcommittee’s meeting.
 
@@ -50,7 +50,7 @@ Wayne added that they also touched upon issues discussed in the past, like allow
 
 Subcommittee minutes:
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Neil provided the update. The subcommittee tried to address some feedback they received from GitHub regarding SC34. They agreed that the scope of the ballot must be clear and this could be done by reordering some of the section 2 provisions.
 
@@ -70,17 +70,17 @@ Ryan prefers the current NetSec Subcommittee to focus on Server Certificates and
 
 Subcommittee minutes:
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
-
-_None._
-
-#### **Ballots in Voting Period** {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _None._
 
-#### **Ballots in IPR Review Period** {.wp-block-heading}
+#### Ballots in Voting Period 
+
+_None._
+
+#### Ballots in IPR Review Period 
 
 \_SC28: Logging and Log Retention \_(Review ends October 14, 2020)
 
@@ -88,7 +88,7 @@ _SC35: Cleanups and Clarifications_\_ \_(Review ends October 14, 2020)
 
 There was a short discussion about whether we should cancel the existing IPR Review Period for SC28 and SC35 since it included multiple ballots or not. It was decided to leave this IPR Review Period as is, and make sure we have a distinct IPR Review period per ballot going forward.
 
-#### Draft Ballots under Consideration {.wp-block-heading}
+#### Draft Ballots under Consideration 
 
 \_Minimum expectations regarding weak keys \_(Chris)
 
@@ -103,16 +103,16 @@ This ballot needs a new numbers because SC32 failed.
 \_SC34 Account Management \_(Tobi)
 No additional updates.
 
-### 8. Topics for the next virtual F2F {.wp-block-heading}
+### 8. Topics for the next virtual F2F 
 
 Dimitris asked for Members to propose new topics for the upcoming F2F.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 No other business was discussed.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 The next call will take place on October 1, 2020 at 11:00am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

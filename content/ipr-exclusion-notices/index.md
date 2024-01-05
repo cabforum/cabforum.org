@@ -11,7 +11,7 @@ type: page
 
 ### _2016_
 
-#### **Ballot 182**
+#### Ballot 182
 
 [Ballot 182 – Exclusion Notice – GoDaddy (12-28-2016)][1]
 

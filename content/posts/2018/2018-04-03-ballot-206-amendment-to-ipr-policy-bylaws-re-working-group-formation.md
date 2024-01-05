@@ -9,7 +9,7 @@ title: Ballot 206 –Amendment to IPR Policy & Bylaws re Working Group Formation
 type: post
 ---
 
-## **Results on Ballot 206 – Amendment to IPR Policy & Bylaws re Working Group Formation**
+## Results on Ballot 206 – Amendment to IPR Policy & Bylaws re Working Group Formation
 
 The voting period for Ballot 206 has ended and the ballot has passed. Here are the results.
 
@@ -137,7 +137,7 @@ in favor, and there must be a quorum.
 
 Pursuant to Section 2.3(d) of the Bylaws, each Member, and not the Forum, will be responsible for taking precautions to make sure such Member’s vote is submitted properly and counted. In the event that a Member’s vote on a ballot is not submitted properly, such vote shall not be valid and shall not be counted, and there shall be no appeal, revote (except in the case of a new ballot submitted to all Members) or other recourse.
 
-### **Exhibit A (IPR Policy version 1.3)**
+### Exhibit A (IPR Policy version 1.3)
 
 CA/BROWSER FORUM
 Intellectual Property Rights Policy, v. 1.3 (Effective July 3, 2018)
@@ -323,7 +323,7 @@ l. “Working Group” means a working group that has been approved by the CAB F
 
 Any transfer by Participant to an unaffiliated third party of a patent having Essential Claims shall be subject to the terms and conditions of this Intellectual Property Rights Policy. A Participant may choose the manner in which it complies with this Section, provided that any agreement for transferring or assigning Essential Claims includes a provision that such transfer or assignment is subject to existing licenses and obligations to license imposed on the Participant by standards bodies, specification development organizations, or similar organizations (or language of similar import).
 
-### **Exhibit B – Bylaws**
+### Exhibit B – Bylaws
 
 1. CA/BROWSER FORUM – PURPOSE, STATUS, AND ANTITRUST LAWS
 
@@ -832,7 +832,7 @@ To promote the widest adoption of the CAB Forum Guidelines, CAB Forum seeks to i
 
 This charter for the \[insert name\] Working Group has been created according to Section 5.3.1 of the Bylaws of the CAB Forum. In the event of a conflict between this charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy shall take precedence.
 
-### **Exhibit C – Charter for Server Certificate Working Group**
+### Exhibit C – Charter for Server Certificate Working Group
 
 Server Certificate Working Group Charter
 

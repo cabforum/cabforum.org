@@ -7,21 +7,21 @@ title: Minutes of the F2F 51 Meeting, Virtual, 21-22 October 2020
 type: post
 ---
 
-## Wednesday, 21 October 2020 – Plenary Meeting (Day 1) {.wp-block-heading}
+## Wednesday, 21 October 2020 – Plenary Meeting (Day 1) 
 
-### CA/B Forum Plenary {.wp-block-heading}
+### CA/B Forum Plenary 
 
 The Antitrust statement was read.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Doug Beattie, Jeff Ward, Don Sheehy, Ryan Sleevi, Dean Coclin, Atsushi Inaba, Nick France (Sectigo), Dustin Hollenback, Aneta Wojtczak-Iwanicka, Tim Callan, Dimitris Zacharopoulos, Clemens Wanko, Tadahiko Ito, Andreas Henschel, Enrico Entschew, Devon O’Brien, Matthias Wiedenhorst, Eva Van Steenberge, Jos Purvis, Mike Reilly, Karina Sirota, Clint Wilson, Trevoli Ponds-White, Arno Fiedler, Vijay Kumar, Arvind Srinivasan, Saiprasad KP, Bruce Morton, Wayne Thayer, Stephen Davidson, Janet Hines, Hongquan Yin, Peter Miskovic, Hazhar Ismail, Wang Chunlan, Xiu Lei, Leo Grove, Chris Kemmerer, Tom Zermeno, Abdul Hakeem Putra, Ahmad Syafiq MD Zaini, Pedro Fuentes, Tobias Josefowitz, Kathleen Wilson, Ben Wilson, Wendy Brown, Michelle Coon, Li-Chun Chen, Matthias Wiedenhorst, Andrea Holland, Daniela Hood, Clint Wilson, Adrian Mueller, David Kluge, An Yin, Neil Dunbar, Curt Spann, Jan Völkel, Arnold Essing, Paul van Brouwershaven, Hiroshi Sakai, Andrew Whalley, Tim Hollebeek, Sooyoung Eo, Wei YiCai, Rae Ann Gonzales, Mads Henriksveen, Rebecca Kelley, Niko Carpenter, Rich Smith, Doug Hill, Mariusz Kondratowicz, George Sebastian, Aaron Poulsen (Digicert), Eric Mill, Hannah Sokol (Microsoft).
 
-### Approval of CABF Minutes from last teleconference {.wp-block-heading}
+### Approval of CABF Minutes from last teleconference 
 
 The minutes were approved.
 
-### Report from Code Signing Certificate Working Group {.wp-block-heading}
+### Report from Code Signing Certificate Working Group 
 
 _Presenters:_ Bruce Morton (Entrust Datacard), Dean Coclin (Digicert)
 _Note Taker:_ Dustin Hollenback (Microsoft)
@@ -42,7 +42,7 @@ Time-stamping to be discussed in more detail at next meeting
 
 Parking lot list started. Dean will add updated list here later. It will be discussed at next meeting.
 
-### Report from S/MIME Certificate Working Group {.wp-block-heading}
+### Report from S/MIME Certificate Working Group 
 
 _Presenters:_ Stephen Davidson (Digicert)
 _Note Taker:_ Andreas Henschel (D-TRUST)
@@ -62,7 +62,7 @@ Discussion after the presentation:
 - Dean asked if there are pending member applications to the WG
 - Stephen said that Google joined the WG on the last meeting and other members of the CA/B-Forum with interest are welcome to join the WG as well
 
-### Report from Forum Infrastructure subcommittee {.wp-block-heading}
+### Report from Forum Infrastructure subcommittee 
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note Taker:_ Wayne Thayer (Mozilla)
@@ -77,7 +77,7 @@ _Note Taker:_ Wayne Thayer (Mozilla)
 
 Question in chat: What about group photo from last F2F meeting? Jos said that these photos will be posted to the wiki today.
 
-### Discussion on possible Bylaws issues {.wp-block-heading}
+### Discussion on possible Bylaws issues 
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Dean Coclin (Digicert)
@@ -96,34 +96,34 @@ Issue 5: Resolve ambiguity for where to send/post CWG minutes
 
 We have a [doc listing open Bylaws issues][2]
 
-### Summary of accomplishments (2018-11-01 to 2020-10-31) {.wp-block-heading}
+### Summary of accomplishments (2018-11-01 to 2020-10-31) 
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Dean Coclin (Digicert)
 _Presentation:_ [Summary of accomplishments 2018-11-01 to 2020-10-31][3]
 
-### Guest Speaker #1 {.wp-block-heading}
+### Guest Speaker #1 
 
 _Presenters:_ Doug Hill (RealRandom)
 _Presentation:_ [What’s All the Fuss About Randomness][4]
 
-### Any Other Business {.wp-block-heading}
+### Any Other Business 
 
 No other business was discussed.
 
 Adjourned
 
-## Server Certificate WG Plenary {.wp-block-heading}
+## Server Certificate WG Plenary 
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Doug Beattie, Jeff Ward, Don Sheehy, Ryan Sleevi, Dean Coclin, Atsushi Inaba, Nick France (Sectigo), Dustin Hollenback, Aneta Wojtczak-Iwanicka, Tim Callan, Dimitris Zacharopoulos, Clemens Wanko, Tadahiko Ito, Andreas Henschel, Enrico Entschew, Devon O’Brien, Matthias Wiedenhorst, Eva Van Steenberge, Jos Purvis, Mike Reilly, Karina Sirota, Clint Wilson, Trevoli Ponds-White, Arno Fiedler, Vijay Kumar, Arvind Srinivasan, Saiprasad KP, Bruce Morton, Wayne Thayer, Stephen Davidson, Janet Hines, Hongquan Yin, Peter Miskovic, Hazhar Ismail, Wang Chunlan, Xiu Lei, Leo Grove, Chris Kemmerer, Tom Zermeno, Abdul Hakeem Putra, Ahmad Syafiq MD Zaini, Pedro Fuentes, Tobias Josefowitz, Kathleen Wilson, Ben Wilson, Wendy Brown, Michelle Coon, Li-Chun Chen, Matthias Wiedenhorst, Andrea Holland, Daniela Hood, Clint Wilson, Adrian Mueller, David Kluge, An Yin, Neil Dunbar, Curt Spann, Jan Völkel, Arnold Essing, Paul van Brouwershaven, Hiroshi Sakai, Andrew Whalley, Tim Hollebeek, Sooyoung Eo, Wei YiCai, Rae Ann Gonzales, Mads Henriksveen, Rebecca Kelley, Niko Carpenter, Rich Smith, Doug Hill, Mariusz Kondratowicz, George Sebastian, Aaron Poulsen (Digicert), Eric Mill, Hannah Sokol (Microsoft).
 
-### Approval of SCWG Minutes from last teleconference {.wp-block-heading}
+### Approval of SCWG Minutes from last teleconference 
 
 The minutes were approved.
 
-### Apple Root Program Update {.wp-block-heading}
+### Apple Root Program Update 
 
 _Presenter:_ Clint Wilson (Apple)
 _Note Taker:_ Curt Spann (Apple)
@@ -150,7 +150,7 @@ Details of question from Li-Chun: What is the audit scheme if an intermediate S/
 - Principle 4 of WebTrust for CA-SSL Baseline Requirement with Network Security Audit is corresponding to Network and Certificate System Security Requirements.
 - Or Principle 4 of WebTrust for CA-SSL Baseline Requirement with Network Security Audit is only for a CA with anyEKU in CA certificates but not issues to SSL certificates.
 
-### Cisco Root Program Update {.wp-block-heading}
+### Cisco Root Program Update 
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note Taker:_ Vijay Kumar (eMudhra)
@@ -162,7 +162,7 @@ Conversion to CCADB: This has been happening in Cisco Root Program for about an 
 Miscellaneous updates: In reviewing the issues that arose in the summer with OCSP and PKIX no-check OCSP Signer flag issues, the tentative plan at this point is to look at establishing a flag date somewhere in the mid-2021 range, by when CAs need to be fixing this problem for TLS certificate roots that is included in Cisco root program. Will circulate the dates way in advance than the deadline. CAs are to be prepared for the same. Planning to work with CAs one-on-one. Will be sharing more in next face-to-face.
 Some adjustments to code on intersect and Union, we are doing some more aggressive removal of expiring roots. There were some past problems with AddTrust, etc. What it means is that CAs should be on top of things in getting their newer replacement roots in place, so that it can be made sure that these are included.
 
-### Microsoft Root Program Update {.wp-block-heading}
+### Microsoft Root Program Update 
 
 _Presenter:_ Karina Sirota (Microsoft)
 _Note Taker:_ Rae Ann Gonzales (GoDaddy)
@@ -174,7 +174,7 @@ All key points available in slide deck.
 
 Dimitris asked for more detail on the flighting releases. Karina replied that it is for different MS “rings”, early releases for selected users that want to test what’s coming early.
 
-### Google Root Program Update {.wp-block-heading}
+### Google Root Program Update 
 
 _Presenter:_ Eric Mill, Devon O’Brien, Ryan Sleevi (Google)
 _Note Taker:_ Michelle Coon (OATI)
@@ -216,7 +216,7 @@ Doug asked if S/MIME Roots are TBD or inherited from the platform in which the b
 Ryan: Prioritizing inclusions of CAs and replacement of CAs, focused on CAs for single trust meaning that for a given certificate and everything beneath it is used for a consistent singular purpose. Previous discussion on having a root trusted for TLS and S/MIME – for Chrome Root Store, ensuring that the hierarchy is for a singular purpose.
 Andrew mentioned that for S/MIME there are help center articles on the Google workspace admin help center that discuss how they are used in gmail which is managed independently from Chrome.
 
-### Mozilla Root Program Update {.wp-block-heading}
+### Mozilla Root Program Update 
 
 _Presenter:_ Ben Wilson (Mozilla)
 _Note Taker:_ Neil Dunbar (Trustcor)
@@ -224,7 +224,7 @@ _Presentation:_ [Mozilla Root Program Update][9]
 
 Dimitris recommended following any questions with the Mozilla team regarding the Bugzilla CA-compliance statistics, owing to the level of detail in the presentation, and regarding the pressure of maintaining meeting schedule.
 
-### CCADB Update {.wp-block-heading}
+### CCADB Update 
 
 _Presenter:_ Kathleen Wilson (Mozilla)
 _Note Taker:_ Devon O’Brien (Google)
@@ -240,7 +240,7 @@ Clint: Apple would like CAs to publish links to full CRLs
 
 Discussion being taken to M.D.S.P. due to running behind schedule.
 
-### Report from SCWG Network Security Subcommittee {.wp-block-heading}
+### Report from SCWG Network Security Subcommittee 
 
 _Presenter:_ Neil Dunbar (Trustcor)
 _Minute Taker:_ Trevoli Ponds-White (Amazon Trust Services)
@@ -250,15 +250,15 @@ _Presentation:_ [Network Subcommittee Update (Main)][12]
 **Notes other than presentation:**
 A new Net Sec sub team to explore usage of cloud service providers is forming and would like new participants. The Net Sec group will also be re-organizing the meeting schedule for the sub teams to better align with the primary meetings.
 
-## Thursday, 22 October 2020 – Plenary Meeting (Day 2) {.wp-block-heading}
+## Thursday, 22 October 2020 – Plenary Meeting (Day 2) 
 
-## Server Certificate Working Group (cont’d) {.wp-block-heading}
+## Server Certificate Working Group (cont’d) 
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Jeff Ward, Don Sheehy, Ryan Sleevi, Dean Coclin, Atsushi Inaba, Nick France (Sectigo), Dustin Hollenback, Tim Callan, Dimitris Zacharopoulos, Clemens Wanko, Tadahiko Ito, Andreas Henschel, Enrico Entschew, Devon O’Brien, Matthias Wiedenhorst, Eva Van Steenberge, Jos Purvis, Mike Reilly, Karina Sirota, Clint Wilson, Trevoli Ponds-White, Arno Fiedler, Vijay Kumar, Arvind Srinivasan, Saiprasad KP, Bruce Morton, Wayne Thayer, Janet Hines, Hongquan Yin, Peter Miskovic, Hazhar Ismail, Xiu Lei, Leo Grove, Chris Kemmerer, Abdul Hakeem Putra, Ahmad Syafiq MD Zaini, Pedro Fuentes, Tobias Josefowitz, Ben Wilson, Wendy Brown, Michelle Coon, Li-Chun Chen, Matthias Wiedenhorst, Andrea Holland, Daniela Hood, Clint Wilson, Adrian Mueller, David Kluge, Neil Dunbar, Nikolaos Soumelidis, Jan Völkel, Arnold Essing, Paul van Brouwershaven, Hiroshi Sakai, Andrew Whalley, Tim Hollebeek, Wei YiCai, Mads Henriksveen, Rebecca Kelley, Niko Carpenter, Rich Smith, Michael Jahnich, Mariusz Kondratowicz, Aaron Poulsen (Digicert), Tsung-Min Kuo, Julie Olson (Globalsign), Christoph Broter.
 
-### Report from SCWG Validation Subcommittee {.wp-block-heading}
+### Report from SCWG Validation Subcommittee 
 
 _Presenter:_ Tim Hollebeek (Digicert)
 _Minute Taker:_ Julie Olson (GlobalSign)
@@ -280,7 +280,7 @@ Ryan: Mailing lists have search functionality. It could be useful to send out di
 
 Tim: Will be moving subcommittee items (missed which ones) form trello to github, into appropriate issues, in the next few weeks.
 
-### Report from Quantum Cryptography liaisons {.wp-block-heading}
+### Report from Quantum Cryptography liaisons 
 
 _Presenters:_ Tadahiko Ito (Secom), Tim Hollebeek (Digicert)
 _Note Taker:_ Tobias Josefowitz (Opera)
@@ -311,7 +311,7 @@ Tadahiko: It seems NIST is concerning itself with the key encryption purpose, bu
 
 Tim Hollebeek: From my perspective, NIST has started talking the approach that the long term ones are also perfectly appropriate for more shorter termed things, so there is a split between key exchange and signatures and things like that, but other than that they are trying to do something like AES where we have a small number of use case based well-vetted algorithms that work for all of the use cases that they need to, instead of trying to fracture it up and have several different schemes.
 
-### ETSI Update {.wp-block-heading}
+### ETSI Update 
 
 _Presenter:_ Arno Fiedler (ETSI ESI)
 _Note Taker:_ Enrico Entschew (D-TRUST)
@@ -319,7 +319,7 @@ _Presentation:_ [ETSI ESI Activities Update][16]
 
 **Notes other than presentation:** All key points available in slide deck. Main highlight for CAB-Forum is the updated version of ETSI TS-119 403-2 (Part 2: Additional requirements for Conformity Assessment Bodies auditing Trust Service Providers that issue Publicly-Trusted Certificates).
 
-### ACAB’c Update {.wp-block-heading}
+### ACAB’c Update 
 
 _Presenters:_ Clemens Wanko (TÜV AUSTRIA)
 _Minute Taker:_ Mads Henriksveen (Buypass)
@@ -329,7 +329,7 @@ _Presentation:_ [ACAB’c Update][17]
 
 No additional discussion.
 
-### WebTrust Update {.wp-block-heading}
+### WebTrust Update 
 
 _Presenters:_ Jeff Ward (BDO), Don Sheehy (WebTrust)
 _Minute Taker:_ Andrea Holland (SecureTrust)
@@ -349,14 +349,14 @@ _Presentation:_ [WebTrust Update][18]
 
 No additional discussion.
 
-### Guest Speaker #2 {.wp-block-heading}
+### Guest Speaker #2 
 
 _Presenters:_ Michael Jahnich (achelos)
 _Presentation:_ [Compliance testing of electronic certificates][19]
 
-### Any Other Business {.wp-block-heading}
+### Any Other Business 
 
-### Arrangements for Next Meeting {.wp-block-heading}
+### Arrangements for Next Meeting 
 
 Next F2F meeting is taking place Feb-March virtually.
 

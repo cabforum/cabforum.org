@@ -7,29 +7,29 @@ title: 2020-10-15 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Abdul Hakeem Putra (MSC Trustgate), Adrian Mueller (SwissSign), Ahmad Syafiq MD Zaini (MSC Trustgate), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), David Kluge (Google), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Han Yong, Park (NAVER Business Platform), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Johnny Reading (GoDaddy), Karina Sirota (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Neil Dunbar (TrustCor Systems), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Dimitris reviewed the agenda; no changes were identified. Tobi (Opera) volunteered to take minutes for the next call.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 Accepted without objections.
 
-### 5. Forum Infrastructure Subcommittee update {.wp-block-heading}
+### 5. Forum Infrastructure Subcommittee update 
 
 Jos was not on the call. Ryan was also not on the call last week but was able updated the group that there was an improvement regarding the SPF configuration of the mailer.
 
@@ -51,7 +51,7 @@ Ryan: Yes, and you can do redline with word. There is a task to improve the html
 
 If it works with the main repo it will also work in forks.
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 Dean Coclin (DigiCert): Ballot CSC-4 is approved sent for IPR review. This ballot was mainly to push out some dates for key sizes to move to 3072 bit RSA.
 
@@ -63,7 +63,7 @@ At the F2F, the WG will go through the changes and decide what to do.
 
 There are also several parking items to review. They plan on having a revised document with these changes within the next 30-40 days.
 
-### 7. S/MIME Certificate Working Group update {.wp-block-heading}
+### 7. S/MIME Certificate Working Group update 
 
 Stephen reminded that the main mission of this WG is to create Baseline Certificate profiles and go though email control verification requirements, describe the operational requirements for RAs and CAs, and finally the specifics of the Subject identity information. At this stage they are nearly complete going through a field-by-field review for leaf S/MIME Certificates.
 
@@ -71,22 +71,22 @@ The work of other WGs is very useful. In the coming weeks they will be moving an
 
 They will soon have a draft Certificate Profile with all the original aspects that are agreed for further discussion and greater detail at that time.
 
-### 8. Elections update {.wp-block-heading}
+### 8. Elections update 
 
 Dimitris sent the confirmation ballots for the Forum and SCWG. Bruce/Dean will soon start the confirmation ballot for the Code Signing Working Group.
 
-### 9. Approval of Agenda for F2F 51 {.wp-block-heading}
+### 9. Approval of Agenda for F2F 51 
 
 The agenda was approved without objections.
 
-### 10. Any Other Business {.wp-block-heading}
+### 10. Any Other Business 
 
 Dimitris informed the Members that Cisco will not be able to host the F2F 52 meeting because of travel difficulties and other COVID-19 restrictions. This was obviously something more or less expected, but this is a confirmation that the F2F 52 meeting will also be a virtual one.
 
 Dean announced our two guest speakers for the upcoming F2F meeting, Mr. Doug Hill from RealRandom and Mr. Michael Jahnich from Achelos.
 
-### 11. Next call {.wp-block-heading}
+### 11. Next call 
 
 The next call is scheduled for October 29, 2020 at 11:30am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

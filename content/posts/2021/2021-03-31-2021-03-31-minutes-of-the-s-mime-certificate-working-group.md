@@ -7,31 +7,31 @@ title: 2021-03-31 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 March 31, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Ali Gholami (Telia Company), Atsushi Inaba (GlobalSign), Bruce Morton (Entrust), Ben Wilson (Mozilla), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Curt Spann (Apple), Dimitris Zacharopoulos (HARICA), Hazhar Ismail (MSC Trustgate.com), Russ Housley (Vigil Security), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Klauss Voss (Zertificon), Inigo Barreira (Sectigo), Matthias Wiedenhorst (ACAB’c), Mads Henriksveen (BuyPass), Morad Abou Nasser (TeleTrust), Patrycja Tulinska (PSW), Li-Chun Chen (Chunghwa Telecom), Rebecca Kelley (Apple), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Ahmad Syafiq Md Zaini (MSC Trustgate.com), Tadahiko Ito (SECOM Trust Systems), Tim Crawford (WebTrust), Thomas Connelly (Federal PKI), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the March 17 teleconference were approved.
 
-### 6. Discussion of certificate profile {.wp-block-heading}
+### 6. Discussion of certificate profile 
 
 A review was made of the current state of the draft S/MIME Baseline Requirements (SBR), which have now been pulled into the CABF Repository at: .
 
@@ -51,14 +51,14 @@ Sebastian Schulz suggested that we should focus on the Strict S/MIME profile in 
 
 Clint Wilson raised that multipurpose certs had some parallel in the TLS world where certs were used in too many cases, hampering agility. Wendy Brown indicated that dedicated hierarchies also have a tradeoff by forcing users to maintain more leaf certs. Stephen pointed out the goal in the first version of the SBR was to set a baseline that could pull the S/MIME ecosystem into an auditable framework which would be refined in future versions.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
-### Next call: Wednesday, April 14, 2021 at 11:00 am Eastern Time {.wp-block-heading}
+### Next call: Wednesday, April 14, 2021 at 11:00 am Eastern Time 
 
-### Adjourned {.wp-block-heading}
+### Adjourned 
 
 [1]: https://github.com/cabforum/smime/blob/PreSBR/SBR.md#3222--validation-of-domain-authorization-or-control

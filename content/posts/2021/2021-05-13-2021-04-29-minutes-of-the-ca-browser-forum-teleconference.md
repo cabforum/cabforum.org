@@ -7,11 +7,11 @@ title: 2021-04-29 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendance {.wp-block-heading}
+## Attendance 
 
 Aaron Gable (Let’s Encrypt), Abdul Hakeem Putra (MSC Trustgate), Adrian Mueller (SwissSign), Ali Gholami (Telia), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Curt Spann (Apple), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Natalia Kotliarsky (SecureTrust), Maileen Del Rosario (GoDaddy), Brittany Randall (GoDaddy)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 Anti-Trust statement read, no changes to the agenda
 

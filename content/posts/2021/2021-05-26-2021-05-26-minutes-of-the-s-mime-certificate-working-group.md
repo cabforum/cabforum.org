@@ -7,31 +7,31 @@ title: 2021-05-26 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 May 26, 2021
 
 These are the Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Curt Spann (Apple), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Hazhar Ismail (MSC Trustgate.com), Hongquan Yin (Microsoft), Inigo Barreira (Sectigo), Klauss Voss (Zertificon), Mads Henriksveen (BuyPass), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Niko Carpenter (SecureTrust), Pedro Fuentes (OISTE), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Vigil Security), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Crawford (WebTrust), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the May 12 teleconference were approved.
 
-### 5. Discussion of certificate profile {.wp-block-heading}
+### 5. Discussion of certificate profile 
 
 The discussion regarding the [Mailbox-validation Legacy profile][1] continued.
 
@@ -55,15 +55,15 @@ It was agreed that the Microsoft EKU and the document signing EKU would be accep
 
 Stephen Davidson raised the question of the smimeCapabilities extension and asked if other specialist extensions were commonly used in S/MIME. Stephen noted that an additional tab called “leaf profile” has been added to the [worksheet][1] starting to lay out the other leaf certificate fields that will be in common across the profile types.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, June 9, 2021 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned 
 
 [1]: https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing
 [2]: https://datatracker.ietf.org/doc/draft-ito-documentsigning-eku/

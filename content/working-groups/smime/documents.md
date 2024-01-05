@@ -7,17 +7,17 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 type: page
 ---
 
-## Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates {.wp-block-heading}
+## Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates 
 
 ### Draft Version (undergoing IPR Review)
 
 NA
 
-### Current Version {.wp-block-heading}
+### Current Version 
 
 [S/MIME Baseline Requirements v. 1.0.2][1] – adopted by Ballot [SMC04][2]
 
-### Previous Versions {.wp-block-heading}
+### Previous Versions 
 
 [S/MIME Baseline Requirements v. 1.0.1][3] – adopted by Ballot SMC03
 

@@ -9,31 +9,31 @@ title: 2022-02-02 Minutes of the S/MIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG {#minutes-of-smcwg.wp-block-heading}
+## Minutes of SMCWG 
 
 February 2, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {#attendees.wp-block-heading}
+### Attendees 
 
 Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Cade Cairns (Google), Clint Wilson (Apple), Corey Bonnell (Digicert), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Fotis Loukos (Google), Hongquan Yin (Microsoft), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Joanna Fox (TrustCor Systems), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Matthias Wiedenhorst (ACAB Council), Mauricio Fernandez (TeleTrust), Miguel Sanchez (Google), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW Group), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (US Federal PKI Management Authority), Tim Crawford (CPA Canada/WebTrust), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call {#1-roll-call.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {#2-read-antitrust-statement.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {#3-review-agenda.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {#4-approval-of-minutes-from-last-teleconference.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the January 19 teleconference were approved.
 
-### 5. Discussion {#5-discussion.wp-block-heading}
+### 5. Discussion 
 
 Stephen Davidson and Clint Wilson noted the update to the Apple root certificate program at which includes some points dealing specifically with S/MIME.
 
@@ -58,12 +58,12 @@ Stephen noted that section 4.2.1 will have to be revisited again in any case to 
 
 Stephen provided a quick overview of the topics for the upcoming F2F – more detail to come.
 
-### 6. Any Other Business {#6-any-other-business.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {#7-next-call.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, February 16, 2022 at 11 a.m. US Eastern.
 
-### Adjourned {#adjourned.wp-block-heading}
+### Adjourned

@@ -9,33 +9,33 @@ title: 2022-09-28 Minutes of the S/MIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 September 28, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andreas Henschel (D-TRUST), Cade Cairns (Google), Clint Wilson (Apple), Corey Bonnell (DigiCert), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Eusebio Herrera (AC Camerfirma SA), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Joanna Fox (TrustCor Systems), Juan-Angel Martin (AC Camerfirma SA), Judith Spencer (CertiPath (Private Person)), Li-Chun Chen (Chunghwa Telecom), Marco Schambach (IdenTrust), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Patrycja Tulinska (PSW), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Vigil Security LLC), Stefan Selbitschka (runQuadrat), Stephen Davidson (DigiCert), Taavi Eomäe (Zone Media), Tadahiko Ito (SECOM Trust Systems), Tim Crawford (CPA Canada/WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Dimitris Zacharopoulos asked for the topic of making OCSP optional to added to the agenda.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the August 31, 2022 teleconference were approved.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 The eligibility and request for WG membership of AC Firmaprofessional SA was discussed and Firmaprofessional was confirmed as a Certificate Issuer member.
 
@@ -61,12 +61,12 @@ Stephen agreed to reach out to Microsoft again seeking confirmation within the W
 
 Stephen noted that the agenda for the F2F would be discussed at the next teleconference.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, October 12, 2022 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

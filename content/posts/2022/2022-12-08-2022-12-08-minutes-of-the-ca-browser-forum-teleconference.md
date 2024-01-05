@@ -11,7 +11,7 @@ type: post
 
 Adam Jones  (Microsoft), Andrea Holland  (SecureTrust), Atsushi INABA  (GlobalSign), Ben Wilson (Mozilla), Bruce Morton  (Entrust), Cassie L’Heureux  (GoDaddy), Chris Clements (Google Chrome), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen  (OATI), Daryn Wright  (GoDaddy), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Doug Beattie  (GlobalSign), Dustin Hollenback  (Microsoft), Enrico Entschew (D-Trust), Fumi Yoneda (Japan Registry Services), Joanna Fox  (TrustCor), Johnny Reading (GoDaddy), Luis Cervantes  (GoDaddy), Lynn Jeun (VISA), Mads Henriksveen  (Buypass), Michelle Coon  (OATI), Nargis Mannan (SecureTrust), Paul van Brouwershaven  (Entrust), Peter Miskovic  (Disig), Rebecca Kelley (Apple), Rollin Yu  (TrustAsia), Stephen Davidson (DigiCert), Tadahiko Ito  (SECOM), Thomas Zermeno (SSL.com), Tim Hollebeek (DigiCert), Tobias Josefowitz  (Opera), Trevoli Ponds-White  (Amazon), Tyler Myers  (Godaddy), Wendy Brown (FPKI), Yoshiro Yoneya  (JPRS).
 
-# Minutes {.wp-block-heading}
+# Minutes 
 
 **1. Roll call**
 

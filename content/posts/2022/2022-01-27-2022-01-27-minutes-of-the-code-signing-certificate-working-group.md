@@ -9,21 +9,21 @@ title: 2022-01-27 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {#attendees.wp-block-heading}
+## Attendees 
 
 Andrea Holland – SecureTrust , Ashish Dhiman – GlobalSign, Atsushi Inaba – GlobalSign, Bruce Morton – Entrust, Corey Bonnell – DigiCert, Dean Coclin – DigiCert, Dimitris Zacharopoulos – HARICA, Ian McMillan – Microsoft, Inigo Barreira – Sectigo, Jeff Ward – WebTrust, Karina Sirota – Microsoft, Kiran Tummala – Microsoft, Michael Sykes – SSL.com, Mohit Kumar – GlobalSign, Tim Crawford – WebTrust, Tim Hollebeek – DigiCert
 
-## Minutes {#minutes.wp-block-heading}
+## Minutes 
 
 Minutes of January 13th 2022 approved.
 
-### Interested Party Request {#interested-party-request.wp-block-heading}
+### Interested Party Request 
 
 Bruce: A request to join as an Interested Party, this person is a sole proprietorship. No reason to reject. Dean confirmed information and voiced approval. HGMS Information Technology Solutions out of the Philippines.
 
 Tim H: No objections.
 
-### CSC-6 Subscriber Key Protection {#csc-6-subscriber-key-protection.wp-block-heading}
+### CSC-6 Subscriber Key Protection 
 
 Ian: We were waiting for feedback. Tim said he had feedback from some folks and Bruce pointed out timing that current deadline is September 1st and should be pushed out by 3 months. So I changed it to December 1 2022.
 
@@ -45,7 +45,7 @@ Tim H: Most of the internal comments, there are a lot of them, are mainly word s
 
 Ian: I will update draft with new date and Tim’s feedback. Then send out a draft and asking for endorsers.
 
-### Timestamping Certificate Validity Period {#timestamping-certificate-validity-period.wp-block-heading}
+### Timestamping Certificate Validity Period 
 
 Ian: Today the max validity period with the certificate is 135 months. For windows and how we consume the timestamping certificate the 11.25 year has no true barring on whether the timestamp is actually valid to us. Tor the timestamp counter signature is actually valid to us. We look at the time of the timestamp and the certificate’s validity period of not only the timestamping authority’s endpoint signing certificate but also the code signing certificate. And if that time is within those certificates validity period it is good to us. The question that has come up with is does his jive with what Java sees. I followed up with some java people and they said they ignore it.
 
@@ -149,7 +149,7 @@ Corey: It is worthy of further discussion, Maybe after we get the key protection
 
 Bruce: Okay we will pause on this and bring it up after Ian’s ballot and formatting change are done.
 
-### Time stamping policy OIDs {#time-stamping-policy-oids.wp-block-heading}
+### Time stamping policy OIDs 
 
 Tim H: We were looking at the recent ballot, it appears we have written the ballot so that the policy OID indicating that a timestamp server is acceptable for code signing. Written in such a way that you must add the timestamping policy OID to every single timestamping end-entity certificate you have out there. Just because it chains up to a Microsoft trusted root and not because it’s particularly intended for Microsoft code signing and in particular there are a lot of those out there that are intended for EIDAS or other use cases. And the entire goal was to split these apart. It appears that we made a mistake in the ballot and if you are trying to split them apart, that you would have to split them apart all the way up to the chain to a non-Microsoft trusted root, which is not what I think we intended. I was wondering if other people had the same interpretation or whether the goal was that you are suppose to find your timestamping end-entity certificates that are intended for Code Singing, so that Microsoft can later distrust the non-intended ones. If we just add that OID to every single end-entity timestamping certificate out there we haven’t really changed anything. I wondered what people thought of that and whether we need to update the language to say that in order to be used for Microsoft, in order to be used for CA/B forum, code signing OID must be present as opposed to just this OID must be present.
 
@@ -215,7 +215,7 @@ Dimitris: Thank you that is great feedback. Karina, do you want us to send you i
 
 Tim H: We are one of the people who often discuss these things privately with Microsoft and so I wanted to get people to agree that it’s okay to discuss Microsoft policy publicly on the CAB Forum mailing list because I think it would be quite useful.
 
-### F2F Agenda {#f2f-agenda.wp-block-heading}
+### F2F Agenda 
 
 Bruce: We have 2 hours slotted for the meeting. Items that we wanted to talk about was the Signing service.
 

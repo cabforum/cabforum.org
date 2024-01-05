@@ -9,11 +9,11 @@ title: 'Ballot FORUM-10: Re-Charter Forum Infrastructure Working Group'
 type: post
 ---
 
-## Results {.wp-block-heading}
+## Results 
 
 The voting period for Ballot FORUM-10 has ended and **the Ballot has Passed.**  Here are the results:
 
-### Voting by Certificate Issuers {.wp-block-heading}
+### Voting by Certificate Issuers 
 
 **15 votes total including abstentions**
 
@@ -23,7 +23,7 @@ The voting period for Ballot FORUM-10 has ended and **the Ballot has Passed.*
 
 100% of voting Certificate Issuers voted in favor
 
-### Voting by Certificate Consumers {.wp-block-heading}
+### Voting by Certificate Consumers 
 
 **4 votes total including abstentions**
 
@@ -35,7 +35,7 @@ The voting period for Ballot FORUM-10 has ended and **the Ballot has Passed.*
 
 ### Relevant Bylaw references
 
-{.wp-block-heading}
+
 
 Bylaw 2.3(6) requires:
 
@@ -43,13 +43,13 @@ Bylaw 2.3(6) requires:
 - at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was also met.
 - Under Bylaw 2.3(7), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum.  Half of currently active Members as of the start of voting was **9**, so quorum was **10 votes **– quorum was met.
 
-## Ballot {.wp-block-heading}
+## Ballot 
 
 The following ballot is proposed by Jos Purvis of Cisco, endorsed by Wayne Thayer of Mozilla and Ben Wilson of DigiCert. Voting begins at **2100 UTC 30 September 2019** and runs through **2100 UTC 7 October 2019**.
 
-### Ballot Forum-10: Re-charter Forum Infrastructure Work {.wp-block-heading}
+### Ballot Forum-10: Re-charter Forum Infrastructure Work 
 
-#### Overview {.wp-block-heading}
+#### Overview 
 
 The Forum Infrastructure Working Group (FIWG) was chartered during a period when the CABF Bylaws did not permit for the creation of subcommittees at the Forum level (only under a particular Working Group). Since the work the FIWG needed to undertake was pressing and covered the needs of the Forum as a whole, it was chartered as a Working Group to permit this work to begin under the existing Bylaws.
 
@@ -57,7 +57,7 @@ With the completion of the recent Bylaws changes, subcommittees may now be const
 
 This ballot, therefore, lays down the existing FIWG and immediately re-charters a Forum Infrastructure Subcommittee to continue its work.
 
-#### Gory Details {.wp-block-heading}
+#### Gory Details 
 
 24 hours after this ballot passes the following will occur:
 
@@ -66,7 +66,7 @@ This ballot, therefore, lays down the existing FIWG and immediately re-charters 
 1. The existing mailing list for the FIWG will be repurposed for the use of the Subcommittee, following an announcement to that end on the existing FIWG mailer.
 1. The existing wiki pages from the FIWG will be archived, and a new space created for the Subcommittee’s use under the main Forum namespace.
 
-#### **Forum Infrastructure Subcommittee (FIS) Charter** {.wp-block-heading}
+#### Forum Infrastructure Subcommittee (FIS) Charter 
 
 **Scope** – The authorized scope of the Forum Infrastructure Subcommittee shall be as follows:
 

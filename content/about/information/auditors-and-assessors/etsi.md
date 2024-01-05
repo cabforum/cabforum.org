@@ -3,9 +3,8 @@ aliases:
 - /etsi/
 author: Ben Wilson
 date: 2014-11-10 23:50:44
-title: ETSI – European Telecommunications Standards Institute
 linkTitle: ETSI
-
+title: ETSI – European Telecommunications Standards Institute
 ---
 
 ## Current Standards (as of Sept. 2020)
@@ -89,7 +88,7 @@ https://www.etsi.org/standards-search
 
 [Part 2: Policy requirements for certification authorities issuing qualified certificates – EN 319 411-2 V1.1.1 (2013-01)](http://www.etsi.org/deliver/etsi_en/319400_319499/31941102/01.01.01_60/en_31941102v010101p.pdf) (pdf)
 
-#### **Publicly Trusted Certificates – EN 319 411-3 (replaces TS 102 042)**
+#### Publicly Trusted Certificates – EN 319 411-3 (replaces TS 102 042)
 
 [Technical Specification: Policy requirements for certification authorities issuing public key certificates – TS 102 042 V2.4.1 (2013-02)](http://www.etsi.org/deliver/etsi_ts/102000_102099/102042/02.04.01_60/ts_102042v020401p.pdf) (pdf)
 

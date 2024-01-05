@@ -7,39 +7,39 @@ title: 2019-11-14 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Adam Clark (Visa), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Eva Vansteenberge (GlobalSign), Huo Haitao (Halton) (360 Browser), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Jos Purvis (Cisco Systems), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Scott Rea (Dark Matter), Shelley Brewer (Digicert), Tim Hollebeek (Digicert), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vincent Lynch (Digicert), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
 ## Minutes
 
-{.wp-block-heading}
+
 
 ### 1. Roll Call
 
-{.wp-block-heading}
+
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-{.wp-block-heading}
+
 
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
-{.wp-block-heading}
+
 
 No changes to the agenda.
 
 ### 4. Discuss Action Items from the recent F2F 48 meeting
 
-{.wp-block-heading}
+
 
 ### Infrastructure Subcommittee
 
-{.wp-block-heading}
+
 
 - Jos and Ryan will continue to work on a ballot to make the BRs “pandoc friendly”
 
@@ -55,21 +55,21 @@ No changes to the agenda.
 
 ### S/MIME WG
 
-{.wp-block-heading}
+
 
 - Someone (?) to draft and send the charter based on the F2F discussion. Unfortunately the minutes are missing and the recording is not available yet.
 - Tim mentioned that a couple of people are working on a charter and he hopes to be able to send a draft out today.
 
 ### Photo Policy
 
-{.wp-block-heading}
+
 
 - Dimitris to finalize the draft proposal and describe the red/dark blue lanyard colors to indicate additional-privacy/no-additional-privacy request.
 - Ryan to propose language improvements for the “attribution” to IETF.
 
 ### Issues with Bylaws
 
-{.wp-block-heading}
+
 
 - Dimitris to propose text for Bylaws so that each Member participating in a Working Group to designate voting representatives. If a Member wants to designate different representatives for the Forum level compared to the Working Group level, they can do so. Only votes from official representatives will count. Each voting representative may extend or restrict the set of voting members. Voting representatives can also be introduced or removed by a Member’s legal (or properly delegated) representative.
 - Dimitris to prepare some draft language in the following weeks.
@@ -78,7 +78,7 @@ No changes to the agenda.
 
 ### Who signs the IPR Agreement
 
-{.wp-block-heading}
+
 
 - Dimitris (and Ryan?) to describe the scenario where the CA/B Forum receives an application from a CA, which is the “Owner”, but that CA uses a different Legal Entity as the CA “Operator”. The “Operator” is the one likely to participate in CA/B Forum activities and likely to “Contribute”. The safe approach is to require both Legal Entities to sign the IPR Agreement.
 - Draft language in the Bylaws to give guidance for this particular scenario because we had it more than once. It shouldn’t be too hard to describe this. Ryan agreed it should be trivial to describe what happens when a Member delegates participation or the operations of their CA and also voting. We could imagine a scenario where the Policy Management Authority controls the voting rights and delegates the other operations and participation. We could allow this flexibility if this is combined with the previous discussion about voting representatives.
@@ -87,7 +87,7 @@ No changes to the agenda.
 
 ### Concept of member
 
-{.wp-block-heading}
+
 
 - Ryan to work with counsel to identify inconsistencies.
 - Ben recommended to go through the Bylaws/IPR Policy and flag instances that contain inconsistencies. Actions?
@@ -96,12 +96,12 @@ No changes to the agenda.
 
 ### Time requirements for CAs as Associate Members
 
-{.wp-block-heading}
+
 
 - Dimitris to describe a process to evaluate CAs that are Associate Members once a year. There is no need to change the Bylaws but we should try to have a clear process to implement the policy requirement to review CAs that are in the Associate Member category.
 - There were some good suggestions from Jos.
 
-### 5. Any Other Business {.wp-block-heading}
+### 5. Any Other Business 
 
 Dean reminded Members and Associate Members to vote on Doug’s Doodle poll for the Fall 2020 F2F meeting. Dimitris also reminded people to register for the Bratislava meeting.
 
@@ -109,8 +109,8 @@ Finally, Jos mentioned that the Infrastructure Subcommittee meeting invitation w
 
 ### 6. Next call
 
-{.wp-block-heading}
+
 
 December 12, 2019 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

@@ -7,17 +7,17 @@ title: 2021-01-07 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Adrian Mueller (SwissSign), Ali Gholami (Telia), Andrea Holland (SecureTrust), Ben Wilson (Digicert), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Chris McMillan (Visa), Christy Berghoff (Federal PKI), Clint Wilson (Apple), Corey Bonnell (DigiCert), Christy Berghoff (Federal PKI), Corey Rasmussen (OATI), Curt Spann (Apple), Daniela Hood (GoDaddy), David Kluge (Google), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Mads Henriksveen (Buypass AS), Mike Reilly (Microsoft), Nazril Bin Mohd Gahni (PoS Digicert), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Noorul Halimin Mansol (PoS Digicert), Paul van Brouwershaven (Entrust), Peter Miskovic (Disig), Redha Hamzah (PoS Digicert), Rebecca Kelley (Apple), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### CA/B Forum Meeting Minutes (2020-01-07) {.wp-block-heading}
+### CA/B Forum Meeting Minutes (2020-01-07) 
 
 Dean Coclin (DigiCert) CA/B Forum Chair
 
-### Administrative Updates {.wp-block-heading}
+### Administrative Updates 
 
 ·       Anti-trust statement was read
 
@@ -27,7 +27,7 @@ Dean Coclin (DigiCert) CA/B Forum Chair
 
 o   No comments. Minutes approved.
 
-### Forum Infrastructure Subcommittee {.wp-block-heading}
+### Forum Infrastructure Subcommittee 
 
 Jos Purvis (Cisco)
 
@@ -41,7 +41,7 @@ Jos Purvis (Cisco)
 
 ·       Membership management discussed, very labor intensive. Wayne developed a Google doc that is a “front door” to member list requests. This will help coordinate the list management.
 
-### Code Signing Certificate Working Group {.wp-block-heading}
+### Code Signing Certificate Working Group 
 
 Dean Coclin (DigiCert)
 
@@ -51,7 +51,7 @@ Dean Coclin (DigiCert)
 
 ·       Several questions about 3072 root  requirements and cross signing. Again, Ian needed for that discussion
 
-### S/MIME Working Group {.wp-block-heading}
+### S/MIME Working Group 
 
 Stephen Davidson (DigiCert)
 
@@ -63,7 +63,7 @@ Stephen Davidson (DigiCert)
 
 ·       Today many S/MIME certs allow for doc signing, authentication, etc. in addition to S/MIME
 
-### Additional Administrative Updates {.wp-block-heading}
+### Additional Administrative Updates 
 
 ·       Doodle poll for spring meeting currently tied.
 
@@ -71,4 +71,4 @@ Stephen Davidson (DigiCert)
 
 ·       Next Meeting scheduled for Jan 21st
 
-### Adjourned {.wp-block-heading}
+### Adjourned

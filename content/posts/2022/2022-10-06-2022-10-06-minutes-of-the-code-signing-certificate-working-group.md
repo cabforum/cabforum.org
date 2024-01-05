@@ -9,11 +9,11 @@ title: 2022-10-06 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Atsushi Inaba (GlobalSign), Bruce Morton (Entrust), Corey Bonnell (DigiCert), Dimitris Zacharopoulos (HARICA), Ian McMillan (Microsoft), Inigo Barreira (Sectigo), Martijn Katerbarg (Sectigo), Michael Sykes (SSL.com), Mohit Kumar (GlobalSign)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 1. Antitrust statement was read.
 1. Approval of prior meeting minutes: Minutes for 22 September 2022 were approved.

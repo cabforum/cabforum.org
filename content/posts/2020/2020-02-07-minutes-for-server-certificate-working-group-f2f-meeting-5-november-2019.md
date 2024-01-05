@@ -11,7 +11,7 @@ type: post
 
 The Antitrust statement was read.
 
-### Network Security Subcommittee {#network_security_subcommittee.wp-block-heading}
+### Network Security Subcommittee 
 
 _Presenter:_ Ben Wilson (Digicert)
 _Note Taker:_ Mike Reilly
@@ -70,7 +70,7 @@ Robin: Thinks this is auditable and walked through how you would see evidence of
 
 Ben: Proposed as next steps to look to make Section 3A more consistent with Section 3G. There may be a way to take what we are working on in Section 3A and improve Section 3G.
 
-### Validation Subcommittee {#validation_subcommittee.wp-block-heading}
+### Validation Subcommittee 
 
 _Presenters:_ Tim Hollebeek (Digicert), Wayne Thayer (Mozilla)
 
@@ -106,7 +106,7 @@ _Note Taker:_ Eva Van Steenberge (GlobalSign)
 
 **_LEIs in certificates_**: Mr Wolf participated in the discussions. Tim thanked him for his participation, which was very useful for getting his perspective. Fundamental disagreement, and it doesn’t look like either side is going to move on this issue. if someone wants to review and sees a path that could be productive, please bring it up. Right now, there’s two camps, and both had the opportunity to state their case. We may just need to have a ballot. Dean: According to one side, Gleif has not made a case of why these are needed. According to the other party, having LEIs in certificates causes harm to certificates/ecosystem. it seems like everybody is talking over each other. No concrete assessment on either of both issues. There’s those two pieces of disagreement, which are holding this up. Is that a fair assessment? Kirk: Not a fair assessment. It’s not just GLEIF, there are also CAs who want it as well. Tim (to Dean): Not an unfair summary. Dean: Given that status, maybe it is worth one more round of emails, here’s the two disagreements. To have each party substantiate their position. If they can’t get past that, than maybe Tim’s right and a vote is where this goes.
 
-### Default Allow/Deny Discussion {#default_allowdeny_discussion.wp-block-heading}
+### Default Allow/Deny Discussion 
 
 _Presenters:_ Wayne Thayer (Mozilla)
 

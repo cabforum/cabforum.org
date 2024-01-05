@@ -9,31 +9,31 @@ title: 2021-10-27 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 October 27, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Adriano Santoni (Actalis), Ali Gholami (Telia Company), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Daniel Zens (GlobalTrust), Don Sheehy (WebTrust), Enrico Entschew (D-TRUST), Eusebio Herrera (Camerfirma), Hazhar Ismail (MSC Trustgate.com), India Donald (Federal PKI), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Joanna Fox (TrustCor), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Markus Wichmann (TeleTrust), Matthias Wiedenhorst (ACAB’c), Martijn Katerbarg (Sectigo), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW), Pedro Fuentes (OISTE), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Vigil Security), Sebastian Schulz (GlobalSign), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the October 14 teleconference were approved.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 Discussion continued on the maximum validity period in light of the Apple programme and the gmail guidelines stipulating 825 day maximum validity. Based on feedback from the CAs and elsewhere, Ben Wilson of Mozilla suggested that this period may be short, at least in the initial version of the S/MIME BR that could be stepped down in future versions. He suggested that S/MIME has a different threat model from TLS.
 
@@ -64,12 +64,12 @@ Comments and contributions are welcomed, particularly on methods relating to mai
 
 Clint Wilson raised that he would like to add focused discussion on the requirements surrounding the ‘problematic practice’ of the operation of external Sub CAs to the agenda of a future meeting. Stephen noted this would be done alongside discussion of delegated RAs.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, November 10, 2021 at 11 a.m. US Eastern.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

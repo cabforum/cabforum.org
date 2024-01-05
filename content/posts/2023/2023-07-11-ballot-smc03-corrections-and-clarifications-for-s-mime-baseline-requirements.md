@@ -13,7 +13,7 @@ The Intellectual Property Review (IPR) period for Ballot SMC03 (Corrections and 
 
 The S/MIME Baseline Requirements version 1.0.1 is available from [here][1] in accordance with the Bylaws.
 
-## **NOTICE OF REVIEW PERIOD – BALLOT SMC03**
+## NOTICE OF REVIEW PERIOD – BALLOT SMC03
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This 30-day Review Period is for the Final Maintenance Guideline that is [attached][2] to this Review Notice.
 

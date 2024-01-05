@@ -9,49 +9,49 @@ title: 2022-09-29 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Adam Jones (Microsoft), Adrian Mueller (SwissSign), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Clements (Google), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Daryn Wright (GoDaddy), David Kluge (Google), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Fumi Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Hogeun Yoo (NAVER Cloud), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Joanna Fox (TrustCor Systems), John Mason (Microsoft), Johnny Reading (GoDaddy), Jos Purvis (Fastly), Kiran Tummala (Microsoft), Li-Chun Chen (Chunghwa Telecom), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Martijn Katerbarg (Sectigo), Michelle Coon (OATI), Nargis Mannan (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rebecca Kelley (Apple), Ryan Dickson (Google), Stephen Davidson (Digicert), Steven Deitte (GoDaddy), Tadahiko Ito (SECOM Trust Systems), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tyler Myers (GoDaddy), Wayne Thayer (Fastly), Yoshiro Yoneya (Japan Registry Services)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Read Antitrust Statement {.wp-block-heading}
+### 1. Read Antitrust Statement 
 
 Dean Coclin read the antitrust statement.
 
-### 2. Roll Call {.wp-block-heading}
+### 2. Roll Call 
 
 Jos Purvis read the roll.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 No changes were made to the agenda.
 
-### 4. Approval of Minutes from Last Teleconference {.wp-block-heading}
+### 4. Approval of Minutes from Last Teleconference 
 
 The minutes from the 15-September call were approved without changes.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Corey Bonnell said that the group met last week and first reviewed a PR related to EV subject attributes for the profiles ballot. There was general agreement, however some further clarification of the language may be attempted. Second, the group continued their review of the uses of “Applicant” and “Applicant Representative” in the BRs. They made it through all the domain validation methods, and agreed to skip the IP address validation methods. The group will continue this review next week.
 
-### 6. Ballot Status {.wp-block-heading}
+### 6. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 - None
 
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Voting Period 
 
 - **SC55 – Election of the SCWG Chair**
 
 Jos said that there are two candidates – Inigo Barreira and Tim Hollebeek. Please submit votes by email to Don Sheehy and Clemens Wanko by tomorrow at 12:00 EDT. We’ll have results on the next call.
 
-#### Ballots in Review Period {.wp-block-heading}
+#### Ballots in Review Period 
 
 - None
 
-#### Draft Ballots Under Consideration {.wp-block-heading}
+#### Draft Ballots Under Consideration 
 
 - **Revival of Debian Weak Keys**
 
@@ -65,7 +65,7 @@ David Kluge said that he has no update this week.
 
 Ben Wilson said that he is working with two endorsers on revisions to the ballot.
 
-### 7. Any Other Business {.wp-block-heading}
+### 7. Any Other Business 
 
 - **Update on election of SCWG Chair / Vice Chair**
 
@@ -91,6 +91,6 @@ Trevoli Ponds-White said that we have agreed to vote for Vice Chairs after Chair
 
 Dean said that Tim is planning a Bylaws update that will clarify the election process, and Dimitris agreed.
 
-### 8. Next call: 12-October 2022 at 11AM Eastern {.wp-block-heading}
+### 8. Next call: 12-October 2022 at 11AM Eastern 
 
 Adjourn; Immediately convene meeting of CA Browser Forum (same call)

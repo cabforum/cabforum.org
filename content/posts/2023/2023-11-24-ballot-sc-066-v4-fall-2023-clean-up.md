@@ -42,7 +42,7 @@ type: post
 
 # Ballot Contents
 
-## **Purpose of Ballot SC-66**
+## Purpose of Ballot SC-66
 
 This ballot proposes updates to the Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates related to the issues and typos that have happened due to the different updates of the document.
 
@@ -53,7 +53,7 @@ Notes:
 
 The following motion has been proposed by Iñigo Barreira of Sectigo. And, endorsed by Aaron Gable of Let´s Encrypt and Clint Wilson of Apple.
 
-## **— Motion Begins —**
+## — Motion Begins —
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 2.0.1.
 
@@ -61,16 +61,16 @@ MODIFY the Baseline Requirements as specified in the following Redline:
 
 [Comparing 90a98dc7c1131eaab01af411968aa7330d315b9b…d8447957753ed973cb036d0afe16723243c89998 · cabforum/servercert (github.com)][1]
 
-## **— Motion Ends —**
+## — Motion Ends —
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-# **Discussion (7 days)**
+# Discussion (7 days)
 
 - Start time: 9-11-2023 18:30:00 UTC
 - End time: 16-11-2023 18:30:00 UTC
 
-# **Vote for approval (7 days)**
+# Vote for approval (7 days)
 
 - Start time: 16-11-2023 18:30:00 UTC
 - End time: 23-11-2023 18:30:00 UTC

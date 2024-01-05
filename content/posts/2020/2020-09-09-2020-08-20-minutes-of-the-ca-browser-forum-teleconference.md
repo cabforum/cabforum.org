@@ -7,7 +7,7 @@ title: 2020-08-20 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in Alphabetical Order) {.wp-block-heading}
+## Attendees (in Alphabetical Order) 
 
 Present:
 Amanda Mendieta (Apple)
@@ -47,27 +47,27 @@ Trevoli Ponds-White (Amazon)
 Wayne Thayer (Mozilla)
 Wendy Brown (US Federal PKI Management Authority)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Dimitris still being on vacation, Dean chaired this meeting.
 
 The agenda was accepted with no modifications.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes were approved.
 
-### 5. Forum Infrastructure Subcommittee update {.wp-block-heading}
+### 5. Forum Infrastructure Subcommittee update 
 
 Jos provided the update. The subcommittee met on the 12th August.
 
@@ -87,7 +87,7 @@ The proposal is that there would be a repository for the Bylaws, one for the Ser
 
 Jos reiterated his offer of GitHub training – he has had a few requests for training, and if people want answers to questions like “What is Github?”, “how does Git work?”, Jos is happy to put something together if those interested would let him know.
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 Dean provided the update.
 
@@ -101,7 +101,7 @@ The group is about half way through the list; some of the items are relatively e
 
 The next meeting of the Code Signing Working Group will be next Thursday \[27 September 2020\].
 
-### 7. S/MIME Working Group update {.wp-block-heading}
+### 7. S/MIME Working Group update 
 
 Stephen provided the update.
 
@@ -115,7 +115,7 @@ This is a useful exercise in rapidly converging on the common ground which exist
 
 The next meeting of the S/MIME Certificate Working Group is Wednesday, 2 September 2020.
 
-### 8. Elections update {.wp-block-heading}
+### 8. Elections update 
 
 Dean said that Dimitris had sent out an email on August 17, stating that the nominations for Officers of the CA/B Forum is now open, and those nominations remain open through the 23rd. Dean noted that this was interesting, as the wiki says that the nominations are open through the 31st. He was unsure of which was correct.
 
@@ -127,10 +127,10 @@ Tim (Hollebeek) added a quick observation that anyone nominating another should 
 
 Dean said that only the three Chair positions are open now – the Vice Chair positions open in October.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 There was no other business.
 
-### 10. Adjourn {.wp-block-heading}
+### 10. Adjourn 
 
 The meeting was adjourned and will reconvene on September 3, 2020 at 11:30 am Eastern Time

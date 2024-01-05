@@ -9,7 +9,7 @@ title: Ballot SC23 V3 – Precertificates
 type: post
 ---
 
-## Ballot Results {.wp-block-heading}
+## Ballot Results 
 
 The voting period for Ballot SC23 has ended and the **Ballot has Passed**. Votes were received from Actalis, Trustcor, and Izenpe after the voting period had ended and were not counted. Here are the results:
 **Voting by Certificate Issuers – 15 votes total including abstentions**
@@ -35,7 +35,7 @@ at least one Certificate Issuer and one Certificate Consumer Member must vote in
 Under Bylaw 2.3(7), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum.
 20 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **10**, so quorum was **11 votes** – quorum was met.
 
-## Ballot SC23 V3 – Precertificates {.wp-block-heading}
+## Ballot SC23 V3 – Precertificates 
 
 **Purpose of Ballot:**
 

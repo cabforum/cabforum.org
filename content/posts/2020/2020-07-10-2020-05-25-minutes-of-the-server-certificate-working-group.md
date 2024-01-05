@@ -7,25 +7,25 @@ title: 2020-05-25 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Andrea Holland (SecureTrust), Inaba Atsushi (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Dean Coclin (DigiCert), Dimitris Zacharopolous (HARICA) \[Chair\], Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Encrico Entschew (D-TRUST), Janet Hines (SecureTrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass), Mike Reilly (Microsoft), Neil Dunbar (TrustCor), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (Wisekey), Peter Miskovic (Disig), Ryan Sleevi (Google), Shelley Brewer (DigiCert), Taconis Lewis (Protiviti), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera), Trevoli Ponds-White (Amazon), Wendy Brown (FPKI).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 No changes to the agenda were noted.
 
-### 4. MSC Trustgate’s request to renew Associate Membership (expired 2020-05-31) {.wp-block-heading}
+### 4. MSC Trustgate’s request to renew Associate Membership (expired 2020-05-31) 
 
 Dimitris noted that MSC Trustgate, whose membership had expired on May 30. He had sent a reminder, and received a reply saying that they would like to renew their membership.
 
@@ -43,13 +43,13 @@ After consulting the bylaws, Dimitris said that the SCWG was able to decide whet
 
 After no objection, Dimitris said that he would write to them and advise them of their extension lasting another 12 months.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Tim Hollebeek said that they were continuing to discuss certificate profiles, moving on to End-Entity profiles, but no movement had been made after the last meeting, but the goal remains to get some work done on those profiles prior to the next meeting so that the Subcommittee can start reviewing them.
 
 He added that Dimitris had an action item to update the traceability around the Root and ICAA profiles and that Tim would be reviewing once that work is completed.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Neil Dunbar said that there wasn’t a great deal to report since the F2F meeting.
 
@@ -59,9 +59,9 @@ Two other ballots are in preparation to handle authentication lockout policy and
 
 No minutes had been recorded from any of the Subcommittee teams, so it would appear that there was no significant output to report.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _SC28 (Logging and Log Retention)_
 
@@ -76,15 +76,15 @@ _SC31 (Browser Alignment)_
 
 Ryan has restarted the discussion period, with changes made to handle the “No Stipulation” clause as well as Pandoc-friendly formatting changes. Review is welcome, and the mailing list has some discussion on what consequences might follow should SC31 fail.
 
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Voting Period 
 
 None.
 
-#### Ballots in Review Period {.wp-block-heading}
+#### Ballots in Review Period 
 
 None.
 
-#### Draft Ballots under Consideration {.wp-block-heading}
+#### Draft Ballots under Consideration 
 
 _Spring 2020 cleanup_
 Ryan reported that the status is that we are waiting on the other ballots to proceed, which should be over the span of the next week.
@@ -106,18 +106,18 @@ Ben said that there were two issues to discuss. The first was whether requiremen
 
 At the moment, the ballot creates no new cross linking between the BRs and the NCSSRs. Ben was unsure as to whether such cross links should be established, saying that the following NetSec call would flesh out such considerations.
 
-### 8. Update action items (added items from F2F 50) {.wp-block-heading}
+### 8. Update action items (added items from F2F 50) 
 
 Dimitris has posted a page on the wiki, created some time ago, called “Meeting Action Items”. After reading the minutes from F2F 50, Dimitris has been updated the page; removing completed actions, and adding newer ones.
 
 For SCWG, there is still a followup item for Arno Fiedler regarding the ETSI presentation, but this is the only action other than those taken care of by the subcommittees.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 No other business was discussed.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 The next call will take place on July 9th, 2020 at 11am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

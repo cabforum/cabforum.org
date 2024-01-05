@@ -3,12 +3,12 @@ aliases:
 - /information-for-potential-members/
 author: Ben Wilson
 date: 2013-08-30 22:34:32
-title: Information for Potential Members
 linkTitle: Potential Members
+title: Information for Potential Members
 type: page
 ---
 
-## **About the CA/Browser Forum**
+## About the CA/Browser Forum
 
 The CA/Browser Forum conducts business primarily at the working group level, although voting on a working group charter is by a plenary of the Forum.
 
@@ -16,7 +16,7 @@ The CA/Browser Forum conducts business primarily at the working group level, alt
 
 - Working Groups may meet by teleconference or face-to-face meetings. They adopt Final Guidelines and Final Maintenance Guidelines within the scope of their charters and according to the provisions (including voting processes) of their charters. Any Final Guideline or Maintenance Guideline is then posted to the Public Mail List. Final Maintenance Guidelines and new Final Guidelines must pass through a 30-day and 60-day Intellectual Property Rights review period before they are final, however they do not need to be approved by the Forum at large.
 
-## **Membership Criteria**
+## Membership Criteria
 
 **All CA/Browser Forum members must meet the membership criteria of at least one Chartered Working Group (CWG). Generally, they must meet the following criteria:**
 
@@ -33,7 +33,7 @@ In addition, the CA/Browser Forum may enter into associate member relationships 
 
 ## Membership Applications
 
-### **For all Membership Applications:**
+### For all Membership Applications:
 
 Please email ” ” with “Membership Application of \[Name of Your Organization\]” in the Subject line.
 
@@ -47,7 +47,7 @@ Here are the items that should be provided in all applications:
 - an indication of which of such employees will be authorized to vote on Forum and working group ballots;
 - emergency contact information for security issues related to certificate trust lists (email addresses, at least one telephone number, and full names and nicknames with surnames will be helpful in future communications).
 
-### **For Certificate Issuers Wishing to Join:**
+### For Certificate Issuers Wishing to Join:
 
 Applicants for the Certificate Issuer voting class should also provide:
 
@@ -60,7 +60,7 @@ For the Server Certificate Working Group, also include:
 - the URLs of three web pages that comply with section 2.2 of the TLS Baseline Requirements (respectively secured with a valid, a revoked, and an expired certificate); and
 - links or references to an issued end-entity certificate that demonstrates it being treated as valid by a Certificate Consumer Member.
 
-### **For Certificate Consumer organizations interested in joining:**
+### For Certificate Consumer organizations interested in joining:
 
 Section 2.1 of our Bylaws requires that your organization “produces software that processes certificates and meets the requirements for membership as a Certificate Consumer in one or more CWGs.” Here are the points that an Applicant for the Certificate Consumer voting class should address in its email to the Forum:
 

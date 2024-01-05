@@ -9,17 +9,17 @@ title: 2021-12-16 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Andrea Holland, Atsushi Inaba, Bruce Morton, Corey Bonnell, Dean Coclin, Ian McMillan, Inigo Barreira, Janet Hines, Joanna Fox, Michael Sykes, Roberto Quinones, Tim Hollebeek
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 Antitrust Statement was read by Bruce Morton.
 
 Approved minutes from previous Dec 2, 2021 meeting.
 
-### Ballot CSC-6 (Subscriber Private Key Protection) {.wp-block-heading}
+### Ballot CSC-6 (Subscriber Private Key Protection) 
 
 Ian shared the final discussion feedback and changes.
 
@@ -31,14 +31,14 @@ Ian shared the final discussion feedback and changes.
 - In Section 16.3 number 6, this was previously just a qualified auditor and what is seen in Section 11.7 for high risk applicants did not align with this. For now, this is aligned with what is seen in Section 11.7. It now reads, “The CA or relying on a report provided by the Applicant that is signed by an auditor who is approved by the CA and who has IT and security training or is a CISA witnesses the Key Pair creation in a suitable Hardware Crypto Module solution including a cloud-based key generation and protection solution.” We should go back later and fix up what is in section 11.7.
 - Ian says that the modifications are complete and he just needs 2 endorsers for the ballot. CAs will be circulating it internally to see if they would be able to endorse this ballot. We want to wait until the new year to push this ballot out for discussion.
 
-### CSBR Format Change {.wp-block-heading}
+### CSBR Format Change 
 
 - Corey circulated the updated mapping document via email last week and wanted everyone to take a look at it and provide feedback on it.
 - The document at this point is just awaiting feedback from the group.
 - Corey and Dimitris to lead a walkthrough and discussion of this mapping document during the meeting on January 13, 2022.
 - In talking about next steps, we want to get CSC-6 done and then get CSBR format change through before we start with further ballots to minimize further changes to the CSBR format change. Bruce to review the cleanup list as we look towards next steps after the CSBR format change ballot.
 
-### Other Business {.wp-block-heading}
+### Other Business 
 
 - Ian brought up the topic of brainstorming around verification for open source projects
 - Two people in the open source area will come to talk with us and give us their perspective on code signing certificates and how they obtain them and some ideas around that. One is from the GitHub world (Kevin Jones) and the other is from the .net foundation (Claire Novotny). This will occur at the February 10, 2022 meeting.

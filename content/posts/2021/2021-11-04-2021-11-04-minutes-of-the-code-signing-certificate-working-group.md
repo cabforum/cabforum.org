@@ -9,11 +9,11 @@ title: 2021-11-04 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Andrea Holland, Atsushi Inaba, Ben Wilson, Bruce Morton, Chris Kemmerer, Corey Bonnell, Dean Coclin, Dimitris Zacharopoulo, Ian McMillan, Inigo Barreira, Janet Hines, Joanna Fox, Martijn Katerbarg, Michael Sykes, Sebastian Schulz, Tim Crawford, Tim Hollebeek, Tomas Gustavsson
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 **Minute Taker:** Martijn
 
@@ -25,7 +25,7 @@ Andrea Holland, Atsushi Inaba, Ben Wilson, Bruce Morton, Chris Kemmerer, Corey B
 
 ### SC-50 – Remove the requirements of 4.1.1.**
 
-** {.wp-block-heading}
+** 
 
 Bruce: SC50 In the Server Certificate working group s a ballot where they would change 4.1.1 to say “No Stipulation”. Do we care about this or not, and do we want to add any additional information here.An email was sent out about this on the 1st of November.
 
@@ -41,14 +41,14 @@ Bruce: I think we should do that. Sometimes it makes sense to have a different p
 
 To be kept on the agenda for the next meeting
 
-### Ballot status on ballots 11 and 12 {.wp-block-heading}
+### Ballot status on ballots 11 and 12 
 
 Bruce provided an update on both:
 
 - CSC-11 has gone though IPR review and is now complete. The version of the CSC BR document has been sent out and published.
 - CSC-12 is now out for IPS review running through December 3rd 2021.
 
-### CSC-6 Subscriber key protection {.wp-block-heading}
+### CSC-6 Subscriber key protection 
 
 - Ian has sent out a draft on November 3rd based on CS BRs version 2.5. If needed a redline based on 2.6 can be created and sent out. All changes are centered around section 16.3
 - A few changes were received from Bruce regarding signing services which was mainly cleanup items in terms of EV vs non-EV.
@@ -81,7 +81,7 @@ Bruce provided an update on both:
 
 ### CS BR Format Change**
 
-** {.wp-block-heading}
+** 
 
 Corey went through the CS BR’s and did a section by section comparison with the TLS BR’s. It looks mostly consistent. The next step will have to be a review to see there haven’t been made any mistakes and then get it up for a vote.
 

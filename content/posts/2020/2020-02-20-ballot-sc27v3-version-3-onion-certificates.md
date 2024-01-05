@@ -9,7 +9,7 @@ title: 'Ballot SC27v3: Version 3 Onion Certificates'
 type: post
 ---
 
-## Ballot Results {.wp-block-heading}
+## Ballot Results 
 
 The voting period for Ballot SC27v3 has ended and **the Ballot has Passed**. Here are the results:
 
@@ -38,7 +38,7 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was **11** votes – quorum was met.”
 
-## Ballot SC27v3: Version 3 Onion Certificates {.wp-block-heading}
+## Ballot SC27v3: Version 3 Onion Certificates 
 
 **Purpose of Ballot:**
 

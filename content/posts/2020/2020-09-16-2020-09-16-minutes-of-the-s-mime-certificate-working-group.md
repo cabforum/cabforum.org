@@ -7,35 +7,35 @@ title: 2020-09-16 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 September 16, 2020
 
 These are the Approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Li-Chun Chen (Chunghwa Telecom), Tsung-Min Kuo (Chunghwa Telecom), Andreas Henschel (D-TRUST), Dean Coclin (DigiCert), Stephen Davidson (DigiCert), Bruce Morton (Entrust DataCard), Thomas Connelly (Federal PKI), Doug Beattie (GlobalSign), Hugh Mercer (GlobalSign), Atsushi Inaba (GlobalSign), Hongquan Yin (Microsoft), Ben Wilson (Mozilla), Hazhar Ismail (MSC Trustgate.com), Ahmad Syafiq Md Zaini (MSC Trustgate.com), Pedro Fuentes (OISTE), Patrycja Tulinska (PSW), Tadahiko Ito (SECOM Trust Systems), Chris Kemmerer (SSL.com), Markus Wichmann (TeleTrust), Morad Abou Nasser (TeleTrust), Rufus Buschart (TeleTrust), Corey Bonnell (Trustwave), Russ Housley (Vigil Security, LLC), Jeff Ward (WebTrust), Don Sheehy (WebTrust), Tim Crawford (WebTrust), Burkhard Wiegel (Zertificon)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the September 2 teleconference were approved.
 
-### 5. New Members {.wp-block-heading}
+### 5. New Members 
 
 SECOM Trust Systems was accepted as a Certificate Issuer member of the SMCWG by a consensus vote.
 
-### 6. Discussion of approach and deliverables {.wp-block-heading}
+### 6. Discussion of approach and deliverables 
 
 A discussion was held of major use cases for S/MIME certificates:
 
@@ -49,12 +49,12 @@ There was discussion of who is the dominant Relying Party for S/MIME. Many S/MIM
 
 Again it was suggested setting up a separate sheet to gather different CA profiles for S/MIME.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 No other business.
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 The next call will take place on September 30, 2020 at 11:00am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

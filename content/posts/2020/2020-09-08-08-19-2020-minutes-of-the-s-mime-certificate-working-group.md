@@ -9,33 +9,33 @@ title: 2020-08-19 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 August 19, 2020
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Matthias Wiedenhorst (ACAB’c), Arno Fiedler (Arno Fiedler), Mads Henriksveen (BuyPass), Qiu Dawei (CFCA), Zhang Danmeng (CFCA), Li-Chun Chen (Chunghwa Telecom), Tsung-Min Kuo (Chunghwa Telecom), Andreas Henschel (D-TRUST), Tim Hollebeek (DigiCert), Dean Coclin (DigiCert), Bruce Morton (Entrust DataCard), Wendy Brown (Federal PKI), Thomas Connelly (Federal PKI), Doug Beattie (GlobalSign), Hugh Mercer (GlobalSign), Atsushi Inaba (GlobalSign), Hongquan Yin (Microsoft), Hazhar Ismail (MSC Trustgate.com Sdn Bhd), Ahmad Syafiq Md Zaini (MSC Trustgate.com Sdn Bhd), Fakrul Radzi (MSC Trustgate.com Sdn Bhd), Nazmi Abd Hadi (MSC Trustgate.com Sdn Bhd), Pedro Fuentes (OISTE), Rich Smith (Sectigo), Robin Alden (Sectigo), Tim Callan (Sectigo), Markus Wichmann (TeleTrust), Morad Abou Nasser (TeleTrust), Neil Dunbar (TrustCor), Corey Bonnell (Trustwave), Russ Housley (Vigil Security, LLC), Burkhard Wiegel (Zertificon), Peggy Hüpenbecker (Zertificon), Mevre Tunca (Zertificon)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Dean Coclin proposed a change in membership status (see below).
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the August 5 teleconference were approved with an update to the attendance list.
 
-### 5. Approval of New Members {.wp-block-heading}
+### 5. Approval of New Members 
 
 The declarations of the following were noted:
 
@@ -49,7 +49,7 @@ Their membership in the SMCWG was accepted by consensus. In addition, Dean Cocli
 - Associate Members: ACAB Council, U.S. Federal PKI, WebTrust
 - Interested Parties: Arno Fiedler, PSW, TeleTrusT, Vigil Security, Nathalie Weiler
 
-### 6. Discussion of approach and deliverables {.wp-block-heading}
+### 6. Discussion of approach and deliverables 
 
 It was agreed to begin a discussion of certificate profiles starting at the S/MIME end entity, working up the chain, in comparison to major requirements and standards. The worksheet currently includes aspects of standards from Mozilla, Gmail and the US Federal PKI (thanks for Wendy Brown’s assistance):
 
@@ -65,12 +65,12 @@ Pertaining to Signature Algorithm, assistance was requested in either obtaining 
 
 Pertaining to Validity Period, there was discussion relating to the tradeoffs between shorter validity for crypto agility as championed in TLS, the use of tokens found in many S/MIME implementations, and in use cases such as email gateways. It was proposed that domain certificates would benefit from a separate profile. Discussion to be continued.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 Again, WG members are encouraged to submit relevant standards and requirements to the public list.
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 The next call will take place on September 2, 2020 at 11:00am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

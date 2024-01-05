@@ -9,31 +9,31 @@ title: 2022-07-20 Minutes of SMIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 July 20, 2022
 
 These are the Draft Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Clint Wilson (Apple), Corey Bonnell (Digicert), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Eva Vansteenberge (GlobalSign), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Judith Spencer (CertiPath), Morad Abou Nasser (TeleTrust), Mrugesh Chandarana (IdenTrust), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tsung-Min Kuo (Chunghwa Telecom)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 Changes were requested to the June 22 minutes by Dimitris Zacharopoulos relating to the discussion of the membership category for Bridge CAs (currently being adopted as Associate Member). The minutes will be updated and redistributed.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 The WG discussed the expression of interest of Visa to join the SMCWG. It was agreed to welcome Visa as a Certificate Issuer. It was agreed to distribute information about new membership requests to the Management listserv.
 
@@ -51,12 +51,12 @@ Stephen Davidson again noted that edits are being checked in with noncontroversi
 
 The call remains open for comments that members may have on the draft. Stephen noted that the goal remains to move to ballot at end of summer.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, August 3, 2022 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

@@ -7,33 +7,33 @@ title: 2021-03-17 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 March 17, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Ali Gholami (Telia Company), Atsushi Inaba (GlobalSign), Burkhard Wiegel (Zertificon), Bruce Morton (Entrust), Ben Wilson (Mozilla), Christy Berghoff (Federal PKI), Clint Wilson (Apple), Corey Bonnell (DigiCert), Curt Spann (Apple), Dean Coclin (DigiCert), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate.com), Russ Housley (Vigil Security), James Knapp (Federal PKI), Janet Hines (SecureTrust), Klauss Voss (Zertificon), David Kluge (Google), Inigo Barreira (Sectigo), Juan Ángel Martin (Camerfirma), Morad Abou Nasser (TeleTrust), Niko Carpenter (SecureTrust), Pedro Fuentes (OISTE), Patrycja Tulinska (PSW), Li-Chun Chen (Chunghwa Telecom), Rebecca Kelley (Apple), Sebastian Schulz (GlobalSign), Stephen Davidson (DigiCert), Thomas Connelly (Federal PKI), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 It was noted that the listserv may not have been distributing messages, including the agenda (which was redistributed offlist before the meeting). The listserv issues appear to now have been resolved.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the February 17 teleconference were approved.
 
-### 6. Discussion of certificate profile {.wp-block-heading}
+### 6. Discussion of certificate profile 
 
 A discussion commenced regarding the allowed fields in the Subject DN for the various S/MIME certificate types:
 
@@ -68,12 +68,12 @@ It was noted that Outlook has provided some information on S/MIME cert processin
 - Does the email software have ability to act upon S/MIME messages based upon information in the certificate? (ie to trigger processing rules)
 - Are there S/MIME certificate current practices that are known to be problematic for mail clients?
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, March 31, 2021 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

@@ -41,7 +41,7 @@ _Term begins _Nov 1, 2022 and ends Oct 31, 2024_._
 
 _Term begins _Nov 1, 2022 and ends Oct 31, 2024__
 
-## Network Security Working Group {#network-security-working-group.wp-block-heading}
+## Network Security Working Group 
 
 - Chairperson: Clint Wilson ([Apple][8])
 - Vice-Chairperson: David Kluge ([Google Trust Services](https://pki.goog/))

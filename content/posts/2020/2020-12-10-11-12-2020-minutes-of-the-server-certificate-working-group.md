@@ -7,29 +7,29 @@ title: 2020-12-11 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Adrian Mueller (SwissSign), Amanda Mendieta (Apple), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Christy Berghoff (Federal PKI), Curt Spann (Apple), Daniela Hood (GoDaddy), David Kluge (Google), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Chair read the Antitrust Statement.
 
-### 3. Review Agenda, assign minute taking {.wp-block-heading}
+### 3. Review Agenda, assign minute taking 
 
 Tobi takes minutes for the current call, Dustin from Microsoft will take minutes for the next call.
 
-### 4. Approval of minutes from the F2F {.wp-block-heading}
+### 4. Approval of minutes from the F2F 
 
 Previous teleconference minutes were approved at the F2F, so this is about approving the minutes from the F2F. No objections to approving the minutes from the F2F.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 _Tim reports:_
 
@@ -41,23 +41,23 @@ We’re going to continue discussing that at the next meeting, and we’re going
 
 That’s where we’re at, so we’re hopefully going to have a very productive call next week.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 _Neil reports:_
 
 Not a great deal to report, short meeting. Currently in the process of rescheduling our meetings, intending to have the SC call just before the bi-weekly SCWG call instead of after the forum call. We noticed a reference to 7 years log retention overlooked by Ballot 28 (5.5.2), we will try to bring that into the same scheme as 5.4.3. SC39 fixes the NCSSRs definition of Critical Security Vulnerability to have the most recent CVSS URL as well as referring to CVSS version 3, not version 2. I hope this will enter the discussion period soon.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
 No Ballots in discussion, voting or review at the moment.
 
-#### Draft Ballots under consideration {.wp-block-heading}
+#### Draft Ballots under consideration 
 
 _SCXX Offline CAs_
 
 Ben: I sent out an email, hoping for some further input from everyone. This is not the same as the Zone Ballot but an entirely different effort, created and pushed forward by the Webtrust People, Tim from BDO worked on it. I could re-send it. Jos: Maybe it would be a good idea to re-send it.
 
-#### Ballots held previous to the F2F {.wp-block-heading}
+#### Ballots held previous to the F2F 
 
 _Minimum expectations regarding weak keys_
 
@@ -71,7 +71,7 @@ _Removal of Zones from NCSSRs_
 
 Ben: No updates, but it’s still a pain point and we want to keep pushing those.
 
-### 8. Membership applications {.wp-block-heading}
+### 8. Membership applications 
 
 We have several membership applications that need review.
 
@@ -112,10 +112,10 @@ Dimitris: So the proposal is to accept them as an associate member and we approv
 Jos: Yes. Any objections to accepting them as an associate member?
 Jos: None noted.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 No other business.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 The next scheduled meeting is 26 November, so it is canceled because it lands on the US holiday of Thanksgiving. 10 December is now the next meeting.

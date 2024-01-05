@@ -9,7 +9,7 @@ title: 'Ballot CSC-18: Update Revocation Requirements'
 type: post
 ---
 
-## Results of Review Period {.wp-block-heading}
+## Results of Review Period 
 
 (Mailing list post is available [here][1].)
 
@@ -27,7 +27,7 @@ End of Review Period:         June 23, 2023 at 11:00am Eastern Time
 
 Please forward a written notice to exclude Essential Claims to the Forum and Working Group Chair by email to and a copy to the CA/B Forum CSCWG public mailing list before the end of the Review Period. See current version of CA/Browser Forum Intellectual Property Rights Policy for details.
 
-## Results of Voting {.wp-block-heading}
+## Results of Voting 
 
 | | | | |
 | --- | --- | --- | --- |
@@ -44,11 +44,11 @@ Microsoft
 
 This ballot has PASSED.
 
-## Purpose of the Ballot {.wp-block-heading}
+## Purpose of the Ballot 
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates“ version 3.2, Section 4.9.1 – “Circumstances for revocation” in order to align it with the TLS and S/MIME BRs and set stricter requirements for revocation due to Private Key Compromise and use in Suspect Code. The following motion has been proposed by Martijn Katerbarg of Sectigo and endorsed by Ian McMillan of Microsoft and Bruce Morton of Entrust.
 
-## Motion {.wp-block-heading}
+## Motion 
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” (“Code Signing Baseline Requirements”) based on version 3.2. MODIFY the Code Signing Baseline Requirements as specified in the following redline: [https://github.com/cabforum/code-signing/pull/17/files#diff-904962f0e52198f4a232d6ef6732d57ccb47433d4bba47b3472d681405360e31][4]
 

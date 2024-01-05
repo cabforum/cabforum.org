@@ -9,11 +9,11 @@ title: 2022-01-06 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Adam Jones (Microsoft), Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Fumihiko Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Israr Ahmed (E-tugra), Joanna Fox (TrustCor Systems), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kati Davids (GoDaddy), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Martijn Katerbarg (Sectigo), Niko Carpenter (SecureTrust), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Ryan Dickson (Google), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Trevoli Ponds-White (Amazon), Tyler Myers (GoDaddy), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 - Opening Procedures- Dean
 

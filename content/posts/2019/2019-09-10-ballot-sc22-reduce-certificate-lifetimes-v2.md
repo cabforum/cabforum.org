@@ -9,11 +9,11 @@ title: Ballot SC22 – Reduce Certificate Lifetimes (v2)
 type: post
 ---
 
-## Results {.wp-block-heading}
+## Results 
 
 The voting period for Ballot SC22 has ended and the **Ballot has Failed**. Here are the results:
 
-### Voting by Certificate Issuers {.wp-block-heading}
+### Voting by Certificate Issuers 
 
 **33 votes total including abstentions**
 
@@ -25,7 +25,7 @@ The voting period for Ballot SC22 has ended and the **Ballot has Failed**. He
 
 35% of voting Certificate Issuers voted in favor.
 
-### Voting by Certificate Consumers {.wp-block-heading}
+### Voting by Certificate Consumers 
 
 **7 votes total including abstentions:**
 
@@ -35,7 +35,7 @@ The voting period for Ballot SC22 has ended and the **Ballot has Failed**. He
 
 100% of voting Certificate Consumers voted in favor.
 
-### Relevant Bylaw references {.wp-block-heading}
+### Relevant Bylaw references 
 
 Bylaw 2.3(f) requires:
 
@@ -45,7 +45,7 @@ Bylaw 2.3(f) requires:
 - Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum.
 - 18 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **9**, so quorum was** 10 votes** –\_ quorum was met\_.
 
-## Ballot SC22: Reduce Certificate Lifetimes (v2) {.wp-block-heading}
+## Ballot SC22: Reduce Certificate Lifetimes (v2) 
 
 **Motivation:**
 Since the adoption of the Baseline Requirements, the CA/Browser Forum has discussed and debated the merits and value in reducing certificate lifetimes, in order to adequately respond to changes in the TLS ecosystem.
@@ -66,7 +66,7 @@ While Browsers will be able to technically enforce these reduced validities as e
 
 This ballot further attempts to resolve ambiguities between the expectations of Root Programs and the interpretations of CAs. Namely, it attempts to clarify time periods in days and seconds, to avoid confusion with respect to months, fractional seconds, leap seconds, and other forms of date calculation, while also allowing an additional 86,400 seconds between the recommended period and the required period. To address issues with Validity Period, it defines the Validity Period in a way that can be objectively technically enforced and verified, by measuring the period between the notBefore and notAfter of certificates, as specified by RFC 5280. While historically the Forum has not specified timezones for effective dates, and thus this ballot continues the trend, consistent with the requirements of X.690, X.680, and X.509, the time and timezone for effective dates shall be interpreted as midnight, Coordinated Universal Time.
 
-#### Changes since SC22 (V1) {.wp-block-heading}
+#### Changes since SC22 (V1) 
 
 **(Informative) Redline:** [https://github.com/sleevi/cabforum-docs/compare/0a72b35f7c877e6aa1e7559f712ad9eb84b2da12…sleevi:069f785ebbdc82b819dcd045330ce61542097158][1]
 This updates the date from March 2020 to April 2020. While the adoption of this Ballot does not require functional or operational changes of Subscribers for 18 months, and thus ample time to evaluate and prepare for changes, concerns were shared that customers with freeze periods that last through February may feel unprepared, particularly once the changes begin to impact them in 2021. To account for this, an additional month of breathing room is provided, allowing for approximately 19 months until any organizational impact.
@@ -76,7 +76,7 @@ An interpretation of the Bylaws has been put forward that voting cannot start un
 
 The following motion has been proposed by Ryan Sleevi of Google and endorsed by Curt Spann of Apple and Jacob Hoffman-Andrews of ISRG / Let’s Encrypt.
 
-#### —– MOTION BEGINS —– {.wp-block-heading}
+#### —– MOTION BEGINS —– 
 
 This ballot modifies the Baseline Requirements, version 1.6.5, to incorporate the following changes:
 
@@ -88,7 +88,7 @@ This ballot modifies the EV SSL Certificate Guidelines, version 1.7.0, to incorp
 Should this ballot be adopted, the Chair or Vice Chair shall be directed to modify “SCXX” to “SC22” and “XX-Xxx-2019” within both documents’ informative tables to the date of the completed ballot, prior to or following the IP Review Period, and “Xxxx XX” to the effective date/date of publication of the Final Maintenance Guidelines.
 In addition, the Chair or Vice Chair shall be directed to modify X.X.X within both documents to an appropriate version, at the Chair or Vice Chair’s discretion. The Chair is recommended to not use directly sequential or continuous numbering from prior versions, in order to ensure there is additional review by CAs as to the substance of these changes.
 
-#### —– MOTION ENDS —– {.wp-block-heading}
+#### —– MOTION ENDS —– 
 
 [1]: https://github.com/sleevi/cabforum-docs/compare/0a72b35f7c877e6aa1e7559f712ad9eb84b2da12...sleevi:069f785ebbdc82b819dcd045330ce61542097158
 [2]: https://github.com/cabforum/documents/compare/master...sleevi:069f785ebbdc82b819dcd045330ce61542097158?diff=split#diff-4d3fa7e751e9cac20a3014852be12e82

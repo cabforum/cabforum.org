@@ -7,19 +7,19 @@ title: 2021-02-18 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## 1. Attendees (in alphabetical order) {.wp-block-heading}
+## 1. Attendees (in alphabetical order) 
 
 Aaron Gable (Let’s Encrypt), Adrian Mueller (SwissSign), Ali Gholami (Telia), Andrea Holland (SecureTrust), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen (OATI), Curt Spann (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Mads Henriksveen (Buypass AS), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Peter Miskovic (Disig), Rebecca Kelley (Apple), Ryan Sleevi (Google), Sebastian Schulz (GlobalSign), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority)
 
-## 2. Anti-Trust statement read {.wp-block-heading}
+## 2. Anti-Trust statement read 
 
-## 3.  Forum Infrastructure – Ben Wilson gave the update {.wp-block-heading}
+## 3.  Forum Infrastructure – Ben Wilson gave the update 
 
 - a.  Looking at how do a redesign of the website
 - i.  Make things easier for people to find
 - ii.  Make things categorized by working groups and have the documents page be the key landing page.
 
-## 4.  Code Signing Working group update -Bruce Morton gave the update {.wp-block-heading}
+## 4.  Code Signing Working group update -Bruce Morton gave the update 
 
 - a.  Designated people to take minutes for 3 months ahead
 - b.  Finished approving ballot CSWG-07 and now on IPR agreement review through March 5th.
@@ -33,14 +33,14 @@ Aaron Gable (Let’s Encrypt), Adrian Mueller (SwissSign), Ali Gholami (Telia), 
 - g.   Moving to minimum 3072-bit RSA key in June 1 but don’t have a list of subscriber tokens that would meet our requirements. Need to get this list to move forward.
 - h.   Next meeting will be on Feb 25.
 
-## 5.   SMIME Working Group- Stephen Davidson {.wp-block-heading}
+## 5.   SMIME Working Group- Stephen Davidson 
 
 - a.   New members: Apple as a certificate consumer and Camerfirma as a certificate issuer. Total count of membership is 42.
 - b.   Engaged in discussion for leaf certificate profile and fulfilling the basic confirmations for certificates and advancing drafting relevant BR sections
 - c.   Group will have a greater discussion on frameworks in the f2f meeting, primarily on fields that are discouraged but permitted for S/MIME.
 - d.   Group will be reaching to infrastructure group to move to GitHub.
 
-## 6.   F2F 52 {.wp-block-heading}
+## 6.   F2F 52 
 
 - a.   Only ~50 sign-ups, less than before
 - b.   James Burton, who is not a member of the CA/B Forum but was previously an interested party, wants to attend the guest speaker portions. No general objections.
@@ -48,10 +48,10 @@ Aaron Gable (Let’s Encrypt), Adrian Mueller (SwissSign), Ali Gholami (Telia), 
 - d.   Dr. Natalia Stakhanova is a professor at a university in Canada, speaking about the story of your cryptographic keys, the source attribution of your keys.
 - e.   Agenda is online with open slots available with flexible times if needed.
 
-## 7.   Pending Application update {.wp-block-heading}
+## 7.   Pending Application update 
 
 - a.   AT&T membership- they are reviewing and will get back to Dean
 
-## 8.   Any other business- none. {.wp-block-heading}
+## 8.   Any other business- none. 
 
-## 9.   Meeting Adjourned {.wp-block-heading}
+## 9.   Meeting Adjourned

@@ -7,29 +7,29 @@ title: 2020-07-23 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Huo Haitao (Halton) (360 Browser), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Joanna Fox (GoDaddy), Johny Reading (GoDaddy), Karina Sirota (Microsoft), Michelle Coon (OATI), Michol Murray (GoDaddy), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Peter Miskovic (Disig), Rae Ann Gonzales (Godaddy), Rich Smith (Sectigo), Robin Alden (Sectigo), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Thanos Vrachnos (SSL.com), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Travis Graham (GoDaddy), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 No changes to the agenda were noted. Dimitris will not chair for the next two calls, no volunteers for minute taking.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Tim reports he will not be available in the next SCWG call either and that in turn somebody else may have to report.
 
@@ -39,7 +39,7 @@ The Subcommittee has also looked at the Github facilities for managing issues; i
 
 The Subcommittee will get back to the certificate profiles in next week’s meeting.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 The NetSec Subcommittee has received a request to not currently bring more ballots to vote. The Subcommittee has multiple work items nearly ready to be brought forward as Ballots, but will discuss the request in the meeting later on the same day, as pushing them forward may not make sense if people do not currently have enough capacity for Ballot review.
 
@@ -49,20 +49,20 @@ The Offline CAs Draft Ballot is still being commented on within the Subcommittee
 
 The Threat Modelling subteam has update the risk analysis document to include further examination of risks posed by CA equipment custody handling.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _SC28 (Logging and Log Retention)_
 
 Dimitris: SC28 is in heartbeat process
 Neil: Basically we propose new versions without changes so that the ballot does not expire since we do hold off from calling for a vote
 
-#### **Ballots in Voting Period** {.wp-block-heading}
+#### Ballots in Voting Period 
 
 None
 
-#### **Ballots in Review Period** {.wp-block-heading}
+#### Ballots in Review Period 
 
 _SC30 (Disclosure of Registration/Incorporating Agency)_
 _SC31 (Browser Alignment)_
@@ -70,7 +70,7 @@ _SC31 (Browser Alignment)_
 Dimitris: We have two ballots in the review period, Ballots SC 30 and SC 31, review periods end August 20. I will post the final maintenance guidelines after that. I want to highlight that these ballots contain a few deadlines and effective dates that will become effective not relative to when the ballots themselves become effective, so CAs should be aware of those.\_
 \_
 
-#### Draft Ballots under Consideration {.wp-block-heading}
+#### Draft Ballots under Consideration 
 
 \_Spring 2020 cleanup and clarifications (Ryan) \_
 
@@ -96,12 +96,12 @@ Dimitris: Since I originally asked for this – I meant the more complex ballots
 
 Wayne: In that case, the language is about finalized and we just need endorsers to start the Discussion Period.
 
-### 8. Any Other Business {.wp-block-heading}
+### 8. Any Other Business 
 
 No other business was discussed.
 
-### 9. Next call {.wp-block-heading}
+### 9. Next call 
 
 The next call will take place on August 6, 2020 at 11:00am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

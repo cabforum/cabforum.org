@@ -7,29 +7,29 @@ title: 2020-05-25 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Andrea Holland (SecureTrust), Inaba Atsushi (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Dean Coclin (DigiCert), Dimitris Zacharopolous (HARICA) \[Chair\], Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Encrico Entschew (D-TRUST), Janet Hines (SecureTrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass), Mike Reilly (Microsoft), Neil Dunbar (TrustCor), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (Wisekey), Peter Miskovic (Disig), Ryan Sleevi (Google), Shelley Brewer (DigiCert), Taconis Lewis (Protiviti), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera), Trevoli Ponds-White (Amazon), Wendy Brown (FPKI).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda, Assign Minute Taker {.wp-block-heading}
+### 3. Review Agenda, Assign Minute Taker 
 
 Mike Reilly will take the minutes for the July 9th. No changes to the agenda were noted.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 The minutes were already approved.
 
-### 5. Forum Infrastructure Subcommittee update {.wp-block-heading}
+### 5. Forum Infrastructure Subcommittee update 
 
 Jos Purvis reported that there has been no meeting since F2F. Work continues on documenting the process of launching a new Working Group, led by Steven Davidson, who has identified the gaps in the process documentation.
 
@@ -49,7 +49,7 @@ Thus anyone looking at Github will see lots of different colours in the issues l
 
 Dimitris said that he was looking forward merging these changes and getting the prepared documents ready, resulting in both PDFs and Word documents of the BRs when we propose ballots.
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 Dean said that they were amost ready to go to ballot with the combined document. Some minor errors were discovered which Bruce Morton has fixed. Since Bruce is away for the week, further progress will need to wait for a little while.
 
@@ -61,7 +61,7 @@ RFC3647 reformat will be upcoming on a future meeting.
 
 The July 6th meeting will be cancelled in favour of a July 7th date, owing to the US holiday, but will resume normal schedule after that.
 
-### 7. S/MIME Working Group update {.wp-block-heading}
+### 7. S/MIME Working Group update 
 
 Stephen Davidson was absent, so Tim Hollebeek updated in his stead.
 
@@ -69,7 +69,7 @@ Tim said that they were going through the correct process to establish the worki
 
 Dimitris said that mailing lists and wiki space are being created, as well as a page on the public website, so things are moving.
 
-### 8. Update Action Items (added items from F2F 50) {.wp-block-heading}
+### 8. Update Action Items (added items from F2F 50) 
 
 Dimitris: Introduces agenda for the plenary. It includes 1 ½ Hours  on Wednesday (updates from different working groups and subcommittees). An additional slot was added to give everyone a reminder of the elections process scheduled for this summer. No proposals for new topics were received.
 
@@ -87,7 +87,7 @@ Dimitris: OK.
 
 No objections. Agenda is approved.
 
-### 9. Eligibility for WG chairs for upcoming elections {.wp-block-heading}
+### 9. Eligibility for WG chairs for upcoming elections 
 
 Dimitris wanted clarity on whether it was permitted for existing WG chairs to be candidates to the position in upcoming elections (which are due for the SCWG, the CSCWG and the overall Forum). He believed that the position for the Forum chair was clear, but it was unclear if this equally applied to the Working Groups themselves.
 
@@ -101,7 +101,7 @@ Dimitris thought that the CSCWG’s interpretation probably was acceptable, and 
 
 Dean replied that he had consulted previous minutes, and the same conclusion was drawn, that absent a particular restriction, an existing chair could stand for re-election.
 
-### 10. Any Other Business {.wp-block-heading}
+### 10. Any Other Business 
 
 Mike Reilly asked for any updates on the Tokyo meeting (ie, whether it should be virtual). Dimitris replied that he was unaware of any updates.
 
@@ -109,6 +109,6 @@ Doug Beattie thought that we should get this discussed soon, owing to logistical
 
 It was resolved to have a final decision on the agenda for the next call.
 
-### 11. Next call {.wp-block-heading}
+### 11. Next call 
 
 The next call will take place on July 9th, 2020 at 11.30am Eastern Time.

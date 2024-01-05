@@ -39,7 +39,7 @@ Under Bylaw 2.3(g), “a ballot result will be considered valid only when more t
 
 The following motion has been proposed by the Server Certificate Working Group Chair Dimitris Zacharopoulos of HARICA.
 
-## Purpose of Ballot {.wp-block-heading}
+## Purpose of Ballot 
 
 This special ballot is to confirm the new Vice Chair of the Server Certificate Working Group.
 

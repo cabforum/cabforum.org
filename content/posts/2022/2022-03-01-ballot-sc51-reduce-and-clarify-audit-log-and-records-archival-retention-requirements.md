@@ -10,9 +10,9 @@ title: 'Ballot SC51: Reduce and Clarify Audit Log and Records Archival Retention
 type: post
 ---
 
-## Voting Results {.wp-block-heading}
+## Voting Results 
 
-### Certificate Issuers {.wp-block-heading}
+### Certificate Issuers 
 
 21 votes total, with no abstentions:
 
@@ -20,7 +20,7 @@ type: post
 - 0 No Votes
 - 0 Abstentions
 
-### Certificate Consumers {.wp-block-heading}
+### Certificate Consumers 
 
 5 votes total, with no abstentions:
 
@@ -28,7 +28,7 @@ type: post
 - 0 No votes
 - 0 Abstentions
 
-### Bylaw Requirements {.wp-block-heading}
+### Bylaw Requirements 
 
 1. Bylaw 2.3(f) requires:
 
@@ -40,9 +40,9 @@ type: post
 2. Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 14, so the quorum was 15 for this ballot.
    _This requirement was MET._
 
-## Ballot Contents {.wp-block-heading}
+## Ballot Contents 
 
-### Purpose of Ballot {.wp-block-heading}
+### Purpose of Ballot 
 
 The purpose of this ballot is to consolidate and clarify aspects of audit log and records archival retention expectations and time-periods within 5.5.2.
 Foremost, this ballot reduces retention periods for records archival to 2 years.
@@ -50,7 +50,7 @@ Further, currently audit log events as outlined in section 5.4.1, and then refe
 
 As minor adjustments to related requirements, this ballot also clarifies what is expected by the term “OCSP Entries” as a logged lifecycle event; as OCSP Entry is an undefined term, this was replaced with OCSP Response such that it should be clear that a CA will be logging the event of signing an OCSP Response (including the elements stipulated in 5.4.1). Similarly, some certificate lifecycle events expected to be retained are currently separated into 5.5.2; these have been incorporated into 5.4.1 instead. This ballot also explicitly calls out the need for delegated third parties to abide by the established retention periods for audit logging and records archival procedures.This ballot also formalizes incorporation of terms defined in the NCSSRs as also applying to the BRs.
 
-### Motion {.wp-block-heading}
+### Motion 
 
 The following motion has been proposed by Clint Wilson of Apple and endorsed by Trevoli Ponds-White of Amazon and Dustin Hollenback of Microsoft.
 
@@ -73,7 +73,7 @@ Vote for approval (7 days)
 Start Time: February 18 2022 22:00 UTC
 End Time: February 25 2022 22:00 UTC
 
-## Ballot Status {.wp-block-heading}
+## Ballot Status 
 
 No IP Rights issues were raised during the review period, which concluded 15 April 2022. This ballot has been incorporated into version 1.8.3 of the [Baseline Requirements](/baseline-requirements-documents/).
 

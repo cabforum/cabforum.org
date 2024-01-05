@@ -7,37 +7,37 @@ title: 2019-01-24 Minutes for CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Anna Weinberg (Apple), Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Janet Hines (Trustwave), Frank Corday (Trustwave), Geoff Keating (Apple), Gordon Bock (Microsoft), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Iñigo Barreira (360 Browser), Joanna Fox (GoDaddy), Kenneth Myers (US Federal PKI Management Authority), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mahmud Khair (Trustwave), Michelle Coon (OATI), Neil Dunbar (TrustCor Systems), Niko Carpenter (Trustwave), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tim Shirley (Trustwave), Tomasz Nowak (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla).
 
 ## Minutes
 
-{.wp-block-heading}
+
 
 ### 1. Roll Call
 
-{.wp-block-heading}
+
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-{.wp-block-heading}
+
 
 The Antitrust Statement was read
 
 ### 3. Review Agenda
 
-{.wp-block-heading}
+
 
 Today’s Agenda was approved.
 
-### 4. Approval of Minutes of previous teleconference {.wp-block-heading}
+### 4. Approval of Minutes of previous teleconference 
 
 The minutes of January 10, 2019 teleconference were approved and will be posted to the Public list and the Public web site.
 
-### 5. Forum Infrastructure Working Group update {.wp-block-heading}
+### 5. Forum Infrastructure Working Group update 
 
 The Infrastructure Working Group had a short call and basically repeated items from the previous meeting. E-mails have been sent to some members kindly asking for some virtual infrastructure to host the CA/B Forum services (namely the wiki, mailman, wordpress) but there have been no responses yet.
 
@@ -45,7 +45,7 @@ A new DocuWiki instance has been launched by Jos and is being tested. A test wor
 
 ### 6. Follow-up on new WG Charters (Code Signing, S/MIME)
 
-{.wp-block-heading}
+
 
 Ben reported that he received only positive feedback for the Code Signing Charter, and he is looking for endorsers.
 
@@ -53,15 +53,15 @@ The S/MIME charter has triggered some discussion. He has made several updates on
 
 Dimitris suggested that these drafts are in pretty good shape and would be best if they were circulated on the public list for more discussion and review. These drafts could also be uploaded on GoogleDocs which makes it easier for people to comment and offer suggestions.
 
-### 7. Upcoming F2F 46 meeting March 12-14, 2019 (hosted by Apple) {.wp-block-heading}
+### 7. Upcoming F2F 46 meeting March 12-14, 2019 (hosted by Apple) 
 
 Hotel information is on the wiki. Geof mentioned that we should primarily contact Curt for more information about the meeting. Kirk mentioned that the hotel rate is available for booking **until February 12th**, which is posted on the wiki. Dimitris will send reminder to the management list about the hotel reservation deadline. The meeting will either take place at “Infinite Loop” or “Apple Park”. Any hotel in this area would be convenient for both possible locations.
 
-### 8. Any Other Business {.wp-block-heading}
+### 8. Any Other Business 
 
 None.
 
-### 9. Bylaws and existing Charters update {.wp-block-heading}
+### 9. Bylaws and existing Charters update 
 
 Wayne lead the discussion and started by reminding participants that a Google Document was published to the management list. This document includes proposed changes and comments to various sections of the Bylaws that have been identified as problematic or ambiguous in the past. A small group of people worked on this document that is now considered to be mature enough to be discussed by the larger group of Members. Since there is no special subcommittee to work on this topic, as agreed on our last call we will use the CA/B Forum time to discuss Bylaws in more detail. Wayne asked for members to provide their opinion whether they think these changes should be brought forward in one ballot or split into smaller ballots, if this discussion should be on the public list or not.
 
@@ -115,8 +115,8 @@ Dimitris mentioned that the practice for ETSI audits is that they are practicall
 
 Wayne proposed a way to address that and substitute the period-if-time to something like “covering a period of at least 60 days” but the question is if we want that or not. There seem to be different opinions and this discussion must continue probably on the public list. Kirk mentioned that he supports the current precedent.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 February 7, 2019 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

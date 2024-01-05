@@ -11,7 +11,7 @@ type: post
 
 The voting on ballot SC44 has completed, and the ballot has **passed**.
 
-## **Voting Results** {.wp-block-heading}
+## Voting Results 
 
 **Certificate Issuers**
 
@@ -48,7 +48,7 @@ _This requirement was MET._
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Ballot Text {.wp-block-heading}
+## Ballot Text 
 
 Purpose of Ballot:
 

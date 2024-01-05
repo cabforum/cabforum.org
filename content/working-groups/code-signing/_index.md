@@ -3,13 +3,11 @@ aliases:
 - /code-signing-working-group/
 author: Ben Wilson
 date: 2013-09-04 03:49:36
-title: Code Signing Certificate Working Group
 linkTitle: Code Signing Cert WG
-
 menu:
   main:
     weight: 3
-
+title: Code Signing Certificate Working Group
 ---
 
 **Code Signing Certificate Working Group**
@@ -50,7 +48,7 @@ To subscribe to the public mailing list, click here: /mailman/listinfo/cscwg-pub
 
 Questions or comments should be sent to questions@cabforum.org.
 
-## Members {#members.wp-block-heading}
+## Members 
 
 **Certificate Issuers**:
 AC Camerfirma

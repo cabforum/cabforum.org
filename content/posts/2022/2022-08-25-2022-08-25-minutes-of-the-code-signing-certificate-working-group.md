@@ -9,17 +9,17 @@ title: 2022-08-25 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Andrea Holland, Atsushi Inaba, Bruce Morton, Christophe Bonjean, Corey Bonnell, Ian McMillan, Inigo Barreira, Janet Hines, Joanna Fox, Lynn Jeun, Martijn Katerbarg, Mohit Kumar, Tim Crawford, Tim Hollebeek
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 Bruce read the anti-trust statement.
 
 Meeting minutes for 2022-08-11 were approved.
 
-### Malware revocation ballot {.wp-block-heading}
+### Malware revocation ballot 
 
 Martijn said there were updates in Github (). Christophe and Corey have been providing feedback.
 
@@ -33,15 +33,15 @@ Christophe also raised the concern that there may be cases where both 4.9.1.1 an
 
 Christophe and Tim discussed whether the requirements should dictate how proof of key compromise can be demonstrated. Tim mentioned that there is no standardized way, currently. Bruce mentioned that the TLS BRs require disclosure of the CA’s accepted methods of proving compromise.
 
-### Signing Service Ballot {.wp-block-heading}
+### Signing Service Ballot 
 
 Bruce provided the ballot text to Corey, who added it to Github (). There is an open item for someone with ETSI expertise to evaluate the audit scheme requirements for Signing Services. Bruce asked the group to review the PR.
 
-### Timestamping {.wp-block-heading}
+### Timestamping 
 
 Ian will reach out to Tim on developing a concrete proposal.
 
-### Any other business {.wp-block-heading}
+### Any other business 
 
 None.
 

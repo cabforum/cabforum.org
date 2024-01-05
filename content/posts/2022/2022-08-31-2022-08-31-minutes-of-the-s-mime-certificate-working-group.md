@@ -9,31 +9,31 @@ title: 2022-08-31 Minutes of the S/MIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 August 31, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Christophe Bonjean (GlobalSign), Clint Wilson (Apple), Corey Bonnell (Digicert), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Eva Vansteenberge (GlobalSign), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jamie Mackey (US Federal PKI Management Authority), Joanna Fox (TrustCor Systems), Judith Spencer (CertiPath (Private Person)), Li-Chun Chen (Chunghwa Telecom), Martijn Katerbarg (Sectigo), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW), Paul van Brouwershaven (Entrust), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley (Private Person)), Stefan Selbitschka (runQuadrat), Stephen Davidson (Digicert), Taavi Eomäe (Zone Media), Tadahiko Ito (SECOM Trust Systems), Tim Crawford (CPA Canada/WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the August 17, 2022 teleconference were approved.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 Wendy Brown asked why the requirement in 7.1 for “non-sequential Certificate serial numbers greater than zero (0) and less than 2^159 containing at least 64 bits of output from a CSPRNG” was included as this was related to SHA1 in TLS and was less relevant for S/MIME.
 
@@ -63,12 +63,12 @@ Stephen asked the audit representatives the length of time required to create cr
 
 Stephen thanked Martijn Katerbarg of Sectigo and Ben Wilson of Mozilla for agreeing to be endorsers of the ballot. He noted that sometimes in the closing discussions of a new standard there was a rush to add last minute items. He felt that the draft SBR reflect the expressed wishes of the SMCWG and hoped that members would vote in favor of the eventual ballot as the SBR were something the group should be proud of. He thanked the members for their participation and contributions to the draft. As the first S/MIME Baseline, he noted that there was certainly additional work to be undertaken in future versions.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, September 28, 2022 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

@@ -11,17 +11,17 @@ type: post
 
 ## Vote Results
 
-{.wp-block-heading}
+
 
 The voting period for Ballot FORUM-11 has ended and **the Ballot has Failed.** Here are the results:
 
-### Voting by Certificate Issuers – 4 votes total including abstentions {.wp-block-heading}
+### Voting by Certificate Issuers – 4 votes total including abstentions 
 
 **Three CAs voted in favor:** DigiCert, Actalis, OISTE
 
 **One CA Abstained:** Trustcor
 
-### Voting by Certificate Consumers – 4 votes total including abstentions {.wp-block-heading}
+### Voting by Certificate Consumers – 4 votes total including abstentions 
 
 **Three Browsers voted against:** Apple, Google, Microsoft
 
@@ -29,7 +29,7 @@ The voting period for Ballot FORUM-11 has ended and **the Ballot has Failed.** 
 
 Therefore, the ballot fails.
 
-## Ballot Text {.wp-block-heading}
+## Ballot Text 
 
 The following ballot is proposed by Tim Hollebeek of DigiCert and endorsed by Wayne Thayer of Mozilla and Adriano Santoni of Actalis.
 

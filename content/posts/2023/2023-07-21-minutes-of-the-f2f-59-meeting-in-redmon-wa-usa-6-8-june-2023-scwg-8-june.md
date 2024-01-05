@@ -10,7 +10,7 @@ title: Minutes of the F2F 59 Meeting in Redmond, WA, USA, 6-8 June 2023 – SCWG
 type: post
 ---
 
-# **Meeting of the Server Certificate Working Group**
+# Meeting of the Server Certificate Working Group
 
 **Thursday, 8 June 2023 – CA/B Forum Meeting (Day 3)**
 

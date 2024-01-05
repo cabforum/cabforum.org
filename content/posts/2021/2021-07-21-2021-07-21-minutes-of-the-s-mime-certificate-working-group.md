@@ -7,33 +7,33 @@ title: 2021-07-21 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 July 21, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Bruce Morton (Entrust), Christy Berghoff (Federal PKI), Clint Wilson (Apple), Corey Bonnell (DigiCert), Daniel Zens (GlobalTrust), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Enrico Entschew (D-TRUST), Hongquan Yin (Microsoft), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Li-Chun Chen (Chunghwa Telecom), Matthias Wiedenhorst (ACAB’c), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Paul van Brouwershaven (Entrust), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Vigil Security), Sebastian Schulz (GlobalSign), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Comments were received relating to the Sponsored profile, following discussions that took place in MDSP relating to S/MIME, and it was agreed to accommodate that topic in the current meeting.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the July 7 teleconference were approved.
 
-### 5. Discussion of certificate profile {.wp-block-heading}
+### 5. Discussion of certificate profile 
 
 Stephen Davidson described discussion that had been taking place on MDSP relating to S/MIME. He described that it was sometimes difficult to determine practices for S/MIME in the lack of CT or other database of such certificates.
 
@@ -47,12 +47,12 @@ Stephen suggested that our current structure is Mailbox, Organisation, Individua
 
 Historically an Enterprise RA, which is technically constrained, has different audit requirements than a delegated RA. Using the appropriate profile may make our future audit discussions simpler for “sponsored” situations.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, August 4, 2021 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

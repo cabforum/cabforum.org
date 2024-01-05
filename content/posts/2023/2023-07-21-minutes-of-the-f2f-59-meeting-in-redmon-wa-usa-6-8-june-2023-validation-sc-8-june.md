@@ -10,7 +10,7 @@ title: Minutes of the F2F 59 Meeting in Redmond, WA, USA, 6-8 June 2023 – Vali
 type: post
 ---
 
-# **Validation Subcommittee**
+# Validation Subcommittee
 
 Date: June 08, 2023
 

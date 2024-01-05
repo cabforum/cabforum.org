@@ -9,11 +9,11 @@ title: 2022-02-10 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {#attendees.wp-block-heading}
+## Attendees 
 
 Andrea Holland – SecureTrust, Atsushi Inaba – GlobalSign, Bruce Morton – Entrust, Corey Bonnell – DigiCert, Dean Coclin – DigiCert, Dimitris Zacharopoulos – HARICA, Ian McMillan – Microsoft, Inigo Barreira – Sectigo, Roberto Quinones – Intel, Tim Crawford – WebTrust
 
-## Minutes {#minutes.wp-block-heading}
+## Minutes 
 
 Chris Kemmerer “volunteered” by Dean Coclin as minute taker.
 
@@ -29,7 +29,7 @@ General discussion of WebEx’s transliteration capability and level of detail e
 
 Dimitris requested more time to review minutes, Dean concurs, minute approval deferred to next session.
 
-### CSC-6: Subscriber Private Key Protection (Ian) {#csc-6-subscriber-private-key-protection-ian.wp-block-heading}
+### CSC-6: Subscriber Private Key Protection (Ian) 
 
 Latest feedback from Tim H incorporated into draft, changes reviewed:
 
@@ -51,7 +51,7 @@ and typo correction noted (“The CA relies on a report…”).
 
 Ian: with these changes, Tim H endorsed CSC-6 and another endorser sought. Bruce agreed to endorse.
 
-### Face to Face 55 discussion {#face-to-face-55-discussion.wp-block-heading}
+### Face to Face 55 discussion 
 
 Dean: discussion of presentation of 2021 accomplishments, 2022 goals.
 

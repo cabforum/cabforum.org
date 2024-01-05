@@ -3,8 +3,8 @@ aliases:
 - /information-for-manufacturers-and-developers/
 author: Ben Wilson
 date: 2013-08-30 22:31:06
-title: Information for Developers
 linkTitle: Developers
+title: Information for Developers
 type: page
 ---
 

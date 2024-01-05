@@ -7,37 +7,37 @@ title: 2019-10-03 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Gordon Bock (Microsoft), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Kenneth Myers (US Federal PKI Management Authority), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
 ## Minutes
 
-{.wp-block-heading}
+
 
 ### 1. Roll Call
 
-{.wp-block-heading}
+
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-{.wp-block-heading}
+
 
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
-{.wp-block-heading}
+
 
 No changes to the agenda.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
-### 5. Forum Infrastructure Working Group update {.wp-block-heading}
+### 5. Forum Infrastructure Working Group update 
 
 Jos provided the update. Ballot Forum-10 has passed and the Infrastructure Working Group will be converted to a Forum subcommittee. The changes are already described in the ballot.
 
@@ -53,28 +53,28 @@ Wayne recommended we discuss this topic some more in the Infrastructure Working 
 
 Jos agreed to send a start and stop of this month’s maintenance window and will bring it for discussion in the infrastructure subcommittee.
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 Bruce mentioned that the WG did not have a meeting last week so there is no report.
 
-### 7. Follow-up on new S/MIME WG Charter {.wp-block-heading}
+### 7. Follow-up on new S/MIME WG Charter 
 
 It seems that there is some interest for this WG to move forward, the Forum received a question related to that. Dimitris will reach out to Tim and ask if he has any plans to move this forward. If he is overwhelmed with other work someone else should draft a charter and send it for discussion. We need something for the F2F.
 
 ### 8. F2F 48 Agenda
 
-{.wp-block-heading}
+
 
 The draft agenda is up on the wiki. Dimitris mentioned about the photo policy to be discussed. He also reserved a slot to discuss about Bylaws issues since there was no feedback on the mailing list. Members are requested to check and propose new items to discuss at the F2F.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 None.
 
 ### 10. Next call
 
-{.wp-block-heading}
+
 
 October 17, 2019 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

@@ -31,15 +31,15 @@ Dean Coclin
 
 The following motion has been proposed by the CA/Browser Forum Chair Dimitris Zacharopoulos of HARICA.
 
-## Purpose of Ballot[][1] {#purpose_of_ballot.wp-block-heading}
+## Purpose of Ballot[][1] 
 
 This special ballot is to confirm the new Vice Chair of the CA/Browser Forum.
 
-## MOTION BEGINS[][2] {#motion_begins.wp-block-heading}
+## MOTION BEGINS[][2] 
 
 In accordance with Bylaw 4.1 c, **Karina Sirota** representing Microsoft is hereby elected Vice Chair of the CA/Browser Forum for a term commencing on November 1, 2020 and continuing through October 31, 2021.
 
-## MOTION ENDS[][3] {#motion_ends.wp-block-heading}
+## MOTION ENDS[][3] 
 
 The procedure for this ballot is as follows:
 

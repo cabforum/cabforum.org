@@ -9,11 +9,11 @@ title: 2022-12-01 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Andrea Holland – (SecureTrust), Bruce Morton – (Entrust), Corey Bonnell – (DigiCert), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Ian McMillan – (Microsoft), Inaba Atsushi – (GlobalSign), Janet Hines – (SecureTrust), Martijn Katerbarg – (Sectigo), Roberto Quionones – (Intel), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek – (DigiCert), Tomas Gustavsson – (PrimeKey), Trevoli Ponds-White – (Amazon)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 1. The Anti-trust statement was read
 1. Minutes of the last call were approved. Minutes from the F2F will be approved on the next call after the attendance is added.

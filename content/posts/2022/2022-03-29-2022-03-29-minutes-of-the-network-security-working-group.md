@@ -9,7 +9,7 @@ title: 2022-03-29 Minutes of the Network Security Working Group
 type: post
 ---
 
-## 2022-03-29 | CABF NetSecWG Minutes {.wp-block-heading}
+## 2022-03-29 | CABF NetSecWG Minutes 
 
 Attendees: Adam Jones, Antti Backman, Ben Wilson, Brittany Randall, Bruce Morton, Clint Wilson, Corey Bonnell, Daniel Jeffery, Daryn Wright, David Kluge, Dustin Hollenback, Inigo Barreira, Jillian Karner, Joanna Fox, Jozef Nigut, Kiran Tumala, Marcelo Silva, Pedro Fuentes, Rebecca Kelley, Ruben Annemans, Thomas Connelly, Tim Crawford, Tobias Josefowitz, Tony Seymour, Trevoli Ponds-White
 

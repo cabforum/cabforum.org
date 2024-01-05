@@ -13,25 +13,25 @@ June 23, 2021
 
 These are the Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Clint Wilson (Apple), Corey Bonnell (DigiCert), Curt Spann (Apple), Don Sheehy (WebTrust), Enrico Entschew (D-TRUST), Eusebio Herrera (Camerfirma), Hazhar Ismail (MSC Trustgate.com), Hongquan Yin (Microsoft), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Matthias Wiedenhorst (ACAB’c), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Niko Carpenter (SecureTrust), Patrycja Tulinska (PSW), Paul van Brouwershaven (Entrust), Rachel McPherson (TrustCor), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Vigil Security), Sebastian Schulz (GlobalSign), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Crawford (WebTrust), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the May 26 teleconference were approved.
 
-### 5. Discussion of certificate profile {.wp-block-heading}
+### 5. Discussion of certificate profile 
 
 Discussion of the Mailbox-validation profile has concluded with a few exceptions, including validity period, use of LDAP, and additional extensions.
 
@@ -54,14 +54,14 @@ Paul van Brouwershaven noted that the ETSI standards defied semantics identifier
 
 Wendy Brown raised the organisationUnit field may be relevant in S/MIME certificates, particularly for large Government entities. After considerable discussion it was agreed that this could only happen if the OU could be verified with similar procedures as used for the O, and linking the OU to the O. Wendy and Ben Wilson agreed to propose a verification
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, July 7, 2021 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned 
 
 [1]: https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing

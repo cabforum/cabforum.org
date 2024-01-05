@@ -9,11 +9,11 @@ title: 'Ballot CSCWG-3: Election of Code Signing Certificate Working Group Chair
 type: post
 ---
 
-# Ballot Results {.wp-block-heading}
+# Ballot Results 
 
 Voting on Ballot CSCWG-3 has ended and the results are below:
 
-## Certificate Issuers {.wp-block-heading}
+## Certificate Issuers 
 
 Votes in Favor: (9) Actalis, DigiCert, eMudhra, Entrust, GDCA, GlobalSign, HARICA, SSL.com, SecureTrust (former Trustwave)
 
@@ -21,7 +21,7 @@ Votes opposed: None
 
 Abstentions: None
 
-## Certificate Consumers {.wp-block-heading}
+## Certificate Consumers 
 
 Votes in Favor: (1) Microsoft
 
@@ -31,11 +31,11 @@ Abstentions: None
 
 **Therefore the Ballot passes.**
 
-# Ballot Content {.wp-block-heading}
+# Ballot Content 
 
 The following motion has been proposed by the Code Signing Certificate Working Group Chair Dean Coclin of DigiCert.
 
-## Purpose of Ballot {.wp-block-heading}
+## Purpose of Ballot 
 
 This special ballot is to confirm the new Chair of the Code Signing Certificate Working Group.
 

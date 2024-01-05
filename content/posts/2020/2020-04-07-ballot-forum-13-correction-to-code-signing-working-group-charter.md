@@ -11,11 +11,11 @@ type: post
 
 The voting period for Ballot FORUM-13 has ended and **the Ballot has Passed.** Here are the results:
 
-### Voting by Certificate Issuers – 16 votes total {.wp-block-heading}
+### Voting by Certificate Issuers – 16 votes total 
 
 16 CAs voted in favor: Entrust Datacard, eMudhra, DigiCert, Certigna, Certum, Sectigo, Trustcor, SecureTrust, HARICA, Camerfirma, Actalis, Disig, SwissSign, GoDaddy, GDCA, Chungwa Telecom
 
-### Voting by Certificate Consumers – 3 votes total {.wp-block-heading}
+### Voting by Certificate Consumers – 3 votes total 
 
 Three Certificate Consumers voted in favor: Microsoft, Mozilla, 360
 

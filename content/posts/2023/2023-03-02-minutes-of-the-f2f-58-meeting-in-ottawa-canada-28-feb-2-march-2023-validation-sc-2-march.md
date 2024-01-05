@@ -10,7 +10,7 @@ title: Minutes of the F2F 58 Meeting in Ottawa, Canada, 28 Feb-2 March 2023 – 
 type: post
 ---
 
-# **Validation Subcommittee**
+# Validation Subcommittee
 
 Corey noted that the Antitrust Statement had been read and that attendance had been taken.
 

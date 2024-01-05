@@ -9,29 +9,29 @@ type: post
 
 Minute taker: Tobias S. Josefowitz
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michael Guenther (SwissSign), Michelle Coon (OATI), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Taconis Lewis (FPKI).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Accepted without changes.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 Accepted without objections.
 
-### 5. Forum Infrastructure Subcommittee update {.wp-block-heading}
+### 5. Forum Infrastructure Subcommittee update 
 
 Jos reports:
 
@@ -49,7 +49,7 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 Dean: We are not going to have a meeting during the F2F, we are combining the EV Guidelines and the regular BRs, Bruce is managing the compilation with input from all the different members. We have a open items we reviewed during the meeting, about the validity period of a signing service, about the minimum keysize effective January 1st is going to be 3072 bit RSA (was not a requirement for EV but will then to be applied to EV as well). Some confusion about eKUs; WG will investigate removing the EKUs for email and document signing to not conflict with future products of the S/MIME WG. Bruce will update the document once more re: the just listed items.
 
@@ -57,7 +57,7 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 7. New S/MIME WG Charter {.wp-block-heading}
+### 7. New S/MIME WG Charter 
 
 Tim: Ryan, there still is a grammar mistake that Corey identified last night.
 Ryan: Fixed.
@@ -71,13 +71,13 @@ Dimitris: So the goal is to proceed despite the poorly described publicly truste
 
 Tim: Yes.
 
-### 8. Agenda Topics for the upcoming F2F {.wp-block-heading}
+### 8. Agenda Topics for the upcoming F2F 
 
 Dimitris: Does anyone have topics for discussion?
 
 If anybody has an idea of a good topic to discuss on our virtual meeting send it to the public list or to Dimitris.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 Dimitris: I would like to remind people about the update to our Bylaws, FORUM-12 Ballot: Under preparation I made some last minute updates which I missed from Ryan’s comments. I believe I have no other comments to address. Still looking for an additional endorser, anyone willing on this list?
 
@@ -92,8 +92,8 @@ Dimitris: I have already posted them on the wiki. First I would please like ever
 
 Still have to do some demos and tryouts with Josh to figure out the best setup and configs for this large meeting.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 May 14, 2020 at 11:30 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

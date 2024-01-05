@@ -9,35 +9,35 @@ title: 2021-02-03 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 February 3, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Ahmad Syafiq Md Zaini (MSC Trustgate.com), Ali Gholami (Telia Company), Andreas Henschel (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust DataCard), Corey Bonnell (DigiCert), David Kluge (Google), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate.com), Hongquan Yin (Microsoft), India Donald (Federal PKI), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Matthias Wiedenhorst (ACAB’c), Mevre Tunca (Zertificon), Morad Abou Nasser (TeleTrust), Neil Dunbar (TrustCor), Niko Carpenter (SecureTrust), Patrycja Tulinska (PSW), Pedro Fuentes (OISTE), Rich Smith (Sectigo), Russ Housley (Vigil Security), Sebastian Schulz (GlobalSign), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Thomas Zermeno (SSL.com), Tim Crawford (WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (Federal PKI), Yair Eisenstein (Comsign)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the January 20 teleconference were approved.
 
-### 5. New Member Declaration {.wp-block-heading}
+### 5. New Member Declaration 
 
 rundQuadrat OG was determined as eligible and approved as a Certificate Consumer member of the SMCWG.
 
-### 6. Discussion of certificate profile {.wp-block-heading}
+### 6. Discussion of certificate profile 
 
 A review was commenced of proposed/draft certificate profiles derived from the policies previously discussed:
 
@@ -65,12 +65,12 @@ Bruce Morton proposed that the Multipurpose should allow a longer (ie 39 month) 
 
 Stephen Davidson reminded that at this stage our concern is defining the core certificate profiles and to defer detailed discussion of field formats and validation until later. It was agreed in our next meeting to discuss what would be presented to the Virtual F2F and what areas of feedback would be sought at that meeting.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 The next call will take place on February 17, 2021 at 11:00am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

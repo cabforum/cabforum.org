@@ -42,19 +42,19 @@ type: post
 
 # BALLOT CONTENTS
 
-## **Purpose of the Ballot**
+## Purpose of the Ballot
 
 During discussions at Face-to-Face Meeting 58, it was noted that the membership criteria for Certificate Consumers in the Charter for the Server Certificate Working Group (SCWG) lacked sufficient detail. Since then, several members of the CA/Browser Forum have worked to develop better criteria for membership of Certificate Consumers in the SCWG, however, discussion is ongoing. A moratorium is necessary to preserve the status quo and ensure impartiality while we re-evaluate and revise our membership criteria so that they are more clear, fair, and aligned with the goals of the Forum.
 
 The following motion has been proposed by Ben Wilson of Mozilla and endorsed by Tobias Josefowitz of Opera and Thomas Zermeno of SSL.com.
 
-## **Motion Begins**
+## Motion Begins
 
 Effective immediately, there is a temporary moratorium established on the acceptance of applications for membership as Certificate Consumer members in the Server Certificate Working Group. This moratorium will expire on December 1, 2023, or prior to such date, upon publication of the Forum’s vote on a revised Charter for the Server Certificate Working Group.
 
 During the moratorium, the Server Certificate Working Group will not accept or consider applications for membership as Certificate Consumers. Applications for other types of membership may be accepted and considered.
 
-## **Motion Ends**
+## Motion Ends
 
 This ballot does not propose a Final Guideline or Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 

@@ -7,31 +7,31 @@ title: 2021-09-15 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 September 15, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), David Kluge (Google), Don Sheehy (WebTrust), Eusebio Herrera (Camerfirma), Inigo Barreira (Sectigo), Joanna Fox (TrustCor), Mads Henriksveen (BuyPass), Mauricio Fernandez (TeleTrust), Miguel Sanchez (Google), Morad Abou Nasser (TeleTrust), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Tim Crawford (WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (Federal PKI)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the September 1 teleconference were approved.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 Ben Wilson raised whether the Certificate Issuers could be informally polled regarding the current and planned usage of ECC in S/MIME certificates, which information would be useful for Certificate Consumers. Subsequently a survey has been sent to the Management list, seeking Certificate Issuer feedback by October 8. The aggregate information (not CA specific) will be shared later with the WG.
 
@@ -51,12 +51,12 @@ Wendy Brown questioned if we are leaving enough scope to ensure Subject uniquene
 
 Renne Rodriguez indicated that we move to verification we would be well advised to provide guidance for the insertion of multiple/hyphenated names or surname-firstname formats into certs.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, September 29, 2021 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

@@ -17,13 +17,13 @@ Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno F
 
 \[extoc\]
 
-## **Day 1**
+## Day 1
 
 **Wednesday, 19 February 2014**
 
-### **Browser News**
+### Browser News
 
-#### **Mozilla (Brian Smith)**
+#### Mozilla (Brian Smith)
 
 1. Mozilla is working on changing to a new certificate verification library for Firefox 30 which will be released in 16 weeks with “path building for certificate chains in a more sensible way”. This will help increase compatibility and will allow them to add new features for certificates, like Certificate Transparency.
 
@@ -37,7 +37,7 @@ Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno F
 
 1. No decision made yet on SHA-1 deprecation. Awaiting feedback from CAs and the CA/Browser Forum on Microsoft’s proposal.
 
-#### **Google Chrome (Ryan Sleevi)**
+#### Google Chrome (Ryan Sleevi)
 
 1.  Google is transitioning away from NSS to an OpenSSL stack except on Windows and Android. Chrome on Windows will continue with CryptoAPI. The effect of moving to OpenSSL for certificates will be the use of the OpenSSL parsing rules. There is no special UI for bridge certificates, but the chain building engine supports them.
 
@@ -47,7 +47,7 @@ Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno F
 
 1. Chrome does not support internal server names from public roots (this has been true for some time now), in which case, Chrome will not show a lock icon.
 
-#### **Microsoft (Tom Albertson)**
+#### Microsoft (Tom Albertson)
 
 1. Microsoft published its SHA-1 announcement.
 
@@ -59,7 +59,7 @@ Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno F
 
 5. Microsoft will be focusing on certificate hygiene and checking things, like making sure no end entity certificates are issued from roots.
 
-### **SHA1 Sunsetting / Grandfathering Strategy**
+### SHA1 Sunsetting / Grandfathering Strategy
 
 Ben: We should work on a path forward to make sure everyone is aware of the current plan to eliminate SHA-1. We might want to see if there is a way to allow exceptions for an initial grandfather period, along with the sunset period when everything gets turned off, because there are likely to be some that will object to a hard deadline.
 
@@ -261,7 +261,7 @@ Kirk: Let’s prepare a nice PDF white paper like what we have for the deprecati
 
 Ben: Good idea, because we have to remember to do outreach on this.
 
-### **SSL Performance WG report**
+### SSL Performance WG report
 
 The charter was agreed upon yesterday at the Working Group day as follows: “To find ways to improve the performance of SSL while maintaining an acceptable level of security.”
 
@@ -286,7 +286,7 @@ We discussed items to prioritize.
 
 The WG Mailing list exists. If you didn’t get the notes, please let Wayne Thayer know. The issue tracker is on the website at
 
-### **RFC 3647 Working Group report**
+### RFC 3647 Working Group report
 
 Jeremy: we have the format, but there are certain members who question whether it’s worth pursuing due to already having our established format. CABF guidelines traditionally focused on validation (nothing else) — 90% validation.
 
@@ -312,7 +312,7 @@ Jeremy: A good argument for conversion is that it would be easier to compare CP/
 
 Ryan Sleevi: +1 to that.
 
-### **Code Signing Working Group report**
+### Code Signing Working Group report
 
 Dean:  The CS WG reviewed the current draft and the comments received from Microsoft. A big item remaining is deciding on the High-Risk Database, which would be accessible to all CAs, containing information about high-risk applicants, which CAs would be required to check. There are issues such as: how should it be populated with data, who should run/operate the database, how would blacklisted applicants be able to dispute blacklisting?
 
@@ -340,7 +340,7 @@ Tom: Hopefully, we’ll not have to implement a 3-strikes measure, but it might 
 
 Dean: We want to get this out for public review, because we need feedback from software publishers. We anticipate criticisms and comments, but we need to do something as illustrated by the blog post mentioned previously.
 
-### **EV Guideline Working Group report**
+### EV Guideline Working Group report
 
 Jeremy Rowley presented the report for the EV Guidelines (EVGL) Working Group. The group is addressing roughly ten areas in the EVGL for clarification or improvements, none of which is ready yet for action by the Forum. These include the following issues:
 
@@ -360,7 +360,7 @@ Jeremy Rowley presented the report for the EV Guidelines (EVGL) Working Group. T
 
 The EV Guidelines Working Group will continue to meet every other week, and will present additional ballots to the Forum soon.
 
-### **Review and discuss technical constraints for ‘Delegated Third Parties’**
+### Review and discuss technical constraints for ‘Delegated Third Parties’
 
 We clarified that there is no specific problem to be solved now; this was put on the agenda by Ben who proposed we revisit the language in the BRs about this. This topic first came up in the Paris meeting. Can we move further towards implementing something to compartmentalize risk caused when tasks are delegated to third parties?
 
@@ -392,7 +392,7 @@ He said it makes sense to look at these definitions, and see if we can impose te
 
 Ben suggested we think about these things again when we discuss the Network Security document. Perhaps some of the physical or logical security controls that are applied to CAs might also be appropriate to apply to Delegated Third Parties.
 
-### **WebTrust and Review ‘Network and Certificate System Security’**
+### WebTrust and Review ‘Network and Certificate System Security’
 
 - We reviewed Don’s auditor comments on the Network and Certificate System Security Requirements NCSSR) document
 
@@ -458,7 +458,7 @@ Ben suggested we think about these things again when we discuss the Network Secu
 
 - Ben said that he had written an article for ISSA Journal that people will read and hopefully we’ll receive more input from information security professionals on this.
 
-### **EV Verification Tasks performed by attorneys, accountants, local registration authorities, site visit companies, etc.**
+### EV Verification Tasks performed by attorneys, accountants, local registration authorities, site visit companies, etc.
 
 Richard Wang of WoSign stated that in China it is sometimes difficult to EV-vet customers in distant cities, as WoSign does not have its own satellite offices in those cities and some EV vetting tasks require local action. However, there are other CAs in those cities, and he asked for the views of the group as to whether it would be possible for an issuing CA to rely on the EV vetting of those other CAs when issuing EV certificates to a customer. He said this was preferable to getting an attorney or accountant opinion letter from the customer, as Chinese attorneys and accountants are not used to issuing such letters and so the letters are expensive and difficult to get.
 
@@ -468,7 +468,7 @@ On the other hand, the consensus was that it would not be proper to use other CA
 
 It was recommended that Richard provide the Forum with more explanation of the specific issues that are trying to be confirmed, and that might be of assistance in understanding the questions better.
 
-### **Current status of WPKOPS, client and server capabilities**
+### Current status of WPKOPS, client and server capabilities
 
 Rick asked for anyone who has not yet responded to the WPKOPS survey to please do so if they had not already.
 
@@ -487,11 +487,11 @@ They will meet next at the IETF meeting in London, but with the limited survey d
 
 There is little technical status to report.
 
-### **Discuss F2F Meeting 33 in Beijing, China**
+### Discuss F2F Meeting 33 in Beijing, China
 
 Richard Wang presented several options to consider for the fall face-to-face meeting in China either the week of Sept. 14 or 21. The hotel would either be the Beijing or the China World Hotel. Meetings would be followed by a visit to the Palace Museum and the Great Wall. A straw poll on these choices will be sent out following this meeting.
 
-### **Coordinating certificate standards with other organizations**
+### Coordinating certificate standards with other organizations
 
 Dean Coclin read a summary of the agenda item saying that there are some other organizations that have their own requirements and policy OIDs, which we should discuss.
 
@@ -559,11 +559,11 @@ Ryan Sleevi: yes. Check the EV OID that is validated. Section 9.1 for domain val
 
 **(The discussion of processing newly delegated gTLDs and the use of the Public Suffix List was postponed and not discussed during the face-to-face.)**
 
-## **Day 2**
+## Day 2
 
 **Thursday, 20 February 2014**
 
-### **CT and Google Requirements Discussion**
+### CT and Google Requirements Discussion
 
 Rick Andrews: A question for Ben Laurie: You sent out a survey. Have you got results, are you going to publish results?
 
@@ -833,9 +833,9 @@ Ryan: Over the past three years we have continued to work on eliminating vulnera
 
 Dean: If you are not seeing some of the data that we are seeing at Symantec, we’d like to share that with you.
 
-### **ETSI Presentation**
+### ETSI Presentation
 
-#### **Deliverables from ETSI regarding web site certificates**
+#### Deliverables from ETSI regarding web site certificates
 
 ETSI’s schedule was explained, as public drafts are published and comments are being taken for second publication, which is going to be published on April of 2014. It is planned to be voted on September of 2014 and will be finalized in the 2nd half of 2015. Documents that will be affected are EN 319 401, EN 319 411-1, EN 319 412-4, EN 319 403, EN 319 413, TS 119 312.
 
@@ -869,11 +869,11 @@ Don: No. There is no approach.
 
 Iñigo: There is ongoing work to complete template of auditing. There are no contradictions from US. They contacted the CAB Forum, and have contributions from Germany, Luxemburg, England, and South Korea.
 
-#### **Migration Plan**
+#### Migration Plan
 
 Plan for migrate from TS 102 042 to EN 319 411-1 Significant change in CAB Forum documents that affects EN documents as we agreed in 9 months will applied. Final publish is in October 2015.
 
-#### **News on EU Regulation**
+#### News on EU Regulation
 
 Requirements will be published on April 2014 and take effect at the end of April. Article 9, 10, 13, 15, 16, 18, 19, 37
 
@@ -885,7 +885,7 @@ Link for General e-signature
 
 Link for EU Regulation
 
-### **Bylaws Revisions**
+### Bylaws Revisions
 
 Dean set out the current position as follows: we have had a number of enquiries from parties wanting to join, such as Visa, Amazon, Oracle, and Cisco.
 
@@ -957,7 +957,7 @@ Ben thinks he has a proposed definition for Associate Member that can be used fr
 
 Action: Hold a ballot to define exactly what an Associate Member is.
 
-### **What is an SSL Certificate?**
+### What is an SSL Certificate?
 
 This was a lively discussion but with no clear-cut conclusion at this meeting. I expect there to be follow-up on the mail lists and at the next Face-to-face.
 
@@ -987,7 +987,7 @@ General comments:
 
 - Note: Another possible approach to shorten this time-frame is to re-sign the current SSL issuing CAs with a new CA certificate that contains the id-kp-serverAuth EKU and distribute that to all web site owners. This could be done more quickly than the natural SSL certificate replacement cycle; however, this is not a trivial exercise.
 
-### **Review implementation status of OSCP stapling and multi-stapling (RFC 6961)**
+### Review implementation status of OSCP stapling and multi-stapling (RFC 6961)
 
 Stapling: There is an RFC for multi-stapling. It allows you to include an OCSP response for the intermediates. Google doesn’t want it. Mozilla uses NSS. It’s not clear whether Mozilla has an interest in multi-stapling.
 
@@ -1015,7 +1015,7 @@ General complaints that it’s not completely transparent what’s in and out of
 
 Regarding private enterprise PKI… If you have an enterprise, you can force hard fail and get checking without the CRL sets.
 
-### **Wrap-Up**
+### Wrap-Up
 
 The group acknowledged Google for its generosity in hosting Meeting 31 of the CA/Browser Forum.
 

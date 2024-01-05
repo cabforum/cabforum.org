@@ -9,7 +9,7 @@ title: 'Ballot FORUM-15: Election of CA/Browser Forum Chair'
 type: post
 ---
 
-## Ballot Results {.wp-block-heading}
+## Ballot Results 
 
 The voting period for Special Ballot Forum-15 has ended and **the Ballot has Passed**. Congratulations Dean!
 
@@ -30,7 +30,7 @@ Here are the results:
 
 100% of voting Certificate Consumers voted in favor.
 
-## **Relevant Bylaw references** {.wp-block-heading}
+## Relevant Bylaw references 
 
 Bylaw 2.3(f) requires:
 
@@ -39,11 +39,11 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **11**, so quorum was** 12** votes – **quorum was met**.”
 
-# Ballot Content {.wp-block-heading}
+# Ballot Content 
 
 The following motion has been proposed by the CA/Browser Forum Chair Dimitris Zacharopoulos of HARICA.
 
-## Purpose of Ballot {#purpose_of_ballot.wp-block-heading}
+## Purpose of Ballot 
 
 This special ballot is to confirm the new Chair of the CA/Browser Forum.
 

@@ -9,7 +9,7 @@ title: Ballot CSC-14 – Convert Code Signing Baseline Requirements to RFC 3647 
 type: post
 ---
 
-## Results of Review Period {.wp-block-heading}
+## Results of Review Period 
 
 (Mailing list post is available [here][1].)
 
@@ -32,7 +32,7 @@ Members with any Essential Claim(s) to exclude must forward a written Notice t
 
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
 
-## Results of Voting {.wp-block-heading}
+## Results of Voting 
 
 | | | | |
 | --- | --- | --- | --- |
@@ -50,13 +50,13 @@ Microsoft
 
 The ballot has PASSED.
 
-## Purpose of the Ballot {.wp-block-heading}
+## Purpose of the Ballot 
 
 RFC 3647 defines a standard framework for outlining the obligations of participants in a PKI. Following the recommended framework as specified in RFC 3647 allows for easier comparison of “The Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” with other policy documents, most notably work products of other CA/Browser Forum working groups and individual Certification Authority Certificate Policies and Certification Practice Statements. This ballot restates all existing obligations and requirements that are contained in The Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” in the outline recommended by RFC 3647.
 
 The following motion has been proposed by Corey Bonnell of DigiCert and endorsed by Ian McMillan of Microsoft and Dimitris Zacharopoulos of HARICA.
 
-## Motion {.wp-block-heading}
+## Motion 
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” version 2.8 by replacing the entirely of the content of the document with the attached document.
 

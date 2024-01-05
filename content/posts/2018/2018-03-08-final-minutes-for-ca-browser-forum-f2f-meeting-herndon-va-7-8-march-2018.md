@@ -134,7 +134,7 @@ I am working on a number of updates to our root store program [13]. CAs are enco
 
 [1]  [2]  [3]  [4]  [5]  [6] [https://wiki.mozilla.org/CA/Root_Store_Policy_Archive][9]
 
-#### **Microsoft**
+#### Microsoft
 
 _**Note Taker: Tim
 **_
@@ -165,7 +165,7 @@ _Doug:_ Mozilla has a pretty open process for policy development, does Microsoft
 
 _Mike:_ No plans to have a collaborative feedback on policy planning, but will share through CABF what changes might be coming. Send a note to MSROOT about things you find confusing, and if there are common misunderstandings or things that are unclear, they will be fixed.
 
-#### **Google**
+#### Google
 
 _**Note Taker: Robin**_
 
@@ -203,7 +203,7 @@ _Q:_ There is a single unified set across all platforms?
 _A:_ Correct, in Chrome 65 and earlier it was based on local config & platform.
 from Chrome 66 it is based on a single list. (with meta-data relating to platforms)
 
-#### **Apple**
+#### Apple
 
 _**Note Taker: Mike**_
 
@@ -224,7 +224,7 @@ Apple Evaluating standing up a Root CA that will issue certificates to be used t
 
 Cert revocation capability is still going well. CT log updates now flow almost immediately into next revocation information update.
 
-#### **360**
+#### 360
 
 _**Note Taker: Mads**_
 
@@ -268,9 +268,9 @@ Wayne asked about how to contact the Root Certificate Program system operators. 
 
 Dimitris said that we need this information from all the browsers in the Forum.
 
-### **Working Group Reports**
+### Working Group Reports
 
-#### **Governance Change Working Group**
+#### Governance Change Working Group
 
 _**Note Taker: Cecilia**_
 
@@ -296,7 +296,7 @@ The Working group has also been compiling a list of issues. They have it on a sp
 
 They are trying to address the critical ones first. If categorized as important they are not critical for ballot 206. If categorized as won’t fix – they will not fix. Dean/Ben will add this list on the wiki.
 
-#### **Policy Review Working Group**
+#### Policy Review Working Group
 
 _**Note Taker: Chris K.**_
 
@@ -308,7 +308,7 @@ Upcoming needs and functions of the PWG are TBD and might include evaluating sta
 
 The latest email from the WG (of Feb 23d) includes a RFC and a link to the [GitHub][10] [pull request][14] incorporating all proposed CA/TSP language changes. This review is now complete and likely to move to a ballot soon after this F2F meeting
 
-#### **Network Security Working Group**
+#### Network Security Working Group
 
 _**Note Taker: Tim Shirley**_
 
@@ -320,7 +320,7 @@ Generally positive response to methodology from auditors & CAs; worth continuing
 
 Kirk asked what the plan is to do next, after completing these “bites”. Ben responded they have a lengthy list; looking to extend charter (expires in June.) Want to add how we handle cloud-based systems.
 
-#### **Validation Working Group**
+#### Validation Working Group
 
 _**Note Taker: Neil Dunbar**_
 
@@ -386,13 +386,13 @@ Reporting Structure/Roles
 - All Task Force members provide [WebTrust][4] services to clients
 - Volunteers are supported by additional technical associates and CPA Canada liaison but report to CPA Canada
 
-### **ETSI Update**
+### ETSI Update
 
 _**Note Taker: Ben**_
 
 attachment: Presentation_to_CABForum_on_standards2018-03-V5.ppt
 
-### **Review of pending ballots**
+### Review of pending ballots
 
 _**Note Taker: Robin**_
 
@@ -423,7 +423,7 @@ _Tim:_ Ballot 216 exists. Maybe we leave the discussion period open until after 
 
 _Ryan:_ Yes, lets talk to the chairs. If we extend a week, let’s Tim and I follow-up.
 
-### **CT implementation issues**
+### CT implementation issues
 
 _**Note Taker: Mads**_
 
@@ -435,7 +435,7 @@ CAs are recommended to embed SCTs in the certificates, it’s not yet easy to us
 
 Some CAs are using CA software supporting CT. Most commercial CA software vendors have support for CT. If there are any issues with your SW vendors regarding CT, please let us know.
 
-### **NIST Cryptographic Module Validation Program (aka FIPS 140)**
+### NIST Cryptographic Module Validation Program (aka FIPS 140)
 
 _**Note Taker: Ken**_
 
@@ -463,7 +463,7 @@ _**Note Taker: Ken**_
 - _AWS –_ It’s kind of on the fly because its random customer requests. They have their risk in using it but as industry I need the flexibility to allow them to use it using my FIPS approved module.
 - _FIPS validation levels are a concern of the CAB Forum. Which level is acceptable is which scenario? Online issuer doing high volume activity, offline CA doing very limited activity, etc? Federal PKI requires level 2 with level 3 hardware for physical protection. What is NIST intent or schema as it applies to assigning levels?_ Levels are assigned based on a threat model. As we go through this update effort we can do a better job in explaining the criteria for the levels. We hope to address this over time. This is something we struggled with and it can’t be automated. We can solve this problem with specific inspection profiles and if you have ideas tell us! We don’t have all the answers and only know what we know through either industry participation or requests and agency feedback. NIST may not have the bandwidth and expertise to solve all technical problems we just look at what’s available sometimes and say “yes, that is fit for government”.
 
-### **Forum web site, current form/problems, what information we want to convey to the public**
+### Forum web site, current form/problems, what information we want to convey to the public
 
 _**Note Taker: Wayne Thayer**_
 
@@ -523,7 +523,7 @@ _Ryan:_ There is an upfront investment that will pay dividends over time
 
 **Conclusion:** work toward moving website to [GitHub][10]. Ryan H., Tim, and Wayne offered to help.
 
-### **CCADB Update**
+### CCADB Update
 
 _**Note Taker: Mike**_
 
@@ -534,7 +534,7 @@ _**Note Taker: Mike**_
 - _Q: Webtrust has 70-80 formats and can this tool read all those formats?_ Yes, it can as long as the audit letter follows the published format and is in a text readable PDF format.
 - _Q: Can we provide good templates to share which run through the system well?_ A: Yes, the templates on the [WebTrust][4]site work well. We are working to get better ETSI templates for those that use this audit standard
 
-### **CA Incident Reporting**
+### CA Incident Reporting
 
 _**Note Taker: Bruce Morton**_
 
@@ -548,7 +548,7 @@ Note the CCADB has list for all CA’s but this is best for CA’s, browsers and
 
 Phil states that he is reviewing another standard and would like consistency, see . Phil also stated that we could create an email address similar to mailto from CAA. Phil followed up with a proposal, see .
 
-### **News from the Council of Accredited Conformity Assessment Bodies (ACAB-c) on Harmonized audit attestation**
+### News from the Council of Accredited Conformity Assessment Bodies (ACAB-c) on Harmonized audit attestation
 
 **Presented by Philipp Bouchet from ACABc Member LSTI France and Mattias Wiedenhorst ACABc Member TÜVIT**
 
@@ -566,13 +566,13 @@ Mike says that Microsoft will think about making the ACAB-c Form mandatory
 
 Matthias says that the Audit Attestation Letter SHALL be provided in English language and reminds that CA’s remain responsible for their audits and have to cooperate with and provide the necessary information to the auditors.
 
-### **Guest Speaker – Rep. Jim Langevin (D-RI), House Armed Services Committee and Homeland Security Committee (no Minutes)**
+### Guest Speaker – Rep. Jim Langevin (D-RI), House Armed Services Committee and Homeland Security Committee (no Minutes)
 
 Note Taker: No notes for this segment
 
-### **Review accomplishments/list of tasks/thank you to hosts**
+### Review accomplishments/list of tasks/thank you to hosts
 
-### **Adjourn**
+### Adjourn
 
 [1]: /wiki/GlobalSign
 [2]: /wiki/DigiCert

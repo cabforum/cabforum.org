@@ -7,11 +7,11 @@ title: 2018-Nov-01 Minutes of CA/Browser Forum
 type: post
 ---
 
-## **Attendees (in alphabetical order)** {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Daymion Reynolds (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Fotis Loukos (SSL.com), Frank Corday (Trustwave), Geoff Keating (Apple), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Jeff Ward (CPA Canada/WebTrust), Joanna Fox (GoDaddy), Jos Purvis (Cisco Systems), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom Co. Ltd.), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Ryan Sleevi (Google), Shelley Brewer (Digicert), Tim Callan (Comodo CA –> Sectigo), Tim Shirley (Trustwave), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 1. **Roll Call** — The Chair took attendance.
 1. **Read Antitrust Statement** — The Chair read the Antitrust Statement

@@ -9,11 +9,11 @@ title: 2022-03-24 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Atsushi Inaba (GlobalSign), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Corey Bonell (DigiCert), Dean Coclin (DigiCert), Dimitris Zacharopoulos (Harica), Ian McMillan (Microsoft), Inigo Barreira (Sectigo), Joanna Fox (TrustCor), Martijn Katerbarg (Sectigo), Michael Sykes (SSL.com), Mohit Kumar (GlobalSign), Thomas Gustavsson (PrimeKey), Tim Crawford (CPA Canada/WebTrust), Tim Hollebeek (DigiCert)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 **Antitrust Statement:** Read by Dean
 
@@ -21,7 +21,7 @@ Atsushi Inaba (GlobalSign), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Co
 
 Minutes of the February 24th (F2F) and March 10th meetings were approved
 
-### Updates on ballot CSC-13 {.wp-block-heading}
+### Updates on ballot CSC-13 
 
 Bruce mentioned that the ballot is currently out for discussion.
 
@@ -31,7 +31,7 @@ We also received feedback regarding the effective dates table. This has been upd
 
 No further questions at this moment.
 
-### Time Stamp Policy OID {.wp-block-heading}
+### Time Stamp Policy OID 
 
 There seems to be an issue with the OID and the way we specified it. For ICAs issued as of April 1st 2022 that issue Timestamping certificates we’re required to have the CSC Policy OID in the ICA.
 
@@ -41,7 +41,7 @@ Bruce mentioned that is seems like we should be able to update this fairly easy,
 
 Tim H will start a discussion and language draft so that the language is ready when we want to start the ballot.
 
-### Other Business {.wp-block-heading}
+### Other Business 
 
 An email was forwarded to the group by Dean, originating from Conrad Gillard regarding the interpretation of the requirement in point 4 of section 8.5.2. of the EV Guidelines.
 

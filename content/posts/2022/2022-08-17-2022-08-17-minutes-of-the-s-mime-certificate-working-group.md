@@ -9,31 +9,31 @@ title: 2022-08-17 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 August 17, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Clint Wilson (Apple), Corey Bonnell (Digicert), Don Sheehy (CPA Canada/WebTrust), Eusebio Herrera (AC Camerfirma SA), Eva Vansteenberge (GlobalSign), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Joanna Fox (TrustCor Systems), Judith Spencer (CertiPath), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Morad Abou Nasser (TeleTrust), Pedro Fuentes (OISTE Foundation), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the August 3, 2022 teleconference were approved.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 The WG resumed discussion of the draft SBR at .
 
@@ -51,14 +51,14 @@ He noted that the SMCWG seek to avoid a divergence of adoption by Certificate Co
 
 Bruce Morton asked if it was possible to provide a redline of changes that have been made since the pre-ballot discussion period began, which Stephen subsequently provided to the list at [https://github.com/cabforum/smime/compare/bc6881a6d6bbff1b6793a17a6b737c1b9480146b…1dc71b4a72ea93fbed010640f37bdbabe88c2591][1]
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, August 31, 2022 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned 
 
 [1]: https://github.com/cabforum/smime/compare/bc6881a6d6bbff1b6793a17a6b737c1b9480146b...1dc71b4a72ea93fbed010640f37bdbabe88c2591

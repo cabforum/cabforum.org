@@ -7,11 +7,11 @@ title: 2021-10-07 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Andrea Holland, Atsushi Inaba, Bruce Morton, Corey Bonnell, Dean Coclin, Iñigo Barreira, Ian McMillan, Janet Hines, Kiran Tummala, Roberto Quiñones, Sebstian Schulz, Tim Hollebeek
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 Minute-taker: Iñigo
 
@@ -19,13 +19,13 @@ Dean read the antitrust statement.
 
 Meeting minutes from last meeting were approved.
 
-### NetSec WG discussion {.wp-block-heading}
+### NetSec WG discussion 
 
 Ben emailed the rest of the WG to know if they could consider the NetSec to move from a subcommittee under the SCWG and become a WG that will affect the other WGs. It was agreed to recommend moving it to the plenary level and approve it as a WG.
 
 Bruce also mentioned that this could impact the Webtrust audits and become a different NetSec audit and not tied to the current format. TBD next week with the Webtrust task force.
 
-### Signing services and subscriber private key protection {.wp-block-heading}
+### Signing services and subscriber private key protection 
 
 Bruce indicates that there´s a lot of information for the signing service and many things to discuss. One of these items is about the subscriber key protection requirements (the crypto modules provided by the CA, the signing service that could be a cloud provider, private or public cloud provider, …) Also it is important to discuss when the relation with an organization not representing the CA and the subscriber and the subscriber agreement between the subscriber and the signing service provider. So, need to clearly define the signing service, who provides the service (the CA or other organization), from where (private-public cloud), etc.
 
@@ -49,7 +49,7 @@ Bruce tried to summarize what we are going to discuss next week during the F2F b
 
 1. Subscriber private key protection and the primary goal would be to eliminate the software protection
 
-### Ballot status {.wp-block-heading}
+### Ballot status 
 
 CSC-11 is under IPR review which will be finished by November 3rd.
 
@@ -61,7 +61,7 @@ Bruce Morton of Entrust is also willing to endorse.
 
 Corey will prepare the ballot.
 
-### F2F Agenda {.wp-block-heading}
+### F2F Agenda 
 
 Dean mentioned that we have 2 hours and we can reserve most of the time for signing service item.
 

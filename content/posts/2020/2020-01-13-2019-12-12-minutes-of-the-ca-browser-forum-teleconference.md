@@ -7,51 +7,51 @@ title: 2019-12-12 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Corey Bonnell (SecureTrust), Daniela Hood (GoDaddy), David Moeller (Sectigo), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Joanna Fox (GoDaddy), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Patrick Nohe (GlobalSign), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Scott Rea (Dark Matter), Shelley Brewer (Digicert), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call, assign minute-taker {.wp-block-heading}
+### 1. Roll Call, assign minute-taker 
 
 The Chair took attendance. Wendy Brown volunteered to take minutes.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Accepted without change.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 Approved without objections.
 
-### 5. Forum Infrastructure Subcommittee update {.wp-block-heading}
+### 5. Forum Infrastructure Subcommittee update 
 
 The subcommittee call was cancelled due to technical difficulties.
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 Bruce hosted the last call, it was a quick call as no one with action items was able to make the call.
 
 Planning to have face-to-face code signing summit, hosted at Microsoft sometime early next year, maybe in February. The plan is to work cooperatively on merging the EV and base code signing guidelines.
 
-### 7. Follow-up on new S/MIME WG Charter {.wp-block-heading}
+### 7. Follow-up on new S/MIME WG Charter 
 
 No updates.
 
-### 8. Approval of F2F 48 minutes {.wp-block-heading}
+### 8. Approval of F2F 48 minutes 
 
 Approved with no objections.
 
-### 9. Action items from F2F 48 {.wp-block-heading}
+### 9. Action items from F2F 48 
 
 Dimitris has created a Wiki page for action items from the F2F 48 meeting, he invited others to make use of this new page.
 
-### 10. Updating the IPR Agreement signature form {.wp-block-heading}
+### 10. Updating the IPR Agreement signature form 
 
 Dean – while updating IPR signature form – question to make it clear that if someone is applying as an individual vs as employee of company or organization
 
@@ -62,15 +62,15 @@ Dean – while updating IPR signature form – question to make it clear that if
 - Instructions may need to be clarified especially for interested party
 - Maybe some confusion between various links – maybe different versions of how to participate based on starting location – github vs wiki pages, etc.
 
-### 11. Any Other Business {.wp-block-heading}
+### 11. Any Other Business 
 
 - Dean – Feb meeting hosted by Disig in Britislava, the WIKI has travel information posted.
 - Please sign up if intending to attend
 - Summer F2F meeting will be week of June 9-11, in Minnesota, wiki page up but not yet with info
 - Doug – Oct 20-22, location selected – in great shopping area – info on Wiki
 
-### 12. Next call {.wp-block-heading}
+### 12. Next call 
 
 January 9, 2020 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

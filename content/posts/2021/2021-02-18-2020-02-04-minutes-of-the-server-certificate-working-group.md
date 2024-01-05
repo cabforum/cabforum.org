@@ -7,39 +7,39 @@ title: 2021-02-04 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ali Gholami (Telia), Andrea Holland (SecureTrust), Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (DigiCert), Daniela Hood (GoDaddy), David Kluge (Google), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eusebio Herrera (AC Camerfirma), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Jeff Ward (CPA Canada/WebTrust), Jim Gorz (GoDaddy), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Juan-Angel Martin (AC Camerfirma SA), Karina Sirota (Microsoft), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Noorul Halimin Mansol (PoS Digicert), Patrick Nohe (GlobalSign), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rebecca Kelley (Apple), Ryan Sleevi (Google), Sebastian Schulz (GlobalSign), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Callan (Sectigo), Tobias Josefowitz (Opera Software AS), Wendy Brown (US Federal PKI Management Authority)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 Dean read the roll.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 Jos read the antitrust statement.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 No changes were made to the agenda.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes from the January 21st teleconference were approved without changes.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Corey Bonnell said that three topics were discussed. First was the OU field. Paul Van Brouwershaven and Ryan Sleevi discussed Paul’s ballot, with Ryan expressing concerns that the OU information coming from an organization is still fundamentally unvalidated data. The discussion will continue on the list. The second topic was deprecation of the use of HTTP methods for wildcard certificate validation. Ryan repeated his request for data on the frequency of the use of this method from CAs. The third topic was discussion on cleanup of BR language around the applicability of CAA to Onion certificates. The group did not get back to the discussion of certificate profiles last week.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Neil Dunbar reported that the subcommittee met on Tuesday. David Kluge has taken the lead to write two reports from the cloud services subcommittee. First, the Google compliance team has mapped various standards documents to cloud security, such as ISO 21188, and those are being compared with the NCSSRs. This will be the basis for increasing the scope of coverage of the NCSSRs. The other report is an examination of how components of the NCSSRs would help to prevent the DigiNotar breach. This will help determine where to tighten up the NCSSRs to make a recurrence far more difficult. The intention is to present these reports at the upcoming F2F. The rest of the discussion was on ballots. The intention is to withdraw SC38 and split it into 2-3 more tightly scoped ballots to address BR sections 1.3.2 and 4.1.1. Clint WIlson will help with another ballot to tighten up BR 5.4 and 5.5 on audit logging.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _**SC38v2 – Alignment of Record Archival**_
 
@@ -63,17 +63,17 @@ Ben said that we can take the discussion back to the list.
 
 Ryan said he will update SC41 with changes to address SC39 succeeding or failing. He has not heard any feedback from review of the documents outside of GitHub comments. Depending on the timing of SC40, SC41 may need to consider the impact of SC40 as well.
 
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Voting Period 
 
 **_SC39v2 – Definition of Critical Vulnerability_**
 
 Jos said that this is in the voting period and reminded members to vote. Voting closes on Tuesday the 9th at 17:00 UTC. We have not hit the quorum yet.
 
-#### Ballots in Review Period {.wp-block-heading}
+#### Ballots in Review Period 
 
 _None_
 
-#### Draft Ballots Under Consideration {.wp-block-heading}
+#### Draft Ballots Under Consideration 
 
 **_Ballot SCXX: Security Requirements for Air-Gapped CA Systems (Ben)_**
 
@@ -87,11 +87,11 @@ Chris said that they are reviewing Sectigo’s input and are moving toward a pro
 
 Tobi said that there has been no progress.
 
-#### 8. Any Other Business {.wp-block-heading}
+#### 8. Any Other Business 
 
 No additional topics were discussed.
 
-#### 9. Next call {.wp-block-heading}
+#### 9. Next call 
 
 **18 February at 11AM Eastern**
 

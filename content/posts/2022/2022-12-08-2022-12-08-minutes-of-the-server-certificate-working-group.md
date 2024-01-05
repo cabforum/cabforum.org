@@ -11,37 +11,37 @@ type: post
 
 These are the Minutes of the Teleconference described in the subject of this message.
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Adam Jones  (Microsoft), Andrea Holland  (SecureTrust), Atsushi INABA  (GlobalSign), Ben Wilson (Mozilla), Bruce Morton  (Entrust), Cassie L’Heureux  (GoDaddy), Chris Clements (Google Chrome), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen  (OATI), Daryn Wright  (GoDaddy), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Doug Beattie  (GlobalSign), Dustin Hollenback  (Microsoft), Enrico Entschew (D-Trust), Fumi Yoneda (Japan Registry Services), Joanna Fox  (TrustCor), Luis Cervantes  (GoDaddy), Lynn Jeun (VISA), Mads Henriksveen  (Buypass), Michelle Coon  (OATI), Nargis Mannan (SecureTrust), Paul van Brouwershaven  (Entrust), Peter Miskovic  (Disig), Rebecca Kelley (Apple), Rollin Yu  (TrustAsia), Stephen Davidson (DigiCert), Tadahiko Ito  (SECOM), Thomas Zermeno (SSL.com), Tim Hollebeek (DigiCert), Tobias Josefowitz  (Opera), Trevoli Ponds-White  (Amazon), Tyler Myers  (Godaddy), Wendy Brown (FPKI), Yoshiro Yoneya  (JPRS)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 The Chair (Iñigo Barreira) and Vice Chair (Kiran Tummala) where unable to run the meeting and asked Dimitris Zacharopoulos to run the meeting.
 
-### **1. Roll call** {.wp-block-heading}
+### 1. Roll call 
 
 Dimitris Zacharopoulos took attendance
 
-### **2. Read Antitrust Statement  ** {.wp-block-heading}
+### 2. Read Antitrust Statement   
 
 The antitrust statement was read
 
-### **3. Review Agenda ** {.wp-block-heading}
+### 3. Review Agenda  
 
 Today’s agenda was approved
 
-### **4. Approval of minutes of last call ** {.wp-block-heading}
+### 4. Approval of minutes of last call  
 
 The minutes of November 10 were approved.
 
-### **5. Application of ZT Browser** {.wp-block-heading}
+### 5. Application of ZT Browser 
 
 - Dean Coclin reviewed the application, IPR agreement has been signed and all questions have been answered.
 - Tobias Josefowitz asked for more time and if this can be postponed to the next meeting.
 - It was agreed to postpone the review of this application until the next meeting as it was also not yet been forwarded to the management list.
 
-### **6. Validation Subcommittee Update** {.wp-block-heading}
+### 6. Validation Subcommittee Update 
 
 Corey Bonnell gave the update.
 
@@ -51,7 +51,7 @@ The group discussed three topics during our last meeting:
 - Discussion about SHOULD in RFC5280 and NOT RECOMMENDED in the profile for the subject key identifier, there was rough consensus on the call to change this to MAY, but the certificate consumers would like to go back and discuss internally before we make any text changes.
 - Policy qualifiers, right now the language in the document says that those are NOT RECOMMENDED, a compromise was agreed to change this to a MAY for CA certificates but keep this NOT RECOMMENDED for subscriber certificates.
 
-### **7. Ballot Status** {.wp-block-heading}
+### 7. Ballot Status 
 
 - SCXX – Revival of Debian Weak Keys Ballot – Chris Kemmerer (SSL.com)
 - Chris shared that Martijn Katerbarg (Sectigo) has agreed to endorse and that Tim Hollebeek (DigiCert), who had just left the call has expressed interest to endorse as well. As soon this is confirmed we can proceed with the ballot.
@@ -64,12 +64,12 @@ The group discussed three topics during our last meeting:
 - SCXX – Make OCSP optional, require CRLs
 - Chris Clements confirmed that this is open for discussion and that they are still highly interested in this.
 
-### **8. Any Other Business** {.wp-block-heading}
+### 8. Any Other Business 
 
 No other business was discussed.
 
-### **9. Next call** {.wp-block-heading}
+### 9. Next call 
 
 Jan 5, 2023
 
-### **10. Adjourned** {.wp-block-heading}
+### 10. Adjourned

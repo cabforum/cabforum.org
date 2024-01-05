@@ -10,7 +10,7 @@ title: Minutes of the F2F 60 Meeting in Portsmouth, NH, USA, 3-5 October 2023 â€
 type: post
 ---
 
-# **Server Cert Working Group**
+# Server Cert Working Group
 
 Date: October 4, 2023
 

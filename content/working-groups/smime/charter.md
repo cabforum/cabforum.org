@@ -7,7 +7,7 @@ title: S/MIME Certificate Working Group (SMCWG) Charter
 type: page
 ---
 
-## Introduction {.wp-block-heading}
+## Introduction 
 
 This introduction provides general information and context with an intent to assist the interpretation of this Charter.
 
@@ -25,11 +25,11 @@ The problem to be addressed by the working group is the absence of consistent an
 
 The objective of the SMCWG is to provide documents that describe an integrated set of technologies, protocols, identity-proofing, lifecycle management, and auditing requirements that are necessary (but not sufficient) for the issuance and management of Publicly-Trusted S/MIME Certificates; Certificates that are trusted by virtue of the fact that their corresponding Root Certificate is distributed in widely-available application software. Such requirements are not mandatory for Certification Authorities unless and until they become adopted and enforced by relying–party Application Software Suppliers.
 
-## Chartering of the S/MIME Certificate Working Group {.wp-block-heading}
+## Chartering of the S/MIME Certificate Working Group 
 
 A Chartered Working Group (“SMCWG”) is created to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and Intellectual Property Rights (IPR) Policy, as such documents may change from time to time. This charter for the S/MIME Certificate Working Group has been created according to CAB Forum Bylaw 5.3.1. In the event of a conflict between this Charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy SHALL take precedence. The definitions found in the Forum’s Bylaws SHALL apply to capitalized terms in this Charter.
 
-## 1. Scope {.wp-block-heading}
+## 1. Scope 
 
 The authorized scope of the SMCWG SHALL be to discuss, adopt, and maintain policies, frameworks, and sets of standards related to the issuance and management of S/MIME certificates by third-party CAs under a publicly trusted root.
 
@@ -49,19 +49,19 @@ In addition to the primary deliverable, the SMCWG MAY also address:
 
 Deliverables of the SMCWG SHALL be constrained to those certificates that contain the emailProtection (OID: 1.3.6.1.5.5.7.3.4) or that are technically capable of such issuance.
 
-## 2. Charter Expiration {.wp-block-heading}
+## 2. Charter Expiration 
 
 The SMCWG is chartered indefinitely until it is dissolved as specified in Bylaw 5.3.2(c).
 
-## 3. Personnel and Participation {.wp-block-heading}
+## 3. Personnel and Participation 
 
-### 3.1. Selection of Officers {.wp-block-heading}
+### 3.1. Selection of Officers 
 
 Stephen Davidson will act as chair of the SMCWG until the first Working Group Teleconference, at which time the group will elect a chair and vice-chair. The chair and vice-chair will serve until October 31, 2022, or until they are replaced, resign, or are otherwise disqualified. Thereafter, elections SHALL be held for chair and vice chair every two years in coordination with the Forum’s election process and in conjunction with its election cycle. Voting SHALL occur in accordance with Bylaw 4.1(c).
 
-### 3.2. Participation {.wp-block-heading}
+### 3.2. Participation 
 
-#### 3.2.1. Eligibility to Participate {.wp-block-heading}
+#### 3.2.1. Eligibility to Participate 
 
 The SMCWG SHALL consist of two classes of voting members, Certificate Issuers and Certificate Consumers meeting the eligibility criteria below.
 
@@ -85,7 +85,7 @@ In addition, the Certificate Issuer MUST actively issue S/MIME certificates that
 
 The SMCWG SHALL allow participation by Interested Parties, as set forth in the Bylaws.
 
-#### 3.2.2. Membership Application/Declaration Process {.wp-block-heading}
+#### 3.2.2. Membership Application/Declaration Process 
 
 1.           An Applicant not already a member of the Forum SHALL provide the following information:
 
@@ -113,7 +113,7 @@ Certificate Issuer applicants that are not actively issuing S/MIME certificates 
 
 To confirm the list of initial Members, at least two-thirds of the organizations on the Chair’s list of proposed, qualifying Members SHALL publicly vote in favor of adopting the list of Members. If the initial list fails to be adopted, the Chair SHALL consider the feedback and MAY update the initial list of proposed, qualifying Members as a result, and a second vote using these same rules shall be performed. If an initial list of Members cannot be agreed upon, the SMCWG shall be dissolved.
 
-#### 3.2.3. Suspension and Cessation of Working Group Membership {.wp-block-heading}
+#### 3.2.3. Suspension and Cessation of Working Group Membership 
 
 Members may resign from the SMCWG at any time. Resignation, suspension, or other termination of membership in the SMCWG does not prevent a Member from potentially having continuing obligations, under the Forum’s IPR Policy or any other document.
 
@@ -139,29 +139,29 @@ While suspended, a Member may participate in SMCWG Meetings, SMCWG Teleconferenc
 
 Votes cast before the announcement of a Member’s suspension will stand.
 
-## 4. Membership Declaration {.wp-block-heading}
+## 4. Membership Declaration 
 
 In accordance with the IPR Policy, Members that choose to participate in the SMCWG MUST declare their participation and SHALL do so prior to participating. The Chair of the SMCWG SHALL establish a list for declarations of participation and manage it in accordance with the Bylaws, the IPR Policy, and the IPR Agreement.
 
-## 5. Voting and Other Organizational Matters {.wp-block-heading}
+## 5. Voting and Other Organizational Matters 
 
-### 5.1. Voting Structure {.wp-block-heading}
+### 5.1. Voting Structure 
 
 The rules described in Bylaw 2.3 and 2.4 SHALL apply to all ballots, including Draft Guideline Ballots.
 
 In order for a ballot to be adopted by the SMCWG, two-thirds or more of the votes cast by the Certificate Issuers must be in favor of the ballot and more than 50% of the votes cast by the Certificate Consumers must be in favor of the ballot. At least one member of each class must vote in favor of a ballot for it to be adopted. Quorum is the average number of Member organizations (cumulative, regardless of Class) that have participated in the previous three (3) SMCWG Meetings or Teleconferences (not counting subcommittee meetings thereof). No Ballots shall be adopted until at least (3) meetings have occurred and quorum determined.
 
-### 5.2. Other Organizational Matters {.wp-block-heading}
+### 5.2. Other Organizational Matters 
 
 -            The Chair MAY delegate any of their duties to the Vice Chair as necessary. The Vice Chair has the authority of the Chair in the event of any absence or unavailability of the Chair, and in such circumstances, any duty delegated to the Chair herein MAY be performed by the Vice Chair. For example, the Vice Chair MAY preside at SMCWG Meetings and Teleconferences in the Chair’s absence.
 
 -            The SMCWG may establish subcommittees, by formal ballot, to address any of the SMCWG’s business as specified in the ballot (each, a “SMCWG Subcommittee”). SMCWG Subcommittees are open to all SMCWG Members. A SMCWG Subcommittee may work on and recommend ballots, complete delegated functions, or issue reports to the SMCWG that are within the scope of this charter. SMCWG Subcommittees must post all agendas and minutes on a public mail list.
 
-## 6. Summary of Major Deliverables {.wp-block-heading}
+## 6. Summary of Major Deliverables 
 
 The primary deliverable of the SMCWG is set forth in the Scope section, and shall include a Draft Guideline be named the “Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates”.
 
-## 7. Primary Means of Communication {.wp-block-heading}
+## 7. Primary Means of Communication 
 
 1.           The SMCWG SHALL appoint a webmaster to maintain the SMCWG’s pages on the wiki and the Forum’s Public Web Site.
 
@@ -169,6 +169,6 @@ The primary deliverable of the SMCWG is set forth in the Scope section, and shal
 
 3.           The SMCWG shall conduct periodic calls or face-to-face meetings as needed. Minutes SHALL be kept, and such minutes SHALL be made public in accordance with Bylaw 5.2.
 
-## 8. IPR Policy {.wp-block-heading}
+## 8. IPR Policy 
 
 The CA/Browser Forum Intellectual Rights Policy, v. 1.3 or later, SHALL apply to all Working Group activity and Members.

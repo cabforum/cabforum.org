@@ -11,9 +11,9 @@ type: post
 
 The voting period for Ballot SC41v2 has concluded and the **Ballot has Passed**.
 
-## Voting Results {.wp-block-heading}
+## Voting Results 
 
-### Certificate Issuers {.wp-block-heading}
+### Certificate Issuers 
 
 **2****1 votes total, with no abstentions**
 
@@ -21,7 +21,7 @@ The voting period for Ballot SC41v2 has concluded and the **Ballot has Passed**
 - 0 No Votes
 - 0 Abstentions
 
-### Certificate Consumers {.wp-block-heading}
+### Certificate Consumers 
 
 **6 votes total, with no abstentions**
 
@@ -29,7 +29,7 @@ The voting period for Ballot SC41v2 has concluded and the **Ballot has Passed**
 - 0 No votes
 - 0 Abstentions
 
-### Bylaw Requirements {.wp-block-heading}
+### Bylaw Requirements 
 
 1. Bylaw 2.3(f) requires:
 
@@ -43,7 +43,7 @@ The voting period for Ballot SC41v2 has concluded and the **Ballot has Passed**
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Ballot Text {.wp-block-heading}
+## Ballot Text 
 
 Bylaws Note: Although this Ballot modifies how the documents internally express the Guideline version number, it does not explicitly change the value of the Guideline version number in a manner that would constitute an “update” pursuant to CA/Browser Forum Bylaws 2.3, Section 2.4 (8). As such, the Chair or Vice-Chair are permitted to make changes permitted by that Section as necessary.
 Purpose of Ballot:

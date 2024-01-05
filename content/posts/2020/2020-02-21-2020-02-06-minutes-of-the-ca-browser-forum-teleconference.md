@@ -7,41 +7,41 @@ title: 2020-02-06 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Curt Spann (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), Joanna Fox (GoDaddy), Jos Purvis (Cisco Systems), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Peter Miskovic (Disig), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Thanos Vrachnos (SSL.com), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vincent Lynch (Digicert), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Accepted without changes.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 Approved without objections.
 
-### 5. Forum Infrastructure Subcommittee update {.wp-block-heading}
+### 5. Forum Infrastructure Subcommittee update 
 
 - Updates on pandoc ballot
 - Etherpad instance, test, make sure it is ok and activate before the F2F, move information to the wiki after the F2F and deactivate.
 - Discussed about migration of the web site to the hosted environment and the mailing lists. Need follow-ups with service providers.
 - WebEx test with Peter (coordinate timing with the hotel).
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 - No meeting.
 - The WG is finalizing the date for a code signing summit at Microsoft’s offices in Redmond on March 17 or 18. The date will be finalized next week during the call. Guest speakers from Microsoft will participate.
 
-### 7. Follow-up on new S/MIME WG Charter {.wp-block-heading}
+### 7. Follow-up on new S/MIME WG Charter 
 
 The ballot is in the voting period.
 
@@ -77,18 +77,18 @@ Ryan replied that this is not necessarily a good course. The vote will be ambigu
 
 **_Skipped 8 on the Agenda, apologies 🙂_**
 
-### 9. Approve Agenda for F2F 49 {.wp-block-heading}
+### 9. Approve Agenda for F2F 49 
 
 The agenda as posted on 2020-02-07 was approved.
 
-### 10. Allow Chair/Vice-Chair to make informative (not normative) changes to Final Guidelines and Final Maintenance Guidelines {.wp-block-heading}
+### 10. Allow Chair/Vice-Chair to make informative (not normative) changes to Final Guidelines and Final Maintenance Guidelines 
 
 Dimitris went over the proposed change to allow this in the Bylaws. There were no objections raised on the call for the suggested changes. Ryan didn’t have time to review the recommended changes. Dimitris mentioned that Bylaws changes will be discussed at the upcoming F2F.
 
-### 11. Any Other Business {.wp-block-heading}
+### 11. Any Other Business 
 
 Peter asked the list of attendees to close on Monday. They can still accommodate a few more people and asked if anyone expects to register this week to contact him and the Chair.
 
-### 12. Next call {.wp-block-heading}
+### 12. Next call 
 
 March 5, 2020 at 11:00 am Eastern Time.

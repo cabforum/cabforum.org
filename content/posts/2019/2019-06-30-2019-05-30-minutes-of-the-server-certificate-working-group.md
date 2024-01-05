@@ -7,37 +7,37 @@ title: 2019-05-30 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Kenneth Myers (US Federal PKI Management Authority), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mariusz Kondratowicz (Opera Software AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Peter Miskovic (Disig), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Tim Callan (Sectigo), Tomasz Nowak (Opera Software AS), Trevoli Ponds-White (Amazon).
 
 ## Minutes
 
-{.wp-block-heading}
+
 
 ### 1. Roll Call
 
-{.wp-block-heading}
+
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-{.wp-block-heading}
+
 
 The Antitrust Statement was read
 
 ### 3. Review Agenda
 
-{.wp-block-heading}
+
 
 The Agenda was approved.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
-### 5. Membership application of MSC Trustgate and iTrusChina {.wp-block-heading}
+### 5. Membership application of MSC Trustgate and iTrusChina 
 
 MSC Trustgate and iTrusChina were not trusted by a Certificate Consumer of the SCWG so according to the SCWG charter they were granted Associate Membership. The WG designated a period of time of 12 months. Before this time expires, the SCWG will re-examine the associate membership status of these two CAs.
 
@@ -45,31 +45,31 @@ A question was raised about whether these members needed to have applied for inc
 
 ### 6. Validation Subcommittee Update
 
-{.wp-block-heading}
+
 
 Doug gave the report. It was a short meeting that didn’t go into a lot of details. It was mostly a preparation of topics for the F2F meeting.
 
-### 7. NetSec Subcommittee Update {.wp-block-heading}
+### 7. NetSec Subcommittee Update 
 
 Ben gave the report. The Subcommittee has prepared two ballots (SC20, SC21) that include some improvements to the network security requirements. The SC also prepares a response to Ryan’s comments.
 
-### 8. Ballot Status {.wp-block-heading}
+### 8. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
-
-_None_
-
-#### **Ballots in Voting Period** {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _None_
 
-#### **Ballots in Review Period** {.wp-block-heading}
+#### Ballots in Voting Period 
+
+_None_
+
+#### Ballots in Review Period 
 
 _None_
 
 #### Draft Ballots under Consideration
 
-{.wp-block-heading}
+
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments
@@ -80,16 +80,16 @@ No additional comments
 _SC21 Ballot (NSR 3): Log Integrity Controls_ (Ben)
 No additional comments
 
-### 9. Approval of F2F 47 Agenda {.wp-block-heading}
+### 9. Approval of F2F 47 Agenda 
 
 Dimitris went through the Server Certificate Working Group agenda for the next F2F. There were no objections to the current draft agenda.
 
-### 10. Any Other Business {.wp-block-heading}
+### 10. Any Other Business 
 
 None.
 
-### 11. Next call {.wp-block-heading}
+### 11. Next call 
 
 June 27, 2019 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

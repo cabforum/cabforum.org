@@ -9,31 +9,31 @@ title: 2021-10-14 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 October 14, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Adriano Santoni (Actalis), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Bailey (Entrust), Clint Wilson (Apple), Corey Bonnell (DigiCert), David Kluge (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Dustin Ward (SSL.com), Enrico Entschew (D-TRUST), Fumihiko Yoneda (JPRS), Hazhar Ismail (MSC Trustgate.com), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Joanna Fox (TrustCor), Jos Purvis (Cisco), Kiran Tummala (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Marcelo Silva (Visa), Mike Agrenius Kushner (PrimeKey), Nick France (Sectigo), Niko Carpenter (SecureTrust), Ono Fumiaki, Paul van Brouwershaven (Entrust), Rebecca Kelley (Apple), Rob Stradling (Sectigo), Roman Fischer (SwissSign), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Wendy Brown (Federal PKI), Yoshiro Yoneya (JPRS)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the September 29 teleconference were approved with corrections.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 Minutes were taken by Mads Henriksveen, summarized as follows.
 
@@ -74,12 +74,12 @@ Sebastian Schulz pointed out that some of the changes can be done via technical 
 
 Stephen noted that changes are underway to the draft S/MIME BR in Github:
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, October 27, 2021 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

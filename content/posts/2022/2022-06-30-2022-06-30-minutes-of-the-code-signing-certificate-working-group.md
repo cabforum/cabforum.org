@@ -9,11 +9,11 @@ title: 2022-06-30 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Andrea Holland (SecureTrust), Atsushi Inaba (GlobalSign), Corey Bonnell (DigiCert), Dean Coclin (DigiCert), Ian McMillan (Microsoft), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Joanna Fox (TrustCor), Martijn Katerbarg (Sectigo), Roberto Quinones (Intel), Tim Crawford (CPA Canada/WebTrust)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 **Antitrust Statement:** Read by Dean Coclin
 
@@ -21,23 +21,23 @@ Andrea Holland (SecureTrust), Atsushi Inaba (GlobalSign), Corey Bonnell (DigiCer
 
 Minutes of the June F2F meeting were approved
 
-### Signing Service discussion (continued) {.wp-block-heading}
+### Signing Service discussion (continued) 
 
 With Bruce being absent from this meeting and having worked a great deal on this item, the group decided to hold off on discussing this item.
 
-### Timestamping (continued) {.wp-block-heading}
+### Timestamping (continued) 
 
 Ian has checked with Karina. They are working on doing a broad update of the root policy requirements and will be bundling this in.
 
 Corey mentioned that we should be doing a cleanup ballot and then work on a ballot for a number of timestamp items
 
-### Proposal to revocation based on malware {.wp-block-heading}
+### Proposal to revocation based on malware 
 
 Martijn sent out an email on Monday with a proposal to change the language related to malware revocation. As of yesterday, there is also a draft pull request available on Github ()
 
 There were no direct comments to the proposal
 
-### Other Business {.wp-block-heading}
+### Other Business 
 
 Dean brought up having issues with write access on the code-signing Github repository. It was confirmed the pull-request was merged, meaning Github is up to date after CSC-14 has passed.
 

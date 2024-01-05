@@ -9,31 +9,31 @@ title: 2022-03-30 Minutes of the S/MIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 March 30, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Ashish Dhiman (GlobalSign), Bruce Morton (Entrust), Cade Cairns (Google), Clint Wilson (Apple), Corey Bonnell (Digicert), Daniel Zens (GlobalTrust), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Eusebio Herrera (AC Camerfirma SA), Fotis Loukos (Google), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Joanna Fox (TrustCor Systems), Li-Chun Chen (Chunghwa Telecom), Martijn Katerbarg (Sectigo), Mauricio Fernandez (TeleTrust), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW), Pedro Fuentes (OISTE Foundation), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (US Federal PKI Management Authority), Tim Crawford (CPA Canada/WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the March 16 teleconference were approved. The minutes from the F2F will be separately distributed.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 The draft the S/MIME Baseline Requirements is available at
 
@@ -51,12 +51,12 @@ The WG moved on to discuss the Pseudonym attribute. The draft currently ties use
 
 Stephen emphasized that the document is close to ready for the “preballot review” discussed in previous calls, so members should begin alerting their internal organisation contacts that will need to be involved.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, April 13, 2022 at 11 a.m. US Eastern.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

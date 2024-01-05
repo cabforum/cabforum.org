@@ -9,31 +9,31 @@ title: 2022-06-22 Minutes of SMIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 June 22, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Chris Kemmerer (SSL.com), Christophe Bonjean (GlobalSign), Clint Wilson (Apple), Corey Bonnell (Digicert), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Eva Vansteenberge (GlobalSign), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jamie Mackey (US Federal PKI Management Authority), Joanna Fox (TrustCor Systems), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Mrugesh Chandarana (IdenTrust), Pedro Fuentes (OISTE Foundation), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stefan Selbitschka (runQuadrat), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Crawford (CPA Canada/WebTrust), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes from the May 25 meeting were approved; the minutes from the June 6 F2F will be approved separately.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 The WG discussed the expression of interest of CertiPath. It was agreed to welcome CertiPath as an Associate Member as this is the category in which at least one other Bridge CA operator (US Federal PKI) has CABF membership.
 
@@ -53,12 +53,12 @@ Stephen stated that he felt the draft S/MIME BR must make OCSP and CRL mandatory
 
 The call remains open for comments that members may have on the draft. Stephen noted that the goal remains to move to ballot at end of summer.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday July 20, 2022 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

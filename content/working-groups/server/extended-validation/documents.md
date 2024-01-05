@@ -11,11 +11,11 @@ type: page
 
 **
 
-### **Current Version**
+### Current Version
 
 [EV TLS Server Certificate Guidelines 1.8.0][1] – ([redlined][2]) – adopted by Ballot [SC56][3]
 
-### **Previous Versions**
+### Previous Versions
 
 [EV SSL Certificate Guidelines 1.7.9][4] – ([redlined][5]) – adopted by Ballot [SC54][6]
 

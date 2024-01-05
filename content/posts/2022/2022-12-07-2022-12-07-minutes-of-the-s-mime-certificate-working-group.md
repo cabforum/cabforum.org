@@ -9,31 +9,31 @@ title: 2022-12-07 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 December 07, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller – (SwissSign), Ashish Dhiman – (GlobalSign), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Dimitris Zacharopoulos – (HARICA), Don Sheehy – (CPA Canada/WebTrust), Eusebio Herrera – (AC Camerfirma SA), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Marco Schambach – (IdenTrust), Patrycja Tulinska – (PSW), Paul van Brouwershaven – (Entrust), Pekka Lahtiharju – (Telia Company), Rebecca Kelley – (Apple), Renne Rodriguez – (Apple), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek – (DigiCert)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 NA
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 The WG agreed to drop the planned teleconference for December 21. The January 4 meeting will tentatively go ahead, if only to confirm the effective date of the SBR and the pending availability of audit criteria.
 
@@ -56,12 +56,12 @@ Tim encouraged parties who support the use of CAA for S/MIME to join the IETF di
 
 Stephen noted that CAA if adopted would most likely take effect after the September effective date of the SBR v1.0.0. Dimitris commented that there are CAs that issue S/MIME that do not issue TLS, and for whom CAA may be new, so any deadline should have adequate implementation time.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: tentative Wednesday, January 4, 2023 at 11:00 am Eastern Time
 
-### Adjourned {.wp-block-heading}
+### Adjourned

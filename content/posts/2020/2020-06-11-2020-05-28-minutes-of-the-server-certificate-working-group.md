@@ -7,29 +7,29 @@ title: 2020-05-28 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer ([SSL.com][1]), Curt Spann (Apple), Daniel Rendon ([SSL.com][1]), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michael Guenther (SwissSign), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Quo Vadis), Taconis Lewis (US Federal PKI Management Authority), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Andrea Holland (SecureTrust).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Accepted without changes.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 Accepted without objections. Neil volunteered to take minutes next call.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Tim reported that the Subcommittee had a discussion about certificate profiles and the current strategy which is documented in a Google spreadsheet. The Google spreadsheet has an organized view of the requirements for a particular entry into a certificate coalesced into one spot. But its incomplete and the subcommittee is still working on that. Strategy is to go through the BRs line by line and comparing it to the spreadsheet and discussing the interesting topics that come up. They made it through section 7.1.2.2 C before they stopped.
 
@@ -39,7 +39,7 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Neil reported that ballot SC28 is now open for discussion. He got some feedback from Ryan. Will respond to that very soon. Still crafting a ballot on removal for unnecessary accounts. Neil has got the text agreed, proposers and endorsers, so that the ballot should be ready to go very soon.
 
@@ -55,21 +55,21 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
-
-None.
-
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 None.
 
-#### Ballots in Review Period {.wp-block-heading}
+#### Ballots in Voting Period 
+
+None.
+
+#### Ballots in Review Period 
 
 _SC29: System Configuration Management (Neil)_.** Review period ends 15:00 UTC 7 June 2020**.
 
-#### Draft Ballots under Consideration {.wp-block-heading}
+#### Draft Ballots under Consideration 
 
 \_Aligning the BRs with existing Browser Requirements \_(Ryan)
 Ryan: Still waiting for feedback from the Mozilla communication, which will be expected on Monday, June 01, 2020.
@@ -117,7 +117,7 @@ Neil: The purpose is to modify the retention period of evidence, i.e. the durati
 
 Ryan has provided some valuable feedback. Most of it has to do with cleaning up the actual text but there was a couple of substantive and semantic issues. Next step: talk through with the NetSecTeam and getting back.
 
-### 8. Approval of F2F 50 Agenda {.wp-block-heading}
+### 8. Approval of F2F 50 Agenda 
 
 Dimitris: Removed empty slots. Now the wiki states that the server certificate working group should start on Wednesday at 11:30 am and end at 1:20 pm. On Thursday plenary starts at 10:00 am and ends at 11:40.
 
@@ -125,14 +125,14 @@ If there are new topics to discuss they can be introduced at the beginning of ea
 
 No objections to the agenda. Agenda is approved.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 No other business.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 June 25, 2020 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned 
 
 [1]: http://ssl.com/

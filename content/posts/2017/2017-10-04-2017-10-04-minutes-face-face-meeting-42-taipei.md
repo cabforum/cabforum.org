@@ -17,9 +17,9 @@ To avoid further delay in publishing the Final Minutes on the Public list, we ar
 
 **Attendance:** Peter Bowen (Amazon); Geoff Keating and Curt Spann (Apple); Jeremy Shen (Central Police University); Franck Leroy (Certinomis / Docapost); Wayne Chan and Sing-man Ho (Certizen Limited); Wen-Cheng Wang, Bon-Yeh Lin, Wen-Chun Yang, Jenhao Ou, Wei-Hao Tung, Chiu-Yun Chuang, Chung-Chin Hsiao, Chin-Fu Huang, Li-Chun Chen, Pin-Jung Chiang, and Wen-Hui Tsai (Chunghwa Telecom); Alex Wight and JP Hamilton (Cisco), Robin Alden (Comodo), Gord Beal (CPA Canada), Ben Wilson and Jeremy Rowley (DigiCert), Arno Fiedler and Enrico Entschew (D-TRUST); Kirk Hall (Entrust Datacard); Ou Jingan, Zhang Yongqiang, and Xiu Lei (GDCA); Atsushi Inaba and Giichi Ishii (GlobalSign); Wayne Thayer (GoDaddy); Devon O’Brien (Google); David Hsiu (KPMG); Mike Reilly (Microsoft); Gervase Markham and Aaron Wu (Mozilla); Hoang Trung La (National Electronic Authentication Center (NEAC) of Vietnam); Tadahiko Ito (Secom Trust Systems); Leo Grove and Fotis Loukos (SSL.com); Brian Hsiung (Sunrise CPA Firm); Steve Medin (Symantec); Frank Corday and Tim Hollebeek (Trustwave); Robin Lin, David Chen, and Huang Fu Yen (TWCA); and Don Sheehy and Jeff Ward (WebTrust).
 
-### **Antitrust Statement** – Read by Robin Alden
+### Antitrust Statement – Read by Robin Alden
 
-### **Mozilla Root Program Update – Gerv**
+### Mozilla Root Program Update – Gerv
 
 Notetaker: Jeremy
 
@@ -33,7 +33,7 @@ Notetaker: Jeremy
 1. Aaron Wu is working towards getting all BR self-assessments completed. Aaron will let CAs know if further information is needed. Only after Aaron completes his review does a CA move to the public discussion phase.
 1. Firefox changes. Firefox 58 will print warnings to the developer console for Symantec-rooted EE certs if the notBefore date is before June 2016. Firefox 60 will disable all these certs (due out in May 2018). Firefox 57 will include the first ever formally verified cryptographic primitive in a major browser. The implementation uses Curve25519 for key establishment. Gerv will consult with Firefox team to discuss when they will extend permitted keys to include 25519.
 
-### **Microsoft Root Program Update – Mike**
+### Microsoft Root Program Update – Mike
 
 Notetaker: Robin
 
@@ -71,7 +71,7 @@ Other areas of recent focus include: * Certificate Transparency (CT)
 
 SHA-1 deprecation updates can be found at
 
-### **Google Root Program Update – Devon**
+### Google Root Program Update – Devon
 
 Notetaker: Peter
 
@@ -114,7 +114,7 @@ Devon presenting
 
 – Q: Will Google work with Mozilla on best practices to avoid conflict? A: Yes, but these are just best practices, not specific requirements. A: (Gerv) I doubt there will be significant disagreements
 
-### **Apple Root Program Update**
+### Apple Root Program Update
 
 Notetaker: Wayne
 
@@ -150,7 +150,7 @@ Robin – it’s generally not in the CA’s control if OCSP stapling is used or
 
 Geoff – if, worst case, you can’t get customer to implement OCSP stapling, reissue the cert. The new serial will solve the problem for that specific certificate.
 
-### **WebTrust Update**
+### WebTrust Update
 
 Notetaker: Kirk
 
@@ -203,7 +203,7 @@ Others commented on this issue, and expressed the following points of view:
 - Don noted that when the EV requirements were created, the Forum went created a long list of Errata to correct the early versions of the EV requirements, and the WebTrust auditors were not required to change the audit requirements on a weekly or monthly basis – the audit criteria were more stable then, which was better.
 - Kirk said if Gerv had ideas on changes to make to the BRs to deal with these issues, he should propose them Gerv said he would move forward with suggestions.
 
-### **ETSI Update**
+### ETSI Update
 
 [**https://portal.etsi.org/TBSiteMap/ESI/ESIActivities.aspx**][1]
 
@@ -217,7 +217,7 @@ The accreditation scheme is not person-based, it is accreditation of the auditin
 
 Standards are available for download at . The most important standard for this group is EN 319 411-1 . End of October 2017 an actual version will be published.
 
-### **Governance Working Group Report**
+### Governance Working Group Report
 
 Notetaker: Ben
 
@@ -229,7 +229,7 @@ Dimitris noted that during the discussion on Tuesday we also focused on “trust
 
 Finally, Ben noted that in reviewing the use of the term “CA” he identified an inconsistency between the Baseline Requirements and the EV Guidelines. In the Baseline Requirements section 7.1.6.3 we talk about use of the anyPolicy policy OID by an “affiliate of the Issuing CA” whereas in section 9.3.4 of the EV Guidelines we say it may be used for a subCA “for which the corresponding Private Key is controlled by the Root CA.” Ben said he prefers the usage found in the EV Guidelines. It was suggested that with the modified definition of CA, section 9.3.4 of the EV Guidelines could even be edited to read, “(2) Certificates issued to Subordinate CAs that are operated by the same Trust Service Provider as the Issuing CA MAY contain the special anyPolicy identifier (OID: 2.5.29.32.0).”
 
-### **CCADB Update and demonstration**
+### CCADB Update and demonstration
 
 Notetaker: Mike Reilly
 
@@ -248,13 +248,13 @@ Notetaker: Mike Reilly
 - Question: Will “bulk load” capability be available? CA would need to get in touch with Kathleen if this is needed. It was used initially to get all CAs onboarded
 - There are also detailed instructions on the CCADB site should CAs want to follow up on how to use the CCADB (Gerv comment)
 
-### **Guest Speaker: Jonathan Levi – Hyperledger Fabric Project 1.0 update and usage of x.509 v3 certificates**
+### Guest Speaker: Jonathan Levi – Hyperledger Fabric Project 1.0 update and usage of x.509 v3 certificates
 
-### **Approve Minutes CABF teleconference Sept. 14, 2017**
+### Approve Minutes CABF teleconference Sept. 14, 2017
 
 The Minutes were approved, and will be posted to the Public list.
 
-### **Determine Applicability of Certificates by using standard CABF CP OIDs**
+### Determine Applicability of Certificates by using standard CABF CP OIDs
 
 Notetaker: Li-Chun Chen
 
@@ -392,7 +392,7 @@ Q2: So do we turn into the discussion or are there more and more to discuss?
 
 Ans: Just want to ask Browsers. Do you want to implement this and the mechanism? In the long term, I say this is the right way issue. I do not suggest we immediately implement this. I don’t know how long we need take to implement this, and how long the standard CP OIDs will be in or on the subordinate CA. But we are gathered here to improve the trustworthiness of the certificate. I think in the long term we should have the systematic way and automatically way to detect this issue. This is why I want to propose.
 
-### **Validation Working Group Report**
+### Validation Working Group Report
 
 Notetaker: Jeremy
 
@@ -426,13 +426,13 @@ Notetaker: Jeremy
 
 1. We discussed modifying 7.1.4.3.1(b). Right now it specifies that the Sub CA must be listed in the O field. There’s a question whether vanity issuing CAs are permitted.
 
-### **Domain Validation Implementation Issues**
+### Domain Validation Implementation Issues
 
 Notetaker: Jeremy
 
 See Validation Working Group Report.
 
-### **Network Security Working Group Report**
+### Network Security Working Group Report
 
 Notetaker: Ben
 
@@ -440,7 +440,7 @@ Ben explained the background of the Network Security Working Group. The CA/Brows
 
 During our working group session, we discussed the path forward. The NetSec Working Group also has a subgroup working on CA architecture, the threat model, threat analysis, risk assessment, (i.e. what are we trying to protect). The reason for this is that this analysis will allow us to define security perimeters of things like root CAs and certificate issuing systems. Meanwhile, the Working Group will continue to discuss the remaining items on the prioritized list. We may re-prioritize the list based on a suggestion that we take low-hanging fruit – items that are easier to address.
 
-### **CAA Implementation Issues**
+### CAA Implementation Issues
 
 Notetaker: Robin
 
@@ -634,7 +634,7 @@ Curt: will create similar to Google one.
 
 Kirk: for CAs to bring up on redaction, we will discuss offline.
 
-### **Policy Review Working Group Report**
+### Policy Review Working Group Report
 
 Notetaker: Tim
 
@@ -646,7 +646,7 @@ Should the definition of CA state that it is trusted by “one or more Applicati
 
 “operated by the same TSP” vs “affiliate”? Might handle after the CA bifurcation work is done.
 
-### **Review of pending ballots**
+### Review of pending ballots
 
 - Reminder to include redlines with ballots
 
@@ -681,7 +681,7 @@ XXX: Remove “Any Other Method” from IP Address Validation
 
 XXX: Remove requirement to obey latest version of the BRs
 
-### **Symantec EV Cert Discussion**
+### Symantec EV Cert Discussion
 
 Notetaker: Robin
 
@@ -705,7 +705,7 @@ Gerv: Steve said there is a problem.
 Geoff: The point is that if you have business operations at that address it is harder to move.
 Steve: you can’t just use a QGIS to prove ‘operational existence’ – even by companies house. There is the potential for some disappointment in some of the processes and there may be a improvements required across the board to meet the standard as it is currently stated.
 
-### **Possible Root Program/BR Lint testing requirement**
+### Possible Root Program/BR Lint testing requirement
 
 Notetaker: Robin
 
@@ -731,7 +731,7 @@ Wayne: Post issuance
 Devon: But we have requirements, CAs must follow requirements already.
 Gerv: I guess we should just add this to our best practices page.
 
-### **Discussion of Mozilla BR self-assessment experience**
+### Discussion of Mozilla BR self-assessment experience
 
 Notetaker: Robin
 
@@ -771,7 +771,7 @@ Geoff: The interesting thing is the ratio between the work done and the value de
 
 Gerv: I will take this back to Kathleen.
 
-### **Information about next F2F Meeting 43 hosted by Amazon in Herndon, VA, USA – March 6-8, 2018**
+### Information about next F2F Meeting 43 hosted by Amazon in Herndon, VA, USA – March 6-8, 2018
 
 Notetaker: Kirk
 

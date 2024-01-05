@@ -3,9 +3,8 @@ aliases:
 - /scwg-charter/
 author: Ben Wilson
 date: 2023-12-04 23:43:51
-title: Server Certificate Working Group Charter
 linkTitle: Charter
-
+title: Server Certificate Working Group Charter
 ---
 
 # Server Certificate Working Group Charter

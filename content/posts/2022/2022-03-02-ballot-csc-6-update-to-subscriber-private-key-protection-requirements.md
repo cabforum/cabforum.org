@@ -9,7 +9,7 @@ title: Ballot CSC-6 – Update to Subscriber Private Key Protection Requirements
 type: post
 ---
 
-## Results of Voting {.wp-block-heading}
+## Results of Voting 
 
 (Mailing list post is available [here][1].)
 
@@ -30,13 +30,13 @@ Microsoft
 
 The ballot has FAILED.
 
-## Purpose of the ballot {.wp-block-heading}
+## Purpose of the ballot 
 
 Update the subscriber private key protection requirements in the Baseline Requirement for the Issuance and Management of Publicly-Trusted Code Signing Certificates v2.7.
 
 The following motion has been proposed by Ian McMillan of Microsoft, and endorsed by Tim Hollebeek of DigiCert and Bruce Morton of Entrust.
 
-## Motion {.wp-block-heading}
+## Motion 
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates“ version 2.7 according to the attached redline which includes:
 

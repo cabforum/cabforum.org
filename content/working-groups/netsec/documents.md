@@ -11,11 +11,11 @@ type: page
 
 On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certificate System Security Requirements** with an effective date of 1 January 2013. Since then, the Network Security Requirements have outlined best practices for the general protection of CA networks and supporting systems, including those touching on trusted roles, delegated third parties, system accounts, logging, monitoring, alerting, vulnerability detection and patch management within a CA’s infrastructure.
 
-### Current Version {.wp-block-heading}
+### Current Version 
 
 **[Network Security Controls v1.7][1]** ([redlined][2]) (adopted with [Ballot SC41][3])
 
-### **Previous Versions** {.wp-block-heading}
+### Previous Versions 
 
 **[Network Security Controls v1.6][4]** ([redlined][5]) (adopted with [Ballot SC39][6])
 

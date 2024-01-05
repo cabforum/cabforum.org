@@ -35,7 +35,7 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was **11** votes – quorum was met.”
 
-### Ballot SC29v3: System Configuration Management {.wp-block-heading}
+### Ballot SC29v3: System Configuration Management 
 
 **Purpose of Ballot:**
 

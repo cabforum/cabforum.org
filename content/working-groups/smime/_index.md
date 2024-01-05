@@ -3,15 +3,14 @@ aliases:
 - /smime-certificate-wg/
 author: Stephen Davidson
 date: 2020-06-23 04:38:00
-title: S/MIME Certificate Working Group
 linkTitle: S/MIME Cert WG
-
 menu:
   main:
     weight: 4
+title: S/MIME Certificate Working Group
 ---
 
-## About {#about.wp-block-heading}
+## About 
 
 The CA/Browser Forum’s S/MIME Certificate Working Group (SMCWG) was chartered to work on requirements applicable to Certification Authorities that issue S/MIME digital certificates used to sign, verify, encrypt, and decrypt email. A primary deliverable will address:
 
@@ -24,23 +23,23 @@ In addition, the SMCWG may also address identity validation for natural persons 
 
 The goal of the SMCWG is to provide a framework where “reasonable assurance” may be provided to senders and recipients of email messages that the party identified in an S/MIME Certificate has control of the domain or email address being asserted. A variation of this use case is where an individual or organization digitally signs email to establish its authenticity and source of origin.
 
-## Officers {#officers.wp-block-heading}
+## Officers 
 
 **Chair**: Stephen Davidson ([DigiCert][1])  
 **Vice Chair**: Martijn Katerbarg ([Sectigo][2])  
 **Past officers**: Mads Egil Henriksveen ([Buypass][3], Vice Chair 2020-2022)  
 
-## Charter {#charter.wp-block-heading}
+## Charter 
 
 **[S/MIME Certificate Working Group Charter](/smcwg-charter/)**
 
 ______________________________________________________________________
 
-## Ballots {.wp-block-heading}
+## Ballots 
 
 [SMC WG Ballots][4]
 
-## Membership Requirements {#membership-requirements.wp-block-heading}
+## Membership Requirements 
 
 There are four membership categories in the S/MIME Certificate Working Group:
 
@@ -51,7 +50,7 @@ There are four membership categories in the S/MIME Certificate Working Group:
 
 **In all categories, the CA/Browser Forum by-laws require members to execute and submit the IPR Agreement** (See: ).
 
-## How to Join the SMCWG {#how-to-join-the-smcwg.wp-block-heading}
+## How to Join the SMCWG 
 
 The CA/Browser Forum welcomes new applicants with an interest in S/MIME for membership in the SMCWG. There is no cost to join. New applicants should provide the following information by email to [**questions@cabforum.org**][6]:
 
@@ -65,13 +64,13 @@ The CA/Browser Forum welcomes new applicants with an interest in S/MIME for memb
    - URL of the current qualifying audit report
    - Links or references to issued end-entity certificates that demonstrate them being treated as valid by a Certificate Consumer Member
 
-## Mailing List {#mailing-list.wp-block-heading}
+## Mailing List 
 
 **In addition, the S/MIME Certificate Working Group provides a public mailing list. To subscribe, see:** [**/mailman/listinfo/smcwg-public**][7]
 
 ______________________________________________________________________
 
-## Members {#members.wp-block-heading}
+## Members 
 
 **Certificate Issuers:**
 AC Camerfirma SA

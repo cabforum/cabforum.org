@@ -7,39 +7,39 @@ title: 2019-07-25 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Frank Corday (SecureTrust), Inaba Atsushi (GlobalSign), Jeff Ward (CPA Canada/WebTrust), Joanna Fox (GoDaddy), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Ryan Sleevi (Google), Scott Rea (Dark Matter), Shelley Brewer (Digicert), Tim Callan (Sectigo), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
 ## Minutes
 
-{.wp-block-heading}
+
 
 ### 1. Roll Call
 
-{.wp-block-heading}
+
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-{.wp-block-heading}
+
 
 The Antitrust Statement was read
 
 ### 3. Review Agenda
 
-{.wp-block-heading}
+
 
 The F2F 47 minutes approval slot was removed from the Agenda. Dimitris explained that he sent final updates to the F2F minutes 1,5 days before the teleconference so it was likely that members would not have time to review. They would probably be ok and get approved at the next teleconference.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
 
-{.wp-block-heading}
+
 
 The Subcommittee reviewed the work at the validation summit and the F2F in Thessaloniki and decided to try to wrap-up this work until the next F2F in November.
 
@@ -53,19 +53,19 @@ Another topic they discussed was the Certificate lifetime which Ryan introduced 
 
 Bruce also mentioned about the “clean-up ballot” and will reach out to Tim for Spring cleanup changes to put into the BRs and EVGs. Ryan sent an email to the list.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 The subcommittee discussed about the “pain points” and tried restructuring the documents, with annotations related to requirements/provisions for Root CAs and which ones apply for online vs offline CAs, for example “network requirements”. They also tried some reverse cross-references to WebTrust for CAs and ETSI EN 319 401 standards looking for similarities with the existing network security requirements.
 
 Dimitris asked for some more details about these cross-references. Ben clarified that the WebTrust for CAs 2.1 has similar language with the Network Security requirements. He was not referring to “WebTrust Baseline and Network Security” but the “plain vanilla” WebTrust. The subcommittee wants to create a table and add a column where for particular Network Security requirements they will be able to provide references to WebTrust for CAs or ETSI EN 319 401 for further guidance.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
 No further discussion on ballots under consideration
 
 #### Ballots in Discussion Period
 
-{.wp-block-heading}
+
 
 _None_
 
@@ -77,7 +77,7 @@ _None_
 
 #### Draft Ballots under Consideration
 
-{.wp-block-heading}
+
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments
@@ -88,16 +88,16 @@ No additional comments
 _SC21 Ballot (NSR 3): Log Integrity Controls_ (Ben)
 No additional comments
 
-### 8. Approval of F2F 47 Minutes {.wp-block-heading}
+### 8. Approval of F2F 47 Minutes 
 
 No discussion.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 No other business.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 August 8, 2019 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

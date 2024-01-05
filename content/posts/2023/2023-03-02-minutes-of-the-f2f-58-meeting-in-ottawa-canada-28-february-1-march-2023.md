@@ -9,13 +9,13 @@ title: Minutes of the F2F 58 Meeting in Ottawa, Canada, 28 February – 1 March,
 type: post
 ---
 
-# **Tuesday, 28 February 2023 – CA/B Forum Meeting (Day 1)**
+# Tuesday, 28 February 2023 – CA/B Forum Meeting (Day 1)
 
-## **Attendees:**
+## Attendees:
 
 Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Aleksandra Kurosz (Asseco Data Systems S.A. (Certum)), Alison Titus (Entrust), Andrea Holland (VikingCloud), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Anna-Marie Christian (CPA Canada), Arno Fiedler (D-TRUST), Arnold Essing (Telekom Security), Atsushi Inaba (GlobalSign), Ben Dewberry (Keyfactor), Ben Wilson (Mozilla), Brianca Martin (Amazon), Brittany Randall (GoDaddy), Bruce Morton (Entrust), Bruce Wei (TrustAsia Technologies, Inc.), Chad Edhlers (IdenTrust), Chris Bailey (Entrust), Chris Clements (Google), Chris Czajczyc (Deloitte), Chris Kemmerer (SSL.com), Christophe Bonjean (GlobalSign), Clemens Wanko (ACAB’c), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen (OATI), Daniel Jeffery (Fastly), Daryn Wright (GoDaddy), Dave Chin (CPA Canada), David Kluge (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Dre Armeda (GoDaddy), Elaine Bronsther (Sectigo), Ellie Lu (TrustAsia Technologies, Inc.), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Fumihiko Yoneda (Japan Registry Services Co., Ltd. (JPRS)), George Fergadis (HARICA), Georgy Sebastian (Amazon), Hazhar Ismail (MSC Trustgate Sdn Bhd), Henry Birge-Lee (Guest Speaker), Ian McMillan (Microsoft), Ilona Jones (Entrust), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), JP Hamilton (Cisco Systems), Jamie Mackey (US Federal PKI Management Authority), Janet Hines (VikingCloud), Jeremy Rowley (DigiCert), Joanna Fox (TrustCor Systems), John Sarapata (Google Trust Services), Jos Purvis (Fastly), Jozef Nigut (Disig), Karina Sirota Goodley (Microsoft), Kathleen Wilson (Mozilla), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Lisa Marie Barlow (Entrust), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Marco Schambach (IdenTrust), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Michael Slaughter (Amazon), Michał Malinowski (Asseco Data Systems S.A. (Certum)), Michelle Coon (OATI), Nargis Mannan (VikingCloud), Nick France (Sectigo), Nikolaos Soumelidis (ACAB’c), Pankaj Chawla (eMudhra), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Pekka Lahtiharju (Telia Company), Peter Miskovic (Disig), Prachi Jain (Fastly), RIch Smith (DigiCert), Raffaela Achermann (SwissSign), Rajesh Raman (eMudhra), Rebecca Kelley (Apple), Rob Stradling (Sectigo), Rollin Yu (TrustAsia Technologies, Inc.), Ryan Dickson (Google Chrome), Samantha Frank (Let’s Encrypt), Sissel Hoel (Buypass), Star Simmons (GoDaddy), Stefan Kirch (Telekom Security), Stephen Davidson (DigiCert), Steven Deitte (GoDaddy), Sven Rajala (Keyfactor), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Crawford (WebTrust), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Tsung-Min Kuo (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Yoshihiko Matsuo (Japan Registry Services Co., Ltd. (JPRS)), Yoshiro Yoneya (Japan Registry Services Co., Ltd. (JPRS)).
 
-## **Future face to face meeting schedule**
+## Future face to face meeting schedule
 
 **Discussion leader:** Dimitris Zacharopoulos (HARICA),
 
@@ -35,7 +35,7 @@ Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones
 
 - Fall 2024 meeting will be hosted by Amazon in Seattle, WA
 
-## **Bylaws topics**
+## Bylaws topics
 
 **Discussion leaders:** Dimitris Zacharopoulos (HARICA), Tim Hollebeek (Digicert)
 
@@ -57,7 +57,7 @@ Dimitris reviewed proposed bylaw changes.
 1. Review and alignment of WG Charters – we should take a look at the S/MIME WG charter and harmonize charters and revise the template. Dimitris recommended that we do this with a single ballot. Dimitris asked how we should go about adopting the charter template in the Bylaws. There was no objection to moving forward with his plan.
 1. Ballot quorum. We need to clarify the voting rules on what takes precedence, the Bylaws or the Charter. Martijn said it is slightly unclear and needs work. Further work on this topic is needed.
 
-## **Updates to Forum public website**
+## Updates to Forum public website
 
 **Discussion leader:** Ben Wilson (Mozilla)
 
@@ -79,9 +79,9 @@ Concerns were raised that not everyone is comfortable with working in GitHub and
 
 There is consensus on looking into that, but not as a high priority item.
 
-## **BROWSER UPDATES**
+## BROWSER UPDATES
 
-### **Mozilla Root Program Update**
+### Mozilla Root Program Update
 
 **Presentation by:** Ben Wilson (Mozilla)
 
@@ -111,7 +111,7 @@ Trev: Are the incident categories published anywhere?
 
 Ben: There is a brief breakdown on the Wiki, but also there is documentation on the Wiki. We will make this available.
 
-### **Google Root Program Update**
+### Google Root Program Update
 
 **Presentation by:** Ryan Dickson (Google Chrome)
 
@@ -123,7 +123,7 @@ Ben: There is a brief breakdown on the Wiki, but also there is documentation on 
 
 \_\_\_ THERE WAS ADDITIONAL CONTEXT FROM THE PRESENTATION THAT WAS NOT ON THE SLIDES\_\_\_
 
-### **Apple Root Program Update**
+### Apple Root Program Update
 
 **Presentation by:** Clint Wilson (Apple)
 
@@ -237,7 +237,7 @@ Summary of Clint’s presentation:
 
 - Trev: In SOC, it is a red flag to switch auditors because it is considered “opinion shopping”.
 
-### **Microsoft Root Program Update**
+### Microsoft Root Program Update
 
 **Presentation by:** Karina Sirota (Microsoft)
 
@@ -289,7 +289,7 @@ Summary of Clint’s presentation:
 
 - Response: Important to note, the onus for investigation is currently on our end. We make the request to CAs to revoke concerning certificates. I understand the perspective that the type of service you describe would be helpful. Again, we’ll look into that.
 
-## **CCADB Update**
+## CCADB Update
 
 **Presentation by:** Chris Clements (Google Chrome, on behalf of the CCADB Steering Committee)
 
@@ -332,9 +332,9 @@ No additional discussion.
 
 ****
 
-# **Wednesday, 1 March 2023 – CA/B Forum Meeting (Day 2)**
+# Wednesday, 1 March 2023 – CA/B Forum Meeting (Day 2)
 
-## **Lessons learned from SC60 and update to Bylaws/Charters**
+## Lessons learned from SC60 and update to Bylaws/Charters
 
 **Discussion leaders:** Dimitris Zacharopoulos (HARICA), Paul van Brouwershaven (Entrust), Inigo Barreira (Sectigo)
 
@@ -378,7 +378,7 @@ Tim said that there is already objective language in the Charter, “used to bro
 
 Inigo said, also, in the case of a “no” decision, we need clear direction on whether the applicant can reapply.
 
-## **Definitions and Glossary WG**
+## Definitions and Glossary WG
 
 **Discussion leader:** Clint Wilson (Apple)
 
@@ -392,7 +392,7 @@ _@Clint, the recording came up empty for that part of the minutes and Daryn coul
 
 _@Others, feel free to chime in if you took personal notes for this section_
 
-## **Invited Guest Speakers**: _Multi-vantage point domain validation, protection against BGP hijacking and other network style attacks_
+## Invited Guest Speakers: _Multi-vantage point domain validation, protection against BGP hijacking and other network style attacks_
 
 **Discussion leader:** Henry Birge-Lee (Princeton University)
 
@@ -402,9 +402,9 @@ _@Others, feel free to chime in if you took personal notes for this section_
 
 **Discussion outside the presentation:**
 
-## **AUDIT UPDATES**
+## AUDIT UPDATES
 
-### **ETSI Update**
+### ETSI Update
 
 **Presentation by:** Nick Pope and Arno Fiedler (Chairs ETSI ESI)
 
@@ -422,7 +422,7 @@ Other requirements to be addressed by CA/the auditors in the ETSI ecosystem shal
 
 Kathleen Wilson (Mozilla) asked about the timely integration of BRG into ETSI applicable standards. ETSI replied that BRG will be referenced into the ETSI standards in the future “by the latest version to be applied” instead of referencing the latest BRG version available at time of ETSI approval as we have it today. That fact was highly appreciated as it removes issues in keeping track between ETSI and BRG versions.
 
-### **ACAB’c Update**
+### ACAB’c Update
 
 **Presentation by:** Clemens Wanko (TÜV AUSTRIA)
 
@@ -454,7 +454,7 @@ Kathleen liked the update in ETSI TS 119 403-2.
 
 Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is called ‘essential entities’, together with power plants, transporation, etc, which means that they will be put under additional supervision for Cybersecurity.
 
-### **WebTrust Update**
+### WebTrust Update
 
 **Presentation by:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)
 
@@ -704,9 +704,9 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 - Reviewing existing business model
 
-## **Summary Presentations from Working Groups since last meeting**
+## Summary Presentations from Working Groups since last meeting
 
-### **Server Certificate Working Group Update**
+### Server Certificate Working Group Update
 
 **Presentation by:** Inigo Barreira (Sectigo)
 
@@ -732,7 +732,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 - It’s agreed upon to discuss this during the WG call tomorrow.
 
-### **Code Signing Certificate Working Group Update**
+### Code Signing Certificate Working Group Update
 
 **Presentation by:** Bruce Morton (Entrust)
 
@@ -768,7 +768,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 ## 
 
-### **S/MIME Certificate Working Group Update**
+### S/MIME Certificate Working Group Update
 
 **Presentation by:** Stephen Davidson (DigiCert)
 
@@ -780,7 +780,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 No discussion outside of presentation bullet points
 
-### **Network Security Working Group Update**
+### Network Security Working Group Update
 
 **Presentation by:** Clint Wilson (Apple)
 
@@ -812,7 +812,7 @@ Wayne: I’m not sure if the high-level goals of the WG have been described. Wha
 
 Clint: The closest term output is adding the high-level goal descriptions to the NCSSRs at the beginning of each section. Then, we will either tackle the Air-gapped CA work or cloud services sub-group work.
 
-### **Forum Infrastructure Subcommittee Update**
+### Forum Infrastructure Subcommittee Update
 
 **Presentation by:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
 

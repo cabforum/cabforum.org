@@ -9,37 +9,37 @@ title: 2020-09-02 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 September 2, 2020
 
 These are the final approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Matthias Wiedenhorst (ACAB’c), Arno Fiedler (Arno Fiedler), Mads Henriksveen (BuyPass), Qiu Dawei (CFCA), Zhang Danmeng (CFCA), Li-Chun Chen (Chunghwa Telecom), Andreas Henschel (D-TRUST), Enrico Entschew (D-TRUST), Dean Coclin (DigiCert), Stephen Davidson (DigiCert), Bruce Morton (Entrust DataCard), India Donald (Federal PKI), Wendy Brown (Federal PKI), Thomas Connelly (Federal PKI), James Knapp (Federal PKI), Doug Beattie (GlobalSign), Hugh Mercer (GlobalSign), Atsushi Inaba (GlobalSign), Hongquan Yin (Microsoft), Ben Wilson (Mozilla), Hazhar Ismail (MSC Trustgate.com), Ahmad Syafiq Md Zaini (MSC Trustgate.com), Nazmi Abd Hadi (MSC Trustgate.com), Patrycja Tulinska (PSW), Rich Smith (Sectigo), Chris Kemmerer (SSL.com), Thanos Vrachnos (SSL.com), Markus Wichmann (TeleTrust), Morad Abou Nasser (TeleTrust), Corey Bonnell (Trustwave), Janet Hines (Trustwave), Russ Housley (Vigil Security, LLC), Jeff Ward (WebTrust), Don Sheehy (WebTrust), Tim Crawford (WebTrust), Burkhard Wiegel (Zertificon), Nathalie Weiler (Nathalie Weiler)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Dean Coclin proposed that the WG return to the confirmation of a Vice Chairman, which was tabled from the meeting of July 22, 2020. It was agreed. The Chair nominated WG member Mads Henriksveen of BuyPass. A discussion was held on voting in accordance with the Charter, and it was confirmed there were no other nominations. A subsequent consensus vote confirmed Mads as Vice Chair of the SMCWG.
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the August 19 teleconference were approved.
 
-### 5. New Members {.wp-block-heading}
+### 5. New Members 
 
 No new members, but Tim Crawford of BDO has joined the WebTrust representation on the SMCWG.
 
-### 6. Discussion of approach and deliverables {.wp-block-heading}
+### 6. Discussion of approach and deliverables 
 
 A discussion was held of major use cases for S/MIME certificates:
 
@@ -78,12 +78,12 @@ There was a discussion regarding gateway certs (if they adhere to RFC 3183/domai
 
 The Chair suggested setting up a separate sheet to gather different CA profiles, given the wide apparent practice in S/MIME.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 No other business.
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 The next call will take place on September 16, 2020 at 11:00am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

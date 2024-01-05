@@ -1,17 +1,14 @@
 ---
-author: Ben Wilson
-date: 2013-08-31 03:12:57
-title: About the CA/Browser Forum
-type: page
-
 aliases:
 - /about-us/
-
+author: Ben Wilson
+date: 2013-08-31 03:12:57
 menu:
   main:
     name: About
     weight: 1
-
+title: About the CA/Browser Forum
+type: page
 ---
 
 The CA/Browser Forum is governed by [Bylaws][1], which were first adopted in 2012. The Bylaws set forth the qualifications for [Membership in the Forum][2], and the types of participation that are allowed for non-voting members, interested parties, and others.  The Forum is an unincorporated association of separate organizations.

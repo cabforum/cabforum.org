@@ -11,7 +11,7 @@ type: post
 
 The voting on ballot SC48 v2 has completed, and the ballot has **passed**.
 
-## **Voting Results** {.wp-block-heading}
+## Voting Results 
 
 **Certificate Issuers**
 
@@ -48,7 +48,7 @@ _This requirement was MET_.
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Purpose of Ballot {.wp-block-heading}
+## Purpose of Ballot 
 
 Ballot 202 set out to clarify requirements regarding encoding of domain names and IP addresses in Subscriber Certificates, but the Ballot ultimately failed to pass. Since then, there have been numerous differences in interpretation of the written requirements.
 

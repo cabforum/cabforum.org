@@ -3,9 +3,8 @@ aliases:
 - /information-for-auditors-and-assessors/
 author: Ben Wilson
 date: 2013-08-30 22:46:00
-title: Information for Auditors and Assessors
 linkTitle: Auditors and Assessors
-
+title: Information for Auditors and Assessors
 ---
 
 To increase trust in the application of PKI technology, the CA/Browser Forum has mandated that a CA, in order to issue Publicly-Trusted Certificates, obtain an audit report under a [qualified audit scheme performed by a qualified auditor][1].

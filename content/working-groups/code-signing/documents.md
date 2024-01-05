@@ -7,13 +7,13 @@ title: Baseline Requirements (Code Signing)
 type: page
 ---
 
-## Baseline Requirements {.wp-block-heading}
+## Baseline Requirements 
 
-### Current Version {.wp-block-heading}
+### Current Version 
 
 [Baseline Requirements for Code-Signing Certificates, v.3.5][1] ([redline][2]) adopted by [ballot CSCWG-20][3].
 
-### Previous Versions {.wp-block-heading}
+### Previous Versions 
 
 [Baseline Requirements for Code-Signing Certificates, v.3.4][4] ([redline][5]) adopted by [ballot CSCWG-19][6].
 

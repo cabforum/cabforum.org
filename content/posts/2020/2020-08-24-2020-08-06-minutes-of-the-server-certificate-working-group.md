@@ -7,41 +7,41 @@ title: 2020-08-06 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## **Attendees (in alphabetical order)** {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Mozilla), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Johny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mayur Manchanda (Visa), Michael Guenther (SwissSign), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Peter Miskovic (Disig), Rae Ann Gonzales (Godaddy), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tobias Josefowitz (Opera Software AS), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority)
 
-## **Minutes** {.wp-block-heading}
+## Minutes 
 
 Dimitris is on vacation, so Wayne led the call.
 
-### **1. Roll Call** {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### **2. Read Antitrust Statement** {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read by Ben WIlson.
 
-### **3. Review Agenda** {.wp-block-heading}
+### 3. Review Agenda 
 
 No changes to the agenda were noted. Neil Dunbar volunteered to take minutes for the next SCWG and Forum teleconference.
 
-### **4. Approval of minutes from last teleconference** {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 Accepted without objections.
 
-### **5. Validation Subcommittee Update** {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Tim Hollebeek was not on the call. Wayne reported that last week’s meeting was brief. The call began with discussion of the TLS Using ALPN Method ballot. Then the certificate profile work was discussed. The spreadsheet is linked from our wiki. Doug added the ‘subscriber’ tab, and it was decided that the committee would work on it next time. Members were asked to review this tab and make comments prior to the next meeting. Finally, the ‘cleanups and clarifications’ ballot was discussed. Ryan is cleaning up the ballot and is planning to move the ballot into the discussion period soon.
 
-### **6. NetSec Subcommittee Update** {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 SC28 is in ‘heartbeat’ mode, being kept alive through the month of August at the request of members who need more time to review and analyze the implications of the ballot. SC32, the “zones” ballot is being reworked to discuss and address feedback that has been received. There are a couple of new ballots that now have explanatory text completed so they can be introduced to the working group. These ballots make smaller changes than some of the recent ballots. The Pain Points group continues discussions of long term CA architecture, such as how to integrate cloud providers.
 
-### **7. Ballot Status** {.wp-block-heading}
+### 7. Ballot Status 
 
-#### **Ballots in Discussion Period** {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _SC28 (Logging and Log Retention)_
 
@@ -51,11 +51,11 @@ _SC33 (TLS Using ALPN Method)_
 
 Wayne: This ballot replaces domain validation method 10 with a new method 20 that uses the IETF RFC to define the use of TLS with ALPN to validate domain control. Discussion period ends tomorrow. Planning to start voting tomorrow.
 
-#### **Ballots in Voting Period** {.wp-block-heading}
+#### Ballots in Voting Period 
 
 None
 
-#### **Ballots in Review Period** {.wp-block-heading}
+#### Ballots in Review Period 
 
 _SC30 (Disclosure of Registration/Incorporating Agency)_
 
@@ -63,7 +63,7 @@ _SC31 (Browser Alignment)_
 
 Wayne: Review periods end August 20.
 
-#### **Draft Ballots under Consideration** {.wp-block-heading}
+#### Draft Ballots under Consideration 
 
 _Spring 2020 cleanup and clarifications (Ryan)_
 
@@ -77,12 +77,12 @@ _Offline CA Security Requirements (Ben)_
 
 Ben: No updates. This will be discussed at the next subcommittee call.
 
-### **8. Any Other Business** {.wp-block-heading}
+### 8. Any Other Business 
 
 No other business was discussed.
 
-### **9. Next call** {.wp-block-heading}
+### 9. Next call 
 
 The next call will take place on August 20, 2020 at 11:00am Eastern Time.
 
-### **Adjourned** {.wp-block-heading}
+### Adjourned

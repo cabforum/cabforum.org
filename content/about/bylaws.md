@@ -1,10 +1,9 @@
 ---
+aliases:
+- /bylaws/
 author: Ben Wilson
 date: 2014-03-25 00:43:51
 title: Bylaws
-aliases:
-- /bylaws/
-
 ---
 
 **Bylaws**

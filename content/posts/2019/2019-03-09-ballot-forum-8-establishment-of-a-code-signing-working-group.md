@@ -9,11 +9,11 @@ title: 'Ballot FORUM-8: Establishment of a Code Signing Working Group'
 type: post
 ---
 
-## Results {.wp-block-heading}
+## Results 
 
 The voting period for Ballot Forum-8 has ended and the **Ballot has Passed**. Here are the results:
 
-### Voting by Certificate Issuers {.wp-block-heading}
+### Voting by Certificate Issuers 
 
 **24 votes total including abstentions**
 
@@ -23,7 +23,7 @@ The voting period for Ballot Forum-8 has ended and the **Ballot has Passed**.
 
 100% of voting Certificate Issuers voted in favor.
 
-### Voting by Certificate Consumers {.wp-block-heading}
+### Voting by Certificate Consumers 
 
 **3 votes total including abstentions**
 
@@ -33,7 +33,7 @@ The voting period for Ballot Forum-8 has ended and the **Ballot has Passed**.
 
 100% of voting Certificate Consumers voted in favor
 
-### Relevant Bylaw references {.wp-block-heading}
+### Relevant Bylaw references 
 
 Bylaw 2.3(f) requires:
 
@@ -41,19 +41,19 @@ Bylaw 2.3(f) requires:
 - At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. _This requirement was also met._
 - Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **9**, so quorum was **10 votes** – _quorum was met._
 
-## Ballot FORUM-8: Charter to Establish a Code Signing Certificate Working Group {.wp-block-heading}
+## Ballot FORUM-8: Charter to Establish a Code Signing Certificate Working Group 
 
-### **Purpose of Ballot** {.wp-block-heading}
+### Purpose of Ballot 
 
 It is proposed that the Forum establish a working group to adopt and maintain a policy, framework, and set of standards related to the issuance and management of code signing certificates by a third-party Certificate Issuer, rather than by the platform supplier (i.e. Certificate Consumer) itself. The work would be based on the Forum’s prior adoption of the EV Code Signing Guidelines, version 1.4, (Ballot 172; 5 July 2016), and additional work by Forum members who expressly agreed to operate pursuant to the Forum’s IPR Policy, between 2013 and 2015, which resulted in a failed proposal to adopt a set of baseline requirements for the issuance and management of code signing certificates (; ).
 
 It is proposed by Ben Wilson of DigiCert and endorsed by Mike Reilly of Microsoft and Bruce Morton of Entrust Datacard that the Forum charter a working group to operate in accordance with the Scope and other provisions that follow. This Charter will take effect upon approval of the CAB Forum by ballot conducted in accordance with Bylaw 5.3.
 
-### — BALLOT BEGINS — {.wp-block-heading}
+### — BALLOT BEGINS — 
 
-### Code Signing Certificate Working Group Charter {.wp-block-heading}
+### Code Signing Certificate Working Group Charter 
 
-#### Introduction {.wp-block-heading}
+#### Introduction 
 
 This introduction provides general information and context with an intent to assist the interpretation of this Charter.
 
@@ -65,7 +65,7 @@ The primary use case under consideration for the working group is a model whereb
 
 Other functional models include those which allow developers to self-sign code and those in which the platform supplier manages the code signing or certificate issuance process, and these models are expressly excluded from the working group’s mandate. Common examples of these models that are expressly excluded from the scope of guidelines to be promulgated by the working group are Apple’s Developer ID program and Google’s Android.
 
-#### Chartering of the Code Signing Certificate Working Group {.wp-block-heading}
+#### Chartering of the Code Signing Certificate Working Group 
 
 A Chartered Working Group (“CWG”) is created to perform the activities as specified in this Charter, subject to the terms and conditions of the CA/Browser Forum Bylaws and Intellectual Property Rights (IPR) Policy, as such documents may change from time to time. This charter for the Code Signing Certificate Working Group has been created according to CAB Forum Bylaw 5.3.1. In the event of a conflict between this Charter and any provision in either the Bylaws or the IPR Policy, the provision in the Bylaws or IPR Policy SHALL take precedence. The definitions found in the Forum’s Bylaws SHALL apply to capitalized terms in this Charter.
 
@@ -197,4 +197,4 @@ In accordance with the Forum’s antitrust policy, the CWG Chair will read an an
 
 (e)        The allocation of customers, territories, or products in any way.”
 
-### — MOTION ENDS— {.wp-block-heading}
+### — MOTION ENDS—

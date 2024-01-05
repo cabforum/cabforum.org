@@ -7,13 +7,13 @@ title: Baseline Requirements for TLS Server Certificates
 type: page
 ---
 
-## **Baseline Requirements**
+## Baseline Requirements
 
 ### Current Version
 
 [CA-Browser-Forum BR 2.0.1][1] ([redlined][2]) – adopted by Ballot [SC63][3]
 
-### **Previous Versions**
+### Previous Versions
 
 [CA-Browser-Forum BR 2.0.0][4] ([redlined][5]) – adopted by Ballot [SC62][6]
 

@@ -7,39 +7,39 @@ title: 2019-10-17 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Curt Spann (Apple), Daniela Hood (GoDaddy), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Gordon Bock (Microsoft), Inaba Atsushi (GlobalSign), Jos Purvis (Cisco Systems), Kenneth Myers (US Federal PKI Management Authority), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mike Reilly (Microsoft), Niko Carpenter (SecureTrust), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Scott Rea (Dark Matter), Shelley Brewer (Digicert), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
 ## Minutes
 
-{.wp-block-heading}
+
 
 ### 1. Roll Call
 
-{.wp-block-heading}
+
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-{.wp-block-heading}
+
 
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
-{.wp-block-heading}
+
 
 No changes to the agenda.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
 
-{.wp-block-heading}
+
 
 Doug gave the update. There was a long meeting discussing about LEI, the pros and cons LEI and usefulness. Draft meeting minutes have been circulated on the validation subcommittee list and Doug will need to listen to conversations and send a final version of the minutes.
 
@@ -47,7 +47,7 @@ There is also a ballot in process for method 6.
 
 Finally, the clean up ballot was discussed and has now been circulated to the public list.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Ben reported that there was a call 2 weeks ago. Some edits were made on log retention and log continuous monitoring.
 
@@ -57,13 +57,13 @@ The subcommittee will send an email to the larger group for exceptions related t
 
 Kirk reminded the group that one of the mandate of the subcommittee was to deal with certain portions of the Network Security Requirements for which Members were dissatisfied and that were hard to implement or hard to understand. Ben replied that the subcommittee is working on these items. He also mentioned that these topics come up whenever they try to “touch” sections of the NSRs. For example, when they discussed about network security it was mentioned that this is not limited only to physical segmented networks, it’s also VLANs.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
 No further discussion.
 
 #### Ballots in Discussion Period
 
-{.wp-block-heading}
+
 
 _SC23 Ballot: Precertificates and OCSP_ (Wayne)
 
@@ -82,17 +82,17 @@ Kirk asked why can’t we fix only the OCSP section to allow for CAs to issue go
 
 There was more discussion describing the issues related to the two proposals (allow for “good” OCSP responses for precertificates, or treat precertificates as certificates). Ryan suggested that we try to solve both but they can be treated separately. He suggested we try to solve the first problem (allow for “good” OCSP responses for precertificates) and defer the other (treat pre-certificates as certificates). He recommended working on 4.9.10 to fix the first issue without “touching” 7.1.2.5 and work on the “holistic” issue later. He will work on some draft language to send to the list. Mike seconded that this approach would be useful. Wayne was indifferent but mentioned that the discussion about what a precertificate is would take longer. Ryan said he would send a more “targeted” change to the OCSP issue and Wayne said he would need to discuss with the other endorsers as this is a different approach than the original one.
 
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Voting Period 
 
 None
 
-#### Ballots in Review Period {.wp-block-heading}
+#### Ballots in Review Period 
 
 _SC21: NSR section 3 (Log Integrity Controls)(Review until Nov 3, 2019)_
 
 #### Draft Ballots under Consideration
 
-{.wp-block-heading}
+
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments
@@ -132,16 +132,16 @@ Finally, Ryan mentioned about another discussion on the mailing list regarding t
 
 ### 8. F2F 48 Agenda
 
-{.wp-block-heading}
+
 
 The draft agenda is up on the wiki. Dimitris already announced the guest speakers. Any changes should be communicated by the next meeting so we can approve the agenda. There was no further feedback from participants.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 None.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 October 31, 2019 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

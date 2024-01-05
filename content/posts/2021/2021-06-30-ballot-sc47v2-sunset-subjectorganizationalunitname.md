@@ -11,7 +11,7 @@ type: post
 
 The voting on ballot SC47v2 has completed, and the ballot has **passed**.
 
-## **Voting Results** {.wp-block-heading}
+## Voting Results 
 
 **Certificate Issuers**
 
@@ -48,7 +48,7 @@ _This requirement was MET_.
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Purpose of Ballot: {.wp-block-heading}
+## Purpose of Ballot: 
 
 This Ballot sets a sunset date for the `subject:organizationalUnitName` as several earlier attempts to strengthen the validation failed to gain consensus.
 

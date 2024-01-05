@@ -9,31 +9,31 @@ title: 2022-03-16 Minutes of the S/MIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG {.wp-block-heading}
+## Minutes of SMCWG 
 
 March 16, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees {.wp-block-heading}
+### Attendees 
 
 Adrian Mueller (SwissSign), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Cade Cairns (Google), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Eusebio Herrera (AC Camerfirma SA), Fotis Loukos (Google), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jamie Mackey (US Federal PKI Management Authority), Joanna Fox (TrustCor Systems), Khairil Nizam Abdul Malek (MSC Trustgate Sdn Bhd), Martijn Katerbarg (Sectigo), Mauricio Fernandez (TeleTrust), Morad Abou Naser (TeleTrust), Mrugesh Chandarana (IdenTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tsung-Min Kuo (Chunghwa Telecom)
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
-### 4. Approval of minutes from last teleconference {.wp-block-heading}
+### 4. Approval of minutes from last teleconference 
 
 The minutes of the March 2 teleconference were approved. The minutes from the F2F will be separately distributed.
 
-### 5. Discussion {.wp-block-heading}
+### 5. Discussion 
 
 The draft S/MIME Baseline Requirements is available at
 
@@ -59,12 +59,12 @@ Stephen proposed text: “If present, the Personal Name SHALL contain a name of 
 
 In closing minutes of the call, Stephen noted the issues with subject:pseudonyms. Currently the Sponsor- validated and Individual-validated profiles allowed the attribute but only if validated from official ID. This is a very limited use as only German national IDs appear to have pseudonyms. He did not believe the use extended to general unverified names like roles. Russ Housely suggested that on the sponsor-validated profile the left hand labels of an email address might be considered as an acceptable pseudonym. It was agreed further discussion was required.
 
-### 6. Any Other Business {.wp-block-heading}
+### 6. Any Other Business 
 
 None
 
-### 7. Next call {.wp-block-heading}
+### 7. Next call 
 
 Next call: Wednesday, March 30, 2022 at 11 a.m. US Eastern.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

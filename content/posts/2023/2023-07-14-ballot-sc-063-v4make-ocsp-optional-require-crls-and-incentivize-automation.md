@@ -42,7 +42,7 @@ type: post
 
 # Ballot Contents
 
-## **Purpose of Ballot SC-063**
+## Purpose of Ballot SC-063
 
 This Ballot proposes updates to the _Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates_ related to making Online Certificate Status Protocol (OCSP) services optional for CAs. This proposal does not prohibit or otherwise restrict CAs who choose to continue supporting OCSP from doing so. If CAs continue supporting OCSP, the same requirements apply as they exist today.
 
@@ -76,7 +76,7 @@ Proposal Revision History:
 
 The following motion has been proposed by Ryan Dickson and Chris Clements of Google (Chrome Root Program) and endorsed by Kiran Tummala of Microsoft and Tim Callan of Sectigo.
 
-## **— Motion Begins —**
+## — Motion Begins —
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 2.0.0.
 
@@ -84,16 +84,16 @@ MODIFY the Baseline Requirements as specified in the following Redline:
 
 [https://github.com/cabforum/servercert/compare/a0360b61e73476959220dc328e3b68d0224fa0b3..b8a0453e59ff342779d5083f2f1f8b8b5930a66a][7]
 
-## **— Motion Ends —**
+## — Motion Ends —
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-# **Discussion (13+ days)**
+# Discussion (13+ days)
 
 - Start time: 2023-06-22 20:30:00 UTC
 - End time: 2023-07-06 15:59:59 UTC
 
-# **Vote for approval (7 days)**
+# Vote for approval (7 days)
 
 - Start time: 2023-07-06 16:00:00 UTC
 - End time: 2023-07-13 16:00:00 UTC

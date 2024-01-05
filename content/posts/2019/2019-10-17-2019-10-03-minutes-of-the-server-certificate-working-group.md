@@ -7,43 +7,43 @@ title: 2019-10-03 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Gordon Bock (Microsoft), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Kenneth Myers (US Federal PKI Management Authority), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
 ## Minutes
 
-{.wp-block-heading}
+
 
 ### 1. Roll Call
 
-{.wp-block-heading}
+
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-{.wp-block-heading}
+
 
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
-{.wp-block-heading}
+
 
 No changes to the agenda.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
 
-{.wp-block-heading}
+
 
 The subcommittee did not meet since the last meeting so there was no update.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Ben reported that SC21 is in the final stage of voting. He mentioned that some of the sub-groups met last week and they continue drafting ballots. Dimitris asked about SC20 and if there is any further progress and Ben said the sub-group is working on that and will update the ballot soon.
 
@@ -59,27 +59,27 @@ Tobi continued to discuss about SC21 and mentioned that in some cases it is hard
 
 Ryan clarified that the expectation is not to include all the detailed discussions in the ballot introduction. It seems there were fascinating discussions (hearing from auditors, hearing from CAs on the challenges to implement these proposed changes and confusions with their auditors) in the subcommittee around SC21 that should be captured in minutes and these minutes could be referenced as pointers in the ballot introduction. He emphasized that real world cases would be extremely useful to be captured in minutes.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
 No further discussion.
 
 #### Ballots in Discussion Period
 
-{.wp-block-heading}
+
 
 _None_
 
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Voting Period 
 
 _SC21 Ballot (NSR 3): Log Integrity Controls_ (Ben)
 
-#### Ballots in Review Period {.wp-block-heading}
+#### Ballots in Review Period 
 
 _None_
 
 #### Draft Ballots under Consideration
 
-{.wp-block-heading}
+
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments
@@ -94,16 +94,16 @@ Wayne explained that in order to understand this ballot one would have to go ba
 
 ### 8. F2F 48 Agenda
 
-{.wp-block-heading}
+
 
 The draft agenda is up on the wiki. Dimitris said that other than the typical slots we have no special topics to discuss. He reminded participants that the F2F meetings are a great opportunity to discuss in person some of the more controversial topics which are difficult to resolve via the mailing lists. Members are requested to check and propose new items to discuss at the F2F.
 
-### 9. Any Other Business {.wp-block-heading}
+### 9. Any Other Business 
 
 Dimitris sent out an email to the management list for the photo policy. It would be a topic to discuss at the F2F and hopefully by the end of that meeting the Forum would have a clear way forward.
 
-### 10. Next call {.wp-block-heading}
+### 10. Next call 
 
 October 17, 2019 at 11:00 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

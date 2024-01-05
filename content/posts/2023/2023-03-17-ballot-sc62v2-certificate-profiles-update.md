@@ -42,7 +42,7 @@ type: post
 
 # Ballot Contents
 
-## **Purpose of Ballot SC-062 V2**
+## Purpose of Ballot SC-062 V2
 
 Over the past three years, members of the Server Certificate Working Group Validation Subcommittee have collaborated on an update to the _Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates_ focused on improving the clarity of Section 7 (“Certificate, CRL, and OCSP Profiles”).
 
@@ -80,12 +80,12 @@ MODIFY the Baseline Requirements as specified in the following Redline: [https:/
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-# **Discussion (11+ days)**
+# Discussion (11+ days)
 
 - Start time: 2023-02-17 19:00:00 UTC
 - End time: 2023-03-09 18:59:00 UTC
 
-# **Vote for approval (7 days)**
+# Vote for approval (7 days)
 
 - Start time: 2023-03-09 19:00:00 UTC
 - End time: 2023-03-16 19:00:00 UTC

@@ -9,53 +9,53 @@ type: post
 
 Minutes of the F2F 49 Meeting in Bratislava, Slovakia, 19-20 February 2020
 
-## CA/B Forum Plenary {#cab_forum_plenary.wp-block-heading}
+## CA/B Forum Plenary 
 
 **Attendees:** Peter Miškovič, Dean Coclin, Nick France, Arvid Vermote, Dimitris Zacharopoulos, Jeff Ward, Don Sheehy, Clemens Wanko, Ryan Sleevi, Tadahiko Ito, Trevoli Ponds-White, Atsushi Inaba, Chris Bailey, Kirk Hall, Jos Purvis, Clint Wilson, Mike Reilly, Karina Sirota, Arno Fiedler, Mads Henriksveen, Sissel Hoel, Vijay Kumar M, Srinivasan V, Tomas Gustavsson, Mike Kushner, Matthias Wiedenhorst, Dustin Hollenback, Doug Beattie, Wayne Thayer, Corey Bonnell, Joris Minolla, Enrico Entschew, Tobias Josefowitz, Robin Alden, Mariusz Kondratowicz, Neil Dunbar, Jeremy Rowley, Tim Callan, Leo Grove, Thanos Vrachnos, Pedro Fuentes, Anna Sikorska, Paulina Karwowska, Devon O’Brien, Eva Van Steenberge, Nikolaos Soumelidis, J.P. Hamilton, Arnold Essing, Derek Bronson
 
-### Approval of Minutes from previous teleconference {#approval_of_minutes_from_previous_teleconference.wp-block-heading}
+### Approval of Minutes from previous teleconference 
 
 The minutes were approved.
 
-### Report from Code Signing WG {#report_from_code_signing_wg.wp-block-heading}
+### Report from Code Signing WG 
 
 _Presenter:_ Dean Coclin (Digicert) Bruce Morton (Entrust Datacard)
 _Note Taker:_ Dustin Hollenback (Microsoft)
 
-#### Minor Ballot Changes {.wp-block-heading}
+#### Minor Ballot Changes 
 
 - There is a pre-ballot out to make minor changes to the code signing working group charter. A forum level ballot will be presented shortly.
 
-#### CSCWG Summit {.wp-block-heading}
+#### CSCWG Summit 
 
 - An in-person summit for EV code signing guidelines will be held at Microsoft
 - Microsoft will bring some Code Signing Certificate subject matter experts.
 
-#### Cloud Based HSMs {.wp-block-heading}
+#### Cloud Based HSMs 
 
 - Tomas Gustavsson provided the working group with some comments about Cloud based HSMs and how to prove attestation of private key.
 
-#### New Member {.wp-block-heading}
+#### New Member 
 
 - There is a potential new member to the group and more information will be provided later.
 
-#### Document updates {.wp-block-heading}
+#### Document updates 
 
 - 16.3 in BRs updates needed
 - 16.4 in EV guideline updates needed
 
-#### Upcoming Meetings {.wp-block-heading}
+#### Upcoming Meetings 
 
 - No call next week due to RSA.
 - There will be another call just before the summit.
 - In-person summit scheduled for Wednesday, March 18th.
 
-#### Discussions {.wp-block-heading}
+#### Discussions 
 
 - Robin Alden asked what is the Code Signing Certificate Working Group aiming at in terms of guidelines. Do we know if we are going to create one document or maintaining two separate documents?
 - Dean Coclin said that the goal is to get to one document, but will differentiate between normal and EV validation.
 
-### Report from Forum Infrastructure subcommittee {#report_from_forum_infrastructure_subcommittee.wp-block-heading}
+### Report from Forum Infrastructure subcommittee 
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note Taker:_ Ryan Sleevi (Google)
@@ -69,12 +69,12 @@ _Note Taker:_ Ryan Sleevi (Google)
 - Wayne: We didn’t discuss this, but it came up later. The ballot to move the canonical version of the documents from the Word document to GitHub
 - Jos: One ballot in the way that needs to be described in the ballot as to how to account for, but likely to have an update in a few weeks
 
-### Creation of Additional Groups – Secure Mail {#creation_of_additional_groups\_-\_secure_mail.wp-block-heading}
+### Creation of Additional Groups – Secure Mail 
 
 _Presenters:_ Wayne Thayer (Mozilla)
 _Note Taker:_ Clint Wilson (Apple)
 
-#### Background Review {.wp-block-heading}
+#### Background Review 
 
 - Wayne: I guess I’m the Tim and Wayne show.
 - I guess it might be worthwhile to summarize where we’ve been. We’ve had discussions for creating an S/MIME BRs for a long time now. It was blocked way back to 2016 by forum infrastructure subcommittee.
@@ -86,7 +86,7 @@ _Note Taker:_ Clint Wilson (Apple)
 - It was put to a ballot and it failed. Partially due to comments late in the discussion period that weren’t fully understood. Also some unaddressed comments from long prior.
 - Since then, Tim has been working with Clint to address some of those issues. Thank you to Clint for giving a very clear description of the concerns. Tim sent out an email yesterday addressing some of those concerns brought up by Apple.
 
-#### Recent Concerns Overview {.wp-block-heading}
+#### Recent Concerns Overview 
 
 - Some of the concerns that I’m aware of
 - The ballot includes membership as certificate consumers mail transfer agents. It’s been removed, I believe.
@@ -97,7 +97,7 @@ _Note Taker:_ Clint Wilson (Apple)
 - So the quesiton again is whether we want to improve this now as part of the S/MIME wg formation or not.
 - At this point I’d like to open it up to discussion, to see if there are any additional comments.
 
-#### Discussion {.wp-block-heading}
+#### Discussion 
 
 - Dimitris: The way I understand this chicken and egg problem is at the bootstrapping meeting we’ll have potential consumers and issuers, we can have a structure for having consumers announce and then have the issuers join as well.
 - Ryan: A much easier solution, it’s unclear why a consumer needs to trust an issuer in order to join. Beyond bootstrapping issues, there are concerns with why consumers trust an issuer as membership and whether that affects their ability to distrust an issuer. An easier solution is simply to remove the circular dependency. This could be for both consumers and issuers. Considering this is a bit greendfield, we could just allow consumers and issuers to join. So we could solve this issue just by having a more open charter.
@@ -117,7 +117,7 @@ _Note Taker:_ Clint Wilson (Apple)
 
 Next steps: Clint will send out an email, Tim will send around another draft.
 
-### Addressing previously discussed Bylaws issues {#addressing_previously_discussed_bylaws_issues.wp-block-heading}
+### Addressing previously discussed Bylaws issues 
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Wayne Thayer (Mozilla)
@@ -156,7 +156,7 @@ Robin – yes [1]
 
 [2]
 
-### Bylaws open issues {#bylaws_open_issues.wp-block-heading}
+### Bylaws open issues 
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Wayne Thayer (Mozilla)
@@ -242,25 +242,25 @@ Devon – bad idea to be binding to a software version. Dynamically updating tru
 
 Wayne – sounds like this is an acceptable idea and we just need to work out the details. We should include language that assigns the determination to the Certificate Consumers.
 
-### Code Signing Formats – an overview of some of the different code signing formats used in the wild {#code_signing_formats\_-\_an_overview_of_some_of_the_different_code_signing_formats_used_in_the_wild.wp-block-heading}
+### Code Signing Formats – an overview of some of the different code signing formats used in the wild 
 
 _Presenters:_ Tomas Gustavsson (PrimeKey)
 _Presentation:_ [Code Signing Formats][2]
 
-## Server Certificate WG Plenary {#server_certificate_wg_plenary.wp-block-heading}
+## Server Certificate WG Plenary 
 
 **Attendees:** _List identical to CA/B Forum Plenary above_
 
-### Approval of SCWG Minutes from last teleconference {#approval_of_scwg_minutes_from_last_teleconference.wp-block-heading}
+### Approval of SCWG Minutes from last teleconference 
 
 The minutes were approved.
 
-### Apple Root Program Update {#apple_root_program_update.wp-block-heading}
+### Apple Root Program Update 
 
 _Presenter:_ Clint Wilson (Apple)
 _Note Taker:_ Enrico Entschew (D-Trust)
 
-#### Root Program {.wp-block-heading}
+#### Root Program 
 
 - Clint Wilson introduced himself as new contact person at Apple Root Store Program
 - Started at Apple in November 2019, previously worked at DigiCert for 6 years
@@ -269,20 +269,20 @@ _Note Taker:_ Enrico Entschew (D-Trust)
 - Similar like Mozilla and Microsoft there will be some Apple specific fields in the CCADB in the future
 - Program priorities: Priority is on managing the roots that are already present in the root store; root inclusion requests coming after that
 
-#### Certificate Transparency {.wp-block-heading}
+#### Certificate Transparency 
 
 - Apple has a certificate transparency policy. It’s pretty stable and been working well.
 - Most of the work in the last year is been lifecycle operations (monitoring CT policy, mailing list, onboarding new logs etc.)
 - Apple does have a call for those interested being log operator. Apple is interested in expanding the CT ecosystem. Feedback around from the CT policy participation would be welcomed.
 
-#### Extended Validation {.wp-block-heading}
+#### Extended Validation 
 
 - Pretty near feature release: Change to the UI around EV certificates.
 - OV and DV certificates will stay the same
 - Basically the Base Domain Name is displayed. By clicking you see the rest of the URL. There is a little lock. Right now both are in green. Apple is changing those to be white.
 - The place of showing the company name will remain unchanged.
 
-#### Certificate Lifecycle {.wp-block-heading}
+#### Certificate Lifecycle 
 
 - History of certificate lifetimes changes: Ballot 185 –> first attempt to reduce lifetime to 1 year (from 3 years); failed, Ballot SC22 –> second attempt to reduce the lifetime to 1 year (from 2 years)
 - Ballot SC22 failed.
@@ -294,7 +294,7 @@ _Note Taker:_ Enrico Entschew (D-Trust)
 - Enforcement date: Later 2020
 - Apple is going to be publishing a KB article later that has these details and a little bit more.
 
-#### Summary {.wp-block-heading}
+#### Summary 
 
 - Clint is now part of the Apple root program
 - If you have feedback or questions: ClintW@apple.com
@@ -302,7 +302,7 @@ _Note Taker:_ Enrico Entschew (D-Trust)
 - Apple is going to have an update on the UI.
 - Apple is going to have an update around certificate lifetimes
 
-#### Questions {.wp-block-heading}
+#### Questions 
 
 1. Doug, Globalsign: What are you planning to do to change the UI for certificates issued after the September, 1st 2020 that have a 2-year validity period? What’s your intent?
 
@@ -332,7 +332,7 @@ Answer: Yes, we just key off the notBefore value, September, 1st midnight UTC.
 
 _Presentation:_ [Apple Root Program Update][3]
 
-### Google Root Program Update {#google_root_program_update.wp-block-heading}
+### Google Root Program Update 
 
 _Presenter:_ Devon O’Brien (Google)
 _Note Taker:_ Mads Henriksveen (Buypass)
@@ -350,7 +350,7 @@ Devon: New York in September has been suggested
 Wayne: Comments regarding the Apple announcement regarding shorter lifetime?
 Devon: Google supports Apple’s initiative, will give an update as soon as we have a firm stand on this matter.
 
-### Microsoft Root Program Update {#microsoft_root_program_update.wp-block-heading}
+### Microsoft Root Program Update 
 
 _Presenter:_ Mike Reilly (Microsoft)
 _Note Taker:_ Eva Van Steenberge (Globalsign)
@@ -387,11 +387,11 @@ Mike: This is pulled from Chromium. Still looking at it internally.
 
 Voted to reduce lifespans. Take a look at what Apple is doing. More updates to follow. Happy to answer any questions.
 
-### Cisco Root Program Update {#cisco_root_program_update.wp-block-heading}
+### Cisco Root Program Update 
 
 No update this time! 🙂 No questions for Cisco either.
 
-### Mozilla Root Program Update {#mozilla_root_program_update.wp-block-heading}
+### Mozilla Root Program Update 
 
 _Presenter:_ Wayne Thayer (Mozilla)
 _Note Taker:_ Neil Dunbar (Trustcor)
@@ -433,17 +433,17 @@ Firefox Nightly has Intermediate Preloading (which is required for CRLite to fun
 
 _TLS Deprecation_: TLS versions 1.0 and 1.1 are being deprecated. Firefox 74, expected on March 10th, 2020 will have an error message if deprecated TLS is detected. Eventually this will be a hard failure. Users can override the error via a configuration setting if so desired.
 
-### CCADB Update {#ccadb_update.wp-block-heading}
+### CCADB Update 
 
 _Presenter:_ Karina Sirota (Microsoft)
 _Note Taker:_ Devon O’Brien (Google)
 _Presentation:_ [CCADB Update][8]
 
-#### Presentation {.wp-block-heading}
+#### Presentation 
 
 Section 5.1 added to CCADB policy to include what information must appear in audit statements. CAs and Auditors both need to be aware of this. [1]
 
-#### ALV for intermediate CA certificates {.wp-block-heading}
+#### ALV for intermediate CA certificates 
 
 - CCADB started implementing ALV for intermediate CAs recently
 - ALV is an automated tool to read audit letters & attestations and extract certain information from them
@@ -456,7 +456,7 @@ CCADB is working on adding support for multiple CP/CPS urls for CAs, whereas onl
 
 - Soliciting volunteers from CAs to test this functionality in CCADB Sandbox to provide feedback on this
 
-#### Discussion {.wp-block-heading}
+#### Discussion 
 
 **Dimitris Zacharopoulos (Harica):** If we have an audit report that includes all the CAs that are in scope for various root programs, but also CAs for private PKIs, will this cause a problem with ALV?
 
@@ -470,7 +470,7 @@ CCADB is working on adding support for multiple CP/CPS urls for CAs, whereas onl
 
 **Mike Reilly (Microsoft):** ALV was created by Mike’s predecessor due to the volume of audits and we have a thousand audits with one person reading them. There are still the manual checks, but the desire is to give a tool that aids this one person in performing this job. CCADB has a list of plans to implement, and we can add to that over time. [1]
 
-### Report from SCWG Network Security Subcommittee {#report_from_scwg_network_security_subcommittee.wp-block-heading}
+### Report from SCWG Network Security Subcommittee 
 
 _Presenter:_ Neil Dunbar (Trustcor)
 _Minute Taker:_ Mariusz Kondratowicz (Opera) _Presentation:_ [Network Subcommittee Update][9]
@@ -501,7 +501,7 @@ Current ballots:
 - SCXY (1) – not enough endorses, it is postponed
 - SCXY (2) –
 
-#### Threat Modeling group {#threat_modeling_group.wp-block-heading}
+#### Threat Modeling group 
 
 Currently we are continuing Threat Modeling process, we are in the Phase “Threat Analysis” after preparing DFDs and decomposition of them. Detailed statistics regarding TM was showed on the slide. Plans for future:
 
@@ -511,11 +511,11 @@ Currently we are continuing Threat Modeling process, we are in the Phase “Thre
 - Build new checklists
 - Provide ballots for NSR based on findings
 
-#### Document Structuring {#document_structuring.wp-block-heading}
+#### Document Structuring 
 
 Looking to make NSRs a more logical in the matter of structure by analyzing other framework and good practices e.g. NIST Cybersecurity Core Framework
 
-#### Other matters {#other_matters.wp-block-heading}
+#### Other matters 
 
 There was a heads-up about definition of CVSS. There is an prepared ballot which we change a definition to one proposed by NVD.
 
@@ -541,23 +541,23 @@ D: Any updates regarding the discussion about Change Management which we had yes
 
 N: Yes, there is one update. The answer for the question about whether the Patch Management will be a part of ballot or not, is yes. It is consider as change. As Ryan brought up a topic about blindly accepting patches, we agree that it is rather not proper approach to accept all the changes without looking into that. So in fact, there is a process of change management in context of Patch Management. However, it is not an intention to make it granular and accept all the changes one by one like Patch 1, Patch 2 and acceptance process for all of them. But it has to be some rules which we follow in this context.
 
-### Report from SCWG Validation Subcommittee {#report_from_scwg_validation_subcommittee.wp-block-heading}
+### Report from SCWG Validation Subcommittee 
 
 _Presenter:_ Wayne Thayer (Mozilla)
 _Minute Taker:_ Doug Beattie (Globalsign)
 _Presentation:_ [Validation Subcommittee Update][10]
 
-#### Recent accomplishments {.wp-block-heading}
+#### Recent accomplishments 
 
 - Ballot SC25 passed and will become effective around June 1
 - Ballot SC27, Onion certificates is in voting periods. It looks like it will pass.
 
-#### Defining the source for state and province standard name formats {.wp-block-heading}
+#### Defining the source for state and province standard name formats 
 
 - Use of ISO3166-2 as source, not easy for all regions
 - We need to look into local language and representations of regions and take that into account
 
-#### Discloser of validation sources {.wp-block-heading}
+#### Discloser of validation sources 
 
 - All sources? QGIS, QIIS?
 - The focus has evolved this week to being focused on listing Jurisdiction of Incorporation registration agencies, and not necessarily the systems which CAs used to get the information that was created by those Registration Agencies.
@@ -565,13 +565,13 @@ _Presentation:_ [Validation Subcommittee Update][10]
 - Open questions: How would we use it? How would we keep an allowed list updated? Need to have flexibility for some period while waiting for update to happen.
 - Made progress on understanding what the problem is and what data is being requested. We’ll work on this more in Validation Subcommittee
 
-#### OU field discussions {.wp-block-heading}
+#### OU field discussions 
 
 - Is the OU field allowed in DV?
 - Are OU values in OV required to be consistent with rest of subject, or can they just not be misleading
 - The action is to re-write that section
 
-#### EV Improvement {.wp-block-heading}
+#### EV Improvement 
 
 - Include LEIs: Did not discuss. Tim is working on ballot
 - We discussed two possible enhancements to CAA:
@@ -579,20 +579,20 @@ _Presentation:_ [Validation Subcommittee Update][10]
 - Domain validation method specification: Permit domain owner to 1) specify email/DNS/HTTP higher level validation methods, or 2) let customer specify a specific method
 - The second option will be harder to update with new methods similar to existing ones are added because it means lots of DNS updates which may reduce the incentive to create new methods. Did not rule it out, but it’s a hard problem.
 
-#### Future work items for Validation Subcommittee {.wp-block-heading}
+#### Future work items for Validation Subcommittee 
 
 - Default Deny interpretation. Do we want to tackle as new WG, or in Validation Subcommittee.
 - We could take to ballot, or we can have group update document and comment. Action was to come up with a way to break down the work.
 - We could start by looking at enumerated lists: Are they interpreted correctly?
 - This will be a priority for Validation Subcommittee over the next few months.
 
-# Thursday, 20 February 2020 – Plenary Meeting (Day 2) {#thursday_20_february_2020\_-\_plenary_meeting_day_2.wp-block-heading}
+# Thursday, 20 February 2020 – Plenary Meeting (Day 2) 
 
 **Attendees:** Peter Miškovič, Dean Coclin, Nick France, Arvid Vermote, Dimitris Zacharopoulos, Jeff Ward, Don Sheehy, Clemens Wanko, Tadahiko Ito, Trevoli Ponds-White, Atsushi Inaba, Chris Bailey, Kirk Hall, Jos Purvis, Clint Wilson, Mike Reilly, Karina Sirota, Arno Fiedler, Mads Henriksveen, Sissel Hoel, Vijay Kumar M, Srinivasan V, Tomas Gustavsson, Mike Kushner, Matthias Wiedenhorst, Dustin Hollenback, Doug Beattie, Wayne Thayer, Corey Bonnell, Enrico Entschew, Tobias Josefowitz, Robin Alden Mariusz Kondratowicz, Neil Dunbar, Jeremy Rowley, Tim Callan, Leo Grove, Thanos Vrachnos, Pedro Fuentes, Anna Sikorska, Paulina Karwowska, Eva Van Steenberge, Nikolaos Soumelidis, J.P. Hamilton, Arnold Essing, Derek Bronson, Alesandra Kapinos
 
-## Server Certificate Working Group {#server_certificate_working_group1.wp-block-heading}
+## Server Certificate Working Group 
 
-### Report from Quantum Cryptography liaisons {#report_from_quantum_cryptography_liaisons.wp-block-heading}
+### Report from Quantum Cryptography liaisons 
 
 _Presenter:_ Tadahiko Ito (Secom)
 _Note Taker:_ Tobias Josefowitz (Opera)
@@ -654,7 +654,7 @@ Dimitris: But in the RFC it is an enumeration.
 
 A: It seems RFC is not default deny. It was just not defined, depends on interpretation.
 
-### Jurisdiction Of Incorporation in Private Organizations (e.g. Germany), definitions and expectations {#jurisdiction_of_incorporation_in_private_organizations_eg_germany_definitions_and_expectations.wp-block-heading}
+### Jurisdiction Of Incorporation in Private Organizations (e.g. Germany), definitions and expectations 
 
 _Presenter:_ Robin Alden (Sectigo)
 _Note Taker:_ Wayne Thayer (Mozilla)
@@ -740,12 +740,12 @@ Dimitris said that we should still create the list, but here we are challenging 
 
 Robin said that not all companies get a VAT number.
 
-### Guest Speaker – Analysis and use of RSA keypair generation bias {#guest_speaker\_-\_analysis_and_use_of_rsa_keypair_generation_bias.wp-block-heading}
+### Guest Speaker – Analysis and use of RSA keypair generation bias 
 
 _Presenter:_ Assistant Prof. Marek Sys (Department of Computer Systems and Communications, Brno University)
 _Presentation:_ [Analysis and use of RSA keypair generation bias][13]
 
-### ETSI Update {#etsi_update.wp-block-heading}
+### ETSI Update 
 
 _Presenter:_ Arno Fiedler (ETSI ESI)
 _Note Taker:_ Matthias Wiedenhorst (ACAB’c / TÜViT)
@@ -779,18 +779,18 @@ Chris: Is there a requirement to accept identification system from one country i
 
 Arno: Only if it is a notified eID system
 
-### ACAB’c Update {#acab_c_update.wp-block-heading}
+### ACAB’c Update 
 
 _Presenter:_ Matthias Wiedenhorst (TÜViT), Clemens Wanko (TÜV Trust IT)
 _Note Taker:_ Aleksandra Kapinos (Asseco Data Systems S.A.)
 _Presentation:_ [ACABc Update][15]
 
-#### Agenda {.wp-block-heading}
+#### Agenda 
 
 1. The Accredited Conformity Assessment Bodies Council
 1. ETSI qualified certificate policies and EV treatment
 
-#### Questions {.wp-block-heading}
+#### Questions 
 
 **Dimitris:** If the audit attestation lists except for EVCP it also includes NCP. It’s that a problem? So the auditor decision will say the audit included QCP-w with the scope of EVCP, OVCP, DVCP, NCP, whatever, all of these. More specific scopes, would that be a problem? For being accepted?
 
@@ -844,23 +844,23 @@ We expect that it’s a feature and not a problem. Even it’s a problem we shal
 
 **Dimitris:** But not is a QWAC.
 
-### WebTrust Update {#webtrust_update.wp-block-heading}
+### WebTrust Update 
 
 _Presenters:_ Jeff Ward (BDO), Don Sheehy (CPA Canada)
 _Minute Taker:_ Corey Bonnell (SecureTrust)
 _Presentation:_ [WebTrust Update][16]
 _Sample detailed report:_ [Sample detailed report][17]
 
-#### WebTrust Update {.wp-block-heading}
+#### WebTrust Update 
 
 There’s not much of an update vs. November update
 
-#### WETSI {.wp-block-heading}
+#### WETSI 
 
 - How can we work together?
 - Better mutual understanding of the frameworks and rules
 
-#### Detailed Controls Reporting {.wp-block-heading}
+#### Detailed Controls Reporting 
 
 - Revealed at Greece last year
 - Draft made available to interested parties last fall. A few companies wanted to develop the report for internal purposes. Was worried there was too much detail, but companies wanted more. Modified based on feedback.
@@ -911,13 +911,13 @@ A: Jeff: The summarized report is needed for the Seal (a Microsoft root program 
 
 The list of auditors may not be complete, as auditors in other countries may be able to perform audits if they are licensed as a CPA in that country. Establishment of stronger enrollment licensing and agreements with practitioners.
 
-### Proposal for potential changes to QWACs {#proposal_for_potential_changes_to_qwacs.wp-block-heading}
+### Proposal for potential changes to QWACs 
 
 _Presenters:_ Mike Reilly (Microsoft)
 _Minute Taker:_ Sissel Hoel (Buypass)
 _Presentation:_ [QWAC Presentation][18]
 
-#### Notes other than the presentation {.wp-block-heading}
+#### Notes other than the presentation 
 
 **Purpose and agenda:
 ** An email has been sent on Server Cert Working Group public list ran on Microsoft’s and the EC working group’s behalf on Jan. 15th. It is pretty well documented, what the working group put together -pretty self- explanatory. There’s a Q&A section at the end so I encourage everyone to take a look at that.
@@ -984,7 +984,7 @@ Dimitris: I will make my question a little clearer. I didn’t understand what k
 
 Mike: Any feedback is fine. They are not very specific to today’s CA operations – and some of this would operate outside of TLS. Just wanted to share and give transparency from the EC Working Group.
 
-### Creating a more intuitive method of displaying secure sites to internet users {#creating_a_more_intuitive_method_of_displaying_secure_sites_to_internet_users.wp-block-heading}
+### Creating a more intuitive method of displaying secure sites to internet users 
 
 _Presenter:_ Chris Bailey (Entrust Datacard)
 _Note Taker:_ Trevoli Ponds-White (Amazon)
@@ -1018,11 +1018,11 @@ Dimitris (HARICA) – Utilitizing GDPR…
 
 Chris (Entrust) – There are number of OV sites such as CDNs that include many customer URLs in the SANs where the organization shown in the O field of the OV certificate does not control the content of the customer URLs in the SANs, and some of the customer URLs are flagged for phishing. This is the main reason why some OV certificates are flagged for phishing. We think the BRs should be amended so that a CA may not issue an OV certificate to an organization unless the organization controls the content of all the URLs in the SANs – so that OV certificates could not be issued to CDNs that simply list their customer URLs. That should greatly reduce the number of OV phishing sites.
 
-### Special Challenges and concerns for Certification Authorities located in Europe {#special_challenges_and_concerns_for_certification_authorities_located_in_europe.wp-block-heading}
+### Special Challenges and concerns for Certification Authorities located in Europe 
 
 _This topic was cancelled._
 
-### Better Alignment of Remedies with BR Violations {#better_alignment_of_remedies_with_br_violations.wp-block-heading}
+### Better Alignment of Remedies with BR Violations 
 
 _Presenters:_ Tim Callan (Sectigo)
 _Minute Taker:_ Jos Purvis (Cisco)
@@ -1082,9 +1082,9 @@ Mike @ MSFT: For our root program, we’re as strong as our weakest CA that usua
 Tim: Would there be the possibility for this working, with you enforcing deadlines selectively?
 Mike: Absolutely. We think this is a good thing to be working toward.
 
-### Any Other Business {#any_other_business.wp-block-heading}
+### Any Other Business 
 
-#### Questions on Apple’s 398 Day Max Validity Policy change {#questions_on_apple_s_398_day_max_validity_policy_change.wp-block-heading}
+#### Questions on Apple’s 398 Day Max Validity Policy change 
 
 _Presenter:_ Chris Bailey (Entrust)
 _Minute Taker:_ Wayne Thayer (Mozilla)
@@ -1129,7 +1129,7 @@ Jeremy – if a CA doesn’t care about Apple recognition, can they continue to 
 
 Clint – CT is a policy for Subscribers. This is a policy for CAs. They can’t remain compliant with Apple policy and issue publicly-trusted certs with a validity period >398 days.
 
-#### Questions on maintaining SCWG Membership {#questions_on_maintaining_scwg_membership.wp-block-heading}
+#### Questions on maintaining SCWG Membership 
 
 _Presenter:_ Dean Coclin (Digicert)
 _Minute Taker:_ Dimitris Zacharopoulos (HARICA)
@@ -1138,7 +1138,7 @@ Dean received some questions related to membership in the Server Certificate Wor
 
 He stated that this information along with the procedure is included in the SCWG charter and read some of the procedures described in the charter. He suggested people review it for further information.
 
-### Arrangements for Next Meeting {#arrangements_for_next_meeting.wp-block-heading}
+### Arrangements for Next Meeting 
 
 Next F2F meeting is taking place June 9-11 in Mineapolis, hosted by OATI.
 

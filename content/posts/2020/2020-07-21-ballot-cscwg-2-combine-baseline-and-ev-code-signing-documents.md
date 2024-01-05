@@ -9,11 +9,11 @@ title: 'Ballot CSCWG-2: Combine Baseline and EV Code Signing Documents'
 type: post
 ---
 
-## Ballot Results {.wp-block-heading}
+## Ballot Results 
 
 Voting on Ballot CSCWG-2 has ended and the results are below:
 
-### Certificate Issuers {.wp-block-heading}
+### Certificate Issuers 
 
 Votes in Favor: (10) Actalis, Sectigo, DigiCert, eMudhra, Entrust Datacard, GDCA, GlobalSign, GoDaddy, SSL.com
 
@@ -21,7 +21,7 @@ Votes opposed: None
 
 Abstentions: None
 
-### Certificate Consumers {.wp-block-heading}
+### Certificate Consumers 
 
 Votes in Favor: (1) Microsoft
 
@@ -29,13 +29,13 @@ Votes Opposed: None
 
 Abstentions: None
 
-### Results {.wp-block-heading}
+### Results 
 
 Therefore the Ballot passes.
 
 Dean Coclin CSCWG Chair
 
-## Ballot Content {.wp-block-heading}
+## Ballot Content 
 
 **Purpose of Ballot**
 

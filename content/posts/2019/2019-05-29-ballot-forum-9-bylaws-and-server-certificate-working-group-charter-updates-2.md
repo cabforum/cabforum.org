@@ -9,11 +9,11 @@ title: 'Ballot FORUM-9: Bylaws and Server Certificate Working Group Charter Upda
 type: post
 ---
 
-## Results {.wp-block-heading}
+## Results 
 
 The voting period for Ballot Forum-9 has ended and the **Ballot has Passed**. Here are the results:
 
-### Voting by Certificate Issuers {.wp-block-heading}
+### Voting by Certificate Issuers 
 
 **11 votes total including abstentions**
 
@@ -25,7 +25,7 @@ The voting period for Ballot Forum-9 has ended and the **Ballot has Passed**.
 
 100% of voting Certificate Issuers voted in favor.
 
-### Voting by Certificate Consumers {.wp-block-heading}
+### Voting by Certificate Consumers 
 
 **3 votes total including abstentions**
 
@@ -35,7 +35,7 @@ The voting period for Ballot Forum-9 has ended and the **Ballot has Passed**.
 
 100% of voting Certificate Consumers voted in favor.
 
-### Relevant Bylaw references {.wp-block-heading}
+### Relevant Bylaw references 
 
 Bylaw 2.3(f) requires:
 
@@ -45,7 +45,7 @@ Bylaw 2.3(f) requires:
 - Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum.
 - 21 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **10**, so quorum was** 11 votes** –\_ quorum was met\_.
 
-## Ballot FORUM-9 {.wp-block-heading}
+## Ballot FORUM-9 
 
 **Purpose of Ballot:** The Forum has identified and discussed a number of improvements to be made to the current version of the Bylaws to improve clarity and allow the Forum to function more effectively. Major changes include:
 
@@ -58,13 +58,13 @@ Bylaw 2.3(f) requires:
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Dimitris Zacharopoulos of HARICA and Tim Hollebeek of DigiCert to amend the Bylaws of the CA/Browser Forum and the Server Certificate Working Group Charter.
 
-### — MOTION BEGINS – {.wp-block-heading}
+### — MOTION BEGINS – 
 
 1. Amendment to the Bylaws: replace the entire text of the Bylaws of the CA/Browser Forum with the following:
 
 1. Amendment to the SCWG Charter: replace the entire text of the Server Certificate Working Group Charter with the following:
 
-### — MOTION ENDS – {.wp-block-heading}
+### — MOTION ENDS – 
 
 \*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 

@@ -7,29 +7,29 @@ title: 2020-05-28 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Curt Spann (Apple), Daniel Rendon (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michael Guenther (SwissSign), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Quo Vadis), Taconis Lewis (US Federal PKI Management Authority), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Andrea Holland (SecureTrust).
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda {.wp-block-heading}
+### 3. Review Agenda 
 
 Accepted without changes. Neil volunteered to take minutes on the next call.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 Accepted without objections.
 
-### 5. Forum Infrastructure Subcommittee update {.wp-block-heading}
+### 5. Forum Infrastructure Subcommittee update 
 
 Jos gave the reports.
 
@@ -55,7 +55,7 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 6. Code Signing Working Group update {.wp-block-heading}
+### 6. Code Signing Working Group update 
 
 Bruce: WG will move forward with ballot to merge the two code signing documents. In order to close this issue off and prepare the ballot, WG is looking for an additional endorser. Next step will be to change the format to the RFC 3647 format in order to be in alignment with the same format used for the SSL BRs and the CPS documents. If there are important changes, these can be addressed before the format is changed.
 
@@ -65,7 +65,7 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 7. New S/MIME WG Charter {.wp-block-heading}
+### 7. New S/MIME WG Charter 
 
 Tim: Work continues. Ryan proposed changing the reference to the IPR agreement to more closely align it with the text presented by the server certificate WG in order to prevent redundancy. A few other errors were found in the Bylaws. Those do not necessarily block the creation of the S/Mime working group. They also affect the server certificate working group and  can be worked separately.
 
@@ -79,7 +79,7 @@ Dimitris: OK, with an immutable link please.
 
 Tim: Yes.
 
-### 8. Approval of F2F 50 Agenda {.wp-block-heading}
+### 8. Approval of F2F 50 Agenda 
 
 Dimitris: Introduces agenda for the plenary. It includes 1 ½ Hours  on Wednesday (updates from different working groups and subcommittees). An additional slot was added to give everyone a reminder of the elections process scheduled for this summer. No proposals for new topics were received.
 
@@ -97,20 +97,20 @@ Dimitris: OK.
 
 No objections. Agenda is approved.
 
-### 9. New Bylaws version 2.3 (Voting Representatives) {.wp-block-heading}
+### 9. New Bylaws version 2.3 (Voting Representatives) 
 
 Dimitris: There is one significant change in the new Bylaws with regards to the assignment of voting representatives. Dimitris send an email to the management list to enable all members to  follow these instructions. He already received a couple of emails from members to add or remove people from different working groups and also the plenary level of voting representatives. Dimitris encourages all members to take a look at the list and notify Dean or himself by mail in case any changes for the code signing group are necessary. These updates will be added to the spreadsheet.
 
 Dimitris is waiting for the problems with the mailer to be fixed and is then going to update the Bylaws PDF on the website.
 
-### 10. Any Other Business {.wp-block-heading}
+### 10. Any Other Business 
 
 Dimitris: Would like to encourage people to register for the face to face. Just 20 people have registered so far. It’s still important to know how many people we are expecting for each day. If you haven’t registered and you plan on attending on the June 9 and 11, please register on the wiki.
 
 Dean: Will send a reminder via the management list.
 
-### 11. Next call {.wp-block-heading}
+### 11. Next call 
 
 June 25, 2020 at 11:30 am Eastern Time.
 
-### Adjourned {.wp-block-heading}
+### Adjourned

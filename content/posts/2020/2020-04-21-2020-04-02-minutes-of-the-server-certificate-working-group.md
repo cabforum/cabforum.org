@@ -7,32 +7,32 @@ title: 2020-04-02 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) {.wp-block-heading}
+## Attendees (in alphabetical order) 
 
 Arno Fiedler (D-TRUST), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Jos Purvis (Cisco Systems), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Shelley Brewer (Digicert), Thanos Vrachnos (SSL.com), Tim Hollebeek (Digicert), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority)
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
-### 1. Roll Call {.wp-block-heading}
+### 1. Roll Call 
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement {.wp-block-heading}
+### 2. Read Antitrust Statement 
 
 Robin read the Antitrust Statement.
 
-### 3. Review Agenda; assign minute-taker {.wp-block-heading}
+### 3. Review Agenda; assign minute-taker 
 
 Dimitris asked Wayne if he would take the minutes and Wayne accepted.
 Wayne suggested that minute takers be assigned in advance.
 Tim volunteered for the next meeting.
 The agenda was accepted without changes.
 
-### 4. Approval of minutes from previous teleconference {.wp-block-heading}
+### 4. Approval of minutes from previous teleconference 
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update {.wp-block-heading}
+### 5. Validation Subcommittee Update 
 
 Tim said that on last week’s call the committee had been planning to review the profiles in section 7.1 line-by-line with a default-deny interpretation, but didn’t do that. Discussion quickly shifted to the format of the profiles. The current format is split up and not clear. Decided it would be much clearer if the entire profile was in one place. And also that a table format would be clearer than the English prose currently used. The order should be consistent with that in the actual certificate and as displayed by linting tools. Discussed the skeleton of the profile and decided that a spreadsheet would be the best tool to develop it in. Agreed to discuss the layout on the next call.
 
@@ -41,13 +41,13 @@ Dimitris asked if the spreadsheet will start with end-entity certificates? Or CA
 Tim said that we will start with roots because they’re simpler.
 Ryan said that he plans to tackle all three, plus OCSP responder profiles, so that we can see how it looks with all the profiles.
 
-### 6. NetSec Subcommittee Update {.wp-block-heading}
+### 6. NetSec Subcommittee Update 
 
 Neil said that on the last call they discussed SC28 regarding changing the time required for audit log retention. Plan is to split this information into three categories: CA certificate events, subscriber events, and security events. Spent a lot of time trying to clarify the new 5.4.3 and remove repetitive information as is currently the case. They also discussed NCSSR requirement to remove system accounts after 3 months of inactivity. A ballot is forthcoming. Document restructuring continues, with the current activity around the use of terms with clear and defined meanings. Lastly, there was continued discussion on ballot SC29. The subcommittee is meeting again today to continue those discussions.
 
-### 7. Ballot Status {.wp-block-heading}
+### 7. Ballot Status 
 
-#### Ballots in Discussion Period {.wp-block-heading}
+#### Ballots in Discussion Period 
 
 _SC29 System Configuration Management (Neil)_
 Dimitris said that it is challenging to coordinate responses to the discussion with the HARICA team.
@@ -73,15 +73,15 @@ Jos said that we’re conflating where you get updates – a local mirror doesn�
 Ryan said that his opinion is the inverse of Jos’ and suggested it be discussed further on the list.
 Jos said that – as long as the packages are signed – you have to trust your OS vendor, and pulling them to a local system only buys you so much.
 
-#### Ballots in Voting Period {.wp-block-heading}
+#### Ballots in Voting Period 
 
 None.
 
-#### Ballots in Review Period {.wp-block-heading}
+#### Ballots in Review Period 
 
 _SC26 – Pandoc-Friendly Markdown Formatting Changes (Jos)_
 
-#### Draft Ballots under Consideration {.wp-block-heading}
+#### Draft Ballots under Consideration 
 
 _LEI ballot (Tim H)_
 
@@ -102,12 +102,12 @@ Tim said that there is not a blanket answer to the question about moving changes
 Ryan said that’s a good question. He consulted with root programs to get their requirements correct. Ryan said that if there are technical details to improve root program requirements, he is open to improving them, but root programs aren’t going to make policy changes based on this. Other things like phase-in time are going to be up to the programs.
 Tim agreed with the approach and said that we will discuss this on the list.
 
-### 8. Any Other Business {.wp-block-heading}
+### 8. Any Other Business 
 
 None.
 
-### 9. Next call {.wp-block-heading}
+### 9. Next call 
 
 April 16th, 2020
 
-### Adjourned {.wp-block-heading}
+### Adjourned

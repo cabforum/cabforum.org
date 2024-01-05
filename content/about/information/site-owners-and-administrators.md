@@ -3,8 +3,8 @@ aliases:
 - /information-for-site-owners-and-administrators/
 author: Ben Wilson
 date: 2013-08-30 22:03:38
-title: Information for Site Owners and Administrators
 linkTitle: Site Owners and Administrators
+title: Information for Site Owners and Administrators
 type: page
 ---
 

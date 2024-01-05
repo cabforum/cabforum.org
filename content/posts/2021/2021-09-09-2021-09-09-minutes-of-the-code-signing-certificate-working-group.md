@@ -9,11 +9,11 @@ title: 2021-09-09 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees {.wp-block-heading}
+## Attendees 
 
 Atsushi Inaba, Ben Wilson, Bruce Morton, Corey Bonnell, Dean Coclin, Dimitris Zacharopoulos, Iñigo Barreira, Janet Hines, Joanna Fox, Roberto Quiñones, Sebastian Schulz, Tim Hollebeek, Tomas Gustavsson
 
-## Minutes {.wp-block-heading}
+## Minutes 
 
 Dean read the anti-trust statement.
 

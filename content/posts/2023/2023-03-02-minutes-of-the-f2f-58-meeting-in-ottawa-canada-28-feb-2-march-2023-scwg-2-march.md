@@ -10,7 +10,7 @@ title: Minutes of the F2F 58 Meeting in Ottawa, Canada, 28 Feb-2 March 2023 – 
 type: post
 ---
 
-# **Meeting of the Server Certificate Working Group**
+# Meeting of the Server Certificate Working Group
 
 **March 2, 2023**
 
