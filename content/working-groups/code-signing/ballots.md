@@ -4,7 +4,8 @@ aliases:
 author: Ben Wilson
 date: 2021-09-04 00:52:03
 title: Code Signing Ballots
-type: page
+linkTitle: Ballots
+
 ---
 
-**\[posts_table category=”ballots” tag=”csc” sort_by=”cf:Effective” sort_order=”desc”\]**
+{{< pages-with-tags tags="Ballot,Code Signing" >}}

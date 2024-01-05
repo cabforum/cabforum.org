@@ -31,13 +31,11 @@ The goal of the SMCWG is to provide a framework where “reasonable assurance”
 
 ## Charter 
 
-**[S/MIME Certificate Working Group Charter](/smcwg-charter/)**
-
-______________________________________________________________________
+[S/MIME Certificate Working Group Charter](charter/)
 
 ## Ballots 
 
-[SMC WG Ballots][4]
+[SMC WG Ballots](ballots/)
 
 ## Membership Requirements 
 
@@ -66,9 +64,8 @@ The CA/Browser Forum welcomes new applicants with an interest in S/MIME for memb
 
 ## Mailing List 
 
-**In addition, the S/MIME Certificate Working Group provides a public mailing list. To subscribe, see:** [**/mailman/listinfo/smcwg-public**][7]
+In addition, the S/MIME Certificate Working Group provides a public mailing list. To subscribe, see: [/mailman/listinfo/smcwg-public][7]
 
-______________________________________________________________________
 
 ## Members 
 
@@ -138,7 +135,6 @@ Zone Media OÜ
 [1]: http://www.digicert.com
 [2]: http://www.sectigo.com
 [3]: http://www.buypass.no
-[4]: /ballots/s-mime-ballots/
 [5]: /liaisons/
 [6]: mailto:questions@cabforum.org
 [7]: /mailman/listinfo/smcwg-public

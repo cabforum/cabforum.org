@@ -4,7 +4,8 @@ aliases:
 author: Ben Wilson
 date: 2018-11-08 17:25:46
 title: Network Security Requirements
-type: page
+linkTitle: Documents
+
 ---
 
 **Network and Certificate System Security Requirements**

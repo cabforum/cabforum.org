@@ -21,11 +21,11 @@ The CA/Browser Forum’s Code Signing Certificate Working Group was chartered to
 
 ## Charter
 
-[Code Signing Certificate WG Charter][3] ([GitHub version][4])
+[Code Signing Certificate WG Charter](charter/) ([Ballot][3])
 
 ## Ballots
 
-[Code Signing Working Group Ballots][5]
+[Code Signing Working Group Ballots](ballots/)
 
 ## Membership Requirements
 
@@ -96,5 +96,3 @@ CPA Canada/WebTrust
 [1]: https://www.digicert.com
 [2]: https://www.entrust.com/
 [3]: /2019/03/09/ballot-forum-8-establishment-of-a-code-signing-working-group/#Code-Signing-Certificate-Working-Group-Charter
-[4]: https://github.com/cabforum/forum/blob/main/CSCWG-charter.md
-[5]: /ballots/code-signing-ballots/

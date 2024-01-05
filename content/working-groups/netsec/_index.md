@@ -23,7 +23,7 @@ The primary deliverable of the NetSec WG is the NCSSRs. Other work includes perf
 
 ## Charter 
 
-[**Charter of the Network Security Working Group**](/netsec-charter/)
+[**Charter of the Network Security Working Group**](charter/)
 
 ## Officers 
 
@@ -33,7 +33,7 @@ Vice Chair: David Kluge ([Google Trust Services][3])
 
 ## Ballots 
 
-[Network Security Working Group Ballots](/ballots/network-security-wg-ballots/)
+[Network Security Working Group Ballots](ballots/)
 
 ## Participation 
 

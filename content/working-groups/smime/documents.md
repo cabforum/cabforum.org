@@ -4,7 +4,7 @@ aliases:
 author: Stephen Davidson
 date: 2023-01-03 16:36:25
 title: S/MIME Baseline Requirements (S/MIME BR)
-type: page
+linkTitle: Documents
 ---
 
 ## Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates 

@@ -4,7 +4,7 @@ aliases:
 author: Ben Wilson
 date: 2014-03-27 00:40:16
 title: EV Code Signing Certificate Guidelines
-type: page
+linkTitle: EV Documents
 ---
 
 ## EV Code Signing Certificate Guidelines

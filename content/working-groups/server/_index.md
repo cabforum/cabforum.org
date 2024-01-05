@@ -18,7 +18,7 @@ Vice-Chairperson: Kiran Tummala ([Microsoft][2])
 
 ## Charter
 
-[Server Certificate Working Group Charter][3], v. 1.3, effective Dec. 4, 2023
+[Server Certificate Working Group Charter](charter/)
 
 ## How to Join
 
@@ -26,7 +26,7 @@ Instructions are [here][4].
 
 ## Ballots
 
-[Server Certificate Working Group Ballots][5]
+[Server Certificate Working Group Ballots](ballots/)
 
 ## Server Certificate WG Mailing List
 
@@ -137,7 +137,5 @@ US Federal PKI Management Authority
 
 [1]: https://sectigo.com/
 [2]: https://www.microsoft.com
-[3]: /scwg-charter/
 [4]: /information-for-potential-members/
-[5]: /ballots/server-certificate-ballots/
 [6]: /validation-subcommittee/
