@@ -1,0 +1,12 @@
+{{- $tags := split (.Get `tags`) "," -}}
+
+{{- $p := site.Pages -}}
+{{- range $tags -}}
+    {{ $p = where $p "Params.tags" "intersect" (slice .) }}
+{{- end -}}
+
+<ul>
+{{- range first 250 $p -}}
+    <li><a href="{{ .Permalink }}" title="{{ .Title }}" class="fw-bold">{{ .Title }}</a></li>
+{{- end -}}
+</ul>
