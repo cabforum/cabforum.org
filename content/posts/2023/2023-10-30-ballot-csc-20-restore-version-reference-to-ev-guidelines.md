@@ -57,6 +57,6 @@ This ballot updates the “Baseline Requirements for the Issuance and Management
 
 MODIFY the Code Signing Baseline Requirements as specified in the following redline: [https://github.com/cabforum/code-signing/compare/93ee9976cdc4e1104952146e3556800459694874…50b40d41319ffae5fec9c9dd22ae6ebb55c34ba1][3]
 
-[1]: /baseline-requirements-code-signing/
+[1]: /working-groups/code-signing/documents/
 [2]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.5_redline.pdf
 [3]: https://github.com/cabforum/code-signing/compare/93ee9976cdc4e1104952146e3556800459694874...50b40d41319ffae5fec9c9dd22ae6ebb55c34ba1

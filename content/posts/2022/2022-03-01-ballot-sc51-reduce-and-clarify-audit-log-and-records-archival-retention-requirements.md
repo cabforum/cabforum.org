@@ -76,6 +76,6 @@ End Time: February 25 2022 22:00 UTC
 
 ## Ballot Status 
 
-No IP Rights issues were raised during the review period, which concluded 15 April 2022. This ballot has been incorporated into version 1.8.3 of the [Baseline Requirements](/baseline-requirements-documents/).
+No IP Rights issues were raised during the review period, which concluded 15 April 2022. This ballot has been incorporated into version 1.8.3 of the [Baseline Requirements](/working-groups/server/baseline-requirements/documents/).
 
 [1]: https://github.com/cabforum/servercert/compare/65e80e07855ecc1d2264c040ecc7d398f997d2c5...2281a6c78692c3444db9a162df4ff217014b9f1f

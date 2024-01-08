@@ -62,4 +62,4 @@ The following motion has been proposed by Corey Bonnell of DigiCert and endorsed
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” version 2.8 by replacing the entirely of the content of the document with the attached document.
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2022-June/000823.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/

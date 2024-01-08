@@ -88,10 +88,10 @@ Our IPR Policy and the IPR Policy Agreement are also found [here][7]. If there a
 
 For any other questions you may have about membership or participation in the CA/Browser Forum and its Working Groups, please refer to our [Bylaws][1] or email ” “.
 
-[1]: /bylaws/
+[1]: /about/bylaws-history/
 [2]: /working-groups/scwg/
-[3]: /code-signing-working-group/
+[3]: /working-groups/code-signing/
 [4]: /working-groups/smime-certificate-wg/
-[5]: /interested-parties/
+[5]: /about/membership/interested-parties/
 [6]: /uploads/CAB-Forum-Agreement-for-IPR-Policy_20FEB18.pdf
-[7]: /ipr-policy/ "IPR Policy"
+[7]: /about/ipr-policy/ "IPR Policy"

@@ -3,9 +3,8 @@ aliases:
 - /baseline-requirements-code-signing/
 author: Ben Wilson
 date: 2019-08-24 03:55:38
-title: Baseline Requirements (Code Signing)
 linkTitle: BR Documents
-
+title: Baseline Requirements (Code Signing)
 ---
 
 ## Baseline Requirements 

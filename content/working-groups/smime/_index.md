@@ -44,7 +44,7 @@ There are four membership categories in the S/MIME Certificate Working Group:
 - **Certificate Issuers:** Certification Authorities that issue publicly trusted S/MIME certificates treated as valid by a Certificate Consumer Member. This group can attend all meetings and vote in the working group.
 - **Certificate Consumers:** Entities that produce and maintain a mail user agent (web-based or application based) or operate an email service provider that processes S/MIME certificates. This group can attend all meetings and vote in the working group.
 - **Interested Parties:** Anyone that has an interest in participating in the working group. This group can attend all telephone meetings but cannot vote. They may be invited to face to face meetings by the Chair.
-- **Associate Members:** Organizations that add value to the working group as determined by the group. Traditionally these have been organizations such as WebTrust, ETSI, Federal PKI, and ICANN (see: [**/liaisons/**][5]). This category also includes organizations that intend to be in categories 1 or 2 but have not completed all the required steps. This group can attend all meetings but cannot vote.
+- **Associate Members:** Organizations that add value to the working group as determined by the group. Traditionally these have been organizations such as WebTrust, ETSI, Federal PKI, and ICANN (see: [**/about/membership/associate-members/**][5]). This category also includes organizations that intend to be in categories 1 or 2 but have not completed all the required steps. This group can attend all meetings but cannot vote.
 
 **In all categories, the CA/Browser Forum by-laws require members to execute and submit the IPR Agreement** (See: ).
 
@@ -135,6 +135,6 @@ Zone Media OÜ
 [1]: http://www.digicert.com
 [2]: http://www.sectigo.com
 [3]: http://www.buypass.no
-[5]: /liaisons/
+[5]: /about/membership/associate-members/
 [6]: mailto:questions@cabforum.org
 [7]: /mailman/listinfo/smcwg-public

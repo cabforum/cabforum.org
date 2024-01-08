@@ -69,4 +69,4 @@ End Time: November 18 17:00 UTC
 
 ## Ballot Status 
 
-This Ballot entered the IP Rights Review period on 22 November 2021 and exited review on 23 December 2021. No IP Rights exclusions were filed during the review period. The ballot is effective as of 23 December 2021, and has been published as [Baseline Requirements](/baseline-requirements-documents/) version 1.8.1.
+This Ballot entered the IP Rights Review period on 22 November 2021 and exited review on 23 December 2021. No IP Rights exclusions were filed during the review period. The ballot is effective as of 23 December 2021, and has been published as [Baseline Requirements](/working-groups/server/baseline-requirements/documents/) version 1.8.1.

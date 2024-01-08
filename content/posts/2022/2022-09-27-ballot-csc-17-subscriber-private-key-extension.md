@@ -63,6 +63,6 @@ The following motion has been proposed by Ian McMillan of Microsoft and endorsed
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” version 3.1 by replacing the entirely of the content of the document with the attached document.
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2022-October/000898.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/
 [3]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.2_redline.pdf
 [4]: mailto:public@cabforum.org

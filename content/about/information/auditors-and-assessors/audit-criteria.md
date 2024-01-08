@@ -21,14 +21,14 @@ External URL – **[http://www.webtrust.org][2]**
 
 **ETSI**–
 
-Internal URL – **[/etsi/][3]**
+Internal URL – **[/about/information/auditors-and-assessors/etsi/][3]**
 
 External URL – **[http://www.etsi.org/technologies-clusters/technologies/security/certification-authorities-and-other-certification-service-providers][4]**
 
-For additional information from the **CA / Browser Forum** about auditing available on this website, see [**/information-for-auditors-and-assessors/**.][5]
+For additional information from the **CA / Browser Forum** about auditing available on this website, see [**/about/information/auditors-and-assessors/**.][5]
 
 [1]: https://www.mozilla.org/projects/security/certs/policy/InclusionPolicy.html "Mozilla's CA Certificate Inclusion Policy"
 [2]: http://www.webtrust.org "WebTrust for CAs"
-[3]: /etsi/
+[3]: /about/information/auditors-and-assessors/etsi/
 [4]: http://www.etsi.org/technologies-clusters/technologies/security/certification-authorities-and-other-certification-service-providers "CAs issuing Qualified Certificates IAW ETSI TS 101 456 and Directive 1999/93"
-[5]: /information-for-auditors-and-assessors/ "Information for Auditors and Assessors"
+[5]: /about/information/auditors-and-assessors/ "Information for Auditors and Assessors"

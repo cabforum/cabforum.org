@@ -70,4 +70,4 @@ Next call: Wednesday, June 9, 2021 at 11:00 am Eastern Time
 
 [1]: https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing
 [2]: https://datatracker.ietf.org/doc/draft-ito-documentsigning-eku/
-[3]: /smcwg-charter/
+[3]: /working-groups/smime/charter/

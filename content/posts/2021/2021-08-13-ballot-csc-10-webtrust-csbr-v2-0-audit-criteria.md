@@ -63,5 +63,5 @@ Insert the following text to Section 17.1:
 1. If a Government CA is required by its Certificate Policy to use a different internal audit scheme, it MAY use such scheme provided that the audit either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria that are available for public review.
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2021-September/000537.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/
 [3]: https://lists.cabforum.org/pipermail/cscwg-public/2021-August/000505.html

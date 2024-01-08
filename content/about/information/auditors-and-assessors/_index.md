@@ -19,9 +19,9 @@ In addition, recognizing the importance of an independent third party audit of t
 
 A non-governmental CA issuing EV Certificates needs to undergo an audit in accordance either the WebTrust for Certification Authorities audit and the WebTrust EV Program audit, or the ETSI EN 319 411-1 audit.
 
-[1]: /audit-criteria/ "Audit Criteria"
-[2]: /webtrust-for-cas/ "WebTrust for CAs"
+[1]: /about/information/auditors-and-assessors/audit-criteria/ "Audit Criteria"
+[2]: /about/information/auditors-and-assessors/webtrust-for-cas/ "WebTrust for CAs"
 [3]: http://cpacanada.ca/
 [4]: http://www.etsi.org/deliver/etsi_en/319400_319499/31941101/01.02.02_60/
 [5]: http://www.etsi.org/deliver/etsi_en/319400_319499/31941102/02.02.02_60/
-[6]: /etsi/ "ETSI – European Telecommunications Standards Institute"
+[6]: /about/information/auditors-and-assessors/etsi/ "ETSI – European Telecommunications Standards Institute"

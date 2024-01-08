@@ -48,8 +48,8 @@ _Term begins _Nov 1, 2022 and ends Oct 31, 2024__
 
 _Term begins Nov 1, 2022 and ends Oct 31, 2024_
 
-[1]: /bylaws/ "Bylaws"
-[2]: /past-chairs/
+[1]: /about/bylaws-history/ "Bylaws"
+[2]: /about/leadership/past-chairs/
 [3]: https://www.harica.gr/
 [4]: https://www.entrust.com/
 [5]: https://sectigo.com/

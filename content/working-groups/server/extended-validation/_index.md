@@ -19,9 +19,9 @@ type: page
 
 **[EV Revisions Working Group][6]**
 
-[1]: /about-ev-ssl/ "About EV SSL"
-[2]: /extended-validation/ "EV Guidelines"
-[3]: /ev-faq/ "EV FAQ"
-[4]: /the-ev-ssl-certificate-and-its-contents/ "The EV SSL Certificate and its Contents"
-[5]: /ev-code-signing-certificate-guidelines/ "EV Code Signing Certificate Guidelines"
+[1]: /working-groups/server/extended-validation/about/ "About EV SSL"
+[2]: /working-groups/server/extended-validation/documents/ "EV Guidelines"
+[3]: /working-groups/server/extended-validation/faq/ "EV FAQ"
+[4]: /working-groups/server/extended-validation/the-ev-ssl-certificate-and-its-contents/ "The EV SSL Certificate and its Contents"
+[5]: /working-groups/code-signing/ev-code-signing-certificate-guidelines/ "EV Code Signing Certificate Guidelines"
 [6]: /current-work/ev-revisions-working-group/ "EV Revisions Working Group"

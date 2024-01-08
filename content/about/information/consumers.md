@@ -63,5 +63,5 @@ It does not however indicate that the organization is reputable or worthy of you
 
 It depends on what the exact error is. Most browsers will allow you to get more details about the error. If the error indicates the certificate has expired or not yet valid, check the clock on your PC to make sure it is set correctly. Also, check the date the certificate expired (located in the certificate details, usually accessed by clicking on the certificate). If it expired a few days ago, the website owner may have forgotten to renew it.
 
-[1]: /overview-of-the-extended-validation-ssl-vetting-process/ "Overview of the Extended Validation SSL Vetting Process"
-[2]: /the-ev-ssl-certificate-and-its-contents/ "The EV SSL Certificate and its Contents"
+[1]: /working-groups/server/extended-validation/vetting-process-overview/ "Overview of the Extended Validation SSL Vetting Process"
+[2]: /working-groups/server/extended-validation/the-ev-ssl-certificate-and-its-contents/ "The EV SSL Certificate and its Contents"

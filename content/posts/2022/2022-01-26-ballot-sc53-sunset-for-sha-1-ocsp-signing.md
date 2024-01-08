@@ -78,5 +78,5 @@ End time: 2022-01-24 15:00:00 UTC
 This ballot has cleared the IP Rights Review period with no IP Rights issues raised by the community. It has therefore been incorporated in to the [Baseline Requirements][2] as version [1.8.2][3].
 
 [1]: https://github.com/cabforum/servercert/compare/cda0f92ee70121fd5d692685b97ebb6669c74fb7...637c6959c35bbd93cc451f7b22dfb48ac4255b9f
-[2]: /baseline-requirements-documents/
+[2]: /working-groups/server/baseline-requirements/documents/
 [3]: /uploads/CA-Browser-Forum-BR-1.8.2.pdf

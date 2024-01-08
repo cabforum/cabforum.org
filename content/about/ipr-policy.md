@@ -33,8 +33,8 @@ Each of the following documents is considered a “Final Guideline”:
 
 [1]: /uploads/CABF-IPR-Policy-v.1.3_4APR18.pdf
 [2]: /uploads/CAB-Forum-Agreement-for-IPR-Policy_20FEB18.pdf
-[3]: /extended-validation/
-[4]: /baseline-requirements/
+[3]: /working-groups/server/extended-validation/documents/
+[4]: /working-groups/server/baseline-requirements/
 [5]: /network-security/
 [6]: /category/governance/ipr/
 [7]: /ipr-exclusion-notices/ "IPR Exclusion Notices"

@@ -59,6 +59,6 @@ The following motion has been proposed by Dimitris Zacharopoulos of HARICA and e
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” (“Code Signing Baseline Requirements”) based on version 3.3. MODIFY the Code Signing Baseline Requirements as specified in the following redline: [https://github.com/cabforum/code-signing/pull/16/files#diff-51665fed103b76d89fc3da15cf88817d58602089][4]
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2023-September/001051.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/
 [3]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.4_redline.pdf
 [4]: https://github.com/cabforum/code-signing/pull/16/files#diff-51665fed103b76d89fc3da15cf88817d58602089

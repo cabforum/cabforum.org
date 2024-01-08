@@ -51,5 +51,5 @@ This ballot updates the “Baseline Requirements for the Issuance and Management
 - Add explanatory footnote to the bottom of the last page of section 13.2.1.
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2021-December/000663.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/
 [3]: https://lists.cabforum.org/pipermail/cscwg-public/2021-November/000632.html

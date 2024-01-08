@@ -28,9 +28,9 @@ Here are some useful documents to help developers understand aspects of certific
 
 Although the [CAB Forum EV Guidelines][13] and [Baseline Requirements][14] are requirements for CAs, developers may wish to familiarize themselves with them too.
 
-[1]: /info-for-consumers/ "Information for the Public"
-[2]: /ev-faq/ "EV FAQ"
-[3]: /faq-about-the-baseline-requirements/ "FAQ for Baseline Requirements"
+[1]: /about/information/consumers/ "Information for the Public"
+[2]: /working-groups/server/extended-validation/faq/ "EV FAQ"
+[3]: /working-groups/server/baseline-requirements/faq/ "FAQ for Baseline Requirements"
 [4]: /uploads/Recommendations-for-the-Processing-of-EV-SSL-Certificates.v.2.0.pdf
 [5]: http://jitc.fhu.disa.mil/pki/documents/dod_pki_public_key_enabled_application_requirements_v1_07_july_13_2000.doc
 [6]: http://www.w3.org/TR/wsc-ui/
@@ -40,5 +40,5 @@ Although the [CAB Forum EV Guidelines][13] and [Baseline Requirements][14] are r
 [10]: http://csrc.nist.gov/publications/nistpubs/800-52/SP800-52.pdf
 [11]: http://csrc.nist.gov/publications/nistpubs/800-131A/sp800-131A.pdf
 [12]: http://www.nsa.gov/ia/programs/suiteb_cryptography/index.shtml
-[13]: /extended-validation/ "Extended Validation"
-[14]: /baseline-requirements/ "Baseline Requirements"
+[13]: /working-groups/server/extended-validation/documents/ "Extended Validation"
+[14]: /working-groups/server/baseline-requirements/ "Baseline Requirements"

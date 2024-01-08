@@ -55,4 +55,4 @@ Vigil Security
 Yahoo Inc
 
 [1]: /bylaws
-[2]: /ipr-policy/
+[2]: /about/ipr-policy/

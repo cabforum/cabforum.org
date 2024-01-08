@@ -25,7 +25,7 @@ Concurrent with the adoption of version 1.9 of the Bylaws, the Forum chartered t
 
 In order to participate as an Interested Party in the Forum / Working Group, you need to:
 
-1. Review the [Intellectual Property Rights policy](/ipr-policy/ "IPR Policy") and complete the IPR agreement found there; and
+1. Review the [Intellectual Property Rights policy](/about/ipr-policy/ "IPR Policy") and complete the IPR agreement found there; and
 1. Send an email to [questions@cabforum.org](mailto:questions@cabforum.org) with your name, organization (if applicable), contact details and the signed IPR agreement with the subject: Participation as an Interested Party in the \[Working Group Name\] Working Group.
 
-[1]: /bylaws/
+[1]: /about/bylaws-history/

@@ -19,9 +19,9 @@ The Forum elects [Officers][4] — a Chair, who serves a two-year term, and a Vi
 
 The Forum communicates through a variety of means, such as [email lists][6], telephone calls, face-to-face meetings, and this web site. As stated generally in section 1 of the Forum’s Bylaws, the CA/Browser Forum advances industry best practices to improve the ways that certificates are used to the benefit of Internet users and the security of their communications.
 
-[1]: /bylaws/ "Bylaws"
-[2]: /information-for-potential-members/ "Information for Potential Members"
-[3]: /ipr-policy/ "IPR Policy"
-[4]: /leadership/ "Leadership"
-[5]: /minutes/ "Minutes"
-[6]: /email-lists/ "Email Lists"
+[1]: /about/bylaws-history/ "Bylaws"
+[2]: /about/information/potential-members/ "Information for Potential Members"
+[3]: /about/ipr-policy/ "IPR Policy"
+[4]: /about/leadership/ "Leadership"
+[5]: /proceedings/minutes/ "Minutes"
+[6]: /about/email-lists/ "Email Lists"

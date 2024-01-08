@@ -82,7 +82,7 @@ End Time: 2022-03-23 07:00:00 UTC
 
 ## Ballot Status 
 
-No IP Rights issues were raised during the review period. This ballot has been adopted into version 1.8.4 of the [Baseline Requirements for TLS Certificates](/baseline-requirements-documents/) and version 1.7.9 of the [EV Guidelines for TLS Certificates](/extended-validation/).
+No IP Rights issues were raised during the review period. This ballot has been adopted into version 1.8.4 of the [Baseline Requirements for TLS Certificates](/working-groups/server/baseline-requirements/documents/) and version 1.7.9 of the [EV Guidelines for TLS Certificates](/working-groups/server/extended-validation/documents/).
 
 [1]: https://github.com/cabforum/servercert/compare/65e80e07855ecc1d2264c040ecc7d398f997d2c5...13220d81c0001f79ffa239a00018aa5c556e9afd
 [2]: https://github.com/cabforum/servercert/compare/cda0f92ee70121fd5d692685b97ebb6669c74fb7...13220d81c0001f79ffa239a00018aa5c556e9afd

@@ -55,8 +55,8 @@ ASN.1 – X520countryName as specified in RFC 5280
 
 The review period for this ballot shall commence at 2200 UTC on Monday, 10 March 2014, and will close at 2200 UTC on Monday, 17 March 2014. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Monday, 24 March 2014. Votes must be cast by posting an on-list reply to this thread.
 
-A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/members/][1]
+A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about/membership/members/][1]
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Also, at least six members must participate in the ballot, either by voting in favor, voting against, or abstaining.
 
-[1]: /members/ "Members"
+[1]: /about/membership/members/ "Members"

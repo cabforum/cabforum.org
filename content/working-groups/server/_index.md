@@ -137,5 +137,5 @@ US Federal PKI Management Authority
 
 [1]: https://sectigo.com/
 [2]: https://www.microsoft.com
-[4]: /information-for-potential-members/
-[6]: /validation-subcommittee/
+[4]: /about/information/potential-members/
+[6]: /working-groups/server/validation-subcommittee/

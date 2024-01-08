@@ -107,5 +107,5 @@ IPR Review (30 days)
 \_\_PRESENT
 \_\_PRESENT
 
-[1]: /smime-br/
+[1]: /working-groups/smime/documents/
 [2]: /uploads/SBR_SMC03_IPR.pdf

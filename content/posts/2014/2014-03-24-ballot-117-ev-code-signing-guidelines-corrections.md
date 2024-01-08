@@ -65,7 +65,7 @@ A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear r
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-Voting members are listed here: [/members/][2]
+Voting members are listed here: [/about/membership/members/][2]
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and more than one half of the votes cast by members in the browser category must be in favor.
 
@@ -73,6 +73,6 @@ Quorum is currently six (6) members– at least six members must participate in 
 
 **[Draft of EV Code Signing v.1.1.2 for Ballot 117][3]**
 
-[1]: /ev-code-signing-certificate-guidelines/ "EV Code Signing Certificate Guidelines"
-[2]: /members/ "Members"
+[1]: /working-groups/code-signing/ev-code-signing-certificate-guidelines/ "EV Code Signing Certificate Guidelines"
+[2]: /about/membership/members/ "Members"
 [3]: /uploads/EV-Code-Signing-v.1.1.2-Ballot-117.pdf

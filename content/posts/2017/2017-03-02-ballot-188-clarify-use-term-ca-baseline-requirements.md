@@ -370,6 +370,6 @@ This is a Draft Guideline Ballot that proposes a Final Maintenance Guideline. In
 
 Votes must be cast by posting an on-list reply to this thread on the Public Mail List.
 
-A vote in favor of the ballot must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting Member before the close of the voting period will be counted. Voting Members are listed here: /members/
+A vote in favor of the ballot must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting Member before the close of the voting period will be counted. Voting Members are listed here: /about/membership/members/
 
 In order for the ballot to be adopted, two thirds or more of the votes cast by Members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is currently ten (10) Members – at least ten Members must participate in the ballot, either by voting in favor, voting against, or abstaining.

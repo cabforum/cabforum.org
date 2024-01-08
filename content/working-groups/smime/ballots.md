@@ -3,8 +3,8 @@ aliases:
 - /s-mime-ballots/
 author: Ben Wilson
 date: 2023-01-03 17:54:54
-title: S/MIME Ballots
 linkTitle: Ballots
+title: S/MIME Ballots
 ---
 
 ## Open Ballots (GitHub Pull Requests)

@@ -26,7 +26,7 @@ End of Review Period: 1700 UTC on December 8, 2023
 
 Please forward a written notice to exclude Essential Claims by email to and a copy to the CA/B Forum public mailing list before the end of the Review Period.
 
-See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also [/ipr-policy/][3]. An optional format for an Exclusion Notice is available at [/uploads/Template-for-Exclusion-Notice.pdf][4].
+See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also [/about/ipr-policy/][3]. An optional format for an Exclusion Notice is available at [/uploads/Template-for-Exclusion-Notice.pdf][4].
 
 –
 
@@ -98,8 +98,8 @@ End Time: November 1, 2023 17:00 UTC
 \_\_PRESENT
 \_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT
 
-[1]: /smime-br/
+[1]: /working-groups/smime/documents/
 [2]: /uploads/SBR_SMC04_IPR.pdf
-[3]: /ipr-policy/
+[3]: /about/ipr-policy/
 [4]: /uploads/Template-for-Exclusion-Notice.pdf
 [5]: https://github.com/cabforum/smime/compare/241e92cde85c25d7e0d4a5c70118ecadacd4d72b...c6916c7156a711b59f8e6790ff0ee0fedb7bd270

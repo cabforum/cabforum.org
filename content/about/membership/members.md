@@ -145,7 +145,7 @@ In addition to the above entities, members of the [Accredited Conformity Asse
 [55]: https://www.trustasia.com/
 [56]: https://www.trustcorsystems.com/
 [57]: http://www.visa.com
-[58]: /liaisons/
+[58]: /about/membership/associate-members/
 [59]: https://browser.360.cn/ee/en.html
 [60]: http://www.apple.com/
 [61]: https://brave.com

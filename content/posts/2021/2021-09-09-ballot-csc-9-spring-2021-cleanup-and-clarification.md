@@ -14,7 +14,7 @@ type: post
 
 The review period has ended and no exclusion notices were filed.
 
-The final documents, with the effective date being 9 September 2021, are available [here](/baseline-requirements-code-signing/).
+The final documents, with the effective date being 9 September 2021, are available [here](/working-groups/code-signing/documents/).
 
 **Voting Results**
 

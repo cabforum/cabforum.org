@@ -32,8 +32,8 @@ IPR documents are available on t[he IPR Policy page][5].
 Guidance on the Deprecation of Use of Internal Names and IP Addresses is available [here][6].
 
 [1]: /working-groups/scwg/
-[2]: /code-signing-working-group/
-[3]: /netsec-wg/
-[4]: /bylaws/
-[5]: /ipr-policy/
+[2]: /working-groups/code-signing/
+[3]: /working-groups/netsec/
+[4]: /about/bylaws-history/
+[5]: /about/ipr-policy/
 [6]: /uploads/Guidance-Deprecated-Internal-Names.pdf

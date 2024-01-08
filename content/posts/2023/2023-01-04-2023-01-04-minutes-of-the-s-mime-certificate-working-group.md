@@ -36,7 +36,7 @@ The minutes of the November 9, 2022 and December 7, 2022 teleconferences were ap
 
 ### 5. Discussion
 
-Stephen Davidson noticed that no IPR Exclusion Notices were filed, and the ballot is adopted as of January 01, 2023. The S/MIME BR become effective on September 01, 2023. He noted that the ballot ([/ballots/s-mime-ballots/][1]) and the Final Guideline ([/smime-br/][2]) are now on the CABF website and wiki.
+Stephen Davidson noticed that no IPR Exclusion Notices were filed, and the ballot is adopted as of January 01, 2023. The S/MIME BR become effective on September 01, 2023. He noted that the ballot ([/ballots/s-mime-ballots/][1]) and the Final Guideline ([/working-groups/smime/documents/][2]) are now on the CABF website and wiki.
 
 Don Sheehy provided an update on the development of the WebTrust criteria for the S/MIME BR. He said that an advanced draft already existed, and that the WebTrust team would soon be meeting to review and approve a version 1. Don said he believed this would be available before the Ottawa F2F. He asked to verify when the WebTrust audits should commence; Stephen noted that the standard applied for audit periods after the effective date in September although CAs could voluntarily adopt it earlier.
 
@@ -61,4 +61,4 @@ Next call: tentative Wednesday, January 18, 2023 at 11:00 am Eastern Time
 ### Adjourned
 
 [1]: /ballots/s-mime-ballots/
-[2]: /smime-br/
+[2]: /working-groups/smime/documents/

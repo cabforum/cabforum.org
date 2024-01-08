@@ -29,9 +29,9 @@ We also maintain other email lists, including the following:
 - A [**Network Security subgroup** mailing list][6] for members of the Validation Working Group and those working on improvements to Forum’s [Network and Certificate System Security Requirements][7].
 
 [1]: /mailman/listinfo/servercert-wg
-[2]: /ipr-policy/ "IPR Policy"
+[2]: /about/ipr-policy/ "IPR Policy"
 [3]: /uploads/CAB-Forum-Agreement-for-IPR-Policy_20FEB18.pdf
 [4]: https://lists.cabforum.org/mailman/listinfo/validation/
 [5]: /mailman/listinfo/validation%20
 [6]: https://lists.cabforum.org/mailman/listinfo/netsec
-[7]: /network-security-requirements/
+[7]: /working-groups/netsec/documents/

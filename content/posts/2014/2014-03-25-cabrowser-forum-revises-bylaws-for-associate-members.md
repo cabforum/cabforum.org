@@ -13,4 +13,4 @@ CA/Browser Forum Revises Bylaws for Associate Members
 
 On March 25, 2014, the CA/Browser Forum adopted version 1.1 of its bylaws to recognize its long-standing relationships, industry liaisons, and involvement of other organizations in the Forum’s activities. These have included the AICPA/CICA WebTrust Task Force, the European Telecommunications Standards Institute, and several other organizations. A copy of these new bylaws is now posted on [the Bylaws page][1] of the Forum’s site.
 
-[1]: /bylaws/ "Bylaws"
+[1]: /about/bylaws-history/ "Bylaws"

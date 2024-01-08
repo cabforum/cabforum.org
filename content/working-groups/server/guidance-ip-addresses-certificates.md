@@ -21,4 +21,4 @@ Until legacy implementations fix their code to properly handle the iPAddress val
 
 CAs are required to use this practice which is consistent with the current standards and stop including IP addresses in the dNSName form of SAN extensions.
 
-[1]: /baseline-requirements/
+[1]: /working-groups/server/baseline-requirements/

@@ -24,6 +24,6 @@ The review period for this ballot shall commence at 2100 UTC on 23 January 2014 
 
 Votes must be cast by posting an on-list reply to this thread. A vote in favor of the ballot must indicate a clear ‘yes’ in the response. A vote against the ballot must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-Voting members are listed here: /members/. In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and more than one half of the votes cast by members in the browser category must be in favor. Quorum is currently six (6) members– at least six members must participate in the ballot, either by voting in favor, voting against, or by abstaining for the vote to be valid.
+Voting members are listed here: /about/membership/members/. In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and more than one half of the votes cast by members in the browser category must be in favor. Quorum is currently six (6) members– at least six members must participate in the ballot, either by voting in favor, voting against, or by abstaining for the vote to be valid.
 
 [1]: /uploads/CA-Browser-Forum-Bylaws-v.-1.1-Draft3-for-Ballot-110-redlined.pdf

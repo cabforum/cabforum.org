@@ -41,5 +41,5 @@ A CA can use one of the generic CP OIDs provided by the Baseline Requirements:
 
 Only certificates from CAs that comply with the Baseline Requirements can display the CA/Browser Forum OIDs above, but most commercial CAs maintain their own CP OIDs. If a CA has created its own proprietary CP OIDs when to assert compliance with the BRs, they will list them in their CP or CPS, or the CA/Browser Forum also maintains a list of these OIDs here, in the CA/Browser Forum’s own [Object Registry][2].
 
-[1]: /baseline-requirements/ "Baseline Requirements"
-[2]: /object-registry/ "Object Registry"
+[1]: /working-groups/server/baseline-requirements/ "Baseline Requirements"
+[2]: /resources/object-registry/ "Object Registry"

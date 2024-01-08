@@ -54,5 +54,5 @@ This ballot updates the “Baseline Requirements for the Issuance and Management
 - Update section 16.3 under new sub-section 16.3.2 to include verification for Code Signing Certificates’ private key generation and storage in a crypto module that meets or exceeds the requirements of FIPS 140-2 level 2 or Common Criteria EAL 4+ by the CAs. Include additional acceptable methods for verification including cloud-based key generation and protection solutions and a stipulation for CAs to satisfy this verification requirement with additional means specified in their CPS. Any additional means specified by a CA in their CPS, must be proposed to the CA/Browser Forum for inclusion into the acceptable methods for section 16.3.2 by November 15, 2022.
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2022-May/000793.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/
 [3]: https://lists.cabforum.org/pipermail/cscwg-public/2022-April/000782.html

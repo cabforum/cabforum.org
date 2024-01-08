@@ -130,7 +130,7 @@ A vote against must indicate a clear ‘no’ in the response. A vote to
 abstain must indicate a clear ‘abstain’ in the response. Unclear responses
 will not be counted. The latest vote received from any representative of a
 voting Member before the close of the voting period will be counted. Voting
-Members are listed here: /members/
+Members are listed here: /about/membership/members/
 
 In order for the ballot to be adopted, two thirds or more of the votes cast
 by Members in the CA category and greater than 50% of the votes cast by

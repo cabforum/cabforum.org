@@ -12,7 +12,7 @@ type: post
 
 The Intellectual Property Review (IPR) period for Ballot SMC-001 (Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates) has completed. No IPR Exclusion Notices were filed, and the ballot is adopted as of January 01, 2023. The S/MIME BR become effective on September 01, 2023.
 
-The S/MIME Baseline Requirements version 1.0.0 is available in PDF form [here](/smime-br/) in accordance with the Bylaws.
+The S/MIME Baseline Requirements version 1.0.0 is available in PDF form [here](/working-groups/smime/documents/) in accordance with the Bylaws.
 
 ______________________________________________________________________
 

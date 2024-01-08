@@ -54,6 +54,6 @@ This ballot updates the “Baseline Requirements for the Issuance and Management
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” (“Code Signing Baseline Requirements”) based on version 3.2. MODIFY the Code Signing Baseline Requirements as specified in the following redline: [https://github.com/cabforum/code-signing/pull/17/files#diff-904962f0e52198f4a232d6ef6732d57ccb47433d4bba47b3472d681405360e31][4]
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2023-June/001009.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/
 [3]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.1_redline.pdf
 [4]: https://github.com/cabforum/code-signing/pull/17/files#diff-904962f0e52198f4a232d6ef6732d57ccb47433d4bba47b3472d681405360e31

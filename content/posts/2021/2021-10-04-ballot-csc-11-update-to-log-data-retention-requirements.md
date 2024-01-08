@@ -54,5 +54,5 @@ This ballot updates the “Baseline Requirements for the Issuance and Management
 - Update section 15.2 to no longer reference Baseline Requirements section 5.4.3 and defined a specific retention period for CA, subscriber certificate, Timestamp Authority, and security event data records for at least 2 years
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2021-November/000634.html
-[2]: /baseline-requirements-code-signing/
+[2]: /working-groups/code-signing/documents/
 [3]: https://lists.cabforum.org/pipermail/cscwg-public/2021-October/000597.html

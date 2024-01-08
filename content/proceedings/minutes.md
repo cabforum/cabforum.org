@@ -25,9 +25,9 @@ Here are the minutes pages for each of the Forum’s groups:
 
 [Network Security Working Group Minutes][6]
 
-[1]: /forum-minutes/
+[1]: /about/forum-minutes/
 [2]: /forum-minutes/face-to-face-minutes/
-[3]: /server-certificate-wg-minutes/
-[4]: /code-signing-certificate-wg-minutes/
-[5]: /smime-wg-minutes/
-[6]: /netsec-wg-minutes/
+[3]: /working-groups/server/minutes/
+[4]: /working-groups/code-signing/minutes/
+[5]: /working-groups/smime/minutes/
+[6]: /working-groups/netsec/minutes/
