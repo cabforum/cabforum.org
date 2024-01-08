@@ -38,6 +38,6 @@ jobs:
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
-          issue-number: "${{ steps.link-checker-issue.outputs.issue_number }}"
+          issue-number: "${{ steps.link-checker-issue.outputs.issue-number }}"
           content-filepath: ./lychee/out.md
           labels: link checker, automated issue
