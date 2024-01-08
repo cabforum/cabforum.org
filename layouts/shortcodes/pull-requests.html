@@ -15,7 +15,7 @@
                     <li>
                         <strong><a href="{{ .html_url }}" target="_blank" title="Open issue on GitHub">{{ .title }}</a></strong><br />
                         <small>{{ .created_at | time.Format ":date_medium" }}</small><br />
-                        <p>{{ .body }}</p>
+                        <p>{{ .body | markdownify }}</p>
                     </li>
                 {{- end -}}
             </ul>
