@@ -5,6 +5,10 @@ author: Ben Wilson
 date: 2018-10-08 03:43:20
 title: Proceedings
 type: page
+
+menu:
+  main:
+    weight: 7
 ---
 
 [Ballots][1]

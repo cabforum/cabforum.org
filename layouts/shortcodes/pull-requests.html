@@ -1,0 +1,27 @@
+{{- $url := (printf "https://api.github.com/repos/cabforum/%s/issues?per_page=100&type=pr&state=%s&labels=%s" (.Get `repository`) (.Get `state`) (.Get `labels`)) -}}
+{{- $opts := dict
+    "headers" (dict "Authorization" (printf "Bearer %s" (getenv "GITHUB_TOKEN")))
+-}}
+
+{{- with resources.GetRemote $url $opts -}}
+    {{- with .Err -}}
+        {{- warnf "%s - %s" . $url -}}
+        Unable to retrieve pull-requests with labels {{ $.Get `labels` }} from the <a href="https://github.com/cabforum/{{ $.Get `repository` }}/pulls" target="_blank">{{ $.Get `repository` }} repository</a>.
+    {{- else -}}
+        {{- if ne .Content "[]" -}}
+            {{- with .Content | transform.Unmarshal -}}
+            <ul>
+                {{- range . -}}
+                    <li>
+                        <strong><a href="{{ .html_url }}" target="_blank" title="Open issue on GitHub">{{ .title }}</a></strong><br />
+                        <small>{{ .created_at | time.Format ":date_medium" }}</small><br />
+                        <p>{{ .body }}</p>
+                    </li>
+                {{- end -}}
+            </ul>
+            {{- end -}}
+        {{- else -}}
+            No pull re-quests with state {{ $.Get `state` }} and labels {{ $.Get `labels` }} in the <a href="https://github.com/cabforum/{{ $.Get `repository` }}/pulls" target="_blank">{{ $.Get `repository` }} repository</a>.
+        {{- end -}}
+    {{- end -}}
+{{- end -}}

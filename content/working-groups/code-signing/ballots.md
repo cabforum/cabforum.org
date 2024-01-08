@@ -8,4 +8,14 @@ linkTitle: Ballots
 
 ---
 
+## Open Ballots (GitHub Pull Requests)
+
+{{< pull-requests repository="code-signing" state="open" labels="ballot" >}}
+
+## Closed Ballots (GitHub Pull Requests)
+
+{{< pull-requests repository="code-signing" state="closed" labels="ballot" >}}
+
+## Passed Ballots
+
 {{< pages-with-tags tags="Ballot,Code Signing" >}}
