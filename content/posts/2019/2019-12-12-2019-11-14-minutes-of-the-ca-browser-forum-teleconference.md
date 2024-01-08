@@ -16,33 +16,21 @@ Adam Clark (Visa), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daniela Hood
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
 ### 4. Discuss Action Items from the recent F2F 48 meeting
 
-
-
 ### Infrastructure Subcommittee
-
-
 
 - Jos and Ryan will continue to work on a ballot to make the BRs “pandoc friendly”
 
@@ -58,21 +46,15 @@ No changes to the agenda.
 
 ### S/MIME WG
 
-
-
 - Someone (?) to draft and send the charter based on the F2F discussion. Unfortunately the minutes are missing and the recording is not available yet.
 - Tim mentioned that a couple of people are working on a charter and he hopes to be able to send a draft out today.
 
 ### Photo Policy
 
-
-
 - Dimitris to finalize the draft proposal and describe the red/dark blue lanyard colors to indicate additional-privacy/no-additional-privacy request.
 - Ryan to propose language improvements for the “attribution” to IETF.
 
 ### Issues with Bylaws
-
-
 
 - Dimitris to propose text for Bylaws so that each Member participating in a Working Group to designate voting representatives. If a Member wants to designate different representatives for the Forum level compared to the Working Group level, they can do so. Only votes from official representatives will count. Each voting representative may extend or restrict the set of voting members. Voting representatives can also be introduced or removed by a Member’s legal (or properly delegated) representative.
 - Dimitris to prepare some draft language in the following weeks.
@@ -81,8 +63,6 @@ No changes to the agenda.
 
 ### Who signs the IPR Agreement
 
-
-
 - Dimitris (and Ryan?) to describe the scenario where the CA/B Forum receives an application from a CA, which is the “Owner”, but that CA uses a different Legal Entity as the CA “Operator”. The “Operator” is the one likely to participate in CA/B Forum activities and likely to “Contribute”. The safe approach is to require both Legal Entities to sign the IPR Agreement.
 - Draft language in the Bylaws to give guidance for this particular scenario because we had it more than once. It shouldn’t be too hard to describe this. Ryan agreed it should be trivial to describe what happens when a Member delegates participation or the operations of their CA and also voting. We could imagine a scenario where the Policy Management Authority controls the voting rights and delegates the other operations and participation. We could allow this flexibility if this is combined with the previous discussion about voting representatives.
 - Dimitris and Ryan can continue this offline and work on this language.
@@ -90,16 +70,12 @@ No changes to the agenda.
 
 ### Concept of member
 
-
-
 - Ryan to work with counsel to identify inconsistencies.
 - Ben recommended to go through the Bylaws/IPR Policy and flag instances that contain inconsistencies. Actions?
 - Ryan mentioned that this is a similar problem as the problem with the legal representatives.
 - Ben was not sure if it was the same thing but he noticed that we don’t have a “member agreement” but just an “IPR agreement” which may not bind a Member to the Bylaws. Ryan replied that this should probably not lead in creating a new membership agreement document. Tim mentioned that this could be an “interesting” area because the IPR Policy is mentioned in the Bylaws and if there is no legally-binding process for the Members to follow the Bylaws it would lead into “interesting” situations. Ryan replied that by binding a Member to the IPR Policy, automatically binds them with the Bylaws. It might be a lot to unpack on this call and suggested we either discuss at the next call or on the list. Dimitris recommended that we hold off on opening this topic and work with other action items with more priority. This won’t go away from the list of issues.
 
 ### Time requirements for CAs as Associate Members
-
-
 
 - Dimitris to describe a process to evaluate CAs that are Associate Members once a year. There is no need to change the Bylaws but we should try to have a clear process to implement the policy requirement to review CAs that are in the Associate Member category.
 - There were some good suggestions from Jos.
@@ -111,8 +87,6 @@ Dean reminded Members and Associate Members to vote on Doug’s Doodle poll for 
 Finally, Jos mentioned that the Infrastructure Subcommittee meeting invitation was just sent out to 6-7 participants that were active in previous meetings. If anyone is interested in attending the subcommittee’s activities, he will post the meeting information on the wiki.
 
 ### 6. Next call
-
-
 
 December 12, 2019 at 11:00 am Eastern Time.
 

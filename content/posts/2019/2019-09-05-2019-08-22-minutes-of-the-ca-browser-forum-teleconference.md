@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Daniela Hood (GoDaddy), Dean Cocl
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -83,8 +75,6 @@ Dimitris agreed to that approach but also mentioned that the Google document wit
 Dean reminded Members that plan to attend F2F 48 and 49 to signup and update the participant tables on the wiki so that the hosts can plan ahead.
 
 ### 9. Next call
-
-
 
 September 5, 2019 at 11:00 am Eastern Time.
 

@@ -16,23 +16,15 @@ Antonio Perez (GoDaddy), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Dean C
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Vice-Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -43,8 +35,6 @@ The minutes from F2F 46 were approved and will be published on the public web si
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 Tim H. gave the update. There was a brief discussion for SC17 on the validation subcommittee call. There will be a new version coming up later today or tomorrow trying to resolve some parsing ambiguities due to the “hyphen” character. There will be at least one more version sent out before voting begins. The SC also discussed method 10 and Ryan was going to report on the status of the new ALPN RFC at IETF. The SC is also looking for a volunteer to draft a ballot for improving method 6.
 
@@ -71,8 +61,6 @@ Wayne asked if this was going to be one big ballot and Ben responded that it wou
 
 #### Ballots in Discussion Period
 
-
-
 _Ballot SC17: Alternative registration numbers for EU certificates_ (Tim H.): No additional comments were made.
 
 **Ballots in Voting Period**
@@ -82,8 +70,6 @@ None
 **Ballots in Review Period**
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)No additional comments were made.
 

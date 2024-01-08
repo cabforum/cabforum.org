@@ -13,8 +13,6 @@ type: post
 
 ## Vote Results
 
-
-
 The voting period for Ballot FORUM-11 has ended and **the Ballot has Failed.** Here are the results:
 
 ### Voting by Certificate Issuers – 4 votes total including abstentions 

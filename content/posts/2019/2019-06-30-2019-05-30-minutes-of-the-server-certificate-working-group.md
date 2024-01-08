@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -47,8 +39,6 @@ MSC Trustgate and iTrusChina were not trusted by a Certificate Consumer of the S
 A question was raised about whether these members needed to have applied for inclusion in any Root program. The discussion resulted that this was not a necessary requirement according to the SCWG charter or the Bylaws. In any case, Dimitris confirmed that both of these CAs had applied at least to the Mozilla Root store according to Bugzilla.
 
 ### 6. Validation Subcommittee Update
-
-
 
 Doug gave the report. It was a short meeting that didn’t go into a lot of details. It was mostly a preparation of topics for the F2F meeting.
 
@@ -71,8 +61,6 @@ _None_
 _None_
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments

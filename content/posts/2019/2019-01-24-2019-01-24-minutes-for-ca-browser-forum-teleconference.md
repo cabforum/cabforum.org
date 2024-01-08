@@ -16,23 +16,15 @@ Anna Weinberg (Apple), Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Mort
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -47,8 +39,6 @@ The Infrastructure Working Group had a short call and basically repeated items f
 A new DocuWiki instance has been launched by Jos and is being tested. A test wordpress instance launched by Daymion has been created by cloning the existing cabforum.org web site. This wordpress is part of a GoDaddy managed solution.
 
 ### 6. Follow-up on new WG Charters (Code Signing, S/MIME)
-
-
 
 Ben reported that he received only positive feedback for the Code Signing Charter, and he is looking for endorsers.
 

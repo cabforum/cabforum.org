@@ -16,23 +16,15 @@ Anna Weinberg (Apple), Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Mort
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Chair asked mr. Robin Alden to read the Antitrust Statement and asked if he could use a recording for future calls. Mr. Alden accepted.
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -46,13 +38,9 @@ The minutes of November 1, 2018 teleconference were approved and will be posted 
 
 ### 6. Application of DarkMatter for SCWG Membership
 
-
-
 The Application was approved under the “Certificate Issuer” type.
 
 ### 7. Validation Subcommittee Update
-
-
 
 Wayne gave the update and informed the group that Ballot SC13 is in the Discussion Period which is almost over, and Tim would probably start the voting soon after. He encouraged Members that have not taken a look at that ballot to do so and make sure they don’t see any issues with it.
 
@@ -70,26 +58,18 @@ Ben reported that the subcommittee is still looking for a date to schedule bi-we
 
 #### Ballots in Discussion Period
 
-
-
 _Ballot SC13: CAA Contact Property and Associated E-mail Validation Methods (Tim H.)_
 No comments were made.
 
 #### Ballots in Voting Period
 
-
-
 None
 
 #### Ballots in Review Period
 
-
-
 _Ballot SC12 – Sunset of Underscores in dNSNames (Wayne)_
 
 #### Draft Ballots under Consideration
-
-
 
 \_Removing “any other method” for IP address (Tim H.)
 

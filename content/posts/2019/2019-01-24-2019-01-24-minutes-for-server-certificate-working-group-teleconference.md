@@ -16,23 +16,15 @@ Anna Weinberg (Apple), Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Mort
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -41,8 +33,6 @@ The Agenda was approved.
 The minutes of January 10, 2019 teleconference were approved and will be posted to the Public list and the Public web site..
 
 ### 5. Validation Subcommittee Update
-
-
 
 Ballot SC14 was discussed that is currently in discussion period on the public mailing list. Ballot SC7 (remove any other method from IP validation) now has 2 endorsers
 
@@ -60,8 +50,6 @@ Ben reported that the NetSec Subcommittee continued to review the different area
 
 #### Ballots in Discussion Period
 
-
-
 _Ballot SC14: Updated Phone Validation Methods_ (Doug)
 Doug mentioned that the seven day review period is over and he plans on starting the voting period.
 
@@ -74,8 +62,6 @@ _Ballot SC7: Update IP Address Validation Methods_ (Wayne)Wayne mentioned that 
 Ballot SC13: CAA Contact Property and Associated E-mail Validation Methods (Tim H.)
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.): No comments were made.
 

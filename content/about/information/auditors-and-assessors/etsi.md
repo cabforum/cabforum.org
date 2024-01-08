@@ -61,7 +61,6 @@ https://www.etsi.org/standards-search
 
 [Specialist Task Force 438: Guidance on TS 102 042 for CAB Forum Baseline Certificates](http://portal.etsi.org/stfs/STF_HomePages/STF438/STF438.asp)
 
-
 ## Previous Versions
 
 #### General Policy Requirements for CAs – EN 319 401 and EN 319 411-1

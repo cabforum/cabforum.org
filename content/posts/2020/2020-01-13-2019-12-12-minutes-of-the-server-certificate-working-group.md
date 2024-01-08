@@ -16,23 +16,15 @@ Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Corey Bonnell (Secure
 
 ## Minutes
 
-
-
 ### 1. Roll Call, assign minute-taker
-
-
 
 The Chair took attendance. Wendy Brown volunteered to take minutes.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Accepted without change.
 
@@ -87,8 +79,6 @@ No further discussion.
 
 #### Ballots in Discussion Period
 
-
-
 None
 
 #### Ballots in Voting Period 
@@ -102,8 +92,6 @@ None
 SC24 v2: Fall Cleanup\_
 
 #### Draft Ballots under Consideration
-
-
 
 _SC20 Ballot (NSR 2): System Configuration Management_
 A request was made that they review the minutes from the last teleconference and add a problem statement as to why the ballot is being proposed. Neil said there is a problem statement in the ballot language, so this can be provided.

@@ -16,23 +16,15 @@ Adam Clark (Visa), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey 
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Accepted without changes.
 
@@ -68,26 +60,18 @@ There are 3 ballots on their way to the main Working Group.
 
 #### Ballots in Discussion Period
 
-
-
 _SC20: Configuration Management_ (Neil)
 No further discussion
 
 #### Ballots in Voting Period
 
-
-
 None
 
 #### Ballots in Review Period
 
-
-
 \_SC27: Version 3 Onion Certificates \_(Wayne) (review ends 2020-03-26)
 
 #### Draft Ballots under Consideration
-
-
 
 _SC26 – Pandoc-Friendly Markdown Formatting Changes_ (Jos)
 Ryan and Jos to work on a ballot for SC26. Ryan explained that Jos’ ballot “touches” a lot of sections of the BRs and it is very likely that new ballots might “touch” the same sections as SC26. In such cases, the ballot proposer must include language to describe how these specific sections will look like should SC26 pass or fail. If anyone wants to propose a ballot while SC26 is in the official discussion period, Ryan may assist any proposer with drafting the appropriate language to make progress in parallel. There is no need for a “quiet” period until SC26 completes its processing cycle.
@@ -102,8 +86,6 @@ This ballot will need review by several Members. He expects discussions to take 
 The latest copy will be circulated soon. Ryan mentioned that he doesn’t want to rush this ballot through and will be flexible on effective dates.
 
 ### 7. Minutes for F2F 49
-
-
 
 Dimitris mentioned that the majority of the draft minutes have been uploaded on the wiki. He emailed the minute-takers of the last 3 slots.
 

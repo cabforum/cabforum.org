@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Accepted without changes.
 
@@ -75,8 +67,6 @@ The discussion period of the ballot will soon be completed and Doug will start t
 
 #### Ballots in Voting Period
 
-
-
 None
 
 #### Ballots in Review Period 
@@ -84,8 +74,6 @@ None
 None
 
 #### Draft Ballots under Consideration
-
-
 
 _SC20 Ballot (NSR 2): System Configuration Management_ (Neil)
 The draft ballot has been circulated in the netsec list. Neil is making final adjustments (creating a redline) and will soon send it to the main WG public list.

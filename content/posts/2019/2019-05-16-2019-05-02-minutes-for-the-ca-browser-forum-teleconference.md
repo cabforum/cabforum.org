@@ -16,23 +16,15 @@ Antonio Perez (GoDaddy), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Dean C
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Vice-Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -83,8 +75,6 @@ The ballot is in the discussion period since last Friday and according to our de
 None.
 
 ### 10. Next call
-
-
 
 May 16, 2019 at 11:00 am Eastern Time.
 

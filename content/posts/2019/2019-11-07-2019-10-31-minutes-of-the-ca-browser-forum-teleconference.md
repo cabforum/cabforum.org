@@ -16,23 +16,15 @@ Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -64,8 +56,6 @@ In any case, in order to proceed we need a draft charter to be brought for discu
 
 ### 8. Finalize F2F 48 Agenda
 
-
-
 The F2F agenda was approved
 
 ### 9. Any Other Business 
@@ -77,8 +67,6 @@ Dimitris informed that Asseco-Certum sent the recommended days for May 2021. Tim
 Doug also mentioned about the meeting in Tokio hosted by GlobalSign that they are having difficulties hosting in October and recommended the first week of September. Some members responded that this might be too soon because OATI will host in June and the months of July-August are a bit slow in Forum activity. Doug said Globalsign would discuss internally and get back with more information.
 
 ### 10. Next call
-
-
 
 November 14, 2019 at 11:00 am Eastern Time.
 

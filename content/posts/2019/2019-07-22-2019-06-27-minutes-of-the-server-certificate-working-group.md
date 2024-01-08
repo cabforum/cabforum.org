@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Doug Be
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Vice-Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -41,8 +33,6 @@ The Agenda was approved.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 Tim gave the report. It was a short meeting discussing the action items from the last F2F meeting. There will be a couple of ballot coming out soon.
 
@@ -56,8 +46,6 @@ Tim H. noticed that ballot SC17 had cleared the review period but GitHub hadn’
 
 #### Ballots in Discussion Period
 
-
-
 _None_
 
 **Ballots in Voting Period**
@@ -67,8 +55,6 @@ _None_
 **Ballots in Review Period**
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments

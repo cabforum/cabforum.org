@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), 
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -54,8 +46,6 @@ No time to discuss this topic.
 
 ### 8. F2F 48 Agenda
 
-
-
 No time to discuss this topic.
 
 ### 9. Any Other Business 
@@ -63,8 +53,6 @@ No time to discuss this topic.
 No time to discuss this topic.
 
 ### 10. Next call
-
-
 
 October 31, 2019 at 11:00 am Eastern Time.
 

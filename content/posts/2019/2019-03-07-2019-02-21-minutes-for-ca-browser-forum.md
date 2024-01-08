@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Dean Co
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -47,8 +39,6 @@ Wayne reported that the Working Group will proceed with the new opensource wiki 
 There was some discussion about converting the Infrastructure Working Group into a Subcommittee when the Bylaws are amended and it seemed more trouble to convert to a Subcommittee.
 
 ### 6. Follow-up on new WG Charters (Code Signing, S/MIME)
-
-
 
 Ballot Forum-8 for the creation of the Code Signing Working Group is currently in the discussion period. Dimitris sent a red-lined version that aligns with some recommended changes proposed in the Bylaws, including two comments. Ben will review and send an updated charter, restarting the discussion period dates. Members did not raise any concerns about the core elements of the charter.
 

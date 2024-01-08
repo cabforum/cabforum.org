@@ -16,23 +16,15 @@ Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -41,8 +33,6 @@ No changes to the agenda.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 Tim reported that they had a short meeting to discuss about the validation summit items progress. They discussed about topics for the next F2F meeting where Tim asked for agenda items. None were suggested.
 
@@ -55,8 +45,6 @@ Ben was not on the call and there was no update to be reported.
 No further discussion.
 
 #### Ballots in Discussion Period
-
-
 
 \_SC23: Precertificates and OCSP (Wayne)
 \_ Wayne mentioned that the current version (v3) which was adopted by the proposer and endorsers is an alternative approach proposed by Dimitris and tweaked by Ryan which addresses the problem by updating section 4.9.10 in the BRs for the OCSP responses. Wayne encouraged members to take a look at the ballot. An effective date is not necessary because it introduces a MAY which doesn’t need to have an effective date.
@@ -74,14 +62,10 @@ None
 
 #### Ballots in Review Period
 
-
-
 \_SC21: NSR section 3 (Log Integrity Controls)(Review until Nov 3, 2019)
 \_
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments
@@ -99,8 +83,6 @@ Ryan mentioned that he doesn’t expect any progress on this ballot until the ma
 There was some discussion around the markdown fixes for pandoc-friendly rendering. One of the issues that has been discussed before is the formatting of listed items and whether this ballot should attempt to address this issue. The current Guidelines include several different listings (i, ii, iii, a, b, c, A, B, C, etc), some of which are included in long paragraphs and it would be better if they were split into bulleted or numbered lists for easier reading. However, it is possible that these current lists are referenced either from other parts of the same document or other documents, even CP/CPS documents from CAs. Although such changes would improve readability, it was recommended not to make such changes in this ballot and be addressed at a later time.
 
 ### 8. Approve F2F 48 Agenda
-
-
 
 The F2F agenda was approved. Ryan added a point of concern related to new topics being introduced in meetings, and F2F slots in particular, and recommended that proposers of new topics send some information to the public list beforehand. That would assist participants to prepare and effectively engage in the discussion. Dimitris mentioned that although this is not a requirement, it is a good practice. Wayne added that he would also send a message to the public list about the “default-allow, default deny” discussion topic.
 

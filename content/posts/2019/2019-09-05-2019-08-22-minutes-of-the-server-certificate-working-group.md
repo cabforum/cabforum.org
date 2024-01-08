@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Daniela Hood (GoDaddy), Dean Cocl
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -41,8 +33,6 @@ No changes to the agenda.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 Method 6 (http) has a draft ballot that Doug posted, it is the last ballot coming from the Validation Summit, and there was some discussion about the redirects. Doug will most probably propose limiting to 10 redirects.
 
@@ -62,8 +52,6 @@ No further discussion on ballots under consideration
 
 #### Ballots in Discussion Period
 
-
-
 \_Ballot SC22: Reduce Certificate Lifetimes \_(Ryan)
 Mike asked about the three-week discussion period and whether that was something decided at the Validation Subcommittee. Ryan mentioned that it was discussed at the subcommittee level for about a month and then moved to ballot in order to get any further feedback.
 
@@ -76,8 +64,6 @@ _None_
 _None_
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments

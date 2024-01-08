@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -41,8 +33,6 @@ No changes to the agenda.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 The subcommittee did not meet since the last meeting so there was no update.
 
@@ -68,8 +58,6 @@ No further discussion.
 
 #### Ballots in Discussion Period
 
-
-
 _None_
 
 #### Ballots in Voting Period 
@@ -81,8 +69,6 @@ _SC21 Ballot (NSR 3): Log Integrity Controls_ (Ben)
 _None_
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments
@@ -96,8 +82,6 @@ _Precertificates and OCSP_ (Wayne)
 Wayne explained that in order to understand this ballot one would have to go back and read the public discussions in m.d.s.p. mailing list. The problem is that section 7.1.2.5 in the BRs explicitly states that a pre-certificate is not a Certificate and it’s unclear what needs to happen in terms of OCSP. This ballot is trying to clarify the interpretation so that, as Rob Stradling from Sectigo said, some CAs would not be stuck violating certain policies because these policies have a conflict. Wayne mentioned that he has two endorsers and will initiate the review period soon.
 
 ### 8. F2F 48 Agenda
-
-
 
 The draft agenda is up on the wiki. Dimitris said that other than the typical slots we have no special topics to discuss. He reminded participants that the F2F meetings are a great opportunity to discuss in person some of the more controversial topics which are difficult to resolve via the mailing lists. Members are requested to check and propose new items to discuss at the F2F.
 

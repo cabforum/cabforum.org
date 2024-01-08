@@ -16,23 +16,15 @@ Chris Kemmerer (SSL.com), Daymion Reynolds (GoDaddy), Dean Coclin (Digicert), De
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 

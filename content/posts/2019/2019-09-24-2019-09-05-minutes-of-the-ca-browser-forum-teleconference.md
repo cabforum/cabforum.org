@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -63,8 +55,6 @@ Dean reminded Members that we now have 43 attendees and if anyone plans to atten
 Dimitris and Dean said we should start working on the agenda for the F2F by the next meeting. We also don’t have any guest speakers for F2F 48 and perhaps we could find speakers that could connect remotely.
 
 ### 9. Next call
-
-
 
 September 19, 2019 at 11:00 am Eastern Time.
 

@@ -36,8 +36,6 @@ The voting period for Ballot FORUM-10 has ended and **the Ballot has Passed.*
 
 ### Relevant Bylaw references
 
-
-
 Bylaw 2.3(6) requires:
 
 - a “yes” vote by two-thirds of Certificate Issuer votes and 50%-plus-one Certificate Consumer votes for approval. Votes to abstain are not counted for this purpose. This requirement was met for both Certificate Issuers and Certificate Consumers.

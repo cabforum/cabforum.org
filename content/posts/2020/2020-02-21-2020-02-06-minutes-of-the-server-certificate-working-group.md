@@ -16,23 +16,15 @@ Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Cur
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Accepted without changes.
 
@@ -60,8 +52,6 @@ Accepted without objections.
 
 #### Ballots in Discussion Period
 
-
-
 _SC20: Configuration Management_ (Neil)
 Ryan suggested there could be “creative interpretations” to the text related to desired config changes that would not be considered compliance issues. He recommended alternative language that will be discussed at the next meeting. The plan is to put this ballot out for a vote soon. The subcommittee agreed to stick with lightweight changes that Ryan proposed.
 \_
@@ -77,8 +67,6 @@ None
 _SC25: Define New HTTP Domain Validation Methods (review ends 2020-03-03)_
 
 #### Draft Ballots under Consideration
-
-
 
 _SC26 – Pandoc-Friendly Markdown Formatting Changes_ (Jos)
 Jos posted a quick update that fixed the issues. Comparison is now easier. Plans to start the discussion period.

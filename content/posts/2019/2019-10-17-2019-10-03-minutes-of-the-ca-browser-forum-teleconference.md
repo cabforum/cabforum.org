@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -66,8 +58,6 @@ It seems that there is some interest for this WG to move forward, the Forum rece
 
 ### 8. F2F 48 Agenda
 
-
-
 The draft agenda is up on the wiki. Dimitris mentioned about the photo policy to be discussed. He also reserved a slot to discuss about Bylaws issues since there was no feedback on the mailing list. Members are requested to check and propose new items to discuss at the F2F.
 
 ### 9. Any Other Business 
@@ -75,8 +65,6 @@ The draft agenda is up on the wiki. Dimitris mentioned about the photo policy to
 None.
 
 ### 10. Next call
-
-
 
 October 17, 2019 at 11:00 am Eastern Time.
 

@@ -66,7 +66,6 @@ The CA/Browser Forum welcomes new applicants with an interest in S/MIME for memb
 
 In addition, the S/MIME Certificate Working Group provides a public mailing list. To subscribe, see: [/mailman/listinfo/smcwg-public][7]
 
-
 ## Members 
 
 **Certificate Issuers:**

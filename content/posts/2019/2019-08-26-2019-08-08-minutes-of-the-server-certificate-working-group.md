@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean C
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Vice-Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -43,8 +35,6 @@ There was discussion on the list about the minutes from the 25-July call. Ryan s
 The minutes from the previous teleconference – with an additional comment stating “a discussion ensued referencing previous discussions around this topic”  – were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 The Subcommittee discussed the LEI ballot that Tim has drafted. Some of the ballot language is copied from the LEI website and can be clarified. There was discussion around clarifying the validation process, tightening up the algorithm. The reason is that the LEI database isn’t even a QIIS. Tim is open to proposals.
 Discussed a questions about attorney/accountant letters. Dean is waiting on Ryan to draft a reply.
@@ -65,8 +55,6 @@ No further discussion on ballots under consideration.
 
 #### Ballots in Discussion Period
 
-
-
 _None_
 
 #### Ballots in Voting Period 
@@ -76,8 +64,6 @@ _None_
 #### Ballots in Review Period 
 
 #### Draft Ballots under Consideration
-
-
 
 _LEI (Tim H.)_ – No additional comments
 

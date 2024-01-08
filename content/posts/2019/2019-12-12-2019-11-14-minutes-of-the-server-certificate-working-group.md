@@ -16,23 +16,15 @@ Adam Clark (Visa), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daniela Hood
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Ben Wilson proposed to add the default-deny discussion to the agenda.
 
@@ -60,8 +52,6 @@ No further discussion.
 
 #### Ballots in Discussion Period
 
-
-
 None
 
 #### Ballots in Voting Period 
@@ -74,8 +64,6 @@ None\_
 \_
 
 #### Draft Ballots under Consideration
-
-
 
 _SC20 Ballot (NSR 2): System Configuration Management_
 No additional comments.

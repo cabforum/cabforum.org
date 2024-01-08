@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daymion
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -41,8 +33,6 @@ The Agenda was approved.
 The minutes from F2F 46 are almost complete. Dimitris sent a reminder to a few minute-takers that haven’t added the minutes of some sessions and will send another reminder on Friday April 5th.
 
 ### 5. Validation Subcommittee Update
-
-
 
 The Validation Subcommittee had a quick call and discussed the results of the F2F and priorities. The next two things the SC will work on is Ballot SC5 which is a phone validation method (Doug is working on that), and ballot SC6 (still looking for someone to work on it). Also the TLS ALPN ballot is on hold until the RFC is finalized.
 
@@ -55,8 +45,6 @@ Dimitris proposed that if these sub-groups meet regularly, we should probably ad
 ### 7. Ballot Status 
 
 #### Ballots in Discussion Period
-
-
 
 \_Ballot \__SC17: Alternative registration numbers for EU certificates_ (Tim H.)Dimitris mentioned that there were some comments posted related to ballot SC17 and he and Tim are trying to address those comments. He is working with Tim to create a version 3 addressing as many comments/concerns as possible. Tim has been traveling the past weeks so the ballot update is moving slower than usual.
 
@@ -76,8 +64,6 @@ None
 _Ballot SC16: Other Subject Attributes_ (Wayne)
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 5, Phone Contact with DNS CAA Phone Contact (Doug)
 \_ No additional comments were made._

@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Dean Co
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -41,8 +33,6 @@ The Agenda was approved.
 The minutes of February 7, 2019 teleconference were approved and will be posted to the Public list and the Public web site..
 
 ### 5. Validation Subcommittee Update
-
-
 
 Tim H. reported that on their last subcommittee meeting, they invited representatives of GLEIF to discuss about LEI. The entire call was basically a Q&A from members trying to clarify some issues with LEI that is considered to be included in Certificates. Where were no specific follow-ups but this topic will certainly be discussed by the Validation SC at the F2F and future calls.
 
@@ -53,8 +43,6 @@ There was nothing new to report.
 ### 7. Ballot Status 
 
 #### Ballots in Discussion Period
-
-
 
 None
 
@@ -71,8 +59,6 @@ Ballot SC14: Updated Phone Validation Methods\_ (Doug)
 _Ballot SC15: Remove Validation Method Number 9_ (Doug)
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)No additional comments were made.
 

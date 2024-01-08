@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), 
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -41,8 +33,6 @@ No changes to the agenda.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 Doug gave the update. There was a long meeting discussing about LEI, the pros and cons LEI and usefulness. Draft meeting minutes have been circulated on the validation subcommittee list and Doug will need to listen to conversations and send a final version of the minutes.
 
@@ -65,8 +55,6 @@ Kirk reminded the group that one of the mandate of the subcommittee was to deal 
 No further discussion.
 
 #### Ballots in Discussion Period
-
-
 
 _SC23 Ballot: Precertificates and OCSP_ (Wayne)
 
@@ -94,8 +82,6 @@ None
 _SC21: NSR section 3 (Log Integrity Controls)(Review until Nov 3, 2019)_
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments
@@ -134,8 +120,6 @@ Ryan also brought up the non-critical Name Constraints issue which is currently 
 Finally, Ryan mentioned about another discussion on the mailing list regarding the “Default-deny”, “default-allow” on how to read the BRs. How should that be read in the requirements. Ryan wants to get feedback from members so he can see a different perspective about how some of the requirements in the BRs are read so to establish the “default state”. He would also like some feedback about the critical/non-critical Name Constraints issue.
 
 ### 8. F2F 48 Agenda
-
-
 
 The draft agenda is up on the wiki. Dimitris already announced the guest speakers. Any changes should be communicated by the next meeting so we can approve the agenda. There was no further feedback from participants.
 

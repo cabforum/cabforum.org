@@ -16,23 +16,15 @@ Aaron Poulsen (Amazon), Adam Clark (Visa), Adam Jones (Microsoft), Adrian Muelle
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 

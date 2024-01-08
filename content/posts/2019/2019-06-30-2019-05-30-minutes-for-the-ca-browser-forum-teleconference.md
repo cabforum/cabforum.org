@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -79,8 +71,6 @@ Dimitris sent a proposal to the management list about acknowledging the antitrus
 Doug mentioned that Globalsign is planning on hosting in Tokyo in October 2020. The summer Olympics are a little before that and Globalsign wants to lock in dates as in order to locate a venue as soon as possible. It’s not too early to start a doodle poll with available dates so Globalsign can get some initial feedback for preferable dates. Dough agreed to send out some possible dates.
 
 ### 11. Next call
-
-
 
 June 27, 2019 at 11:00 am Eastern Time.
 

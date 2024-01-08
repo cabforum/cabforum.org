@@ -16,23 +16,15 @@ Chris Kemmerer (SSL.com), Daymion Reynolds (GoDaddy), Dean Coclin (Digicert), De
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -50,8 +42,6 @@ It was decided that the F2F 46 minutes will be considered for approval at the ne
 
 ### 5. Validation Subcommittee Update
 
-
-
 Tim H. gave the update. The Validation Subcommittee went through the suggestions made for validation methods that hadn’t been reviewed yet since the Validation Summit. There weren’t any strong suggestions and decided to defer those methods until there is more work that needs to be done on those methods.
 
 The subcommittee will continue discussions on improving two methods; the “http” and the “dns” change method. The EU/EV orgID ballot (SC17) was also discussed and a new version was posted yesterday. Dimitris already indicated some formatting errors that will be corrected in a new version soon to be released. If anyone else has any changes to suggest, please send them.
@@ -63,8 +53,6 @@ Ben was not on the call and no other member was able to give a report so we reco
 ### 7. Ballot Status 
 
 #### Ballots in Discussion Period
-
-
 
 _Ballot SC17: Alternative registration numbers for EU certificates_ (Tim H.)
 
@@ -81,8 +69,6 @@ None
 **Ballots in Review Period**
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 

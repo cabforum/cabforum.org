@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Doug Be
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Vice-Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -65,8 +57,6 @@ Wayne reiterated that we would like to get those minutes approved and out to the
 No other business to discuss.
 
 ### 10. Next call
-
-
 
 July 11, 2019 at 11:00 am Eastern Time.
 

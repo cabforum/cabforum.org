@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 The Agenda was approved.
 
@@ -41,8 +33,6 @@ The Agenda was approved.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 The Subcommittee did not meet due to US holiday.
 
@@ -56,8 +46,6 @@ No further discussion on ballots under consideration
 
 #### Ballots in Discussion Period
 
-
-
 _None_
 
 **Ballots in Voting Period**
@@ -67,8 +55,6 @@ _None_
 **Ballots in Review Period**
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments

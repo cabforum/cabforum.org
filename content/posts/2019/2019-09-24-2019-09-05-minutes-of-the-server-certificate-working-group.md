@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -41,8 +33,6 @@ No changes to the agenda.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 Ryan provided the update. The subcommittee discussed about the LEI ballot objectives. Members from GLEIF will be invited to participate on the next subcommittee call.
 
@@ -58,8 +48,6 @@ No further discussion on ballots under consideration
 
 #### Ballots in Discussion Period
 
-
-
 _None_
 
 #### Ballots in Voting Period 
@@ -72,8 +60,6 @@ No additional comments
 _None_
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments

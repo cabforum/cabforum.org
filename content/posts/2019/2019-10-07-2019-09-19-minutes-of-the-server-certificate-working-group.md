@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 No changes to the agenda.
 
@@ -41,8 +33,6 @@ No changes to the agenda.
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
 ### 5. Validation Subcommittee Update
-
-
 
 Tim provided the update. Stephan from GLEIF was invited to participate on the subcommittee call to discuss about the inclusion of LEIs in Certificates. The discussion was not concluded within the hour of the call but there was a lot of progress made and may have to invite him back on a future call. He mentioned that Ryan posted the minutes and Kirk suggested some changes but there was a disagreement about some points. Tim listened to the recording and reviewed the minutes. His personal opinion was that the discussion was mostly captured in the minutes posted by Ryan, almost as a transcript which included a lot of details. Kirk proposed some important edits to the minutes which, from Tim’s quick review, appear to be accurate. He would hope people can continue that discussion and come to a conclusion about what the minutes are without him having to take any additional actions. It was a good discussion and a lot of background information was provided about how LEIs came to be. Ryan also raised some concerns about their inclusion in Certificates. As an additional comment, Tim said that it would be useful if Ryan could summarize his concerns about the use of LEI in EV Certificates and post them to the list, so that other people can address them. If there is serious ecosystem harm with this proposal, we need to discuss it so we can find possible solutions to these concerns.
 
@@ -59,8 +49,6 @@ No further discussion.
 
 #### Ballots in Discussion Period
 
-
-
 _None_
 
 #### Ballots in Voting Period 
@@ -72,8 +60,6 @@ _None_
 _None_
 
 #### Draft Ballots under Consideration
-
-
 
 _Improvements for Method 6, website control_ (Tim H.)
 No additional comments

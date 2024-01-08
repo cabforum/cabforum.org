@@ -16,23 +16,15 @@ Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daymion
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved. Dimitris mentioned that the Code Signing Working Group update slot was added to the agenda similarly to the Infrastructure Working Group. No objections were raised to this permanent addition.
 

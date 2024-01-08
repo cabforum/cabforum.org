@@ -16,23 +16,15 @@ Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com)
 
 ## Minutes
 
-
-
 ### 1. Roll Call
-
-
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
-
-
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
-
-
 
 Today’s Agenda was approved.
 
@@ -61,8 +53,6 @@ The F2F 47 minutes will be considered for approval on the next scheduled telecon
 No other business to discuss.
 
 ### 10. Next call
-
-
 
 July 25, 2019 at 11:00 am Eastern Time.
 
