@@ -90,11 +90,12 @@ table {
     @extend .table-bordered;
     @extend .table-striped;
     @extend .table-hover;
-    @extend .overflow-x-scroll;
 
     text-align: left;
-    width: 100%;
     margin-top: 1.6em;
+    width: 100%;
+    overflow-x: auto;
+    display: block;
 }
 
 thead {
