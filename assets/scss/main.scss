@@ -90,6 +90,7 @@ table {
     @extend .table-bordered;
     @extend .table-striped;
     @extend .table-hover;
+    @extend .overflow-x-scroll;
 
     text-align: left;
     width: 100%;
