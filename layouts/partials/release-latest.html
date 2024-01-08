@@ -9,9 +9,9 @@
         <div class="border-bottom pb-2 mb-4">Unable to retrieve latest release information from the <a href="https://github.com/cabforum/{{ $.repository }}/releases" target="_blank">{{ $.repository }} repository</a>.</div>
     {{- else -}}
         {{- with .Content | transform.Unmarshal -}}
-        <div class="border-bottom pb-1 mb-4">
-            <a class="fw-bold" href="{{ .html_url }}" target="_blank">{{ .name }}</a><br />
-            <small>{{ .published_at | time.Format ":date_medium" }}</small><br />
+        <div class="border-bottom pb-2 mb-4">
+            <strong>{{ $.title }}</strong><br />
+            <a href="{{ .html_url }}" target="_blank">{{ .name }}</a> - <small>{{ .published_at | time.Format ":date_medium" }}</small><br />
             <p class="text-body-secondary">{{ .body }}</p>
         </div>
         {{- end -}}
