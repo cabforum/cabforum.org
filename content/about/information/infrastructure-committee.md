@@ -60,21 +60,14 @@ Member organizations of the Forum that choose to participate in the FIWG may dec
 
 The following Forum Members have declared their participation in this Committee:
 
-| | |
-| --- | --- |
-| **Company** | **Representative(s)** | |
-Cisco Systems |
-Jos Purvis | |
-DigiCert |
-Tim Hollebeek, Dean Coclin | |
-Google |
-Ryan Sleevi | |
-Mozilla |
-Ben Wilson | |
-HARICA |
-Dimitris Zacharopoulos | |
-GoDaddy |
-Jim Gorz, Llewellyn Curran, Dre Armeda |
+| **Company**   | **Representative(s)**                  |
+| ------------- | -------------------------------------- |
+| Cisco Systems | Jos Purvis                             |
+| DigiCert      | Tim Hollebeek, Dean Coclin             |
+| Google        | Ryan Sleevi                            |
+| Mozilla       | Ben Wilson                             |
+| HARICA        | Dimitris Zacharopoulos                 |
+| GoDaddy       | Jim Gorz, Llewellyn Curran, Dre Armeda |
 
 ### Voting and Voting Structure 
 
