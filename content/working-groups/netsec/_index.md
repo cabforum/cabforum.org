@@ -45,7 +45,7 @@ The CA/Browser Forum welcomes existing members with an interest in system securi
 
 ## Mailing List 
 
-The NetSec WG provides a public mailing list. See
+The NetSec WG provides a public mailing list. See https://lists.cabforum.org/pipermail/netsec/
 
 **To subscribe, see:** [**/mailman/listinfo/netsec**][5].
 
