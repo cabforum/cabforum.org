@@ -16,6 +16,6 @@ type: page
 
 [Documents][3]
 
-[1]: /proceedings/ballots/
-[2]: /proceedings/minutes/
-[3]: /proceedings/documents/
+[1]: ballots/
+[2]: minutes/
+[3]: documents/
