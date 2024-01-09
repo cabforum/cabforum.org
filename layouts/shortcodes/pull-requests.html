@@ -21,7 +21,7 @@
             </ul>
             {{- end -}}
         {{- else -}}
-            No pull re-quests with state {{ $.Get `state` }} and labels {{ $.Get `labels` }} in the <a href="https://github.com/cabforum/{{ $.Get `repository` }}/pulls" target="_blank">{{ $.Get `repository` }} repository</a>.
+            No pull re-quests in state '{{ $.Get `state` }}' and labeled with '{{ $.Get `labels` }}' in the <a href="https://github.com/cabforum/{{ $.Get `repository` }}/pulls" target="_blank">{{ $.Get `repository` }} repository</a>.
         {{- end -}}
     {{- end -}}
 {{- end -}}
