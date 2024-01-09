@@ -1,14 +1,14 @@
-<div class="row p-0 mx-0 my-2">
+<div class="row gx-0 gx-lg-4 p-0 mx-0 my-1">
 
     <div class="col-12 col-lg-9">
-        <div class="border-bottom pb-1 mb-2 fw-light">
+        <div class="border-bottom p-1 mb-2 fw-light">
             <small>
                 {{ partial "breadcrumbs.html" . }}
             </small>
         </div>
 
-        <div class="bg-white shadow-sm border-bottom border-primary border-4">
-            <div id="content" class="p-4 border-top border-start border-end" data-pagefind-body>
+        <div class="overflow-hidden text-wrap bg-white shadow-sm border-bottom border-primary border-4">
+            <div id="content" class="p-2 p-lg-4 border-top-lg border-start-lg border-end-lg" data-pagefind-body>
                 <div class="border-bottom mb-2"><h1>{{ if .Params.Header }}{{ .Params.Header }}{{ else }}{{ .Title }}{{ end }}</h1></div>
                 <div class="pt-3">{{ .Content }}</div>
             </div>
