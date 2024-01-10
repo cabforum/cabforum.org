@@ -3,8 +3,8 @@
     {{ $customDateFormat := "January 2, 2006" }}
     {{ with $.Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
     <br>
-    <small class="d-inline-block mw-100 text-truncate overflow-hidden">
-        {{ $.PublishDate.Format $customDateFormat }} by {{ .Params.Author }}
+    <small class="d-inline-block mw-100 text-truncate overflow-hidden pe-1">
+        {{ $.PublishDate.Format $customDateFormat }} by <a href="{{ $.Site.BaseURL }}author/{{ urlize .Params.Author }}/">{{ .Params.Author }}</a>
     </small>
     <div class="d-inline-block mw-100 text-truncate overflow-hidden">
         {{ partial "tags" $.Params.tags }}
