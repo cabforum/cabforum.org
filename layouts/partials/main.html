@@ -18,7 +18,9 @@
     </div>
     
     <div class="col">
-        <div class="mb-4 mt-2">{{- partial "menu.html" . -}}</div>
+        {{- if ne .Type "post" -}}
+            <div class="mb-4 mt-2">{{- partial "menu.html" . -}}</div>
+        {{- end -}}
         <div class="mb-4 d-none d-lg-block">{{- partialCached "search.html" . -}}</div>
         <div class="mb-4 d-none d-lg-block">
             <div class="bg-white shadow-sm border-bottom border-primary border-4">
@@ -33,6 +35,40 @@
                 </div>
             </div>
         </div>
+        {{- if eq .Type "post" -}}
+            <div class="mb-4 d-none d-lg-block">
+                <div class="bg-white shadow-sm border-bottom border-primary border-4">
+                    <div class="border-top border-start border-end">
+                        <div class="bg-body-secondary fw-bolder p-1 text-uppercase">Related posts</div>
+                        <div class="menu py-4">
+                            {{- $related := .Site.RegularPages.Related . | first 5 -}}
+                            {{- with $related -}}
+                                <ul>
+                                {{- range . -}}
+                                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                                {{- end -}}
+                                </ul>
+                            {{- end -}}
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-4 d-none d-lg-block">
+                <div class="bg-white shadow-sm border-bottom border-primary border-4">
+                    <div class="border-top border-start border-end">
+                        <div class="bg-body-secondary fw-bolder p-1 text-uppercase">Tags</div>
+                        <div class="p-4">
+                            {{- with .Params.tags -}}
+                                {{- partial "tags.html" . -}}
+                            {{- end -}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+        {{- end -}}
     </div>
     
 </div>
