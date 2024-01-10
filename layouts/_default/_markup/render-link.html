@@ -1,1 +1,6 @@
-<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- $url := .Destination -}}
+{{- if ( hasPrefix $url "/" ) -}}
+    {{- $u := urls.Parse site.BaseURL -}}
+    {{- $url = path.Join $u.Path (strings.TrimLeft "/" $url) -}}
+{{- end -}}
+<a href="{{ $url | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix $url "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
