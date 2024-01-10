@@ -27,9 +27,9 @@ The primary deliverable of the NetSec WG is the NCSSRs. Other work includes perf
 
 ## Officers 
 
-Chair: Clint Wilson ([Apple][2])
+Chair: Clint Wilson ([Apple](https://www.apple.com/))
 
-Vice Chair: David Kluge ([Google Trust Services][3])
+Vice Chair: David Kluge ([Google Trust Services](https://pki.goog/))
 
 ## Ballots 
 
@@ -37,7 +37,7 @@ Vice Chair: David Kluge ([Google Trust Services][3])
 
 ## Participation 
 
-The CA/Browser Forum welcomes existing members with an interest in system security to join the NetSec WG. There is no cost to join. Existing CABF Members should provide their declaration of intent to participate in the NetSec WG and the following information by email to [**questions@cabforum.org**][4]:
+The CA/Browser Forum welcomes existing members with an interest in system security to join the NetSec WG. There is no cost to join. Existing CABF Members should provide their declaration of intent to participate in the NetSec WG and the following information by email to questions@cabforum.org:
 
 - statement of the Voting Class by which they qualify;
 - names/email addresses of their designated representatives who will participate; and
@@ -47,54 +47,50 @@ The CA/Browser Forum welcomes existing members with an interest in system securi
 
 The NetSec WG provides a public mailing list. See https://lists.cabforum.org/pipermail/netsec/
 
-**To subscribe, see:** [**/mailman/listinfo/netsec**][5].
+**To subscribe, see:** https://lists.cabforum.org/mailman/listinfo/netsec.
 
 ## Members 
 
 **Certificate Issuers:**
-Amazon
-Asseco Data Systems SA (Certum)
-Buypass AS
-Chunghwa Telecom
-Comsign
-Digicert
-Disig
-eMudhra
-Entrust
-GDCA
-GlobalSign
-GoDaddy
-HARICA
-Kamu SM
-Let’s Encrypt
-OATI
-OISTE Foundation
-Sectigo
-SecureTrust
-SSL.com
-SwissSign
-Taiwan CA
-Telia Company
-TrustCor Systems
-Visa
+- Amazon
+- Asseco Data Systems SA (Certum)
+- Buypass AS
+- Chunghwa Telecom
+- Comsign
+- Digicert
+- Disig
+- eMudhra
+- Entrust
+- GDCA
+- GlobalSign
+- GoDaddy
+- HARICA
+- Kamu SM
+- Let’s Encrypt
+- OATI
+- OISTE Foundation
+- Sectigo
+- SecureTrust
+- SSL.com
+- SwissSign
+- Taiwan CA
+- Telia Company
+- TrustCor Systems
+- Visa
 
 **Certificate Consumers:**
-Apple
-Google
-Microsoft
-Mozilla
-Opera Software AS
+- Apple
+- Google
+- Microsoft
+- Mozilla
+- Opera Software AS
 
 **Interested Parties:**
-Fastly
-PrimeKey
+- Fastly
+- PrimeKey
 
 **Associate Members:**
-CPA Canada/WebTrust
-US Federal PKI Management Authority
+- CPA Canada/WebTrust
+- US Federal PKI Management Authority
 
 [1]: /working-groups/smime-certificate-wg/
-[2]: https://www.apple.com/
-[3]: https://pki.goog/
-[4]: mailto:questions@cabforum.org
-[5]: /mailman/listinfo/netsec
