@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-08-27-ballot-forum-1-establish-forum-infrastructure-working-group/
+- /2018/08/27/ballot-forum-1-establish-forum-infrastructure-working-group/
 author: Ben Wilson
 date: 2018-08-27 19:16:17
 tags:
@@ -14,17 +14,17 @@ The voting period for Ballot Forum-1 has ended and the Ballot has passed. Here a
 
 Voting by CAs – 14 votes total including abstentions
 
-14 Yes votes: Buypass, Certigna (DHIMYOTIS), DigiCert, Disig, Entrust Datacard, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, Network Solutions, SSC, TrustCor, Trustwave
-0 No votes:
-0 Abstain:
-100% of voting CAs voted in favor
+- **14 Yes votes:** Buypass, Certigna (DHIMYOTIS), DigiCert, Disig, Entrust Datacard, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, Network Solutions, SSC, TrustCor, Trustwave
+- **0 No votes:**
+- **0 Abstain:**
+  100% of voting CAs voted in favor
 
 Voting by browsers – 6 votes total including abstentions
 
-6 Yes votes: Cisco, Google, Microsoft, Mozilla, Opera, 360
-0 No votes:
-0 Abstain:
-100% of voting browsers voted in favor
+- **6 Yes votes:** Cisco, Google, Microsoft, Mozilla, Opera, 360
+- **0 No votes:**
+- **0 Abstain:**
+  100% of voting browsers voted in favor
 
 Under Bylaw 2.2(g), a ballot result will be considered valid only when more than half of the number of currently active Members has participated. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting is 10, so quorum was 11 votes – quorum was met.
 
@@ -41,7 +41,7 @@ The CA/Browser Forum has grown considerably over the last few years and is now d
 
 The following motion has been proposed by Jos Purvis of Cisco and endorsed by Tim Hollebeek of Digicert and Wayne Thayer of Mozilla.
 
-— MOTION BEGINS —
+## Motion begins
 
 Establish Forum Infrastructure Working Group
 
@@ -58,10 +58,10 @@ The authorized scope of the Forum Infrastructure Working Group shall be as follo
 
 **Out of Scope**
 The following items are considered out of scope for the Working Group under this charter:
-- The FIWG will not address coordination of Forum or Working Group face-to-face meetings.
-- The FIWG will not create Final Guidelines or Final Maintenance Guidelines as defined in the Bylaws and IPR Policy.
-- The FIWG shall provide recommendations of infrastructure acquisition or use to the Forum, but shall not impose requirements upon the rest of the Forum.
-- The FIWG will not address the acquisition or maintenance of software or services used for online meetings of the Forum Plenary or Working Groups.
+• The FIWG will not address coordination of Forum or Working Group face-to-face meetings.
+• The FIWG will not create Final Guidelines or Final Maintenance Guidelines as defined in the Bylaws and IPR Policy.
+• The FIWG shall provide recommendations of infrastructure acquisition or use to the Forum, but shall not impose requirements upon the rest of the Forum.
+• The FIWG will not address the acquisition or maintenance of software or services used for online meetings of the Forum Plenary or Working Groups.
 In addition to the above, the work of the FIWG in managing content updates to online content shall be offered to Working Groups and Subcommittees, but shall not supplant the responsibilities of Forum chairs or members to do so as required by the Bylaws.
 
 **Anticipated End Date**
@@ -73,11 +73,11 @@ The proposer of the ballot, Jos Purvis, will act as chair of the FIWG until the 
 
 **Members Eligible to Participate**
 The FIWG welcomes the participation of any Member organization of the Forum Plenary interested in this work, and also invites Interested Parties and Associate Members as defined in the Bylaws to participate in its meetings and work. In addition to organizations choosing to participate in the FIWG, the following people shall be automatically declared as Members of the FIWG:
-- The Forum Plenary Chair;
-- The Forum Plenary Vice-Chair;
-- The Forum Plenary Webmaster;
-- The Forum Plenary List Manager;
-- The Forum Plenary Questions List Coordinator.
+• The Forum Plenary Chair;
+• The Forum Plenary Vice-Chair;
+• The Forum Plenary Webmaster;
+• The Forum Plenary List Manager;
+• The Forum Plenary Questions List Coordinator.
 The Chair of each Forum Working Group shall be automatically declared a Member of the FIWG unless they specifically designate an alternate in their place. Participation in the FIWG does not alone qualify a participant for Forum membership.
 
 **Membership Declaration**
@@ -88,9 +88,9 @@ Voting in the FIWG shall be limited to FIWG members who are listed as a voting M
 
 **Summary of Major WG Deliverables and Guidelines**
 The deliverables of the FIWG are defined in the Scope section above. In addition to the general focus of the Working Group, however, the following specific deliverables are defined:
-- A review of the current web, document review, and wiki software in use to help ensure it meets the security and content needs of the Forum;
-- Creation of separate wiki space for each Forum Working Group, to enable the division of content required by the IPR Policy;
-- A review of the current public web content and reorganization as required to support the new Forum Working Group changes.
+• A review of the current web, document review, and wiki software in use to help ensure it meets the security and content needs of the Forum;
+• Creation of separate wiki space for each Forum Working Group, to enable the division of content required by the IPR Policy;
+• A review of the current public web content and reorganization as required to support the new Forum Working Group changes.
 
 **Primary Means of Communication**
 The FIWG will communicate primarily through listserv-based email, and shall conduct periodic calls or face-to-face meetings as needed.
@@ -98,12 +98,11 @@ The FIWG will communicate primarily through listserv-based email, and shall cond
 **IPR Policy**
 As with all Forum Working Group activity, the CA/Browser Forum Intellectual Rights Policy v1.3 or later shall apply to all activities and work of the FIWG.
 
-— MOTION ENDS—
-
-The procedure for approval of this ballot is as follows:
-Discussion Period (7 days):
-Start Time: Monday, 13 August 2018 at 0900 UTC
-End Time: Monday, 20 August 2018 at 0800 UTC
-Vote for Approval (7 days):
-Start Time: Monday, 20 August 2018 at 0900 UTC
-End Time: Monday, 27 August 2018 at 0900 UTC
+- MOTION ENDS
+  The procedure for approval of this ballot is as follows:
+  Discussion Period (7 days):
+  Start Time: Monday, 13 August 2018 at 0900 UTC
+  End Time: Monday, 20 August 2018 at 0800 UTC
+  Vote for Approval (7 days):
+  Start Time: Monday, 20 August 2018 at 0900 UTC
+  End Time: Monday, 27 August 2018 at 0900 UTC

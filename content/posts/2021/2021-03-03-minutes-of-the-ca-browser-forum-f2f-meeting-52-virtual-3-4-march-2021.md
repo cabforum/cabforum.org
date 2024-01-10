@@ -1,24 +1,24 @@
 ---
 aliases:
-- /2021-03-03-minutes-of-the-ca-browser-forum-f2f-meeting-52-virtual-3-4-march-2021/
+- /2021/03/03/minutes-of-the-ca-browser-forum-f2f-meeting-52-virtual-3-4-march-2021/
 author: Jos Purvis
 date: 2021-03-03 16:42:00
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 52 Meeting, Virtual, 3-4 March 2021
 type: post
 ---
 
-# Wednesday, 3 March 2021 – Plenary Meeting (Day 1) 
+# Wednesday, 3 March 2021 – Plenary Meeting (Day 1)
 
-## CA/Browser Forum Plenary Session 
+## CA/Browser Forum Plenary Session
 
 The Antitrust statement was read.
 
 **Attendees:** Aaron Poulsen (Digicert), Aaron Gable (Let’s Encrypt), Adrian Mueller (SwissSign), Ahmad Syafiq MD Zaini (MSC Trustgate), Aleksandra Kurosz (Asseco Data Systems SA (Certum)), Ali Gholami (Telia), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Brenda Bernal (Digicert), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Clemens Wanko (ACAB Council), Curt Spann (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eusebio Herrera (AC Camerfirma), Eva Vansteenberge (GlobalSign), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Iñigo Barreira (360 Browser), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jeremy Rowley (Digicert), Jos Purvis (Cisco Systems), Juan-Angel Martin (AC Camerfirma SA), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Kati Davids (GoDaddy), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Michael Guenther (SwissSign), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Nick France (Sectigo), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rebecca Kelley (Apple), Rob Stradling (Sectigo), Ryan Sleevi (Google), Sebastian Schulz (GlobalSign), Sissel Hoel (Buypass AS), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Chris Czajczyc (Deloitte (WebTrust)), Ian McMillan (Microsoft)
 
-### Report from Code Signing Certificate Working Group 
+### Report from Code Signing Certificate Working Group
 
 **Presenter:** Bruce Morton (Entrust)
 **Note Taker:** Bruce Morton (Entrust)
@@ -39,14 +39,14 @@ CSWG is also working on the following items:
 
 Based on ballot CSC-4, there have been a few items to clarify regarding 3072 and SHA. The new certificate requirement will allow existing roots and subordinate CA to use 3072-but RSA, but new roots and subordinate CAs must be 4096-bit RSA. Code Signing and Time-stamping certificate minimum is 3072, but may be 4096. Cross-certificate to extend ubiquity for a new root may be issued from 2048 root, but the cross-certificate must expire by 31 December 2030. CAs can support SHA-1 revocation responses after the sunset date and SHA-1 Time-stamp certificates can only be issued until 30 April 2022.
 
-### Report from S/MIME Certificate Working Group 
+### Report from S/MIME Certificate Working Group
 
 **Presenter:** Stephen Davidson (Digicert)
 **Note Taker:** Stephen Davidson (Digicert)
 
 The Antitrust statement was read. Membership in the SMCWG has grown to 27 certificate issuers, 6 certificate consumers, 3 associate members, and 6 interested parties. Since last CABF virtual F2F, the SMCWG has conducted a discussion of leaf certificate profiles, noting existing relevant standards and requirements. This has lead to creation of certificate policy framework that both brings current acceptable practice into an auditable state, and sets longer terms goals such as dedicated S/MIME certs. S/MIME types (mailbox, organization, sponsored, individual) will exist in these grades (legacy, multipurpose, strict). Discussion has also progressed on email verification methods, with a goal of adopting BR methods now but considering additionl automated methods (such as acme-email-smime and acme-sso) in future. The draft of the SMIME BR has been moved to CABF SMIME GitHub, currently as a working draft in a fork of the “PreSBR” branch. As with other CABF standards, we plan on creating new branches for each ballot, and only moving to the “Main” branch upon successful passage of a ballot. Thank you to the Infrastructure Committee! In coming months the SMCWG will seek to finalise the draft leaf certificate profiles and begin documenting the ICA and root CA requirements. Further discussion is required on validity and verification reuse periods.
 
-### Report from Forum Infrastructure Subcommittee 
+### Report from Forum Infrastructure Subcommittee
 
 **Presenter:** Jos Purvis (Cisco)
 **Note Taker:** Ryan Sleevi (Google)
@@ -60,11 +60,11 @@ The Antitrust statement was read. Membership in the SMCWG has grown to 27 certif
 - More discussion later during the F2F
 - More work on use cases and structure
 
-**The Forum Plenary was adjourned**
+## The Forum Plenary was adjourned
 
-## Server Certificate Working Group 
+## Server Certificate Working Group
 
-### Report from SCWG Network Security Subcommittee 
+### Report from SCWG Network Security Subcommittee
 
 **Presenter:** Neil Dunbar (Trustcor)
 **Note Taker:** Dustin Hollenback (Microsoft)
@@ -85,7 +85,7 @@ The Antitrust statement was read. Membership in the SMCWG has grown to 27 certif
 - Presentation Comments
 - No comments
 
-### Report from SCWG Validation Subcommittee 
+### Report from SCWG Validation Subcommittee
 
 Presenters: Tim Hollebeek (Digicert), Wayne Thayer (Mozilla)
 Note Taker: Wayne Thayer (Mozilla)
@@ -104,27 +104,27 @@ Tim went on to state that the subcommittee is focused on four main topics:
 
 No questions were asked.
 
-### Future face to face meeting schedule 
+### Future face to face meeting schedule
 
 **Presenter:** Dean Coclin (Digicert)
 **Note Taker:** Dean Coclin (Digicert)
 
 Future meetings were discussed. Dean said the summer 2021 meeting would be virtual, unless others objected, and he would send out a Doodle poll for the dates. The Fall meeting is proposed to be hosted by OATI and we will have to wait a bit to see if that’s going to be possible. Nick France said many countries are on lockdown and are prohibiting international travel, hence it’s hard to predict when that would be relaxed. Given the uncertainty and the timelines, no decisions beyond summer 2021 were made at this time. We will revisit this at the next F2F.
 
-### Apple Root Program Update 
+### Apple Root Program Update
 
 **Presenter:** Clint Wilson (Apple)
 **Note Taker:** Enrico Entschew (D-TRUST)
 
-#### CT Policy Reminder 
+#### CT Policy Reminder
 
 CT Policy changes announced, enforcement date moved back a few weeks to April 21, 2021. Open to feedback on the upcoming changes.
 
-#### Full CRLs and CCADB fields 
+#### Full CRLs and CCADB fields
 
 Efforts of the CAs, especially HARICA, to provide some basic automation to fill in the fields were appreciated. The same goes for the conversation with Ryan and Aaron.
 
-#### New fields within CCADB to populate full CRLs or equivalent representation 
+#### New fields within CCADB to populate full CRLs or equivalent representation
 
 Two different fields: Full CRL (a single URL for a CRL covering the entire issuance), which is preferred, or, alternatively, a JSON array of CRL URLs (TBI) which combined cover the entire issuance. Via API, fields will be dynamically updatable in the future
 
@@ -142,7 +142,7 @@ Goal:
 - Interested in collaborating with CAs on platform-level revocation and ensuring this approach is scalable and sustainable. Other options may exist for tackling these problems, and open to exploring these other options, even though the focus right now is on full CRLs (If you are interested, please contact Clint Wilson or Curt Spann)
 - Minimal disruption to end-user experience
 
-#### Root Inclusion Process Update 
+#### Root Inclusion Process Update
 
 - Working through the queue about 5x faster than in the past.
 - Goal to move to a similar level of agility as asked for of CAs.
@@ -152,7 +152,7 @@ Goal:
 - Priority is given to existing CAs, and to removal of CAs, such as due to incidents, over new inclusion requests
 - Decision will be reached and communicated with the CA
 
-#### Questions 
+#### Questions
 
 Wayne Thayer: Have you considered setting up a subcommittee and/or mailing list in the CA/B Forum to support collaboration with CAs \[around revocation improvements\]?
 Clint: Fantastic suggestion. It’s something we’ve considered, and would be interested in what would be most valuable for CAs.
@@ -160,18 +160,18 @@ Wayne Thayer: It would be interesting to gauge interest and who would be willing
 Jos Purvis: Revocation has been an issue in the industry for a while. Lots of discussion about what’s acceptable and what isn’t. A subcommittee would be good to work through this.
 (Support in the Chat from Tim Hollebeek and Trevoli Ponds-White to a Subcommittee)
 
-### Cisco Root Program Update 
+### Cisco Root Program Update
 
 **Presenter:** J.P. Hamilton, Jos Purvis (Cisco)
 **Note Taker:** No update was presented.
 
-### Google Root Program Update 
+### Google Root Program Update
 
 **Presenters:** Ryan Sleevi, Devon O’Brien (Google)
 **Note Taker:** Neil Dunbar (TrustCor)
-**Presentation:**  (note: Green arrows added post-meeting for clarification of the discussion)
+**Presentation:** (note: Green arrows added post-meeting for clarification of the discussion)
 
-#### Devon’s update on CT Plans shared to ct-policy@chromium.org Key Points 
+#### Devon’s update on CT Plans shared to ct-policy@chromium.org Key Points
 
 - Google Log policy to go at some point – Google should not be a critical dependency as a log provider
 - Another CT virtual day planned
@@ -181,7 +181,7 @@ Jos Purvis: Revocation has been an issue in the industry for a while. Lots of di
 - Expiry Range enforcement has been pushed back
 - Project work on Android is to enforce CT on Chrome dependent on dynamic CT log list
 
-#### Ryan’s update to Chrome Root Program 
+#### Ryan’s update to Chrome Root Program
 
 Work continued to have as a goal of zero user visible disruption; goal for CAs to have a consistent, predictable model of how their certificates will behave on Chrome on all platforms. Still some edge cases to work through to ensure no disruption to users. If issues are likely to impact CAs, Google Chrome will reach out to them to work out any bugs or issues. Chrome does work differently on some platforms – not the desired goal.
 
@@ -247,7 +247,7 @@ Ryan replied that this is an area for the root programs to take the lead and wor
 
 Google recognize that root programs may have different requirements on size of hierarchies. Ryan does not think that this design will make it into the BRs in the next year; but he is up for discussion as always.
 
-### Microsoft Root Program Update 
+### Microsoft Root Program Update
 
 **Presenter:** Karina Sirota (Microsoft)
 **Note Taker:** Ryan Sleevi (Google)
@@ -257,14 +257,14 @@ Sebastian (GlobalSign): When you say you require testing, what e-mail do you use
 Karina: We use the alias for the CA from CCADB to communicate with the CA that may need to be impacted by testing.
 Mike Reilly (Microsoft): To the testing point, we really want to encourage CAs to test. There have been some self-inflicted incidents caused by a lack of testing, and we really want to work with CAs to avoid that.
 
-### Mozilla Root Program Update 
+### Mozilla Root Program Update
 
 Presenter: Ben Wilson (Mozilla)
 Note Taker: Clint Wilson (Apple)
 Presentation:
-Uploaded as PDF:  (No questions were asked following the presentation)
+Uploaded as PDF: (No questions were asked following the presentation)
 
-### CCADB Update 
+### CCADB Update
 
 Presenter: Kathleen Wilson (Mozilla)
 Note Taker: Dimitris Zacharopoulos (HARICA)
@@ -276,30 +276,30 @@ Uploaded as PDF:
 - CAs can only update their hierarchies
 - CAs can only update Intermediate CA records
 
-#### Additional comments 
+#### Additional comments
 
 Ben: Some audit reports include CA certificate SHA256 hashes on a table which wrap on multiple lines. This doesn’t work in several cases. Auditors should prefer adding these hashes on a single line.
 
-### Discussion of cabforum.org Website 
+### Discussion of cabforum.org Website
 
-**Presenter:** Ben Wilson (Mozilla) **Note Taker:**
+## Presenter:\*\* Ben Wilson (Mozilla) \*\*Note Taker
 
-**The Server Certificate Working Group was adjourned**
+## The Server Certificate Working Group was adjourned
 
-# Thursday, 4 March 2021 – Plenary Meeting (Day 2) 
+# Thursday, 4 March 2021 – Plenary Meeting (Day 2)
 
-## Server Certificate Working Group, cont’d 
+## Server Certificate Working Group, cont’d
 
 The Antitrust statement was read.
 
 **Attendees:** Adrian Mueller (SwissSign), Ahmad Syafiq MD Zaini (MSC Trustgate), Aleksandra Kurosz (Asseco Data Systems SA (Certum)), Ali Gholami (Telia), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arno Fiedler (D-TRUST), Barry Kilborn (Quo Vadis), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (DigiCert), Clemens Wanko (ACAB Council), Curt Spann (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Iñigo Barreira (360 Browser), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jeremy Rowley (Digicert), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Kati Davids (GoDaddy), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Michael Guenther (SwissSign), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rebecca Kelley (Apple), Ryan Sleevi (Google), Sebastian Schulz (GlobalSign), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Ian McMillan (Microsoft)
 
-### Guest Speaker: “Cryptography in a post quantum world” 
+### Guest Speaker: “Cryptography in a post quantum world”
 
 _Presenter:_ Dustin Moody, NIST
 _Presentation:_ [/uploads/nist_pqc\_-\_30.pptx][3]
 
-### ETSI Update 
+### ETSI Update
 
 **Presenter:** Arno Fiedler (Vice Chair ETSI ESI) and Nick Pope (Vice Chair ETSI ESI)
 **Note Taker:** Sebastian Schulz (GlobalSign)
@@ -320,11 +320,12 @@ Arno Fiedler closes with the announcement of TSP Forum and CA Day
 ETSI TR-119460:
 ETSI Audit Attestation Letter Templates for download, Version 2.7 here:
 
-### Acab’c Update 
+### Acab’c Update
 
 **Presenter:** Clemens Wanko (TÜV AUSTRIA)
 **Note Taker:** Enrico Entschew (D-TRUST)
-**Presentation:**
+
+## Presentation
 
 In addition to the information in the slides, the following was reported by Clemens Wanko:
 
@@ -334,60 +335,60 @@ In addition to the information in the slides, the following was reported by Clem
 - This morning, a CA’s current AAL was used to test the extent to which the audit attestation letter could be processed by the audit attestation letter validation tool. The new template is taking care of the requirement that no line, feed or page break in the SHA 256 fingerprint is accepted.
 - ACAB’C offers that whenever a more detailed report on a CA is needed, e.g. on topics such as findings or methodologies on how the audit was conducted, this can be done on demand.
 
-### WebTrust Update 
+### WebTrust Update
 
 **Presenter:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Note Taker:** Andrea Holland (SecureTrust)
 **Presentation:**
 
-#### Items mentioned in addition to slides 
+#### Items mentioned in addition to slides
 
 _Don Sheehy:_
 
-##### WETSI – December meeting discussions 
+##### WETSI – December meeting discussions
 
 - Impact of ISO 27099. Once it is released, later this year, it might impact our base WebTrust service. Our initial principles and criteria were based on international ISO standards.
 - Audit issues and audit techniques
 - On-going reporting considerations
 
-##### Impact of Covid-19 
+##### Impact of Covid-19
 
 - Guide was developed for covid-19 that leveraged from SOC reporting from AICPA on remote audit
 
-##### Practitioner Guidance for auditors 
+##### Practitioner Guidance for auditors
 
 - Will be incorporating remote auditing testing techniques and any other updates
 
 _Jeff Ward:_
 
-##### Details Controls Reporting 
+##### Details Controls Reporting
 
 - Reached out to clients to see what needs to be added to the report
 - Tweaking based on risk profiles from the firms on the task force
 
-##### Current Status of Updated WebTrust Documents 
+##### Current Status of Updated WebTrust Documents
 
 - Bridging of reports is possible for Code Signing
 
-##### WebTrust Reports Available 
+##### WebTrust Reports Available
 
 - Key Protection is used for multiple keys are generated or one that is not used right away to make sure it is stored safely
 - Applicability matrix has which reports are applicable when, for what, and the versions
 - All the templates are on the website or in the process of being posted
 
-##### Enhancement of CPA Canada Processes 
+##### Enhancement of CPA Canada Processes
 
 - Focus on making sure have qualified practitioners
 - Third party assessment from consulting firm looked at risk of the WebTrust program. Report not released yet, will report in June
 
 No additional questions or comments
 
-### CABF Website: Use Cases and Feedback 
+### CABF Website: Use Cases and Feedback
 
 **Presenter:** Ben Wilson (Mozilla)
 **Note Taker:** Jos Purvis (Cisco)
 
-Ben: What we were talking about in Infra was to go over some use cases and then gather feedback about what we should do with the website. I have a mind-map we’ve created of the website with the idea that we would organize the home page and menu items to focus on the different working groups—instead of having the BRs, EVGs, it would be the different working groups. Then we would redo the Documents page and have that be the most current version of the documents and have a link to the archive of older versions. One of the things that Dean had asked is that we make it clearer for Interested Parties and what they want to do, so we have that as a use case now. The other two use cases are “current member wants to review most current version of a document” (which we discussed, and we’d also have document links on the WG pages). We wouldn’t delete any existing pages, we’d just add paths from the menus or pages. Another use case is “a CA/Certificate Consumer wants to join the Forum”. Mainly we want to gather some info about the membership’s needs or wants or requests.
+Ben: What we were talking about in Infra was to go over some use cases and then gather feedback about what we should do with the website. I have a mind-map we’ve created of the website with the idea that we would organize the home page and menu items to focus on the different working groups-instead of having the BRs, EVGs, it would be the different working groups. Then we would redo the Documents page and have that be the most current version of the documents and have a link to the archive of older versions. One of the things that Dean had asked is that we make it clearer for Interested Parties and what they want to do, so we have that as a use case now. The other two use cases are “current member wants to review most current version of a document” (which we discussed, and we’d also have document links on the WG pages). We wouldn’t delete any existing pages, we’d just add paths from the menus or pages. Another use case is “a CA/Certificate Consumer wants to join the Forum”. Mainly we want to gather some info about the membership’s needs or wants or requests.
 
 Dean Coclin (DigiCert): Right now if I go to the Ballots page there’s a list of ballots. How is that populated–manual? Automatic?
 Ben: It pulls it automatically. The way we’ve done it in the past is that pages are tagged with the ‘Ballots’ tag and then pages with that tag are pulled into that list based on that tag. So when we post a new ballot, we just tag it as category Ballot–then the table then generates based on that. We could play around with that to see that the most current one is at the top–I think it’s alphabetical right now, and we could have it show chronological.
@@ -429,7 +430,7 @@ Ben: I was thinking if we had the WGs across the top then people don’t have to
 Trev: Yes.
 Jos: I would encourage anyone that has more feedback to contact the members of the Infra subcommittee so we can incorporate it into our construction efforts.
 
-**The Server Certificate Working Group was adjourned**
+## The Server Certificate Working Group was adjourned
 
 [1]: /uploads/f2f_52_summary_presentation.pdf
 [2]: /uploads/microsoft_cabf_52_update.pdf

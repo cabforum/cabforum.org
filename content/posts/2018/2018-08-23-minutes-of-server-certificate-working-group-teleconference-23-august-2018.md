@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-08-23-minutes-of-server-certificate-working-group-teleconference-23-august-2018/
+- /2018/08/23/minutes-of-server-certificate-working-group-teleconference-23-august-2018/
 author: Ben Wilson
 date: 2018-08-23 12:05:03
 tags:

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-04-15-ballot-41-auditing-report-publication/
+- /2010/04/15/ballot-41-auditing-report-publication/
 author: Ben Wilson
 date: 2010-04-15 23:59:00
 tags:

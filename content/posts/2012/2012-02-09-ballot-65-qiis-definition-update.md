@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-02-09-ballot-65-qiis-definition-update/
+- /2012/02/09/ballot-65-qiis-definition-update/
 author: Ben Wilson
 date: 2012-02-09 21:21:15
 tags:
@@ -16,13 +16,12 @@ Motion
 
 Jeremy Rowley made the following motion, and Rich Smith and Stephen Davidson endorsed it:
 
-— Motion begins —
+## Motion begins
 
 Effective immediately:
 
-— Erratum begins —
-
-Replace Section 10.10.5 in the EV Guidelines:
+- Erratum begins
+  Replace Section 10.10.5 in the EV Guidelines:
 
 A Qualified Independent Information Source (QIIS) is a regularly-updated and current, publicly available, database designed for the purpose of accurately providing the information for which it is consulted, and which is generally recognized as a dependable source of such information. A commercial database is a QIIS if the following are true:
 
@@ -54,14 +53,8 @@ A Qualified Independent Information Source (QIIS) is a regularly-updated and cur
 
 Databases in which the CA or its owners or affiliated companies maintain a controlling interest, or in which any Registration Authorities or subcontractors to whom the CA has outsourced any portion of the vetting process (or their owners or affiliated companies) maintain any ownership or beneficial interest do not qualify as a QIIS. The CA MUST check the accuracy of the database and ensure its data is acceptable.
 
-______________________________________________________________________
-
-Erratum Ends
-
-______________________________________________________________________
+### Erratum Ends
 
 The ballot review period comes into effect at 2100 UTC on 2 Feb ’12 and will close at 2100 UTC on 9 Feb ’12. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 16 Feb ’12. Votes must be cast by “reply all” to this email.
 
-______________________________________________________________________
-
-Motion Ends
+## Motion Ends

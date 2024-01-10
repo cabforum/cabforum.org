@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-07-05-ballot-172-removal-permanent-identifier/
+- /2016/07/05/ballot-172-removal-permanent-identifier/
 author: Ben Wilson
 date: 2016-07-05 16:12:46
 tags:
@@ -22,7 +22,7 @@ Dean Coclin
 
 CA/B Forum Chair
 
-**Ballot 172 – Removal of permanentIdentifier from EV Code Signing Guidelines**
+## Ballot 172 – Removal of permanentIdentifier from EV Code Signing Guidelines
 
 The following motion has been proposed by Bruce Morton of Entrust and endorsed by Rick Andrews of Symantec and Jeremy Rowley of DigiCert:
 
@@ -34,9 +34,9 @@ The EV Code Signing Guidelines require a SAN which includes the permanentIdentif
 
 Effective upon the date of passage, the following modifications are made to the EV Code Signing Guidelines:
 
-Section 9.2.2 - Replace all contents with “No stipulation.”
+Section 9.2.2 • Replace all contents with “No stipulation.”
 
-Section 9.7 (B): - Remove section 9.7 (B).
+Section 9.7 (B): • Remove section 9.7 (B).
 
 –Motion Ends–
 

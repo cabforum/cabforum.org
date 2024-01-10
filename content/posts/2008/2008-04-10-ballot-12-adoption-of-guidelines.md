@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-04-10-ballot-12-adoption-of-guidelines/
+- /2008/04/10/ballot-12-adoption-of-guidelines/
 author: Ben Wilson
 date: 2008-04-10 18:20:20
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Nick Hales has made the following motion, and Johnathan Nightingale and Bjorn Vermo have endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The CABForum should adopt the “Guidelines for the issuance and management of extended validation certificates Version 1.1 Draft 03” as Version 1.1 of its Guidelines, effective immediately upon completion of the ballot period.
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 1700 EDT on (Thursday) 27 Mar 2008, and will close at 1700 EDT on (Thursday) 3 Apr 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EDT on (Thursday) 10 Apr 2008.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-10-20-2020-10-20-minutes-of-the-server-certificate-working-group/
+- /2020/10/20/2020-10-20-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2020-10-20 03:45:00
 tags:
@@ -12,11 +12,11 @@ type: post
 
 _Note: These minutes are for the session that took place the day before the CA/B-F Face-to-Face 51 sessions._
 
-## Attendees 
+## Attendees
 
 Doug Beattie, Don Sheehy, Ryan Sleevi, Dean Coclin, Atsushi Inaba, Nick France (Sectigo), Dustin Hollenback, Aneta Wojtczak-Iwanicka, Dimitris Zacharopoulos, Clemens Wanko, Tadahiko Ito, Andreas Henschel, Enrico Entschew, Devon O’Brien, Matthias Wiedenhorst, Eva Van Steenberge, Jos Purvis, Mike Reilly, Karina Sirota, Clint Wilson, Trevoli Ponds-White, Derek Bronson, Arno Fiedler, Vijay Kumar, Arvind Srinivasan, Saiprasad KP, Bruce Morton, Wayne Thayer, Stephen Davidson, Janet Hines, Hongquan Yin, Peter Miskovic, Hazhar Ismail, Wang Chunlan, Xiu Lei, Leo Grove, Chris Kemmerer, Tom Zermeno, Abdul Hakeem Putra, Ahmad Syafiq MD Zaini, Tobias Josefowitz, Ben Wilson, Wendy Brown, Michelle Coon, Aaron Gable, Li-Chun Chen, Matthias Wiedenhorst, Andrea Holland, Daniela Hood, Clint Wilson, Adrian Mueller, David Kluge, An Yin, Neil Dunbar, Curt Spann, Jan Völkel, Arnold Essing, Paul van Brouwershaven, Hiroshi Sakai, Andrew Whalley, Tim Hollebeek, Wei YiCai, Rebecca Kelley, Niko Carpenter, Rich Smith, Leticia Webb, Mariusz Kondratowicz, Michael Slaughter, George Sebastian, Aaron Poulsen (Digicert).
 
-## Network Security Subcommittee 
+## Network Security Subcommittee
 
 _Presenter:_ Neil Dunbar (Trustcor)
 _Note Taker:_ Ben Wilson (Mozilla)
@@ -39,15 +39,15 @@ Slide 7 – In our network security subcommittee, we need to take a more skeptic
 
 Three subgroups make up the subcommittee: 1) Pain points (CAs and auditors), 2) Threat modelling and 3) Document restructuring
 
-### Document restructuring subgroup 
+### Document restructuring subgroup
 
 Slide 9 – Document Structuring has been trying to move away from “zones” to a focus on logical security, without weakening security. We also want to add a new section to the NCSSRs that deals with offline/air-gapped CAs. Also there are efforts to add physical security to the BRs.
 
-### Threat modelling subgroup 
+### Threat modelling subgroup
 
 Slide 10 – Headed by Mariusz Kondratowicz, the intent is to discuss risks and prepare risk analysis for netsec ballots.
 
-### Pain Points subgroup 
+### Pain Points subgroup
 
 Slide 11 – A lot of work has been done by this group. The current view is that short-term issues have been addressed to the extent that they can be. So they will be winding down activity, but can restart as need be.
 
@@ -59,7 +59,7 @@ Slide 14 – To summarize, SC28, SC32, Offline CAs ballot, and SC34.
 
 Comments/Questions: (Comment related to discussion of Slide 4, “Low value FQDN” – there is no such thing.)
 
-Ryan: Looking at the Diginotar/Black Tulip report, now here in 2020, to what extent has this group looked at it?  What are the practices that the network security group is looking at?
+Ryan: Looking at the Diginotar/Black Tulip report, now here in 2020, to what extent has this group looked at it? What are the practices that the network security group is looking at?
 
 Neil: With the zones ballot, nothing was intended to weaken the security. Compensating controls including authentication, encryption, etc. A reason we took it back for re-drafting is in response to comments.
 
@@ -69,14 +69,14 @@ Ryan: There are a number of requirements that don’t make sense in an offline s
 
 Don: Comment on the use of cloud providers-there is a significant audit impact, at that point, with aspects of physical and environmental security, there are complexities in dealing with cloud service providers. Audit schemes should be in touch with this proposed cloud security subgroup.
 
-## Validation Subcommittee 
+## Validation Subcommittee
 
 _Presenters:_ Tim Hollebeek (Digicert), Wayne Thayer (Mozilla)
 _Note Taker:_ Rich Smith (Sectigo)
 
 Tim opened with agenda for the meeting.
 
-### Review since last F2F 
+### Review since last F2F
 
 Review since June:
 
@@ -86,7 +86,7 @@ Review since June:
 - Ongoing discussion on OU revision
 - Ongoing discussion of certificate profiles
 
-### Certificate Profiles 
+### Certificate Profiles
 
 Certificate Profiles:
 
@@ -101,7 +101,7 @@ Ryan and Tim see a default set of profile tables for OV, DV, EV covering all but
 
 Should all tables reside in Section 7 or should Section 7 point off to an Appendix which contains the profile tables? The answer may depend upon the final number of profiles/tables.
 
-### Discussion about organizationalUnitName 
+### Discussion about organizationalUnitName
 
 OU Discussion Overview: Two basic approaches:
 

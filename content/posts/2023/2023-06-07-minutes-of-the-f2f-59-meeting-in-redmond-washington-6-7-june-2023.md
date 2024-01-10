@@ -1,61 +1,62 @@
 ---
 aliases:
-- /2023-06-07-minutes-of-the-f2f-59-meeting-in-redmond-washington-6-7-june-2023/
+- /2023/06/07/minutes-of-the-f2f-59-meeting-in-redmond-washington-6-7-june-2023/
 author: Ben Wilson
 date: 2023-06-07 18:48:37
 tags:
-- Minutes
 - Forum
+- Minutes
 - Face-to-Face
 title: Minutes of the F2F 59 Meeting in Redmond, Washington, 6-7 June 2023
 type: post
 ---
 
-# Meeting 59 Minutes {#bkmrk-page-title.break-text}
+# Meeting 59 Minutes
 
-# CABF Face-to-Face Meeting 59: Day 1 June 6, 2023 {#bkmrk-cabf-face-to-face-me}
+# CABF Face-to-Face Meeting 59: Day 1 June 6, 2023
 
-## Attendance {#bkmrk-attendance}
+## Attendance
 
 Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), An Yin – (iTrusChina), Andreas Henschel – (D-TRUST), Aaron Poulsen – (Amazon), Aneta Wojtczak-Iwanicka – (Microsoft), Antti Backman – (Telia Company), Arno Fiedler – (ETSI), Ben Dewberry – (Keyfactor), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Bruce Morton – (Entrust), Chris Clements – (Google), Christophe Bonjean – (GlobalSign), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dave Chin – (CPA Canada/WebTrust), David Kluge – (Google), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Don Sheehy – (CPA Canada/WebTrust), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Ellie Lu – (TrustAsia Technologies, Inc.), Enrico Entschew – (D-TRUST), Eva van Steenberge – (GlobalSign), Fumi Yoneda – (Japan Registry Services), Georgy Sebastian – (Amazon Trust Services), Glaucia Young – (Microsoft), Hannah Sokol – (Microsoft), Hogeun Yoo – (NAVER Cloud), Hubert Chao – (Google), Ian McMillan – (Microsoft), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), J.P. Hamilton – (Cisco), Jamie Mackey – (US Federal PKI Management Authority), Janet Hines – (VikingCloud), Jeremy Rowley – (DigiCert), Joanna Fox – (TrustCor Systems), John Sarapata – (Google), Jonathan Kozolchyk – (Amazon Trust Services), Jos Purvis – (Fastly), Joseph Ramm – (OATI), JP Hamilton – (Cisco Systems), Karina Sirota – (Microsoft), Keshava Nagaraju – (eMudhra), Kiran Tummala – (Microsoft), Lakshmi Ramalingam – (Microsoft), Leo Grove – (SSL.com), Li-Chun Chen – (Chunghwa Telecom), Mads Henriksveen – (Buypass AS), Mahua Chaudrhi – (Microsoft), Marco Schambach – (IdenTrust), Mark Nelson – (IdenTrust), Martijn Katerbarg – (Sectigo), Matthias Wiedenhorst – (ACAB Council), Michael Guenther – (SwissSign), Michael Slaughter – (Amazon), Michelle Coon – (OATI), Mohit Kumar – (GlobalSign), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Naveen Kumar – (eMudhra), Nick France – (Sectigo), Nicol So – (CommScope), Nitesh Bakliwal – (Microsoft), Pankaj Chawla – (eMudhra), Paul van Brouwershaven – (Entrust), Pekka Lahtiharju – (Telia Company), Peter Miskovic – (Disig), Raffaela Achermann – (SwissSign), Rebecca Kelley – (Apple), Roberto Quinones – (Intel), Rollin Yu – (TrustAsia Technologies, Inc.), Romain DELVAL – (Certigna), Ryan Dickson – (Google), Scott Rea – (eMudhra), Sissel Hoel – (Buypass AS), Stefan Kirch – (Telekom Security), Stephen Davidson – (DigiCert), Sven Rajala – (Keyfactor), Tadahiko Ito – (SECOM Trust Systems), Tahmina Ahmad – (Microsoft), Thomas Zermeno – (SSL.com), Tim Callan – (Sectigo), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek – (DigiCert), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Tsung-Min Kuo – (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha – (eMudhra), Vikas Khanna – (Microsoft), Wayne Thayer – (Fastly), Wendy Brown – (US Federal PKI Management Authority), Xiao Qiang – (GDCA), Xiu Lei – (GDCA), Yashwanth TM – (eMudhra), Yoshihiko Matsuo – (Japan Registry Services), Yoshiro Yoneya – (Japan Registry Services).
 
-## CA/Browser Forum Meeting {#bkmrk-ca%2Fbrowser-forum-mee}
+## CA/Browser Forum Meeting
 
-### Approval of CABF Minutes from last teleconference {#bkmrk-approval-of-cabf-min}
+### Approval of CABF Minutes from last teleconference
 
 **Leader:** Paul van Brouwershaven (Entrust)
 
 Minutes were approved.
 
-### Future face to face meeting schedule {#bkmrk-future-face-to-face-}
+### Future face to face meeting schedule
 
 **Leader:** Dimitris Zacharopoulos (HARICA)
-**Presentation link:**
+
+- *Presentation link:*\* [/uploads/2-CABF_Future-meetings-1.pdf](/uploads/2-CABF_Future-meetings-1.pdf)
 
 **Discussion outside the presentation:** No further discussion.
 
-### Microsoft’s Trust & Distribution Services (Guest Speaker) {#bkmrk-microsoft%27s-trust-%26-}
+### Microsoft’s Trust & Distribution Services (Guest Speaker)
 
 **Guest Speaker:** James Dunkelberger (Microsoft) and Ian McMillan (Microsoft)
-**Presentation link:** Not available
 
-### Bylaws updates part 1 {#bkmrk-bylaws-updates-part-}
+- *Presentation link:*\* Not available
+
+### Bylaws updates part 1
 
 **Leader:** Dimitris Zacharopoulos (HARICA)
-**Presentation link:** **Minutes:** Ben Wilson (Mozilla)
 
-**Discussion outside the presentation:**
+- *Presentation link:*\* [/uploads/4-CABF_Bylaws-Updates-part-1.pdf](/uploads/4-CABF_Bylaws-Updates-part-1.pdf) **Minutes:** Ben Wilson (Mozilla)
+
+## Discussion outside the presentation
 
 - Dimitris: We have been working on this for a while. Ballot Forum-15 has been distributed. The discussion period ends June 16, 2023. Please provide comments in the thread. Dimitris plans to start the voting period right after the discussion period.
 - Clint had a few topics for discussion. He noticed that the Bylaws will be adopted under CC 4.0 and wanted to highlight that for Members to know. Also, should we change the voting percentages? Dimitris said he had two slides for new topics near the end of his presentation.
 
 Specific topics from the slides were reviewed.
 
-- 1. Minimum Days to Review Minutes. There is a proposal that draft minutes be circulated at least 5 calendar days prior to a vote for approval. Dean asked what the issue is that we’re trying to address. Dean asked about the minutes for very short meetings. Does that mean we have to wait now 5 days for people to review very short minutes? Dimitris said that the purpose is to allow people some minimum time to review minutes before they are approved, and sometimes there are very extensive and complex minutes. It is very possible that some representatives are not present at the minutes approval meeting and cannot express their desire to postpone the approval of the minutes. There is a Google document that captures this issue. Dimitris said it’s not for subcommittee minutes.  Paul also said that it’s possible some representatives are not available during a subsequent meeting and will not have time to review the draft minutes before they are approved. Dimitris said that he would proceed with the proposal as written and we could have more discussion on the mailing list.
-
-1. Alignment of WG Charters. We will take the S/MIME charter as a guide. We’ll try and fix the quorum issue. Dimitris asked whether we should use a single ballot to update all working group charters. Tim H. supported this concept of a single ballot. Clint wanted to confirm that these proposed changes would occur after Ballot Forum-15. He also said a single ballot would be good. Dimitris said that numbering would be added to charters to help identify sections. Ian asked what Dimitris meant when he said that quorum would be fixed. He explained that section 2.4 of the Bylaws discusses quorum, but in the working group charters, there is a different way to calculate quorum. They should be consistent regarding “active members” being the average number that attended the last three meetings. (They should both say that quorum is half of the active members.) Martijn said that the bylaws and charter are not consistent in the way they include “interested parties” as “Members.” So under the charter, you would have to count everyone to determine quorum and you’d never reach that in voting.
-1. Dimitris has a “part 2” to discuss tomorrow (re: cadence of releasing guidelines).
-
+- 1. Minimum Days to Review Minutes. There is a proposal that draft minutes be circulated at least 5 calendar days prior to a vote for approval. Dean asked what the issue is that we’re trying to address. Dean asked about the minutes for very short meetings. Does that mean we have to wait now 5 days for people to review very short minutes? Dimitris said that the purpose is to allow people some minimum time to review minutes before they are approved, and sometimes there are very extensive and complex minutes. It is very possible that some representatives are not present at the minutes approval meeting and cannot express their desire to postpone the approval of the minutes. There is a Google document that captures this issue. Dimitris said it’s not for subcommittee minutes. Paul also said that it’s possible some representatives are not available during a subsequent meeting and will not have time to review the draft minutes before they are approved. Dimitris said that he would proceed with the proposal as written and we could have more discussion on the mailing list.
+  1. Alignment of WG Charters. We will take the S/MIME charter as a guide. We’ll try and fix the quorum issue. Dimitris asked whether we should use a single ballot to update all working group charters. Tim H. supported this concept of a single ballot. Clint wanted to confirm that these proposed changes would occur after Ballot Forum-15. He also said a single ballot would be good. Dimitris said that numbering would be added to charters to help identify sections. Ian asked what Dimitris meant when he said that quorum would be fixed. He explained that section 2.4 of the Bylaws discusses quorum, but in the working group charters, there is a different way to calculate quorum. They should be consistent regarding “active members” being the average number that attended the last three meetings. (They should both say that quorum is half of the active members.) Martijn said that the bylaws and charter are not consistent in the way they include “interested parties” as “Members.” So under the charter, you would have to count everyone to determine quorum and you’d never reach that in voting.
+  1. Dimitris has a “part 2” to discuss tomorrow (re: cadence of releasing guidelines).
 - Clint asked about whether we should revisit the required voting percentages of 1/2 + 1 of Certificate Consumers and 2/3rds of Certificate Issuers? He also asked whether the list of previously qualified Associate Members should be cleaned up? He suggested that we remove the list of previously involved Associate Members. .
 - Dimitris said that the purpose of keeping the list of previous Associate Members was historical and to illustrate the types of organizations that we’d allow to be Associate Members.
 - Clint noted that in section 5.1.1 of the Bylaws, there is an incomplete sentence – “Minutes will be considered final … provided that …” (The sentence doesn’t finish properly.)
@@ -71,40 +72,42 @@ Specific topics from the slides were reviewed.
 - Clint said he would write some of these up in GitHub and on the Public List.
 - Tim H. recommended that we look at the election rules, too.
 
-### Governance recap and IPR {#bkmrk-governance-recap-and}
+### Governance recap and IPR
 
 **Leader:** Tim Hollebeek (Digicert)
-**Presentation link:** No presentation **Minutes:**Tim Callan (Sectigo)
 
-**Discussion outside the presentation:**
+- *Presentation link:*\* No presentation \*\*Minutes:\*\*Tim Callan (Sectigo)
 
-- Tim Hollebeek: Governance reform is working pretty well.  We used to just be one group and set of meetings.  There were a few subcomittees active at any different time.  The Validation subcommittee continues to exist. The motivation for these chagnes was to split out the Code Signing working group in its own bucket. Some people didn’t want to participate in the code signing BRs for IPR reasons. Now we have the ability to have each chartered working group separate with its own separate requirements.  Now we have the same thing for the S/MIME working group. The Forum does not manage or coordinate between these working groups.  These need to be IPR protected.  The Forum is by-laws, logistics etc.
-- The NetSec Working Group is a working group that cross-cuts these other working groups.  NetSec has a charter and scope that protects from IPR concerns.  Even silent partiicpation in a working group still gives you IPR obligations.
-- Next steps: We were talking about a BRs working group for these cross-cutting initiatives.  E.g. how do audits work, how do roots work?  Clint proposed starting with definitions.  This is a great place to start.  We could start with a Definitions working ghroup that is very narrowly scoped.
-- Bruce  Morton:  If we had one working group that was cross-cutting, could these other items be subcommttees to that working group?  We would need a lot of chairs and vice chairs with not enough people to do it.  With subcommittes we could make requirements thinner and make expansion more agile.
-- Tim:  That’s an interesting idea.  There may be IPR concerns, but otherwise that’s a reasonable proposal.  Let’s think about it.
-- Dimitris:  I hear we’d be discussing less sensitive issues in the BRs working group.  There are either IPR or non-IPR issues.  In both my understanding and legal terms, I don’t believe there is some IPR or not.  We will have to engage our legal teams every time we change guidelines, etc.  So I think we’re in the same boat either way.
-- Tim:  That’s a useful perspective.  You’re right that IP is IP.  But I meant to say issues that people are less likely to be concerned when joining a group with that discussion.  We could have that problem and the more these cross-cutting working groups extend, the more of that trouble we will have.
-- Dimitris:  If we go that route, the BRs WG with chartered subcommittes is probably the best route.
-- Tim:  We could try to keep the IP to the subcommittees, where they have more leeway.  We want to be concerned with the risk that if the scope of a BR is everything, we’re back to the old problem.
-- Dimitris:  The main reason is that legal teams don’t want to review contributions for things they’re not engaged with.  Writing this scope might be challenging, but maybe we can focus on definitinos and other common things wtihout any known IP issues.
-- Tim:  We talked about starting wtih baby steps, and then we can deal with these IPR concerns as they come up.
-- Paul:  If we’re concerned about IP issues discussed in this WG, this WG is intended to cover the other WGs anyway.  So in the end the other WGs need to incorporate that anyway.  So don’t we wind up in the same place?
-- Tim:  The intent is that the BRs of BRs wouldn’t be automatically normative.  It would be up to the free WGs to adopt or not adopt these suggestings depending on their needs.  The WGs could choose to decline to take up these suggestions and they’d be insulated from that.
-- Paul:  But the goal of the BR of BRs is to harmonize requirements.  Is it really useful if we just cut things out at the WG level if we dont’ like it?  Wouldn’t it be better to take it back to the BR WG and hash out something that does work everywhere?
-- Tim:  If the WGs have feedback they can and should feed it back.  There is great membership overlap, so communications problems should’t be an issue.  We have that today where the Code Signing WG looks at the Server Certificate WG and has actually made suggestions that flowed back upstream.  I don’t expect much trouble finding common ground on most issues.  Most of the detail is the same for all certificate types.
-- Bruce:  We have three WGs doing certificates with a lot of the same text.  Maybe we can figure out what is the same.  These other WGs can worry about what is the content of my cert, what is the profile going to be, etc.
-- Tim:  It helps these WGs focus on what is important to them specifically.  Identifying the scope of BR of BRs by looking at common text across documents is a great way to proceed.
+## Discussion outside the presentation
 
-## Browser Updates {#bkmrk-browser-updates}
+- Tim Hollebeek: Governance reform is working pretty well. We used to just be one group and set of meetings. There were a few subcomittees active at any different time. The Validation subcommittee continues to exist. The motivation for these chagnes was to split out the Code Signing working group in its own bucket. Some people didn’t want to participate in the code signing BRs for IPR reasons. Now we have the ability to have each chartered working group separate with its own separate requirements. Now we have the same thing for the S/MIME working group. The Forum does not manage or coordinate between these working groups. These need to be IPR protected. The Forum is by-laws, logistics etc.
+- The NetSec Working Group is a working group that cross-cuts these other working groups. NetSec has a charter and scope that protects from IPR concerns. Even silent partiicpation in a working group still gives you IPR obligations.
+- Next steps: We were talking about a BRs working group for these cross-cutting initiatives. E.g. how do audits work, how do roots work? Clint proposed starting with definitions. This is a great place to start. We could start with a Definitions working ghroup that is very narrowly scoped.
+- Bruce Morton: If we had one working group that was cross-cutting, could these other items be subcommttees to that working group? We would need a lot of chairs and vice chairs with not enough people to do it. With subcommittes we could make requirements thinner and make expansion more agile.
+- Tim: That’s an interesting idea. There may be IPR concerns, but otherwise that’s a reasonable proposal. Let’s think about it.
+- Dimitris: I hear we’d be discussing less sensitive issues in the BRs working group. There are either IPR or non-IPR issues. In both my understanding and legal terms, I don’t believe there is some IPR or not. We will have to engage our legal teams every time we change guidelines, etc. So I think we’re in the same boat either way.
+- Tim: That’s a useful perspective. You’re right that IP is IP. But I meant to say issues that people are less likely to be concerned when joining a group with that discussion. We could have that problem and the more these cross-cutting working groups extend, the more of that trouble we will have.
+- Dimitris: If we go that route, the BRs WG with chartered subcommittes is probably the best route.
+- Tim: We could try to keep the IP to the subcommittees, where they have more leeway. We want to be concerned with the risk that if the scope of a BR is everything, we’re back to the old problem.
+- Dimitris: The main reason is that legal teams don’t want to review contributions for things they’re not engaged with. Writing this scope might be challenging, but maybe we can focus on definitinos and other common things wtihout any known IP issues.
+- Tim: We talked about starting wtih baby steps, and then we can deal with these IPR concerns as they come up.
+- Paul: If we’re concerned about IP issues discussed in this WG, this WG is intended to cover the other WGs anyway. So in the end the other WGs need to incorporate that anyway. So don’t we wind up in the same place?
+- Tim: The intent is that the BRs of BRs wouldn’t be automatically normative. It would be up to the free WGs to adopt or not adopt these suggestings depending on their needs. The WGs could choose to decline to take up these suggestions and they’d be insulated from that.
+- Paul: But the goal of the BR of BRs is to harmonize requirements. Is it really useful if we just cut things out at the WG level if we dont’ like it? Wouldn’t it be better to take it back to the BR WG and hash out something that does work everywhere?
+- Tim: If the WGs have feedback they can and should feed it back. There is great membership overlap, so communications problems should’t be an issue. We have that today where the Code Signing WG looks at the Server Certificate WG and has actually made suggestions that flowed back upstream. I don’t expect much trouble finding common ground on most issues. Most of the detail is the same for all certificate types.
+- Bruce: We have three WGs doing certificates with a lot of the same text. Maybe we can figure out what is the same. These other WGs can worry about what is the content of my cert, what is the profile going to be, etc.
+- Tim: It helps these WGs focus on what is important to them specifically. Identifying the scope of BR of BRs by looking at common text across documents is a great way to proceed.
 
-### Mozilla Root Program Update {#bkmrk-mozilla-root-program}
+## Browser Updates
+
+### Mozilla Root Program Update
 
 **Leader:** Ben Wilson (Mozilla)
-**Minutes:** Corey Bonnel (Digicert)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Corey Bonnel (Digicert)
+- \*Presentation link:\*\*[/uploads/6-2023-May-Mozilla-Update-for-CABF-Redmond-F2F.pdf](/uploads/6-2023-May-Mozilla-Update-for-CABF-Redmond-F2F.pdf)
+
+## Discussion outside the presentation
 
 - Jeremy: Are there plans to allow EdDSA for TLS certificate?
 - Ben: Not at this time, but that is something that we can discuss. For S/MIME, we plan to state that EdDSA (and ECDSA P-521) is allowed, but not supported by Mozilla products.
@@ -122,13 +125,14 @@ Specific topics from the slides were reviewed.
 - Bruce: Can we include the self-assessment requirement directly in the BRs? It sounds like there’s a desire to have consistent policies across Root Programs.
 - Ryan: The contents of the BRs are very relevant to this Forum. One challenge is that the self-assessment itself is not maintained by the Forum.
 
-### Google Root Program Update {#bkmrk-google-root-program-}
+### Google Root Program Update
 
 **Leader:** Ryan Dickson (Google)
-**Minutes:** Stephen Davidson (Digicert)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Stephen Davidson (Digicert)
+- \*Presentation link:\*\*[/uploads/7-CABF-F2F-59-Chrome-Browser-Update-PUBLIC.pdf](/uploads/7-CABF-F2F-59-Chrome-Browser-Update-PUBLIC.pdf)
+
+## Discussion outside the presentation
 
 Chris Clements provided an overview of Chrome root program updates. Latest version 1.4 effect Mar 3. 2023 was to align with CCADB and TLS BR. There is a “preflight process” of changes for the next version, shared as preview in order to solicit feedback before they become effective.
 
@@ -166,17 +170,18 @@ Ryan provided PKI-related updates in upcoming releases of Chrome. See slide.
 
 Wayne Thayer asked a question about the versions of Android in which the certificate verifier would appear. Ryan said these changes and the gradual rollout of the Chrome Root Store and Chrome Root Store are tied to the Version of Chrome and somewhat independent of Android operating system version, and said the Chrome team would provide additional information on these rollouts. A Google Chrome engineer mentioned that it should be supported on or after [Android 7.0 Nougat](https://support.google.com/chrome/a/answer/7100626) where the latest Chrome application can be installed.
 
-### Apple Root Program Update {#bkmrk-apple-root-program-u}
+### Apple Root Program Update
 
 **Leader:** Clint Wilson (Apple)
-**Minutes:** Dyan Dickson Google)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Dyan Dickson Google)
+- *Presentation link:*\* [/uploads/8-2023-June-CABFWiki-Apple.pdf](/uploads/8-2023-June-CABFWiki-Apple.pdf)
+
+## Discussion outside the presentation
 
 Today’s will serve as an update to the planned Apple policy release announced at the last Face-to-Face. Clint shared his appreciation for the community’s input on the proposed updates since F2F 58. A few changes to announce.
 
-**Planned effective dates (subject to slight changes based on discussions being led by Dimitris tomorrow):**
+## Planned effective dates (subject to slight changes based on discussions being led by Dimitris tomorrow)
 
 - **August 15, 2023:** Planned effective date for the updated policy
 - **September 1, 2023:** Expectation that S/MIME CA providers will be compliant with the S/MIME BRs (only applies to certificates issued on or after this date, though there is some dialogue happening within the S/MIME WG related to ICAs that don’t comply with the S/MIME BRs).
@@ -184,67 +189,71 @@ Today’s will serve as an update to the planned Apple policy release announced 
 - **August 15, 2024:** The time when CAs must support at least one of four validation methods described in the TLS-BRs. These are the most highly automated validation methods. CAs must support at least one of the prescribed methods; they are not required to support all four. Other existing validation methods may still be used. Based on Apple’s research, there are no known violations of the planned policy requirement.
 - **December 1, 2024:** Delivery date deadline of S/MIME audit reports.
 
-**S/MIME updates:**
+## S/MIME updates
 
 - Apple’s expectation is that CAs will be complying with the S/MIME BRs as of September 1, 2023.
 - Apple is concerned with transition of CAs that were operating without an established set of BRs to the post-S/MIME BR-era. Apple wants CAs to be proactive in seeking compliance with the S/MIME BRs. They would also like to see audit reports as soon as possible, balancing this desire with existing audit cadence to reduce off-cycle audits needs. By setting audit report delivery date by December 1, 2024, Apple believes the need for off-cycle audits can be eliminated.
 
-**Other Updates:**
+## Other Updates
 
 - Shifted away from auditor rotation. Auditor rotation will stay on Apple’s backlog, but prioritization will shift to clarifying requirements for auditor annual training. Apple received a great deal of support for formalizing annual training and corresponding requirements and expectations for auditors.
 - Firm and Auditor Qualifications will be updated to codify what appear to be existing conditions. The updates will focus on things like setting basic expectations such that firms are in good standing, appropriately registered, that signing and QA partners are appropriately credentialed, etc.
 
-**What’s next:**
+## What’s next
 
 - A CA survey to collect feedback to confirm CA owner’s understanding of the changes described earlier in this presentation. Then, the policy will be updated and a communication will be sent to CAs confirming its publication. Note: This is the first survey feedback loop introduced by the Apple Root Program, your patience and feedback is appreciated.
 - Input on backlog – Apple would like your feedback on areas to prioritize or ways it can improve it’s policy (e.g., in a following version of our policy, we plan to add a change log).
 
 No questions or added discussion.
 
-### Microsoft Root Program Update {#bkmrk-microsoft-root-progr}
+### Microsoft Root Program Update
 
 **Leader:** Karina Sirota (Microsoft)
-**Minutes:** Dustin Holleback (Microsoft)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Dustin Holleback (Microsoft)
+- *Presentation link:*\* [/uploads/9-Microsoft-CABF-59-Update.pdf](/uploads/9-Microsoft-CABF-59-Update.pdf)
+
+## Discussion outside the presentation
 
 Blake from Amazon asked why Microsoft Trusted Root Program are not supporting ECDSA. Karina responded that there is effort to evaluate other algorithms, but the team has de-prioritized ECDSA. There is no other information available about why ECDSA was de-prioritized.
 
-### Cisco Update {#bkmrk-cisco-update}
+### Cisco Update
 
 **Leader:** J-P Hamilton (Cisco)
-**Minutes:** Dean Coclin (Digicert)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Dean Coclin (Digicert)
+- *Presentation link:*\* [/uploads/10-CABF-Face-to-Fave-Jun-6-2020-Cisco.pdf](/uploads/10-CABF-Face-to-Fave-Jun-6-2020-Cisco.pdf)
+
+## Discussion outside the presentation
 
 Various bundles of root certs in Cisco products (see slide). Cisco.com/security/pki contains the various list of roots.
 
-### CCADB Update {#bkmrk-ccadb-update}
+### CCADB Update
 
 **Leader:** Clint Wilson (Apple, on behalf of the CCADB Steering Committee)
-**Minutes:** Chris Clements (Google)
-**Presentation link:**
+
+- *Minutes:*\* Chris Clements (Google)
+- \*Presentation link:\*\*[/uploads/11-CAB-F2F-59-CCADB-Update-PUBLIC.pdf](/uploads/11-CAB-F2F-59-CCADB-Update-PUBLIC.pdf)
 
 **Discussion outside the presentation:** No additional discussion.
 
-**ADJURNED Forum Plenary Meeting for Day 1**
+## ADJURNED Forum Plenary Meeting for Day 1
 
-# CABF Face-to-Face Meeting 59: Day 2 June 7, 2023 {#bkmrk-cabf-face-to-face-me-1}
+# CABF Face-to-Face Meeting 59: Day 2 June 7, 2023
 
-## Attendance {#bkmrk-attendance-1}
+## Attendance
 
 Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), An Yin – (iTrusChina), Andreas Henschel – (D-TRUST), Aaron Poulsen – (Amazon), Aneta Wojtczak-Iwanicka – (Microsoft), Antti Backman – (Telia Company), Arno Fiedler – (ETSI), Ben Dewberry – (Keyfactor), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Bruce Morton – (Entrust), Chris Clements – (Google), Christophe Bonjean – (GlobalSign), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dave Chin – (CPA Canada/WebTrust), David Kluge – (Google), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Don Sheehy – (CPA Canada/WebTrust), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Ellie Lu – (TrustAsia Technologies, Inc.), Enrico Entschew – (D-TRUST), Eva van Steenberge – (GlobalSign), Fumi Yoneda – (Japan Registry Services), Georgy Sebastian – (Amazon Trust Services), Glaucia Young – (Microsoft), Hannah Sokol – (Microsoft), Hogeun Yoo – (NAVER Cloud), Hubert Chao – (Google), Ian McMillan – (Microsoft), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), J.P. Hamilton – (Cisco), Jamie Mackey – (US Federal PKI Management Authority), Janet Hines – (VikingCloud), Jeremy Rowley – (DigiCert), Joanna Fox – (TrustCor Systems), John Sarapata – (Google), Jonathan Kozolchyk – (Amazon Trust Services), Jos Purvis – (Fastly), Joseph Ramm – (OATI), JP Hamilton – (Cisco Systems), Karina Sirota – (Microsoft), Keshava Nagaraju – (eMudhra), Kiran Tummala – (Microsoft), Lakshmi Ramalingam – (Microsoft), Leo Grove – (SSL.com), Li-Chun Chen – (Chunghwa Telecom), Mads Henriksveen – (Buypass AS), Mahua Chaudrhi – (Microsoft), Marco Schambach – (IdenTrust), Mark Nelson – (IdenTrust), Martijn Katerbarg – (Sectigo), Matthias Wiedenhorst – (ACAB Council), Michael Guenther – (SwissSign), Michael Slaughter – (Amazon), Michelle Coon – (OATI), Mohit Kumar – (GlobalSign), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Naveen Kumar – (eMudhra), Nick France – (Sectigo), Nicol So – (CommScope), Nitesh Bakliwal – (Microsoft), Pankaj Chawla – (eMudhra), Paul van Brouwershaven – (Entrust), Pekka Lahtiharju – (Telia Company), Peter Miskovic – (Disig), Raffaela Achermann – (SwissSign), Rebecca Kelley – (Apple), Roberto Quinones – (Intel), Rollin Yu – (TrustAsia Technologies, Inc.), Romain DELVAL – (Certigna), Ryan Dickson – (Google), Scott Rea – (eMudhra), Sissel Hoel – (Buypass AS), Stefan Kirch – (Telekom Security), Stephen Davidson – (DigiCert), Sven Rajala – (Keyfactor), Tadahiko Ito – (SECOM Trust Systems), Tahmina Ahmad – (Microsoft), Thomas Zermeno – (SSL.com), Tim Callan – (Sectigo), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek – (DigiCert), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Tsung-Min Kuo – (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha – (eMudhra), Vikas Khanna – (Microsoft), Wayne Thayer – (Fastly), Wendy Brown – (US Federal PKI Management Authority), Xiao Qiang – (GDCA), Xiu Lei – (GDCA), Yashwanth TM – (eMudhra), Yoshihiko Matsuo – (Japan Registry Services), Yoshiro Yoneya – (Japan Registry Services).
 
-## CA/Browser Forum Meeting {#bkmrk-ca%2Fbrowser-forum-mee-1}
+## CA/Browser Forum Meeting
 
-### Bylaws updates part 2 {#bkmrk-bylaws-updates-part--1}
+### Bylaws updates part 2
 
 **Leader:** Dimitris Zacharopoulos (HARICA)
-**Presentation link:** **Minutes:** Ben Wilson (Mozilla)
 
-**Discussion outside the presentation:**
+- *Presentation link:*\* [/uploads/12-CABF_Bylaws-Updates-part-2.pdf](/uploads/12-CABF_Bylaws-Updates-part-2.pdf) **Minutes:** Ben Wilson (Mozilla)
+
+## Discussion outside the presentation
 
 - Question from Clint on release cycles. He doesn’t believe Proposal 1 solves the problems we’ve identified. If ballots are adopted at different points during the year and they’re collected only for March 15 or Sept. 15, then they are only grouped up in the BRs, which doesn’t help much, and the Emergency Guideline proposal doesn’t seem to resolve the problems because what would qualify as an emergency? He prefers something that allows effective dates more often – e.g., the 15th of odd months. Dimitris said he addresses other proposals more in line with Clint’s views in subsequent slides.
 - Dimitris believes that CAs will implement the changes as soon as a ballot passes. Most CAs change their CP or CPS at most twice a year. (They wouldn’t lay back and wait until Sept. 15th to implement changes.) The third point in Slide 3 (“Audit standards, auditor practices/guidance would be better prepared to audit the new requirements”) also applies to audit standards. The same applies to auditors. As soon as a ballot passes, auditors can start working on updating their audit criteria. The release of audit criteria would also be closer to the BR release dates. Dimitris agrees that an emergency process needs to be an easier process and quick and simple.
@@ -257,11 +266,11 @@ Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microso
 - Dimitris says that WebTrust takes 2-3 months.
 - Trev asked whether we had resolved this before and wondered what we gain by putting this in the Bylaws. She also said that changes are going to happen during your audit cycle, no matter what we do.
 - Dimitris agreed, but said we need to see if we can find consensus on these issues until we can implement them in the Bylaws.
-- Don said that WebTrust has consistently grabbed everything through September and includes important things coming into effect, including sometimes things that pass in January and then publishes a new version in March.  With this proposal, WebTrust would be updating its criteria twice a year.  Under normal circumstances, the current process happens on a yearly basis.
+- Don said that WebTrust has consistently grabbed everything through September and includes important things coming into effect, including sometimes things that pass in January and then publishes a new version in March. With this proposal, WebTrust would be updating its criteria twice a year. Under normal circumstances, the current process happens on a yearly basis.
 
 Slide 4
 
-- Proposal 2 is the 15th of odd months (with no Emergecny Ballot provision).  Tim H. said he now prefers even months – five even months, not including December.
+- Proposal 2 is the 15th of odd months (with no Emergecny Ballot provision). Tim H. said he now prefers even months – five even months, not including December.
 - Dimitris says that July or August should also be avoided.
 - Tim disagreed. If August 15th is rarely used, then that would be fine.
 - Dimitris would not want votes in opposition because it has a proposed effective date of August 15th.
@@ -285,12 +294,13 @@ need for a formal vote.
 - Trev said that timeframes can’t be too short. These dates are going to come up too soon.
 - Tim H. said that is another issue.
 
-### Proposed Changes to Server Cert WG Charter {#bkmrk-proposed-changes-to-}
+### Proposed Changes to Server Cert WG Charter
 
 **Leader:** Ben Wilson (Mozilla)
-**Presentation link:** **Minutes:**Dimitris Zacharopoulos (HARICA)
 
-**Discussion outside the presentation:**
+- *Presentation link:*\* [/uploads/12-Proposed-Changes-to-Server-Cert-WG-Charter.pdf](/uploads/12-Proposed-Changes-to-Server-Cert-WG-Charter.pdf) \*\*Minutes:\*\*Dimitris Zacharopoulos (HARICA)
+
+## Discussion outside the presentation
 
 Ben gave a brief review of the current SCWG Charter that is covered in the presentation slides. The update to the SCWG Charter originated from the ZT Browser ballot but it is not designed to address that specific issue but more broadly to improve the requirements for Browsers which are currently minimal.
 
@@ -310,57 +320,63 @@ Scott echoed what Wayne and Dimitris said about the administrative challenges an
 
 Ben replied that perhaps we can carve out certain things but he still things we ought to have something that comes out of this proposal. He proposed continuing this discussion, gather more feedback, information and suggestions on how to improve this whole proposal.
 
-### Definitions and Glossary WG {#bkmrk-updates-to-forum-web}
+### Definitions and Glossary WG
 
 **Leader:** Clint Wilson (Apple)
-**Minutes:** Clint Wilson (Apple)
-**Presentation link:** No presentation
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Clint Wilson (Apple)
+- *Presentation link:*\* No presentation
+
+## Discussion outside the presentation
 
 Tim H. volunteered to chair this CWG. Clint requested volunteers to vice-chair and stated that if there are no volunteers, Clint can do so. Clint reminded the Forum that the level of support and guidance from other members of the Forum is substantial, and newcomers to this type of role should not feel intimidated.
 
 Brianca Martin and Tim Callan volunteered to vice-chair.
 
-### ATS Presentation on ICA rotation {#bkmrk-ats-presentation-on-}
+### ATS Presentation on ICA rotation
 
 **Leader:** Michael Slaughter (ATS) Trevoli Ponds-White (ATS)
-**Presentation link:**
 
-### Microsoft Cyber Defense: Helping to protect our customers and the Microsoft Cloud (Guest Speaker) {#bkmrk-microsoft-cyber-defe}
+- *Presentation link:*\* [/uploads/14-Amazon_Trust_Services_F2F_59_final.pdf](/uploads/14-Amazon_Trust_Services_F2F_59_final.pdf)
+
+### Microsoft Cyber Defense: Helping to protect our customers and the Microsoft Cloud (Guest Speaker)
 
 **Guest Speaker:** Aanchal Gupta (Microsoft)
-**Presentation link:** Not provided
 
-## Audit Updates {#bkmrk-audit-updates}
+- *Presentation link:*\* Not provided
 
-### ETSI Update {#bkmrk-etsi-update}
+## Audit Updates
+
+### ETSI Update
 
 **Leader:** Arno Fiedler (Vice Chair ETSI ESI)
-**Minutes:** Clemens Wanko (TUV AUSTRIA)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Clemens Wanko (TUV AUSTRIA)
+- \*Presentation link:\*\*[/uploads/16-ETSI-ESI_Standardisation_Update_for_CAB-Forum-06-2023.pdf](/uploads/16-ETSI-ESI_Standardisation_Update_for_CAB-Forum-06-2023.pdf)
+
+## Discussion outside the presentation
 
 - Arno gave an overview about the recent ETSI ESI activities, the discussions about support for QWACs and the Alignment of all trust services with NIS2 Directive Identity proofing.
 - He also reported about the new Work item for TSPs issuing publicly trusted S/MIME certificates that will be published for comments until End of June.
 - The next Day is planed for October 12th in Vienna
 
-### ACAB’C Update {#bkmrk-acab%27c-update}
+### ACAB’C Update
 
 **Leader:** Clemens Wanko (TÜV AUSTRIA)
-**Minutes:** Arno Fiedler (Vice Chair ETSI ESI)
-**Presentation link:**
+
+- *Minutes:*\* Arno Fiedler (Vice Chair ETSI ESI)
+- \*Presentation link:\*\*[/uploads/17-20230606_CAB-Forum_59_ACABc_presentation_V1.1.pdf](/uploads/17-20230606_CAB-Forum_59_ACABc_presentation_V1.1.pdf)
 
 **Discussion outside the presentation:** No additional discussion.
 
-### WebTrust Update {#bkmrk-webtrust-update}
+### WebTrust Update
 
 **Leader:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)
-**Minutes:** Bruce Morton (Entrust)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Bruce Morton (Entrust)
+- \*Presentation link:\*\*[/uploads/18-WebTrust-CABF-update-June-2023.pdf](/uploads/18-WebTrust-CABF-update-June-2023.pdf)
+
+## Discussion outside the presentation
 
 - WebTrust has created new audit criteria for NetSec (stand alone) and S/MIME BRs.
 - All other audit criteria have been updated with the exception of WebTrust for CA and WebTrust for RA.
@@ -369,60 +385,65 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 - It was suggested that although it is not a requirement, CAs should consider getting a point-in-time audit to the S/MIME BRs to ensure they are ready to issue and be prepared for their annual compliance audit.
 - CPA Canada has created new WebTrust Seals for S/MIME, NetSec, RA and a Qualified Audit. There was some discussion that there appear to be too many seals which use up a lot of real estate in the CAs repository or other web pages. It was asked is there a way reduce or combine the number of seals. This issue will be reviewed.
 
-## Summary Presentations from Working Groups {#bkmrk-summary-presentation}
+## Summary Presentations from Working Groups
 
-### Server Certificate Working Group (SCWG) {#bkmrk-server-certificate-w}
+### Server Certificate Working Group (SCWG)
 
 **Leader:** Inigo Barreira (Sectigo)
-**Minutes:** Martijn Katerbarg (Sectigo)
-**Presentation link:**
+
+- *Minutes:*\* Martijn Katerbarg (Sectigo)
+- \*Presentation link:\*\*[/uploads/19-F2F-59-SCWG-presentation.pdf](/uploads/19-F2F-59-SCWG-presentation.pdf)
 
 **Discussion outside the presentation:** No additional discussion.
 
-### Code-Signing Certificate Working Group (CSCWG) {#bkmrk-code-signing-certifi}
+### Code-Signing Certificate Working Group (CSCWG)
 
 **Leader:** Bruce Morton (Entrust)
-**Minutes:** Brianca Martin (Amazon)
-**Presentation link:**
+
+- *Minutes:*\* Brianca Martin (Amazon)
+- \*Presentation link:\*\*[/uploads/20-F2F-59-CSWG-202306.pdf](/uploads/20-F2F-59-CSWG-202306.pdf)
 
 **Discussion outside the presentation:** No additional discussion.
 
-### S/MIME Certificate Working Group (SMCWG) {#bkmrk-s%2Fmime-certificate-w}
+### S/MIME Certificate Working Group (SMCWG)
 
 **Leader:** Stephen Davidson (DigiCert)
-**Minutes:** Ben Wilson (Mozilla)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Ben Wilson (Mozilla)
+- \*Presentation link:\*\*[/uploads/21-SMCWG-\_20230605_F2F-Intro.pdf](/uploads/21-SMCWG-\_20230605_F2F-Intro.pdf)
+
+## Discussion outside the presentation
 
 - New Certificate Issuer member: Logius PKIoverheid
 - Primary focus has been on answering questions arising from CAs implementing the S/MIME BRs.
 - Clarification-and-correction ballot is pending.
-- Release by DigiCert of PKILINT as OSS.  Includes lints for the S/MIME BRs.
+- Release by DigiCert of PKILINT as OSS. Includes lints for the S/MIME BRs. <https://github.com/digicert/pkilint>
 - Externally: working with ETSI on TS 119 411-6 on implementation standard-mapping ETSI’s CPs with the S/MIME BRs. Draft will be available within 2 weeks.
-- This afternoon: discussion of ICA transition — existing or new ICA creation before effective date
+- This afternoon: discussion of ICA transition - existing or new ICA creation before effective date
 - After September 1: Topics relating Enterprise RAs; CAA; How to create bluesky between S/MIME and Signing?
 
-### Network Security Working Group {#bkmrk-network-security-wor}
+### Network Security Working Group
 
 **Leader:** Clint Wilson (Apple)
-**Minutes:** Rebecca Kelley (Apple)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Rebecca Kelley (Apple)
+- \*Presentation link:\*\*[/uploads/22-2023-June-CABFWiki-NetSec.pdf](/uploads/22-2023-June-CABFWiki-NetSec.pdf)
+
+## Discussion outside the presentation
 
 - Vulnerability Detection and Patch Management
-- Ballot text drafted, informal discussion started
+  - Ballot text drafted, informal discussion started
 - Air-Gapped CAs
-- Ballot text in-progress (near completion), discussion starting soon in CWG, also to be shared with Forum at large
+  - Ballot text in-progress (near completion), discussion starting soon in CWG, also to be shared with Forum at large
 - No questions were asked about update
 
-### Forum Infrastructure Subcommittee {#bkmrk-infrastructure-subco}
+### Forum Infrastructure Subcommittee
 
 **Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
-**Minutes:** Wayne Thayer (Fastly)
-**Presentation link:** No presentation
+
+- *Minutes:*\* Wayne Thayer (Fastly)
+- *Presentation link:*\* No presentation
 
 Ben said that there is no update for this meeting. There were no questions.
 
-**ADJURNED Forum Plenary Meeting for Day 2**
+## ADJURNED Forum Plenary Meeting for Day 2

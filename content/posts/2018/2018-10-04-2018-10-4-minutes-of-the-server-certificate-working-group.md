@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-10-04-2018-10-4-minutes-of-the-server-certificate-working-group/
+- /2018/10/04/2018-10-4-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2018-10-04 15:04:35
 tags:

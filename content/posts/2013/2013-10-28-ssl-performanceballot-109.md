@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-10-28-ssl-performanceballot-109/
+- /2013/10/28/ssl-performanceballot-109/
 author: Ben Wilson
 date: 2013-10-28 01:49:58
 tags:
@@ -16,7 +16,7 @@ Voting on Ballot 109 has closed. Seventeen voted in favor – Buypass, Comodo, D
 
 Gervase Markham (Mozilla) made the following motion, endorsed by Rick Andrews from Symantec, Richard Wang from WoSign, Ben Wilson from DigiCert, and Ryan Hurst from GlobalSign:
 
-— Motion begins —
+## Motion begins
 
 The CAB Forum shall create a Working Group, to be known as the SSL Performance Working Group.
 

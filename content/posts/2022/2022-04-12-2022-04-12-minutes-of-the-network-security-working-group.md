@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-04-12-2022-04-12-minutes-of-the-network-security-working-group/
+- /2022/04/12/2022-04-12-minutes-of-the-network-security-working-group/
 author: Clint Wilson
 date: 2022-04-12 12:00:00
 tags:
@@ -10,9 +10,9 @@ title: 2022-04-12 Minutes of the Network Security Working Group
 type: post
 ---
 
-**NetSec Working Group – April 12th, 2022**
+## NetSec Working Group – April 12th, 2022
 
-**Attendees:**
+## Attendees:
 
 - Antti Backman
 - Adam Jones
@@ -39,7 +39,7 @@ type: post
 
 Clint Wilson read the antitrust statement.
 
-2.  Roll Call
+2. Roll Call
 
 Clint Wilson read the roll.
 
@@ -52,7 +52,7 @@ c. David, Trev and Clint also discussed about the OCSP SLA changes () There were
 
 d. No updates on zones ballot
 
-e. Ben spent some time talking through all the issues that he has created in Github :  Ben collected all the WebTrust Task Force’s comments and put all the pending issues in Github.
+e. Ben spent some time talking through all the issues that he has created in Github : Ben collected all the WebTrust Task Force’s comments and put all the pending issues in Github.
 
 4.. Any Other Business
 

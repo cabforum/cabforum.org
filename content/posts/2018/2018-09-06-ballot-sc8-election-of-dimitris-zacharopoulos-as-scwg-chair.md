@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-09-06-ballot-sc8-election-of-dimitris-zacharopoulos-as-scwg-chair/
+- /2018/09/06/ballot-sc8-election-of-dimitris-zacharopoulos-as-scwg-chair/
 author: Ben Wilson
 date: 2018-09-06 03:31:00
 tags:

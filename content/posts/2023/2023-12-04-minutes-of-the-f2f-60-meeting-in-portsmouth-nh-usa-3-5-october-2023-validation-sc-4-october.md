@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-12-04-minutes-of-the-f2f-60-meeting-in-portsmouth-nh-usa-3-5-october-2023-validation-sc-4-october/
+- /2023/12/04/minutes-of-the-f2f-60-meeting-in-portsmouth-nh-usa-3-5-october-2023-validation-sc-4-october/
 author: Iñigo Barreira
 date: 2023-12-04 16:02:43
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 - Server Certificates
 title: Minutes of the F2F 60 Meeting in Portsmouth, NH, USA, 3-5 October 2023 – Validation
   SC (4 October)
@@ -22,7 +22,7 @@ Validation WG Chair: Corey Bonnell (DigiCert)
 
 Prior Meeting Minutes approved
 
-**Agenda:**
+## Agenda
 
 Report on validation-sc progress since F2F #59 (5 minutes)
 
@@ -32,7 +32,7 @@ Presentation on MPDV/MPIC (30-45 minutes, led by Ryan & Chris @ Chrome)
 
 (Time permitting) backlog grooming
 
-**Report on validation-sc progress since F2F #59**
+## Report on validation-sc progress since F2F #59
 
 Slides:
 
@@ -44,7 +44,7 @@ Slides:
 
 - Q Misell presented on use of ACME for certificates issued with Onion domain names, with a focus on CAA checking for Onion domain names. Work continues at IETF with additional participation by members of CA/BF.
 
-**Presentation of results from the domain validation threat modeling tiger team – Michael Slaughter (Amazon)**
+## Presentation of results from the domain validation threat modeling tiger team – Michael Slaughter (Amazon)
 
 Slides:
 
@@ -130,7 +130,7 @@ Slaughter: Which generalizes to the same communication path and problem of conta
 
 Corey: Next steps will be producing ballot text for updating method 7 and then separately working on identifying ways this type of delegation can be extended further (like CAA). If anyone would like to join the tiger team working on that, it’s certainly open. Discussions will continue!
 
-**Presentation on MPDV/MPIC**
+## Presentation on MPDV/MPIC
 
 Slides:
 

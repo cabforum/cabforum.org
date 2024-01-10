@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-08-04-2022-08-04-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/08/04/2022-08-04-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-08-04 16:59:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-08-04 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
@@ -15,8 +15,8 @@ type: post
 1. **Antitrust Statement** read
 1. **Review Agenda**
 1. **Meeting Minutes:**
-1. July 21st minutes: Still being drafted
-1. F2F minutes: Approved.
+   1. July 21st minutes: Still being drafted
+   1. F2F minutes: Approved.
 1. **Infrastructure Subcommittee**
 
 Jos: Membership tool production rollout. Once it is up we will let people know so they can update their information. Phase 2 feature list: 1. automated membership signup of mailer lists 2. field to declare GitHub user id for CAB Forum business. Website Ben is working with GoDaddy to coordinate updating php backend from 7 to 8. The website is also getting a revamp of the template and restructuring of the content.

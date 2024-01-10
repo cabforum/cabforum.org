@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-04-13-ballot-189-amend-section-6-1-7-baseline-requirements/
+- /2017/04/13/ballot-189-amend-section-6-1-7-baseline-requirements/
 author: Ben Wilson
 date: 2017-04-13 17:07:01
 tags:
@@ -14,23 +14,23 @@ Results on Ballot 189 – **Amend Section 6.1.7 of Baseline Requirements**
 
 The voting period for Ballot 189 has ended. Here are the results.
 
-**Voting by CAs – 21 votes total, including abstentions**
+## Voting by CAs – 21 votes total, including abstentions
 
-21 Yes votes: Entrust, HARICA, CFCA, GlobalSign, Izenpe, GDCA, Buypass, OATI, SwissSign, SHECA, DigiCert, TurkTrust, D-Trust, SSC, Actalis, GlobalSign, Comodo, Disig, Chunghwa Telecom, Cisco, Symantec
+- **21 Yes votes:** Entrust, HARICA, CFCA, GlobalSign, Izenpe, GDCA, Buypass, OATI, SwissSign, SHECA, DigiCert, TurkTrust, D-Trust, SSC, Actalis, GlobalSign, Comodo, Disig, Chunghwa Telecom, Cisco, Symantec
 
-0 No vote:
+- **0 No vote:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 3 votes total, including abstentions**
+## Voting by browsers – 3 votes total, including abstentions
 
-3 Yes votes: Mozilla, Apple, Google,
+- **3 Yes votes:** Mozilla, Apple, Google,
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -40,9 +40,9 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**Ballot 189 passes.**
+## Ballot 189 passes.
 
-**Ballot 189 – Amend Section 6.1.7 of Baseline Requirements**
+## Ballot 189 – Amend Section 6.1.7 of Baseline Requirements
 
 The following motion has been proposed by Dimitris Zacharopoulos of HARICA and endorsed by Bruce Morton of Entrust and Jeremy Rowley of Digicert
 
@@ -55,7 +55,7 @@ Section 6.1.7 of the Baseline Requirements states that the Root CA Private Keys 
 
 It also clears the exception language for 1024-bit RSA Subscriber Certificates and testing products with Certificates issued by a Root.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 _Current section 6.1.7_
 
@@ -83,26 +83,42 @@ Private Keys corresponding to Root Certificates MUST NOT be used to sign Certifi
 1. Certificates for infrastructure purposes (administrative role certificates, internal CA operational device certificates)
 1. Certificates for OCSP Response verification;
 
-**These changes become Effective 30 days after the ballot passes.**
+## These changes become Effective 30 days after the ballot passes.
 
-**— MOTION ENDS —**
+## Motion ends
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
 | | | |
-| --- | --- | --- | |
-BALLOT 189 Status: Amend BR 6.1.7 |
-Start time (22:00 UTC) |
-End time (22:00 UTC) | |
-Discussion (7 days) |
-30 March 2017 |
-6 April 2017 | |
-Vote for approval (7 days) |
-6 April 2017 |
-13 April 2017 | |
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days) If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. Votes must be cast by posting an on-list reply to this thread on the Public Mail List. |
-Upon filing of Review Notice by Chair |
-30 days after filing of Review Notice by Chair |
+| --- | --- | --- |
+|
+BALLOT 189 Status: Amend BR 6.1.7
+|
+Start time (22:00 UTC)
+|
+End time (22:00 UTC)
+|
+|
+Discussion (7 days)
+|
+30 March 2017
+|
+6 April 2017
+|
+|
+Vote for approval (7 days)
+|
+6 April 2017
+|
+13 April 2017
+|
+|
+If vote approves ballot: Review Period (Chair to send Review Notice) (30 days) If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. Votes must be cast by posting an on-list reply to this thread on the Public Mail List.
+|
+Upon filing of Review Notice by Chair
+|
+30 days after filing of Review Notice by Chair
+|
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-05-05-ballot-13-qgis-for-place-of-business/
+- /2008/05/05/ballot-13-qgis-for-place-of-business/
 author: Ben Wilson
 date: 2008-05-05 18:25:17
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Steve Roylance made the following motion, and Jay Schiavo and Bruce Morton endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended by the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Replace Section 16a with the following text. (a) Address of Applicant’s Place of Business (1) Verification Requirements To verify Applicant’s physical existence and business presence, the CA MUST verify that the physical address provided by
 
@@ -50,17 +42,9 @@ Applicant is an address where Applicant or a Parent/Subsidiary Company conducts 
 
 (B) For Applicants whose Place of Business is not in the same country as Applicant’s Jurisdiction of Incorporation or Registration, the CA MUST rely on a Verified Legal Opinion that indicates the address of Applicant’s Place of Business and that business operations are conducted there.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 1700 EDT on (Monday) 21 April 2008, and will close at 1700 EDT on (Monday) 28 Apr 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EDT on (Monday) 5 May 2008.
 

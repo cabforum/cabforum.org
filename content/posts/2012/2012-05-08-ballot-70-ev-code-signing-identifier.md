@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-05-08-ballot-70-ev-code-signing-identifier/
+- /2012/05/08/ballot-70-ev-code-signing-identifier/
 author: Ben Wilson
 date: 2012-05-08 21:36:44
 tags:

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-04-13-2023-04-13-minutes-of-the-server-certificate-working-group/
+- /2023/04/13/2023-04-13-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2023-04-13 17:20:04
 tags:
@@ -10,15 +10,13 @@ title: 2023-04-13 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-# **Server Certificate Working Group Meeting
+# Server Certificate Working Group Meeting April 13, 2023
 
-April 13, 2023**
-
-**Attendees:**
+## Attendees
 
 Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), David Kluge – (Google), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Ellie Lu – (TrustAsia Technologies, Inc.), Enrico Entschew – (D-TRUST), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Janet Hines – (VikingCloud), Joanna Fox – (TrustCor Systems), Johnny Reading – (GoDaddy), Jos Purvis – (Fastly), Mads Henriksveen – (Buypass AS), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Ryan Dickson – (Google), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wayne Thayer – (Fastly), Wendy Brown – (US Federal PKI Management Authority), Yoshiro Yoneya – (Japan Registry Services)
 
-**Server Certificate Working Group Agenda – 13 April 2023**
+## Server Certificate Working Group Agenda – 13 April 2023
 
 1. Roll Call and Begin Recording (\* not needed)
 1. Read Antitrust Statement (\* not needed)
@@ -54,7 +52,7 @@ Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Adrian Mueller – (Swis
 1. Next call: 27 April
 1. Adjourn
 
-**Ballot Status**
+## Ballot Status
 
 - Passed
 - SC62: Certificate profiles. Under IPR review.
@@ -76,7 +74,7 @@ Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Adrian Mueller – (Swis
 - Typo in section 7.2.2 of the BRs à to be fixed before the publication of the new version as per SC62
 - Changing titles in BRs and EVGs to reflect that are for TLS cert types
 
-**Minutes**
+## Minutes
 
 Inigo said that the servercert-wg and validation-sc F2F meeting minutes were approved and
 
@@ -84,7 +82,7 @@ published yesterday.
 
 The meeting minutes for March 16th were approved.
 
-**Certificate consumers moratorium**
+## Certificate consumers moratorium
 
 Inigo said we will not discuss the QuickFox inclusion request for today at Ben’s
 
@@ -144,7 +142,7 @@ risk by previously accepting new members and questions whether it is good to do
 
 that now.
 
-**GitHub issues**
+## GitHub issues
 
 Inigo raised the issue of annual audits (Github issue #370). Ryan said that instead
 
@@ -172,11 +170,11 @@ Ryan said that having a sheet of all open issues to discuss the disposition of o
 
 Github issues would be make it easy to collaborate.
 
-**Future of the EV guidelines**
+## Future of the EV guidelines
 
 Inigo volunteered to reformat the EVGs in RFC 3647 format.
 
-**Any other business**
+## Any other business
 
 There was no other business. Next call will be April 27th.
 

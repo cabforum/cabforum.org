@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-07-21-minutes-of-the-f2f-59-meeting-in-redmon-wa-usa-6-8-june-2023-scwg-8-june/
+- /2023/07/21/minutes-of-the-f2f-59-meeting-in-redmon-wa-usa-6-8-june-2023-scwg-8-june/
 author: Iñigo Barreira
 date: 2023-07-21 12:12:17
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 - Server Certificates
 title: Minutes of the F2F 59 Meeting in Redmond, WA, USA, 6-8 June 2023 – SCWG (8
   June)
@@ -14,17 +14,17 @@ type: post
 
 # Meeting of the Server Certificate Working Group
 
-**Thursday, 8 June 2023 – CA/B Forum Meeting (Day 3)**
+## Thursday, 8 June 2023 – CA/B Forum Meeting (Day 3)
 
 Server Certificate Working Group Meeting
 
 Presentation by: Inigo Barreira (Sectigo)
 
-Minutes:  Tim Callan (Sectigo)
+Minutes: Tim Callan (Sectigo)
 
 Attendance onsite: Ben Wilson (Mozilla), Nitesh Bakliwal (Microsoft), Karina Sirota (Microsoft), Tahmina Ahmad (Microsoft), Hannah Sokol (Microsoft), John Sarapata (Google Trust Services), Paul (Entrust), Bruce Morton (Entrust), Arno Fiedler (ETSI ESI), An Yin (iTrust China), Tadahiko Ito (Secom), Corey Bonell (Digicert), Wayne Thayer (Fastly), Romain Delval (Certigna), Josselin Allemandou (Certigna), Scott Rea (eMudhra), Thomas Zermeno (SSL.com), Leo Grove (SSL.com), Yamian Quintero (Microsoft), Mahua Chaudhuri (Microsoft), Glaucia Young (Microsoft), James Dunkelberger (Microsoft), Ryan Dickson (Google), Chris Clements (Google), Stephen Davidson (Digicert), Christophe Bojean (Globalsign), Eva Van Steenberge (Globalsign), Daryn Wright (Godaddy), Aneta (Microsoft), Sven (Keyfactor), Martijn Katerbarg (Sectigo), Nick France (Sectigo), Tim Callan (Sectigo), Yoshiro Yoneya (JPRS), Dave Chin (Webtrust), Tim Crawford (Webtrust), Don Sheehy (Webtrust), Stefan Kirch (Telekom Security), Andreas Henschel (D-Trust), Adrian Mueller (Swisssign), Adam Jones (Microsoft), Dustin Hollenback (Microsoft), Aaron Poulsen (ATS), Michael Slaugther (ATS), Blake Hess (ATS), Jonathan Kozolchyk (ATS), Trevoli Ponds-White (ATS), Brianca Martin (ATS), Iñigo Barreira (Sectigo)
 
-**Membership**
+## Membership
 
 Discussion of interested parties feedback to CABF. First few minutes not captured.
 
@@ -70,7 +70,7 @@ Logius was added yesterday to the S/MIME WG. Can remove from server cert WG.
 
 What we are doing is a good improvement since the last F2F. We have had many ballot discussions, including a big one with SC62 and there is a good discussion with SC63. This is the first time we have a specific slot for this WG since I took over.
 
-** QGIS regulation for EV validation**
+## QGIS regulation for EV validation
 
 Inigo:
 
@@ -80,7 +80,7 @@ Tim Hollebeek:
 
 I’m waiting for him to reach out to me. My assistance will mostly be just with CABF procedures etc.
 
-**Presentation from Entrust regarding ACME certificate management**
+## Presentation from Entrust regarding ACME certificate management
 
 Paul van Brouwershaven:
 

@@ -1,22 +1,20 @@
 ---
 aliases:
-- /2017-10-04-2017-10-04-minutes-face-face-meeting-42-taipei/
+- /2017/10/04/2017-10-04-minutes-face-face-meeting-42-taipei/
 author: Ben Wilson
 date: 2017-10-04 20:04:27
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 42 Meeting in Taipei, 4-5 October 2017
 type: post
 ---
 
-**Final Meeting 42 Minutes – F2F meeting, Taipei, Oct. 4-5, 2017**
+## Final Meeting 42 Minutes – F2F meeting, Taipei, Oct. 4-5, 2017
 
 Preliminary Note: The CA/Browser Forum was delayed in completing the minutes for its last Face-to-Face meeting Oct. 4-5, 2017 in Taipei, and the proposed final Minutes were only sent by the Chair to the Members on December 13, 2017 for their review. There was not enough time for Members to review the draft before the next teleconference of December 14, and the teleconference of December 28 was cancelled due to the holidays. The next Forum teleconference is scheduled for January 11, 2018.
 
 To avoid further delay in publishing the Final Minutes on the Public list, we are following Bylaw 5.1(a) which states that draft Minutes will be considered final two weeks after publication to the members, at which point they will be considered final and be posted to the Public list. The only edits offered during this two week review period were from the Mozilla representative, and the edits related solely to Mozilla’s presentation during the meeting and so were accepted.
-
-****
 
 **Attendance:** Peter Bowen (Amazon); Geoff Keating and Curt Spann (Apple); Jeremy Shen (Central Police University); Franck Leroy (Certinomis / Docapost); Wayne Chan and Sing-man Ho (Certizen Limited); Wen-Cheng Wang, Bon-Yeh Lin, Wen-Chun Yang, Jenhao Ou, Wei-Hao Tung, Chiu-Yun Chuang, Chung-Chin Hsiao, Chin-Fu Huang, Li-Chun Chen, Pin-Jung Chiang, and Wen-Hui Tsai (Chunghwa Telecom); Alex Wight and JP Hamilton (Cisco), Robin Alden (Comodo), Gord Beal (CPA Canada), Ben Wilson and Jeremy Rowley (DigiCert), Arno Fiedler and Enrico Entschew (D-TRUST); Kirk Hall (Entrust Datacard); Ou Jingan, Zhang Yongqiang, and Xiu Lei (GDCA); Atsushi Inaba and Giichi Ishii (GlobalSign); Wayne Thayer (GoDaddy); Devon O’Brien (Google); David Hsiu (KPMG); Mike Reilly (Microsoft); Gervase Markham and Aaron Wu (Mozilla); Hoang Trung La (National Electronic Authentication Center (NEAC) of Vietnam); Tadahiko Ito (Secom Trust Systems); Leo Grove and Fotis Loukos (SSL.com); Brian Hsiung (Sunrise CPA Firm); Steve Medin (Symantec); Frank Corday and Tim Hollebeek (Trustwave); Robin Lin, David Chen, and Huang Fu Yen (TWCA); and Don Sheehy and Jeff Ward (WebTrust).
 
@@ -82,7 +80,7 @@ Google Chrome Program Update
 
 Devon presenting
 
-– Chrome has shipped new certificate parser on all platforms — used instead of platform native parser or BoringSSL (Linux on 63 is the last to land)
+– Chrome has shipped new certificate parser on all platforms - used instead of platform native parser or BoringSSL (Linux on 63 is the last to land)
 
 - – Q: Why did Chrome do this?
 - A: Foundational component for future work
@@ -137,11 +135,11 @@ Geoff – Yes, nothing has changed. We are not hearing about false positives. Th
 
 - Update CRLs (take effect with next download version)
 
-- - Publish a full CRL (no issuingDistributionPoint)
+- • Publish a full CRL (no issuingDistributionPoint)
 
 - Place relevant certificates in Certificate Transparency (weeks)
 
-- - For every CA, put one cert in CT which references a full CRL
+- • For every CA, put one cert in CT which references a full CRL
 
 - Contact certificate-authority-program@apple.com
 
@@ -165,13 +163,13 @@ Details of changes in WebTrust for CAs v2.1 – Includes: Updated introduction s
 
 Removed references to WebTrust v1 for Business Practices Disclosures. All CP / CPS documents must now be in accordance with RFC 3647 (recommended) or RFC 2527.
 
-Updated the following criteria: - Criteria 1.1 and 1.2 –removed WebTrust v1 references - Criteria 2.1 and 2.2 –swapped order to be consistent with 1.1 and 1.2 - Criterion 3.6 –Expanded scope to specifically address hypervisors and network devices - Criterion 3.7 –Expanded scope to specifically address system patching and change management activities - Criterion 3.8 –Clarified scope to include requirement for backups of CA information and data to be taken at regular intervals in accordance with the CA’s disclosed business practices. - Criterion 4.5 –Split into two criterion (4.5 and 4.6), subsequent criteria renumbered - Criterion 4.6 –Clarified scope to include destruction of any copies of CA keys for any purpose, and added illustrative controls addressing formal key destruction ceremonies. - Criterion 4.10 –New criterion added to address CA Key Transportation events - Criterion 4.11 –New criterion added to address CA Key Migration events - Criterion 6.1 –Streamlined criteria, minor updates to illustrative controls - Criterion 7.1 –Updated to address cross certificate requests
+Updated the following criteria: • Criteria 1.1 and 1.2 –removed WebTrust v1 references • Criteria 2.1 and 2.2 –swapped order to be consistent with 1.1 and 1.2 • Criterion 3.6 –Expanded scope to specifically address hypervisors and network devices • Criterion 3.7 –Expanded scope to specifically address system patching and change management activities • Criterion 3.8 –Clarified scope to include requirement for backups of CA information and data to be taken at regular intervals in accordance with the CA’s disclosed business practices. • Criterion 4.5 –Split into two criterion (4.5 and 4.6), subsequent criteria renumbered • Criterion 4.6 –Clarified scope to include destruction of any copies of CA keys for any purpose, and added illustrative controls addressing formal key destruction ceremonies. • Criterion 4.10 –New criterion added to address CA Key Transportation events • Criterion 4.11 –New criterion added to address CA Key Migration events • Criterion 6.1 –Streamlined criteria, minor updates to illustrative controls • Criterion 7.1 –Updated to address cross certificate requests
 
 Current Status – WebTrust for Publicly Trusted Code Signing: Modified version released to fix error in material and to remove unauditable criterion Removed Principle 2, Criterion 5.11 as it was determined not to be auditable Clarified Principle 2, Criterion 3.2 with regards to the signing of Subscriber Agreements Vs 1.01 effective October 1, 2017
 
 Current Status – WebTrust EV Code Signing: Released vs 1.4.1 effective October 1, 2017 Removed Principle 2, Criterion 5.12 as it was not auditable
 
-Current Status – WebTrust EV SSL: Released vs 1.6.2 effective October 1, 2017 Updated EV SSL Audit Criteria to conform to EV SSL Guidelines v1.6.2 and other clarifications, including the following: - Principle 2, Criterion 2.2.3 –Updated maximum EV certificate lifetime to 825 days - Principle 2, Criterion 3.2 –Clarified signing requirements for Subscriber Agreements - Principle 2, Criterion 4.13 –Codified the requirements regarding the CA’s responsibility for verifying the accuracy of QIISs used for verification
+Current Status – WebTrust EV SSL: Released vs 1.6.2 effective October 1, 2017 Updated EV SSL Audit Criteria to conform to EV SSL Guidelines v1.6.2 and other clarifications, including the following: • Principle 2, Criterion 2.2.3 –Updated maximum EV certificate lifetime to 825 days • Principle 2, Criterion 3.2 –Clarified signing requirements for Subscriber Agreements • Principle 2, Criterion 4.13 –Codified the requirements regarding the CA’s responsibility for verifying the accuracy of QIISs used for verification
 
 Current Status – WebTrust Baseline Requirements including Network Security Requirements Released vs 2.3 effective TBD based on CABF feedback Updated SSL Baseline Audit Criteria to conform to SSL Baseline Requirements v1.4.9 and Network and Certificate System Security Requirements v1.1 Principle 1, Criterion 6 –Require CAs to disclose their CAA Records policy in their CPS Principle 2, Criterion 2.14 –Clarified the requirement for Root and Subordinate CA Subject Information Principle 2, Criterion 4.6 –Revised age of data from 39 months to 825 days Principle 2, Criterion 4.10 and 4.11 –New criteria added to address CAA Records processing requirements Principle 2, Criterion 4.12 and 4.13 –Renumbered from 4.10 and 4.11 Principle 2, Criterion 8.3 –Updated that this criterion is only effective for certificates issued before 11 August 2017 Principle 4 –Updates made to conform to CA/B Forum Ballot 210
 
@@ -299,7 +297,7 @@ Processing intermediate certificates: each CP OID that appears in an intermediat
 
 Each CP OID that appears in the end-entity certificate must also appear in the intermediate certificates.
 
-In page 16 of Wen-Cheng’s slide, he showed a table from  about CABF compliance OID. Most of the CAs put their private CP OIDs in their intermediate CA certificates and EE Certificates. What should we do? Wen-Chung suggested to enforce to adopt CABF CP OIDs. Set a sunrise date as below:
+In page 16 of Wen-Cheng’s slide, he showed a table from about CABF compliance OID. Most of the CAs put their private CP OIDs in their intermediate CA certificates and EE Certificates. What should we do? Wen-Chung suggested to enforce to adopt CABF CP OIDs. Set a sunrise date as below:
 
 Effective DD MM YYYY, CAs MUST use the following CP OIDs in the subordinate CA certificates and the subscriber certificates. Maybe two years later.
 
@@ -519,7 +517,7 @@ PZB: There is no approval process for errata. Once it has a number (RFC6844) it 
 Jeremy: You can have a bis.
 PZB – that is a draft. It gets a new number.
 
-**CT Implementation Issues**
+## CT Implementation Issues
 
 Notetaker: Giichi
 

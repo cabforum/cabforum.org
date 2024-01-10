@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-07-16-ballot-sc31-browser-alignment/
+- /2020/07/16/ballot-sc31-browser-alignment/
 author: Wayne Thayer
 date: 2020-07-16 18:23:06
 tags:
@@ -11,7 +11,8 @@ type: post
 ---
 
 The voting period for Ballot SC31v3 has ended and **the Ballot has Passed**. Here are the results:
-**Voting by Certificate Issuers – 20 votes total including abstentions**
+
+## Voting by Certificate Issuers – 20 votes total including abstentions
 
 – 15 **Yes votes**: Amazon, Buypass, Certum (Asseco), Sectigo (former Comodo CA), DigiCert, eMudhra, GDCA, GlobalSign, GoDaddy, HARICA, Kamu SM, SSL.com, SwissSign, TWCA, TrustCor
 – **4 No votes**: Comsign, Entrust Datacard, Firmaprofesional, OATI
@@ -19,7 +20,7 @@ The voting period for Ballot SC31v3 has ended and **the Ballot has Passed**. Her
 
 79% of voting Certificate Issuers voted in favor.
 
-**Voting by Certificate Consumers – 6 votes total including abstentions**
+## Voting by Certificate Consumers – 6 votes total including abstentions
 
 – 5 **Yes vote**s: Apple, Google, Microsoft, Mozilla, Opera
 – 0 **No votes**:
@@ -27,7 +28,7 @@ The voting period for Ballot SC31v3 has ended and **the Ballot has Passed**. Her
 
 100% of voting Certificate Consumers voted in favor.
 
-**Relevant Bylaw references**
+## Relevant Bylaw references
 
 Bylaw 2.3(f) requires:
 
@@ -36,12 +37,12 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was **11** votes – quorum was met.”
 
-**Purpose of Ballot:**
+## Purpose of Ballot
 
 As a regular part of Root Program maintenance, and reflecting the independent nature of each Root Programs’ needs and requirements, Root Programs have introduced a number of requirements above and beyond those captured in the Baseline Requirements. For Root Programs, this approach results in a lack of certainty, as the requirements are not independently audited and assessed, unless otherwise provided for. For CAs, this introduces confusion when applying to have the same CA certificate trusted by multiple Root Programs, as the effective requirements that the CA and certificates need to comply with are the union of the most-restrictive policies.
 
 The following ballot attempts to resolve this uncertainty for Root Programs, and ambiguity for CAs, by incorporating Root Program-specific requirements that are either effective or will, in the future, be effective.
-This was originally drafted in  , and as a pull request is available at
+This was originally drafted in <https://github.com/sleevi/cabforum-docs/pull/10> , and as a pull request is available at <https://github.com/cabforum/documents/pull/195>
 
 The full description, and motivation, of each change, along with the effective dates, are available at the above pull request.
 
@@ -49,8 +50,8 @@ The following motion has been proposed by Ryan Sleevi of Google and endorsed by 
 The changes between SC31v1 and SC31v2 can be viewed at [https://github.com/cabforum/documents/compare/90a7dfe95d32ae8c76a4fa55c7b038d4928872c6…1bb3be897213b21d15b837befa885b0ba34bfd3d](https://github.com/cabforum/documents/compare/90a7dfe95d32ae8c76a4fa55c7b038d4928872c6...1bb3be897213b21d15b837befa885b0ba34bfd3d) . This corrects “Not applicable” to “No stipulation”, updates the formatting/markup for Pandoc and provides additional example text to the effective date table for the Chair or Vice-Chair.
 The changes between SC31v2 and SC31v3 can be viewed at[https://github.com/cabforum/documents/compare/1bb3be897213b21d15b837befa885b0ba34bfd3d…a9a7814da2328c3d3d54d8355eff6fe398354af8](https://github.com/cabforum/documents/compare/1bb3be897213b21d15b837befa885b0ba34bfd3d...a9a7814da2328c3d3d54d8355eff6fe398354af8) . This addresses an issue with certificate suspension for pre-existing, non-TLS certificates from TLS-capable subordinate CAs, and attempts to clarify the expectations around the use of CRL reason codes by requiring they be documented in the CA’s CP/CPS. This also shuffles a requirement already present in the BRs and the RFCs, regarding Delegated Responders being conflated with TLS-capable CAs, into the “Cleanup and Clarification” ballot.
 
-**— MOTION BEGINS —
-**
+**- MOTION BEGINS -**
+
 This ballot modifies “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”) as follows, based on Version 1.7.0
 
 MODIFY the Baseline Requirements as defined in the following redline:
@@ -63,8 +64,8 @@ MODIFY the EV Guidelines as defined in the following redline:
 
 The Chair or Vice-Chair is permitted to update the Relevant Dates of the Baseline Requirements and the EV Guidelines to reflect these changes.
 
-**— MOTION ENDS —
-**
+**- MOTION ENDS -**
+
 This ballot proposes two Final Maintenance Guidelines.
 
 The procedure for approval of this ballot is as follows:

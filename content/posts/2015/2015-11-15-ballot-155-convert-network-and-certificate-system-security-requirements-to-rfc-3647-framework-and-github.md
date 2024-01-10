@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-11-15-ballot-155-convert-network-and-certificate-system-security-requirements-to-rfc-3647-framework-and-github/
+- /2015/11/15/ballot-155-convert-network-and-certificate-system-security-requirements-to-rfc-3647-framework-and-github/
 author: Ben Wilson
 date: 2015-11-15 02:01:00
 tags:

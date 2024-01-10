@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-12-12-2019-11-14-minutes-of-the-server-certificate-working-group/
+- /2019/12/12/2019-11-14-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2019-12-12 15:15:27
 tags:
@@ -10,60 +10,72 @@ title: 2019-11-14 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Adam Clark (Visa), Ben Wilson (Digicert), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Eva Vansteenberge (GlobalSign), Huo Haitao (Halton) (360 Browser), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Jos Purvis (Cisco Systems), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Scott Rea (Dark Matter), Shelley Brewer (Digicert), Tim Hollebeek (Digicert), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vincent Lynch (Digicert), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
 ## Minutes
 
+{.wp-block-heading}
+
 ### 1. Roll Call
+
+{.wp-block-heading}
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
+{.wp-block-heading}
+
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
+{.wp-block-heading}
+
 Ben Wilson proposed to add the default-deny discussion to the agenda.
 
-### 4. Discuss Action Items from the recent F2F 48 meeting 
+### 4. Discuss Action Items from the recent F2F 48 meeting
 
 The following action items were identified from the currently-submitted session minutes. This list will be more comprehensive as more minutes are being submitted.
 
-### Default allow-deny discussion 
+### Default allow-deny discussion
 
 - Ben has drafted the minutes and will post them to the wiki.
 -
 
-### ETSI presentation 
+### ETSI presentation
 
 - Arno to follow-up with the IETF liaison from ETSI to ask about possible incompatibilities with RFC 5280 for removing subjectDN attribute limits in EN 319 412-2&3.
 
-### More intuitive method of displaying secure sites to internet users 
+### More intuitive method of displaying secure sites to internet users
 
 - Ryan was to provide details on which SDOs are working on organization identity and organization identity presentation issues. Ryan has already provided this information to the public list so this action item is complete. Further discussion is expected to take place on the public list.
 -
 
-### 5. Ballot Status 
+### 5. Ballot Status
 
 No further discussion.
 
 #### Ballots in Discussion Period
 
-None
-
-#### Ballots in Voting Period 
+{.wp-block-heading}
 
 None
 
-#### Ballots in Review Period 
+#### Ballots in Voting Period
+
+None
+
+#### Ballots in Review Period
 
 None\_
 \_
 
 #### Draft Ballots under Consideration
+
+{.wp-block-heading}
 
 _SC20 Ballot (NSR 2): System Configuration Management_
 No additional comments.
@@ -82,7 +94,7 @@ Jos will update the pull request as soon as ballots SC23 and SC24 are merged to 
 
 Dimitris reminded Ben and Wayne to review the merge request for SC21 for the Network Security Requirements so it can be merged to master. Ryan mentioned that he has already created pull requests for SC23 and SC24 which would make things easier, should the ballots pass.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 Dimitris asked Ben if he wanted to discuss anything more specific to the default allow/deny topic.
 
@@ -108,7 +120,7 @@ Ryan clarified that this is not a change into how we read the BRs that when we s
 
 Dimitris added that Ben has taken detailed and careful notes from the corresponding F2F discussion and the minutes should be posted soon. To Kirk’s point, Dimitris mentioned that we did say at the F2F that we should look at specific and more “critical” sections to read as default-deny and put our efforts there, following the process that Ryan suggested, and not the entire BRs. He also thinks no one disagrees with fixing ambiguities as we have always been doing.
 
-### 7. Next call 
+### 7. Next call
 
 December 12, 2019 at 11:00 am Eastern Time.
 

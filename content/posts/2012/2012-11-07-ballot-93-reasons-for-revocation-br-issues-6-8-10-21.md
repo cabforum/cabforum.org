@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-11-07-ballot-93-reasons-for-revocation-br-issues-6-8-10-21/
+- /2012/11/07/ballot-93-reasons-for-revocation-br-issues-6-8-10-21/
 author: Ben Wilson
 date: 2012-11-07 18:08:46
 tags:
@@ -18,7 +18,7 @@ Effective immediately, except as to Part E below.
 
 Erratum begins:
 
-**A. (Issue #8)**
+## A. (Issue #8)
 
 Add the following as 10.2.5:
 
@@ -26,11 +26,11 @@ Add the following as 10.2.5:
 
 Parties other than the Subordinate CA SHALL NOT archive the Subordinate CA Private Keys. If the Issuing CA generated the Private Key on behalf of the Subordinate CA, then the Issuing CA SHALL encrypt the Private Key for transport to the Subordinate CA. If the Issuing CA becomes aware that a Subordinate CA’s Private Key has been communicated to an unauthorized person or an organization not affiliated with the Subordinate CA, then the Issuing CA SHALL revoke all certificates that include the Public Key corresponding to the communicated Private Key.”
 
-**B. (Issue #8)**
+## B. (Issue #8)
 
-- Replace the heading of section 13.1.5 with “Reasons for Revoking a Subscriber Certificate”
+• Replace the heading of section 13.1.5 with “Reasons for Revoking a Subscriber Certificate”
 
-- Add the following as section 13.1.6:
+• Add the following as section 13.1.6:
 
 “13.1.6 Reasons for Revoking a Subordinate CA Certificate
 
@@ -56,25 +56,25 @@ The Issuing CA SHALL revoke a Subordinate CA Certificate within seven (7) days i
 
 1. The technical content or format of the Certificate presents an unacceptable risk to Application Software Suppliers or Relying Parties (e.g. the CA/Browser Forum might determine that a deprecated cryptographic/signature algorithm or key size presents an unacceptable risk and that such Certificates should be revoked and replaced by CAs within a given period of time).”
 
-**C. (Issue #6)**
+## C. (Issue #6)
 
--Replace Section 13.1.5(3) with: “(3) The CA obtains evidence that the Subscriber’s Private Key corresponding to the Public Key in the Certificate suffered a Key Compromise (also see Section 10.2.4) or no longer complies with the requirements of Appendix A,”
+•Replace Section 13.1.5(3) with: “(3) The CA obtains evidence that the Subscriber’s Private Key corresponding to the Public Key in the Certificate suffered a Key Compromise (also see Section 10.2.4) or no longer complies with the requirements of Appendix A,”
 
--Add the following as a new Section 13.1.5(4) and renumber the remaining bullet points:
+•Add the following as a new Section 13.1.5(4) and renumber the remaining bullet points:
 
 “(4) The CA obtains evidence that the Certificate was misused;”
 
--Replace the definition of Key Compromise with the following:
+•Replace the definition of Key Compromise with the following:
 
 “Key Compromise: A Private Key is said to be compromised if its value has been disclosed to an unauthorized person, an unauthorized person has had access to it, or there exists a practical technique by which an unauthorized person may discover its value. A Private Key is also considered compromised if methods have been developed that can easily calculate it based on the Public Key (such as a Debian weak key, see ) or if there is clear evidence that the specific method used to generate the Private Key was flawed.”
 
-**D. (Issue #21)**
+## D. (Issue #21)
 
 Add new section 13.2.7: “13.2.7 Certificate Suspension.
 
 The Repository MUST NOT include entries that indicate that a Certificate is suspended.”
 
-**E. (Issue #10)**
+## E. (Issue #10)
 
 1. Add the following to Section 3. References
 

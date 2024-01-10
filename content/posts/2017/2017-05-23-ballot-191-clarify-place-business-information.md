@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-05-23-ballot-191-clarify-place-business-information/
+- /2017/05/23/ballot-191-clarify-place-business-information/
 author: Ben Wilson
 date: 2017-05-23 16:31:37
 tags:
@@ -12,23 +12,23 @@ type: post
 
 The voting period for Ballot 191 has ended and the ballot has passed. Here are the results.
 
-**Voting by CAs – 15 votes total including abstentions**
+## Voting by CAs – 15 votes total including abstentions
 
-15 Yes votes: Actalis, Buypass, Chunghwa Telecom, Comodo, DigiCert, Disig, Entrust, GDCA, GlobalSign, HARICA, Izenpe, SHECA, SSC, Symantec, Trustwave
+- **15 Yes votes:** Actalis, Buypass, Chunghwa Telecom, Comodo, DigiCert, Disig, Entrust, GDCA, GlobalSign, HARICA, Izenpe, SHECA, SSC, Symantec, Trustwave
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 3 votes total including abstentions**
+## Voting by browsers – 3 votes total including abstentions
 
-3 Yes votes: Apple, Google, Mozilla
+- **3 Yes votes:** Apple, Google, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -38,9 +38,9 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
+## The ballot passes.
 
-**Ballot 191 – Clarify Place of Business Information Field Inclusion**
+## Ballot 191 – Clarify Place of Business Information Field Inclusion
 
 The current EV Guidelines are not clear on what address information is required in a certificate. This ballot clarifies the requirements and harmonizes the EV Guidelines and Baseline Requirements.
 
@@ -73,19 +73,35 @@ Contents: This field MUST contain the address of the physical location of the Su
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
 | | | |
-| --- | --- | --- | |
-BALLOT 191 Status: Final Maintenance Guideline |
-Start time (22:00 UTC) |
-End time (22:00 UTC) | |
-Discussion (7 to 14 days) |
-9 May 2017 |
-16 May 2017 | |
-Vote for approval (7 days) |
-16 May 2017 |
-23 May 2017 | |
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. |
-Upon filing of Review Notice by Chair |
-30 days after filing of Review Notice by Chair |
+| --- | --- | --- |
+|
+BALLOT 191 Status: Final Maintenance Guideline
+|
+Start time (22:00 UTC)
+|
+End time (22:00 UTC)
+|
+|
+Discussion (7 to 14 days)
+|
+9 May 2017
+|
+16 May 2017
+|
+|
+Vote for approval (7 days)
+|
+16 May 2017
+|
+23 May 2017
+|
+|
+If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period.
+|
+Upon filing of Review Notice by Chair
+|
+30 days after filing of Review Notice by Chair
+|
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 

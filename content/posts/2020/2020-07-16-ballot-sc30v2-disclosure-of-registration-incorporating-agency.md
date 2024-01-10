@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-07-16-ballot-sc30v2-disclosure-of-registration-incorporating-agency/
+- /2020/07/16/ballot-sc30v2-disclosure-of-registration-incorporating-agency/
 author: Wayne Thayer
 date: 2020-07-16 22:41:25
 tags:
@@ -11,33 +11,34 @@ type: post
 ---
 
 The voting period for Ballot SC30v2 has ended and **the Ballot has Passed**. Here are the results:
-**Voting by Certificate Issuers – 17 votes total including abstentions**
 
-– 17** Yes votes**: Buypass, Certum (Asseco), CFCA, Chunghwa Telecom, D-TRUST, eMudhra, Entrust Datacard, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, OISTE, SHECA, SSL.com, SwissSign, SecureTrust (former Trustwave)
+## Voting by Certificate Issuers – 17 votes total including abstentions
+
+– 17\*\* Yes votes\*\*: Buypass, Certum (Asseco), CFCA, Chunghwa Telecom, D-TRUST, eMudhra, Entrust Datacard, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, OISTE, SHECA, SSL.com, SwissSign, SecureTrust (former Trustwave)
 – **0 No votes**:
 – **0 Abstain**:
 
 100% of voting Certificate Issuers voted in favor.
 
-**Voting by Certificate Consumers – 5 votes total including abstentions**
+## Voting by Certificate Consumers – 5 votes total including abstentions
 
-– 5** Yes vote**s: Apple, Cisco, Google, Microsoft, Mozilla
-– 0** No votes**:
+– 5\*\* Yes vote**s: Apple, Cisco, Google, Microsoft, Mozilla
+– 0** No votes\*\*:
 – **0 Abstain**:
 
 100% of voting Certificate Consumers voted in favor.
 
-**Relevant Bylaw references**
+## Relevant Bylaw references
 
 Bylaw 2.3(f) requires:
 
 – a “yes” vote by two-thirds of Certificate Issuer votes and 50%-plus-one Certificate Consumer votes for approval. Votes to abstain are not counted for this purpose. This requirement was met for both Certificate Issuers and Certificate Consumers.
 – at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was also met.
 
-Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was** 11** votes – quorum was met.”
+Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was\*\* 11\*\* votes – quorum was met.”
 
-**Purpose of Ballot:
-**
+**Purpose of Ballot:**
+
 The EV Guidelines aim to ensure a consistent and repeatable level of validation for certificates, regardless of the CA performing the validation, providing Relying Parties consistency for all certificates complying with these Guidelines. Although the Guidelines attempt to specify objective requirements, areas remain that rely on a subjective determination by the CA. One such area is determining whether a given Incorporating Agency or Registration Agency fulfills these Requirements.
 
 As currently specified, it’s possible for one CA to make a determination that a given Registration Agency or Incorporating Agency does meet the requirements of the EV Guidelines, while a different CA determines that same Agency does not. As the reliability of the information validated within the Certificate is tied to the reliability of the data source used to verify this information, this inconsistency undermines the assurance that EV Certificates are meant to provide.
@@ -54,25 +55,25 @@ A potential roadmap of ballots to to address these issues involves:
 
 A similar process may then be repeated for other forms of verification data sources, such as the QIIS, QTIS, and QGIS within the EV Guidelines, or the Reliable Data Sources within the Baseline Requirements.
 
-This was originally drafted in  , and as a pull request is available at
+This was originally drafted in <https://github.com/sleevi/cabforum-docs/pull/11> , and as a pull request is available at <https://github.com/cabforum/documents/pull/194>
 
-The difference between v1 of this ballot and v2 has been to modify the language to be clearer for those where English is not the first/primary language. The redline between v1 and v2 is available at
+The difference between v1 of this ballot and v2 has been to modify the language to be clearer for those where English is not the first/primary language. The redline between v1 and v2 is available at <https://github.com/cabforum/documents/pull/194/commits/4e8f16f16bf7ec92d9509976e843099091e4b5b7>
 
 The following motion has been proposed by Ryan Sleevi of Google and endorsed by Ben Wilson of Mozilla and Dimitris Zacharopoulos of HARICA.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Guidelines for the Issuance and Management of Extended Validation Certificates” (“EV Guidelines”) as follows, based on version 1.7.2:
 
-ADD a paragraph to Section 9.2.4 of the EV Guidelines as defined in the following redline:
+ADD a paragraph to Section 9.2.4 of the EV Guidelines as defined in the following redline: <https://github.com/cabforum/documents/compare/d5067bbbfb46906c65e476ef3d55dd3b2c505a09..4e8f16f16bf7ec92d9509976e843099091e4b5b7>
 
-ADD a paragraph to Section 9.2.5 of the EV Guidelines as defined in the following redline:
+ADD a paragraph to Section 9.2.5 of the EV Guidelines as defined in the following redline: <https://github.com/cabforum/documents/compare/d5067bbbfb46906c65e476ef3d55dd3b2c505a09..4e8f16f16bf7ec92d9509976e843099091e4b5b7>
 
-ADD a Section 11.1.3 to the EV Guidelines as defined in the following redline:
+ADD a Section 11.1.3 to the EV Guidelines as defined in the following redline: <https://github.com/cabforum/documents/compare/d5067bbbfb46906c65e476ef3d55dd3b2c505a09..4e8f16f16bf7ec92d9509976e843099091e4b5b7>
 
-The Chair or Vice-Chair is permitted to update the Relevant Dates of the EV Guidelines as appropriate, such as in the following redline:
+The Chair or Vice-Chair is permitted to update the Relevant Dates of the EV Guidelines as appropriate, such as in the following redline: <https://github.com/cabforum/documents/compare/d5067bbbfb46906c65e476ef3d55dd3b2c505a09..4e8f16f16bf7ec92d9509976e843099091e4b5b7>
 
-**— MOTION ENDS —**
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline.
 

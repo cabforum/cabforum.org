@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-05-05-2022-05-05-draft-s-mime-br-pre-ballot-discussion-period/
+- /2022/05/05/2022-05-05-draft-s-mime-br-pre-ballot-discussion-period/
 author: Stephen Davidson
 date: 2022-05-05 15:18:41
 tags:
-- Ballot
 - S/MIME
+- Ballot
 title: 2022-05-05 Pre-Ballot Discussion Period for S/MIME Baseline Requirements
 type: post
 ---
@@ -24,7 +24,7 @@ At that time, a roadmap will be set to solicit endorsers and to conduct an adopt
 
 The draft of the S/MIME BR may be found at .
 
-**Summary**
+## Summary
 
 The S/MIME BR describe four profiles for S/MIME certificates including:
 

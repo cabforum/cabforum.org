@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-05-11-ballot-73-public-mail-list/
+- /2012/05/11/ballot-73-public-mail-list/
 author: Ben Wilson
 date: 2012-05-11 21:41:02
 tags:

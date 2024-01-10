@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-03-16-ballot-162-sunset-of-exceptions/
+- /2016/03/16/ballot-162-sunset-of-exceptions/
 author: Ben Wilson
 date: 2016-03-16 21:51:30
 tags:
@@ -19,11 +19,11 @@ Therefore the ballot passes.
 
 Detailed results can be found on the ballot tracker:
 
-**Ballot 162 – Sunset of Exceptions**
+## Ballot 162 – Sunset of Exceptions
 
 The following motion has been proposed by Ryan Sleevi of Google and endorsed by Richard Barnes of Mozilla and Jeremy Rowley of DigiCert.
 
-—–BEGIN MOTION—–
+-–BEGIN MOTION-–
 
 1. Modify section 6.1.7 of the Baseline Requirements to add items 5(f) and 5(g) which read:
 
@@ -37,7 +37,7 @@ g. The notBefore field in the Subscriber Certificate has a date on or before Jun
 
 “6. When a certificate that includes a Domain Name where .onion is in the right-most label of the Domain Name, the Domain Name shall not be considered an Internal Name if the Certificate was issued in compliance with this Appendix F.”
 
-—–END MOTION—–
+-–END MOTION-–
 
 To assist in review, a redlined diff view is available at [https://github.com/cabforum/documents/compare/master…sleevi:Ballot-162-Draft?expand=1][1] , with a branch demonstrating the integration of this ballot available at https://github.com/sleevi/cabforum-docs/tree/Ballot-162-Draft
 

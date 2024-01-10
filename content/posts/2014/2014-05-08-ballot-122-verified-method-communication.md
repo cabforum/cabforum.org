@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-05-08-ballot-122-verified-method-communication/
+- /2014/05/08/ballot-122-verified-method-communication/
 author: Ben Wilson
 date: 2014-05-08 20:59:09
 tags:
@@ -26,7 +26,7 @@ The EV Guidelines Working Group has completed its review of Section 11.4.2 of th
 
 Cecilia Kam of Symantec made the following motion, and Rich Smith from Comodo and Jeremy Rowley from DigiCert have endorsed it.
 
-Motion Begins
+## Motion Begins
 
 1. Create a new definition for a “Verified Method of Communication” in the EV Guidelines:
 
@@ -48,7 +48,7 @@ Motion Begins
 
 1. REPLACE subsection 11.13.3(1)(C) with “The Verified Method of Communication required by Section 11.4.2, but still MUST perform the verification required by Section 11.4.2(2)(B);”
 
-Motion Ends
+## Motion Ends
 
 The review period for this ballot shall commence at 2200 UTC on Tuesday, 15 April 2014, and will close at 2200 UTC on Tuesday, 22 April 2014. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Tuesday, 29 April 2014. Votes must be cast by posting an on-list reply to this thread.
 

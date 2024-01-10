@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-11-09-2022-11-09-minutes-of-the-s-mime-certificate-working-group/
+- /2022/11/09/2022-11-09-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-11-09 17:30:18
 tags:
@@ -10,31 +10,31 @@ title: 2022-11-09 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 November 9, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller – (SwissSign), Andrea Holland – (SecureTrust), Andreas Henschel – (D-TRUST), Ashish Dhiman – (GlobalSign), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chris Kemmerer – (SSL.com), Clint Wilson – (Apple), Dimitris Zacharopoulos – (HARICA), Hazhar Ismail – (MSC Trustgate Sdn Bhd), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Judith Spencer – (CertiPath (Private Person)), Lynn Jeun – (Visa), Marco Schambach – (IdenTrust), Martijn Katerbarg – (Sectigo), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Rebecca Kelley – (Apple), Renne Rodriguez – (Apple), Stefan Selbitschka – (rundQuadrat), Tadahiko Ito – (SECOM Trust Systems), Tim Crawford – (CPA Canada/WebTrust), Tsung-Min Kuo – (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha – (eMudhra), Wendy Brown – (US Federal PKI Management Authority)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 NA
 
-### 5. Discussion 
+### 5. Discussion
 
 Martijn Katerbarg chaired the meeting. The teleconference of November 23 will be cancelled due to US Thanksgiving holiday. Dimitris Zacharopoulos suggested setting up a rotation for minutes of meetings as it could be a burden for a single person to perform.
 
@@ -50,7 +50,7 @@ Clint noted that it really was up to CAs to provide data to inform the S/MIME di
 
 Martijn moved onto issue 95 regarding keeping certs on CRL after their expiry. Paul said the reason this was interesting is there was no way to check in future (for example after a cert has expired) if the cert was valid at the time of signing. Dimitris noted that testing indicated that many clients do not appear to attempt validation after cert expiry. He noted that Qualified signatures used timestamps to resolve this issue. Client said this should be highlighted to the IETF LAMPS group and he’d be willing to arrange tests if concrete examples were provided. Tadahiko Ito said this was a logical issue to address as users wanted to protect both data in transit and date at rest.
 
-Martijn introduced the topic of CAA.  Clint said basically we need to agree on an appropriate tag and get the lengthy registration started. Dimitris asked if this was an issue for CABF or IETF. Bruce Morton noted that it had recently been done for VMC certificates.
+Martijn introduced the topic of CAA. Clint said basically we need to agree on an appropriate tag and get the lengthy registration started. Dimitris asked if this was an issue for CABF or IETF. Bruce Morton noted that it had recently been done for VMC certificates.
 
 Martijn also noted issue proposals for extensions noting the use of 1) enterprise RA, 2) key escrow by the CA, or location of key generation and storage. He also noted that the group will surely return the proposed methods for mailbox control (in issue #3). Clint noted that he’d like to propose an additional method to those noted.
 
@@ -58,11 +58,11 @@ Martijn noted that the Build Guidelines Actions for Github had been implemented,
 
 Dimitris noted that CAs are in vary stages of preparation for the SBR introduction so the WG should be wary about introducing major changes to the SBR before the effective date. He said adding new methods was fine, but removing currently allowed methods must be considered carefully. This was supported by Bruce, noting that the SBR currently do not allow some sources that are allowed in EV so some fine tuning before the effective date might be desired.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, December 7, 2022 at 11:00 am Eastern Time
 

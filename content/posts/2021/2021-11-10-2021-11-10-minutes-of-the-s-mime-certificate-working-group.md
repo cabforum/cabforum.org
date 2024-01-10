@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-11-10-2021-11-10-minutes-of-the-s-mime-certificate-working-group/
+- /2021/11/10/2021-11-10-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2021-11-10 22:50:00
 tags:
@@ -10,31 +10,31 @@ title: 2021-11-10 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 November 10, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Adriano Santoni (Actalis), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Cade Cairns (Google), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Daniel Zens (GlobalTrust), David Kluge (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Eusebio Herrera (Camerfirma), Fotis Loukos (Google), India Donald (Federal PKI), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Joanna Fox (TrustCor), Juan Ángel Martin (Camerfirma), Mads Henriksveen (BuyPass), Matthias Wiedenhorst (ACAB’c), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Tim Crawford (WebTrust), Wendy Brown (Federal PKI)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the October 27 teleconference were approved.
 
-### 5. Discussion 
+### 5. Discussion
 
 Stephen Davidson emphasized that drafting was underway on the S/MIME BR and encouraged WG members to review the text at
 
@@ -66,14 +66,14 @@ Future discussion will focus on identity validation for natural persons and lega
 
 It was agreed to cancel the normal working group conference call scheduled for November 24 due to US holidays.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, December 8, 2021 at 11 a.m. US Eastern.
 
-### Adjourned 
+### Adjourned
 
 [1]: https://github.com/cabforum/smime/blob/preSBR/SBR.md#715--name-constraints

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-06-26-2023-05-25-minutes-of-the-server-certificate-working-group/
+- /2023/06/26/2023-05-25-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2023-06-26 11:17:07
 tags:
@@ -10,11 +10,9 @@ title: 2023-05-25 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-# **Server Certificate Working Group Meeting
+# Server Certificate Working Group Meeting May 25, 2023
 
-May 25, 2023**
-
-**Attendees:**
+## Attendees
 
 Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Cade Cairns – (Google), Chad Ehlers – (IdenTrust), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Ellie Lu – (TrustAsia Technologies, Inc.), Enrico Entschew – (D-TRUST), Eva Vansteenberge – (GlobalSign), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Jamie Mackey – (US Federal PKI Management Authority), Joanna Fox – (TrustCor Systems), Jos Purvis – (Fastly), Karina Sirota – (Microsoft), Kiran Tummala – (Microsoft), Kyle Duren – (Yahoo Inc), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marco Schambach – (IdenTrust), Michelle Coon – (OATI), Miguel Sanchez – (Google), Nate Smith – (GoDaddy), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Ryan Dickson – (Google), Scott Rea – (eMudhra), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tim Hollebeek – (DigiCert), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wendy Brown – (US Federal PKI Management Authority), Yoshiro Yoneya – (Japan Registry Services).
 
@@ -92,7 +90,7 @@ Server certificate WG
 
 - Iñigo Barreira (Sectigo): Tables weren’t correctly formatted – what is the status? Part of the clean-up?
 
-* - - Ryan responded that Jos mentioned this would be brought up in the forum infrastructure working group?
+- - - Ryan responded that Jos mentioned this would be brought up in the forum infrastructure working group?
 
 - Last point: QGIS validation.
 
@@ -108,13 +106,10 @@ Dimitris Zacharopoulos (HARICA) suggested sharing a PDF, and Iñigo Barreira (Se
 
 - Potential topics for the F2f agenda:
 
-* - New meeting slot.
-
-- Presentation from Paul.
-
-- Another presentation by Amazon Trust Services
-
-- Any other topic? Just let Iñigo Barreira (Sectigo) know.
+- - New meeting slot.
+    - Presentation from Paul.
+    - Another presentation by Amazon Trust Services
+    - Any other topic? Just let Iñigo Barreira (Sectigo) know.
 
 - Ballot status
 

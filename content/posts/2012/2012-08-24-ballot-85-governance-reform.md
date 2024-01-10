@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-08-24-ballot-85-governance-reform/
+- /2012/08/24/ballot-85-governance-reform/
 author: Ben Wilson
 date: 2012-08-24 04:29:17
 tags:
@@ -48,7 +48,7 @@ This procedure shall be repeated, counting reassigned votes, until just two prop
 
 7. A ratification ballot conducted in accordance with established Forum procedures to ratify the proposal that emerged from step 5 (above).
 
-**MOTION BEGINS**
+## MOTION BEGINS
 
 The members shall conduct an instant run-off ballot as described above. Votes will be tallied, and members shall conduct a final ballot between the two proposals with first and second status. Once a governance policy is selected, it will be further refined and put before the membership in the form of a ratification ballot.
 
@@ -76,4 +76,4 @@ In order for the ratification ballot conducted in step (7) above to be adopted, 
 
 Votes on this Ballot 85 must be cast by posting an on-list reply to this thread.
 
-**MOTION ENDS**
+## MOTION ENDS

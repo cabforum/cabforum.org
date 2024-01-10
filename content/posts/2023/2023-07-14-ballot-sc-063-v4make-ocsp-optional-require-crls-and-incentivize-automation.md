@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-07-14-ballot-sc-063-v4make-ocsp-optional-require-crls-and-incentivize-automation/
+- /2023/07/14/ballot-sc-063-v4make-ocsp-optional-require-crls-and-incentivize-automation/
 author: Iñigo Barreira
 date: 2023-07-14 15:33:20
 tags:
@@ -10,25 +10,25 @@ title: 'Ballot SC-063 v4: Make OCSP Optional, Require CRLs, and Incentivize Auto
 type: post
 ---
 
-**Voting Results**
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 29 votes total, with no abstentions:
 
-- 28 Issuers voting YES: Amazon, Buypass, Certum, CFCA, Chunghwa Telecom, D-Trust, Digicert, Disig, eMudhra, Entrust, Fastly, GDCA, Globalsign, GoDaddy, HARICA, Izenpe, JPRS, Kamu SM, LE, NAVER, OISTE, SECOM, Sectigo, SSL.com, Swisssign, TWCA, Telia, Viking Cloud
-- 1 Issuers voting NO: Certinomis
-- 0 Issuers ABSTAIN
+- **28 Issuers voting YES:** Amazon, Buypass, Certum, CFCA, Chunghwa Telecom, D-Trust, Digicert, Disig, eMudhra, Entrust, Fastly, GDCA, Globalsign, GoDaddy, HARICA, Izenpe, JPRS, Kamu SM, LE, NAVER, OISTE, SECOM, Sectigo, SSL.com, Swisssign, TWCA, Telia, Viking Cloud
+- **1 Issuers voting NO:** Certinomis
+- **0 Issuers ABSTAIN**
 
-**Certificate Consumers**
+## Certificate Consumers
 
 3 votes total, with no abstentions:
 
-- 3 Consumers voting YES: Google, Mozilla, Apple
-- 0 Consumers voting NO
-- 0 Consumers ABSTAIN
+- **3 Consumers voting YES:** Google, Mozilla, Apple
+- **0 Consumers voting NO**
+- **0 Consumers ABSTAIN**
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 1. Bylaw 2.3(6) requires:
 
@@ -77,7 +77,7 @@ Proposal Revision History:
 
 The following motion has been proposed by Ryan Dickson and Chris Clements of Google (Chrome Root Program) and endorsed by Kiran Tummala of Microsoft and Tim Callan of Sectigo.
 
-## — Motion Begins —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 2.0.0.
 
@@ -85,7 +85,7 @@ MODIFY the Baseline Requirements as specified in the following Redline:
 
 [https://github.com/cabforum/servercert/compare/a0360b61e73476959220dc328e3b68d0224fa0b3..b8a0453e59ff342779d5083f2f1f8b8b5930a66a][7]
 
-## — Motion Ends —
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 

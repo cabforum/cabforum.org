@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-03-02-minutes-of-the-f2f-58-meeting-in-ottawa-canada-28-february-1-march-2023/
+- /2023/03/02/minutes-of-the-f2f-58-meeting-in-ottawa-canada-28-february-1-march-2023/
 author: Ben Wilson
 date: 2023-03-02 16:22:30
 tags:
-- Minutes
 - Forum
+- Minutes
 - Face-to-Face
 title: Minutes of the F2F 58 Meeting in Ottawa, Canada, 28 February – 1 March, 2023
 type: post
@@ -13,7 +13,7 @@ type: post
 
 # Tuesday, 28 February 2023 – CA/B Forum Meeting (Day 1)
 
-## Attendees:
+## Attendees
 
 Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Aleksandra Kurosz (Asseco Data Systems S.A. (Certum)), Alison Titus (Entrust), Andrea Holland (VikingCloud), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Anna-Marie Christian (CPA Canada), Arno Fiedler (D-TRUST), Arnold Essing (Telekom Security), Atsushi Inaba (GlobalSign), Ben Dewberry (Keyfactor), Ben Wilson (Mozilla), Brianca Martin (Amazon), Brittany Randall (GoDaddy), Bruce Morton (Entrust), Bruce Wei (TrustAsia Technologies, Inc.), Chad Edhlers (IdenTrust), Chris Bailey (Entrust), Chris Clements (Google), Chris Czajczyc (Deloitte), Chris Kemmerer (SSL.com), Christophe Bonjean (GlobalSign), Clemens Wanko (ACAB’c), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen (OATI), Daniel Jeffery (Fastly), Daryn Wright (GoDaddy), Dave Chin (CPA Canada), David Kluge (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Dre Armeda (GoDaddy), Elaine Bronsther (Sectigo), Ellie Lu (TrustAsia Technologies, Inc.), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Fumihiko Yoneda (Japan Registry Services Co., Ltd. (JPRS)), George Fergadis (HARICA), Georgy Sebastian (Amazon), Hazhar Ismail (MSC Trustgate Sdn Bhd), Henry Birge-Lee (Guest Speaker), Ian McMillan (Microsoft), Ilona Jones (Entrust), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), JP Hamilton (Cisco Systems), Jamie Mackey (US Federal PKI Management Authority), Janet Hines (VikingCloud), Jeremy Rowley (DigiCert), Joanna Fox (TrustCor Systems), John Sarapata (Google Trust Services), Jos Purvis (Fastly), Jozef Nigut (Disig), Karina Sirota Goodley (Microsoft), Kathleen Wilson (Mozilla), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Lisa Marie Barlow (Entrust), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Marco Schambach (IdenTrust), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Michael Slaughter (Amazon), Michał Malinowski (Asseco Data Systems S.A. (Certum)), Michelle Coon (OATI), Nargis Mannan (VikingCloud), Nick France (Sectigo), Nikolaos Soumelidis (ACAB’c), Pankaj Chawla (eMudhra), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Pekka Lahtiharju (Telia Company), Peter Miskovic (Disig), Prachi Jain (Fastly), RIch Smith (DigiCert), Raffaela Achermann (SwissSign), Rajesh Raman (eMudhra), Rebecca Kelley (Apple), Rob Stradling (Sectigo), Rollin Yu (TrustAsia Technologies, Inc.), Ryan Dickson (Google Chrome), Samantha Frank (Let’s Encrypt), Sissel Hoel (Buypass), Star Simmons (GoDaddy), Stefan Kirch (Telekom Security), Stephen Davidson (DigiCert), Steven Deitte (GoDaddy), Sven Rajala (Keyfactor), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Crawford (WebTrust), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Tsung-Min Kuo (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Yoshihiko Matsuo (Japan Registry Services Co., Ltd. (JPRS)), Yoshiro Yoneya (Japan Registry Services Co., Ltd. (JPRS)).
 
@@ -21,11 +21,11 @@ Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones
 
 **Discussion leader:** Dimitris Zacharopoulos (HARICA),
 
-**Minutes:**
+## Minutes
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 - June 6-8, 2023 meeting will be hosted by Microsoft in Redmond, WA
 
@@ -43,9 +43,9 @@ Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones
 
 **Minutes:** Ben Wilson (Mozilla)
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Dimitris reviewed proposed bylaw changes.
 
@@ -65,9 +65,9 @@ Dimitris reviewed proposed bylaw changes.
 
 **Minutes:** Martijn Katerbarg (Sectigo)
 
-**Presentation link: ** No presentation
+\*\*Presentation link: \*\* No presentation
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Ben: Minutes from prior to 2019 are not properly tagged within WordPress, this is something we should go back to and set them correctly. Dimitris offered to help with this.
 
@@ -89,9 +89,9 @@ There is consensus on looking into that, but not as a high priority item.
 
 **Minutes:** Corey Bonnell (Digicert)
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Don: When I looked at the root inclusion criteria, I had a concern about “the CA doesn’t already have a root”.
 
@@ -121,9 +121,9 @@ Ben: There is a brief breakdown on the Wiki, but also there is documentation on 
 
 **Presentation link:**
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
-\_\_\_ THERE WAS ADDITIONAL CONTEXT FROM THE PRESENTATION THAT WAS NOT ON THE SLIDES\_\_\_
+THERE WAS ADDITIONAL CONTEXT FROM THE PRESENTATION THAT WAS NOT ON THE SLIDES\_\_\_
 
 ### Apple Root Program Update
 
@@ -131,7 +131,7 @@ Ben: There is a brief breakdown on the Wiki, but also there is documentation on 
 
 **Minutes:** Wayne Thayer (Fastly)
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
 Summary of Clint’s presentation:
 
@@ -173,7 +173,7 @@ Summary of Clint’s presentation:
 
 - New CCADB inclusion request process asks for externally hosted documents that describe the CA’s operations in sufficient detail that Apple can answer their own questions.
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 - Trevoli Ponds-White asked about Value & Benefits section of the CCADB root inclusion request form and the mention of ‘timely and transpartent reporting of compliance incidents’ – is that consistent with other Browser requirements? Should it have a separate section?
 
@@ -245,9 +245,9 @@ Summary of Clint’s presentation:
 
 **Minutes:** Ryan Dickson (Google Chrome)
 
-**Presentation link:**
+## Presentation link
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 - Karina shared updates on behalf of the Microsoft Trusted Root Program
 
@@ -299,11 +299,11 @@ Summary of Clint’s presentation:
 
 **Presentation link:**
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 CCADB update minutes.
 
-**Topic: CCADB.org updates**
+## Topic: CCADB.org updates
 
 - Added CCADB Public Group
 
@@ -313,26 +313,24 @@ CCADB update minutes.
 
 - Added CCADB Incident reports.
 
-**Topic: Root Inclusion Request**
+## Topic: Root Inclusion Request
 
 - Intent was to simplify.
 - Submit 1 root inclusion request to multiple root stores, currently includes Apple, Google Chrome, and Mozilla
 
-**Topic: Add/update Root Requests**
+## Topic: Add/update Root Requests
 
 - Changed to only allow roots to be updated that have all information populated with them. If a root cannot be selected, it needs to have the information added.
 - Meant to Standardize and Streamline process.
 
-**Topic: CCADB Groups**
+## Topic: CCADB Groups
 
 - Root stores rotate answering requests from support@ccadb.org
 - Reminder of the code of conduct on Public@ccadb – be respectful
 
-**Topic: Questions/comments**
+## Topic: Questions/comments
 
 No additional discussion.
-
-****
 
 # Wednesday, 1 March 2023 – CA/B Forum Meeting (Day 2)
 
@@ -342,9 +340,9 @@ No additional discussion.
 
 **Minutes:** Ben Wilson (Mozilla)
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Dimitris presented slides regarding the Server Certificate WG charter. The provisions regarding membership in the SCWG were reviewed. Previously, there was an issue concerning an audit. There was another case where a CA member still had a root certificate present in an old version of a Consumer Member’s root store. Disagreements over membership should not be discriminating, biased, or anti-competitive.
 
@@ -386,9 +384,9 @@ Inigo said, also, in the case of a “no” decision, we need clear direction on
 
 **Minutes:** Daryn Wright (GoDaddy)
 
-**Presentation link:**
+## Presentation link:
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 _@Clint, the recording came up empty for that part of the minutes and Daryn couldn’t keep up with the notes. Can you please add some context from memory so we can have something published regarding this topic?_
 
@@ -398,11 +396,11 @@ _@Others, feel free to chime in if you took personal notes for this section_
 
 **Discussion leader:** Henry Birge-Lee (Princeton University)
 
-**Minutes: –**
+## Minutes: –
 
 **Presentation link:**
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 ## AUDIT UPDATES
 
@@ -412,15 +410,15 @@ _@Others, feel free to chime in if you took personal notes for this section_
 
 **Minutes:** Clemens Wanko (TÜV AUSTRIA)
 
-**Presentation link: ** [/uploads/14-ETSI-ESI_Standardisation_Update_for_CAB-Forum-03-2023_1.2.pdf][1]
+\*\*Presentation link: \*\* [/uploads/14-ETSI-ESI_Standardisation_Update_for_CAB-Forum-03-2023_1.2.pdf][1]
 
-**ETSI summary of most important news (see slides for details):**
+## ETSI summary of most important news (see slides for details)
 
 ETSI shall directly incorporate latest version of CA/Browser Forum Baseline, so that any updates are automatically incorporated in ETSI EN 319 411-1 etc.
 
 Other requirements to be addressed by CA/the auditors in the ETSI ecosystem shall be included into ETSI TS 119 403-2 in a timely manner (next update to be released by March 10th, 2023). CA/B Forum and Browsers are encouranged to interface with ETSI to support timely adoption.
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation:
 
 Kathleen Wilson (Mozilla) asked about the timely integration of BRG into ETSI applicable standards. ETSI replied that BRG will be referenced into the ETSI standards in the future “by the latest version to be applied” instead of referencing the latest BRG version available at time of ETSI approval as we have it today. That fact was highly appreciated as it removes issues in keeping track between ETSI and BRG versions.
 
@@ -450,7 +448,7 @@ ACAB’C summary of most important news (see slides for details):
 
 - Active collaboration with CCADB team on ALV tool improvements
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Kathleen liked the update in ETSI TS 119 403-2.
 
@@ -464,15 +462,15 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Presentation link:**
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
-**WETSI**
+## WETSI
 
 - Plan to have a meeting in late 2023.
 
 - Issues outsourcing, subservice arrangements, root inclusion changes, and chaning of auditors
 
-**WebTrust:**
+## WebTrust
 
 - NetSec Requirements
 
@@ -680,7 +678,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 - Evaluating other programs and the use of external service providers
 
-**CPA Canada**
+## CPA Canada
 
 - WebTrust Task Force Member Changes
 
@@ -714,9 +712,9 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Minutes:** Martijn Katerbarg (Sectigo)
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 - Where we are going with the Servercert WG:
 
@@ -740,11 +738,11 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Minutes:** Bruce Morton (Entrust)
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
-**Ballots in progress:**
+## Ballots in progress
 
 - Malware based revocation has been expanded to rework the revocation reason section to have it inline with the TLS and S/MIME BRs.
 
@@ -752,7 +750,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 - Import TLS BR references and aliging the text to meet the requirements of Code Signing.
 
-**Future Goals:**
+## Future Goals
 
 - At the 28 February F2F meeting we had Microsoft discuss Code Signing ecosystem. The CAs also provided their inputs of issues. The goal was to ensite we are discussind the latest issues.
 
@@ -768,8 +766,6 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 - Certificate Transparency (CT) for code signing certificates.
 
-## 
-
 ### S/MIME Certificate Working Group Update
 
 **Presentation by:** Stephen Davidson (DigiCert)
@@ -778,7 +774,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Presentation link:** [/uploads/19-SMCWG-\_20230101_F2F-Intro.pdf][3]
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 No discussion outside of presentation bullet points
 
@@ -788,9 +784,9 @@ No discussion outside of presentation bullet points
 
 **Minutes:** Corey Bonnel (Digicert)
 
-**Presentation link:**
+\*\*Presentation link: \*\*
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Ben: We need to take this draft document (in Google Docs) and upload it to Github for further collaboration.
 
@@ -822,7 +818,7 @@ Clint: The closest term output is adding the high-level goal descriptions to the
 
 **Presentation link:** No presentation
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Jos said that we are migrating to new wiki software. The work will proceed after this F2F.
 

@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-07-13-2023-07-13-minutes-of-the-code-signing-certificate-working-group/
+- /2023/07/13/2023-07-13-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-07-13 17:00:05
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2023-07-13 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
@@ -26,8 +26,8 @@ Andrea Holland (VikingCloud), Atsushi INABA (GlobalSign), Corey Bonnell (DigiCer
 - Server WG requires conformance with RFC 5280 which specifically references X.509 2005 version
 - Requiring latest version of X.509 is as inclusive as possible (since it already include 2005 edits) and should not present an issue
 
-**No other business**
+## No other business
 
 **Next meeting:** July 27
 
-**Adjourn**
+## Adjourn

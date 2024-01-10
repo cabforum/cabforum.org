@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-11-19-ballot-55-romanization-of-japanese-corporate-names/
+- /2010/11/19/ballot-55-romanization-of-japanese-corporate-names/
 author: Ben Wilson
 date: 2010-11-19 21:02:25
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Akira Machida made the following motion, and Ben Wilson and jay Schiavo endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective immediately,
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 A. In Appendix F, delete title “Foreign Organization Name Guidelines”, and insert “Country-Specific Interpretative Guidelines”
 
@@ -66,11 +58,7 @@ K. In Appendix F, F-1. Japan, insert “2. Accounting Practitioner In Japan: (A)
 
 L. In Appendix F, F-1. Japan, insert “3. Legal Practitioner In Japan: (A) Legal Practitioner includes any of the following: a licensed lawyer (弁護士 – Ben-go-shi), a judicial scrivener (司法書士 – Shiho-sho-shi lawyer), an administrative solicitor (行政書士 – Gyosei-sho-shi Lawyer), or a notary public (公証人 – Ko-sho-nin). For purposes of the EV Guidelines, a Japanese Notary Public is considered equivalent to a Latin Notary. (B) The CA MUST verify the professional status of the Legal Practitioner by direct contact through the relevant local member association that is affiliated with one of the following national associations: the Japan Federation of Bar Associations (), the Japan Federation of Shiho-Shoshi Lawyer’s Associations (), the Japan Federation of Administrative Solicitors (), the Japan National Notaries Association (), or any other authoritative source recognized by the Japanese Ministry of Justice () as providing the current registration status of such professionals.”
 
-______________________________________________________________________
-
-Erratum ends
-
-______________________________________________________________________
+### Erratum ends
 
 The ballot review period comes into effect at 2100 UTC on 5 Nov ’10 and will close at 2100 UTC on 12 Nov ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 19 Nov ’10. Votes must be cast by “reply all” to this email.
 
@@ -78,6 +66,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

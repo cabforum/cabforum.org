@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-04-17-turktrust-statement-root-ca-recognition-process/
+- /2014/04/17/turktrust-statement-root-ca-recognition-process/
 author: Ben Wilson
 date: 2014-04-17 17:10:22
 title: Turktrust Statement on Root CA Recognition Process

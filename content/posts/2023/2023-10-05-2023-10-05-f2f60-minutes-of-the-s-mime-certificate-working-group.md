@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-10-05-2023-10-05-f2f60-minutes-of-the-s-mime-certificate-working-group/
+- /2023/10/05/2023-10-05-f2f60-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-10-05 20:31:43
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 - S/MIME
 title: 2023-10-05 (F2F#60) Minutes of the S/MIME Certificate Working Group
 type: post
@@ -70,7 +70,5 @@ None
 ### Next call: Thursday, October 25, 2023 at 11 am Eastern time.
 
 ### Adjourned
-
-\_\_PRESENT
 
 [1]: https://github.com/cabforum/smime/pull/217

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-06-24-ballot-46-audit-report-availability-timing/
+- /2010/06/24/ballot-46-audit-report-availability-timing/
 author: Ben Wilson
 date: 2010-06-24 20:36:40
 tags:
@@ -16,11 +16,7 @@ Motion
 
 Jay Schiavo made the following motion and Bruce Morton and Bjorn Vermo endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The current requirements for publication of audit reports are contained in Section 14.1.3:
 
@@ -34,25 +30,15 @@ The current requirements for publication of audit reports are contained in Secti
 
 Effective immediately:
 
-______________________________________________________________________
+### Erratum begins
 
-Erratum begins
-
-______________________________________________________________________
-
-In Section 14.1.3, delete:-
-
+In Section 14.1.3, delete:
 “(3) For both government and commercial CAs, the audit report MUST be made publicly available.”
 
-And, insert:-
-
+And, insert:
 “(3) For both government and commercial CAs, the CA SHOULD make its audit report publicly available no later than three months after the end of the audit period. In the event of a delay greater than three months, and if so requested by a browser supplier, the CA MUST provide an explanatory letter signed by its auditor.”
 
-______________________________________________________________________
-
-Erratum ends
-
-______________________________________________________________________
+### Erratum ends
 
 The ballot review period comes into effect at 2100 UTC on 17 June ’10 and will close at 2100 UTC on 24 June ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 6 July ’10.
 
@@ -62,8 +48,6 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends
 
 [1]: /wiki/WebTrust

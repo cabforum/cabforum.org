@@ -1,24 +1,24 @@
 ---
 aliases:
-- /2019-08-16-minutes-for-ca-browser-forum-f2f-meeting-47-thessaloniki-12-13-june-2019/
+- /2019/08/16/minutes-for-ca-browser-forum-f2f-meeting-47-thessaloniki-12-13-june-2019/
 author: Jos Purvis
 date: 2019-08-16 19:14:50
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 47 Meeting in Thessaloniki, Greece, 12-13 June 2019
 type: post
 ---
 
-# Plenary Meeting – Day 1 (Wednesday, 12 June) 
+# Plenary Meeting – Day 1 (Wednesday, 12 June)
 
 **Attendees:** Agnieszka Strelcow (Certum), Aleksandra Kapinos (Certum), Alex Wight (Cisco), Anna Evlogimenou (Athens Stock Exchange), Antonios Eleftheriadis (HARICA), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust), Chen Xiaotong (SHECA), Clemens Wanko (ACAB’c), David Hsiu (KPMG Taiwan), Dean Coclin (DigiCert), Derek Bronson (Amazon Trust Services), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), George Fergadis (HARICA), Huo Haitao (360), Ioannis Kostopoulos (HARICA), Irina Hedea (Deloitte), J.P. Hamilton (Cisco), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), John Balafas (Athens Stock Exchange), Jos Purvis (Cisco), Karina Sirota (Microsoft), Katerina Tsagkalidou (HARICA), Khalid Nasser Bin Kleab (NCDC), Kirk Hall (Entrust Datacard), Leo Grove (SSL.co m), Mariusz Kondratowicz (Opera), Meshal Mohammad Alshahrani (NCDC), Michael Markevich (Opera), Michael Slaughter (Amazon Trust Services), Michal Malinowski (Certum), Mike Agrenius Kushner (PrimeKey), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nathalie Weiler (SwissSign), Nick Naziridis (SSL.com), Nikolaos Soumelidis (QMSCert), Peter Miskovic (Disig), PinJung Chiang (ChungHwa Telecom) , Richard Wang (360 Group), Robin Alden (Sectigo), Ryan Hurst (Google Trust Services), Ryan Sleevi (Google), Scott Rea (DarkMatter), Sissel Hoel (Buypass), Stefan Lautenschlager (D-TRUST), Stephan Wolf (GLEIF), Steve Roylance (Ubisecure Oy), Tadahiko Ito (SECOM), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera), Tom Zermeno (SSL.com), Tomas Gustavsson (PrimeKey), Tony Perez (GoDaddy), Trevoli Ponds-White (Amazon Trust Services), Vijay Kumar (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Xiu Lei (GDCA), Xue Yingjun (State Cryptography Administration).
 
-## Approval of Minutes from previous teleconference 
+## Approval of Minutes from previous teleconference
 
 The minutes of the previous teleconference were not distributed for review.
 
-## The purpose of minutes and expectations from minute-takers 
+## The purpose of minutes and expectations from minute-takers
 
 _Presenter:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Bruce Morton (Entrust Datacard)
@@ -52,7 +52,7 @@ Discussion:
 - Ryan Sleevi: From other SDOs, a few suggestions: Try to capture each time a new speaker is speaking, which can be tricky if they don’t identify themselves. Doesn’t need to be word-for-word verbatim, but try to capture each point the speaker is making, which is admittedly a bit tricky to nail down.
 - Jos Purvis: A big benefit of identifying is that when you’re going through the recordings, can be incredibly hard to identify folks since you can’t generally see them. For F2F recordings, identify before speaking.
 
-## How to improve F2F minute review and publication timeline 
+## How to improve F2F minute review and publication timeline
 
 _Presenter:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Doug Beattie (GlobalSign)
@@ -63,16 +63,16 @@ Challenge: Today it takes too long to write, review and post minutes, so let’s
 
 Dimitris went through the presentation which consisted of 2 Proposals
 
-##### Proposal A 
+##### Proposal A
 
 - Review when each slot is ready, approve in batches, mark remaining slots as pending
 - While this has a shorter timeframe and public disclosure, it places more burden on the reviewers to keep reviewing batches of minutes.
 
-##### Proposal B 
+##### Proposal B
 
 - Engage two minute takers for each slot to speed up delivery, however it will take more effort and it’s not so easy to find volunteers
 
-##### Discussion 
+##### Discussion
 
 Jos Purvis (Cisco): F2F is actually a set of different meetings, can we approve them independently? The overall meeting is actually a set of meetings including: Forum, Server, Code Signing, etc. This might facilitate timeline to approve.
 
@@ -92,7 +92,7 @@ Dimitris: If there are no objections, will put forward that approach (incrementa
 
 Ben Wilson (DigiCert): In the event that there are missing sections, we could also re-assign and then have new minute taker review the recordings and do it.
 
-## Report from Code Signing WG 
+## Report from Code Signing WG
 
 _Presenter:_ Dean Coclin (Digicert)
 _Note Taker:_ Robin Alden (Sectigo)
@@ -105,7 +105,7 @@ Timestamping: In scope? – Maybe we cover it in a separate document.
 Reprofile to RFC3647 format?
 We hope this Code Signing document will be adopted as a CABF doc.
 
-## Report from Forum Infrastructure WG 
+## Report from Forum Infrastructure WG
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note Taker:_ Wayne Thayer (Mozilla)
@@ -120,7 +120,7 @@ Jos Purvis of Cisco summarized the Infrastructure WG meeting:
 - Dimitris asked about changes to the document creation process that have been initiated by Jos. Jos said the new process is ready but requires numbering changes to guidelines. This will require a ballot. Once passed, we can begin using the new improved process.
 - Wayne asked about conversion of the Infrastructure WG to a Forum subcommittee. Jos said that we agreed to make this change via ballot and anyone who has time to create one is encouraged to do so.
 
-## Creation of Additional Groups – Secure Mail 
+## Creation of Additional Groups – Secure Mail
 
 _Presenters:_ Tim Hollebeek (Digicert), Ben Wilson (Digicert)
 _Note Taker:_ Tom Zermeno (SSL.com)
@@ -154,14 +154,14 @@ A quick summary:
 - It was recognized that European CAs may desire a broader scope for the certificates.
 - Eventually, all parties in the conversation came to the conclusion that it would behoove the Forum to scope the working group charter to domain validation, first, before adding other functionality once that portion was locked-down.
 
-## Report from Quantum Cryptography liason(s) 
+## Report from Quantum Cryptography liason(s)
 
 _Presenters:_ Tim Hollebeek (Digicert), Tadahiko Ito (Secom)
 _Note Taker:_ Jos Purvis (Cisco)
 
 Tim presented the updates from various outside bodies on quantum crypto work.
 
-**Upcoming Events:**
+## Upcoming Events
 
 The first NIST standardization process met in Florida in Spring 2018, presenting all of the NIST Post-Quantum candidates. There’s been a lot of discussion of these since then on the mailers. There is a second meeting in August in Santa Barbara, and there is starting to be solid work on taking apart algorithms. Tim noted that it’s probably 2 years before a working standard emerges, and NIST estimates 3-4 years before a workable public standard is released.
 
@@ -173,17 +173,17 @@ _Three takeaways:_
 1. US National Academy of Science (from their report): Growth in QC likely to be based on economic utility of QC and the discoveries therein, as happened with traditional computing
 1. ETSI Quantum-Safe Cryptography Working Group says things may go faster if traditional chip fabrication technologiess can be used; slower if not.
 
-**Papers:**
+## Papers
 
 - _How to factor 2048-bit RSA integers in 8 hours using 20 million noisy qubits_ ([Link on arxiv.org][3])
 
-**Next Steps:**
+## Next Steps
 
 - Cryptographic algorithm transitions are measured in decades, which creates problems. Tim noted that the WebPKI has the advantage of relatively short-lived certificates.
 - Very preliminary work going at the IETF on how this transition would actually work (this will be discussed at IETF-Montreal in July)
 - Lots of interest in this within CABF; Tim asked about whether we wanted a mailer for discussion on this topic.
 
-**END PRESENTATION**
+## END PRESENTATION
 
 **Alex Wight, Cisco:** Are there front-runners right now?
 **Tim:** It’s still a very crowded pool; NIST keeps saying this won’t be like AES or SHA-3 with a single winner, they’ll pick multiple in different areas. There are some emerging _back_-runners, but anyone without a weakness is pretty much tied for first.
@@ -202,7 +202,7 @@ _Three takeaways:_
 **Ryan Sleevi:** Our new bylaws don’t require that disclosure for Forum-level ones.
 **Tim:** Sounds good! Yay!
 
-## Instructions for creating ballots and challenges for moving canonical versions of all Guidelines to GitHub 
+## Instructions for creating ballots and challenges for moving canonical versions of all Guidelines to GitHub
 
 _Presenter:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Peter Miskovic (Disig)
@@ -278,13 +278,13 @@ Issue: Next steps
 - Formalize the process
 - Tests with automatically produced red-lines
 
-## Server Certificate WG Plenary 
+## Server Certificate WG Plenary
 
 Attendees: Adriano Santoni (Actalis), Agnieszka Strelcow (Certum), Aleksandra Kapinos (Certum), Alex Wight (Cisco), Anna Evlogimenou (Athens Stock Exchange), Antonios Eleftheriadis (HARICA), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust), Chen Xiaotong (SHECA), Clemens Wanko (ACAB’c), David Hsiu (KPMG Taiwan), Dean Coclin (DigiCert), Derek Bronson (Amazon Trust Services), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTru st), Geoff Keating (Apple), George Fergadis (HARICA), Huo Haitao (360), Ioannis Kostopoulos (HARICA), Irina Hedea (Deloitte), J.P. Hamilton (Cisco), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), John Balafas (Athens Stock Exchange), Jos Purvis (Cisco), Karin a Sirota (Microsoft), Katerina Tsagkalidou (HARICA), Khalid Nasser Bin Kleab (NCDC), Kirk Hall (Entrust Datacard), Leo Grove (SSL.com), Mariusz Kondratowicz (Opera), Meshal Mohammad Alshahrani (NCDC), Michael Markevich (Opera), Michael Slaughter (Amazon Trust Services), Michal Malinowski (Certum), Mike Agrenius Kushner (PrimeKey), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nathalie Weiler (SwissSign), Nick Naziridis (SSL.com), Nikolaos Soumelidis (QMSCert), Peter Miskovic (Disig), PinJung Chiang (ChungHwa Telecom), Richard Wang (360 Group), Robin Alden (Sectigo), Ryan Hurst (Google Trust Services), Ryan Sleevi (Google), Scott Rea (DarkMatter), Sissel Hoel (Buypass), Stefan Lautenschlager (D-TRUST), Stephan Wolf (GLEIF), Steve Roylance (Ubisecure Oy), Tadahiko Ito (SECOM), Tim Callan (Sectigo), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera), Tom Zermeno (SSL.com), Tomas Gustavsson (PrimeKey), Tony Perez (GoDaddy), Trevoli Ponds-White (Amazon Trust Services), Vijay Kumar (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Xiu Lei (GDCA), Xue Yingjun (State Cryptography Administration).
 
-### Approval of SCWG Minutes from last teleconference 
+### Approval of SCWG Minutes from last teleconference
 
-### 360 Root Program Update 
+### 360 Root Program Update
 
 _Presenter:_ Huo Haitao (Halton) (360)
 _Note Taker:_ Enrico Entschew (D-Trust)
@@ -350,7 +350,7 @@ New to the 360 root store are: SSL.com, Certum, Sectigo, Google, SHECA
 
 Introduction to UU, an example for an app that installs a self-signed root on the customer’s system to realize a redirect https with fake certificates eg. of \*.google.com. The app can decrypt user traffic when the user visits websites.
 
-**Plan for the near future:**
+## Plan for the near future
 
 1. Releases
 
@@ -364,7 +364,7 @@ Introduction to UU, an example for an app that installs a self-signed root on th
 
 1. TLS 1.3 support and CVE important fixes backport
 
-**Discussion:**
+## Discussion
 
 Q Wayne Thayer (Mozilla) wants to know which CRLs flow into the CRLSets. A: intermediate, OV and DV certs
 
@@ -376,7 +376,7 @@ Q Wayne, the Client gets the CRLSet data when its validating a certificate? A: Y
 
 Q Wayne has a question about the CA which was rejected due to the RSA 2048 data key. Does 360 have a policy on root certificates containing RSA 2048 keys that expire after a certain day? A: 360 has no such requirements and follows the BR. In this specific case the CA is a new CA and not trusted on any platform or any other browser. If others trust the CA, 360 will review the case again.
 
-### Apple Root Program Update 
+### Apple Root Program Update
 
 _Presenter:_ Geoff Keating (Apple)
 _Note Taker:_ Mike Reilly (Microsoft)
@@ -424,7 +424,7 @@ _Note Taker:_ Mike Reilly (Microsoft)
 - Robin Alden (Sectigo): is there public info on live examples of this? Geoff: all were enterprise certs but not publicly trusted certs from public CAs. Only found with local and enterprise CAs.
 - Wayne Thayer (Mozilla): Any stats available on how much this happens and the impact? Geoff: yes, but not publicly available. To the best of his knowledge nothing seen thus far impacts a larger number of customers.
 
-### Cisco Root Program Update 
+### Cisco Root Program Update
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note taker_: Alex Wight (Cisco)
@@ -436,7 +436,7 @@ Cisco Product Security Baseline (PSB) requirements were adjusted in last 6 mos t
 
 Core Bundle – added AWS Root CAs, in conversations w/Google to add Google’s cloud CA. Removing Verisign G3 next release in Q3 CY19. On track to shift Intersect Bundle from hand-made to requiring CCADB membership starting in late Q4 CY19.
 
-### Google Root Program Update 
+### Google Root Program Update
 
 _Presenter:_ Devon O’ Brian (Google Chrome)
 _Note Taker:_ Robin Alden (Sectigo)
@@ -458,7 +458,7 @@ The Web’s Identity Crisis: Understanding the Effectiveness of Website Identity
 
 EV UI may be moving to page info in Chrome 77. The Canary (alpha) release shows the experience, although this may change before release.
 
-### Microsoft Root Program Update 
+### Microsoft Root Program Update
 
 _Presenter:_ Mike Reilly (Microsoft)
 _Note Taker:_ Tim Hollebeek (Digicert)
@@ -479,14 +479,14 @@ Robin: Does Microsoft intend to remove the EV indicator?
 
 Mike: I run the root store, not Edge. We’re working with that team; those things are TBD.
 
-### Mozilla Root Program Update 
+### Mozilla Root Program Update
 
 _Presenter:_ Wayne Thayer (Mozilla)
 _Note Taker:_ Ryan Sleevi (Google Chrome)
 
-#### CCADB News 
+#### CCADB News
 
-##### Intermediate Certificates 
+##### Intermediate Certificates
 
 An “Audit Letter Validation (ALV)” button will soon be added to intermediate certificate records.
 
@@ -498,7 +498,7 @@ CAs are responsible for the audits of their subordinate CAs.
 
 - This will help us improve audit compliance for intermediate certs by ensuring that they are either in the scope of the root’s audit or covered by their own currently-valid audit.
 
-##### Audits 
+##### Audits
 
 Audit Case Workflow:
 
@@ -520,20 +520,20 @@ To improve the success rate of Audit Letter Validation (ALV), please have your a
 - Should be encoded in the document (PDF) as “selectable” text, not an image
 - [Mozilla’s root store policy][12] requires “SHA256 fingerprint of each root and intermediate certificate that was in scope”
 
-##### Automated Test Website Validation 
+##### Automated Test Website Validation
 
 A new button called “Test Websites Validation” has been added to Audit and Root Inclusion Cases. The validation gets run automatically when a test website is entered or changed. If you update your test website without changing the URL, then you can re-run the validation via the button.
 
 - Currently the validation checks that the test website will get the correct result in NSS (i.e. valid, expired, revoked), and that the TLS cert chains up to the root cert in the Root Case.
 - In the future the validation will also include lint testing.
 
-##### Root Inclusion Requests 
+##### Root Inclusion Requests
 
 Thanks to those of you who are entering and updating your root inclusion requests directly in the CCADB.
 
 - Please remember to also update your Bugzilla Bug to indicate whenever you are ready for your information to be reviewed again. We have not yet implemented tools/integration to automate this interaction between Bugzilla and CCADB.
 
-#### Mozilla Policy Update 
+#### Mozilla Policy Update
 
 I am working on a significant Root Store Policy update covering [sixteen issues][13] in total. I strongly encourage CAs to follow along on the [mozilla.dev.security.policy list][14] and to contribute to the discussion. It is especially important for CAs to identify policy changes that will be difficult for them to implement, or to implement in the required timeline. Unless otherwise stated, Mozilla expects CAs to comply with new policies within 1-2 months of the effective date of the new version.
 
@@ -563,21 +563,21 @@ Other changes include:
 
 I am compiling all of these changes in the [2.7 branch on GitHub][15]. My original target was for the updates to take effect on July 1st, but I currently expect them to take effect on September 1st.
 
-#### Update on Intermediate Preloading and CRLite 
+#### Update on Intermediate Preloading and CRLite
 
-##### Intermediate Preloading 
+##### Intermediate Preloading
 
 Our Intermediate Preloading feature consists of preloading all intermediate CAs known to the Mozilla Root Program into users’ profiles. This feature is intended to resolve missing intermediate errors without the privacy compromise of AIA-fetching, and to ensure that Firefox only trusts intermediates which have been disclosed by CAs. We have landed this feature in Nightly, our experimental version of Firefox. It’s been temporarily disabled while we investigate potential performance risks. We’re targeting an official release a little bit later in the year.
 
-##### CRLite 
+##### CRLite
 
 We’re implementing an idea that comes from academia, namely CRLite, to push all end-entity revocation information to clients. The idea makes clever use of existing information about the certificate ecosystem that comes from CT logs and probabilistic data structures to efficiently and effectively push this information to clients. We’re in the final phases of landing code for our prototype. In comparison to the academic paper, we have reduced file sizes as well as reduced revocation checking times. This technique allows clients to do revocation checking in a fast and private way.
 
-##### TLS 1.0 and 1.1 Deprecation 
+##### TLS 1.0 and 1.1 Deprecation
 
 As was [announced last year][16], Apple, Google, Microsoft, and Mozilla are coordinating to disable TLS 1.0 and 1.1 less than a year from now, in March 2020. TLS 1.0 still accounts for roughly [8000 of the top 1 million websites][17] in Firefox. We could use CAs help in getting the word out about this change. One suggestion is for CAs to notify their customers whose servers don’t yet support TLS 1.2 during the renewal process. This would be a great service to those customers and the internet as a whole.
 
-#### Q & A 
+#### Q & A
 
 Jeremy Rowley (DigiCert): Regarding the proposed changes to Section 8, is it expected to apply to S/MIME?
 Wayne Thayer: Currently, yes.
@@ -600,17 +600,17 @@ Wayne Thayer: Yes, I can try and get that information to you.
 Don Sheehy (WebTrust/CPA Canada): You mentioned audit report authentication and going to the seal to make sure the report is authentic. What do you do in the scenario where there is a qualified audit and thus no seal?
 Wayne Thayer: That goes to the third option – post the attachment to the Bugzilla Bug. Then Kathleen reaches out to the auditor to verify the report. That’s the step we’d like to remove in general, because it’s busy work.
 
-### Guest Speaker – Use cases for digital certificates with embedded LEIs – current state and potential next steps 
+### Guest Speaker – Use cases for digital certificates with embedded LEIs – current state and potential next steps
 
 _Presenter:_ Stephan Wolf (GLEIF)
 
 - Presentation: [Use cases for digital certificates with embedded LEIs – current state and potential next steps][18]
 
-# Plenary Meeting – Day 2 (Thursday, 13 June) 
+# Plenary Meeting – Day 2 (Thursday, 13 June)
 
-## Server Certificate Working Group 
+## Server Certificate Working Group
 
-### ETSI Update 
+### ETSI Update
 
 _Presenter:_ Arno Fiedler (ETSI)
 _Note Taker:_ Clemens Wanko (ACAB’c / TUV Austria)
@@ -630,24 +630,24 @@ There were updates in the following areas:
 
 [/20190613_presentation_a-fiedler_etsi_standards_suporting_eidas/][21]
 
-### ACAB’c Update 
+### ACAB’c Update
 
 _Presenter:_ Clemens Wanko (ACAB’c / TUV Austria)
 _Note Taker:_ Arno Fiedler (ETSI)
 
 Presentation: [ACAB’c Update][22]
 
-#### ACAB’c 
+#### ACAB’c
 
 New secretary: Camille Gerbert; camille.gerbert@lsti.eu; +353 (0) 876748511; secretary@acab-c.com
 
-#### Members 
+#### Members
 
-- # increasing
+- \# increasing
 - members certify >1/3 of ETSI/eIDAS CA
 - members certify CA in >1/2 of EU countries
 
-#### Services for auditors and CA 
+#### Services for auditors and CA
 
 - working documents (e.g. CA/B Forum Audit Attestation Template)
 - position papers & guidance on standard interpretation
@@ -659,14 +659,14 @@ New secretary: Camille Gerbert; camille.gerbert@lsti.eu; +353 (0) 876748511; sec
 - FESA
 - ETSI/CEN
 
-#### Schedule 
+#### Schedule
 
 - ETSI update contribution (…403, …403-2 and …403-3)
 - Position paper (ongoing)
 - Certification scheme (open source)
 - CA/TSP event in 2020
 
-### Special Challenges and concerns for Certification Authorities located in Asia 
+### Special Challenges and concerns for Certification Authorities located in Asia
 
 _Presenter:_ Vijay Kumar (eMudhra)
 _Minute Taker:_ Stefan Lautenschlager (D-TRUST)
@@ -689,7 +689,7 @@ _Future Contributors:_
 - And Other Asian CAs
 - Presentation: [Special Challenges and concerns for Certification Authorities located in Asia][23]
 
-#### Issue 1 of 6: Some of the CAs use PrintableString, and cannot put Unicode characters 
+#### Issue 1 of 6: Some of the CAs use PrintableString, and cannot put Unicode characters
 
 Establish awareness on using utf8string for Subject values.
 
@@ -697,7 +697,7 @@ PrintableString does not meet “O” value requirements.
 
 No action required.
 
-#### Issue 2 of 6: State/Locality name translation from Japanese to English has multiple forms 
+#### Issue 2 of 6: State/Locality name translation from Japanese to English has multiple forms
 
 Tokyo has more than 10 English representations. QGIS has Japanese representation.
 
@@ -707,7 +707,7 @@ ISO 3166 only goes down to state level, does not include city names.
 
 Ryan Sleevi (Google) suggests to begin by looking at the CAs’ current practice. Recommends to establish transparency by disclosing practice e.g. in CP/CPS or an appendix, establish best practice taking into account end user experience.
 
-#### Issue 3 of 6: Organization name translation concerns 
+#### Issue 3 of 6: Organization name translation concerns
 
 Organizations request specific (historic) spelling, different from official present day transliteration.
 
@@ -717,19 +717,19 @@ Jeremy Rowley, (Digicert): EV Guidelines contain instructions, OV is challenging
 
 Dimitris Zacharopoulos, Chair: review Guidelines for translation and find gap.
 
-#### Issue 4 of 6: Ambiguity in translation from Asian Languages to English 
+#### Issue 4 of 6: Ambiguity in translation from Asian Languages to English
 
 Customers demand to give certificates in English language for global audience OR, CA insists to approve only in English language.
 
 Same action as issue 3
 
-#### Issue 5 of 6: Public Suffix List (PSL) needs more clarity 
+#### Issue 5 of 6: Public Suffix List (PSL) needs more clarity
 
 Local governments are forming static domains under PSL (e.g.: some-state.lg.jp) and then create live domains under them.
 
 Comment by Ryan Sleevi (Google): The Country Code Top Level Domains (cc-tlds) are under the sovereignty of the country they belong to. ICANN policy is not mandatory. The cc-tld operator is responsible for subdomains. There is a documented process to update the PSL. Gerv had collected the information. ICANN and IANA point out the Operator of the CC-TLD. The policy comes from there. This issue has been messy for 2 decades.
 
-#### Issue 6 of 6: Disputed Territories country code, which is not part of ISO 3166 specifications 
+#### Issue 6 of 6: Disputed Territories country code, which is not part of ISO 3166 specifications
 
 E.g.: Republic of Crimea
 
@@ -739,7 +739,7 @@ Is it a Country, member of the UN or Territory recognized by at least 2 Nations?
 
 Then take the code and record its use, otherwise only XX
 
-### Report from Network Security Subcommittee 
+### Report from Network Security Subcommittee
 
 _Presenter:_ Ben Wilson (Digicert)
 _Minute Taker:_ Robin Alden (Sectigo)
@@ -751,7 +751,7 @@ Ben recapped that on Tuesday he had given an introduction of the sub groups of t
 - document structure.
 - authentication & access control
 
-### Report from Validation Subcommittee 
+### Report from Validation Subcommittee
 
 _Presenter:_ Tim Hollebeek (Digicert)
 _Minute Taker:_ Wayne Thayer (Mozilla)
@@ -771,7 +771,7 @@ Received feedback on these ideas, and the next step is to take it to the subcomm
 
 - Refer to Tim and Dean’s slides for further information on the subcommittee meeting
 
-### WebTrust Update 
+### WebTrust Update
 
 _Presenters:_ Jeff Ward (BDO) & Don Sheehy (CPA Canada)
 _Minute Taker:_ Kirk Hall (Entrust Datacard)
@@ -804,7 +804,7 @@ d) WebTrust for RA vs 1.0 Effective for periods beginning on or after April 30, 
 
 1. Enhancement of CPA Canada Processes a) CPA Canada is revamping processes with an aim to strengthen the program and add more rigor. Included in the changes are: Replacement of Webtrust.org with CPA Canada – Webtrust.org no longer supports current security protocols New pages reside in CPA Canada secure website – newer, modern look and feel Redirection of old webpages to corresponding new pages – mapping complete enabling all traffic to be directed to new webpages automatically New link will be [www.cpacanada.ca/webtrust][26] Can also go to CABF’s website and follow the link to WebTrust information b) More detailed application and process considerations for auditors, including international – Separation of practitioner enrollment application from trademark agreement sets stage for process automation c) Seal management: New Seal Deployment document is under development Improved rigor on expired seals – new seal expiration document under development d) Collaboration with Browsers: CPA Canada and browsers are working together to establish an automated process to feed seal and audit report IDs to browsers CPA Canada will notify browsers in the event a seal expires or is revoked. e) CPA Canada Reporting Structure/Roles Gord Beal – WebTrust falls into Guidance and Support activities of CPA Canada Janet Treasure – Seal system and licensing responsibility Bryan Walker –Licensing advisor Don Sheehy – Task Force and CABF liaison Jeff Ward – Chair of the WebTrust Task Force and primary contact All Task Force members provide WebTrust services to clients Volunteers are supported by additional technical associates and CPA Canada liaison but report to CPA Canada
 
-### Update on London Protocol 
+### Update on London Protocol
 
 _Presenters:_ Kirk Hall (Entrust Datacard)
 _Minute Taker:_ Kirk Hall (Entrust Datacard)
@@ -843,7 +843,7 @@ Certificate Authority reported issue. Alexa top 100 (updated monthly) Certificat
 
 01. Fine Print / Who’s In Antitrust Laws; Withdrawal by CAs: The participating CAs will comply with all applicable antitrust laws, including the limitations specified by the Antitrust Notification read aloud prior to CA/Browser Forum meetings. Participating CAs may withdraw from this Protocol at any time upon notice to the other participating CAs. Current participants: Buypass, D-Trust, Entrust Datacard, GlobalSign, GoDaddy, Sectigo, SecureTrust. This voluntary Protocol is open to all CAs.
 
-### Special Challenges and concerns for Certification Authorities located in Europe 
+### Special Challenges and concerns for Certification Authorities located in Europe
 
 _Presenters:_ Enrico Entschew (D-Trust)
 _Minute Taker:_ Peter Miscovic (Disig)
@@ -913,9 +913,9 @@ Discussion:
 
 - JP Hamilton (Cisco): Cisco is not ready to commit to an answer for this question.
 
-### Any Other Business 
+### Any Other Business
 
-#### Demo of dokuwiki 
+#### Demo of dokuwiki
 
 _Presenters:_ Jos Purvis (Cisco)
 _Minute Taker:_ Dimitris Zacharopoulos (Harica)
@@ -934,13 +934,13 @@ Jos suggested that members should use external sites to store pictures and conte
 
 Dimitris suggested that there might be an upload limit -say- 2MBs which might prevent people from uploading large files. Jos mentioned that some documents and presentations might be larger than that and Dimitris said that most public presentations are uploaded on the public web site (wordpress) and can be linked through the wiki. Uploading presentations on the public web site, without any page linking to these presentations, makes them “invisible” to the public but “visible” to the Members with access to the wiki when the draft minutes are created. This way we save half the storage because we don’t need to upload the same presentation files twice in two different servers. Jos agreed and other members raised no objections on using this method going forward.
 
-#### Formation of Governance Subcommittee 
+#### Formation of Governance Subcommittee
 
 _Minute Taker:_ Jos Purvis (Cisco)
 
 Dimitris introduced the concept of creating a Governance subcommittee. Now that the Forum permits subcommittees at the Forum level, it would be good to have a committee focused on the maintenance of the Bylaws, IPR requirements, and other Forum-level documents.
 
-Ben Wilson from DigiCert noted that when we wrapped up the Governance working group for the Governance Reform work, we noted that it would be good to keep around a group to deal with governance of the Forum, for instance for Bylaws changes and the like. This was proposed as a Working Group, but members objected because it wouldn’t have a limited duration or narrow scope, as it would be maintaining an ongoing list of items. Ben clarified that this new subcommittee would not be for _governing_ the Forum, instead for organizing the work of the Forum—addressing issues, and keeping the Forum moving forward. With the completion of GovReform v2, it is now possible to create this as a subcommittee of the Forum itself: no IPR entanglements, no guidelines, much like the Forum Infrastructure Working Group.
+Ben Wilson from DigiCert noted that when we wrapped up the Governance working group for the Governance Reform work, we noted that it would be good to keep around a group to deal with governance of the Forum, for instance for Bylaws changes and the like. This was proposed as a Working Group, but members objected because it wouldn’t have a limited duration or narrow scope, as it would be maintaining an ongoing list of items. Ben clarified that this new subcommittee would not be for _governing_ the Forum, instead for organizing the work of the Forum-addressing issues, and keeping the Forum moving forward. With the completion of GovReform v2, it is now possible to create this as a subcommittee of the Forum itself: no IPR entanglements, no guidelines, much like the Forum Infrastructure Working Group.
 
 Dimitris presented a list of governance-related issues he has been tracking for some time that has been circulated on the management list that he felt would be a good list of issues for the subcommittee to begin working on. His doc (in Google Docs) includes who raised the issue, the specific concerns mentioned, etc.
 
@@ -952,7 +952,7 @@ Ben suggested an ongoing list of issues be kept for such a subcommittee. Dimitri
 
 Ryan noted that the Governance Reform subcommittee mailing list _must_ be public, per the Bylaws, just to set expectations. (The previous incarnation of Gov work had been private and then went public later.)
 
-### Arrangements for Next Meeting 
+### Arrangements for Next Meeting
 
 Next F2F meeting is taking place November 5-7 at Guangzhou, China hosted by GDCA.
 

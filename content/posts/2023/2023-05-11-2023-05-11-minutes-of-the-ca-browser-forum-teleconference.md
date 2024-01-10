@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-05-11-2023-05-11-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/05/11/2023-05-11-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-05-11 22:41:58
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-05-11 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
@@ -20,7 +20,7 @@ type: post
 
 - **Approval of March 30th minutes:** Approved
 
-- **SCWG update:** A discussion was held on improvements to SC-62 but were not concluded. Also discussed was upcoming ballot SC-63 where discussions were held on the mailing list. In the validation subcommittee, there was a discussion of the ACME issuance workflow which spurned a discussion on whether or not one can delegate the domain validation to the CA. There was agreement that this should be allowed since it fosters automation. Next meeting will discuss how this will be tackled in the BRs.  There was also a discussion on improvements to EV guidelines around disclosures of QGIS and sources that CAs have to provide. There will be a follow-up discussion.
+- **SCWG update:** A discussion was held on improvements to SC-62 but were not concluded. Also discussed was upcoming ballot SC-63 where discussions were held on the mailing list. In the validation subcommittee, there was a discussion of the ACME issuance workflow which spurned a discussion on whether or not one can delegate the domain validation to the CA. There was agreement that this should be allowed since it fosters automation. Next meeting will discuss how this will be tackled in the BRs. There was also a discussion on improvements to EV guidelines around disclosures of QGIS and sources that CAs have to provide. There will be a follow-up discussion.
 
 - **CSCWG update:** Finalized discussion on revocation reasons ballot, which is now in discussion period. Working on removal of references to the SSL BRs, which is getting close to ballot. Discussion on proposed topics for F2F meeting also took place.
 
@@ -32,7 +32,7 @@ type: post
 
 - **Bylaws changes:** The necessary endorsers are in place and a ballot is expected soon. Tim Hollebeek stated he had submitted some changes to section 2.5 per the discussion on elections in Berlin and thought those could be done at the same time.
 
-- **SCWG Charter update:** Ben discussed proposed changes around probationary members or associate members (i.e. non-voting members). Although this is being discussed in the SCWG, it has to be voted at the Forum level. There is language around certificate consumers and participation. One proposal is that all members participate 30% in a 6 month period (orgs, not individuals) and attend 1 F2F meeting in the 12 month period.  Another part of the changes is to define the criteria for certificate consumers. A discussion has whittled down an initial list of 10 items to 4-5 items. These are detailed in a separate mailer and will be brought to the Forum soon. A recommendation to have a moratorium on new certificate consumer is being proposed (this will be discussed in the SCWG call).
+- **SCWG Charter update:** Ben discussed proposed changes around probationary members or associate members (i.e. non-voting members). Although this is being discussed in the SCWG, it has to be voted at the Forum level. There is language around certificate consumers and participation. One proposal is that all members participate 30% in a 6 month period (orgs, not individuals) and attend 1 F2F meeting in the 12 month period. Another part of the changes is to define the criteria for certificate consumers. A discussion has whittled down an initial list of 10 items to 4-5 items. These are detailed in a separate mailer and will be brought to the Forum soon. A recommendation to have a moratorium on new certificate consumer is being proposed (this will be discussed in the SCWG call).
 
 - **F2F Meeting in Redmond**: 61 people have registered in-person and 19 remote.
 

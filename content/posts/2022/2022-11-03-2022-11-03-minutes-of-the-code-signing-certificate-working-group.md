@@ -1,24 +1,24 @@
 ---
 aliases:
-- /2022-11-03-2022-11-03-minutes-of-the-code-signing-certificate-working-group/
+- /2022/11/03/2022-11-03-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2022-11-03 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2022-11-03 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Andrea Holland, Atsushi Inaba, Bruce Morton, Corey Bonnell, Dean Coclin, Dimitris Zacharopoulos, Ian McMillan, Inigo Barreira, Mohit Kumar, Tim Crawford, Tim Hollebeek, Tomas Gustavsson
 
-## Minutes 
+## Minutes
 
 Dean read the antitrust statement.
 
-### Signing Service Ballot 
+### Signing Service Ballot
 
 Bruce said that he received no further feedback and would like to push this to ballot. Tim and Ian offered to review and endorse, barring any issues found.
 
@@ -34,7 +34,7 @@ Bruce raised a concern that if we require adherence to the NetSec document as a 
 
 Ian asked if there are any ISO standards for cloud services. Tim said that there are not, and cloud services generally get the 2000-level security audit. Ian said that ISO 27001-7 audits for cloud services are common.
 
-### Importing TLS BR text into CSBRs 
+### Importing TLS BR text into CSBRs
 
 Dimitris created a branch on GitHub() to copy the TLS BR text to the CSBRs. He mentioned that there have been no significant issues thus far besides the references to the EV Guidelines, which will be handled in a second pass. He asked for volunteers for this effort.
 

@@ -1,34 +1,34 @@
 ---
 aliases:
-- /2022-03-17-2022-03-17-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/03/17/2022-03-17-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2022-03-17 19:53:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-03-17 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Adam Jones (Microsoft), Adrian Mueller (SwissSign), Amanda Mendieta (Apple), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Brittany Randall (GoDaddy), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Dean Coclin (Digicert), Doug Beattie (GlobalSign), Dustin Ward (SSL.com), Enrico Entschew (D-TRUST), Fumi Yoneda (Japan Registry Services), Heather Warncke (Amazon), Hogeun Yoo (NAVER), Hubert Chao (Google), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Joanna Fox (TrustCor Systems), Johnny Reading (GoDaddy), Karina Sirota (Microsoft), Kati Davids (GoDaddy), Khairil Nizam Abdul Malek (MSC Trustgate Sdn Bhd), Kiran Tummala (Microsoft), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Martijn Katerbarg (Sectigo), Michelle Coon (OATI), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Ryan Dickson (Google), Stephen Davidson (Digicert), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tyler Myers (GoDaddy), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## Minutes 
+## Minutes
 
-### Opening Procedures- Dean 
+### Opening Procedures- Dean
 
 Roll Call – per above
 
-### Read Antitrust Statement- Jos Purvis 
+### Read Antitrust Statement- Jos Purvis
 
 Review Agenda
 
-### Approval of minutes of Feb 3rd call 
+### Approval of minutes of Feb 3rd call
 
 Approved
 
-### Forum Infrastructure Subcommittee update 
+### Forum Infrastructure Subcommittee update
 
 _Given by Jos Purvis_
 
@@ -45,14 +45,14 @@ _Given by Jos Purvis_
 - Do they know which account was breached? No, but anyone who has access has been asked to change creds.
 - Plan for changing over DNS from GoDaddy to AWS soon. May push out this cutover due to ballot, but will look forward to it.
 
-### Code Signing Certificate Working Group update 
+### Code Signing Certificate Working Group update
 
 _Given by Bruce Morton_
 
 - Long discussion on subscriber key protection, and discussion on ballot, which should go out shortly.
 - Long Discussion on going through the current document on bringing it up to date on the signing services.
 
-### SMIME working group update 
+### SMIME working group update
 
 _Given by Stephen Davidson_
 
@@ -65,7 +65,7 @@ _Given by Stephen Davidson_
 - There has been an additional discussion that there would be a variant on the MX method
 - Draft is here: https://github.com/cabforum/smime/blob/preSBR/SBR.md
 
-### NetSec Working Group 
+### NetSec Working Group
 
 _Given by Clint Wilson_
 
@@ -73,7 +73,7 @@ _Given by Clint Wilson_
 - Looking at ballots around defined terms, adding definitions and fixing definitions overall.
 - Will continue to give this update going forward.
 
-### Any Other Business 
+### Any Other Business
 
 - Next meeting is in Warsaw. Will continue to look ahead and make a decision going forward.
 - Will there be a hybrid? Maybe, but we cannot promise quality of the hybrid.

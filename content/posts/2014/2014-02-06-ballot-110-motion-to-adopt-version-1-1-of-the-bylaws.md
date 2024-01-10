@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-02-06-ballot-110-motion-to-adopt-version-1-1-of-the-bylaws/
+- /2014/02/06/ballot-110-motion-to-adopt-version-1-1-of-the-bylaws/
 author: Ben Wilson
 date: 2014-02-06 21:34:19
 tags:

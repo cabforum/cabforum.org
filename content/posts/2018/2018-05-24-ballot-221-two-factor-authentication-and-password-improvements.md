@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-05-24-ballot-221-two-factor-authentication-and-password-improvements/
+- /2018/05/24/ballot-221-two-factor-authentication-and-password-improvements/
 author: Jos Purvis
 date: 2018-05-24 17:49:17
 tags:
@@ -12,7 +12,7 @@ type: post
 
 The voting period for Ballot 221 has ended and the ballot has failed. Here are the results.
 
-**Voting by CAs – 6 votes total including abstentions**
+## Voting by CAs – 6 votes total including abstentions
 
 **6 Yes votes:** Amazon, DigiCert, HARICA, Kamu Sertifikasyon Merkezi, TWCA, TrustCor
 
@@ -22,7 +22,7 @@ The voting period for Ballot 221 has ended and the ballot has failed. Here are t
 
 **100% of voting CAs voted in favor**
 
-**Voting by browsers – 1 vote total including abstentions**
+## Voting by browsers – 1 vote total including abstentions
 
 **0 Yes votes:**
 
@@ -38,9 +38,7 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was NOT met.
 
-**The ballot fails.**
-
-______________________________________________________________________
+## The ballot fails.
 
 **Purpose of Ballot:** The Network Security Working Group met a number of times to improve the Network Security Guidelines requirements around authentication, specifically by requiring two-factor authentication, and improving the password requirements in line with more recent NIST guidelines.
 
@@ -48,8 +46,7 @@ While CAs are encouraged to improve their password requirements as soon as possi
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Dimitris Zacharopoulos of Harica and Neil Dunbar of TrustCor.
 
-**— MOTION BEGINS —
-**
+**- MOTION BEGINS -**
 
 This ballot modifies the “Network and Certificate System Security Requirements” as follows, based upon Version 1.1:
 
@@ -92,7 +89,7 @@ Change section 2.n. to read:
 
 “Enforce Multi-Factor Authentication for all Trusted Role accounts on Certificate Systems (including those approving the issuance of a Certificate, which equally applies to Delegated Third Parties) that are accessible from outside a Secure Zone or High Security Zone; and”
 
-**— MOTION ENDS —**
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 

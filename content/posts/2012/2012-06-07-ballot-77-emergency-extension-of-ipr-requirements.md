@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-06-07-ballot-77-emergency-extension-of-ipr-requirements/
+- /2012/06/07/ballot-77-emergency-extension-of-ipr-requirements/
 author: Ben Wilson
 date: 2012-06-07 21:47:55
 tags:
@@ -15,8 +15,6 @@ Ballot 77 – Emergency Extension of IPR Requirements (Passed)
 Motion
 
 Jeremy Rowley made the following motion, and Kirk Hall and Robin Alden endorsed it:
-
-______________________________________________________________________
 
 The Forum’s IPR Policy requires each member to sign the IPR agreement and disclose all IP assets containing an Essential Claim (as defined in the IPR) on or before June 7, 2012. A failure to comply results in the loss of forum membership. The fact that many key members have not had sufficient time to review and sign the IPR agreement will likely result in a low participation during the face-to-face in Norway and a significant delay in the discussion and adoption of on-going Forum work product.
 
@@ -34,6 +32,4 @@ A vote in favor of the motion must indicate a clear ‘yes’ in the response. A
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

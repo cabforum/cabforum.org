@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-04-21-ballot-167-baseline-requirements-corrections/
+- /2016/04/21/ballot-167-baseline-requirements-corrections/
 author: Ben Wilson
 date: 2016-04-21 14:33:18
 tags:
@@ -23,7 +23,7 @@ Background:
 
 A number of small corrections and clarifications to the Baseline Requirements have been identified. These are, in general, changes that reflect the existing understanding of the Baseline Requirements by the Forum. Due to the understanding that these primarily represent existing practice, they are combined for efficiency.
 
-— MOTION BEGINS —
+## Motion begins
 
 Effective the date of passage, the following modifications to the Baseline Requirements are adopted:
 
@@ -95,7 +95,7 @@ In the following sections, replace all occurrences of “Subscriber or Terms of 
 
 – Section 9.6.3
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 2200 UTC on 7 April 2016, and will close at 2200 UTC on 14 April 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 21 April 2016. Votes must be cast by posting an on-list reply to this thread.
 

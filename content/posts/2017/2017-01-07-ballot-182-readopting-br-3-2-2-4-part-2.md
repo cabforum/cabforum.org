@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-01-07-ballot-182-readopting-br-3-2-2-4-part-2/
+- /2017/01/07/ballot-182-readopting-br-3-2-2-4-part-2/
 author: Ben Wilson
 date: 2017-01-07 19:01:19
 tags:
@@ -12,7 +12,7 @@ type: post
 
 Ballot 182 has **failed** – see results below. We will send out more information on what happens next.
 
-**Ballot 182 Results**
+## Ballot 182 Results
 
 CAs – 0 votes
 

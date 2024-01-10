@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-09-09-ballot-sc35-cleanups-and-clarifications/
+- /2020/09/09/ballot-sc35-cleanups-and-clarifications/
 author: Wayne Thayer
 date: 2020-09-09 23:23:47
 tags:
@@ -11,7 +11,8 @@ type: post
 ---
 
 The voting period for Ballot SC35 has ended and **the Ballot has Passed**. Here are the results:
-**Voting by Certificate Issuers – 21 votes total including abstentions**
+
+## Voting by Certificate Issuers – 21 votes total including abstentions
 
 – 21 **Yes votes**: Actalis, Buypass, Camerfirma, Chunghwa Telecom, D-TRUST, DigiCert, Disig, eMudhra, Entrust Datacard, Firmaprofesional, GDCA, GlobalSign, HARICA, iTrusChina, Let’s Encrypt, OISTE, SSL.com, SwissSign, TrustCor, SecureTrust (former Trustwave), Visa
 – **0 No votes**:
@@ -19,7 +20,7 @@ The voting period for Ballot SC35 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Issuers voted in favor.
 
-**Voting by Certificate Consumers – 7 votes total including abstentions**
+## Voting by Certificate Consumers – 7 votes total including abstentions
 
 – 7 **Yes vote**s: Apple, Cisco, Google, Microsoft, Mozilla, Opera, 360
 – 0 **No votes**:
@@ -27,7 +28,7 @@ The voting period for Ballot SC35 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Consumers voted in favor.
 
-**Relevant Bylaw references**
+## Relevant Bylaw references
 
 Bylaw 2.3(f) requires:
 
@@ -36,16 +37,16 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was **11** votes – quorum was met.”
 
-**Purpose of Ballot:**
+## Purpose of Ballot
 
 This ballot attempts to fix the numerous typographical and editorial issues that have been identified in the SCWG documents (“spring cleanup”), such as incorrect section references, expired effective dates, or spelling and grammatical mistakes. Additionally, it attempts to provide guidance and clarification for language that has been viewed as ambiguous, multiple, or conflicting interpretations.
 
 CAs SHOULD carefully review each change, to ensure no normative impact upon their CA operations and practices that may have resulted from these ambiguities and consistency issues.
 
 The following motion has been proposed by Ryan Sleevi of Google and endorsed by Ben Wilson of Mozilla and Doug Beattie of GlobalSign.
-This ballot is available at GitHub at  with further discussion of the changes
+This ballot is available at GitHub at <https://github.com/cabforum/documents/pull/208> with further discussion of the changes
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 1.7.1:
 
@@ -55,7 +56,7 @@ This ballot modifies the “Guidelines for the Issuance and Management of Extend
 
 MODIFY the EV Guidelines as defined in the following redline:
 
-— MOTION ENDS —
+## Motion ends
 
 This ballot proposes two Final Maintenance Guidelines.
 

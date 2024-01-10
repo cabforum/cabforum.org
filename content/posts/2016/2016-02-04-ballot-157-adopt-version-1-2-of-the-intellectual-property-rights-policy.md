@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-02-04-ballot-157-adopt-version-1-2-of-the-intellectual-property-rights-policy/
+- /2016/02/04/ballot-157-adopt-version-1-2-of-the-intellectual-property-rights-policy/
 author: Ben Wilson
 date: 2016-02-04 17:10:11
 tags:
@@ -20,7 +20,7 @@ Ballot 157 – Adopt version 1.2 of the Intellectual Property Rights Policy
 
 The Patent Advisory Group (PAG) was convened to review potential issues with the interpretation of the CA/Browser Forum’s Intellectual Property Rights Policy (IPR Policy). The PAG has completed its review of the IPR Policy, and the PAG recommends that the Forum adopt the attached v. 1.2 of the IPR Policy. Therefore, the following resolution has been proposed by PAG Chair Ben Wilson of Digicert and endorsed by PAG members Scott Peterson of Google and Virginia Fournier of Apple.
 
-— MOTION BEGINS —
+## Motion begins
 
 RESOLVED, that effective as of February 15, 2016 (“Effective Date”) the CA/B Forum IPR Policy v. 1.2 (the “IPR Policy”) in the form attached hereto as Exhibit A ([Exhibit A – CABF-IPR-Redlined-by-PAG-Nov.2015](/uploads/Exhibit-A-CABF-IPR-Redlined-by-PAG-Nov.2015.pdf)) is hereby adopted; and it is
 
@@ -32,7 +32,7 @@ FURTHER RESOLVED, that Members have 30 days from the Effective Date to sign the 
 
 FURTHER RESOLVED, that Members have 60 days from the Effective Date to comply with the IPR Policy’s disclosure requirements for all previously enacted Forum requirements.
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 2300 UTC on 21 January 2016, and will close at 2300 UTC on 28 January 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2300 UTC on 4 February 2016. Votes must be cast by posting an on-list reply to this thread.
 

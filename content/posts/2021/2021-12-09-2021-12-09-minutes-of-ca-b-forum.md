@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2021-12-09-2021-12-09-minutes-of-ca-b-forum/
+- /2021/12/09/2021-12-09-minutes-of-ca-b-forum/
 author: Ben Wilson
 date: 2021-12-09 17:18:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2021-12-09 Minutes of CA/B Forum Teleconference
 type: post
 ---
@@ -59,6 +59,6 @@ Reviewed plugin that will autosync Github content onto WordPress site
 
 **Next F2F**: Salt Lake City, Feb 22-24 2022. Wiki and hotel signups open
 
-**Any Other Business:**
+## Any Other Business
 
 - None

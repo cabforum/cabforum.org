@@ -1,16 +1,16 @@
 ---
 aliases:
-- /2023-03-16-2023-03-16-minutes-of-ca-browser-forum-teleconference/
+- /2023/03/16/2023-03-16-minutes-of-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-03-16 16:11:41
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-03-16 Minutes of CA/Browser Forum Teleconference
 type: post
 ---
 
-**Final Minutes of Teleconference March 16, 2023**
+## Final Minutes of Teleconference March 16, 2023
 
 Prepared by Tom Zermeno (SSL.com).
 
@@ -48,13 +48,13 @@ Tim Hollebeek clarified that the SCWG meeting takes place at the end of the CA/B
 
 **Code Signing Working Group Update**: Bruce provided the update to the meeting held the previous week. No significant progress was made on ballots, but they did discuss many of the same topics from the F2F meeting. It was a good refresher on the topics that helped to guide the pathway forward. The group had no questions for Bruce.
 
-**S/MIME Certificate working group**: Steven was not in attendance, so Martijn presented the update. The call took place on 3/15 with discussions on the ETSI requirements (thanks to Dimitris), the use of pseudonyms in the CN for legacy profiles, a discrepancy in the BRs which may be fixed by a random ballot, which, if adopted, would include EdDSA key usage table and the clarification on the enterprise for RA text.  No other questions/discussions from the Forum.
+**S/MIME Certificate working group**: Steven was not in attendance, so Martijn presented the update. The call took place on 3/15 with discussions on the ETSI requirements (thanks to Dimitris), the use of pseudonyms in the CN for legacy profiles, a discrepancy in the BRs which may be fixed by a random ballot, which, if adopted, would include EdDSA key usage table and the clarification on the enterprise for RA text. No other questions/discussions from the Forum.
 
 **Forum Infrastructure Subcommittee**: Jos reported on the solid meeting held the previous week. They discussed adjusting the date for the Wiki changeover, which was delayed to accommodate the F2F. The changeover will take place on Monday, March 20. The original wiki will be placed on “read-only” and the content moved over to the new server. Members will receive a message that their account is able to access the new wiki. Jos went on to advise anyone submitting notes for the F2F to hold off on submitting them to the Wiki until the new server is active. There was also discussion at the last full CA/B Forum meeting about the problem with approvals of mergers in GitHub. Currently, the chair does most of the implementation work, but then cannot approve the change, since the change must be approved by someone else. The proposed solution is that anyone who is authorized may create a branch, pull content, etc., but only the chair can push the merge button to merge the content. This way the other members can do the “heavy lifting” and the chair can focus on publishing the document.
 
 Dimitris asked about the situation where a chair wanted to write a ballot. Would someone else be needed to do an approval? Jos answered that the chair would develop a branch, develop a pull request, and once the ballot was passed, the chair would do the work (or someone else could do it) of taking the branch and re-basing it on the main, but it would still be the responsibility of the chair to push the button. Andrea Holland clarified that the Chair or the Vice Chair would push the button. Martijn asked if that was the setup, currently; Jos explained that a summary of the configuration changes that need to be made exists and the change can be made within GitHub at any time. Dimitris gave the go-ahead to move forward with this change.
 
-Finally, there as a discussion about minutes and minute publication and ways to adjust the process to better meet the bylaws, which may be clarified. An adjustment to the list-serve management may be in order so that everyone had a private space to work on minutes and a public space where those minutes can be published.  That was all.
+Finally, there as a discussion about minutes and minute publication and ways to adjust the process to better meet the bylaws, which may be clarified. An adjustment to the list-serve management may be in order so that everyone had a private space to work on minutes and a public space where those minutes can be published. That was all.
 
 Dimitris thanked Jos and mentioned that there was discussion on some bylaws changes at the F2F. It was clarified that the working group meetings and the Forum plenary minutes need to be reviewed on a private/members list before being published. Only working group minutes need to be published on a public website, but not subcommittee minutes.
 
@@ -62,7 +62,7 @@ Dimitris thanked Jos and mentioned that there was discussion on some bylaws chan
 
 Trevoli suggested that the Clint tell us why RPKI should be avoided by the NetSec working group. The reason is that the NetSec requirements apply to all working groups, while RPKI does not have clear overlap with all of the working groups. The RPKI scope was smaller than the NetSec scope, and instead focused on the TLS domain requirements (and S/MIME) only.
 
-Tim agreed with the solution, but not the analysis.  He says that the NetSec charter explicitly calls out that the group should occasionally provide proposals to other working groups. But he does agree that it would be better to leave the discussion to the Sever working group, as that seems to be the focus of RPKI. Clint conceded that if there was a desire to provide guidance to both the TLS and S/MIME groups, then NetSec would be a good place to do that, but without signals from both groups that such guidance was desired, it would be best to leave the discussion in the TLS group.
+Tim agreed with the solution, but not the analysis. He says that the NetSec charter explicitly calls out that the group should occasionally provide proposals to other working groups. But he does agree that it would be better to leave the discussion to the Sever working group, as that seems to be the focus of RPKI. Clint conceded that if there was a desire to provide guidance to both the TLS and S/MIME groups, then NetSec would be a good place to do that, but without signals from both groups that such guidance was desired, it would be best to leave the discussion in the TLS group.
 
 Trevoli added that sometimes any topic dealing with the word “network” means that it has to do with the internet and therefore should be oved to NetSec. However, she mentioned Corey’s proposal that NetSec should inform how to secure infrastructure, regardless – like network infrastructure. But whether it (RPKI) gets required and how that works is better considered a server certificate topic. Tim Agreed.
 Clint stated that this isn’t the last you’ll hear about RPKI in the Forum, but likely the last time it gets discussed in NetSec (for some time, at least).

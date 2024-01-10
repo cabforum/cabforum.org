@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-02-01-ballot-9-physical-address/
+- /2008/02/01/ballot-9-physical-address/
 author: Ben Wilson
 date: 2008-02-01 23:46:00
 tags:

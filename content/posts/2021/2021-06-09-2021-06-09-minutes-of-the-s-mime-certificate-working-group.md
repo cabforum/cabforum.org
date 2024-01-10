@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-06-09-2021-06-09-minutes-of-the-s-mime-certificate-working-group/
+- /2021/06/09/2021-06-09-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2021-06-09 22:41:00
 tags:
@@ -10,33 +10,33 @@ title: 2021-06-09 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 June 9, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Corey Bonnell (DigiCert), Curt Spann (Apple), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Enrico Entschew (D-TRUST), Eusebio Herrera (Camerfirma), Hazhar Ismail (MSC Trustgate.com), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Juan Ángel Martin (Camerfirma), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Morad Abou Nasser (TeleTrust), Niko Carpenter (SecureTrust), Patrycja Tulinska (PSW), Pedro Fuentes (OISTE), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Tim Crawford (WebTrust), Wendy Brown (Federal PKI)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The roll call was taken by Stephen. Mads will take the minutes.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
 Stephen had added an additional agenda (sub) item for OID swivel in addition to the draft agenda distributed to the list. The agenda was approved.
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the May 26 teleconference were approved.
 
-### 5. Discussion of certificate profile 
+### 5. Discussion of certificate profile
 
 The discussion regarding the [Mailbox-validation Legacy profile][1] continued.
 
@@ -72,14 +72,14 @@ This led to a discussion on the use of private extensions. Wendy and Dimitris ar
 
 The TLS BR language may be too restrictive for S/MIME and Corey commented that we could consider prohibiting critical extensions that are commonly understood but allow for some non-crititcal extensions at least in the Multipurpose profile. There was something similar done for SANs in the TLS BR, where the CAs must document their procedures. This is to be continued in the next meeting.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call – during CABF Face-to-face Meeting 53 
+### 7. Next call – during CABF Face-to-face Meeting 53
 
 Next call: Thursday 17. June at 12:00 am Eastern time (during F2F meeting).
 
-### Adjourned 
+### Adjourned
 
 [1]: https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing

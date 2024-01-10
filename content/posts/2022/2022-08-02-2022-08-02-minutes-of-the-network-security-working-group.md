@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-08-02-2022-08-02-minutes-of-the-network-security-working-group/
+- /2022/08/02/2022-08-02-minutes-of-the-network-security-working-group/
 author: Clint Wilson
 date: 2022-08-02 12:00:00
 tags:
@@ -10,9 +10,9 @@ title: 2022-08-02 Minutes of the Network Security Working Group
 type: post
 ---
 
-**CA/Browser Forum NetSec Meeting**
+## CA/Browser Forum NetSec Meeting
 
-**Attendance:**
+## Attendance
 
 - Aaron Poulsen – Amazon
 - Amanda Mendieta – Apple
@@ -31,7 +31,7 @@ type: post
 - Rebecca Kelley – Apple
 - Tony Seymour – Comsign
 
-**Minutes:**
+## Minutes
 
 1. Read Antitrust Statement
 

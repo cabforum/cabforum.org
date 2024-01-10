@@ -1,18 +1,18 @@
 ---
 aliases:
-- /2023-02-02-2023-02-02-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/02/02/2023-02-02-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-02-02 18:58:24
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-02-02 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-**Meeting of the CA/Browser Forum**
+## Meeting of the CA/Browser Forum
 
-**February 2, 2023**
+## February 2, 2023
 
 **Attendance**: Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Amanda Mendieta – (Apple), Andrea Holland – (SecureTrust), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Chris Kemmerer – (SSL.com), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Enrico Entschew – (D-TRUST), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Janet Hines – (SecureTrust), Joanna Fox – (TrustCor Systems), Johnny Reading – (GoDaddy), Jos Purvis – (Fastly), Karina Sirota – (Microsoft), Kiran Tummala – (Microsoft), Marcelo Silva – (Visa), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (SecureTrust), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Ryan Dickson – (Google), Sissel Hoel – (Buypass AS), Stephen Davidson – (DigiCert), Steven Deitte – (GoDaddy), Steve Topletz – (Cisco Systems), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tim Hollebeek – (DigiCert), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wayne Thayer – (Fastly), Wendy Brown – (US Federal PKI Management Authority), Yoshiro Yoneya – (Japan Registry Services).
 
@@ -38,8 +38,8 @@ type: post
 
 **Lessons Learned SC60** – Issue of ballot failing for a company that qualified and met the requirements. Do we need to add anything else in the membership application? Updates to clarify the requirements for voting in new members – charter or the bylaws. What do we do if the membership ballot fails? When can the applicant apply again? Do ballot proposers need to publish ballot results? Disappointed there was no ballot discussion, since there could have been an argument that the applicant did not meet the requirements. There was some disagreement about the ballot question. It was argued that a ballot failing is an acceptable outcome of a vote. Tim stated the question “What’s the point of having membership criteria if we arbitrarily reject people who meet the membership criteria?” Plan to discuss at the next F2F. The application process should not imply that a new applicant will be a new member. It was stated that we should not be making assumptions when we do not have enough information. Tobias wanted to voice his disagreement about the interpretation of the charter; he stated that we need to work to the charter and not bring in any other notions. Tobias is willing to propose a ballot to change the charter so a future application from the same applicant can not be accepted for a year and the reasons for failing are no longer present. Tim H. is concerned that there will be many assumptions externally from the Forum, which could hurt the reputation, so we next to explain what happened to a broader audience.
 
-**Any other business:  **None
+\*\*Any other business: \*\*None
 
 **Next Meeting:** February 16, 2023
 
-**Meeting adjourned.**
+## Meeting adjourned.

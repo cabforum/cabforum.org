@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-03-02-ballot-sc61v4-new-crl-entries-must-have-a-revocation-reason-code/
+- /2023/03/02/ballot-sc61v4-new-crl-entries-must-have-a-revocation-reason-code/
 author: Iñigo Barreira
 date: 2023-03-02 22:02:00
 tags:
@@ -10,21 +10,21 @@ title: Ballot SC61v4 – New CRL Entries must have a Revocation Reason Code
 type: post
 ---
 
-**Voting Results**
+## Voting Results
 
 **Certificate Issuers** 24 votes total, with no abstentions:
 
-- 24 Issuers voting YES: iTrusChina, HARICA, Telia, D-Trust, Digicert, Entrust, OISTE, NAVER Cloud, eMudhra, GlobalSign, Fastly, Chunghwa Telecom, SwissSign, SECOM, Buypass, VikingCloud,  JPRS, Disig, GDCA,  Izenpe, CFCA, Certum, Goddaddy, Let’s Encrypt
-- 0 Issuers voting NO
-- 0 Issuers ABSTAIN
+- **24 Issuers voting YES:** iTrusChina, HARICA, Telia, D-Trust, Digicert, Entrust, OISTE, NAVER Cloud, eMudhra, GlobalSign, Fastly, Chunghwa Telecom, SwissSign, SECOM, Buypass, VikingCloud, JPRS, Disig, GDCA, Izenpe, CFCA, Certum, Goddaddy, Let’s Encrypt
+- **0 Issuers voting NO**
+- **0 Issuers ABSTAIN**
 
 **Certificate Consumers** 3 votes total, with no abstentions:
 
-- 3 Consumers voting YES: Microsoft, Google, Mozilla
-- 0 Consumers voting NO
-- 0 Consumers ABSTAIN
+- **3 Consumers voting YES:** Microsoft, Google, Mozilla
+- **0 Consumers voting NO**
+- **0 Consumers ABSTAIN**
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 1. Bylaw 2.3(6) requires:
 
@@ -57,9 +57,9 @@ End Time: Not before February 15, 2023 03:00 UTC
 
 ## Vote for approval (7 days)
 
-Start Time:  February 15, 2023 04:00 UTC
+Start Time: February 15, 2023 04:00 UTC
 
-End Time:  February 22, 2023 04:00 UTC
+End Time: February 22, 2023 04:00 UTC
 
 ## Ballot Status
 

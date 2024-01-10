@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-09-07-ballot-51-notaries/
+- /2010/09/07/ballot-51-notaries/
 author: Ben Wilson
 date: 2010-09-07 20:53:43
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Ben Wilson made the following motion, and Rich Smith and Bruce Morton endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 EFFECTIVE IMMEDIATELY,
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 A. In Section 3 (Definitions), DELETE:
 
@@ -50,11 +42,7 @@ And in 10.10.1(1)(A) INSERT:
 
 (ii) A Latin Notary commissioned in the Applicant’s Jurisdiction of Incorporation or Registration or any jurisdiction where the Applicant maintains an office or physical facility (and that such jurisdiction recognizes the role of the Latin Notary);
 
-______________________________________________________________________
-
-Erratum ends
-
-______________________________________________________________________
+### Erratum ends
 
 The ballot review period comes into effect at 2100 UTC on 23 Aug ’10 and will close at 2100 UTC on 30 Aug ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 7 Sep ’10.
 
@@ -64,6 +52,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

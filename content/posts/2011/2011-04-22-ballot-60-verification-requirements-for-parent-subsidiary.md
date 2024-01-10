@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2011-04-22-ballot-60-verification-requirements-for-parent-subsidiary/
+- /2011/04/22/ballot-60-verification-requirements-for-parent-subsidiary/
 author: Ben Wilson
 date: 2011-04-22 21:13:02
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Jeremy Rowley made the following motion, and Rich Smith and Bruce Morton endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective immediately,
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Add Section 10.11.3:
 
@@ -46,17 +38,9 @@ Add Section 10.11.3:
 
 (6) Corporate Resolution: A CA MAY verify the relationship between an Applicant and a Subsidiary by relying on a properly authenticated corporate resolution that approves creation of the Subsidiary or the Applicant, provided that such resolution is (i) certified by the appropriate corporate officer (e.g., secretary), and (ii) the CA can reliably verify that the certification was validly signed by such person, and that such person does have the requisite authority to provide such certification.”
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 15 Apr ’11 and will close at 2100 UTC on 22 Apr ’11. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 29 Apr ’11.
 
@@ -66,8 +50,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends

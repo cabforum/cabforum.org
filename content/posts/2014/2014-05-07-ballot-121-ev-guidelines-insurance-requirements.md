@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-05-07-ballot-121-ev-guidelines-insurance-requirements/
+- /2014/05/07/ballot-121-ev-guidelines-insurance-requirements/
 author: Ben Wilson
 date: 2014-05-07 00:20:45
 tags:
@@ -10,7 +10,7 @@ title: Ballot 121 – EV Guidelines Insurance Requirements(failed)
 type: post
 ---
 
-**Ballot 121 – EV Guidelines Insurance Requirements**
+## Ballot 121 – EV Guidelines Insurance Requirements
 
 Voting has closed on Ballot 121.
 “Yes” votes were cast by Buypass, Disig, Firmaprofesional, GlobalSign, GoDaddy, Izenpe, OpenTrust, SSC, Trend Micro, Turktrust, and WoSign.
@@ -22,13 +22,11 @@ The EV Guidelines Working Group is considering updating the EV Guidelines in a n
 
 This ballot is to amend the current EV Guidelines (EVGL) Sec. 8.4 requirements as stated below. The reasons in favor of the Ballot are stated after the proposed amendments.
 
-Motion begins:
+## Motion begins
 
 Amend EV Guideline Section 8.4 to read as follows:
 
-**EV Guideline Section 8.4 – Insurance**
-
-****
+## EV Guideline Section 8.4 – Insurance
 
 Each CA SHALL maintain the following insurance related to their **its** respective performance and obligations under these Guidelines **in accordance with the minimum insurance requirements (if any) as are applicable to the CA under the law of its jurisdiction of incorporation or registration.** :
 
@@ -40,7 +38,7 @@ Such insurance MUST be with a company rated no less than A- as to Policy Holder�
 
 A CA MAY self-insure for liabilities that arise from such party’s performance and obligations under these Guidelines provided that it has at least five hundred million US dollars in liquid assets based on audited financial statements in the past twelve months, and a quick ratio (ratio of liquid assets to current liabilities) of not less than 1.0.
 
-Motion Ends
+## Motion Ends
 
 The reasons for this proposed amendment are as follows:
 

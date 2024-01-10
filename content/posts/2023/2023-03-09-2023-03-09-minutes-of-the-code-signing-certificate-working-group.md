@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-03-09-2023-03-09-minutes-of-the-code-signing-certificate-working-group/
+- /2023/03/09/2023-03-09-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-03-09 16:00:10
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2023-03-09 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
@@ -25,7 +25,7 @@ Andrea Holland (SecureTrust), Atsushi Inaba (GlobalSign), Brianca Martin (Amazon
 1. Martijn took minutes at the F2F Meeting on February 28th.
 1. Agenda – Items discussed in the F2F meeting
 
-**a. Ian provided an overview from Microsoft’s perspective.**
+## a. Ian provided an overview from Microsoft’s perspective.
 
 Subscribers (buy certs, sign code) and consumers (consume the code/application that is signed/application).
 
@@ -55,7 +55,7 @@ Dimitris stated that one of the biggest arguments for short term certificates is
 
 Ian stated for the attacker, how do I reduce their velocity to ROI?
 
-**c. Certificate transparency**
+## c. Certificate transparency
 
 -
 
@@ -85,7 +85,7 @@ Ian stated that companies are protecting their brand would invest in monitoring.
 
 Brianca stated that monitoring is valuable be it allows companies, when requirements change to be able to know which certificates that they have been issued that need to comply.
 
-**d. Simplify EV verification**
+## d. Simplify EV verification
 
 Bruce noted that the process is complicated and we should figure out how to make it less complicated.
 

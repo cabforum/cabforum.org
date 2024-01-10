@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-07-20-2023-07-06-minutes-of-the-server-certificate-working-group/
+- /2023/07/20/2023-07-06-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2023-07-20 17:03:13
 tags:
@@ -10,25 +10,23 @@ title: 2023-07-06 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-# **Server Certificate Working Group Meeting
+# Server Certificate Working Group Meeting July 6, 2023
 
-July 6, 2023**
-
-**Attendees**
+## Attendees
 
 Iñigo: For the attendance, Rich Smith of Digicert and Daryn of GoDaddy joined the call.
 
 Abdul Hakeem Putra – (MSC Trustgate Sdn Bhd), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Andrea Holland – (VikingCloud), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Chris Clements – (Google), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dimitris Zacharopoulos – (HARICA), Dustin Hollenback – (Microsoft), Enrico Entschew – (D-TRUST), Eva Vansteenberge – (GlobalSign), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Janet Hines – (VikingCloud), Jos Purvis – (Fastly), Keshava Nagaraju – (eMudhra), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Marco Schambach – (IdenTrust), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), RIch Smith – (DigiCert), Rollin Yu – (TrustAsia Technologies, Inc.), Roman Fischer – (SwissSign), Ryan Dickson – (Google), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wayne Thayer – (Fastly), Yashwanth TM – (eMudhra)
 
-**Read Antitrust Statement**
+## Read Antitrust Statement
 
 Iñigo: Read during the forum call part
 
-**Review Agenda**
+## Review Agenda
 
 Iñigo: Agenda approved
 
-**Minutes**
+## Minutes
 
 - - 22 June: circulated
 
@@ -38,13 +36,13 @@ Iñigo: Minutes approved.
 
 Iñigo: Sent out this morning. The validation SC minutes were also sent out this week. Will be approved in 2 weeks during the next call. And then published in the website.
 
-**Membership**
+## Membership
 
 - - No new applications
 
 Iñigo: no new applications in these 2 weeks
 
-**Issues to discuss**
+## Issues to discuss
 
 - - Label GitHub open tickets
 
@@ -90,7 +88,7 @@ Iñigo: I asked Ryan Dickson to take the ownership as they are from Google.
 
 Trev: Thanks Ryan. Ok, if that´s enough of a label, then that´s great. I don´t think I have any other question, that was ok. Thank you.
 
-**Ballot Status – see list below**
+## Ballot Status – see list below
 
 Iñigo: Regarding ballots, both ongoing have finished the discussion period. I´d like to ask the promoters what´s next step.
 
@@ -98,7 +96,7 @@ Tom: yes, we´ve discussed and put a lot of effort in the ballot and want to wra
 
 Ryan: Yes, the voting period will begin in 15 minutes. I´ll send out an email.
 
-**Any Other Business**
+## Any Other Business
 
 Iñigo: Paul sent a link with the presentation gave in the F2F that have gone to the IETF for discussion.
 
@@ -106,11 +104,11 @@ Iñigo: Paul sent a link with the presentation gave in the F2F that have gone to
 
 Paul: Review the proposal, provide feedback and maybe express your support if you like the idea. I think this is key for an opportunity to move to shorter certificates validity. The proposal is based on the CAA record, and also contains some guidance for establishing an account binding, etc. I just wanted to share with the working group because I think it´s important for everyone here on the call. Your feedback is really appreciated. Thank you.
 
-**Next call: 20 July**
+## Next call: 20 July
 
-**Adjourn**
+## Adjourn
 
-**CURRENT STATUS OF BALLOTS**
+## CURRENT STATUS OF BALLOTS
 
 - Passed
 - None

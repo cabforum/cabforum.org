@@ -1,12 +1,12 @@
 ---
 aliases:
-- /2018-10-09-ballot-forum-7-update-etsi-requirements-in-scwg-charter/
+- /2018/10/09/ballot-forum-7-update-etsi-requirements-in-scwg-charter/
 author: Jos Purvis
 date: 2018-10-09 18:49:04
 tags:
 - Forum
-- Ballot
 - Server Certificates
+- Ballot
 title: 'Ballot Forum-7: Update ETSI requirements in SCWG Charter'
 type: post
 ---
@@ -31,9 +31,7 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. **This requirement was met.**
 
-**The ballot passes.**
-
-______________________________________________________________________
+## The ballot passes.
 
 The following motion has been proposed by Dimitris Zacharopoulos of HARICA and endorsed by Moudrick M. Dadashov of SSC and Mads Egil Henriksveen from Bypass.
 
@@ -41,7 +39,7 @@ Background:
 
 Section 3 of the SCWG Charter describes the qualifying criteria for “Certificate Issuers” and “Root Certificate Issuers”. This ballot attempts to remove references to the old ETSI TS documents.
 
-— MOTION BEGINS —
+## Motion begins
 
 In Section 3 of the SCWG Charter, update the ETSI references:
 
@@ -51,7 +49,7 @@ with
 
 “or ETSI EN 319 411-1”.
 
-— MOTION ENDS —
+## Motion ends
 
 Here is a red-line of these particular changes.
 
@@ -63,10 +61,18 @@ The procedure for approval of this ballot is as follows:
 
 | | | |
 | --- | --- | --- |
-| **Forum-7 – Update ETSI requirements in the SCWG Charter** | **Start time (22:00 UTC)** | **End time (22:00 UTC)** | |
-Discussion (7 days) |
-21 September 2018 |
-28 September 2018 | |
-Vote for approval (7 days) |
-28 September 2018 |
-5 October 2018 |
+| **Forum-7 – Update ETSI requirements in the SCWG Charter** | **Start time (22:00 UTC)** | **End time (22:00 UTC)** |
+|
+Discussion (7 days)
+|
+21 September 2018
+|
+28 September 2018
+|
+|
+Vote for approval (7 days)
+|
+28 September 2018
+|
+5 October 2018
+|

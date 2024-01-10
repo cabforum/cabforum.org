@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-10-07-ballot-csc-4-v1-move-deadline-for-transition-to-rsa-3072-and-sha-2-timestamp-tokens/
+- /2020/10/07/ballot-csc-4-v1-move-deadline-for-transition-to-rsa-3072-and-sha-2-timestamp-tokens/
 author: Ben Wilson
 date: 2020-10-07 20:56:19
 tags:
@@ -39,11 +39,11 @@ The current deadline for moving from RSA-2048 to RSA-3072 and from SHA-1 to SHA-
 
 The following motion has been proposed by Tim Hollebeek of DigiCert, and endorsed by Ian McMillan of Microsoft and Hugh Mercer of GlobalSign.
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates“ version 2.0 according to the attached redline.
 
-— MOTION ENDS —
+## Motion ends
 
 [/uploads/baseline_requirements_for_the_issuance_and_management_of_code_signing.v.2.1.pdf][1]
 

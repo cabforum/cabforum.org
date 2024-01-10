@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-02-07-2020-01-23-minutes-of-the-server-certificate-working-group/
+- /2020/02/07/2020-01-23-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2020-02-07 19:38:26
 tags:
@@ -10,29 +10,37 @@ title: 2020-01-23 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Arno Fiedler (D-TRUST), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), David Moeller (Sectigo), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Kirk Hall (Entrust Datacard), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rashmi Jha (Microsoft), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Thanos Vrachnos (SSL.com), Tim Callan (Sectigo), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vincent Lynch (Digicert), Wayne Thayer (Mozilla).
 
 ## Minutes
 
+{.wp-block-heading}
+
 ### 1. Roll Call
+
+{.wp-block-heading}
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
+{.wp-block-heading}
+
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
+{.wp-block-heading}
+
 Accepted without changes.
 
-### 4. Approval of minutes from previous teleconference 
+### 4. Approval of minutes from previous teleconference
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update 
+### 5. Validation Subcommittee Update
 
 - The subcommittee first discussed about the updated validation method for method 6 which is described in ballot SC25. Since that meeting Doug has started the official discussion period for ballot SC25. It includes two new methods; one is an update to method 6 and the other is the ACME domain control validation via agreed-upon change to website.
 
@@ -46,7 +54,7 @@ Accepted without objections.
 
 - Detailed minutes were circulated in the validation subcommittee mailing list ()
 
-### 6. NetSec Subcommittee Update 
+### 6. NetSec Subcommittee Update
 
 - The document structure subgroup discussed about how the netsec document would look like if they applied the changes they have in mind. There was consensus to fix sections that are overly repetitive and overlapping. Some requirements don’t even fit as best practices.
 
@@ -58,22 +66,26 @@ Accepted without objections.
 
 - Detailed minutes were circulated in the netsec subcommittee mailing list ()
 
-### 7. Ballot Status 
+### 7. Ballot Status
 
-#### Ballots in Discussion Period 
+#### Ballots in Discussion Period
 
 \_SC25: Define New HTTP Domain Validation Methods \_(Doug)
 The discussion period of the ballot will soon be completed and Doug will start the voting period.
 
 #### Ballots in Voting Period
 
+{.wp-block-heading}
+
 None
 
-#### Ballots in Review Period 
+#### Ballots in Review Period
 
 None
 
 #### Draft Ballots under Consideration
+
+{.wp-block-heading}
 
 _SC20 Ballot (NSR 2): System Configuration Management_ (Neil)
 The draft ballot has been circulated in the netsec list. Neil is making final adjustments (creating a redline) and will soon send it to the main WG public list.
@@ -90,17 +102,17 @@ Ryan is incorporating changes introduced in Mozilla Policy 2.7. Microsoft is ok 
 _Onion Proposal_ (Wayne)
 Wayne is looking for one more endorser. Other than that the ballot is ready.
 
-### 8. Topics for F2F 49 
+### 8. Topics for F2F 49
 
 Robin proposed adding a slot for a discussion around Jurisdiction of Incorporation for Private Organizations in Germany. The issue probably doesn’t only apply for Germany but also other countries. We may need to review our definitions in the EV Guidelines to see if they match real life cases and clarify how they apply to different scenarios like the one in Germany.
 
 Mike reminded the group of a proposal by OS and Browser vendors regarding the use of QWACs. He thinks it would be useful to have some discussion about that at the F2F.
 
-### 9. Any Other Business 
+### 9. Any Other Business
 
 No other Business raised.
 
-### 10. Next call 
+### 10. Next call
 
 February 6, 2020 at 11:00 am Eastern Time.
 

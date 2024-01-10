@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-02-03-ballot-6-non-commercial-entity-type/
+- /2008/02/03/ballot-6-non-commercial-entity-type/
 author: Ben Wilson
 date: 2008-02-03 18:03:06
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Tony Berman has made the following motion, and Peri Drucker and Bruce Morton have endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended by the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 1. Section 5 of the guidelines
 
@@ -106,11 +98,7 @@ Add
 
 “International Organization”: An International Organization is an organization founded by a constituent document, e.g., charter, treaty, convention, or similar document, signed by, or on behalf of, a minimum of two or more Sovereign State governments.
 
-______________________________________________________________________
-
-Erratum ends
-
-______________________________________________________________________
+### Erratum ends
 
 The ballot review period comes into effect at 1700 EST on (Monday) 21 Jan 2008, and will close at 1700 EST on (Sunday) 27 Jan 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EST on (Sunday) 3 Feb 2008.
 
@@ -120,6 +108,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

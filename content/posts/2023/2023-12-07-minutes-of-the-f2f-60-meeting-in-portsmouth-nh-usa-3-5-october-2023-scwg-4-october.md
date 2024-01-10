@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-12-07-minutes-of-the-f2f-60-meeting-in-portsmouth-nh-usa-3-5-october-2023-scwg-4-october/
+- /2023/12/07/minutes-of-the-f2f-60-meeting-in-portsmouth-nh-usa-3-5-october-2023-scwg-4-october/
 author: Iñigo Barreira
 date: 2023-12-07 17:39:46
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 - Server Certificates
 title: Minutes of the F2F 60 Meeting in Portsmouth, NH, USA, 3-5 October 2023 – SCWG
   (4 October)
@@ -34,7 +34,7 @@ Conclusion:
 
 The overall consensus leans towards a 15-day revocation period, with an emphasis on avoiding unnecessary crises and giving subscribers ample time for replacement. The proposal should not only detail the changes but also provide clear reasons for each modification.
 
-**Ballots**
+## Ballots
 
 - SC65 EVGs into RFC 3647 Format: – Inigo Barreira
 - Received emails from Dimitris and the team, reviewed them.
@@ -54,7 +54,7 @@ The overall consensus leans towards a 15-day revocation period, with an emphasis
 - Ben needs two more endorsers.
 - Next step, even without endorsers, Ben can publish this to the public list for discussion.
 
-**GitHub Open Issues**
+## GitHub Open Issues
 
 #180 Log Entries Ambiguity in 5.4.1:
 

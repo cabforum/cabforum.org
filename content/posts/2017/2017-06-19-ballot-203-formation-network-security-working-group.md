@@ -1,12 +1,12 @@
 ---
 aliases:
-- /2017-06-19-ballot-203-formation-network-security-working-group/
+- /2017/06/19/ballot-203-formation-network-security-working-group/
 author: Ben Wilson
 date: 2017-06-19 17:45:45
 tags:
 - Forum
-- Ballot
 - Network Security
+- Ballot
 title: Ballot 203 – Formation of Network Security Working Group
 type: post
 ---
@@ -15,23 +15,23 @@ Results on Ballot 203 – **Formation of Network Security Working Group**
 
 The voting period for Ballot 203 has ended. The ballot has passed. Here are the results.
 
-**Voting by CAs – 19 votes total including abstentions**
+## Voting by CAs – 19 votes total including abstentions
 
-17 Yes votes: Buypass, CFCA, Comodo, DigiCert, Disig, Entrust, GDCA, GoDaddy, HARICA, Izenpe, SHECA, SSC, SwissSign, Symantec, TrustCor, Trustwave, TurkTrust
+- **17 Yes votes:** Buypass, CFCA, Comodo, DigiCert, Disig, Entrust, GDCA, GoDaddy, HARICA, Izenpe, SHECA, SSC, SwissSign, Symantec, TrustCor, Trustwave, TurkTrust
 
-0 No votes:
+- **0 No votes:**
 
-2 Abstain: Actalis, OATI
+- **2 Abstain:** Actalis, OATI
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 3 votes total including abstentions**
+## Voting by browsers – 3 votes total including abstentions
 
-2 Yes votes: Microsoft, Mozilla
+- **2 Yes votes:** Microsoft, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-1 Abstain: Google
+- **1 Abstain:** Google
 
 100% of voting browsers voted in favor
 
@@ -41,29 +41,27 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
-
-****
+## The ballot passes.
 
 Because this ballot did not propose Final Guidelines or Final Maintenance Guidelines, I do not believe the result implicates our IPR Agreement, and so I will NOT be sending out a Notice of Review Period for this Ballot. If anyone disagrees, please let me know.
 
-**Ballot 203: Formation of Network Security Working Group (v2)**
+## Ballot 203: Formation of Network Security Working Group (v2)
 
 Purpose of Ballot: To form a Network Security Working Group to re-evaluate the CAB Forum’s Network Security Guidelines.
 
 The following motion has been proposed by Gervase Markham of Mozilla and endorsed by Jeremy Rowley of DigiCert and Moudrick Dadashov of SSC:
 
-**— MOTION BEGINS —**
+## Motion begins
 
 In accordance with Section 5.3 of the CA/B Forum Bylaws, the chartering of a new Working Group requires a ballot. This ballot charters the Network Security Working Group.
 
 The CAB Forum’s Network Security Guidelines were adopted in August 2012 but have not been updated since. Significant doubts have been raised as to their fitness for purpose in 2017. Therefore, the Working Group’s charter will be as follows:
 
-**Scope**
+## Scope
 
 1. Consider options for revising, replacing or scrapping the Network Security Guidelines.
 
-**Deliverables**
+## Deliverables
 
 1. A report with one or more proposals for the future of the Network Security Guidelines.
 
@@ -77,31 +75,31 @@ The CAB Forum’s Network Security Guidelines were adopted in August 2012 but ha
 
 1. A form of ballot or ballots to implement any recommendations.
 
-**Expiry**
+## Expiry
 
 The Working Group shall expire once the deliverables have been completed, or on 2018-06-19, whichever happens first.
 
 The expiry date given above shall be automatically postponed by 1 year on 2018-05-19 (“postponement date”) and each anniversary of the postponement date thereafter unless three or more members separately or jointly request on the Public Mail List, within one month prior to a particular postponement date, that expiry of this Working Group not be postponed in that instance.
 
-**— MOTION ENDS —**
+## Motion ends
 
-**Ballot 203: Formation of Network Security Working Group (v2)**
+## Ballot 203: Formation of Network Security Working Group (v2)
 
 Purpose of Ballot: To form a Network Security Working Group to re-evaluate the CAB Forum’s Network Security Guidelines.
 
 The following motion has been proposed by Gervase Markham of Mozilla and endorsed by Jeremy Rowley of DigiCert and Moudrick Dadashov of SSC:
 
-**— MOTION BEGINS —**
+## Motion begins
 
 In accordance with Section 5.3 of the CA/B Forum Bylaws, the chartering of a new Working Group requires a ballot. This ballot charters the Network Security Working Group.
 
 The CAB Forum’s Network Security Guidelines were adopted in August 2012 but have not been updated since. Significant doubts have been raised as to their fitness for purpose in 2017. Therefore, the Working Group’s charter will be as follows:
 
-**Scope**
+## Scope
 
 1. Consider options for revising, replacing or scrapping the Network Security Guidelines.
 
-**Deliverables**
+## Deliverables
 
 1. A report with one or more proposals for the future of the Network Security Guidelines.
 
@@ -115,27 +113,39 @@ The CAB Forum’s Network Security Guidelines were adopted in August 2012 but ha
 
 1. A form of ballot or ballots to implement any recommendations.
 
-**Expiry**
+## Expiry
 
 The Working Group shall expire once the deliverables have been completed, or on 2018-06-19, whichever happens first.
 
 The expiry date given above shall be automatically postponed by 1 year on 2018-05-19 (“postponement date”) and each anniversary of the postponement date thereafter unless three or more members separately or jointly request on the Public Mail List, within one month prior to a particular postponement date, that expiry of this Working Group not be postponed in that instance.
 
-**— MOTION ENDS —**
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 
 | | | |
-| --- | --- | --- | |
-BALLOT 203 |
-Start time (22:00 UTC) |
-End time (22:00 UTC) | |
-Discussion (7 to 14 days) |
-5th June |
-12th June | |
-Vote for approval (7 days) |
-12th June |
-19th June |
+| --- | --- | --- |
+|
+BALLOT 203
+|
+Start time (22:00 UTC)
+|
+End time (22:00 UTC)
+|
+|
+Discussion (7 to 14 days)
+|
+5th June
+|
+12th June
+|
+|
+Vote for approval (7 days)
+|
+12th June
+|
+19th June
+|
 | | | |
 
 Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:

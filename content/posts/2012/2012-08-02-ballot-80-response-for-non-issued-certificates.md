@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-08-02-ballot-80-response-for-non-issued-certificates/
+- /2012/08/02/ballot-80-response-for-non-issued-certificates/
 author: Ben Wilson
 date: 2012-08-02 21:52:42
 tags:

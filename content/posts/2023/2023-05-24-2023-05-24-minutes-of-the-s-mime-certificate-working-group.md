@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-05-24-2023-05-24-minutes-of-the-s-mime-certificate-working-group/
+- /2023/05/24/2023-05-24-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-05-24 14:25:04
 tags:
@@ -40,7 +40,7 @@ The minutes were approved from the following SMCWG meetings: May 10.
 
 ### 5. Discussion
 
-**Membership confirmation of Logius as Certificate Issuer**
+## Membership confirmation of Logius as Certificate Issuer
 
 Logius / PKIOverheid were previously a ServerCert WG member. They have applied for a Certificate Issuer membership in the S/MIME WG.
 
@@ -54,7 +54,7 @@ Stephen proposed to add a definition for Mailbox Address in the SBRs. Doug adds 
 
 Bruce has pointed out that for clarification we should have language stating that “The CA, RA or Enterprise RA SHALL collect and retain evidence”. At current, the “Enterprise RA” bit is missing. It’s proposed to add the Enterprise RA into the same language. No objections are raised.
 
-**ETSI standard update re audit**
+## ETSI standard update re audit
 
 The Erratum ballot proposes to update the language on which ETSI guidelines may be used, as well as a reference to the S/MIME BRs themselves. ETSI is preparing new audit requirements for which a draft has been created, TS 119411-6, and contains mapping against the S/MIME profiles and OIDs. The hope is to have this in place before September 1st.
 
@@ -62,9 +62,9 @@ Stephen mentioned he hopes to be able to share the draft within a few weeks.
 
 Dimitris raises a question regarding ETSI certificate policy identifiers, in which it appears that Sponsor-validated can be done on the ETSI LCP requirements, where Individual requires NCP as minimum. Stephen confirms this is correct, for at least the first version of the ETSI audit criteria.
 
-**F2F topics – Legacy issuing CAs, erratum ballot, Enterprise RA topics**
+## F2F topics – Legacy issuing CAs, erratum ballot, Enterprise RA topics
 
-**Legacy Issuing CAs**
+## Legacy Issuing CAs
 
 Clint has requested adding a topic regarding legacy issuing CAs. Clint explained reading the BRs that any ICA issued prior to the effective date, will need to be compliant if it wants to continue issuing certificates after the effective date. Apple has received multiple requests asking for exceptions and grandfathering. While being open for a discussion, it’s proposed that we should be adding appropriate language into the SBR, if we want to allow this.
 
@@ -78,11 +78,11 @@ Tim clarifies that it seems the SBRs don’t state anything regarding the use of
 
 The discussion it to be continued during the F2F. Stephen asks for people to reach out in order to help deal with this and scope which exceptions we want to allow.
 
-**Erratum ballot**
+### Erratum ballot
 
 A last call for the erratum ballot will be done during the F2F.
 
-**Other topics during the F2F**
+## Other topics during the F2F
 
 - orgIdentifier discussion
 - Root Store updates. A discussion broke out on where and when root store updates need to happen, during the Forum call or if each WG should get its own section of root store updates. Tim has asked for a discussion to be added to the Forum call during the F2F.
@@ -98,8 +98,6 @@ None
 Next call: F2F, Redmond. June 7th
 
 ### Adjourned
-
-\_\_PRESENT
 
 [1]: https://github.com/cabforum/smime/issues/198
 [2]: https://lists.cabforum.org/pipermail/smcwg-public/2023-May/000676.html

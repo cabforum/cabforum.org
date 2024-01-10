@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-10-24-ballot-139-vice-chair-election/
+- /2014/10/24/ballot-139-vice-chair-election/
 author: Ben Wilson
 date: 2014-10-24 03:55:24
 tags:
@@ -10,11 +10,11 @@ title: Ballot 139 – Vice Chair Election
 type: post
 ---
 
-**Ballot 139 – Vice Chair Election**
+## Ballot 139 – Vice Chair Election
 
 The voting period to elect a new Vice Chair of the CA / Browser Forum is now open.
 
-**Voting will close at 2200 UTC on Friday, 24 October 2014.**
+## Voting will close at 2200 UTC on Friday, 24 October 2014.
 
 **Candidates for Vice Chair are:**
 
@@ -26,7 +26,7 @@ The voting period to elect a new Vice Chair of the CA / Browser Forum is now ope
 
 Below are their candidate statements previously sent to the Forum.
 
-**Voting Instructions**
+## Voting Instructions
 
 Please send your vote to the Election Committee – Don Sheehy at and cc: Arno Fiedler at .
 
@@ -34,15 +34,15 @@ Each Member has one equal vote (regardless of whether its class of membership is
 
 The candidate with the most votes on this ballot is appointed to the position of Vice Chair. If two candidates tie with highest number of votes, another election will be held for just those two candidates.
 
-**About the Election Committee and its Processes**
+## About the Election Committee and its Processes
 
-The Election Committee will tally the last vote submitted by a member during the voting period.  The Election Committee will not include any votes submitted before or after the voting period when compiling the votes.
+The Election Committee will tally the last vote submitted by a member during the voting period. The Election Committee will not include any votes submitted before or after the voting period when compiling the votes.
 
 All votes are “confidential information” of the Election Committee.
 
-The Election Committee will publish the ballot results by sending an email to the public mailing list.  That email will contain:  a short description of the ballot, the total number of votes submitted during the voting period, and the name of the candidate receiving the most votes.   The Election Committee may include other language as necessary to accurately describe the ballot and any concerns the Election Committee had with the ballot, provided that such language does not disclose how individual Forum Members voted.
+The Election Committee will publish the ballot results by sending an email to the public mailing list. That email will contain: a short description of the ballot, the total number of votes submitted during the voting period, and the name of the candidate receiving the most votes. The Election Committee may include other language as necessary to accurately describe the ballot and any concerns the Election Committee had with the ballot, provided that such language does not disclose how individual Forum Members voted.
 
-**About the Office of Vice Chair**
+## About the Office of Vice Chair
 
 The Vice Chair:
 
@@ -53,9 +53,9 @@ The Vice Chair:
 - allows all Members equal treatment for their comments and proposals, and
 - does not favor one side over another, but may indicate their own position during discussion and voting on matters.
 
-**Candidate Statements**
+## Candidate Statements
 
-**Candidate Statement of Atilla Biler to CA/Browser Forum**
+## Candidate Statement of Atilla Biler to CA/Browser Forum
 
 Dear All,
 
@@ -77,7 +77,7 @@ Business Development Manager
 
 TURKTRUST Inc.
 
-**Candidate Statement of Kirk Hall to CA/Browser Forum**
+## Candidate Statement of Kirk Hall to CA/Browser Forum
 
 Dear Members,
 
@@ -103,7 +103,7 @@ Operations Director, Trust Services
 
 Trend Micro
 
-**Candidate Statement of Robin Alden to CA/Browser Forum**
+## Candidate Statement of Robin Alden to CA/Browser Forum
 
 Dear CABF Members,
 

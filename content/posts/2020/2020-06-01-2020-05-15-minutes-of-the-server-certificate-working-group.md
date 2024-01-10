@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-06-01-2020-05-15-minutes-of-the-server-certificate-working-group/
+- /2020/06/01/2020-05-15-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2020-06-01 19:52:09
 tags:
@@ -10,29 +10,29 @@ title: 2020-05-15 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Adam Clark (Visa), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michael Guenther (SwissSign), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Quo Vadis), Taconis Lewis (US Federal PKI Management Authority), Thanos Vrachnos (SSL.com), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes 
+## Minutes
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda, assign minute taker for next meeting 
+### 3. Review Agenda, assign minute taker for next meeting
 
 Accepted without changes. Enrico volunteered to take minutes on the next call.
 
-### 4. Approval of minutes from previous teleconference 
+### 4. Approval of minutes from previous teleconference
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update 
+### 5. Validation Subcommittee Update
 
 Tim reports that the Subcommittee had a discussion about http responses and which ones should be acceptable or not. Currently some of the 3xx responses allow parsing the content of the body and it might be useful to tighten up these rules with a specific list.
 
@@ -42,7 +42,7 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 - (please note that this is a side-effect of the transition to the new portal).
 
-### 6. NetSec Subcommittee Update 
+### 6. NetSec Subcommittee Update
 
 Neil reported that ballot SC28 related to logging and retention policy is in a final draft state. There was also discussion about action “j” related to deactivation of user accounts. The SC is trying to move away from the term “accounts” and introduce the term “access”.
 
@@ -56,21 +56,21 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 - (please note that this is a side-effect of the transition to the new portal).
 
-### 7. Ballot Status 
+### 7. Ballot Status
 
-#### Ballots in Discussion Period 
-
-None.
-
-#### Ballots in Voting Period 
+#### Ballots in Discussion Period
 
 None.
 
-#### Ballots in Review Period 
+#### Ballots in Voting Period
 
-_SC29: System Configuration Management (Neil)_.** Review period ends 15:00 UTC 7 June 2020**.
+None.
 
-#### Draft Ballots under Consideration 
+#### Ballots in Review Period
+
+_SC29: System Configuration Management (Neil)_.\*\* Review period ends 15:00 UTC 7 June 2020\*\*.
+
+#### Draft Ballots under Consideration
 
 \_Aligning the BRs with existing Browser Requirements \_(Ryan)
 
@@ -107,14 +107,14 @@ That is not the intent. It should be disclosed prior to its use and issuance of 
 _Updating BR Section 6.1.1.3_
 Chris: This is related mostly on Debian weak keys and there are some possible overlaps with the cleanup/clarifications ballot. His team will review the best path forward and possible work through the GitHub comments.
 
-### 8. Any Other Business 
+### 8. Any Other Business
 
 Ben mentioned about OCSP service availability uptime. He asked Members to take a look, respond on the list or contact him, exploring if we should have more specific language around that. Dimitris and Trev recommend this being discussed in the NetSec subcommittee.
 
 Agenda topics for the upcoming F2F
 Mostly updates from Browser Members, ETSI, ACAB-c and subcommittees. If anyone wants to discuss a new topic, please come forward.
 
-### 9. Next call 
+### 9. Next call
 
 May 28, 2020 at 11:00 am Eastern Time.
 

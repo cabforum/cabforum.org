@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-07-21-2022-07-21-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/07/21/2022-07-21-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-07-21 16:54:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-07-21 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
@@ -20,7 +20,7 @@ Meeting conducted by vice-chair Karina Sirota
 
 1. Approval of minutes of last call. Approved.
 
-1. Forum Infrastructure Report: Jos gave the report. Spam pull requests on github were discussed at the last meeting (as one had recently occurred). This raised the question of how to restrict this. The group is researching it. In the meantime, a field will be added to the management membership tool of github user names. This will help keep track of the authorized users.  A discussion of the website also occurred. Ben will discuss with GoDaddy. Also a discussion about mail delivery took place, which seems stable at this point. Lastly, the membership management tool is almost ready. Will discuss with Martijn when he returns. For phase 2, the membership tools will do the mailing list management automatically.
+1. Forum Infrastructure Report: Jos gave the report. Spam pull requests on github were discussed at the last meeting (as one had recently occurred). This raised the question of how to restrict this. The group is researching it. In the meantime, a field will be added to the management membership tool of github user names. This will help keep track of the authorized users. A discussion of the website also occurred. Ben will discuss with GoDaddy. Also a discussion about mail delivery took place, which seems stable at this point. Lastly, the membership management tool is almost ready. Will discuss with Martijn when he returns. For phase 2, the membership tools will do the mailing list management automatically.
 
 1. Code Signing Working Group report: Janet Hines gave the update. The signing service discussion was deferred until Bruce’s return. On timestamping, a further discussion needs to take place before a draft ballot is proposed. The malware proposal will be discussed on the next call.
 

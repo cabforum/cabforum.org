@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-07-22-baseline-requirements-1-1-7-1-1-8-re-posted/
+- /2014/07/22/baseline-requirements-1-1-7-1-1-8-re-posted/
 author: Ben Wilson
 date: 2014-07-22 19:08:34
 title: Baseline Requirements 1.1.7 and 1.1.8 Re-Posted

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2022-11-17-2022-11-17-minutes-of-the-code-signing-certificate-working-group/
+- /2022/11/17/2022-11-17-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2022-11-17 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2022-11-17 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Atsushi Inaba (GobalSign), Bruce Morton (Entrust), Corey Bonnell (DigiCert), Dimitris Zacharopoulos (HARICA), Ian McMillan (Microsoft), Joanna Fox (Trustcor), Martijn Katerberg (Sectigo), Roberto Quinones (Intel), Tim Crawford (BDO), Tomas Gustavsson, Trevoli Ponds-White (Amazon Trust Services)
 
-## Minutes 
+## Minutes
 
 1. Antitrust statement was read.
 1. Minutes from 25 October are not yet available. Minutes from 3 November were approved.

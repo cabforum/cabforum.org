@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-02-03-ballot-7-parent-subsidiary/
+- /2008/02/03/ballot-7-parent-subsidiary/
 author: Ben Wilson
 date: 2008-02-03 18:05:04
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Tony Berman has made the following motion, and Peri Drucker and Bruce Morton have endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended by the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Section 16 (a) (1)
 
@@ -112,12 +104,6 @@ The new definition shall read:
 
 “A subsidiary company is defined as a company that is majority owned by Applicant as verified by referencing a QIIS or from financial statement supplied by a registered Chartered Professional Accountant (CPA) or equivalent outside of the USA.”
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
+## Motion ends

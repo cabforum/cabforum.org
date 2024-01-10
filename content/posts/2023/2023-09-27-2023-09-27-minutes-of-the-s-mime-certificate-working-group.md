@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-09-27-2023-09-27-minutes-of-the-s-mime-certificate-working-group/
+- /2023/09/27/2023-09-27-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-09-27 18:57:45
 tags:
@@ -73,9 +73,6 @@ None
 Next call: Thursday, October 5, 2023 at the CABF#60, see wiki for details.
 
 ### Adjourned
-
-\_\_PRESENT
-\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT\_\_PRESENT
 
 [1]: https://github.com/cabforum/smime/issues
 [2]: https://github.com/srdavidson/smime/blob/Ballot-SMC04/SBR.md

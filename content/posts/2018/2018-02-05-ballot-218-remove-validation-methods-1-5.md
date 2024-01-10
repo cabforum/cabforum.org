@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-02-05-ballot-218-remove-validation-methods-1-5/
+- /2018/02/05/ballot-218-remove-validation-methods-1-5/
 author: Jos Purvis
 date: 2018-02-05 18:35:26
 tags:
@@ -12,23 +12,23 @@ type: post
 
 The voting period for Ballot 218 has ended and the ballot has passed. Here are the results.
 
-**Voting by CAs – 22 votes total including abstentions**
+## Voting by CAs – 22 votes total including abstentions
 
-14 Yes votes: CFCA, Cisco, Comodo CA, D-TRUST, DigiCert, GDCA, GlobalSign, GoDaddy, Izenpe, Let’s Encrypt, Logius PKIoverheid, SSL.com, TrustCor, Trustwave
+- **14 Yes votes:** CFCA, Cisco, Comodo CA, D-TRUST, DigiCert, GDCA, GlobalSign, GoDaddy, Izenpe, Let’s Encrypt, Logius PKIoverheid, SSL.com, TrustCor, Trustwave
 
-4 No votes: Buypass, Chunghwa Telecom, Entrust Datacard, SwissSign
+- **4 No votes:** Buypass, Chunghwa Telecom, Entrust Datacard, SwissSign
 
-4 Abstain: Actalis, Disig, HARICA, OATI
+- **4 Abstain:** Actalis, Disig, HARICA, OATI
 
 78% of voting CAs voted in favor
 
-**Voting by browsers – 5 votes total including abstentions**
+## Voting by browsers – 5 votes total including abstentions
 
-5 Yes votes: Apple, Comodo Security Solutions, Google, Microsoft, Mozilla
+- **5 Yes votes:** Apple, Comodo Security Solutions, Google, Microsoft, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -38,11 +38,9 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
+## The ballot passes.
 
-______________________________________________________________________
-
-**Ballot 218: Remove validation methods #1 and #5**
+## Ballot 218: Remove validation methods #1 and #5
 
 **Purpose of Ballot:** Section 3.2.2.4 says that it “defines the permitted processes and procedures for validating the Applicant’s ownership or control of the domain.” Most of the validation methods actually do validate ownership and control, but two do not, and can be completed solely based on an applicant’s own assertions.
 
@@ -50,7 +48,7 @@ Since these two validation methods do not meet the objectives of section 3.2.2.4
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Ryan Sleevi of Google and Rich Smith of Comodo.
 
-**— MOTION BEGINS –**
+## - MOTION BEGINS –
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based upon Version 1.5.4:
 
@@ -74,7 +72,7 @@ Note: Once the FQDN has been validated using this method, the CA MAY also issue 
 
 In Section 4.2.1, after the paragraph that begins “After the change to any validation method”, add the following paragraph: “Validations completed using methods specified in Section 3.2.2.4.1 or Section 3.2.2.4.5 SHALL NOT be re-used on or after August 1, 2018.”
 
-**— MOTION ENDS –**
+## ## Motion ends
 
 For the purposes of section 4.2.1, the new text added to 4.2.1 from this ballot is “specifically provided in a \[this\] ballot.”
 
@@ -82,7 +80,7 @@ The procedure for approval of this ballot is as follows:
 
 Discussion (7+ days)
 
-Start Time: 2017-01-22  21:30:00 UTC
+Start Time: 2017-01-22 21:30:00 UTC
 
 End Time: 2017-01-29 21:50:00 UTC
 

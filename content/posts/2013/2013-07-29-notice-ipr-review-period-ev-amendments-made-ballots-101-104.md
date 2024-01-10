@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-07-29-notice-ipr-review-period-ev-amendments-made-ballots-101-104/
+- /2013/07/29/notice-ipr-review-period-ev-amendments-made-ballots-101-104/
 author: Ben Wilson
 date: 2013-07-29 18:27:52
 tags:

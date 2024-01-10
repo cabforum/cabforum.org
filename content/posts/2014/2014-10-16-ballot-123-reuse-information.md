@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-10-16-ballot-123-reuse-information/
+- /2014/10/16/ballot-123-reuse-information/
 author: Ben Wilson
 date: 2014-10-16 23:48:31
 tags:
@@ -20,15 +20,13 @@ Therefore, Ballot 123 passed.
 
 This is the ballot from the EV working group that attempts to clarify the language in 11.14 (11.13 previous to the verified method of communication ballot) without changing any of the requirements. Previous section 11.13 was poorly organized with lots of semi-conflicting statements on when data re-verification was required. Changes were not tracked in this ballot as every single section was moved or rewritten, making any comparison futile.
 
-———
-
-**Ballot 123 – Reuse of Information**
+## Ballot 123 – Reuse of Information
 
 Revised Section 11.14 (previous 11.13)
 
 Jeremy Rowley of DigiCert made the following motion, and Cecilia Kam of Symantec and Joanna Fox of GoDaddy have endorsed it.
 
-Motion Begins
+## Motion Begins
 
 Section 11.14 is amended to read as follows:
 
@@ -84,9 +82,9 @@ A CA may rely on a previously verified certificate request to issue a replacemen
 
 (4) The CA MUST repeat the verification processes required in these Guidelines for any information obtained outside the time limits specified above except when permitted otherwise under section 11.14.1.
 
-Motion Ends
+## Motion Ends
 
-—–
+-–
 The review period for this ballot shall commence at 2200 UTC on October 2 2014, and will close at 2200 UTC on October 9, 2014. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on October 16, 2014. Votes must be cast by posting an on-list reply to this thread.
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:

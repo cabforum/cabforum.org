@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-03-18-ballot-163-fix-errata-in-ev-guidelines-11-2-1/
+- /2016/03/18/ballot-163-fix-errata-in-ev-guidelines-11-2-1/
 author: Ben Wilson
 date: 2016-03-18 18:40:37
 tags:
@@ -18,17 +18,17 @@ From the CAs, we received 18 YES votes, zero NO votes and 1 Abstention
 
 From the Browsers, we received 2 YES votes, zero NO votes and zero Abstentions
 
-Therefore the ballot passes.  Detailed results are posted here:
+Therefore the ballot passes. Detailed results are posted here:
 
-**Ballot 163 – Fix Errata in EV Guidelines 11.2.1**
+## Ballot 163 – Fix Errata in EV Guidelines 11.2.1
 
 The following motion has been proposed by Li-Chun Chen of Chunghwa Telecom and endorsed by Robin Alden of Comodo and Ben Wilson of DigiCert:
 
-— MOTION BEGINS —
+## Motion begins
 
 In Section 11.2.1(3)(B) of the Extended Validation Guidelines, REPLACE “Registration Authority” with “Registration Agency” so that it reads, “(B) Organization Name: Verify that the Applicant’s formal legal name as recognized by the Registration Agency in the Applicant’s Jurisdiction of Registration matches the Applicant’s name in the EV Certificate Request.”
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 2200 UTC on 4 March 2016, and will close at 2200 UTC on 11 March 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 18 March 2016. Votes must be cast by posting an on-list reply to this thread.
 

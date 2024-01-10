@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-03-30-2023-03-30-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/03/30/2023-03-30-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-03-30 22:36:24
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-03-30 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---

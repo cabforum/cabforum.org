@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-12-04-ballot-111-accelerate-max-certificate-lifetime-reduction-timetable/
+- /2013/12/04/ballot-111-accelerate-max-certificate-lifetime-reduction-timetable/
 author: Ben Wilson
 date: 2013-12-04 19:58:04
 tags:
@@ -14,7 +14,7 @@ type: post
 
 Gervase Markham (Mozilla) made the following motion, endorsed by Eddy Nigg from StartCom and Ryan Hurst from Globalsign:
 
-— Motion begins —
+## Motion begins
 
 The CAB Forum wishes to take advantage of the /de facto/ deprecation of the near-ubiquitous SHA-1 hash algorithm in the Web PKI and its 1 January 2017 retirement by accelerating the Forum’s planned move to shorter maximum certificate lifetimes, in order to attain a more agile certificate ecosystem.
 

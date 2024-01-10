@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-11-23-cabrowser-forum-adopts-bylaws/
+- /2012/11/23/cabrowser-forum-adopts-bylaws/
 author: Ben Wilson
 date: 2012-11-23 23:55:32
 tags:

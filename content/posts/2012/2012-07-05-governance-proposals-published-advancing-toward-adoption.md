@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-07-05-governance-proposals-published-advancing-toward-adoption/
+- /2012/07/05/governance-proposals-published-advancing-toward-adoption/
 author: Ben Wilson
 date: 2012-07-05 23:58:25
 title: Governance Proposals Published, Advancing Toward Adoption

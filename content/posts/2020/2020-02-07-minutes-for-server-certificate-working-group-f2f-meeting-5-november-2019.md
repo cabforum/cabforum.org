@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2020-02-07-minutes-for-server-certificate-working-group-f2f-meeting-5-november-2019/
+- /2020/02/07/minutes-for-server-certificate-working-group-f2f-meeting-5-november-2019/
 author: Jos Purvis
 date: 2020-02-07 19:41:40
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 - Server Certificates
 title: Minutes for Server Certificate Working Group F2F Meeting, 5 November 2019
 type: post
@@ -15,7 +15,7 @@ type: post
 
 The Antitrust statement was read.
 
-### Network Security Subcommittee 
+### Network Security Subcommittee
 
 _Presenter:_ Ben Wilson (Digicert)
 _Note Taker:_ Mike Reilly
@@ -74,7 +74,7 @@ Robin: Thinks this is auditable and walked through how you would see evidence of
 
 Ben: Proposed as next steps to look to make Section 3A more consistent with Section 3G. There may be a way to take what we are working on in Section 3A and improve Section 3G.
 
-### Validation Subcommittee 
+### Validation Subcommittee
 
 _Presenters:_ Tim Hollebeek (Digicert), Wayne Thayer (Mozilla)
 
@@ -110,7 +110,7 @@ _Note Taker:_ Eva Van Steenberge (GlobalSign)
 
 **_LEIs in certificates_**: Mr Wolf participated in the discussions. Tim thanked him for his participation, which was very useful for getting his perspective. Fundamental disagreement, and it doesn’t look like either side is going to move on this issue. if someone wants to review and sees a path that could be productive, please bring it up. Right now, there’s two camps, and both had the opportunity to state their case. We may just need to have a ballot. Dean: According to one side, Gleif has not made a case of why these are needed. According to the other party, having LEIs in certificates causes harm to certificates/ecosystem. it seems like everybody is talking over each other. No concrete assessment on either of both issues. There’s those two pieces of disagreement, which are holding this up. Is that a fair assessment? Kirk: Not a fair assessment. It’s not just GLEIF, there are also CAs who want it as well. Tim (to Dean): Not an unfair summary. Dean: Given that status, maybe it is worth one more round of emails, here’s the two disagreements. To have each party substantiate their position. If they can’t get past that, than maybe Tim’s right and a vote is where this goes.
 
-### Default Allow/Deny Discussion 
+### Default Allow/Deny Discussion
 
 _Presenters:_ Wayne Thayer (Mozilla)
 
@@ -132,7 +132,7 @@ Ryan said that when we have a list of enumerated items, that requires clarificat
 
 Wayne said the examples he presented are amenable to fixing with an enumerated list approach. We could go through the BRs and make it clear either that anything else is allowed or anything else is prohibited.
 
-Tim said that trying to deal with this through rules for things like enumerated lists are going to run into problems and unintended consequences. Typically, people have something in mind when they write lists like this and whether you can do anything else. For example, the work we did on elimination of “any other method” – that was the validation requirements, where we have said CAs can do this or not. We went through the consequences of removing it and it took time to fix everything up. Those included steps of things that CAs do, but nowhere in there does it say that CAs must document how things are done for the benefit of auditors—that is something that is just assumed. So, some things are often left out of the BRs. There are places in the BRs that were not intended to be exhaustive lists. There are other places where they were intended to be exhaustive lists, but they vary. The solution is to put in the BRs what the intent was, but it’s not a good approach to come up with new ways of interpreting the BRs in a way that they were not intended to be interpreted. There are ambiguities and places not written as tightly as we would like to have. So, we should work together to fix up some of these holes and put tighter default-deny rules in place where they make sense, but I don’t think it can be done by adopting a new strategy for interpreting the BRs.
+Tim said that trying to deal with this through rules for things like enumerated lists are going to run into problems and unintended consequences. Typically, people have something in mind when they write lists like this and whether you can do anything else. For example, the work we did on elimination of “any other method” – that was the validation requirements, where we have said CAs can do this or not. We went through the consequences of removing it and it took time to fix everything up. Those included steps of things that CAs do, but nowhere in there does it say that CAs must document how things are done for the benefit of auditors-that is something that is just assumed. So, some things are often left out of the BRs. There are places in the BRs that were not intended to be exhaustive lists. There are other places where they were intended to be exhaustive lists, but they vary. The solution is to put in the BRs what the intent was, but it’s not a good approach to come up with new ways of interpreting the BRs in a way that they were not intended to be interpreted. There are ambiguities and places not written as tightly as we would like to have. So, we should work together to fix up some of these holes and put tighter default-deny rules in place where they make sense, but I don’t think it can be done by adopting a new strategy for interpreting the BRs.
 
 Tim and Ryan disagreed on whether enumerated lists could be treated across the board as default-deny.
 
@@ -160,7 +160,7 @@ Ryan – QC statements are permitted, so that is not a good example. We are sayi
 
 Wayne – The concern that I’m hearing is that if we suddenly say everything is denied if not it’s not expressly allowed, then the same sorts of problems we’re concerned about with creative interpretations causing things that shouldn’t happen. With ambiguities and applying a rule of default-deny it could be that we prohibit the issuance of certificates to individuals, because it could be read a certain way. Or, on the other hand, as we saw with serial number entropy, we saw a large number of certificates or CAs who have done something that is prohibited. That’s the hesitation.
 
-Ryan – There is weird stuff, and we need to make progress with the weird stuff. We’re not wanting to turn off the lights and give everyone candles. We should look at the pile of ambiguities. We should read the BRs as if they are default deny—either now or as an end state.
+Ryan – There is weird stuff, and we need to make progress with the weird stuff. We’re not wanting to turn off the lights and give everyone candles. We should look at the pile of ambiguities. We should read the BRs as if they are default deny-either now or as an end state.
 
 Curt – I recommended that CAs look through what they are doing, identify ambiguities or things that might not be permitted, and bring forward their list of ambiguities.
 
@@ -200,7 +200,7 @@ Mike – Holding a summit meeting and creating a subcommittee would be important
 
 Dimitris – Should we send out an invitation for additional interested parties?
 
-Tim – I think we don’t need interested parties—we will have the right persons in the room. The summit would be all of one day of the F2F meeting.
+Tim – I think we don’t need interested parties-we will have the right persons in the room. The summit would be all of one day of the F2F meeting.
 
 Ryan – My idea of a summit would be that folks do their homework and come prepared to discuss things that need to be done. I don’t think we need to wait for February, but practically February seems right. We need to do this work sooner rather than later and not spend summit time figuring things out, but people should come more ready.
 

@@ -1,26 +1,26 @@
 ---
 aliases:
-- /2020-07-23-minutes-for-ca-browser-forum-f2f-meeting-50-virtual-10-11-june-2020/
+- /2020/07/23/minutes-for-ca-browser-forum-f2f-meeting-50-virtual-10-11-june-2020/
 author: Jos Purvis
 date: 2020-07-23 15:43:00
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 50 Meeting, Virtual, 10-11 June 2020
 type: post
 ---
 
-# Wednesday, 10 June 2020 
+# Wednesday, 10 June 2020
 
-## CA/B Forum Plenary 
+## CA/B Forum Plenary
 
 **Attendees:** Dimitris Zacharopoulos, Ben Wilson, Ryan Sleevi, Corey Bonnell, Andrea Holland, Bruce Morton, Atsushi Inaba, Daniela Hood, Trevoli Ponds-White, Tobias Josefowitz, Devon O’Brien, Kathleen Wilson, Xiu Lei, Frederick Tonsing, Arnold Essing, Janet Hines, Tadahiko Ito, Don Sheehy, Enrico Entschew, Andreas Henschel, Arno Fiedler, Robin Alden, Neil Dunbar, Wayne Thayer, Dre Armeda, Luis Cervantes, Peter Miskovic, Curt Spann, Wendy Brown, Dustin Hollenback, Wang Chunlan, Vijay Kumar, Jos Purvis, Somer Shively, Karl Blicharz, Dean Coclin, Keshava N, Li-Chun Chen, Mads Henriksveen, Mariusz Kondratowicz, Jeff Ward, Clint Wilson, Niko Carpenter, Doug Beattie, Aneta Wojtczak-Iwanicka, Nikolaos Soumelidis, Thanos Vrachnos, Eva Van Steenberge, Leo Grove, Chris Kemmerer, Mike Reilly, Karina Sirota, Hongquan Yin, Michelle Coon, Andrew Whalley, Tim Hollebeek, Rich Smit, Tim Callan
 
-### Approval of Minutes from previous teleconference 
+### Approval of Minutes from previous teleconference
 
 The minutes were approved.
 
-### Report from Code Signing WG 
+### Report from Code Signing WG
 
 _Presenter:_ Bruce Morton (Entrust Datacard)
 _Note Taker:_ Dustin Hollenback (Microsoft)
@@ -38,14 +38,14 @@ After looking at the Bylaws and Charter, they do not set a limit on how long the
 **CSC Ballot 2**
 The group will also be working to convert the format of the Code Signing requirements to RFC 3647 (based on a similar conversion that we did when moving the SSL Baseline Requirements into RFC 3647 format).
 
-### Report from Forum Infrastructure Subcommittee 
+### Report from Forum Infrastructure Subcommittee
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note Taker:_ Ryan Sleevi (Google)
 
 Brief meeting on Day 1.
 
-**Migration Status:**
+## Migration Status
 
 If you posted anything to the mailers between June 5 – June 8, you may want to double check that it was actually processed. There was an outage on the mailers between then, so double-check the mailer archives
 
@@ -59,7 +59,7 @@ Dimitris: Does this mean the “reset password” link on the wiki will work now
 
 Jos: Yes, that should be fixable sooner than the mailer migration
 
-**GitHub discussion:**
+## GitHub discussion
 
 Discussed branching strategy and the process for merging PRs.
 
@@ -67,7 +67,7 @@ There was also discussion later in the day about the use of GitHub as an issue t
 
 Discussed release tagging to tag document versions, as well as tags for issues in the issue tracker, since right now the Forum keeps everything in a single repository for all CWGs.
 
-### Creation of Additional Groups – Secure Mail 
+### Creation of Additional Groups – Secure Mail
 
 _Presenters:_ Tim Hollebeek (Digicert)
 _Note Taker:_ Clint Wilson (Apple)
@@ -84,7 +84,7 @@ Dean:
 
 - Looks like there are 9 CA votes and 2 Browser votes so far.
 
-### Addressing previously discussed Bylaws issues 
+### Addressing previously discussed Bylaws issues
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Ben Wilson (Mozilla)
@@ -131,7 +131,7 @@ Tim: The biweekly Forum calls have ended early. We can discuss those issues in r
 
 We have a [doc listing open Bylaws issues][1].
 
-### Preparation for CA/B Forum and WG Elections 
+### Preparation for CA/B Forum and WG Elections
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Dean Coclin (Digicert)
@@ -152,9 +152,9 @@ Jos suggested a ballot for the SCWG that says “for the purposes of elections, 
 
 Dimitris asked what was the rationale for having the term limits. Dean said that we had an original forum chair for 8 years and at the time of governance reform, we decided to have elections and term limits, to give everyone an opportunity to run for office.
 
-### Any Other Business 
+### Any Other Business
 
-#### Associate Membership status of MSC Trustgate (Expired 2020-05-31) 
+#### Associate Membership status of MSC Trustgate (Expired 2020-05-31)
 
 _Presenter:_ Dimitris Zacharopoulos (HARICA)
 _Minute Taker:_ Jos Purvis (Cisco)
@@ -169,23 +169,23 @@ Wayne: Can we decide here that they’re terminated if we don’t hear from them
 Robin: Sounds fair enough.
 DZ: Approved, then; we’ll add that to the minutes.
 
-**Adjourned**
+## Adjourned
 
-## Server Certificate WG Plenary 
+## Server Certificate WG Plenary
 
 **Attendees:** Aleksandra Kapinos (Asseco Data Systems SA (Certum)), Andrew Whalley (Google), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Curt Spann (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Mariusz Kondratowicz (Opera Software AS), Michael Guenther (SwissSign), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Tadahiko Ito (SECOM Trust Systems), Thanos Vrachnos (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Andrea Holland (SecureTrust), Andreas Hensschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arnold Essing (T-Systems), Stephen Davidson (Digicert), Dre Armeda (GoDaddy), Keshava N (eMudhra), Luis Cervantes (GoDaddy), Nikolaos Soumelidis (ACAB-c/QMSCert), Somer Shively (Cisco Systems), Wang Chunlan (GDCA), Hongquan Yin (Microsoft), Karl Blicharz (Cisco Systems)
 
-### Approval of SCWG Minutes from last teleconference 
+### Approval of SCWG Minutes from last teleconference
 
 The minutes were approved.
 
-### Apple Root Program Update 
+### Apple Root Program Update
 
 _Presenter:_ Clint Wilson (Apple)
 _Note Taker:_ Andreas Henschel (D-Trust)
 _Presentation:_ [Apple Root Program Update][3]
 
-**Notes other than presentation:**
+## Notes other than presentation
 
 - Reduced Certificate Lifetimes: Effective date Sept. 1st, 2020, enforcement will be later in 2020
 -
@@ -197,7 +197,7 @@ Clint Wilson: The technical enforcment will be introduced later this year and no
 Douglas Beattie: Only certificates from a publicly trusted root CA or even from private root CAs affected?
 Clint Wilson: Only certificates from a publicly trusted root CA will be affected.
 
-### Cisco Root Program Update 
+### Cisco Root Program Update
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note Taker:_ Vijay Kumar (eMudhra)
@@ -215,14 +215,14 @@ Jos: I’d hate to go on record as specifying which bundle is in use, as it can 
 Ryan: So the answer is to get into both bundles and you’re covered.
 Jos: Yup, you got it.
 
-### Google Root Program Update 
+### Google Root Program Update
 
 _Presenter:_ Ryan Sleevi (Google)
 _Note Taker:_ Mads Henriksveen (Buypass)
 
 Presentation: [Chrome Root Program Update][4]
 
-**Notes other than presentation:**
+## Notes other than presentation
 
 _Links from Presentation:_
 
@@ -238,7 +238,7 @@ Ryan: Yes, we’re presenting it here and will be following up with CAs with a C
 Dean: And regarding reuse of validation data, is that something that would happen in the validation WG?
 Ryan: This has been discussed in the past during concrete ballot discussions, about the importance of reducing lifetimes. We wanted to make sure CAs were aware that this was an important issue for us, so that they were not caught unaware as we start to make proposals and solicit feedback from other browsers around this. You can see from the browser alignment ballot our approach of trying to propose concrete language to the BRs, via pull requests, as a way of making sure our analysis is correct, based on feedback from other browsers and the concerns CAs may have.
 
-### Microsoft Root Program Update 
+### Microsoft Root Program Update
 
 _Presenter:_ Karina Sirota (Microsoft)
 _Note Taker:_ Daniela Hood (GoDaddy)
@@ -251,7 +251,7 @@ Mike: We’re an endorser on the browser alignment ballot. Don’t want to surpr
 Mads: I sent a note to msroot@ with concerns but didn’t hear back
 Mike: Karina and I do watch this, and want to make sure you get a response. If you’re not hearing, you can add us to the mail, but please make sure to keep msroot@ CC’d.
 
-### Mozilla Root Program Update 
+### Mozilla Root Program Update
 
 _Presenter:_ Ben Wilson (Mozilla)
 _Note Taker:_ Neil Dunbar (Trustcor)
@@ -259,7 +259,7 @@ _Presentation:_ [Mozilla Root Program Update][6]
 
 **Notes other than presentation:** No questions were asked from the floor.
 
-### CCADB Update 
+### CCADB Update
 
 _Presenter:_ Kathleen Wilson (Mozilla)
 _Note Taker:_ Devon O’Brien (Google)
@@ -288,23 +288,23 @@ Kathleen Wilson (Mozilla): A material change is defined in Section 8 of Mozilla 
 
 Ryan Sleevi (Google): That’s what I was referring to. If CA’s aren’t sure whether a change is material or not, they should err on the side of providing an update to Mozilla.
 
-### Report from SCWG Network Security Subcommittee 
+### Report from SCWG Network Security Subcommittee
 
 _Presenter:_ Neil Dunbar (Trustcor)
 _Minute Taker:_ Mariusz Kondratowicz (Opera)
 _Presentation:_ [Network Subcommittee Update][9]
 
-**Notes other than presentation:**
+## Notes other than presentation
 
 No questions for Neil.
 
-# Thursday, 11 June 2020 
+# Thursday, 11 June 2020
 
-## Server Certificate Working Group 
+## Server Certificate Working Group
 
 **Attendees:** Aaron Poulsen (Digicert), Aleksandra Kapinos (Asseco Data Systems SA (Certum)), Andrew Whalley (Google), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Curt Spann (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Andrea Holland (SecureTrust), Andreas Hensschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arnold Essing (T-Systems), Keshava N (eMuhdra), Luis Cervantes (GoDaddy), Nikolaos Soumelidis (ACAB-c/QMSCert), Somer Shively (Cisco Systems), Wang Chunlan (GDCA), Karl Bluchar (Cisco Systems), Hongquan Yin (Microsoft), Friedrich Tonsing (T-Systems), An Yin (iTrusChina), Shelley Brewer (Digicert)
 
-### Report from SCWG Validation Subcommittee 
+### Report from SCWG Validation Subcommittee
 
 _Presenter:_ Tim Hollebeek (Digicert)
 _Minute Taker:_ Doug Beattie (Globalsign)
@@ -326,7 +326,7 @@ Wayne gave a quick overview of the Validation Subcommittee presented by Tim on T
 - Continue work on Incorporating Agencies and Registration Agencies and how we record the Jurisdiction of Incorporation
 - Fix requirements for validation of OUs
 
-### Report from Quantum Cryptography liaisons 
+### Report from Quantum Cryptography liaisons
 
 _Presenter:_ Tim Hollebeek (Digicert)
 _Note Taker:_ Tobias Josefowitz (Opera)
@@ -339,7 +339,7 @@ The other work that is going on is X9 High Level Guidance for hybrid cryptograph
 
 Another thing that Tadahiko wanted to mention is that getting messages through HSMs is a bottle neck; in classical cryptography you typically only sign a hash of a message, in post-quantum cryptography we are looking at actually signing the whole messages, HSM hardware and software is not currently designed for that.
 
-### ETSI Update 
+### ETSI Update
 
 _Presenter:_ Arno Fiedler (ETSI ESI)
 _Note Taker:_ Nikolaos Soumelidis (ACAB’c / QMSCert)
@@ -386,11 +386,11 @@ R. Sleevi (Google): This is beyond the BRs, this is RFC5280. This is an area tha
 B. Wilson (Mozilla): From Mozilla’s perspective, we want to make sure that we make trust decisions based on what’s the best for our users. We want to coordinate and cooperate, we need to have that dialogue and we will continue to do that.
 A. Fiedler (ETSI): I am really concerned, I thought the dialogue was much better. For example, with the RFC 5280 change, we discussed it, IETF is working on that, but there will be no change in 5280 for at least the next three years. That’s a problem of IETF, it was not about CA/B Forum. I understand there are different points of view and there are difficult topics. I will discuss all concerns with colleagues to bring back a qualified answer.
 
-### ACAB’c Update 
+### ACAB’c Update
 
 _Cancelled_
 
-### WebTrust Update 
+### WebTrust Update
 
 _Presenters:_ Jeff Ward (BDO)
 _Minute Taker:_ Corey Bonnell (SecureTrust)
@@ -420,9 +420,9 @@ Ryan: We have a good working relationship with WebTrust Task Force. In the spiri
 Jeff: That is a high priority item; Task Force will address.
 Don: Agree that it is a significant issue.
 
-### Any Other Business 
+### Any Other Business
 
-#### Announcement from DigiCert 
+#### Announcement from DigiCert
 
 _Presenter:_ Tim Hollebeek, DigiCert
 There has been considerable discussion of compromised keys, and preventing issuance of certs with compromised keys by CAs. DigiCert is in the last stages of finishing up a database of compromised keys, and would be happy to let other CAs submit their keys to the DigiCert database and look up the status of any key in the database prior to issuance. Any CAs who are interesting in access to that database should contact Tim for details to work out access.
@@ -434,7 +434,7 @@ Tim: Yes, it started off there, with a discussion of the compromised-key require
 Mike: I’ll look for details there. Thanks.
 Robin Alden (Sectigo): This sounds excellent and Sectigo would like to interact on it. We recognize Ryan’s concern about proof of compromise; given the requirements on CAs to operate with any service provided by a third party (which can be onerous), there is a degree of sense in having CAs cooperate on this since they’re all under the same industry requirements.
 
-#### Ballot Status 
+#### Ballot Status
 
 _Presenter:_ Dimitris Zacharopoulos (HARICA)
 _Minute Taker:_ Trevoli Ponds-White (Amazon Trust Services)
@@ -473,7 +473,7 @@ Spring 2020 cleanup and clarifications (Ryan)
 
 SC28: Logging and Log Retention (Neil)
 
-### Arrangements for Next Meeting 
+### Arrangements for Next Meeting
 
 Next F2F meeting is taking place October 20-22 in Tokyo, Japan, hosted by GlobalSign.
 

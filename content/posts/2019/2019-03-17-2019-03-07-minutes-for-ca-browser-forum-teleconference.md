@@ -1,38 +1,46 @@
 ---
 aliases:
-- /2019-03-17-2019-03-07-minutes-for-ca-browser-forum-teleconference/
+- /2019/03/17/2019-03-07-minutes-for-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2019-03-17 15:33:46
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2019-03-07 Minutes for CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Anna Weinberg (Apple), Ben Wilson (Digicert), Bruce Morton (Entrust Datacard), Chris Kemmerer (SSL.com), Daymion Reynolds (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Frank Corday (SecureTrust), Geoff Keating (Apple), Inaba Atsushi (GlobalSign), Iñigo Barreira (360 Browser), Joanna Fox (GoDaddy), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Mahmud Khair (SecureTrust), Marcelo Silva (Visa), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Tim Shirley (SecureTrust), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla).
 
 ## Minutes
 
+{.wp-block-heading}
+
 ### 1. Roll Call
+
+{.wp-block-heading}
 
 The Chair took attendance
 
 ### 2. Read Antitrust Statement
 
+{.wp-block-heading}
+
 The Antitrust Statement was read
 
 ### 3. Review Agenda
 
+{.wp-block-heading}
+
 Today’s Agenda was approved.
 
-### 4. Approval of Minutes of previous teleconference 
+### 4. Approval of Minutes of previous teleconference
 
 The minutes of February 21, 2019 teleconference were approved and will be posted to the Public list and the Public web site.
 
-### 5. Forum Infrastructure Working Group update 
+### 5. Forum Infrastructure Working Group update
 
 Wayne reported that the Infrastructure WG discussed two major topics. The first topic was around using Github as the canonical version of cabforum documents. We currently have the ability to create a PDF document from a GitHub “file” (currently in Markdown format) and the question is whether this PDF document is acceptable, as in “does it have all the features that we need” to make it usable as THE canonical document.
 
@@ -58,7 +66,7 @@ Of course, there will be specific instructions and demos to support that.
 
 Ryan mentioned that he would circulate the minutes of the latest Infrastructure Working Group soon.
 
-### 6. Follow-up on new S/MIME WG Charter and formation of Code Signing WG 
+### 6. Follow-up on new S/MIME WG Charter and formation of Code Signing WG
 
 Ballot Forum-8 for the creation of the Code Signing Working Group is currently in the voting period and will likely pass. Dimitris asked about provisions of the CSCWG at the upcoming F2F and if Dean would need a slot for a kick-off meeting of the new WG, but also time during the first day (Tuesday).
 
@@ -66,19 +74,19 @@ There was agreement to use the currently empty slot at the end of the meeting on
 
 The S/MIME WG charter will be based on the Code Signing WG Charter but there is no progress in that area yet.
 
-### 7. Upcoming F2F 46 meeting March 12-14, 2019 (hosted by Apple) 
+### 7. Upcoming F2F 46 meeting March 12-14, 2019 (hosted by Apple)
 
 All basic information related to the F2F meeting venue is published on the wiki. Remote audio/video participation information will also be posted on the wiki. Apple will prepare an Apple WebEx session. Geoff also mentioned that there will be some breakfast available at the venue, and this is stated in the F2F Agenda.
 
-### 8. Finalize CA/B Forum Agenda for F2F 46 
+### 8. Finalize CA/B Forum Agenda for F2F 46
 
 Dimitris read the topics of the current draft agenda and received no objections about the topics or time allocations. The final agenda will be posted on the public list.
 
-### 9. Any Other Business 
+### 9. Any Other Business
 
 Dimitris mentioned that all F2F slots have been filled until October 2021. After Greece, the next F2F meeting will take place Oct 28-31 in Guangzhou, hosted by GDCA. Feb-March 2020 the meeting is scheduled for Bratislava, hosted by Disig and Feb-March 2021 the meeting is scheduled for Dubai, hosted by DarkMatter.
 
-### 10. Bylaws and existing Charters update 
+### 10. Bylaws and existing Charters update
 
 Wayne summarized the current state of updating the Bylaws, reminding everyone that the last changes were sent already to the public list. Members should use this period of time to discuss these changes with their legal teams and attend the F2F with specific questions or concerns that will have to be addressed. If we receive no objections, then there will be a ballot prepared soon after the F2F to update the Bylaws according to the proposed changes.
 
@@ -86,13 +94,13 @@ One change is proposed to be added in section 2.4, clarifying that a single red-
 
 Kirk mentioned that the group should put some thought about past cases where some mail clients could not properly display the red-line attachments and recommended that PDF is used for that. Wayne responded that the proposal doesn’t actually get into this area and leaves the existing bylaws as-is and just clarifies that a red-line alone is sufficient to submit a ballot.
 
-### 11. Next call 
+### 11. Next call
 
 March 21, 2019 at 11:00 am Eastern Time.
 
-### Adjourned 
+### Adjourned
 
-### F2F Meeting Schedule:  
+### F2F Meeting Schedule:
 
 - 2019:
 - March 12-14, 2019 – Cupertino, CA (Apple)

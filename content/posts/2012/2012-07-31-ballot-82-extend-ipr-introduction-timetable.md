@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-07-31-ballot-82-extend-ipr-introduction-timetable/
+- /2012/07/31/ballot-82-extend-ipr-introduction-timetable/
 author: Ben Wilson
 date: 2012-07-31 21:54:26
 tags:

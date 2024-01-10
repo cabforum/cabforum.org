@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-08-09-ballot-107-removing-version-numbers-to-webtrust-and-etsi-standards-from-cabf-guidelines/
+- /2013/08/09/ballot-107-removing-version-numbers-to-webtrust-and-etsi-standards-from-cabf-guidelines/
 author: Ben Wilson
 date: 2013-08-09 18:43:40
 tags:
@@ -15,7 +15,7 @@ Ballot 107 – Removing Version Numbers to WebTrust and ETSI Standards From CABF
 
 Mads Henriksveen made the following motion, and Inigo Barreira from Izenpe and Kirk Hall from Trend Micro endorsed it:
 
-**Motion Begins**
+## Motion Begins
 
 _Baseline Requirements (BR)_
 
@@ -62,7 +62,7 @@ Section 17.4 Pre-Issuance Readiness Audit
 
 The review period for this ballot shall commence on July 24th, 2013 and will close on July 31, 2013. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at August 7th, 2013. Votes must be cast by posting an on-list reply to this thread.
 
-**Motion Ends**
+## Motion Ends
 
 [1]: http://www.etsi.org/deliver/etsi_ts/102000_102099/102042/02.03.01_60/ts_102042v020301p.pdf
 [2]: http://www.etsi.org/deliver/etsi_ts/119400_119499/119403/01.01.01_60/ts_119403v010101p.pdf

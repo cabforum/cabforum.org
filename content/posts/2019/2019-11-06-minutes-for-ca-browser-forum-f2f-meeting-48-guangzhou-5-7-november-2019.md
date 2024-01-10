@@ -1,26 +1,26 @@
 ---
 aliases:
-- /2019-11-06-minutes-for-ca-browser-forum-f2f-meeting-48-guangzhou-5-7-november-2019/
+- /2019/11/06/minutes-for-ca-browser-forum-f2f-meeting-48-guangzhou-5-7-november-2019/
 author: Jos Purvis
 date: 2019-11-06 15:52:20
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 48 Meeting in Guangzhou, China, 6-7 November 2019
 type: post
 ---
 
-## Wednesday, 6 November 2019 – Plenary Meeting (Day 1) 
+## Wednesday, 6 November 2019 – Plenary Meeting (Day 1)
 
-### Attendees 
+### Attendees
 
 Aleksandra Kapinos (Asseco Data Systems S.A.), An Yin (iTrusChina), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arno Fiedler (D-TRUST/ ETSI ESI), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Bi XinLong (CFCA), Billy Qing (360 Group), Chorus Li (iTrusChina), Clemens Wanko (ACAB’c/TÜV AUSTRIA), Dai Yeqi (SHECA), David Moeller (Sectigo), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Du Zhiqiang (GDCA), Dustin Hollenback (Microsoft), Edwin Zhai (TrustAsia), Enrico Entschew (D-TRUST), Eva Van Steenberge (GMO GlobalSign LTD), Ewa Skurtys (Asseco Data Systems S.A.), Gao Zhixiong (SCA), George Chew (PrimeKey), Halton Huo (360), Hongquan Yin (Microsoft), Jack Zhang (DigiCert), Jeff Tang (360 Group), Jeff Ward (WebTrust / BDO), Jinta Nakamura (SECOM), Kirk Hall (Entrust Datacard), Lei Xiu (GDCA), Leo Grove (SSL.com), Liao Zhiming (GDCA), Liu Lei (GDCA), Mariko Kusakabe (GlobalSign), Michał Malinowski (Asseco Data Systems S.A.), Mike Reilly (Microsoft), Miwa Yoshida (GlobalSign), Nathalie Weiler (SwissSign), Nick France (Sectigo), Nik Khairul (eMudhra), Ning Yu (iTrusChina), Philippe Bouchet (ACAB’c/LSTI), Przemysław Kościelski (Asseco Data Systems S.A.), Qiu DaWei (CFCA), Ralph Zeng (TrustAsia), Richard Wang (360 Group), Robin Alden (Sectigo), Rollin Yiu (TrustAsia), Scott Rea (DarkMatter), Sun Luwen (iTrusChina), Sun ShengNan (CFCA), Sunny Qiu (iTrusChina), Tadahiko Ito (SECOM), Tim Hollebeek (DigiCert), Timo Schmitt (SwissSign), Tomas Gustavsson (PrimeKey), Toria Chen (SHECA), Trevoli Ponds-White (Amazon Trust Services), Tsung-Min Kuo (Chunghwa Telecom), Wang Chunlan (GDCA), Wei YiCai (iFutureCA), Xiao Qiang (GDCA), Xue Yingjun (SCA), Yang Chen (SCA), Yang Yang (SCA), Yang Yaohua (SCA), Zhang Wenlei (SCA), Zhang Yi (CFCA), Zheng Huitao (SZCA), Sissi Lok (Trust Asia), Curt Spann (Apple), Devon O’Brien (Google), Janet Hines (SecureTrust), Niko Carpenter (SecureTrust), Ryan Sleevi (Google), Tim Callan (Sectigo), Wayne Thayer (Mozilla).
 
-### Approval of Minutes from previous teleconference 
+### Approval of Minutes from previous teleconference
 
 The minutes were approved.
 
-### Report from Code Signing WG 
+### Report from Code Signing WG
 
 _Presenter:_ Dean Coclin (Digicert) Bruce Morton (Entrust Datacard)
 _Note Taker:_ Dustin Hollenback (Microsoft)
@@ -34,7 +34,7 @@ There was a working group meeting yesterday, 5-November-2019. The highlights fro
 
 There were no questions for the Code Signing Certificate Working Group.
 
-### Report from Forum Infrastructure subcommittee 
+### Report from Forum Infrastructure subcommittee
 
 _Presenter:_ Jos Purvis (Cisco)
 _Note Taker:_ Andreas Henschel (D-Trust)
@@ -50,7 +50,7 @@ The existing WG is now turned into a Forum subcommittee. An invitation for addit
 - ongoing discussion on an appropriate maintenance window for systems supporting the CA/B Forum and how to avoid this during voting periods
 - EtherPad is going to expire Dec 31, 2019 but the Infrastructure Subcommittee could install and use it in future F2F meetings.
 
-### Creation of Additional Groups – Secure Mail 
+### Creation of Additional Groups – Secure Mail
 
 _Presenters:_ Tim Hollebeek (Digicert)
 _Note Taker:_ Leo Grove (SSL.com)
@@ -109,7 +109,7 @@ Scott R: How will the group engage the right set of stakeholders etc.? For examp
 
 Tim H: Just like we did with the CodeSigning WG we will specify how to get the right set of players to the table as part of the Charter
 
-### CA/B Forum Photo Policy 
+### CA/B Forum Photo Policy
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Kirk Hall (Entrust Datacard)
@@ -132,14 +132,14 @@ Ryan stated that IETF does use lanyard color to indicate who is requesting no ph
 
 Ryan will also try to get an answer for the “attribution” question.
 
-#### Bylaws open issues 
+#### Bylaws open issues
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Robin Alden (Sectigo)
 
 We have been collecting issues over the years. We have them in a [goodle doc][1]. Dimitris has sent the list a couple of times to the management list, but has had no feedback. Hopes to get opinions and comments from participants for each topic here.
 
-#### Organizations that qualify both as a cert issuer and a consumer (from 2017) 
+#### Organizations that qualify both as a cert issuer and a consumer (from 2017)
 
 Some organizations meet both criteria. What was originally agreed was that the org needs to select the criteria in which they participate.
 
@@ -201,7 +201,7 @@ Trev: (How do we track) who chooses those who can designate voting members?
 
 Ryan: The idea is each voting member can extend the set of voting members. Question that’s in the gray area is what to do about proposing ballots. Could a member propose a ballot and vote against it? Votes not placed by designated voting members will not be counted.
 
-#### Who must sign the IPR agreement? (Ben & Virginia in 2018) 
+#### Who must sign the IPR agreement? (Ben & Virginia in 2018)
 
 Usually two parties sign.
 
@@ -233,7 +233,7 @@ Dimitris: But if someone discusses with their counsel and a problem is called ou
 
 Ben: Yes, we can do that.
 
-#### Concept of member 
+#### Concept of member
 
 Did we address this in the last bylaw update?
 
@@ -249,7 +249,7 @@ Dimitris: Declarations of membership. I think that was the requirement when we c
 
 Clarify declarations of membership. I think that was the requirement when we changed our governance. But I believe we have as a result this issue because every time somebody had to, say, apply for membership they wouldn’t need to declare which working group it would join for but since we changed our bylaws the application is done at the work group level and that is sufficient to for the forum level. So, I believe this item is is resolved. So if there’s an objection to remove it…
 
-#### Time requirement for CAs as Assoc. Members 
+#### Time requirement for CAs as Assoc. Members
 
 Our current by laws require us to to designate every time we grant membership to an associate member. We do that for specific period of time. It is designated by the working group. And it was discussed at a previous F2F that was on a public list or on a phone call to consider lifting this requirement. Or link it with the possibility of an existing member to challenge an Assoc. membership and request removal of the working group and of the Forum. Kirk had proposed adding something in the bylaws to automatically remove or expire statuses at the same day. So, first of all, how would members feel if we remove the requirement for an expiration of membership for associate members.
 
@@ -283,7 +283,7 @@ Scott: ‘Fall’ in which hemisphere?!
 
 Dimitris: It would be described more specifically, like e.g. the 2nd or 3rd meeting of the year.
 
-#### Consider not reading the antitrust policy 
+#### Consider not reading the antitrust policy
 
 Ben: Could we just read a statement to say that the agreements are in force and must abide to?
 
@@ -291,27 +291,27 @@ Dimitris: Unfortunately we have run out of time.
 
 Ryan: Suggest we resume discussion at the next CABF call.
 
-## Server Certificate WG Plenary 
+## Server Certificate WG Plenary
 
 Attendees: Aleksandra Kapinos (Asseco Data Systems S.A.), An Yin (iTrusChina), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arno Fiedler (D-TRUST/ ETSI ESI), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Bi XinLong (CFCA), Billy Qing (360 Group), Chorus Li (iTrusChina), Clemens Wanko (ACAB’c/TÜV AUSTRIA), Dai Yeqi (SHECA), David Moeller (Sectigo), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Du Zhiqiang (GDCA), Dustin Hollenback (Microsoft), Edwin Zhai (TrustAsia), Enrico Entschew (D-TRUST), Eva Van Steenberge (GMO GlobalSign LTD), Ewa Skurtys (Asseco Data Systems S.A.), Gao Zhixiong (SCA), George Chew (PrimeKey), Halton Huo (360), Hongquan Yin (Microsoft), Jack Zhang (DigiCert), Jeff Tang (360 Group), Jeff Ward (WebTrust / BDO), Jinta Nakamura (SECOM), Kirk Hall (Entrust Datacard), Lei Xiu (GDCA), Leo Grove (SSL.com), Liao Zhiming (GDCA), Liu Lei (GDCA), Mariko Kusakabe (GlobalSign), Michał Malinowski (Asseco Data Systems S.A.), Mike Reilly (Microsoft), Miwa Yoshida (GlobalSign), Nathalie Weiler (SwissSign), Nick France (Sectigo), Nik Khairul (eMudhra), Ning Yu (iTrusChina), Philippe Bouchet (ACAB’c/LSTI), Przemysław Kościelski (Asseco Data Systems S.A.), Qiu DaWei (CFCA), Ralph Zeng (TrustAsia), Richard Wang (360 Group), Robin Alden (Sectigo), Rollin Yiu (TrustAsia), Scott Rea (DarkMatter), Sun Luwen (iTrusChina), Sun ShengNan (CFCA), Sunny Qiu (iTrusChina), Tadahiko Ito (SECOM), Tim Hollebeek (DigiCert), Timo Schmitt (SwissSign), Tomas Gustavsson (PrimeKey), Toria Chen (SHECA), Trevoli Ponds-White (Amazon Trust Services), Tsung-Min Kuo (Chunghwa Telecom), Wang Chunlan (GDCA), Wei YiCai (iFutureCA), Xiao Qiang (GDCA), Xue Yingjun (SCA), Yang Chen (SCA), Yang Yang (SCA), Yang Yaohua (SCA), Zhang Wenlei (SCA), Zhang Yi (CFCA), Zheng Huitao (SZCA), Sissi Lok (Trust Asia), Curt Spann (Apple), Devon O’Brien (Google), Janet Hines (SecureTrust), Niko Carpenter (SecureTrust), Ryan Sleevi (Google), Tim Callan (Sectigo), Wayne Thayer (Mozilla).
 
-### Approval of SCWG Minutes from last teleconference 
+### Approval of SCWG Minutes from last teleconference
 
-### 360 Root Program Update 
+### 360 Root Program Update
 
 _Presenter:_ Huo Haitao (Halton) (360)
 _Note Taker:_ Enrico Entschew (D-Trust)
 
 - Presentation: [360 Browser Update][2]
 
-### Google Root Program Update 
+### Google Root Program Update
 
 _Presenter:_ Ryan Sleevi (Google Chrome)
 _Note Taker:_ Timo Schmitt (SwissSign)
 
 \* New set of logs are Usable since our last meeting * Additional logs have been added as Qualified. They are not yet usable, but will be announced to ct-policy@ * Details:
 
-### Microsoft Root Program Update 
+### Microsoft Root Program Update
 
 _Presenter:_ Mike Reilly (Microsoft)
 _Note Taker:_ Tim Hollebeek (Digicert)
@@ -320,7 +320,7 @@ _Note Taker:_ Tim Hollebeek (Digicert)
 
 No questions.
 
-### Mozilla Root Program Update 
+### Mozilla Root Program Update
 
 _Presenter:_ Wayne Thayer (Mozilla)
 _Note Taker:_ Scott Rea (DarkMatter)
@@ -331,7 +331,7 @@ Mozilla Update:
 
 Commentary on content follows:
 
-**A. Intermediate Audits**
+## A. Intermediate Audits
 
 **Wayne T:** This has been in our policy since 2013, but no way to enforce until recently. A review of Root audits uncovered issues so now we are taking a closer look/focus on intermediates
 
@@ -339,17 +339,17 @@ Folks misinterpret requirements often and just saying you are not going to issue
 
 Our expectation is that CA should be proactive. There is a new report (ALV) created to facilitate this. Please also check EV Root certs while you’re at it.
 
-**B. Intermediate Disclosures**
+## B. Intermediate Disclosures
 
 **Wayne T:** We found some cross-certs that were not listed.
 
 Crt.sh report has certs listed – check them please, and make sure they are up to date
 
-**C. OCSP for Pre-certificates**
+## C. OCSP for Pre-certificates
 
 **Wayne T:** Mozilla assumes if pre-cert exists it means the corresponding cert exists. Therefore OCSP responses should exist the corresponding cert. This is being included as a recommended practice. Please be aware and pay attention to this recommended practice.
 
-**D. Policy Update**
+## D. Policy Update
 
 Wayne T: Not much has changed since Greece. There are 16 issues listed here in total that are being worked on, but I will just focus on the couple that have effective dates.
 
@@ -363,21 +363,21 @@ Wayne T: No, we are just standardizing here
 
 Wayne T: I will skip the rest, but these are discussed on MDSP and should take effect early January
 
-**E. Update on Intermediate Preloading and CRLite**
+## E. Update on Intermediate Preloading and CRLite
 
 Wayne T: Preloading is our alternative process to AIA to combat privacy concerns. It relies on disclosures in CCADB, so it’s important that these are up to date.
 
 CRLite is a proposed mechanism to replace OCSP. Right now we getting ready to proof the prototypes – stay tuned to this space.
 
-**F. Distrust After**
+## F. Distrust After
 
 Wayne T: This is a new mechanism in NSS that can allow CA’s to retire Roots, and allows for them to be distrusted from a specific date
 
-**G. TLS 1.0 and 1.1 Deprecation**
+## G. TLS 1.0 and 1.1 Deprecation
 
 Wayne T: This is just an update on progress – we would like to thank all the CAs that have partnered with Mozilla to make this happen.
 
-**Questions:**
+## Questions
 
 Jeff W: Can you help clarify/discuss with the prevalence of bugs, what is the best way to manage this? If 3 or 4 certs are found in initial bug, is a second bug required if more are found later, or is it OK to add them to the first one?
 
@@ -397,13 +397,13 @@ Ryan S: With previous disclosures, Mozilla has opened a bug to track the issue a
 
 Wayne T: Yes, this is the process, but it doesn’t necessarily lead to revocation.
 
-**Questions from Jeff Ward**
+- *Questions from Jeff Ward*\*
 
 1. If a CA has an incident reported and identifies 3 certificates, and then a few days later, identifies additional certificates, does Mozilla expect a new incident report to be filed? * Wayne: It can depend. If they share the same root cause and remediation, and are discovered as part of the investigation, it may make sense to keep on the same issue. However, if they’re investigating an issue, and then also fail to revoke in the time required by the BRs, it should be two issues – one for the original issue, one for the failure to revoke on the timeline. There are situations that can be in-between, and so sometimes it’s a case-by-case basis whether a new issue will be opened.
 
 1. In the past, Mozilla (and other browsers) have said that a Qualified Audit does not necessarily mean a CA will be removed. However, some CAs have raised concern about possibly being issued a Qualified Audit. Can Mozilla clarify their expectations for Qualified Audits? * Wayne: Hard to say without understanding the nature of the qualifications, but Mozilla has shared in the past that a Qualified Audit doesn’t necessarily mean removal. But it would depend on the audit. * RyanS: Is it fair to point to examples in the past when a qualified audit is filed in CCADB? Mozilla has opened an Incident Bug and asked the CA to discuss the qualifications/issues, pointing to perhaps past incidents already disclosed, and potentially opening incidents for issues that were not previously disclosed to be investigated/resolved. * Wayne: Yes, that’s how we’ve handled it in the past.
 
-### CCADB Update 
+### CCADB Update
 
 _Presenter:_ Wayne Thayer (Mozilla)
 _Note Taker:_ Scott Rea (DarkMatter)
@@ -418,7 +418,7 @@ Please check this! See Kathleen’s post to the list.
 
 **Wayne T:** Kathleen is continuing to work on the quality of reports. Having Dates and Thumbprints in standard formats is a current focus.
 
-**Audits**
+## Audits
 
 **Wayne T:** If expired, revoked, technically constrained – these are not required in the reports
 
@@ -426,11 +426,11 @@ Updated CCADB Policy
 
 **Wayne T:** Kathleen has provided the process. OIDs can now be added to reports
 
-**Verify Revocation**
+## Verify Revocation
 
 **Wayne T:** Binding OIDs to CPS to more clearly show which policies apply to anchors.
 
-**Policy Identifiers**
+## Policy Identifiers
 
 **Wayne T:** We are looking for volunteers to test out multi-policy applicability to certs
 
@@ -448,11 +448,11 @@ Updated CCADB Policy
 
 **Wayne T:** I understand the valid concerns: Policy OIDs from Roots and Intermediates pick lists might not work properly, we will evaluate.
 
-**CP/CPS Objects and Associations**
+## CP/CPS Objects and Associations
 
 No further discussion.
 
-### Report from Network Security Subcommittee 
+### Report from Network Security Subcommittee
 
 _Presenter:_ Ben Wilson (Digicert)
 _Minute Taker:_ Nick France (Sectigo)
@@ -493,7 +493,7 @@ Ryan: If there are situation where someone has summarized something to the sub-c
 
 Ben: On list received from Tim, that was the basis for the to-do used by the “pain points” committee. With the ballot, we need to reference back to where the issues were raised as pain points.
 
-### Report from Validation Subcommittee 
+### Report from Validation Subcommittee
 
 _Presenter:_ Tim Hollebeek (Digicert)
 _Minute Taker:_ Xiu Lei (GDCA)
@@ -507,15 +507,15 @@ _Minute Taker:_ Xiu Lei (GDCA)
 - May go to a Ballot to see where people stand
 - Validation SC has a Trello board with a backlog of items, will try tackling that next. Welcome feedback.
 
-## Thursday, 7 November 2019 – Plenary Meeting (Day 2) 
+## Thursday, 7 November 2019 – Plenary Meeting (Day 2)
 
-### Attendees 
+### Attendees
 
 Aleksandra Kapinos (Asseco Data Systems S.A.), An Yin (iTrusChina), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arno Fiedler (D-TRUST/ ETSI ESI), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Bi XinLong (CFCA), Billy Qing (360 Group), Brian Hsiung (Anthony Kam & Associates Ltd), Chris Bailey (Entrust Datacard), Clemens Wanko (ACAB’c/TÜV AUSTRIA), Dai Yeqi (SHECA), David Moeller (Sectigo), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Du Zhiqiang (GDCA), Dustin Hollenback (Microsoft), Edwin Zhai (TrustAsia), Enrico Entschew (D-TRUST), Eva Van Steenberge (GMO GlobalSign LTD), Fangguo ZHANG (Sun Yat-sen University), George Chew (PrimeKey), Halton Huo (360), Hongquan Yin (Microsoft), Jack Zhang (DigiCert), Jeff Tang (360 Group), Jeff Ward (WebTrust / BDO), Jinta Nakamura (SECOM), Kirk Hall (Entrust Datacard), Lei Xiu (GDCA), Mariko Kusakabe (GlobalSign), Michał Malinowski (Asseco Data Systems S.A.), Mike Reilly (Microsoft), Miwa Yoshida (GlobalSign), Nathalie Weiler (SwissSign), Nick France (Sectigo), Nik Khairul (eMudhra), Ning Yu (iTrusChina), Philippe Bouchet (ACAB’c/LSTI), Qiu DaWei (CFCA), Ralph Zeng (TrustAsia), Richard Wang (360 Group), Robin Alden (Sectigo), Rollin Yiu (TrustAsia), Scott Rea (DarkMatter), Sun Luwen (iTrusChina), Tadahiko Ito (SECOM), Tim Hollebeek (DigiCert), Timo Schmitt (SwissSign), Tomas Gustavsson (PrimeKey), Toria Chen (SHECA), Trevoli Ponds-White (Amazon Trust Services), Tsung-Min Kuo (Chunghwa Telecom), Yang Chen (SCA), Yang Yang (SCA), Zheng Huitao (SZCA), Curt Spann (Apple), Devon O’Brien (Google), Don Sheehy (WebTrust), Li-Chun Chen (Chunghwa Telecom), Niko Carpenter (SecureTrust), Ryan Sleevi (Google), Tim Callan (Sectigo), Wayne Thayer (Mozilla).
 
-## Server Certificate Working Group 
+## Server Certificate Working Group
 
-### Recap of CA/B Forum discussions related to Quantum Cryptography 
+### Recap of CA/B Forum discussions related to Quantum Cryptography
 
 _Presenter:_ Tim Hollebeek (Digicert), Tadahiko Ito (Secom)
 _Note Taker:_ Zhang Yi (CFCA)
@@ -546,13 +546,13 @@ However, TLS key exchange can be attacked. Amazon and Cloudflare have been exper
 
 One of the problems we had with the SHA-1 to SHA-256 transition was that many systems forced choice of a single algorithm. It would be best if all cryptographic systems supported algorithm agility, where switching between multiple algorithms is easy, and we aren’t there yet. It’s something we could be working on now.
 
-### Guest Speaker – Quantum Safe Cryptography 
+### Guest Speaker – Quantum Safe Cryptography
 
 _Presenter:_ Mike Brown (ISARA)
 
 - Presentation: [Quantum Safe Cryptography][4]
 
-### ETSI Update 
+### ETSI Update
 
 _Presenter:_ Arno Fiedler (ETSI ESI)
 _Note Taker:_ Clemens Wanko (ACAB’c / TUV Austria)
@@ -570,9 +570,9 @@ In support of Regulation No 910/2014 on electronic identification and trust serv
 - ETSI TS 119 511: providing signature preservation services
 - ETSI EN 319 521: providing registered e-delivery / e-mail services
 
-**Associated Evaluation Scheme and Governance**
+## Associated Evaluation Scheme and Governance
 
-ETSI EN 319 403 defines conformity assessment requirements for all the above services, and any other trust service (i.e. electronic service which enhances trust and confidence in electronic transactions) which has well defined requirements. ETSI EN 319 403 is based on ISO 17065 “Conformity assessment — Requirements for bodies certifying products, processes and services”.
+ETSI EN 319 403 defines conformity assessment requirements for all the above services, and any other trust service (i.e. electronic service which enhances trust and confidence in electronic transactions) which has well defined requirements. ETSI EN 319 403 is based on ISO 17065 “Conformity assessment - Requirements for bodies certifying products, processes and services”.
 
 Under eIDAS the operation of the trust service providers is overseen by national supervisory bodies which make the final decision of the trust based on the audit report. The results of this trust decision is represented in national trusted lists as specified in ETSI TS 119 612. More specific requirements for the audits to be passed to supervisory bodies is defined in ETSI EN 319 403-3.
 
@@ -630,7 +630,7 @@ The next TSP/CA Day in Berlin is planed for September 22 and 23.
 - Ryan explained that it was not 5280 that was obsoleted, but a new version of X.509 that removed _some_ of the limits. However, the IETF had rejected that removal, because it would not be backwards compatible.
 - Arno was going to follow-up with the IETF liason from ETSI to raise this issue and see how to address it
 
-### ACAB’c Update 
+### ACAB’c Update
 
 _Presenter:_ Clemens Wanko (ACAB’c / TUV Austria)
 _Note Taker:_ Arno Fiedler (ETSI ESI)
@@ -647,7 +647,7 @@ See slides for details.
 
 Presentation: [ACAB’c Update][6]
 
-### WebTrust Update 
+### WebTrust Update
 
 _Presenters:_ Jeff Ward (BDO)
 _Minute Taker:_ Chris Bailey (Entrust Datacard)
@@ -660,7 +660,7 @@ _Minute Taker:_ Chris Bailey (Entrust Datacard)
 
 - Jeff asked if anyone is interested in this very draft report to send him an email.
 
-### Creating a more intuitive method of displaying secure sites to internet users 
+### Creating a more intuitive method of displaying secure sites to internet users
 
 _Presenter:_ Chris Bailey (Entrust Datacard)
 _Note Taker:_ Trevoli Ponds-White (Amazon)
@@ -697,7 +697,7 @@ There are standards development organizations that are already actively working 
 
 Follow up, Ryan provided resources:
 
-### Special Challenges and concerns for Certification Authorities located in Asia 
+### Special Challenges and concerns for Certification Authorities located in Asia
 
 _Presenter:_ Xiu Lei (GDCA)
 _Minute Taker:_ Xiu Lei (GDCA)
@@ -715,7 +715,7 @@ _Minute Taker:_ Xiu Lei (GDCA)
 - Ryan Sleevi (Google): Google does not recognize time-stamping, Microsoft requires WebTrust for CA for time-stamping.It is important to note that, as highlighted by Wayne during the Mozilla Root Program update, it matters what an intermediate is capable of, not what it is intended to be used for. A time-stamping CA that is technically capable of TLS issuance will need appropriate audit for a TLS capable CA, even if the CA is only intended for time-stamping. Need to look at the time-stamping requirements for each Root Program, at least with respect to Mozilla documented what is out of scope, and to Microsoft which recognized time-stamping, documented what it is in scope.If an Extended Key Usage that is properly set such that the intermediate is not capable of issuing SSL/TLS, and not capable of issuing any other types of certificates that might be governed by root program requirements, then will need to see if these EKUs are in scope of root programs.Of the root programs that are Browser members, Microsoft is the one that has time-stamping requirements, and that’s WebTrust for CA.
 - Mike Reilly (Microsoft): That’s correct, as Dimitris mentioned as well.
 
-### Special Challenges and concerns for Certification Authorities located in Europe 
+### Special Challenges and concerns for Certification Authorities located in Europe
 
 _Presenters:_ Enrico Entschew (D-Trust)
 _Minute Taker:_ Aleksandra Kapinos (Asseco Data Systems)
@@ -736,7 +736,7 @@ Ryan: Just a clarification, it’s not that all QWACs meet the EV Validation par
 
 Dimitris: We agree that QWACs are described in the ETSI documents, include parts of EV Guidelines, including all parts about validation and policies, and some differences exist for certificate profiles. There is some misunderstanding in that part. We are going to try to created a problem statement with links to specific sections of this document, that will make it more clear why we have different interpretations.
 
-### Update on London Protocol 
+### Update on London Protocol
 
 _Presenters:_ Kirk Hall (Entrust Datacard)
 _Minute Taker:_ Dimitris Zacharopoulos (HARICA)
@@ -745,7 +745,7 @@ Presentation: Update on London Protocol (to be uploaded)
 
 Kirk and Chris gave an update on the “London Protocol”. Kirk explained that the Protocol got its name because it was announced at the Forum meeting in London the prior year. Basically a group of CAs (starting with the CA members of the CA Security Council) have agreed to receive notice of OV and EV certificates each has issued that have been flagged for phishing across multiple anti-phishing engines. The process is totally confidential and voluntary, and includes the following steps:
 
-**What Happens After A Customer Phishing Site Is Detected And Confirmed?**
+## What Happens After A Customer Phishing Site Is Detected And Confirmed?
 
 - **Step 1:** Participating CAs are notified when customer OV or EV site using their cert is flagged for phishing
 - **Step 2:** The Issuing CA contacts the customer and provides details of the URL(s) of phishing content, screen shots where the phishing content is found on the site, and the nature of phishing content. In the cases to date, the customers are generally grateful for the contact from the CA, as they were unaware that their sites had phishing content (sometimes lodged in the site Directory where the website owner can’t see it. If the site is using a shared certificate with multiple SANs or independent pages (typically OV only, such as Cloudflare, where Cloudflare is not in control of the website content for the SANs), the customer is told which SANs or pages were flagged for phishing.
@@ -763,7 +763,7 @@ Statistics for phishing for the past 30 days.
 - 355 OV phishing mostly issued to Cloudflare
 - flatline for EV phishing with 0 phishing events
 
-**Brands Under Siege Rise to More Than 400 in Q3 2019**
+## Brands Under Siege Rise to More Than 400 in Q3 2019
 
 According to the APWG’s new Phishing Activity Trends Report, the number of phishing attacks continued to rise into the autumn of 2019. The total number of phishing sites detected by APWG in July through September 2019 was 266,387. This was up 46 percent from the 182,465 seen in the second quarter of 2019, and almost double the 138,328 seen in Q4 2018.
 
@@ -775,13 +775,13 @@ Meanwhile, “Business e-mail compromise” or BEC scams remained highly damagin
 
 According to APWG contributing member Agari, 40 percent of BEC attacks use a domain name registered by a scammer. These domains are often variations of a trusted, existing company name, meant to fool unwary victims. In the third quarter, attacks involving wire transfers from victims were for an average of $52,325.
 
-### Guest Speaker – Research Status of the ECDLP 
+### Guest Speaker – Research Status of the ECDLP
 
 _Presenter:_ Prof. Fangguo Zhang (Cyberspace Security Department, School of Data and Computer Science, Sun Yat-Sen University)
 
 - Presentation: [Research Status of the ECDLP][10]
 
-### Any Other Business 
+### Any Other Business
 
 Dimitris asked for some clarifications from the participants about a previous remark by Ryan during the session lead by Chris Bailey related to the Purpose of the Forum.
 
@@ -801,7 +801,7 @@ Mike replied that this language may not be very accurate to reflect what we are 
 
 No further discussion.
 
-### Arrangements for Next Meeting 
+### Arrangements for Next Meeting
 
 Next F2F meeting is taking place February 18-20 Bratislava hosted by Disig
 

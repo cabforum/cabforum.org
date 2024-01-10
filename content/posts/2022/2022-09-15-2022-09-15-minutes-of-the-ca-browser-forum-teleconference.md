@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-09-15-2022-09-15-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/09/15/2022-09-15-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-09-15 17:08:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-09-15 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
@@ -28,7 +28,7 @@ On the last call we approved minutes from Aug 18th however, those minutes had no
 
 **4. Forum Infrastructure report**
 
-Jos gave the report. Mew Membership tool is up and running. Webex integration requires a special license. Cutover plan to new system discussed.  Oct 1st is the target date to make the old system _read only_. Ballots will also be tabulated in the new tool. Future integrations with Mailman are planned but will require an upgrade of our system. Admin emails are going to a special mailbox.
+Jos gave the report. Mew Membership tool is up and running. Webex integration requires a special license. Cutover plan to new system discussed. Oct 1st is the target date to make the old system _read only_. Ballots will also be tabulated in the new tool. Future integrations with Mailman are planned but will require an upgrade of our system. Admin emails are going to a special mailbox.
 Working on upgrading php with GoDaddy.
 
 **5. Code Signing Working Group report**

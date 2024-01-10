@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-08-06-ballot-108-defining-the-scope-of-the-baseline-requirements/
+- /2013/08/06/ballot-108-defining-the-scope-of-the-baseline-requirements/
 author: Ben Wilson
 date: 2013-08-06 18:58:34
 tags:

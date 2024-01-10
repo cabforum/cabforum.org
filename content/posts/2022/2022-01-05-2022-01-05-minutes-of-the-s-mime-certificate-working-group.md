@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-01-05-2022-01-05-minutes-of-the-s-mime-certificate-working-group/
+- /2022/01/05/2022-01-05-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-01-05 21:58:00
 tags:
@@ -10,31 +10,31 @@ title: 2022-01-05 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 January 5, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust), Cade Cairns (Google), Clint Wilson (Apple), Corey Bonnell (Digicert), Daniel Zens (GlobalTrust), Dimitris Zacharopoulos (HARICA), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Mauricio Fernandez (TeleTrust), Miguel Sanchez (Google), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW Group), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Sebastian Schulz (GlobalSign), Stefan Selbitschka (runQuadrat), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (US Federal PKI Management Authority), Tim Crawford (CPA Canada/WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the December 22 teleconference were approved.
 
-### 5. Discussion 
+### 5. Discussion
 
 The working group discussed the approach to initial identity authentication for Organizations. Stephen Davidson reminded the group that the charter called for the S/MIME Baseline Requirements to leverage existing work created by other CABF working groups.
 
@@ -54,11 +54,11 @@ The information relating to roles and validation of authority – which is inter
 
 Stephen noted that he would start pushing some of the draft text up to the github repository at which should make it easier for members to review in context.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, January 19, 2022 at 11 a.m. US Eastern.
 

@@ -1,40 +1,40 @@
 ---
 aliases:
-- /2021-10-13-2021-10-13-minutes-of-the-code-signing-certificate-working-group/
+- /2021/10/13/2021-10-13-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-10-13 20:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2021-10-13 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 SwissSign (Adrian Mueller), Telia Company (Ali Gholami), SecureTrust (Andrea Holland), Nimbus, Member of ETSI ESI (Arno Fiedler), GlobalSign (Atsushi Inaba), Entrust (Bruce Morton), DigiCert (Corey Bonnell), DigiCert (Dean Coclin), HARICA (Dimitris Zacharopoulos), CPA Canada (Don Sheehy), GlobalSign (Doug Beattie), SSL.com (Dustin Ward), GlobalSign (Eva Van Steenberge), Microsoft (Glaucia Young), GoDaddy (Hong Bui), Microsoft (Ian McMillan), Sectigo (Iñigo Barreira), SecureTrust (Janet Hines), BDO (Jeff Ward), TrustCor (Joanna Fox), Cisco (Jos Purvis), Microsoft (Karina Gupta), Microsoft (Karina Sirota), OATI (Kidd Freeman), Microsoft (Kiran Tummala), TÜViT / ACAB’c (Matthias Wiedenhorst), SSL.com (Michael Sykes), Primekey (Guest) (Mike Agrenius Kushner), SECOM (Natsumi Uchida), Sectigo (Nick France), SECOM (Ono Fumiaki), Entrust (Paul van Brouwershaven), GoDaddy (Rae Ann Gonzales), SwissSign (Roman Fischer), GlobalSign (Sebastian Schulz), OATI (Stephanie Skoro), SECOM (Tadahiko Ito), SSL.com (Thomas Zermeno), BDO (Tim Crawford), DigiCert (Tim Hollebeek), DigiCert (Tomofumi Okubo), Amazon Trust Services (Trevoli Ponds-White), Chunghwa Telecom Co., Ltd (Tsung-Min Kuo), eMudhra (Vijay Kumar), JPRS (Yoshiro Yoneya)
 
-## Minutes 
+## Minutes
 
-### Goals and Progress 
+### Goals and Progress
 
-- Merge non-EV and EV requirements – DONE
+• Merge non-EV and EV requirements – DONE
 
-- Rationalize EV requirements – DONE
+• Rationalize EV requirements – DONE
 
-- Address move to 4096-bit RSA – DONE
+• Address move to 4096-bit RSA – DONE
 
-- Cleanup and clarify requirements – DONE
+• Cleanup and clarify requirements – DONE
 
-- Update Subscriber Private Key Protection requirements
+• Update Subscriber Private Key Protection requirements
 
-- Update Signing Service requirements
+• Update Signing Service requirements
 
-- Move CSBR to Pandoc/RFC 3647 format – Update in draft
+• Move CSBR to Pandoc/RFC 3647 format – Update in draft
 
-- CSBR less dependent on SSL BRs and SSL EVGs
+• CSBR less dependent on SSL BRs and SSL EVGs
 
-### Subscriber Keys 
+### Subscriber Keys
 
 Ian: this is all about getting off of the acceptance of software generated and protected private keys. Pushing the official guidelines and requirements about cloud based solutions. Subscribers are using those solutions, but are they using the software protected versions,. or the hardware backed solutions? Really, that’s what we’re after, if you’re going to have a private key, it has to be generated in a hardware crypto module and remain protected there.
 
@@ -88,7 +88,7 @@ Bruce: any other comments/questions?
 
 Seb: Good to discuss the requirements, also worth looking at “bad” subscribers, who try to get around this. Another topic to explore – Subscribers to be put on higher level vetting if there have been incidents or lower level protection of keys.
 
-### Signing Service 
+### Signing Service
 
 Intro- Bruce: Current text for Signing Services in the existing document is confusing enough that an update will not suffice, the aim is to do a full redo of Signing Services. The goal during this session is to discuss what are the requirements for the signing service? From there we can push those into the BRs. We are not looking to impact to Singing Services that already exist. What can we add to the list of what is expected of a signing service?
 
@@ -264,16 +264,16 @@ Paul: One thing to add is that NetSec is looking at cloud services and have been
 
 Bruce: Thanks for the discussion, we are slowly moving forward.
 
-### Parking Lot 
+### Parking Lot
 
 Bruce provided a list of open Parking Lot items and indicated that best efforts have been to track open items and have them resolved in ballots.
 
 Reference:
 
-### Other Items 
+### Other Items
 
 Revocation Date Ballot – Corey has reviewed the changes with Rob Stradling who agrees to the updates. Corey needs a ballot number to proceed. Bruce stated that the new number will be CSC-12, but would assign and confirm.
 
-### Next Meeting 
+### Next Meeting
 
 Thursday, 21 October 2021, 12:00 ET

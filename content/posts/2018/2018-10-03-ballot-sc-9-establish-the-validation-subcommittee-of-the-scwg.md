@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-10-03-ballot-sc-9-establish-the-validation-subcommittee-of-the-scwg/
+- /2018/10/03/ballot-sc-9-establish-the-validation-subcommittee-of-the-scwg/
 author: Jos Purvis
 date: 2018-10-03 12:00:25
 tags:
@@ -30,17 +30,15 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. **This requirement was met.**
 
-**The ballot passes.**
+## The ballot passes.
 
-______________________________________________________________________
-
-**Purpose of Ballot**
+## Purpose of Ballot
 
 The Validation Working Group of the CA/Browser Forum will expire on October 3, 2018 under the provisions of the new Bylaws adopted in Ballot 206. The Server Certificate Working Group wishes to establish a Validation Subcommittee pursuant to the provisions of Bylaws Section 5.3.1(e). This ballot is based on the language in Ballot 143 which was approved by the Forum Members for formally establishing the legacy Validation Working Group in 2015:
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Tim Hollebeek of DigiCert and Dimitris Zacharopoulos of HARICA.
 
-— MOTION BEGINS —
+## Motion begins
 
 The Server Certificate Working Group hereby establishes the Validation Subcommittee as an official Subcommittee of the Server Certificate Working Group (SCWG).
 
@@ -53,7 +51,7 @@ The Server Certificate Working Group hereby establishes the Validation Subcommit
   Communication: Subcommittee communications and documents shall be posted on mailing lists where the mail-archives are publicly accessible. The Subcommittee shall publish minutes of its meetings.
 - Effect of SCWG Charter or Forum Bylaws Amendment for Subcommittees: In the event the SCWG Charter or the CA/Browser Forum Bylaws is amended to add general rules governing Chartered Working Group Subcommittees and how they operate (“General Rules”), the provisions of the General Rules shall take precedence over this charter.
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 
@@ -65,8 +63,6 @@ Vote for approval (7 days)
 Start Time: 2018-09-26, 16:00 UTC
 End Time: 2018-10-03, 16:00 UTC
 
-______________________________________________________________________
-
 _**Additional Information (not part of ballot)**_
 
 **Ballot 143 – Formalization of Validation Working Group (approved Feb 2015)**
@@ -77,7 +73,7 @@ Scope: The Validation Working Group will consider all matters relating to the va
 
 Deliverables: The Working Group shall produce one or more documents offering options to the Forum for validation within the scope defined above.
 
-**Bylaws v1.9**
+## Bylaws v1.9
 
 5.3.1 Formation of Chartered Working Groups
 (e) CWGs may establish any number of subcommittees within its own Working Group to address any of such CWG’s business (each, a “Subcommittee”). A CWG-created Subcommittee needs to be approved by the CWG itself according to the approval process set forth in the CWG charter, but approval of the Forum is not necessary. Subcommittees must exist under an approved CWG.

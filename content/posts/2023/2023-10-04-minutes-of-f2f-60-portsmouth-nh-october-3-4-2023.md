@@ -1,50 +1,49 @@
 ---
 aliases:
-- /2023-10-04-minutes-of-f2f-60-portsmouth-nh-october-3-4-2023/
+- /2023/10/04/minutes-of-f2f-60-portsmouth-nh-october-3-4-2023/
 author: Ben Wilson
 date: 2023-10-04 22:22:48
 tags:
-- Minutes
 - Forum
+- Minutes
 - Face-to-Face
 title: Minutes of the F2F 60 Meeting in Portsmouth, NH, October 3-4, 2023
 type: post
 ---
 
-# Meeting 60 minutes {#m\_-7682310236377241840bkmrk-page-title}
+# Meeting 60 minutes
 
-# CABF Face-to-Face Meeting 60: Day 1 October 3, 2023 {#m\_-7682310236377241840bkmrk-cabf-face-to-face-me}
+# CABF Face-to-Face Meeting 60: Day 1 October 3, 2023
 
-## CA/Browser Forum level Meeting {#m\_-7682310236377241840bkmrk-ca%2Fbrowser-forum-mee}
+## CA/Browser Forum level Meeting
 
-## Attendance {#m\_-7682310236377241840bkmrk-attendance}
+## Attendance
 
 Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), Adriano Santoni – (Actalis S.p.A.), Aleksandra Kurosz (Asseco Data Systems S.A.), Andrea Holland – (VikingCloud), Andreas Henschel (D-Trust), Aneta Wojtczak-Iwanicka – (Microsoft), Anna-Marie Christian (WebTrust / CPA Canada), Antti Backman – (Telia Company), Arno Fiedler – (ETSI), Arnold Essing (Telekom Security), Arvid Vermote – (GlobalSign), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Brittany Randall – (GoDaddy), Bruce Morton – (Entrust), Chris Clements – (Google), Christophe Bonjean – (GlobalSign), Clemens Wanko – (ACAB’c / TUV Austria), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Bonnell (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dave Chin – (CPA Canada/WebTrust), Dean Coclin (DigiCert), Dimitris Zacharopoulos – (HARICA), Don Sheehy (WebTrust), Doug Beattie – (GlobalSign), Ellie Lu – (TrustAsia Technologies Inc.), Enrico Entschew (D-Trust), Eva Vansteenberge – (GlobalSign), Hannah Sokol – (Microsoft), Hogeun Yoo – (NAVER Cloud), Ian McMillan – (Microsoft), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Janet Hines – (VikingCloud), Jeremy Rowley – (DigiCert), Joanna Fox – (TrustCor Systems), Jochem van den Berge – (Logius PKIoverheid), John Mason (Microsoft), John Sarapata (Google Trust Services), Joseph Ramm – (OATI), Jozef Nigut – (Disig), Kateryna Aleksieieva – (Asseco Data Systems SA (Certum)), Keshava Nagaraju – (eMudhra), Kiran Tummala – (Microsoft), Leo Grove (SSL.com), Li-Chun Chen (ChungHwa Telecom), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Marco Schambach – (IdenTrust), Martijn Katerbarg – (Sectigo), Michael Guenther – (SwissSign), Michael Slaughter – (Amazon), Michelle Coon – (OATI), Mohit Kumar (GlobalSign), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Naveen Kumar – (eMudhra), Nicol So – (CommScope), Nikolaos Soumelidis (QMSCERT), Nitesh Bakliwal (Microsoft), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Pekka Lahtiharju – (Telia Company), Raffaela Achermann – (SwissSign), Rebecca Kelley – (Apple), Rich Kapushinski – (CommScope), Rob Brand (Ministry of Economic Affairs and climate Policy (NL)), Rob Stradling – (Sectigo), Rollin Yu – (TrustAsia Technologies Inc.), Roman Fischer (SwissSign AG), Ryan Dickson – (Google), Scott Rea – (eMudhra), Sissel Hoel – (Buypass AS), Stephen Davidson – (DigiCert), Steven Deitte – (GoDaddy), Sven Rajala – (Keyfactor), Tadahiko Ito – (SECOM Trust Systems), Tim Callan (Sectigo), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek (DigiCert), Tobias Josefowitz – (Opera Software AS), Tom Zermeno (SSL.com), Trevoli Ponds-White – (Amazon), Tsung-Min Kuo – (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha – (eMudhra), Wayne Thayer – (Fastly), Wen-Chun Yang (ChungHwa Telecom), Wendy Brown – (US Federal PKI Management Authority), Xiu Lei – (GDCA).
 
-### Approval of CABF Minutes from last teleconference {#m\_-7682310236377241840bkmrk-approval-of-cabf-min}
+### Approval of CABF Minutes from last teleconference
 
 **Leader:** Dimitris Zacharopoulos (HARICA)
 
 Minutes were approved.
 
-### Future face to face meeting schedule {#m\_-7682310236377241840bkmrk-future-face-to-face-}
+### Future face to face meeting schedule
 
 **Leader:** Dimitris Zacharopoulos (HARICA)
-**Presentation link:**
+**Presentation link:** [/wp-content/uploads/1-CABF_Future-meetings.pdf](/uploads/1-CABF_Future-meetings.pdf)
 
 - Spring 2024 meeting will be hosted by eMudhra in New Delhi, India
-
 - Summer 2024 meeting will be hosted by Actalis in Bergamo, Italy
-
 - Fall 2024 meeting will be hosted by Amazon in Seattle, WA
 
 **Discussion outside the presentation:** No further discussion.
 
-### Forum Infrastructure Subcommittee {#m\_-7682310236377241840bkmrk-infrastructure-subco}
+### Forum Infrastructure Subcommittee
 
 **Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
-**Minutes:** Tim Callan (Sectigo)
-**Presentation link:** No presentation
+
+- *Minutes:*\* Tim Callan (Sectigo)
+- *Presentation link:*\* No presentation
 
 **Discussion minutes:**
 
@@ -164,8 +163,6 @@ Dimitris:
 
 Thanks to the infrastructure subcommittee for doing such great work and keeping things running.
 
-### 
-
 Open Mic
 
 **Discussion leader:** Dimitris Zacharopoulos (HARICA)
@@ -210,55 +207,54 @@ Agree to stop the recording when there is a confidential issue to discuss. That 
 
 Put on the Agenda at the next F2F Teleconferences for action items.
 
-### 
-
 Guest Speaker
 
 **Presenter:** Rob Brand – Ministry of Economic Affairs and climate Policy (NL)
-**Title:** Building Trust, Empowering the Digital Economy – eIDAS Trust Services
-**Presentation link:**
-**Minutes:** Kiran Tummala (Microsoft)
+
+- *Title:*\* Building Trust, Empowering the Digital Economy – eIDAS Trust Services
+- *Presentation link:*\* [/wp-content/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf](/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf)
+- *Minutes:*\* Kiran Tummala (Microsoft)
 
 Presentation Notes:
 
-**Management Audit and Certification Process in the Netherlands:**
+## Management Audit and Certification Process in the Netherlands
 
 - Rob discussed a management audit that was conducted in the Netherlands regarding the certification process for trust services.
 - It was noted that the supervisory body in the Netherlands did not have the authority to provide a second opinion on the certification process.
 - The process seemed less robust, leading to concerns about the quality of trust services certification in the past.
 
-**Telecommunications and Digital Hack in 2011:**
+## Telecommunications and Digital Hack in 2011
 
 - Rob highlighted that the supervisory body’s limited knowledge in the telecommunications sector contributed to a significant digital hack in 2011.
 - A man-in-the-middle attack with fake certificates exposed weak security practices.
 - The impact was significant, affecting qualified certificates and leading to the shutdown of government services.
 - A certification authority even went bankrupt.
 
-**Security Awareness and Regulatory Adjustments:**
+## Security Awareness and Regulatory Adjustments
 
 - After the 2011 incident, the Netherlands took steps to increase security awareness.
 - Efforts were made to adjust regulations within Europe regarding certificates.
 - Three key areas of improvement were identified: increased security awareness, legal improvements, and organizational measures.
 
-**Role of the Inspector for Digital Infrastructure:**
+## Role of the Inspector for Digital Infrastructure
 
 - A new supervisory body, known as the Inspector for Digital Infrastructure, was established in the Netherlands.
 - This body took on supervisory tasks and aimed to become a knowledge center for trust services.
 - This development was considered a positive step in improving oversight.
 
-**Yearly Crisis Exercises and Multi-Vendor Strategy:**
+## Yearly Crisis Exercises and Multi-Vendor Strategy
 
 - The Netherlands initiated yearly crisis exercises and developed a crisis manual for digital affairs.
 - A multi-vendor strategy was implemented to avoid dependency on a single organization in case of a disaster.
 - This strategy aimed to ensure continued government operation in the event of a similar crisis.
 
-**Impact of eIDAS Regulation:**
+## Impact of eIDAS Regulation
 
 - The eIDAS regulation was hailed as a dramatic improvement over the previous signature directive.
 - It harmonized requirements and introduced product certification based on standard 1765.
 - Auditors could now assess systems directly, not just the management system.
 
-**Supervisory Body Independence:**
+## Supervisory Body Independence
 
 - The eIDAS regulation gave supervisory bodies the autonomous responsibility to accept or decline applications for qualification.
 - Even if a service provider met the assessment requirements, the supervisory body could still refuse qualification based on their assessment of the data center, enhancing oversight.
@@ -266,199 +262,183 @@ Presentation Notes:
 - Government organizations in the Netherlands were required to use qualified trust services to ensure their identity and legitimacy.
 - This requirement was seen as crucial for secure communication within NATO and to build trust.
 
-**Transition Away from Green Bar:**
+## Transition Away from Green Bar
 
 - The transition away from the green bar indicator for trustworthiness in websites had posed some challenges.
 - It was noted that the shift occurred around 2018 and continued.
 - Discussions around new indicators were ongoing to maintain user confidence.
 
-**eIDAS Regulation Updates and Future Considerations:**
+## eIDAS Regulation Updates and Future Considerations
 
 - The eIDAS regulation was undergoing updates, with a target effective date around 2024.
 - Specific articles and requirements were still under negotiation.
 - Discussions around uniformity, user-friendly indications, and potential changes in root stores were being considered.
 
-**Cooperation and Global Trust:**
+## Cooperation and Global Trust
 
 - Cooperation between stakeholders, including browser vendors and certificate authorities, was seen as essential.
 - Efforts were made to ensure that unilateral decisions did not jeopardize trust.
 - Trust services and their regulation were expected to play a crucial role in the digital economy’s autonomy and sovereignty.
 
-**EU Participation in the CA/Browser Forum:**
+## EU Participation in the CA/Browser Forum
 
 - The possibility of the EU participating more formally in the CA/Browser Forum was discussed.
 - Concerns about the requirement to sign an Intellectual Property Rights (IPR) agreement were raised.
 - The need for further discussion and potential adjustments to participation requirements was acknowledged.
 
-**Future Trends:**
+## Future Trends
 
 - Trust regulation was expected to become more prevalent in various sectors.
 - The geopolitical situation and the emphasis on digital autonomy and sovereignty were influencing trust services.
 - Trust services were being viewed from a perspective of autonomy and sovereignty
 
-## Browser Updates {#m\_-7682310236377241840bkmrk-browser-updates}
+## Browser Updates
 
-### Mozilla Root Program Update {#m\_-7682310236377241840bkmrk-mozilla-root-program}
+### Mozilla Root Program Update
 
 **Leader:** Ben Wilson (Mozilla)
-**Minutes:** Doug Beattie (Globalsign)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Doug Beattie (Globalsign)
+- *Presentation link:*\* [/wp-content/uploads/2023-October-Mozilla-Browser-News.pdf](/uploads/2023-October-Mozilla-Browser-News.pdf)
+
+## Discussion outside the presentation
 
 There were no material discussion beyond what was presented.
 
-### Google Root Program Update {#m\_-7682310236377241840bkmrk-google-root-program-}
+### Google Root Program Update
 
 **Leader:** Chris Clements & Ryan Dickson (Google Chrome)
-**Minutes:** Stephen Davidson (DigiCert)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Stephen Davidson (DigiCert)
+- *Presentation link:*\* [/wp-content/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf](/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf)
+
+## Discussion outside the presentation
 
 1. Chrome Root Program Updates:
 
 - Modern Infrastructures Survey Background and Motivation
 
-- Chrome believes that encryption makes the web more secure and protects users. In order for encryption to provide this security benefit, it must be consistently and reliably deployed.
+  - Chrome believes that encryption makes the web more secure and protects users. In order for encryption to provide this security benefit, it must be consistently and reliably deployed.
+  - Promoting modern infrastructures enhances that consistency and reliability – through simplicity and agility.
 
-- Promoting modern infrastructures enhances that consistency and reliability – through simplicity and agility.
+* when systems are simple they are easier to understand, use, and manage, leading to fewer errors and more consistent results.
 
-- when systems are simple they are easier to understand, use, and manage, leading to fewer errors and more consistent results.
+* when systems are agile they can adapt to change and promote continuous improvement and reliability – while delivering their service.
 
-- when systems are agile they can adapt to change and promote continuous improvement and reliability – while delivering their service.
+  - Promoting Modern Infrastructures aligns with higher-level Chrome Root Program goals of promoting simplicity and agility.
+  - Shared background on “Moving Forward, Together” initiative
 
-- Promoting Modern Infrastructures aligns with higher-level Chrome Root Program goals of promoting simplicity and agility.
+* Long-term grouping of initiatives, first introduced at F2F 55.
 
-- Shared background on “Moving Forward, Together” initiative
+* Non-normative, and therefore not policy.
 
-- Long-term grouping of initiatives, first introduced at F2F 55.
+* Shared publicly and in advance of any corresponding implementation timelines to identify existing and create new opportunities to help.
 
-- Non-normative, and therefore not policy.
+  - Described a tentative, phased approach for achieving the goals of “Moving Forward, Together.”
 
-- Shared publicly and in advance of any corresponding implementation timelines to identify existing and create new opportunities to help.
+* Since MFT was first introduced, the Chrome team has had a lot of conversations about milestone sequencing, and coupled with the results from this most recent survey – heard and saw a desire for general sequencing.
 
-- Described a tentative, phased approach for achieving the goals of “Moving Forward, Together.”
+* Naturally, by conveying an ordering or phasing, stakeholders can better prepare.
 
-- Since MFT was first introduced, the Chrome team has had a lot of conversations about milestone sequencing, and coupled with the results from this most recent survey – heard and saw a desire for general sequencing.
+* The plan presented is tentative. The order may change as the Chrome team collects more data, studies community feedback, and as new threats emerge.
 
-- Naturally, by conveying an ordering or phasing, stakeholders can better prepare.
+* If during exploration, it’s determined a goal cannot be achieved at the stated time without significant negative impact to the ecosystem, plans will be adjusted.
 
-- The plan presented is tentative. The order may change as the Chrome team collects more data, studies community feedback, and as new threats emerge.
+* Immediate focus is support for automation and term limit for roots included in the Chrome Root Store
 
-- If during exploration, it’s determined a goal cannot be achieved at the stated time without significant negative impact to the ecosystem, plans will be adjusted.
+* Both of these initiatives represent a commitment to simplicity and agility – and are fundamental for achieving many of the other goals described in MFT.
 
-- Immediate focus is support for automation and term limit for roots included in the Chrome Root Store
-
-- Both of these initiatives represent a commitment to simplicity and agility – and are fundamental for achieving many of the other goals described in MFT.
-
-- Chrome’s approach is influenced by data collected from a number of sources to include public tools like [crt.sh](http://crt.sh) and Censys, results from Chrome’s own experimentation, evaluating peer-reviewed research, and through using CA owner surveys. These tools help improve perspective and predict impact of areas of exploration.
+  - Chrome’s approach is influenced by data collected from a number of sources to include public tools like [crt.sh](http://crt.sh) and Censys, results from Chrome’s own experimentation, evaluating peer-reviewed research, and through using CA owner surveys. These tools help improve perspective and predict impact of areas of exploration.
 
 - Survey, Findings, and Themes
 
-- Survey background:
+  - Survey background:
 
-- Goal: understand CA owner perspective related to impacts of “modern infrastructures” initiatives like term limit, reduced certificate lifetime, reduced domain validation reuse, etc.
+* Goal: understand CA owner perspective related to impacts of “modern infrastructures” initiatives like term limit, reduced certificate lifetime, reduced domain validation reuse, etc.
 
-- 100% of CA owners responded.
+* 100% of CA owners responded.
 
-- 47% of CA owners provided comments to an open-ended question at the end of the survey.
+* 47% of CA owners provided comments to an open-ended question at the end of the survey.
 
-- Chrome interpreted these results to indicate what was top of mind for most CA owners.
+* Chrome interpreted these results to indicate what was top of mind for most CA owners.
 
 - 47% cited a negative impact or otherwise expressed concern associated with the proposed root term limit
-
 - 26% expressed appreciation for the opportunity to offer feedback, and
-
 - 22% asked for sufficient migration time before any future requirements should become effective.
 
-- Chrome appreciates the candid responses provided by CA owners and will continue this approach in future surveys.
+* Chrome appreciates the candid responses provided by CA owners and will continue this approach in future surveys.
 
-- Survey results:
+  - Survey results:
 
-- Automation
+* Automation
 
-- Chrome believes adoption of modern practices like automated certificate issuance and management help realize the full security value of TLS.
+* Chrome believes adoption of modern practices like automated certificate issuance and management help realize the full security value of TLS.
 
-- Goals for and motivation related to automation were shared at F2F 59. If interested in learning more, refer back to that presentation.
+* Goals for and motivation related to automation were shared at F2F 59. If interested in learning more, refer back to that presentation.
 
-- 76% of CA owners included in the Chrome Root Store stated support for automated solutions
+* 76% of CA owners included in the Chrome Root Store stated support for automated solutions
 
-- ~99.99 of the certificates issued in the Web PKI today are issued by these CA owners, estimated by combining survey responses and publicly available data.
+* ~99.99 of the certificates issued in the Web PKI today are issued by these CA owners, estimated by combining survey responses and publicly available data.
 
 - Noted that this data analysis was a point-in-time analysis, performed the week of September 21st.
 
-- ~82 of the certificates issued by the Web PKI today are issued using some form of automation.
+* ~82 of the certificates issued by the Web PKI today are issued using some form of automation.
 
 - This was extrapolated by considering CA owner survey responses against data from tools like crt.sh.
 
-- The described data points, along with other feedback in response to the survey was interpreted by the Chrome team to indicate:
+* The described data points, along with other feedback in response to the survey was interpreted by the Chrome team to indicate:
 
 - broader support for automation by CA owners and corresponding service providers will continue to create better opportunities for website owners to improve the consistency and reliability of TLS implementations.
-
 - support and innovation related to automation can help reduce the trade offs related to the time and effort required to adopt these practices.
-
 - there are opportunities to improve the state of automation across the ecosystem to include increased availability of services, development of new features and product enhancements that will make adopting automation a better fit for certain types of subscribers, and opportunities to educate the user community on the opportunity automation presents.
 
-- Chrome is planning a blog post about automation, to be published in the next week or so.
+* Chrome is planning a blog post about automation, to be published in the next week or so.
 
-- Term Limits
+* Term Limits
 
-- The Chrome Root Program feels a term limit for roots included in the Chrome Root Store will:
+* The Chrome Root Program feels a term limit for roots included in the Chrome Root Store will:
 
 - Help promote and realize the gains of continuous improvement.
-
 - Promote agility while discouraging potentially dangerous practices and eliminating single points of failure. It also allows adoption of new standards and security features not available when earlier roots were established.
-
 - Reduce risk by re-establishing “known good” security baselines that may have been unknowingly lost over a period of time that is now sometimes up to 35 years. By reducing the period a root is relied upon, we reduce the maximum window of potential abuse.
 
-- Refresher, MFT describes a proposal for a 7-year term limit. Survey questions were focused at understanding how that proposal impacts the ecosystem.
+* Refresher, MFT describes a proposal for a 7-year term limit. Survey questions were focused at understanding how that proposal impacts the ecosystem.
+* Results:
 
-- Results:
-
-- On average, CAs reported the “Active Signing Lifetime” which was described as “how long root CAs are used to sign new ICA certificates responsible for leaf certificate issuance — before transitioning to a new root?” – was about 15 years.
-
+- On average, CAs reported the “Active Signing Lifetime” which was described as “how long root CAs are used to sign new ICA certificates responsible for leaf certificate issuance - before transitioning to a new root?” – was about 15 years.
 - Most respondents indicated “Active Signing Lifetime” was between 10 and 20 years.
-
 - Though about 15% of CA owners aligned with the 7-year proposal, most do not.
 
-- The most common theme shared by CA owners indicated that the proposed term limit would exacerbate the challenges of achieving root ubiquity – a critical user and device support story.
-
-- Conclusions:
+* The most common theme shared by CA owners indicated that the proposed term limit would exacerbate the challenges of achieving root ubiquity – a critical user and device support story.
+* Conclusions:
 
 - Chrome identified concern, and some degree of risk communicated in response to the proposed 7 year term limit. Because of that feedback, Chrome will change its proposed approach. Specifics will be shared later in the presentation.
-
 - A more agile approach is still preferred, and might be explored again in the future. It’s possible that over time, barriers to reduced functional life of roots will be removed – without additional active effort.
-
 - Opportunities for innovation may also improve opportunities for agility.
-
 - Chrome encourages CA owners to explore how they can adopt more frequent root rotation.
 
-- Future Areas of Exploration
+* Future Areas of Exploration
 
-- Described upcoming Chrome areas of exploration to include linting, phasing-out multi-purpose roots, and phasing out client authentication use cases.
-
-- Brief motivation for exploring these areas:
+  - Described upcoming Chrome areas of exploration to include linting, phasing-out multi-purpose roots, and phasing out client authentication use cases.
+  - Brief motivation for exploring these areas:
 
 - Broader adoption of linting has the opportunity to reduce common mis-issuance events, resulting in fewer Web PKI incidents that typically do not materially affect the underlying security of TLS connections.
 
 - Today, Chrome transitively trusts over 2,300 CA certificates
 
-- About half of these CAs support use cases other than server Authentication — the only use case applicable for Chrome – and presumably other web-browser certificate consumers.
+- About half of these CAs support use cases other than server Authentication - the only use case applicable for Chrome – and presumably other web-browser certificate consumers.
 
 - Given that each CA trusted represents added attack surface, and given that the comingling of use cases minimally increases complexity, Chrome intends to phase out roots not dedicated to server authentication in the future.
 
-- Chrome wants to understand the applicability of clientAuthentication use cases for web browsers and corresponding root store’s, like Chrome’s – whose use case for TLS is website authentication — not server-to-server or device authentication.
+- Chrome wants to understand the applicability of clientAuthentication use cases for web browsers and corresponding root store’s, like Chrome’s – whose use case for TLS is website authentication - not server-to-server or device authentication.
 
-- For these areas, CA owners can expect opportunities to share use cases and impact related to Chrome’s proposals. CA owner feedback is considered and valued.
-
-- If requirements are drafted, Chrome will do so in a way that attempts to minimize unintended impact and allows stakeholders time to prepare for and respond to changes.
-
-- Finally, these proposals will take time. As an example, Chrome began studying automation requirements almost a year ago, but the Chrome Root Program Policy does not yet have requirements related to automation.
+  - For these areas, CA owners can expect opportunities to share use cases and impact related to Chrome’s proposals. CA owner feedback is considered and valued.
+  - If requirements are drafted, Chrome will do so in a way that attempts to minimize unintended impact and allows stakeholders time to prepare for and respond to changes.
+  - Finally, these proposals will take time. As an example, Chrome began studying automation requirements almost a year ago, but the Chrome Root Program Policy does not yet have requirements related to automation.
 
 - This point was again emphasized as it relates to leaf validity.
 
-- Described that exploring a reduction in maximum certificate validity is still and will remain a priority for the Chrome Root Program.
+  - Described that exploring a reduction in maximum certificate validity is still and will remain a priority for the Chrome Root Program.
 
 - Chrome is often motivated by thinking about the impact of “worst case” scenarios.
 
@@ -466,25 +446,20 @@ There were no material discussion beyond what was presented.
 
 - As a community, and as leaders in this space, it is our combined responsibility to continue improving such that when we need to respond, we can – and without delay.
 
-- Chrome believes the combination of automation and reduced certificate validity best positions us to manage risk and promote agility moving forward — and remains committed to exploring this further.
+- Chrome believes the combination of automation and reduced certificate validity best positions us to manage risk and promote agility moving forward - and remains committed to exploring this further.
 
-- Policy Updates
+* Policy Updates
 
-- Chrome will be introducing a new “pre-flight” process, introduced at the last Face-to-Face, where CA owners can offer comments or request clarifications prior to a new policy version becoming final and effective.
-
-- Described the pre-flight process, and what CAs should expect related to timelines and next steps.
-
-- A summary of the updates included in the policy update were described. A point of emphasis was removing language from the Chrome Root Program policy and instead relying on reference to the CCADB policy, especially as it relates to incident reporting.
-
-- New subsections related to Root CA Key Material Freshness, Automation Support, and the Root CA Term-Limit
+  - Chrome will be introducing a new “pre-flight” process, introduced at the last Face-to-Face, where CA owners can offer comments or request clarifications prior to a new policy version becoming final and effective.
+  - Described the pre-flight process, and what CAs should expect related to timelines and next steps.
+  - A summary of the updates included in the policy update were described. A point of emphasis was removing language from the Chrome Root Program policy and instead relying on reference to the CCADB policy, especially as it relates to incident reporting.
+  - New subsections related to Root CA Key Material Freshness, Automation Support, and the Root CA Term-Limit
 
 - Key Freshness: Updates are intended to be clarifying to more clearly describe expectations related to how CA owners can illustrate that pre-existing key freshness requirements are satisfied.
-
 - Automation: New requirements such that applicants applying to the Chrome Root Program after January 15, 2024 must support some form of automation. ACME is preferred, however other solutions can also be acceptable. This outcome was influenced by CA owner feedback, as originally, Chrome intended to require use of ACME. There is no expectation or requirement that subscribers must use automation, just that CAs must make it an option for their use.
-
 - Term-limit: New requirements that will limit a root’s inclusion in the Chrome Root Store to 15 years. This timeline was influenced by CA owner feedback provided during the recent CA owner survey. A specific phase-out plan is described in the policy update to reduce negative impact to the ecosystem as this change is implemented.
 
-- Feature Launch Roadmap: The Chrome Certificate Verifier and Root Store have been deployed on all platforms, where possible. A FAQ link in the presentation materials describes more information about when specific platforms transitioned to the new Chrome tools.
+* Feature Launch Roadmap: The Chrome Certificate Verifier and Root Store have been deployed on all platforms, where possible. A FAQ link in the presentation materials describes more information about when specific platforms transitioned to the new Chrome tools.
 
 2. Certificate Transparency Updates
 
@@ -496,17 +471,18 @@ There were no material discussion beyond what was presented.
 
 - Beginning in Chrome 116, Chrome began offering support for Kyber.
 
-- This is not post quantum x.509 support, this is from the perspective of establishing symmetric secrets during the TLS handshake.
+  - This is not post quantum x.509 support, this is from the perspective of establishing symmetric secrets during the TLS handshake.
 
 - Interested parties can learn more about this change in a blog post that’s linked from the slides.
 
-### Apple Root Program Update {#m\_-7682310236377241840bkmrk-apple-root-program-u}
+### Apple Root Program Update
 
 **Leader:** Clint Wilson (Apple)
-**Minutes:** Corey Bonnel (Digicert)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Corey Bonnel (Digicert)
+- *Presentation link:*\* [/wp-content/uploads/6-2023-October-Apple.pdf](/uploads/6-2023-October-Apple.pdf)
+
+## Discussion outside the presentation
 
 Clint asked CT log operators to prepare sharded logs for 2026. Additionally, he would like to drive discussion on the state of CT log operators.
 
@@ -560,13 +536,14 @@ Jeremy asked if the scope of investigation on data re-use includes organization 
 
 Clint said that in Q1 or Q2 2024, a preview of an upcoming policy update in Q3 or Q4 next year will be circulated.
 
-### Microsoft Root Program Update {#m\_-7682310236377241840bkmrk-microsoft-root-progr}
+### Microsoft Root Program Update
 
 **Leader:** Hannah Sokol and Nitesh Bakliwal (Microsoft)
-**Minutes:** Dean Coclin (Digicert)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Dean Coclin (Digicert)
+- *Presentation link:*\* [/wp-content/uploads/7-Microsoft_F2F60_Presentation.pdf](/uploads/7-Microsoft_F2F60_Presentation.pdf)
+
+## Discussion outside the presentation
 
 - Question about the change in code signing certs accepting only RSA, what is the rationale for that?
 - Answer: Not a change, that is what they currently support.
@@ -582,13 +559,14 @@ They looked at ECDSA but the ROI to implement that isn’t there at this time. M
 - Comment: We should try to put as much in the forum as possible. CT is not part of BRs. Couldn’t that be part of the BRs? Would be good to discuss in forum.
 - Comment: CT Log operators are an entity not envisioned in BRs and may not be CAs or Browsers. But you can make a conditional requirement, ( if you are a CA or brownser and operate a log then you must….).
 
-### CCADB Update {#m\_-7682310236377241840bkmrk-ccadb-update}
+### CCADB Update
 
 **Leader:** Ben Wilson (Mozilla, on behalf of the CCADB Steering Committee)
-**Minutes:** Hannah Sokol (Microsoft)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Hannah Sokol (Microsoft)
+- *Presentation link:*\* [/wp-content/uploads/8-CAB-F2F-60-CCADB-Update.pdf](/uploads/8-CAB-F2F-60-CCADB-Update.pdf)
+
+## Discussion outside the presentation
 
 Updates to the CCADB.org
 
@@ -656,8 +634,6 @@ Chris: Confirming that the desire is to align with those two new audit types. Wo
 
 Clint: More conversation around timing around separation of the root reports. That the criteria is separate. Will have emails back and forth to make sure
 
-### 
-
 Q&A Root program discussions
 
 **Minutes:** Arvid Vermote (GlobalSign)
@@ -692,15 +668,16 @@ Feedback: the trust anchor for client auth is configured server side so having i
 
 Chrome: no intent to prohibit it from private PKI / other uses cases, only to remove it from TLS certificates
 
-## Audit Updates {#m\_-7682310236377241840bkmrk-audit-updates}
+## Audit Updates
 
-### ETSI Update {#m\_-7682310236377241840bkmrk-etsi-update}
+### ETSI Update
 
 **Leader:** Nick Pope and Arno Fiedler (Chairs ETSI ESI)
-**Minutes:** Clemens Wanko (TUV AUSTRIA)
-**Presentation link:**
 
-**ETSI summary of most important news (see slides for details):**
+- *Minutes:*\* Clemens Wanko (TUV AUSTRIA)
+- \*Presentation link:\*\*[/wp-content/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf](/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf)
+
+## ETSI summary of most important news (see slides for details)
 
 Arno reported latest developments and updates from the ETSI/ESI normative developments. The overall map of available standards shows not only full coverage now but several updates supporting ongoing developments in all the different areas like:
 
@@ -712,15 +689,16 @@ See slides for further details.
 
 **Discussion outside the presentation:** No additional discussion.
 
-### ACAB’C Update {#m\_-7682310236377241840bkmrk-acab%27c-update}
+### ACAB’C Update
 
 **Leader:** Clemens Wanko (TÜV AUSTRIA)
-**Minutes:** Arno Fiedler (Vice Chair ETSI ESI)
-**Presentation link:**
 
-**ACAB’C summary of most important news (see slides for details):**
+- *Minutes:*\* Arno Fiedler (Vice Chair ETSI ESI)
+- \*Presentation link:\*\*[/wp-content/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf](/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf)
 
-**Updates**
+## ACAB’C summary of most important news (see slides for details)
+
+## Updates
 
 - **NIS2/Cybersecurity requirements for EU-based CA/TSP**
 
@@ -746,31 +724,32 @@ See slides for further details.
 
 - SMIME-BR Audit Attestation Letter
 
-- List only the Roots and only the corresponding SubCA to the Roots (Intermediate & Issuing  CA) that have been assessed against the SMIME BR (=> ETSI TS 119 411-6)
+- List only the Roots and only the corresponding SubCA to the Roots (Intermediate & Issuing CA) that have been assessed against the SMIME BR (=> ETSI TS 119 411-6)
 
 - TLS-BR Audit Attestation Letter
 
-- List only the Roots and only the corresponding SubCA to the Roots (Intermediate &  Issuing CA) that have been assessed against the TLS BR (ETSI policies DVCP, IVCP, OVCP, QNCP-w)
+- List only the Roots and only the corresponding SubCA to the Roots (Intermediate & Issuing CA) that have been assessed against the TLS BR (ETSI policies DVCP, IVCP, OVCP, QNCP-w)
 
 - TLS-EV Audit Attestation Letter
 
-- List only the Roots and only the corresponding SubCA to the Roots (Intermediate & Issuing CA)  that have been assessed against the TLS EV Guidelines (=> ETSI policies EVCP, QEVCP-w)
+- List only the Roots and only the corresponding SubCA to the Roots (Intermediate & Issuing CA) that have been assessed against the TLS EV Guidelines (=> ETSI policies EVCP, QEVCP-w)
 
 - Code Signing-BR Audit Attestation Letter
 
-- List only the Roots and only the corresponding SubCA to the Roots (Intermediate & Issuing CA)  that have been assessed against the Code Signing BR (=> ETSI policies NCP, NCP)
+- List only the Roots and only the corresponding SubCA to the Roots (Intermediate & Issuing CA) that have been assessed against the Code Signing BR (=> ETSI policies NCP, NCP)
 
 See slides for further details.
 
 **Discussion outside the presentation:** No additional discussion.
 
-### WebTrust Update {#m\_-7682310236377241840bkmrk-webtrust-update}
+### WebTrust Update
 
 **Leader:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)
-**Minutes:** Bruce Morton (Entrust)
-**Presentation link:**
 
-**Some notes from the presentation:**
+- *Minutes:*\* Bruce Morton (Entrust)
+- *Presentation link:*\* [/wp-content/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf](/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf)
+
+## Some notes from the presentation
 
 - WebTrust for S/MIME v1.0.1 has been issued.
 
@@ -798,29 +777,28 @@ See slides for further details.
 
 **Discussion outside the presentation:** none
 
-### 
-
 Q&A Audits and Standards
 
 **Minutes:** Kiran Tummala (Microsoft)
 
-**ADJURNED Forum Plenary Meeting for Day 1**
+## ADJURNED Forum Plenary Meeting for Day 1
 
-# CABF Face-to-Face Meeting 60: Day 2 October 4, 2023 {#m\_-7682310236377241840bkmrk-cabf-face-to-face-me-1}
+# CABF Face-to-Face Meeting 60: Day 2 October 4, 2023
 
-## CA/Browser Forum Meeting {#m\_-7682310236377241840bkmrk-ca%2Fbrowser-forum-mee-1}
+## CA/Browser Forum Meeting
 
-## Attendance {#m\_-7682310236377241840bkmrk-attendance-1}
+## Attendance
 
 Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), Adriano Santoni – (Actalis S.p.A.), Aleksandra Kurosz (Asseco Data Systems S.A.), Andrea Holland – (VikingCloud), Andreas Henschel (D-Trust), Aneta Wojtczak-Iwanicka – (Microsoft), Anna-Marie Christian (WebTrust / CPA Canada), Antti Backman – (Telia Company), Arno Fiedler – (ETSI), Arnold Essing (Telekom Security), Arvid Vermote – (GlobalSign), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Brittany Randall – (GoDaddy), Bruce Morton – (Entrust), Chris Clements – (Google), Christophe Bonjean – (GlobalSign), Clemens Wanko – (ACAB’c / TUV Austria), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Bonnell (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dave Chin – (CPA Canada/WebTrust), Dean Coclin (DigiCert), Dimitris Zacharopoulos – (HARICA), Don Sheehy (WebTrust), Doug Beattie – (GlobalSign), Ellie Lu – (TrustAsia Technologies Inc.), Enrico Entschew (D-Trust), Eva Vansteenberge – (GlobalSign), Hannah Sokol – (Microsoft), Hogeun Yoo – (NAVER Cloud), Ian McMillan – (Microsoft), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Janet Hines – (VikingCloud), Jeremy Rowley – (DigiCert), Joanna Fox – (TrustCor Systems), Jochem van den Berge – (Logius PKIoverheid), John Mason (Microsoft), John Sarapata (Google Trust Services), Joseph Ramm – (OATI), Jozef Nigut – (Disig), Kateryna Aleksieieva – (Asseco Data Systems SA (Certum)), Keshava Nagaraju – (eMudhra), Kiran Tummala – (Microsoft), Leo Grove (SSL.com), Li-Chun Chen (ChungHwa Telecom), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Marco Schambach – (IdenTrust), Martijn Katerbarg – (Sectigo), Michael Guenther – (SwissSign), Michael Slaughter – (Amazon), Michelle Coon – (OATI), Mohit Kumar (GlobalSign), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Naveen Kumar – (eMudhra), Nicol So – (CommScope), Nikolaos Soumelidis (QMSCERT), Nitesh Bakliwal (Microsoft), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Pekka Lahtiharju – (Telia Company), Raffaela Achermann – (SwissSign), Rebecca Kelley – (Apple), Rich Kapushinski – (CommScope), Rob Brand (Ministry of Economic Affairs and climate Policy (NL)), Rob Stradling – (Sectigo), Rollin Yu – (TrustAsia Technologies Inc.), Roman Fischer (SwissSign AG), Ryan Dickson – (Google), Scott Rea – (eMudhra), Sissel Hoel – (Buypass AS), Stephen Davidson – (DigiCert), Steven Deitte – (GoDaddy), Sven Rajala – (Keyfactor), Tadahiko Ito – (SECOM Trust Systems), Tim Callan (Sectigo), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek (DigiCert), Tobias Josefowitz – (Opera Software AS), Tom Zermeno (SSL.com), Trevoli Ponds-White – (Amazon), Tsung-Min Kuo – (Chunghwa Telecom), Vijayakumar (Vijay) Manjunatha – (eMudhra), Wayne Thayer – (Fastly), Wen-Chun Yang (ChungHwa Telecom), Wendy Brown – (US Federal PKI Management Authority), Xiu Lei – (GDCA).
 
-### Definitions and Glossary WG {#m\_-7682310236377241840bkmrk-updates-to-forum-web}
+### Definitions and Glossary WG
 
 **Leader:** Tim Hollebeek (DigiCert)
-**Minutes:** Stephen Davidson (DigiCert)
-**Presentation link:** No presentation
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Stephen Davidson (DigiCert)
+- *Presentation link:*\* No presentation
+
+## Discussion outside the presentation
 
 There was discussion to clarify the Charter language, including on end date currently included in the Charter, questioning if this creates unnecessary administration or accidental landmine to step on. Clint Wilson thought that end date would set impetus to deliver, and give the opportunity to revisit the charter after the initial deliverable. Dean Coclin questioned what happens if the WG initial task is not completed. Trevoli Ponds White supported the idea of setting milestones, but did not want to create Charter busy work. Scott Rea supported this. It was agreed to change the language to set a milestone rather than end the Charter. Paul van Brouwershaven suggested adding language for the WG to periodically reevaluate its goals.
 
@@ -834,15 +812,14 @@ Tim and Clint described how the consensus and ballot process matched the CABF by
 
 Next steps are to get the charter letter finalized and out for vote. The goal would be start meetings in November. ??? commented that changes made by this WG can impact the requirements by other WG; this may require other WG to substantively update their own standards.
 
-### 
-
 Proof-of-Concept for BR of BRs with requirements Matrix
 
 **Leader:** Paul van Brouwershaven (Entrust)
-**Minutes:** Tim Callan (Sectigo)
-**Presentation link:** Paul van Brouwershaven (Entrust)
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Tim Callan (Sectigo)
+- *Presentation link:*\* [/wp-content/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf](/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf)Paul van Brouwershaven (Entrust)
+
+## Discussion outside the presentation
 
 Paul van Brouwershaven (Entrust): I have included links in the chat for this code if you want to see for yourself
 
@@ -990,6 +967,6 @@ Paul:
 
 We need to take this on in the infrastructure WG and take this to the next step.
 
-**ADJURNED Forum Plenary Meeting for Day 2**
+## ADJURNED Forum Plenary Meeting for Day 2
 
-——- END FINAL F2F #60 CA/B Forum Plenary Meeting minutes ——-
+--- END FINAL F2F #60 CA/B Forum Plenary Meeting minutes ---

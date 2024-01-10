@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-08-15-ballot-150-oid-revisions/
+- /2015/08/15/ballot-150-oid-revisions/
 author: Ben Wilson
 date: 2015-08-15 01:55:00
 tags:

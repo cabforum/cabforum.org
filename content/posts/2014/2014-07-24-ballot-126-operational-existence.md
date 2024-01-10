@@ -1,32 +1,32 @@
 ---
 aliases:
-- /2014-07-24-ballot-126-operational-existence/
+- /2014/07/24/ballot-126-operational-existence/
 author: Ben Wilson
 date: 2014-07-24 23:03:45
 tags:
 - Ballot
 - Server Certificates
-title: Ballot 126  – Operational Existence (passed)
+title: Ballot 126 – Operational Existence (passed)
 type: post
 ---
 
-Voting on Ballot 126 closed on 24 July 2014.  Voting in favor were Comodo, DigiCert, Network Solutions, QuoVadis, Symantec, Trend Micro, WoSign, and Mozilla. Visa abstained. Quorum was met and Ballot 126 passed, resulting in [EV SSL Certificate Guidelines Version 1.5.0][1].
+Voting on Ballot 126 closed on 24 July 2014. Voting in favor were Comodo, DigiCert, Network Solutions, QuoVadis, Symantec, Trend Micro, WoSign, and Mozilla. Visa abstained. Quorum was met and Ballot 126 passed, resulting in [EV SSL Certificate Guidelines Version 1.5.0][1].
 
-**Ballot 126 – Operational Existence**
+## Ballot 126 – Operational Existence
 
 Jeremy Rowley of Digicert made the following motion and Cecilia Kam of Symantec and Doug Beattie of GlobalSign have endorsed it:
 
-**Reason(s) for Ballot 126:** **Problem****(****s****)** **with Current Wording**
+## Reason(s) for Ballot 126:\*\* **Problem**\*\*(****s****)\*\* \*\*with Current Wording
 
 A – Section 11.5 is unclear, as evidenced by the need to restate that requirement with an additional sentence
 
 B – Section 11.5 begins with the word “If” – making it appear conditional rather than mandatory
 
-C – Section 11.5 does not follow the framework used elsewhere in Section 11 of the EV Guidelines.  The framework is: (1) state the requirement and (2) state the acceptable methods of meeting that requirement.
+C – Section 11.5 does not follow the framework used elsewhere in Section 11 of the EV Guidelines. The framework is: (1) state the requirement and (2) state the acceptable methods of meeting that requirement.
 
 D – Section 11.5 could be edited to help clarify the relationship between “ability to engage in business” and “operational existence” for purposes of the EV Guidelines
 
-**Approach Used in Ballot 126 to Address the Problem**
+## Approach Used in Ballot 126 to Address the Problem
 
 Language is removed from the requirements section (section 11.5.1) and placed in the acceptable methods section (section 11.5.2) so that section 11.5.1 simply says, “The CA MUST verify that the Applicant has the ability to engage in business by verifying the Applicant’s, or Affiliate/Parent/Subsidiary Company’s, operational existence.”
 
@@ -44,13 +44,13 @@ The word “or” between subsections (3) and (4) does not make section 11.5.2 a
 
 Subsection (4) is essentially the same.
 
-**Additional Support for Approach Taken / Words Used in Ballot 126**
+## Additional Support for Approach Taken / Words Used in Ballot 126
 
-Section 11.5 is meant to address operational existence. In drafting the original language, members of the Forum knew that it would be too hard to presumptively establish that an organization was “actually doing business,” but there was a desire to retain a requirement and method  to establish that an organization had more than just a legal existence and physical address, and they settled on the concept of “an ability to do business”.
+Section 11.5 is meant to address operational existence. In drafting the original language, members of the Forum knew that it would be too hard to presumptively establish that an organization was “actually doing business,” but there was a desire to retain a requirement and method to establish that an organization had more than just a legal existence and physical address, and they settled on the concept of “an ability to do business”.
 
-—-Motion Begins —-
+--Motion Begins
 
-1.  DELETE Section 11.5.1 (Verification Requirements) of the EV Guidelines and INSERT the following:
+1. DELETE Section 11.5.1 (Verification Requirements) of the EV Guidelines and INSERT the following:
 
 11.5.1. Verification Requirements
 
@@ -70,8 +70,7 @@ To verify the Applicant’s ability to engage in business, the CA MUST verify th
 
 (4) Relying on a Verified Legal Opinion or a Verified Accountant Letter to the effect that the Applicant has an active current Demand Deposit Account with a Regulated Financial Institution.
 
-—-Motion Ends —-
-
+--Motion Ends
 The review period for this ballot shall commence at 2200 UTC on Thursday, July 10, 2014, and will close at 2200 UTC on Thursday, July 17, 2014.
 
 Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Thursday, July 24, 2014. Votes must be cast by posting an on-list reply to this thread.

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-01-18-2023-01-18-minutes-of-the-s-mime-certificate-working-group/
+- /2023/01/18/2023-01-18-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-01-18 20:05:30
 tags:

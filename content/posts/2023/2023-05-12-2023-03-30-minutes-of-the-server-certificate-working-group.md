@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-05-12-2023-03-30-minutes-of-the-server-certificate-working-group/
+- /2023/05/12/2023-03-30-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2023-05-12 09:25:16
 tags:
@@ -10,11 +10,9 @@ title: 2023-03-30 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-# **Server Certificate Working Group Meeting
+# Server Certificate Working Group Meeting March 30, 2023
 
-March 30, 2023**
-
-**Attendance: **Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Chris Kemmerer – ([SSL.com][1]), Clint Wilson – (Apple), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dimitris Zacharopoulos – (HARICA), Ellie Lu – (TrustAsia Technologies, Inc.), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Janet Hines – (VikingCloud), Joanna Fox – (TrustCor Systems), Johnny Reading – (GoDaddy), Jos Purvis – (Fastly), Jozef Nigut – (Disig), Kiran Tummala – (Microsoft), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Pedro Fuentes – (OISTE Foundation), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Stephen Davidson – (DigiCert), Steven Deitte – (GoDaddy), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – ([SSL.com][1]), Tobias Josefowitz – (Opera Software AS), Wayne Thayer – (Fastly)
+\*\*Attendance: \*\*Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Chris Kemmerer – ([SSL.com][1]), Clint Wilson – (Apple), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dimitris Zacharopoulos – (HARICA), Ellie Lu – (TrustAsia Technologies, Inc.), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Janet Hines – (VikingCloud), Joanna Fox – (TrustCor Systems), Johnny Reading – (GoDaddy), Jos Purvis – (Fastly), Jozef Nigut – (Disig), Kiran Tummala – (Microsoft), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Pedro Fuentes – (OISTE Foundation), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Stephen Davidson – (DigiCert), Steven Deitte – (GoDaddy), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – ([SSL.com][1]), Tobias Josefowitz – (Opera Software AS), Wayne Thayer – (Fastly)
 
 Inigo confirmed attendance
 

@@ -1,16 +1,16 @@
 ---
 aliases:
-- /2018-06-06-minutes-for-ca-browser-forum-f2f-meeting-44-london-6-7-june-2018/
+- /2018/06/06/minutes-for-ca-browser-forum-f2f-meeting-44-london-6-7-june-2018/
 author: Ben Wilson
 date: 2018-06-06 04:10:11
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 44 Meeting in London, England, 6-7 June 2018
 type: post
 ---
 
-**CA/Browser Face-to-Face Meeting Minutes, 6-7 June 2018 – London, UK**
+## CA/Browser Face-to-Face Meeting Minutes, 6-7 June 2018 – London, UK
 
 **Attendees:** Robin Alden, Comodo CA; Don Sheehy, WebTrust/CPA Canada; Jeff Ward, WebTrust/BDO; Gord Beal, CPA Canada; Enrico Entschew, D-TRUST; Arno Fiedler, D-TRUST; Kirk Hall, Entrust Datacard; Bruce Morton, Entrust Datacard; Wayne Thayer, Mozilla; Frank Corday, Trustwave; Neil Dunbar, TrustCor; Mike Reilly, Microsoft; Aleksandra Kapinos, ADS SA; Barbara Stysiak, ADS SA; Atsushi Inaba, GlobalSign; Cecilia Kam, GlobalSign; Richard Wang, 360 Group; Tim Hollebeek, DigiCert; Phill Hallam-Baker, Comodo Group Inc; Dimitris Zacharopoulos, HARICA; Tim Shirley, Trustwave; Li-Chun Chen, Chunghwa Telecom; Nick Pope, ETSI ESI Vice Chair; Zhang Yi, CFCA; Bhanu Deoraj, National Center for Digital Certification; Naif Murizeeq S. Al Otaibi, National Center for Digital Certification; J.P. Hamilton, Cisco Systems, Inc; Tony Seymour, Comsign Europe, Comda; Adriano Santoni, Actalis S.p.A.; Curt Spann, Apple; Devon O’Brien, Google; Ryan Sleevi, Google; Iñigo Barreira, 360; Jiuqiang Cui, SHECA; Xingkun Tang, SHECA; Toria Chen, SHECA; Mads Henriksveen, Buypass; Peter Miskovic, Disig; Wei Yicai, GDCA; Xiu Lei, GDCA; Dai Yeqi, SHECA; Tadahiko Ito, SECOM; Dean Coclin, DigiCert; Ben Wilson, DigiCert; Franck Leroy, Docapost – Certinomis; Man HO, Certizen Limited (the operator of Hongkong Post Certification Authority); Tyler Myers, Godaddy; Leo Grove, SSL.com; Fotis Loukos, SSL.com; Trevoli Ponds-White, Amazon Trust Services; Michael Slaughter, Amazon Trust Services; Daymion Reynolds, Go Daddy; Xu Jiang, CTI Certificate Authority; Tony Nagel, QuoVadis; Travis Graham, Go Daddy; Alex Wight, Cisco; Rob Stradling, Comodo CA; Nick France, Comodo CA; Monika Radziewicz-Lepczynska, TUVIT/ACABc; Christoph Sutter, TUVIT/ACABc; Jeremy Rowley, DigiCert; Robert Duncan, Netcraft; Doug Beattie, GlobalSign; Tony Perez, GoDaddy; Mike Kushner, PrimeKey; Tom Lowenthal, Brave; David Hsiu, KPMG, Taiwan; Moudrick Dadashov, SSC; Ryan Hurst, Google; Mark Goodwin, Mozilla; Marcelo Silva, Visa; Geoff Keating, Apple; Bailey Basile, Apple.
 
@@ -130,7 +130,7 @@ Ryan S commented that unclear and undefined rules for distrusting CAs might be p
 - Ryan discussed some of the research studies that the Chrome team is conducting around security indicators, including not-yet-published research, to solicit feedback from CAs about possible areas of consideration
 - Certificate Transparency
 - Main stakeholders are CT Log operators, CAs and User Agents
-- Best practices shall be published including results from the “CT Days”. Ryan and Devon welcomed participation in  for issues related to CT that are not necessarily “Chrome-specific”. They consider the  forum a public forum for the CT ecosystem.
+- Best practices shall be published including results from the “CT Days”. Ryan and Devon welcomed participation in for issues related to CT that are not necessarily “Chrome-specific”. They consider the forum a public forum for the CT ecosystem.
 - Chrome team has contacted CAs that issued certificates with potential problems with the CT enforcement. These problems will appear when Chrome 68 is published as stable.
 - Yeti, Nimbus, Argon are now Qualified, which are definitely usable for Chrome 68 and the CT enforcement. For the future, the Chromium team will be announcing when a log is safely “usable” so that CAs can start logging to these new logs.
 - Full page interstitial for not CT compliance
@@ -159,7 +159,7 @@ This is expected to mitigate some potential risks from accidental usage (use a k
 
 **Presenter**: Mike Reilly **Minute Taker**: Tim
 
-- Reminder that  should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members.
+- Reminder that should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members.
 - Updated CA application process released on our site’s Certificate Authority Intake Process page (.)
 - Root Change request form coming for any CA initiated changes. Available for download on our site shortly.
 - Continuing to build out our Crypto Business Intelligence (BI) to manage our root store. This includes use of Windows 10, SmartScreen and CT Monitor telemetry. This capability enables us to better understand the impact of changes to roots, either Microsoft or CA initiated, and how those changes may impact our customers.
@@ -171,15 +171,15 @@ This is expected to mitigate some potential risks from accidental usage (use a k
 
 Reminder on the different states of roots in the Microsoft Trusted Root Programs:
 
-**Root Certificate Expiration**
+## Root Certificate Expiration
 
 Each root certificate has a validity period with a defined Start and End date. The validity period enables new certificates to be signed during that period. Customers will find roots that are expired are still in the Microsoft Certificate Trust List. This is because of Code Signing and Time Stamping. Microsoft doesn’t want to unnecessarily impair our customer’s ability to run valid applications and code that has been written years ago. For these applications to properly execute, they must chain to a root certificate in the Certificate Trust List. For example: To ensure that our customers can run their copy of Age of Empires, which was released in 2003, the root certificate that issued the certificate that signed that code must be retained in Windows indefinitely.
 
-**Certificate Removal**
+## Certificate Removal
 
 The Trusted Root Program removes the certificate from the program. All certificates that chain to this root are no longer valid. Any code signed by a removed certificate is no longer trusted by Windows.
 
-**Disable**
+## Disable
 
 The ability to Disable a root was introduced in Windows10RS1. Before the Disable functionality was introduced, Microsoft’s only ability to prevent certificate issuance from the root was Removal. This had consequences for Microsoft Windows users when Code Signing and Time Stamping were involved. By disabling a root, Microsoft is able to revoke all EKU capabilities while still allowing Code Signing and Time Stamped code to function.
 
@@ -267,7 +267,7 @@ CABF public post from Don and Jeff March 15, 2017 provided definition of:
 - Replacement of Webtrust.org with CPA Canada –
 - More detailed license and process considerations for auditors, including international
 - Analysis of new ISO 21188 – recently released
-- Public key infrastructure for financial services — Practices and policy framework
+- Public key infrastructure for financial services - Practices and policy framework
 - Last version was basis for WebTrust for CA vs 2.0
 - ISO 21188:2018 sets out a framework of requirements to manage a PKI through certificate policies and certification practice statements and to enable the use of public key certificates in the financial services industry.
 - Defines control objectives and supporting procedures to manage risks.
@@ -435,7 +435,7 @@ RS – TSPs should discuss the matter with Counsel. It is not the place of the f
 
 Dimitri – Regarding Data Retention in contravention of s Subject’s request to delete ….Is compliance with BRs/Industry best practice a “Legal Basis” to allow override of request to delete??
 
-Further discussions: GDPR applies to “natural persons” - Is an IP address personal data? - Is there any impact on CT Logs - Make up your own mind! - Article 17 gives some ability to work around the general provisions of “Right to be Forgotten” Concludes with “seek your own Counsel (Legal Advice) and bring specific concerns to the Forum (as regards potential changes required for the BRs).
+Further discussions: GDPR applies to “natural persons” • Is an IP address personal data? • Is there any impact on CT Logs • Make up your own mind! • Article 17 gives some ability to work around the general provisions of “Right to be Forgotten” Concludes with “seek your own Counsel (Legal Advice) and bring specific concerns to the Forum (as regards potential changes required for the BRs).
 
 ## New S/MIME Working Group Charter
 
@@ -487,7 +487,7 @@ Kirk-we passed the new bylaws because we had a large number of CAs that know cod
 - subscriber requests revocation in writing
 - compromised private key
 - CA determines cert is not authorized to be issued
-- (**new**  ) CA determines faulty validation was used (whether validation method or problematic cctld for example)
+- (**new** ) CA determines faulty validation was used (whether validation method or problematic cctld for example)
 - proposed – CA shall support all the validation methods to verify “owner” can request revocation, but getting pushback because not all CAs support all validation methods
 - slippery slope on revoking certs on sites with “misleading” information
 - remove subsection 13, doesn’t makes sense as it applies to intermediate certs
@@ -499,7 +499,7 @@ Kirk-we passed the new bylaws because we had a large number of CAs that know cod
 - Ryan S – legacy vs modern CAs differ on what “misuse” means
 - Kirk – auditors never complained about this, proposed that this definition has worked fine thus far. Objects to the definition change.
 - Wayne – disagrees with Kirk, asking for better definition
-- Ryan S – this definition change does not impact current CA operations, but the says current definition is causing problems. People on msdp have posted questions on “what is misuse”? (see  )
+- Ryan S – this definition change does not impact current CA operations, but the says current definition is causing problems. People on msdp have posted questions on “what is misuse”? (see )
 - Geoff – sounds familiar, this was debated last year
 - Wayne – will put something forth that hopefully most everyone can agree on
 - lively debate, discussion will continue
@@ -508,7 +508,7 @@ Kirk-we passed the new bylaws because we had a large number of CAs that know cod
 
 **Presenter**: (Kirk) **Minute Taker**: Ben
 
-This agenda item was for discussion of who should sign the new IPR Agreement. One position might be that everyone needs to sign the IPR Agreement—every representative of a Member, Associate Member, or Interested Party. While this might be technically right, from a practical standpoint this hasn’t been what we have done. The Bylaws provide that as a condition of membership, Members must sign the IPR Agreement. All Interested Parties must sign the IPR Agreement to get whatever benefit there is when being an Interested Party. Then there are Associate Members, which consist of organizations who we find useful to our work—ETSI, WebTrust, ACAB’C, and a few others. ETSI has a prohibition on signing the Agreement because the CAB Forum is not a legal entity, it is just a name. In 2009 ETSI signed a letter of understanding instead, which we accepted and continue to accept for them so that they can continue as an Associate Member. One issue that Chair considered when receiving these new IPR Agreements was determining the official representatives of the Associate Members. The solution would be for the Associate Members to identify their official representatives. They should be able to update their list at any time. The purpose is to have a list by which we can confirm representation whenever someone walks through the door. If they are not a representative, then they can participate as Interested Parties. The Bylaws provide that “Interested Parties and others may be invited by the Chair, in the Chair’s discretion, to participate in those portions of Forum Teleconferences and Forum Meetings that are relevant to their expertise or their participation in a CWG.”
+This agenda item was for discussion of who should sign the new IPR Agreement. One position might be that everyone needs to sign the IPR Agreement-every representative of a Member, Associate Member, or Interested Party. While this might be technically right, from a practical standpoint this hasn’t been what we have done. The Bylaws provide that as a condition of membership, Members must sign the IPR Agreement. All Interested Parties must sign the IPR Agreement to get whatever benefit there is when being an Interested Party. Then there are Associate Members, which consist of organizations who we find useful to our work-ETSI, WebTrust, ACAB’C, and a few others. ETSI has a prohibition on signing the Agreement because the CAB Forum is not a legal entity, it is just a name. In 2009 ETSI signed a letter of understanding instead, which we accepted and continue to accept for them so that they can continue as an Associate Member. One issue that Chair considered when receiving these new IPR Agreements was determining the official representatives of the Associate Members. The solution would be for the Associate Members to identify their official representatives. They should be able to update their list at any time. The purpose is to have a list by which we can confirm representation whenever someone walks through the door. If they are not a representative, then they can participate as Interested Parties. The Bylaws provide that “Interested Parties and others may be invited by the Chair, in the Chair’s discretion, to participate in those portions of Forum Teleconferences and Forum Meetings that are relevant to their expertise or their participation in a CWG.”
 
 Kirk presented a strawman proposal that for the official representatives of Associate Members we do not require their firms to sign the IPR Agreement. Ryan suggested that IP legal counsel were key to the discussion. Ben asked what we would do about ETSI and whether anyone appearing on behalf of ETSI would be willing to sign the IPR Agreement as an individual, in situations where we cannot get the Associate Member to sign the IPR Agreement. Nick stated that, as referenced previously, for ETSI to sign a legal agreement it needs an entity to sign with. ETSI’s IPR Policy requires disclosures and has a requirement for reasonable licensing but not free licensing. So that has created problems before when ETSI has tried to establish liaisons. He said that because he is presenting standards, not on behalf of himself or his company, he would have difficulty signing something that said that he was acting as an individual. One possible workaround is to rely on Forum Members who are also members of ETSI to relay information. There would need to be a disclaimer that information exchanged is not officially from ETSI, but this would make it more difficult to have the free exchange of information as we’ve done in the past. Sometimes draft ETSI documents will be presented and Forum members will give comments on those documents. Kirk noted that the IPR Agreement isn’t actually with the Forum. The IPR Agreement says, “\[it\] constitutes a binding contract amongst all participants of the CAB Forum (“Participants”) that execute the Agreement.” Nick said he could go back to ETSI on this point, but that he doubts that ETSI’s position would change.
 
@@ -527,25 +527,37 @@ Kirk requested that Governance Reform Working Group provide clarifications on th
 **Presenter**: (Nick) **Minute Taker**: Tim
 
 - Discussed on call about a month ago and passed on to VWG
+
 - Ryan S asked if Nick got notes, and Nick confirmed
+
 - Main requirement: to open up EU banks to provide services
+
 - Issued as a directive; up to each country on whether or not it adopts
+
 - One of the rules is that you have to use qualified certificates for SSL and digital signatures (electronic seal)
+
 - Allows banks to authenticate and exchange data
+
 - Includes requirement to include unique identifier in certificate alongside the name
+
 - Banks must provide test interface by March 14, 2019 and be operational by September 14, 2019.
+
 - Have developed standard for satisfying the requirement, by using the organizationIdentifier attribute of the Subject DN
+
 - Defined Format: identifier of value type, country code, dash, identifier number
+
 - Highest priority was to secure connection between the third party processor and the bank, which isn’t in scope for CA/B Forum. But it is expected that those parties would like to provide the same authorization identifier to their customers. This provides a hook into ascertaining if this is a bona fide service provider. Is what we’re doing going to work in the public domain?
+
 - Proposal to extend EV guidelines to explicitly list organizationIdentifier in 9.2.x.
+
 - Specific exclusion of NTR as an option since that value should go in serialNumber. Open to removing this if desired.
+
 - Questions
 
-* - Is the text appropriate or reasonable?
+- - Is the text appropriate or reasonable?
+    - How do we handle semantics indicating how you interpret it?
 
-- How do we handle semantics indicating how you interpret it?
-
-Ryan S: How and Why. First part of why is understandable (TPP \<-> Bank). Doesn’t need to be in publicly-trusted certificates. Second part is crux of question: should this overlap public PKI? Are you describing bank to browser experience? (Yes, but would like client assistance) Would this provide value? No, without changes to browsers. Sounds unlikely. Would browsers expose additional information to extensions to allow them to show this? Unknown. How well does this align with security models? (There are people who have the ability to get the information even if it’s not shown in the browser. Banking community is asking how can we do this.)
+Ryan S: How and Why. First part of why is understandable (TPP [-](-) Bank). Doesn’t need to be in publicly-trusted certificates. Second part is crux of question: should this overlap public PKI? Are you describing bank to browser experience? (Yes, but would like client assistance) Would this provide value? No, without changes to browsers. Sounds unlikely. Would browsers expose additional information to extensions to allow them to show this? Unknown. How well does this align with security models? (There are people who have the ability to get the information even if it’s not shown in the browser. Banking community is asking how can we do this.)
 
 Marcelo: Believe this is worth looking further into this use case. Private PKI vs. public
 

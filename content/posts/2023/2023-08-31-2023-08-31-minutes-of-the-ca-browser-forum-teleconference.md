@@ -1,29 +1,25 @@
 ---
 aliases:
-- /2023-08-31-2023-08-31-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/08/31/2023-08-31-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-08-31 00:57:47
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-08-31 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
 Minutes prepared by Kiran Tummala (Microsoft).
 
-**Attendance
-**
+**Attendance**
 
-Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Ben Wilson – (Mozilla), Bilal Ashraf – (SSL.com), Brianca Martin – (Amazon), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Daryn Wright – (GoDaddy), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Enrico Entschew – (D-TRUST), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Joanna Fox – (TrustCor Systems), Johnny Reading – (GoDaddy), Jos Purvis – (Fastly), Li-Chun Chen – (Chunghwa Telecom), Lynn Jeun – (Visa), Marcelo Silva – (Visa), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Mrugesh Chandarana – (IdenTrust), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Nome Huang – (TrustAsia Technologies, Inc.), Paul van Brouwershaven – (Entrust), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Roman Fischer – (SwissSign), Ryan Dickson – (Google), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Tobias Josefowitz – (Opera Software AS), Wayne Thayer – (Fastly), Wendy Brown – (US Federal PKI Management Authority), Yoshihiko Matsuo – (Japan Registry Services), Yoshiro Yoneya – (Japan Registry Services).**
-**
+Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Ben Wilson – (Mozilla), Bilal Ashraf – (SSL.com), Brianca Martin – (Amazon), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Daryn Wright – (GoDaddy), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Enrico Entschew – (D-TRUST), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Joanna Fox – (TrustCor Systems), Johnny Reading – (GoDaddy), Jos Purvis – (Fastly), Li-Chun Chen – (Chunghwa Telecom), Lynn Jeun – (Visa), Marcelo Silva – (Visa), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Mrugesh Chandarana – (IdenTrust), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Nome Huang – (TrustAsia Technologies, Inc.), Paul van Brouwershaven – (Entrust), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Roman Fischer – (SwissSign), Ryan Dickson – (Google), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Tobias Josefowitz – (Opera Software AS), Wayne Thayer – (Fastly), Wendy Brown – (US Federal PKI Management Authority), Yoshihiko Matsuo – (Japan Registry Services), Yoshiro Yoneya – (Japan Registry Services).
+## Minutes
 
-**Minutes**
-
-1. **Roll Call
-**
-1. **Note-well:** Dimitris read the note-well.
-1. **Review of Agenda**
+1. **Roll Call**
+2. **Note-well:** Dimitris read the note-well.
+3. **Review of Agenda**
 
 There were no changes to the agenda.
 
@@ -70,12 +66,10 @@ Validation Subcommittee Update:
 
 Reviewed reorganization of network security requirements.
 
-**10.** **SCWG charter update
-**
+**10. SCWG charter update**
 No update**
-**
 
-11. **Separation of Forum and SCWG bi-weekly Teleconference**
+1.  **Separation of Forum and SCWG bi-weekly Teleconference**
 
 Dimitris will send an email to the management list and a survey to choose the best time and date for the forum.
 

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2022-12-01-2022-12-01-minutes-of-the-code-signing-certificate-working-group/
+- /2022/12/01/2022-12-01-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2022-12-01 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2022-12-01 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Andrea Holland – (SecureTrust), Bruce Morton – (Entrust), Corey Bonnell – (DigiCert), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Ian McMillan – (Microsoft), Inaba Atsushi – (GlobalSign), Janet Hines – (SecureTrust), Martijn Katerbarg – (Sectigo), Roberto Quionones – (Intel), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek – (DigiCert), Tomas Gustavsson – (PrimeKey), Trevoli Ponds-White – (Amazon)
 
-## Minutes 
+## Minutes
 
 1. The Anti-trust statement was read
 1. Minutes of the last call were approved. Minutes from the F2F will be approved on the next call after the attendance is added.
@@ -40,7 +40,7 @@ Dimitris Zacharopoulos: Well, if there is a malware out there that causes real d
 
 Tim Hollebeek: Well, it’s certainly an option, but, I mean, going beyond what we currently have written, you would have to mandate some rules around how what dates you can and can’t use. Right? And, I don’t know, perhaps somebody smarter than I can come up with language for that would actually work but I’m kind of skeptical that the language can be written. I could be wrong.
 
-Ian McMillan:  I’m with what Tim’s saying here, and there’s tons of cases that that will encounter with commodity malware that’s been signed that a revocation of that certificate has very little impact of the broad ecosystem, but there are those edge cases, and they’re becoming more and more prevalent. unfortunately, where the impact of that revocation is way too big, and it actually has more impact and damage than the malware is having on the ecosystem if we were to do that revocation. Drivers are a great case in point, where it can cause blue screens on devices, but I don’t know how we write that language other than saying, you know what Tim was saying, you work with your root programs to determine what’s the right backdating but I don’t I don’t know how we write good language that someone can actually audit that.
+Ian McMillan: I’m with what Tim’s saying here, and there’s tons of cases that that will encounter with commodity malware that’s been signed that a revocation of that certificate has very little impact of the broad ecosystem, but there are those edge cases, and they’re becoming more and more prevalent. unfortunately, where the impact of that revocation is way too big, and it actually has more impact and damage than the malware is having on the ecosystem if we were to do that revocation. Drivers are a great case in point, where it can cause blue screens on devices, but I don’t know how we write that language other than saying, you know what Tim was saying, you work with your root programs to determine what’s the right backdating but I don’t I don’t know how we write good language that someone can actually audit that.
 
 Dimitris Zacharopoulos: Usually we write the requirements that, we serve the majority of cases and then we can focus on the edge cases. If you’re saying, the edge cases are more than the normal cases, then it’s a little bit reversed. And for this particular one, we are so flexible that a CA can decide whether to backdate or not back date, you know, depending on the language, so that’s audited.
 
@@ -108,7 +108,7 @@ Why offer that option to the subscriber when, you might, they might only be 3 da
 
 Bruce: So you’re basically saying it should be 7 days, is the maximum and this, and we can revoke earlier and that’s really the subscribers call.
 
-Trevoli: No I’m saying we shouldn’t give the subscriber an option.  The problem with giving the subscriber an option is, what if it’s a three day weekend in the country that the subscriber is in?
+Trevoli: No I’m saying we shouldn’t give the subscriber an option. The problem with giving the subscriber an option is, what if it’s a three day weekend in the country that the subscriber is in?
 
 Bruce Morton: But if I have the subscriber who wants that certificate revoked now? And then why would I carry it out for 7 days?
 
@@ -124,7 +124,7 @@ Martijn Katerbarg: But the CA doesn’t need to agree with that. Even the CA can
 
 Trevoli: They can I, I guess what I’m saying is, including that language implies that we have to have a back and forth discussion and offer options.
 
-Tim Hollebeek: I actually think Trev is  onto something. I don’t see how the 72 hours actually makes this proposal a lot better. The contact within 24 hours is great. I don’t see why whether the subscriber responds or not.
+Tim Hollebeek: I actually think Trev is onto something. I don’t see how the 72 hours actually makes this proposal a lot better. The contact within 24 hours is great. I don’t see why whether the subscriber responds or not.
 
 I mean, starting with it, it’s sometimes subscribers, like Trev said, there are a variety of reasons why they may not respond within 24 hours and having that language that implies that there is sort of this back and forth negotiation and a lot of times these emails take, because it’s kind of a tense situation sometimes, you know, the conversations don’t go particularly quickly. Having it this complicated is going to cause more problems than it solves.
 
@@ -144,9 +144,9 @@ Ian McMillan: What if I go the other way, what if I’m Solar Winds and I come a
 
 Trevoli: I think that kind of like two options off the top of my head are:
 
-We acknowledge that that is a situation that is untethered from the rules and undesirable  but you have to notify the trust stores to let them know that this is a thing that you were going to do is you’re just going to literally be in violation of the rules and this is why.
+We acknowledge that that is a situation that is untethered from the rules and undesirable but you have to notify the trust stores to let them know that this is a thing that you were going to do is you’re just going to literally be in violation of the rules and this is why.
 
-Or, and, I’m dubious that this is ideal or that we should change the revocation requirements to carve out a process by which CAs can say, or submit a plan similar to the, In the network requirements, how there’s that thing where you have to fix a critical, or you have to have a plan within 96 hours.  But, I mean that’s kind of the thing, like, I think that if you acknowledge that, that’s always something someone has to make an incident report for. I mean, that it’s a formal process through the browser programs and it’s always a violation.
+Or, and, I’m dubious that this is ideal or that we should change the revocation requirements to carve out a process by which CAs can say, or submit a plan similar to the, In the network requirements, how there’s that thing where you have to fix a critical, or you have to have a plan within 96 hours. But, I mean that’s kind of the thing, like, I think that if you acknowledge that, that’s always something someone has to make an incident report for. I mean, that it’s a formal process through the browser programs and it’s always a violation.
 
 In Mozilla, it would just go in your audit report.
 
@@ -158,11 +158,11 @@ Ian McMillan: Yeah, that’s great. Tim.
 
 Trevoli: I think that’s a lot more clear to.
 
-Corey Bonnell: If the risk of making this more complicated, I’m wondering if maybe there should be another aspect we should be looking at additionally and that’s with code signing certificates if you revoke code signing certificates, all signed software doesn’t necessarily become invalidated. It’s based on,  if it’s time stamped code, it could still be potentially valid, if the revocation date was after the time of signing.
+Corey Bonnell: If the risk of making this more complicated, I’m wondering if maybe there should be another aspect we should be looking at additionally and that’s with code signing certificates if you revoke code signing certificates, all signed software doesn’t necessarily become invalidated. It’s based on, if it’s time stamped code, it could still be potentially valid, if the revocation date was after the time of signing.
 
 I’m wondering if maybe we want to add some language here like, you work with a subscriber to determine the earliest time of compromise, because, the case where you have device drivers or something like that, that might have been signed and timestamped before the time of compromise, there’s no reason to invalidate those but the things that are signed after the compromise, reasonably you would want to invalidate.
 
-Tim Hollebeek: You’re absolutely right, but I’m trying to avoid writing language around that just because I’ve been involved in these efforts and I think your chances of writing language that successfully captures what you said is zero, at least, in any meaningful way. It’s going to have caveats where people are, that’s sort of the world we live in today where it’s like, yeah, you’re supposed to make a best effort to determine what the appropriate revocation date is in backdated to the appropriate time and it’s really messy and I think you do have to kind of make it a little bit more flexible in the way we discussed. This is one of those areas where at some point, there has to be some discretion for CAs,  and root programs have to incorporate into their evaluation of CAs, how CAs use their discretion within the lines, in addition to whether they are crossing the lines.  I think it’s perfectly reasonable to have a conversation with a CA that consistently takes 6 days and 23 hours about whether they are actually following the spirit of the requirements even if they’re following the strict requirements. I don’t know that you can get better than that.
+Tim Hollebeek: You’re absolutely right, but I’m trying to avoid writing language around that just because I’ve been involved in these efforts and I think your chances of writing language that successfully captures what you said is zero, at least, in any meaningful way. It’s going to have caveats where people are, that’s sort of the world we live in today where it’s like, yeah, you’re supposed to make a best effort to determine what the appropriate revocation date is in backdated to the appropriate time and it’s really messy and I think you do have to kind of make it a little bit more flexible in the way we discussed. This is one of those areas where at some point, there has to be some discretion for CAs, and root programs have to incorporate into their evaluation of CAs, how CAs use their discretion within the lines, in addition to whether they are crossing the lines. I think it’s perfectly reasonable to have a conversation with a CA that consistently takes 6 days and 23 hours about whether they are actually following the spirit of the requirements even if they’re following the strict requirements. I don’t know that you can get better than that.
 
 Dimitris Zacharopoulos: Well, judging from the entire conversation, I think from what I’ve heard there is a lot of a burden being shifted from the certificate consumer here to the CA, about determining the impact to the ecosystem, meaning that, a successful hacker is going to 1st,
 
@@ -194,7 +194,7 @@ We’re fine with combined audit reports?
 
 Dimitris Zacharopoulos: thumbs ups are from me and Ian.
 
-Bruce Morton: Okay, so Martijn is not on the call now but was asking if this fine that we changed it from manufacturer certificate to basically a certification type of  certificate.
+Bruce Morton: Okay, so Martijn is not on the call now but was asking if this fine that we changed it from manufacturer certificate to basically a certification type of certificate.
 
 Tim Hollebeek: I think that’s what was meant, right?
 
@@ -246,11 +246,11 @@ We should have a date when we have to go to that. I never thought of that. A dat
 
 The other question is, is there any existing signing service out there that’s using Level 2? If there’s none, then, maybe we don’t need a date
 
-Ian McMillan:  I don’t know.
+Ian McMillan: I don’t know.
 
-Tim Hollebeek: the other thing is we could just put a date just because, but here’s the problem and we need to look into that because we could put a date because if there isn’t one, it doesn’t matter. But the problem is, if we pick a date,  and if somebody is using a level two HSM in a signing service, replacing an HSM is not something you do on a short timeline. So if there is anybody, I think we need everybody to just kind of go and say, hey, I’ll check and make sure what we’re using and, but, yeah, we should publicize it pretty widely.
+Tim Hollebeek: the other thing is we could just put a date just because, but here’s the problem and we need to look into that because we could put a date because if there isn’t one, it doesn’t matter. But the problem is, if we pick a date, and if somebody is using a level two HSM in a signing service, replacing an HSM is not something you do on a short timeline. So if there is anybody, I think we need everybody to just kind of go and say, hey, I’ll check and make sure what we’re using and, but, yeah, we should publicize it pretty widely.
 
-Bruce Morton:  I would push this out to whatever, greater than 6 months after the ballot was approved. So I don’t know what that date would be
+Bruce Morton: I would push this out to whatever, greater than 6 months after the ballot was approved. So I don’t know what that date would be
 
 Ian McMillan: I would say, 12 months
 
@@ -258,9 +258,9 @@ Tim Hollebeek: Yeah if we’re just going to pick a random date to avoid having 
 
 And I actually we’re going to go and look anyway, because even 12 months can be a little bit interesting for changing HSMs at scale.
 
-Bruce Morton:  I’m just going to say I need to do that.
+Bruce Morton: I’m just going to say I need to do that.
 
-Dimitris Zacharopoulos: it’s more than the HSM,  it’s also an audit.
+Dimitris Zacharopoulos: it’s more than the HSM, it’s also an audit.
 
 Tim Hollebeek: Exactly. But, I think it’s good for everybody just look at whether level 2 signing services exist or not, and then maybe we can get away with just not having a date and just saying, okay.
 
@@ -272,13 +272,13 @@ Bruce Morton: I didn’t know if it just meant remotely signs a hash of the code
 
 Dimitris Zacharopoulos: And I also didn’t want to use the word hash.
 
-Ian McMillan:  I’ve seen 2 types of signing services, there’s the ones that ingest the content that they intend to sign and they’re signing the code itself, or like, what Dimitris is calling out there, just ingesting the digest hash that needs to be signed.
+Ian McMillan: I’ve seen 2 types of signing services, there’s the ones that ingest the content that they intend to sign and they’re signing the code itself, or like, what Dimitris is calling out there, just ingesting the digest hash that needs to be signed.
 
 Bruce Morton: doesn’t the service take the code, create a hash and that’s what it signs or it gets a hash and that’s what it signs? Doesn’t it sign the same thing In both cases?
 
-Ian McMillan: not always, we have even in our internals, we have digests signing process where we have sign tool only send us a digest. We’ve created a plug in that works with sign tool that,  we never ingest the code for our signing service. The signing service only ever gets and we only ever process the hash that needs to be signed that was created by the sign tool
+Ian McMillan: not always, we have even in our internals, we have digests signing process where we have sign tool only send us a digest. We’ve created a plug in that works with sign tool that, we never ingest the code for our signing service. The signing service only ever gets and we only ever process the hash that needs to be signed that was created by the sign tool
 
-Bruce Morton:  I’m in I’m in agreement with you there, but in the end, do we only sign the hash regardless of what we received?
+Bruce Morton: I’m in I’m in agreement with you there, but in the end, do we only sign the hash regardless of what we received?
 
 (Ian: yeah). Okay. So, why do we have an “or” if we’re only signing 1 thing?
 
@@ -304,7 +304,7 @@ Tim Hollebeek: I think I think we still have to say that outside of the definiti
 
 Bruce Morton: Then should we put the word _hash_ in this? Because I think code signing is more of a marketing term than it is a technical term. It doesn’t sound like a spec term. Unless we go and define, or have we defined code signing?
 
-Dimitris Zacharopoulos:  when we define a signing service, the best place to clarify what we mean by signing service is the definition itself. But for the implementation of and requirements around signing services I agree we should put it in a different place but we’re just talking about the definition
+Dimitris Zacharopoulos: when we define a signing service, the best place to clarify what we mean by signing service is the definition itself. But for the implementation of and requirements around signing services I agree we should put it in a different place but we’re just talking about the definition
 
 Tim Hollebeek: But that’s the thing that I disagree with you about. I think the clarification isn’t about the definition.
 
@@ -330,9 +330,9 @@ Trevoli: Do we need to define code? I know they’re called code signing certifi
 
 Tim: We do have a definition. It is defined.
 
-Trevoli: No, no,  I’d say, do we need to? Does the word code need to be inside in the signing service definition.
+Trevoli: No, no, I’d say, do we need to? Does the word code need to be inside in the signing service definition.
 
-Bruce:  I don’t think so, but,
+Bruce: I don’t think so, but,
 
 Trevoli: I mean, we care more about who’s controlling the keys then what is being signed?
 
@@ -348,7 +348,7 @@ Dimitris Zacharopoulos: But we have a plan to add some more requirements to the 
 
 Tim Hollebeek: Right. And so that’s the interesting thing is, it actually really is an interesting question of whether the signing services required to see the code or not. And, in fact, we may actually end up diverging into the spot where we may actually include in signatures at some point in the future, whether the signing service has seen the object it has signed or not. Because of the fact that, in the case of only the hash was submitted, obviously, it wasn’t scanned.
 
-Ian McMillan:  I don’t I don’t think it’s requiring scanning. It’s too overarching and it gets into confidentiality issues. I don’t want to see missile targeting system software ever in a signing service.
+Ian McMillan: I don’t I don’t think it’s requiring scanning. It’s too overarching and it gets into confidentiality issues. I don’t want to see missile targeting system software ever in a signing service.
 
 Bruce Morton It’s the wrong direction as well. I thought the direction was we were trying to protect the keys and not….
 
@@ -386,7 +386,7 @@ Dimitris Zacharopoulos: I thought we wanted to prevent this from happening, so w
 
 Bruce Morton
 
-Agreed.  So we don’t want the signing service to do this, so we’re not allowing the signing service to transport the keys.
+Agreed. So we don’t want the signing service to do this, so we’re not allowing the signing service to transport the keys.
 
 So, we are allowing a CA to create a token and put keys on a token and transport them to the customer.
 
@@ -404,7 +404,7 @@ Bruce Morton: This doesn’t apply to the signing service. This applies that if 
 
 Tim Hollebeek: So these are non signing service keys.
 
-Bruce Morton: Yeah, this is what CAs are currently allowed to do.  Right now we’re allowed to generate soft keys and send them to them as long as they’re encrypted using the 128 bit encryption.
+Bruce Morton: Yeah, this is what CAs are currently allowed to do. Right now we’re allowed to generate soft keys and send them to them as long as they’re encrypted using the 128 bit encryption.
 
 Tim Hollebeek: Yeah, I was just assuming we’re in the signing service section due to the fact that the text previous said signing service, but
 

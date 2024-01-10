@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-09-01-2022-09-01-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/09/01/2022-09-01-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-09-01 17:05:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-09-01 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
@@ -14,23 +14,23 @@ type: post
 
 **Attendees:** Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Clements (Google), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Corey Rasmussen (OATI), Daryn Wright (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Fumi Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Joanna Fox (TrustCor Systems), Jos Purvis (Fastly), Kiran Tummala (Microsoft), Li-Chun Chen (Chunghwa Telecom), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Martijn Katerbarg (Sectigo), Michelle Coon (OATI), Nargis Mannan (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rebecca Kelley (Apple), Ryan Dickson (Google), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-**2.  Antitrust statement**
+**2. Antitrust statement**
 
 The Antitrust statement was read
 
-**3.  Approval of previous meetings**
+**3. Approval of previous meetings**
 
 – Aug 18 meeting minutes were approved
 
 – July 21st meeting minutes were approved
 
-**4.  Forum Infrastructure subcommittee**
+**4. Forum Infrastructure subcommittee**
 
 – Membership tool web site is now in production. Thank you Martijn!
 
 – All data was imported from the current lists so all the profiles should be present. Each Member should log in and check the records.
 
-**5.  Code Signing WG**
+**5. Code Signing WG**
 
 – Discussed ballot regarding revocation in case of signing malware. The WG is close to getting a ballot out for that.
 
@@ -38,7 +38,7 @@ The Antitrust statement was read
 
 – Updates in time-stamping issues coming up.
 
-**6.  S/MIME WG**
+**6. S/MIME WG**
 
 – Pre-ballot discussion period last minute comments/requests for changes.
 
@@ -46,7 +46,7 @@ The Antitrust statement was read
 
 – Several topics are parked for v2 already (CAA, key escrow, etc).
 
-**7.  NetSec WG**
+**7. NetSec WG**
 
 – Update on the threat modelling discussion. Working on a redline specifically around logical and physical equipment protections
 
@@ -56,9 +56,9 @@ Two major topics:
 
 – Trusted Roles and why do we have Trusted Roles, perhaps change the terminology.
 
-**8.  Any Other business**
+**8. Any Other business**
 
-**a. Chair nominations**
+## a. Chair nominations
 
 – Dimitris Zacharopoulos has been nominated as Chair of the Plenary group, Karina is automatically nominated unless she declines.
 
@@ -70,7 +70,7 @@ Two major topics:
 
 – No candidates for SCWG Chair
 
-**b. F2F meeting in Berlin**
+## b. F2F meeting in Berlin
 
 – Berlin meeting is scheduled from Monday to Wednesday during the last week of October. Already have 38 in person participants signed up. Capacity is 60.
 
@@ -82,7 +82,7 @@ Two major topics:
 
 – On Thursday and Friday there is ENISA Trust Services Forum and CA Day event. Very interesting event with many topics for CAs. CABF Members are encouraged to stay until Friday. The event is held at the same location, same building. Sign-up is not open yet but will open soon. It’s limited to 100 persons to be physically present but there is also remote participation capability.
 
-**c.  Spring Meeting**
+## c. Spring Meeting
 
 – March meeting 1st or 2nd week in Ottawa, Canada.
 

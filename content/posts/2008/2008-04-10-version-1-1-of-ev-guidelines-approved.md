@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-04-10-version-1-1-of-ev-guidelines-approved/
+- /2008/04/10/version-1-1-of-ev-guidelines-approved/
 author: Ben Wilson
 date: 2008-04-10 00:18:08
 tags:

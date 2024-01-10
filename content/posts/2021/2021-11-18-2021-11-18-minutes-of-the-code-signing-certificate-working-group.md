@@ -1,34 +1,34 @@
 ---
 aliases:
-- /2021-11-18-2021-11-18-minutes-of-the-code-signing-certificate-working-group/
+- /2021/11/18/2021-11-18-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-11-18 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2021-11-18 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Andrea Holland, Atsushi Inaba, Bruce Morton, Chris Kemmerer, Correy Bonnell, Dimitris Zacharopoulos, Ian McMillan, Inigo Barreira, Kiran Tummala, Sebastian Schulz, Tim Hollebeek
 
-## Minutes 
+## Minutes
 
 Minutes of the previous Meeting were approved
 
-### Discussion regarding SC-50 from Server Working Group 
+### Discussion regarding SC-50 from Server Working Group
 
 – Ballot is concerned with removal of 4.1.1
 
 – Discussion is postponed until any changes are required
 
-### Ballot CSC-12 
+### Ballot CSC-12
 
 – Ballot has passed, in IPR review through 3rd December
 
-### Ballot CSC-6 
+### Ballot CSC-6
 
 – Effective date is set to Sep 1st 2022 based on reccuring feedback from the group
 
@@ -100,7 +100,7 @@ Minutes of the previous Meeting were approved
 
 – Dimitris agrees that it should be updated with the ballot, Ian agrees to update
 
-### Discussion regarding CSBR format change 
+### Discussion regarding CSBR format change
 
 – Corey has been distributing an updated mapping document and incorporated CSC-11 changes
 

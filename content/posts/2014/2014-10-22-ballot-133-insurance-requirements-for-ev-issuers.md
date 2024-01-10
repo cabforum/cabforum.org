@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-10-22-ballot-133-insurance-requirements-for-ev-issuers/
+- /2014/10/22/ballot-133-insurance-requirements-for-ev-issuers/
 author: Ben Wilson
 date: 2014-10-22 01:50:00
 tags:

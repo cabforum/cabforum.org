@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-10-26-ballot-208-dnqualifiers/
+- /2017/10/26/ballot-208-dnqualifiers/
 author: Ben Wilson
 date: 2017-10-26 22:49:30
 tags:
@@ -10,31 +10,31 @@ title: Ballot 208 – dnQualifiers
 type: post
 ---
 
-**Results on Ballot 208 – dnQualifiers**
+## Results on Ballot 208 – dnQualifiers
 
 The voting period for Ballot 208 has ended and the ballot has **failed**. Here are the results.
 
-**Voting by CAs – 14 votes total, including abstentions**
+## Voting by CAs – 14 votes total, including abstentions
 
-13 Yes votes: Amazon, CFCA, Cisco, DigiCert, Entrust, GDCA, GlobalSign, HARICA, Let’s Encrypt, SSL.com, SwissSign, Symantec, Trustwave
+- **13 Yes votes:** Amazon, CFCA, Cisco, DigiCert, Entrust, GDCA, GlobalSign, HARICA, Let’s Encrypt, SSL.com, SwissSign, Symantec, Trustwave
 
-1 No votes: Chunghwa Telecom
+- **1 No votes:** Chunghwa Telecom
 
-2 Abstain: Actalis, Buypass
+- **2 Abstain:** Actalis, Buypass
 
 93% of voting CAs voted in favor
 
-**Voting by browsers – 4 votes total, including abstentions**
+## Voting by browsers – 4 votes total, including abstentions
 
-2 Yes votes: Google, Mozilla
+- **2 Yes votes:** Google, Mozilla
 
-2 No votes: Apple, Microsoft
+- **2 No votes:** Apple, Microsoft
 
-0 Abstain:
+- **0 Abstain:**
 
 50% of voting browsers voted in favor – ballot fails
 
-**Quorum requirements**
+## Quorum requirements
 
 Currently active members: 19
 
@@ -50,15 +50,15 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**Ballot 208 fails.**
+## Ballot 208 fails.
 
-**Ballot 208 – dnQualifiers**
+## Ballot 208 – dnQualifiers
 
 This ballot allows CAs to use dnQualifiers in certificates to partition groups of certificates into different sets and to allow non-identity information to be included in DV certificates.
 
 The following motion has been proposed by Peter Bowen of Amazon and endorsed by Ben Wilson of DigiCert and Ryan Sleevi of Google.
 
-— MOTION BEGINS —
+## Motion begins
 
 In the Baseline Requirements, REPLACE the definition of “Subject Identity Information” with:
 
@@ -70,7 +70,7 @@ In Section 7.1.4.2.2 Subject Distinguished Name Fields, re-letter “j” (Other
 
 - Optional. Contents: This field is intended to be used when several certificates with the same subject can be partitioned into sets of related certificates. Each related certificate set MAY have the same dnQualifier. The CA may include a dnQualifier attribute with a zero length value to explicitly indicate that the CA makes no assertion about relationship with other certificates with the same subject. The CA MAY set the dnQualifer value to the base64 encoding of the SHA1 hash of the subjectAlternativeName extnValue if it wishes to indicate grouping of certificates by alternative name set.
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 

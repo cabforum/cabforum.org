@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-10-23-ballot-207-asn-1-jurisdiction-ev-guidelines/
+- /2017/10/23/ballot-207-asn-1-jurisdiction-ev-guidelines/
 author: Ben Wilson
 date: 2017-10-23 16:37:28
 tags:
@@ -10,29 +10,29 @@ title: Ballot 207 – ASN.1 Jurisdiction in EV Guidelines
 type: post
 ---
 
-**Revised to include yes vote from Trustwave**
+## Revised to include yes vote from Trustwave
 
-**Results on Ballot 207 – ASN.1 Jurisdiction in EV Guidelines**
+## Results on Ballot 207 – ASN.1 Jurisdiction in EV Guidelines
 
 The voting period for Ballot 207 has ended and the ballot has passed. Here are the results.
 
-**Voting by CAs – 17 votes total including abstentions**
+## Voting by CAs – 17 votes total including abstentions
 
-17 Yes votes: Amazon, Buypass, CFCA, Chunghwa Telecom, Comodo, D-TRUST, DigiCert, Entrust, GDCA, GlobalSign, HARICA, QuoVadis, SSL.com, SSC, SwissSign, Symantec, Trustwave
+- **17 Yes votes:** Amazon, Buypass, CFCA, Chunghwa Telecom, Comodo, D-TRUST, DigiCert, Entrust, GDCA, GlobalSign, HARICA, QuoVadis, SSL.com, SSC, SwissSign, Symantec, Trustwave
 
-0 No votes:
+- **0 No votes:**
 
-1 Abstain: OATI
+- **1 Abstain:** OATI
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 4 votes total including abstentions**
+## Voting by browsers – 4 votes total including abstentions
 
-4 Yes votes: Apple, Google, Microsoft, Mozilla
+- **4 Yes votes:** Apple, Google, Microsoft, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -42,15 +42,15 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
+## The ballot passes.
 
-**Ballot 207 – ASN.1 Jurisdiction in EV Guidelines**
+## Ballot 207 – ASN.1 Jurisdiction in EV Guidelines
 
 This ballot clarifies the use of the ASN.1 Jurisdiction of incorporation field used in EV Certificates.
 
 The following motion has been proposed by Peter Bowen of Amazon and endorsed by Ben Wilson of DigiCert and Li Chun Chen of Chunghwa Telecom.
 
-— MOTION BEGINS —
+## Motion begins
 
 In the EV Guidelines, Section 9.2.5 Subject Jurisdiction of Incorporation or Registration Field, under Certificate Fields, STRIKE “ASN.1 – X520LocalityName as specified in RFC 5280”, “ASN.1 – X520StateOrProvinceName as specified in RFC 5280”, and “ASN.1 – X520countryName as specified in RFC 5280” so that “Certificate Fields” reads:
 
@@ -78,19 +78,19 @@ DEFINITIONS ::=
 
 BEGIN
 
-— EXPORTS All
+- EXPORTS All
 
 IMPORTS
 
-— from Rec. ITU-T X.501 | ISO/IEC 9594-2 selectedAttributeTypes, ID, ldap-enterprise
+- from Rec. ITU-T X.501 | ISO/IEC 9594-2 selectedAttributeTypes, ID, ldap-enterprise
 
 FROM UsefulDefinitions {joint-iso-itu-t ds(5) module(1) usefulDefinitions(0) 7}
 
-— from the X.500 series ub-locality-name, ub-state-name
+- from the X.500 series ub-locality-name, ub-state-name
 
 FROM UpperBounds {joint-iso-itu-t ds(5) module(1) upperBounds(10) 7}
 
-— from Rec. ITU-T X.520 | ISO/IEC 9594-6
+- from Rec. ITU-T X.520 | ISO/IEC 9594-6
 
 DirectoryString{}, CountryName
 
@@ -124,7 +124,7 @@ WITH SYNTAX CountryName SINGLE VALUE TRUE LDAP-SYNTAX countryString.&id LDAP-NAM
 
 END
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 

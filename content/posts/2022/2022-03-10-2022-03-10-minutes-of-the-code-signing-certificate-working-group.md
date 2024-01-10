@@ -1,26 +1,26 @@
 ---
 aliases:
-- /2022-03-10-2022-03-10-minutes-of-the-code-signing-certificate-working-group/
+- /2022/03/10/2022-03-10-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2022-03-10 12:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2022-03-10 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Atsushi Inaba – GlobalSign, Bruce Morton – Entrust, Corey Bonnell – DigiCert, Dean Coclin – DigiCert, Dimitris Zacharopoulos – HARICA, Ian McMillan – Microsoft, Inigo Barreira – Sectigo, Joanna Fox – TrustCor, Martin Katerberg – Sectigo, Michael Sykes – SSL.com, Mohit Kumar – GlobalSign, Roberto Quinones – Intel, Tim Hollebeek – DigiCert, Tomas Gustavsson
 
-## Minutes 
+## Minutes
 
 Antitrust statement: read by Dean.
 
 Minutes: Approval of minutes from F2F on hold until people can review.
 
-### CSC-13: Subscriber Private Key Protection (Ian) 
+### CSC-13: Subscriber Private Key Protection (Ian)
 
 Ian – CSC – 6 Had some errors and the creation of 13 is the updated version with fixes. High Risk Applicants is now removed from this ballot. New version of redline under review. New activity on the word ‘representations.’
 
@@ -66,7 +66,7 @@ Tim – As background, the keys in software was controversial 7 years ago, it wa
 
 Ian – Agreed, section can go away once change is made. Asked for endorsers. Tim is willing to endorse, Bruce will endorse after reviewing final version.
 
-### Signing Service (Bruce) conversations inline 
+### Signing Service (Bruce) conversations inline
 
 Goal: Have a ballot by the next F2F. These are notes, looking for support.
 
@@ -79,12 +79,12 @@ Proposed Signing Service items:
 - Signing Service is not an RA, so will not receive certificate requests from an Applicant – CA or Delegated Third Party RA will receive certificate requests (Bruce – It will not perform validation. If it did, it would be Delegated Third Party.)
 - Signing Request requirements will not be defined in the CSBRs (Tim – isn’t this usually called activation? Bruce – maybe we should think more about activation or key activation, signing request isn’t providing much value. Maybe need to remove a 2 factor requirement. Need to figure out manual versus automated.)
 
-#### Private key generation 
+#### Private key generation
 
 - Signing Service must provide evidence to the CA that the private key was created by the Signing Service. (Bruce – If the signing service generated the key it should provide evidence. If we are going down the path that the subscriber can do it, they get evidence from the signing service. If the signing service provides the CSR and certificate requests directly to the CA. Ian – do you have the signing service do the counter signing of the CSR? Bruce – I’d be more concerned if it was a third party not the CA. Tim – very important when it’s a third party to provide evidence it’s in an HSM. Bruce – assuming direct link between CA and signing service, if the signing service is going to send out CSR to the subscriber and the subscriber sends that to the CA how does the CA know that the key that signed that CSR was in the signing service? – This is where we need evidence. Tim thinks the CA and the signing service would arrange this directly between the two of them. Bruce – if they sign it we have it covered, they need to provide something so the CA knows.)
 - Question – Ballot CSC-13 allows the Signing Service to use cloud-based key generation. Can the CA can operate the cloud-based service? (Ian, Bruce and Tim assume this is a yes.)
 
-#### Audit 
+#### Audit
 
 - Specific compliance sections of CSBRs and NetSec should be stated in the CSBRs as the compliance/audit scope should not be determined by the CA, Signing Service and Auditor. Note, WebTrust for CA or ETSI EN 319 411-1 would not be in scope for Signing Service. (Bruce – Issue is that the signing service can deal with multiple subscribers or a bunch of subscribers can have a key for every signature, so maybe the signing service held to a higher standard. For compliance, we should call out specifically which sections of Netsec and CSCBR they should meet. CSCBR should state scope. Tim agreed. Inigo – This is only for the issuance of certificates but the signing service provider is providing a different service so in the case of ETSI there are other standards for auditing signing service providers. Dimitris – Discussed during F2F reviewing these standards. Bruce thinks there may be some good things in the standards we can put into the CSCBRs without using references. Tim agrees. Dimitris agreed this should be captured in minutes from F2F, are we reinventing the wheel? Bruce – he agrees, using current wheel, CSCBRs needs to be updated but someone needs to take the action. Tim asked for specific mapping of ETSI to CSCR. Inigo is willing to provide the standards. Dimitris brought up this might be too difficult and need a separate subcommittee. Inigo – The difference is this is a signing service and we are talking about issuance service so we are only issuing certificates but we are not doing anything with them. So we provide the certificates to the subscribers and they use it for whatever they want, in this case to sign code. If we are going farther to signing service then agrees with matrix. Bruce – not trying to state anything new just clean up what we have, signing services already existed, just reel it in. Just scoping to what we think is secure. Dimitris, wants to reel out. Move to a separate document and potentially scope a new charter for signing services, Bruce says that is out of our scope. Bruce thinks we can contain in the doc we have. This discussion will be tabled for later.)
 - For cloud-based key generation, is there a compliance requirement for the cloud-based service? (Bruce – how do we know the signing service is using cloud based and how do we know cloud based is good? Ian would love to lean on a key attestation from all these cloud services, Dimitris – or an audit, Tim – there is no difference, must follow same requirements. Ian – yep. Bruce – the cloud service can provide a contract. Tim – under private key generation we are going to require proof so that would be true if the signing service was in the cloud as well. Bruce – the signing service could sign the CSR although it may sign the key in software. Tim- The signature on the CSR doesn’t prove that the key is in the hardware. Dimitris – we need more controls including trusted personnel. Bruce – but those are in NetSec, but the keys are generated in cloud based, so what’s the requirement on that party? Table discussion.)

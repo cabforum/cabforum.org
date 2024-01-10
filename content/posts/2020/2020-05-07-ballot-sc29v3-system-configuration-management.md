@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-05-07-ballot-sc29v3-system-configuration-management/
+- /2020/05/07/ballot-sc29v3-system-configuration-management/
 author: Wayne Thayer
 date: 2020-05-07 22:10:12
 tags:
@@ -11,7 +11,8 @@ type: post
 ---
 
 The voting period for Ballot SC29v3 has ended and **the Ballot has Passed**. Here are the results:
-**Voting by Certificate Issuers – 21 votes total including abstentions**
+
+## Voting by Certificate Issuers – 21 votes total including abstentions
 
 – **21 Yes votes**: Amazon, Buypass, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, DigiCert, eMudhra, Entrust Datacard, Firmaprofesional, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, Kamu SM, OISTE, SSL.com, SwissSign, TrustCor, SecureTrust (former Trustwave)
 – **0 No votes**:
@@ -19,7 +20,7 @@ The voting period for Ballot SC29v3 has ended and **the Ballot has Passed**. Her
 
 100% of voting Certificate Issuers voted in favor.
 
-**Voting by Certificate Consumers – 7 votes total including abstentions**
+## Voting by Certificate Consumers – 7 votes total including abstentions
 
 – **7 Yes vote**s: Apple, Cisco, Google, Microsoft, Mozilla, Opera, 360
 – 0 **No votes**:
@@ -27,7 +28,7 @@ The voting period for Ballot SC29v3 has ended and **the Ballot has Passed**. Her
 
 100% of voting Certificate Consumers voted in favor.
 
-**Relevant Bylaw references**
+## Relevant Bylaw references
 
 Bylaw 2.3(f) requires:
 
@@ -36,7 +37,7 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was **11** votes – quorum was met.”
 
-### Ballot SC29v3: System Configuration Management 
+### Ballot SC29v3: System Configuration Management
 
 **Purpose of Ballot:**
 
@@ -47,7 +48,7 @@ To answer the question as to whether automated patching via defined software ven
 
 The GitHub redline is: [https://github.com/cabforum/documents/compare/16a5a9b…neildunbar:aefc8ad?diff=split](https://github.com/cabforum/documents/compare/16a5a9b...neildunbar:aefc8ad?diff=split)
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Network and Certificate System Security Requirements” based on Version 1.3.
 
@@ -70,8 +71,8 @@ Effective date
 
 The changes introduced by this Ballot take effect on 1 November 2020. Earlier adoption is permitted.
 
-**— MOTION ENDS —
-** This ballot proposes a Final Maintenance Guideline.
+**- MOTION ENDS -**
+This ballot proposes a Final Maintenance Guideline.
 
 The procedure for approval of this ballot is as follows:
 

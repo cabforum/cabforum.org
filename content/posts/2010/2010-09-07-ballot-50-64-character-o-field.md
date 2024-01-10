@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-09-07-ballot-50-64-character-o-field/
+- /2010/09/07/ballot-50-64-character-o-field/
 author: Ben Wilson
 date: 2010-09-07 20:51:06
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Motion: Ben Wilson made the following motion, and Moudrick Dadashov and Bruce Morton endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 EFFECTIVE IMMEDIATELY,
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Delete Section 8.1.1 and replace it with the following text:
 
@@ -46,11 +38,7 @@ In addition, an assumed name or DBA name used by the Subject MAY be included at 
 
 If the combination of names or the organization name by itself exceeds 64 characters, the CA MAY abbreviate parts of the organization name, and/or omit non-material words in the organization name in such a way that the text in this field does not exceed the 64-character limit; provided that the CA checks this field in accordance with section 10.11.1 and a Relying Party will not be misled into thinking that they are dealing with a different organization. In cases where this is not possible, the CA MUST NOT issue the EV Certificate.
 
-______________________________________________________________________
-
-Erratum ends
-
-______________________________________________________________________
+### Erratum ends
 
 The ballot review period comes into effect at 2100 UTC on 23 Aug ’10 and will close at 2100 UTC on 30 Aug ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 7 Sep ’10.
 
@@ -60,6 +48,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

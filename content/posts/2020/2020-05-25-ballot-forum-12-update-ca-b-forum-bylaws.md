@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-05-25-ballot-forum-12-update-ca-b-forum-bylaws/
+- /2020/05/25/ballot-forum-12-update-ca-b-forum-bylaws/
 author: Ben Wilson
 date: 2020-05-25 02:57:00
 tags:
@@ -36,11 +36,11 @@ Dean Coclin
 
 CA/B Forum Vice Chair
 
-——————-
+______________________________________________________________________
 
 The following motion has been proposed by Dimitris Zacharopoulos of HARICA and endorsed by Mike Reilly of Microsoft and Tim Hollebeek of Digicert.
 
-## Purpose of Ballot[][1] 
+## Purpose of Ballot[][1]
 
 The Forum has identified and discussed a number of improvements to be made to the current version of the Bylaws to improve clarity and allow the Forum to function more effectively. Most of these changes are described in the “[Issues with Bylaws to be addressed][2]” document.
 
@@ -56,7 +56,7 @@ Here is a list of major changes:
 1. In 5.3.1 require that a Certificate Issuer is trusted in the “latest” software produced by a Certificate Consumer
 1. In 4.1 the Chair is eligible to be elected as Chair after having vacated the position as Chair for at least one (1) term, instead of two (2) years.
 
-## MOTION BEGINS[][3] 
+## MOTION BEGINS[][3]
 
 **Amendment to the Bylaws:** Replace the entire text of the Bylaws of the CA/Browser Forum with the attached version (CA-Browser Forum Bylaws v2.3.pdf).
 
@@ -66,19 +66,27 @@ Here is a list of major changes:
 1. DOCX (attached)
 1. GitHub redline available at
 
-## MOTION ENDS[][4] 
+## MOTION ENDS[][4]
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
 | | | |
 | --- | --- | --- |
-| **Forum-12 – Update CA/B Forum Bylaws** | **Start time (22:00 UTC)** | **End time (22:00 UTC)** | |
-Discussion (14 days) |
-04 May 2020 |
-18 May 2020 | |
-Expected Vote for approval (7 days) |
-TBD |
-TBD |
+| **Forum-12 – Update CA/B Forum Bylaws** | **Start time (22:00 UTC)** | **End time (22:00 UTC)** |
+|
+Discussion (14 days)
+|
+04 May 2020
+|
+18 May 2020
+|
+|
+Expected Vote for approval (7 days)
+|
+TBD
+|
+TBD
+|
 
 [1]: https://wiki.cabforum.org/forum-12_-_update_cab_forum_bylaws_to_version_2.3#purpose_of_ballot
 [2]: https://docs.google.com/document/d/1EtrIy3F5cPge0_M-C8J6fe72KcVI8H5Q_2S6S31ynU0

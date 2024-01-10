@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-07-28-ballot-173-removal-requirement-cease-use-private-key-due-incorrect-certificate-info/
+- /2016/07/28/ballot-173-removal-requirement-cease-use-private-key-due-incorrect-certificate-info/
 author: Ben Wilson
 date: 2016-07-28 18:03:50
 tags:
@@ -25,11 +25,11 @@ Dean Coclin
 
 CA/B Forum Chair
 
-**Ballot 173 – Removal of requirement to cease use of private key due to incorrect certificate info**
+## Ballot 173 – Removal of requirement to cease use of private key due to incorrect certificate info
 
 The following motion has been proposed by Josh Aas of ISRG / Let’s Encrypt. Ben Wilson of Digicert and Chris Bailey of Entrust endorse.
 
-**Background:**
+## Background
 
 BR Section 9.6.3 point 5 says:
 

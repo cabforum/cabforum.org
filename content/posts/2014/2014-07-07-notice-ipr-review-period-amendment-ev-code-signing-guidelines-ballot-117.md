@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-07-07-notice-ipr-review-period-amendment-ev-code-signing-guidelines-ballot-117/
+- /2014/07/07/notice-ipr-review-period-amendment-ev-code-signing-guidelines-ballot-117/
 author: Ben Wilson
 date: 2014-07-07 20:11:52
 tags:

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-02-10-ballot-sc37-election-of-server-certificate-working-group-vice-chair/
+- /2021/02/10/ballot-sc37-election-of-server-certificate-working-group-vice-chair/
 author: Wayne Thayer
 date: 2021-02-10 17:23:34
 tags:
@@ -40,24 +40,32 @@ Under Bylaw 2.3(g), “a ballot result will be considered valid only when more t
 
 The following motion has been proposed by the Server Certificate Working Group Chair Dimitris Zacharopoulos of HARICA.
 
-## Purpose of Ballot 
+## Purpose of Ballot
 
 This special ballot is to confirm the new Vice Chair of the Server Certificate Working Group.
 
-— MOTION BEGINS —
+## Motion begins
 
 In accordance with Bylaw 4.1(c), **Wayne Thayer** representing Mozilla is hereby elected Vice Chair of the Server Certificate Working Group for a term commencing on November 1, 2020 and continuing through October 31, 2022.
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 
 | | | |
 | --- | --- | --- |
-| **Special Ballot SC37: Election of Server Certificate Working Group Vice Chair** | **Start time** | **End time** | |
-Discussion (7 days) |
-October 14, 2020 at 11:00 am Eastern Time |
-October 21, 2020 at 11:00 am Eastern Time | |
-Vote for approval (7 days) |
-October 21, 2020 at 11:00 am Eastern Time |
-October 28, 2020 at 11:00 am Eastern Time |
+| **Special Ballot SC37: Election of Server Certificate Working Group Vice Chair** | **Start time** | **End time** |
+|
+Discussion (7 days)
+|
+October 14, 2020 at 11:00 am Eastern Time
+|
+October 21, 2020 at 11:00 am Eastern Time
+|
+|
+Vote for approval (7 days)
+|
+October 21, 2020 at 11:00 am Eastern Time
+|
+October 28, 2020 at 11:00 am Eastern Time
+|

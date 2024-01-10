@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-11-14-ballot-sc23-v3-precertificates/
+- /2019/11/14/ballot-sc23-v3-precertificates/
 author: Wayne Thayer
 date: 2019-11-14 16:40:22
 tags:
@@ -10,7 +10,7 @@ title: Ballot SC23 V3 – Precertificates
 type: post
 ---
 
-## Ballot Results 
+## Ballot Results
 
 The voting period for Ballot SC23 has ended and the **Ballot has Passed**. Votes were received from Actalis, Trustcor, and Izenpe after the voting period had ended and were not counted. Here are the results:
 **Voting by Certificate Issuers – 15 votes total including abstentions**
@@ -36,7 +36,7 @@ at least one Certificate Issuer and one Certificate Consumer Member must vote in
 Under Bylaw 2.3(7), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum.
 20 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **10**, so quorum was **11 votes** – quorum was met.
 
-## Ballot SC23 V3 – Precertificates 
+## Ballot SC23 V3 – Precertificates
 
 **Purpose of Ballot:**
 
@@ -47,11 +47,11 @@ During a lengthy discussion on the mozilla.dev.security.policy forum \[1\], it w
 This ballot intends to resolve the problem by clarifying in the BRs that a CA may provide revocation information for the serial number contained in a Precertificate.
 \[1\]
 
-\[2\]
+<https://groups.google.com/d/msg/mozilla.dev.security.policy/LC_y8yPDI9Q/NbOmVB77AQAJ> \[2\] <https://wiki.mozilla.org/CA/Required_or_Recommended_Practices#Precertificates>
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Jeremy Rowley of DigiCert and Rob Stradling of Sectigo.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.6, or based on Version 1.6.6 as modified by ballot SC24:
 
@@ -63,7 +63,7 @@ https://github.com/cabforum/documents/compare/master@%7B10-23-19%7D…sleevi:201
 
 https://github.com/cabforum/documents/compare/master@%7B10-23-19%7D…sleevi:2019-10-OCSP
 
-**— MOTION ENDS —**
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2009-06-08-ballot-28-membership-criteria/
+- /2009/06/08/ballot-28-membership-criteria/
 author: Ben Wilson
 date: 2009-06-08 19:36:29
 tags:
@@ -16,11 +16,7 @@ Motion
 
 Tim Moses has made the following motion, and Ben Wilson and Moudrick Dadashov have endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Forum should adopt the following membership criteria immediately upon successful completion of the ballot.
 
@@ -40,11 +36,7 @@ Product supplier:- The organization supplies a product that processes digital ce
 
 Non-voting members are representatives of organizations that supply products or services that are related to the use of certificates but do not process digital certificates for relying parties, including but not limited to standards bodies, PKI component suppliers, and subscribers.
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 25 May 09 and will close at 2100 UTC on 1 June 2009. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 8 June 2009.
 

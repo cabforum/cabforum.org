@@ -1,42 +1,42 @@
 ---
 aliases:
-- /2017-06-21-2017-06-21-f2f-minutes-meeting-41-berlin/
+- /2017/06/21/2017-06-21-f2f-minutes-meeting-41-berlin/
 author: Ben Wilson
 date: 2017-06-21 16:58:05
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 41 Meeting in Berlin, Germany, 20-22 June 2017
 type: post
 ---
 
-## Meeting 41 Minutes {#Meeting_41_Minutes}
+## Meeting 41 Minutes
 
-## Recordings {#Recordings}
+## Recordings
 
-## Day 1 – Wednesday, 21 June 2017 {#Day_1\_-\_Wednesday.2C_21_June_2017}
+## Day 1 – Wednesday, 21 June 2017
 
-### Attendees: {#Attendees:}
+### Attendees:
 
 Adriano Santoni (Actalis), Andrew Whalley (Google), Arkadiusz Ławniczak (Certum), Arno Fiedler (D-Trust), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Benjamin Chiang (ChungHwa Telecom), Bruce Morton (Entrust), Chris Bailey (Entrust), Coenelia Enke (SwissSign), Curt Spann (Apple), Dean Coclin (Symantec), Devon O’Brien (Google), Dimitris Zacharopoulos (Harica), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-Trust), Fotis Loukos (SSL.com), Frank Corday (Trustwave), Franck LeRoy (Certinomis), Geoff Keating, (Apple), Gervase Markham (Mozilla), Iñigo Barreira (StartCom), JP Hamilton (Cisco), Janet Treasure (CPA Canada), Jens Bender (BSI), Jeff Ward (WebTrust), Jos Purvis (Cisco), Karolina Ruszczyńska (Certum), Kim Nyugen (D-Trust), Kirk Hall (Entrust), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom – telephone), Mads Henriksveen (Buypass), Marcin Szulga (Certum), Masakazu Asano (GlobalSign), Mike Reilly (Microsoft), Moudrick Dadashov (SSC), Neil Dunbar (Trustcor), Peter Bowen (Amazon – telephone), Peter Miscovic (Disig – telephone), Phillip Hallam-Baker (Comodo – telephone), Rich Smith (Comodov- telephone), Richard Wang (WoSign), Robin Alden (Comodo), Ryan Hurst (Google), Ryan Sleevi (Google), Sissel Hoel (Buypass), Steve Medin (Symantec), Tim Shirley (Trustwave), Tobias Zatti (Symantec), Tyler Myers (GoDaddy), Virginia Fournier (Apple – telephone), Wayne Thayer (GoDaddy)
 
-### Official Welcome from Conference Host Kim Nguyen, D-Trust {#Official_Welcome_from_Conference_Host_Kim_Nguyen.2C_D-Trust}
+### Official Welcome from Conference Host Kim Nguyen, D-Trust
 
-### Recap of Prelim Matters, Review Agenda and Logistics {#Recap_of_Prelim_Matters.2C_Review_Agenda_and_Logistics}
+### Recap of Prelim Matters, Review Agenda and Logistics
 
-### Antitrust Statement & Assign Note Takers {#Antitrust_Statement\_.26_Assign_Note_Takers}
+### Antitrust Statement & Assign Note Takers
 
-### Misc. Items of Business: {#Misc.\_Items_of_Business:}
+### Misc. Items of Business:
 
 Opening statement, welcome new members
 
-### Apple Root Program Update {#Apple_Root_Program_Update}
+### Apple Root Program Update
 
 Note Taker: Bruce Morton
 
-#### Apple Revocation {#Apple_Revocation}
+#### Apple Revocation
 
-Apple played a session “Your Apps and Evolving Network Security Standards, Session 701”, . This session is available to download, but you will need a developer account. The session discussed revocation:
+Apple played a session “Your Apps and Evolving Network Security Standards, Session 701”, <https://developer.apple.com/videos/play/wwdc2017/701/>. This session is available to download, but you will need a developer account. The session discussed revocation:
 
 - Apple will currently only check revocation if the server is using OCSP Stapling.
 - OCSP has issues as it needs an additional connection and is performed in the clear. There can be a privacy issue where a CA could aggregate data about an end user.
@@ -61,7 +61,7 @@ Q: Does this mean that there will be a stampede of clients all attempting to con
 
 Q: When a site is on the false positive list, it potentially means that its users on macOS and iOS will have a slower-than-normal experience. Is there anything the site operator can do? A: Sites in this situation should implement OCSP stapling. If this is impossible, CAs may consider issuing a new certificate with a different serial number, which probably won’t be a false positive. Occasionally (not every update), the hashes may change, and then a different set of certificates will cause false positives. This is most likely to happen when the number of revoked certificates changes significantly. If OCSP stapling is impossible for a small number of very popular sites, a CA might consider issuing those certificates from a different intermediate, which should have very few revoked certificates. Small lists of revoked certificates will be represented directly and will cause no false positives.
 
-#### Apple Trust Store Update {#Apple_Trust_Store_Update}
+#### Apple Trust Store Update
 
 - Apple is refining the audit requirements; no announcement yet.
 - In the future, Apple hopes to provide a machine readable formats for trusted roots.
@@ -69,17 +69,17 @@ Q: When a site is on the false positive list, it potentially means that its user
 - CT log approvals have been updated, but not published yet.
 - CT logging continues to be supported for EV.
 
-### Google Root Program Update. {#Google_Root_Program_Update.}
+### Google Root Program Update.
 
 Speaker: Andrew Whalley Note Taker: Robin Alden
 
-#### Introducing {#Introducing}
+#### Introducing
 
 Introducing Devon O’Brien
 He has been with Google for around for 4 weeks!
 A fellow security TPM in the chrome team. Will be focusing on PKI, CT, and general chrome stuff. He was formerly with Apple.
 
-#### Wosign/Startcom {#Wosign.2FStartcom}
+#### Wosign/Startcom
 
 As [previously announced](https://security.googleblog.com/2016/10/distrusting-wosign-and-startcom.html), Chrome has been in the process of removing trust from certificates issued by the CA WoSign and its subsidiary StartCom.
 
@@ -89,13 +89,13 @@ Beginning with Chrome 61, the whitelist will be removed, resulting in full distr
 
 Based on the [Chromium Development Calendar](https://www.chromium.org/developers/calendar), this change should be visible in the [Chrome Dev channel](https://www.chromium.org/getting-involved/dev-channel) in the coming weeks, the Chrome Beta channel around late July 2017, and will be released to Stable around mid September 2017.
 
-#### UI {#UI}
+#### UI
 
 End of April we posted “Next Steps Toward More Connection Security” on the Google Security blog.
 
 Beginning in October 2017, Chrome will show the “Not secure” warning in two additional situations: when users enter data on an HTTP page, and on all HTTP pages visited in Incognito mode. Eventually, we plan to show the “Not secure” warning for all HTTP pages.
 
-#### Superfish {#Superfish}
+#### Superfish
 
 Superfish is adware that came installed on certain Lenovo laptops sold in 2015. Superfish MITMs all users with the same (now public) private key. All users with the Superfish root installed are vulnerable to trivial MITM on any HTTPS website. Superfish was discovered and addressed in 2015 with a Microsoft/Lenovo response.
 
@@ -107,33 +107,44 @@ Chris Bailey: Are you making those a new category of action? Andrew: Yes – spe
 
 Speaker: Ryan Sleevi
 
-#### CT {#CT}
+#### CT
 
 We lost one log (PuChuang) but gained two new open ones (DigiCert, Symantec), which we’ll be sending an update to the [ct-policy@chromium.org](mailto:ct-policy@chromium.org) list on shortly. Further, there are two other logs from Comodo who have recently completed their monitoring period and which will also have an update to ct-policy@ with respect to the Chrome versions they will be trusted in.
 
-#### TLS {#TLS}
+#### TLS
 
 Work continues with TLS 1.3. We continue to see wide-scale deployment issues due to TLS inspection devices. TLS interception remains a significant problem for deploying Internet-wide security improvements; if you work for a vendor who provides such products, we’d love to establish a regular dialog with your teams to ensure your products do not hold back Internet security even more.
 
-### Microsoft Root Program Update. {#Microsoft_Root_Program_Update.}
+### Microsoft Root Program Update.
 
 Note Taker: Gerv Markham
 
 - New Program Manager: Mike Reilly
+
 - Been at MS 7 years, was in banking and the military
+
 - Other team members are:
+
 - Keri Street (Communications/Audit and Key Management)
+
 - Gordon Bock (Program Dev and Tools)
+
 - Nate Santiago (Internal Crypto Management)
+
 - Sophia Wong (Crypto Disclosure and SHA-1 Deprecation)
 
-* Working on a audit verification capability for the CCADB to remove slow manual processes
+- Working on a audit verification capability for the CCADB to remove slow manual processes
 
 - Looks for errors and flags them
+
 - May 9th 2017: Edge and IE no longer load SHA-1 sites
+
 - Working on warning consumers who download software signed with SHA-1, moving towards full distrust in all contexts
+
 - August: flight-testing TLS/SSL domain constraints using the Federal PKI
+
 - October: rolling them out more broadly to all government CAs (normally to ccTLD)
+
 -
 
 Still TBD: disable trust for new WoSign and StartCom certs (aimed for April 25th but didn’t hit it)
@@ -146,9 +157,9 @@ Still TBD: disable trust for new WoSign and StartCom certs (aimed for April 25th
 - Developing a CT support plan right now both for server and client
 - Expect more at the next meeting
 
-### Mozilla Root Program Update. {#Mozilla_Root_Program_Update.}
+### Mozilla Root Program Update.
 
-#### 1. Policy 2.5 Nearly Shipped {#A1.\_Policy_2.5_Nearly_Shipped}
+#### 1. Policy 2.5 Nearly Shipped
 
 Mozilla Root Store Policy 2.5 is close to being shipped. At the moment, we are seeking feedback on whether any of the changes requires a phase-in period. Once we have determined that, we will be publishing the policy, and any changes without a phase-in period will be immediately applicable. So it would be wise for everybody to read the new policy and if there’s anything you think might take a few months, do let Mozilla know. Details of the changes in the policy are documented in the mozilla.dev.security.policy newsgroup. Here are some highlights:
 
@@ -163,15 +174,15 @@ Mozilla Root Store Policy 2.5 is close to being shipped. At the moment, we are s
 - New intermediates must be disclosed in the CCADB within a week. (5.3.2)
 - Section 7.4 (“Transfers”) has been replaced by a new section 8 which requires CAs to notify of various operational changes. This is a merge-in of text equivalent to the existing Root Transfer Policy which was documented on our wiki. (8)
 
-#### 2. Wiki Cleanup {#A2.\_Wiki_Cleanup}
+#### 2. Wiki Cleanup
 
-The Mozilla Root Program wiki content has been simplified and cleaned up, so it should now be much easier to find what you want. The starting page is now  .
+The Mozilla Root Program wiki content has been simplified and cleaned up, so it should now be much easier to find what you want. The starting page is now <https://wiki.mozilla.org/CA> .
 
-#### 3. Security UI {#A3.\_Security_UI}
+#### 3. Security UI
 
 We have released new security UI which flags pages with password forms over HTTP as insecure. We’re working on a similar feature to detect and flag credit card forms submitted over HTTP.
 
-#### 4: Queue for Public Discussion {#A4:\_Queue_for_Public_Discussion}
+#### 4: Queue for Public Discussion
 
 Things have hopefully improved in terms of moving the queue for public discussion along.
 
@@ -185,11 +196,11 @@ There will be a discussion about if self assessments are generally a good thing 
 
 Aaron Wu (under Kathleen’s guidance) has taken over responsibility for working with CAs on their Information Verification and on verifying the BR Self Assessments. Aaron is working on these as fast as he can, and will be starting discussions for the CAs for which he has completed verification of their information and BR Self Assessments as soon as he can, but no more than one per week (and only after Kathleen has approved his write-up).
 
-#### 5. Revoked Intermediate Certs {#A5.\_Revoked_Intermediate_Certs}
+#### 5. Revoked Intermediate Certs
 
 We’ve been making steady progress to streamline the process of transferring revocations disclosed to the CCADB into OneCRL, Firefox’s revocation list. There are now only a handful of certs which are listed in crt.sh as disclosed as revoked but not in OneCRL. The process still contains a human-in-the-loop check before certifying the resulting list, so there will be a 2 day lag in normal circumstances. We can still take emergency action in 0-2 hours if necessary.
 
-#### 6. CA Communication {#A6.\_CA_Communication}
+#### 6. CA Communication
 
 We sent a major CA Communication in April and a small one in May notifying CAs of CCADB changes in May. From the April communication we learned:
 
@@ -198,17 +209,17 @@ We sent a major CA Communication in April and a small one in May notifying CAs o
 
 As a follow-up to the CA Communication we’ve added fields to the CCADB to track a CA’s CAA identifiers and problem reporting mechanisms, and we’ve published a new report which provides this data. We realise that the canonical source for this will, for the moment, continue to be a CA’s CPS but we hope it’s useful to the community to have this gathered in one place.
 
-#### 7. SHA-1 {#A7.\_SHA-1}
+#### 7. SHA-1
 
 Following on from the question relating to this in the last CA Communication, we are consulting with Microsoft about the possibility of setting a deprecation timeline for SHA-1 in email.
 
-#### 8. Root Store Community {#A8.\_Root_Store_Community}
+#### 8. Root Store Community
 
 The “Mozilla CA Community” is now the “Common CA Database”, and has its own website at ccadb.org. That should now be where you find both the CCADB Policy, which has moved from Github, and also instructions for how to use it, which have moved from the Mozilla wiki. Microsoft continues to use the CCADB and we continue to hope that other root store operators will be able to come on board soon. The contact email address for CCADB-related matters is [support@ccadb.org](mailto:support@ccadb.org) , which reaches all the participating root stores.
 
 All CAs need to keep their CP/CPS and Audit information for their intermediate certs current. CAs must directly update their CCADB records for their intermediate certs. We will be adding automation to send email to CAs when their audit statements for their intermediate certs are due.
 
-#### 9. Annual Updates {#A9.\_Annual_Updates}
+#### 9. Annual Updates
 
 In addition to any updates as CPs and CPSes change, all CAs in Mozilla’s program need to submit an annual update via the CCADB, as documented on ccadb.org. Those updates need to contain 3 things:
 
@@ -224,7 +235,7 @@ Common problems with the test sites that we have seen:
 
 Please visit the test websites using a copy of Firefox on a home computer or similar, and make sure the appropriate error appears, before providing the URLs to the CCADB.
 
-#### 10. Adding Disclosure-Failed Intermediates to OneCRL {#A10.\_Adding_Disclosure-Failed_Intermediates_to_OneCRL}
+#### 10. Adding Disclosure-Failed Intermediates to OneCRL
 
 As you will all know, since mid-2016 CAs have been required to disclose all their non-constrained SSL intermediates in the CCADB. Compliance with this requirement has been… variable. Policy 2.5 requires that disclosure occur within one week of certificate creation. We are considering moving to a policy of adding undisclosed certificates we discover which are more than a week past their notBefore dates directly to OneCRL, permanently. In other words, Firefox would treat them as revoked. We hope this will provide sufficient incentive for disclosure, and for CAs to implement proper tracking of their intermediates (and perhaps even cross-referencing with CCADB data) such that “oversights” no longer happen. Comments on this proposal are welcomed.
 
@@ -240,7 +251,7 @@ Q: What about if a CA does large volume sub-CA creation?
 
 A: Had not considered that, but there’s currently a bulk import to the CCADB and there could be an API in the future.
 
-#### 11. Disclosure of TCSCs {#A11.\_Disclosure_of_TCSCs}
+#### 11. Disclosure of TCSCs
 
 We are considering additionally requiring disclosure of technically constrained intermediates in the CCADB. Such certs need to be disclosed in CT anyway, and it helps us to check that they are actually technically constrained as they should be. There would be no need for CP/CPS or audit documents. crt.sh finds only 50 certificates across 8 CAs which are TCSCs valid for server authentication, so it currently seems like this won’t be high impact. Still, feedback on this idea is welcome.
 
@@ -248,41 +259,41 @@ URLs related to the above:
 
 -
 
-Firefox release schedule:
+Firefox release schedule: <https://wiki.mozilla.org/RapidRelease/Calendar>
 
 -
 
-Root Store Policy 2.5 draft:
+Root Store Policy 2.5 draft: <https://github.com/mozilla/pkipolicy/blob/master/rootstore/policy.md>
 
 -
 
-Root Program Wiki:
+Root Program Wiki: <https://wiki.mozilla.org/CA>
 
 -
 
-Queue for Public Discussion:
+Queue for Public Discussion: <https://wiki.mozilla.org/CA/Dashboard#Ready_for_Public_Discussion>
 
 -
 
-April 2017 CA Communication:
+April 2017 CA Communication: <https://wiki.mozilla.org/CA:Communications#April_2017>
 
 -
 
-CA Operator Information Report:
+CA Operator Information Report: <https://ccadb-public.secure.force.com/mozilla/CAInformationReport>
 
 -
 
-CA Operator Information Report (CSV):
+CA Operator Information Report (CSV): <https://ccadb-public.secure.force.com/mozilla/CAInformationReportCSVFormat>
 
 -
 
-CCADB Website and Documentation:
+CCADB Website and Documentation: <http://ccadb.org/>
 
 -
 
-Technically constrained intermediates:
+Technically constrained intermediates: <https://crt.sh/mozilla-disclosures#constrained>
 
-### WebTrust Update {#WebTrust_Update}
+### WebTrust Update
 
 Note Taker: Kirk
 
@@ -290,7 +301,7 @@ Note Taker: Kirk
 
 Jeff Ward and Don Sheehy provided the following report. They introduced their guest Janet Treasure of CPA Canada.
 
-#### Background {#Background}
+#### Background
 
 -
 
@@ -303,7 +314,7 @@ WebTrust criteria are generally based on frameworks that have been publicly vett
 - The Task Force does not create technical criteria, only audit criteria based on the technical criteria developed by others
 - Have proposed changes for the CABF to consider, ballot, vet and vote
 
-#### Current Status {#Current_Status}
+#### Current Status
 
 There is no update for the following:
 
@@ -323,12 +334,12 @@ WebTrust Code signing
 
 WebTrust Baseline + Network Security
 
-##### !WebTrust for RA (Registration Authorities) {#A.21WebTrust_for_RA\_.28Registration_Authorities.29}
+##### !WebTrust for RA (Registration Authorities)
 
 - There is a draft version needing CABF comments – available soon (likely July)
 - CABF input will clarify our path to completion – some of the critical issues are “how much security is needed”
 
-##### !WebTrust for CAs Version 2.1 {#A.21WebTrust_for_CAs_Version_2.1}
+##### !WebTrust for CAs Version 2.1
 
 Version 2.1 updates to WebTrust for CAs will include:
 
@@ -351,7 +362,7 @@ Criteria 1.1 and 1.2 – removed WebTrust v1 references
 - \[New\] Criterion 4.10 – New criterion added to address CA Key Migration events
 - Criterion 7.1 – Cross certificate requests added
 
-#### Audit reporting issues {#Audit_reporting_issues}
+#### Audit reporting issues
 
 - Consistency in reporting has been an issue at times
 - Types of audit opinions – there are four main types:
@@ -364,13 +375,13 @@ Criteria 1.1 and 1.2 – removed WebTrust v1 references
 - Possible transmittal letter being addressed
 - Distribution of qualified reports being considered for alternatives
 
-#### Other Updates {#Other_Updates}
+#### Other Updates
 
 - Practitioner Audit Reports – US – have received AICPA comments to release updated reporting under SSAE 18. Some changes will be for modified reports.
 - Canada and international reports undergoing minor updates to approved versions under CSAE 3000 and CSAE 3001. Task also includes Management Assertions that are given in qualified report scenarios.
 - Practitioner guidance for auditors under development covering public and private CAs. Draft expected later this year.
 
-##### Report Content Additions {#Report_Content_Additions}
+##### Report Content Additions
 
 Disclosure of Changes in Scope or Roots with no Activity
 
@@ -401,7 +412,7 @@ Feedback from CABF on integration of WebTrust for Registration Authorities
 - How can auditors determine log integrity – two CT logs might have same certificate content but could both be wrong
 - Criteria and audit needed for public/user confidence and potential audit reliance
 
-##### Some new and old issues {#Some_new_and_old_issues}
+##### Some new and old issues
 
 - Issues in Network Security still leading to qualifications in audits – potential modification of the guidelines
 -
@@ -411,7 +422,7 @@ WebTrust for CA reports – should a more detailed version be created similar to
 - Cloud questions continuing to surface as well as DTP involvement, creating confusion and inconsistency on audit scope
 - The audit standards have changed in US and Canada
 
-#### CPA Canada {#CPA_Canada}
+#### CPA Canada
 
 Latest Changes
 
@@ -440,11 +451,11 @@ All Task Force members provide WebTrust services to clients
 
 The next day, the Forum discussed the interest of many CAs in moving portions of their certificate systems to the cloud. It is widely believed that this is prohibited by current WebTrust requirements, especially the Network Security audit requirements. Kirk asked Jeff and Don if WebTrust could formulate new audit requirements that could address cloud-based CA systems. There was a lengthy discussion of the challenges involved in auditing activities in a cloud-based environment. In theory, an auditor could apply existing audit requirements to a cloud data center if the data center allowed it, but that would be difficult. The general conclusion was that the new Network Security Working Group should address some of these issues in any new requirements. Kirk asked whether the new requirements should include special provisions for cloud environments, but Ryan said no, the requirements should just be stated and left to the CA, auditor, and cloud service provider to figure out how to comply and prove compliance to the auditors.
 
-### Guest Speaker {#Guest_Speaker}
+### Guest Speaker
 
-Dr. Jens Bender, BSI Bundesamt für Sicherheit in der Informations-technik Referat “eID-Technologies and Smart Cards” Topic: “eIDAS — Current Status”
+Dr. Jens Bender, BSI Bundesamt für Sicherheit in der Informations-technik Referat “eID-Technologies and Smart Cards” Topic: “eIDAS - Current Status”
 
-### ETSI Update on European Norms for Trust Service Providers by ETSI (Arno Fiedler) {#ETSI_Update_on_European_Norms_for_Trust_Service_Providers_by_ETSI\_.28Arno_Fiedler.29}
+### ETSI Update on European Norms for Trust Service Providers by ETSI (Arno Fiedler)
 
 Note Taker: Connie Enke
 
@@ -509,7 +520,7 @@ Note: there may be more conformity assessment bodies – they may be not allowed
 
 Please note that the ACAB-C has provided a sample for an attention letter. This letter was before presented in Redmond. If there are any questions or remarks on it post it to the ACAB-C Forum.
 
-### Guest Speaker {#Guest_Speaker-1}
+### Guest Speaker
 
 Clemens Wanko from TÜVIT/ACABc – “Update: Addressing Browser Audit Requirements under eIDAS/ETSI”
 
@@ -517,7 +528,7 @@ Clemens said that there were several discussions with the Browsers that resulted
 
 Dimitris asked if this template could be posted on the public mailing list.
 
-### Governance Working Group Report – Overview of draft Bylaws changes. {#Governance_Working_Group_Report\_.2BIBM_Overview_of_draft_Bylaws_changes.}
+### Governance Working Group Report – Overview of draft Bylaws changes.
 
 Note Taker: Dean Coclin
 
@@ -545,19 +556,19 @@ VMF: The IPR Policy doesn’t mention “Associate Members” at all. Does anyon
 
 The draft Bylaw will be sent out to all members, requesting that their legal teams review and provide feedback.
 
-### Recap, logistics {#Recap.2C_logistics}
+### Recap, logistics
 
-### Adjourn for the Day {#Adjourn_for_the_Day}
+### Adjourn for the Day
 
-## Day 2 – Thursday, 22 June 2017 {#Day_2\_-\_Thursday.2C_22_June_2017}
+## Day 2 – Thursday, 22 June 2017
 
-### Recap of Prelim Matters, Review Agenda and Logistics {#Recap_of_Prelim_Matters.2C_Review_Agenda_and_Logistics-1}
+### Recap of Prelim Matters, Review Agenda and Logistics
 
-### Antitrust Statement & Assign Note Takers {#Antitrust_Statement\_.26_Assign_Note_Takers-1}
+### Antitrust Statement & Assign Note Takers
 
-### Approve Minutes CABF teleconference June 8, 2017 {#Approve_Minutes_CABF_teleconference_June_8.2C_2017}
+### Approve Minutes CABF teleconference June 8, 2017
 
-### Validation Working Group Report. {#Validation_Working_Group_Report.}
+### Validation Working Group Report.
 
 Note Taker: Doug Beattie
 
@@ -603,7 +614,7 @@ Validation ballot, 190:
 - Gerv suggests tracking domain validation by method and date so CAs can re-do only those validations if there is an issue with the method in the future.
 - Kirk recommends moving forward with the latest ballot text while Google and Apple want to postpone until the language on reuse is more clearly specified.
 
-### Disclosure of SSL Technically-Constrained Sub-CAs in the CCADB. {#Disclosure_of_SSL_Technically-Constrained_Sub-CAs_in_the_CCADB.}
+### Disclosure of SSL Technically-Constrained Sub-CAs in the CCADB.
 
 Note Taker: Mads Henriksveen
 
@@ -641,7 +652,7 @@ Gerv: Only new ones have to be included. An API will be useful, but in general n
 
 Doug: Since Technically Constrained has not yet required disclosure, this could be a lot of certificates.
 
-### Policy Review Working Group Report. {#Policy_Review_Working_Group_Report.}
+### Policy Review Working Group Report.
 
 Note Taker: Neil Dunbar
 
@@ -693,11 +704,11 @@ KH: I recommend that in the future, the WG pick a given BR version, then drop in
 
 DZ: Some of these changes will need to be looked at throughout the whole document, for example, when we introduce definition changes.
 
-### Add BR-Required Self-Assessment – CA mapping of their CP/CPS to the BRs. {#Add_BR-Required_Self-Assessment\_-\_CA_mapping_of_their_CP.2FCPS_to_the_BRs.}
+### Add BR-Required Self-Assessment – CA mapping of their CP/CPS to the BRs.
 
 Note Taker: Jos Purvis
 
-Gerv opened discussion: When CP/CPS documents are submitted for approval, Mozilla has to ensure they’re compliant with the Baseline Requirements, which means mapping requirements in BRs to the CA’s CP/CPS documents. This work seems better done by people more familiar with them—i.e., the CAs—and that will reduce the amount of work being done by Mozilla personnel. Mozilla is therefore now requiring a BR self-assessment, and has provided a template document for this. Kathleen at Mozilla has suggested that this template might be better owned by the CA/B Forum for the use of all the root programs, and potentially be made a part of the BRs as a periodic requirement on CAs.
+Gerv opened discussion: When CP/CPS documents are submitted for approval, Mozilla has to ensure they’re compliant with the Baseline Requirements, which means mapping requirements in BRs to the CA’s CP/CPS documents. This work seems better done by people more familiar with them-i.e., the CAs-and that will reduce the amount of work being done by Mozilla personnel. Mozilla is therefore now requiring a BR self-assessment, and has provided a template document for this. Kathleen at Mozilla has suggested that this template might be better owned by the CA/B Forum for the use of all the root programs, and potentially be made a part of the BRs as a periodic requirement on CAs.
 
 Ryan raised a clarification that the current Mozilla document does not list the BRs: instead, it takes the structure of the BRs and asks CAs to provide references to where in their CP/CPS documents these requirements are placed. This allows CAs to map between RFC3647 structure and their own CPS, where there are differing placements of sections. Today’s Mozilla form, then, is just a means to map the bits of 3647 to the CA’s own CP document. *This is still useful*, he said, particularly when discussing 3647 mapping into other languages, but it’s not quite what Gerv initially described. He indicated that what Gerv is describing is closer to what ETSI has done with their standards: mapping them to other standards and listing out specific requirements to make life easier for ETSI auditors (cf. ETSI “assessor’s guidance document”).
 
@@ -713,13 +724,13 @@ Ryan pointed out that it’s a tremendous effort for the root stores to do CP/CP
 
 Gerv wondered whether it would be useful to insert hints in the BRs to indicate which section of a CP/CPS document is best to put information about compliance to each requirement.
 
-Ryan said that, looking at the recent OCSP ballot, some CAs put information about CRL/OCSP into section 7.2, others in section 4.6. ETSI documents tend to more rigorously mandate the structure and content of the resulting document (e.g. “section 7.6 shall be a table describing…”). He felt that more rigorous approach might be more useful with the BRs—more of a “fill in the blank” approach.
+Ryan said that, looking at the recent OCSP ballot, some CAs put information about CRL/OCSP into section 7.2, others in section 4.6. ETSI documents tend to more rigorously mandate the structure and content of the resulting document (e.g. “section 7.6 shall be a table describing…”). He felt that more rigorous approach might be more useful with the BRs-more of a “fill in the blank” approach.
 
 Neil pointed out that it’s not a simple mapping. CAs have to put in explanatory text indicating how you arrived at that mapping. Sometimes the placement of a section may be very obvious, but other times (he cited domain validation) they may be all over the map. In addition, he pointed out, some sections in the BRs have no text at all.
 
 Ryan said CAs have asked Google, “What do you want in this section?” He said Google is looking for, “You said you validate these things: how do you validate them? Which methods do you use?” 3647 would get to the substance of what’s needed, but it’s still not sufficient. The only issue with being too prescriptive about structure is that it may cause conflicts for participation in multiple PKIs like the Federal Bridge whose requirements for mapping might conflict with the BRs.
 
-### Network Security Working Group – Initial Discussions. {#Network_Security_Working_Group\_.2BIBM_Initial_Discussions.}
+### Network Security Working Group – Initial Discussions.
 
 Note Taker: Dean Coclin
 
@@ -747,29 +758,29 @@ It was hoped that a general call for participants will result in interested part
 
 It was suggested that the group focus on CA “pain points” as a first step, specifically areas such as offline root management, prescriptive days, and AV requirements for read only media. Perhaps the group can do a quick pass to fix things that are major issues.
 
-### Review of pending ballots. {#Review_of_pending_ballots.}
+### Review of pending ballots.
 
-#### Ballot 184 – RFC 822 Names and otherNames, SRV names (Jeremy) {#Ballot_184\_-_RFC_822_Names_and_otherNames.2C_SRV_names_.28Jeremy.29}
+#### Ballot 184 – RFC 822 Names and otherNames, SRV names (Jeremy)
 
 Ben Wilson: Peter Bowen is working on the ballot on GitHub
 
-#### Ballot 186 – Limiting reuse of validation information (Ryan) {#Ballot_186\_.2BIBM_Limiting_reuse_of_validation_information\_.28Ryan.29}
+#### Ballot 186 – Limiting reuse of validation information (Ryan)
 
 Ryan: Update depends on ballot 190 progress, based on technical risk and suitability of validation method for long-term use.
 
-#### Ballot 190 – BR 3.2.2.4 Validation Methods (Kirk) {#Ballot_190\_.2BIBM_BR_3.2.2.4_Validation_Methods\_.28Kirk.29}
+#### Ballot 190 – BR 3.2.2.4 Validation Methods (Kirk)
 
 Already dealt with.
 
-#### Ballot 192 – Notary Clarification (Jeremy) {#Ballot_192\_-_Notary_Clarification_.28Jeremy.29}
+#### Ballot 192 – Notary Clarification (Jeremy)
 
 No comments.
 
-#### Ballot 202 – Underscore Characters in SANs (Ben) {#Ballot_202\_.2BIBM_Underscore_Characters_in_SANs\_.28Ben.29}
+#### Ballot 202 – Underscore Characters in SANs (Ben)
 
 Ben Wilson: Have final language, Need endorsers.
 
-#### RAs and Delegated Third Parties (Gerv) {#RAs_and_Delegated_Third_Parties\_.28Gerv.29}
+#### RAs and Delegated Third Parties (Gerv)
 
 Gerv: Looking for endorsers. It’s possible the existing state might be needed by certain CAs who are having problems and might need delegation.
 
@@ -787,25 +798,25 @@ Kirk: If I have a translator in Ecuador, and they make a phone call for me, I th
 
 Kirk: For example, the requirements only say that your employees need to have background checks, not your agents. Ryan: There are some giant loopholes as applied in practice.
 
-#### Expected ASN.1 grammar for BR & EV certificates (Peter) {#Expected_ASN.1_grammar_for_BR\_.26_EV_certificates\_.28Peter.29}
+#### Expected ASN.1 grammar for BR & EV certificates (Peter)
 
 We went over that already.
 
-#### Bylaws change – Membership requirements (Gerv) {#Bylaws_change\_.2BIBM_Membership_requirements\_.28Gerv.29}
+#### Bylaws change – Membership requirements (Gerv)
 
 Gerv: Now has a second endorser so it’ll be brought to the list shortly.
 
-#### Bylaw change – Voting rules (Jos) {#Bylaw_change\_-_Voting_rules_.28Jos.29}
+#### Bylaw change – Voting rules (Jos)
 
 Jos: Did I propose that? Uh, in that case, this is a great idea! We’ve had a number of recent problems with the balloting process, and there’s a real problem with ‘so what now’ when a problem occurs. There might be some quick fixes we want to think about. Email is not a good system, except for all the others available to us… We might make organizations specify who can submit a vote. Maybe some strictures about what happens if there is a debate about the validity of a vote. The rest we can safely punt to the governance working group.
 
 Ben: Also, something about which version of the ballot text takes precedence. Jos: I’m happy to discuss it, or just toss out a version on the mailing list.
 
-#### Requiring RFC 3647 format (Ryan) {#Requiring_RFC_3647_format\_.28Ryan.29}
+#### Requiring RFC 3647 format (Ryan)
 
 Ryan: Proposed effective date 1 Feb 2018. Hopefully vague enough to allow the flexibility we discussed while still having an effect. Intentionally loop-holey to get the rough idea. Two endorsers found in meeting.
 
-#### Profiling OCSP & CRLs (Ryan) {#Profiling_OCSP\_.26_CRLs\_.28Ryan.29}
+#### Profiling OCSP & CRLs (Ryan)
 
 Ryan: Will send to management list. Concerns around issuance of CRLs and frequency of that, offline CAs vs. how quickly you can revoke an intermediate. One recent intermediate revocation took multiple days to propagate from a CA’s issuance of CRL through their CDN. The OCSP side is mostly there except for subordinate CAs and multiple OCSP responder certificates. Some CAs give their OCSP certificates to other entities, under a ‘creative’ interpretation \[of the BRs\].
 
@@ -813,19 +824,19 @@ Ryan: We know there are ~50 CAs which sign OCSP online because they’ll sign a 
 
 Ryan: We’ve heard from some CAs that the restriction on delegated CA responders will be a problem. We’ll listen and adjust accordingly.
 
-#### Change in liability for EV certificates (Peter) {#Change_in_liability_for_EV_certificates\_.28Peter.29}
+#### Change in liability for EV certificates (Peter)
 
 Nothing to add.
 
-#### Any other ballots? {#Any_other_ballots.3F}
+#### Any other ballots?
 
 None!
 
-### Information about next F2F Meeting 42 in Taipei, October 3-5, 2017 {#Information_about_next_F2F_Meeting_42_in_Taipei.2C_October_3-5.2C_2017}
+### Information about next F2F Meeting 42 in Taipei, October 3-5, 2017
 
 [CAB-meeting-42-in-Taipei][2]
 
-### Membership Requirements for Browsers {#Membership_Requirements_for_Browsers}
+### Membership Requirements for Browsers
 
 Note Taker: J.P. Hamilton
 
@@ -847,9 +858,9 @@ Ryan then suggested that Cisco may already meet the browser membership requireme
 
 Ryan and Gerv then suggested that Cisco reapply as a Browser member and include information showing it meets all current membership criteria for a browser members. Under the Bylaws, the application will then be submitted to Forum members for approval by consensus, subject to the ability of any member to ask for a formal ballot on membership. Gerv then asked any member who thought Cisco did not qualify as a browser member under the current Bylaws to express any concerns about this privately to him or to Cisco.
 
-### Review accomplishments / list of tasks, thank you to hosts {#Review_accomplishments\_.2F_list_of_tasks.2C_thank_you_to_hosts}
+### Review accomplishments / list of tasks, thank you to hosts
 
-### Adjourn {#Adjourn}
+### Adjourn
 
 [1]: /uploads/Webtrust-CAB-update-June-2017.pdf
 [2]: /uploads/CAB-meeting-42-in-Taipei.pdf

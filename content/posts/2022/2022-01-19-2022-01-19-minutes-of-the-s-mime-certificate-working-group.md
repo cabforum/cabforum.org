@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-01-19-2022-01-19-minutes-of-the-s-mime-certificate-working-group/
+- /2022/01/19/2022-01-19-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-01-19 20:50:00
 tags:
@@ -10,31 +10,31 @@ title: 2022-01-19 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 January 19, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Cade Cairns (Google), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Dimitris Zacharopoulos (HARICA), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Joanna Fox (TrustCor Systems), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Mauricio Fernandez (TeleTrust), Miguel Sanchez (Google), Morad Abou Naser (TeleTrust), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW Group), Paul van Brouwershaven (Entrust), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stefan Selbitschka (runQuadrat), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (US Federal PKI Management Authority), Tim Crawford (CPA Canada/WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the January 5 teleconference were approved.
 
-### 5. Discussion 
+### 5. Discussion
 
 The working group discussed there are three areas of verification in section 3.2 relating to the Applicant, depending on the certificate type:
 
@@ -64,11 +64,11 @@ Dimitris suggested that the method might require more frequent revalidation, not
 
 Stephen noted that the initial version of the S/MIME BR would not require checking CAA, including the TLS CAA property tags. Clint indicated interest in returning to CAA in a future version.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, February 2, 2022 at 11 a.m. US Eastern.
 

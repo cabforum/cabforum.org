@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-11-23-ballot-94-adoption-of-cabrowser-forum-bylaws/
+- /2012/11/23/ballot-94-adoption-of-cabrowser-forum-bylaws/
 author: Ben Wilson
 date: 2012-11-23 18:21:17
 tags:
@@ -10,7 +10,7 @@ title: Ballot 94 – Adoption of CA/Browser Forum Bylaws
 type: post
 ---
 
-**Ballot 94 – Adoption of CA/Browser Forum Bylaws (Passed Unanimously)**
+## Ballot 94 – Adoption of CA/Browser Forum Bylaws (Passed Unanimously)
 
 Motion
 
@@ -28,7 +28,8 @@ A. Be it resolved that the CA / Browser Forum adopts the following set of Bylaws
 
 | |
 | --- |
-| **BYLAWS OF THE CA/BROWSER FORUM** Adopted effective as of 23 November 2012 |
+| **BYLAWS OF THE CA/BROWSER FORUM** Adopted effective as of 23 November 2012
+|
 
 **1. CA/BROWSER FORUM – PURPOSE, STATUS, AND ANTITRUST LAWS**
 
@@ -36,7 +37,7 @@ A. Be it resolved that the CA / Browser Forum adopts the following set of Bylaws
 
 The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of leading certification authorities (CAs) and vendors of Internet browser software and other applications.
 
-Members of the CA/Browser Forum have worked closely together in defining the guidelines and means of implementation for best practices as a way of providing a heightened security for Internet transactions and creating a more intuitive method of displaying secure sites to Internet users. ****
+Members of the CA/Browser Forum have worked closely together in defining the guidelines and means of implementation for best practices as a way of providing a heightened security for Internet transactions and creating a more intuitive method of displaying secure sites to Internet users. \*\*\*\*
 
 **1.2 Status of the Forum and Forum Activities**
 
@@ -60,7 +61,7 @@ The Chair will read an antitrust compliance statement at the start of all Forum 
 
 (d) Customers, business, or marketing plans; or
 
-(e) The allocation of customers, territories, or products in any way.” ****
+(e) The allocation of customers, territories, or products in any way.” \*\*\*\*
 
 **2. FORUM MEMBERSHIP AND VOTING**
 
@@ -128,7 +129,7 @@ Interested Parties are required to comply with the provisions of the Participati
 
 **3.2 Other Parties**
 
-The public may follow the Forum’s activities by reading all postings on the Public Mail List and the Public Web Site. Questions or comments to the Forum may be sent to Questions Mail List. ****
+The public may follow the Forum’s activities by reading all postings on the Public Mail List and the Public Web Site. Questions or comments to the Forum may be sent to Questions Mail List. \*\*\*\*
 
 **4. OFFICERS AND FINANCES**
 
@@ -138,15 +139,15 @@ The Forum will elect a Chair and Vice Chair, each to serve for a two-year term. 
 
 No person may serve as Chair for more than a two-year period or be elected to Vice Chair upon expiration or termination of the person’s service as Chair, but a person is eligible to be elected as Chair again after having vacated the position as Chair for at least two years.
 
-Upon expiration or early termination of the current Chair’s term, the Vice Chair will automatically be nominated to become the next Chair, but Members may nominate themselves or others to be additional candidates as Chair. Upon close of nominations a ballot will be held in the regular manner to elect the new Chair. If the election of a new Chair means the office of Vice Chair becomes vacant, the Members may nominate themselves or other candidates to the office of Vice Chair, and a ballot will be held in the regular manner to elect the new Vice Chair. ****
+Upon expiration or early termination of the current Chair’s term, the Vice Chair will automatically be nominated to become the next Chair, but Members may nominate themselves or others to be additional candidates as Chair. Upon close of nominations a ballot will be held in the regular manner to elect the new Chair. If the election of a new Chair means the office of Vice Chair becomes vacant, the Members may nominate themselves or other candidates to the office of Vice Chair, and a ballot will be held in the regular manner to elect the new Vice Chair. \*\*\*\*
 
 The Chair and Vice Chair shall exercise their functions in a fair and neutral manner, allowing all Members equal treatment for their comments and proposals, and shall not favor one side over another in any matter (except that the Chair and Vice Chair may indicate their own position during discussion and voting on the matter). The Chair and Vice Chair shall have no personal liability for any activities of the Forum or its Members or Interested Parties.
 
 The Chair or the Vice Chair may sign correspondence, applications, forms, Letters of Intent, and Memoranda of Understanding relating to projects with standards bodies, industry groups, and other third parties, but shall have no personal liability therefor.
 
-**4.2 Finances**
+- *4.2 Finances*\*
 
-**** Because the Forum has no corporate status, it will not maintain funds or banking accounts. The costs of operating Forum websites or mailing lists will be covered by voluntary contribution from Forum Members (who may seek voluntary contributions from other Members to help defray such costs). Forum Members may propose other group activities which they propose to sponsor (e.g., research projects, etc.) which require funding and may seek voluntary contributions from other Members for such activities.
+- \*\*\* Because the Forum has no corporate status, it will not maintain funds or banking accounts. The costs of operating Forum websites or mailing lists will be covered by voluntary contribution from Forum Members (who may seek voluntary contributions from other Members to help defray such costs). Forum Members may propose other group activities which they propose to sponsor (e.g., research projects, etc.) which require funding and may seek voluntary contributions from other Members for such activities.
 
 Forum Meetings may be held from time to time upon the voluntary sponsorship of one or more Forum members. The sponsor of a Forum Meeting may suggest a fixed cost per meeting participant as reimbursement to the sponsor to cover (a) the cost of meeting rooms and refreshments, and (b) the cost of any meeting dinner or other group activity. Sponsors will be encouraged to announce any suggested per-participant fixed cost reimbursement amount in advance of the Forum Meeting for participant planning purposes, and will provide a statement or invoice to each participant upon request after the Forum Meeting for submission to the participant’s accounting department. All per-participant reimbursements shall be paid directly to the sponsor.
 
@@ -176,7 +177,7 @@ Members have discretion about which mailing list they use, but are strongly enco
 
 Members are strongly discouraged from posting the text of Member Mail List messages to the Public Mail List without the permission of the author or commenter.
 
-**5.2 Public Mail List and Public Web Site** \_\_
+- *5.2 Public Mail List and Public Web Site*\* \_\_
 
 The Chair shall appoint a List Manager who shall maintain a Public Mail List. Forum Members and Interested Parties may post to the Public Mail List in compliance with these Bylaws. Anyone else is allowed to subscribe to and receive messages posted to the Public Mail List, which may be crawled and indexed by Internet search engines.
 
@@ -246,7 +247,7 @@ The Forum procedure for dealing with questions and comments sent to the Question
 
 **Forum Teleconferences:** Teleconference meetings of Members as scheduled from time to time.
 
-**Member:** A Member of the Forum or a representative of the Member (depending on context). ****
+- *Member:*\* A Member of the Forum or a representative of the Member (depending on context). \*\*\*\*
 
 **Member Mail List**: The email list-serv maintained by the Forum for communications by and among Forum Members. The Member Mail List is not available to Interested Parties or Other Parties.
 
@@ -254,7 +255,7 @@ The Forum procedure for dealing with questions and comments sent to the Question
 
 **Participation Agreement:** An agreement that individuals or entities must agree to in order to participate in the Forum as Interested Parties. The current form of Participation Agreement is attached as Exhibit D.
 
-**Public Mail List:** The public email list-serv currently located at maintained by the Forum for communications by and among Members and Interested Parties. The Public Mail List may be read by Other Parties, but Other Parties may not post to the Public Mail List.
+- *Public Mail List:*\* The public email list-serv currently located at maintained by the Forum for communications by and among Members and Interested Parties. The Public Mail List may be read by Other Parties, but Other Parties may not post to the Public Mail List.
 
 **Public Web Site:** The web site available only to Members, Interested Parties, and Other Parties (currently located at [cabforum.org][4]). A Forum Member will be appointed as Webmaster and will control all postings to the Public Web Site.
 
@@ -262,20 +263,18 @@ The Forum procedure for dealing with questions and comments sent to the Question
 
 **Exhibit A** \[Insert Member IPR Agreement here\]
 
-**Exhibit B
-**
+**Exhibit B**
 
 \[Insert Interested Party IPR Agreement here\]
 
 **Exhibit C – Project Lifecycle**
 
-**\[![](/wiki/moin_static193/modern/img/attach.png)\]\[5\]
-**
+- \*\[![](/wiki/moin_static193/modern/img/attach.png)\]\[5\]
+  \*\*
 
-**Exhibit D – Interested Parties Participation Agreement
-**
+**Exhibit D – Interested Parties Participation Agreement**
 
-\[Insert Agreement here\] ****
+\[Insert Agreement here\] \*\*\*\*
 
 –Bylaws End–
 

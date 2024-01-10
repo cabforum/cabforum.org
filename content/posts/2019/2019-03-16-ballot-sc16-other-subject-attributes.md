@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-03-16-ballot-sc16-other-subject-attributes/
+- /2019/03/16/ballot-sc16-other-subject-attributes/
 author: Wayne Thayer
 date: 2019-03-16 00:07:47
 tags:
@@ -37,13 +37,13 @@ at least one Certificate Issuer and one Certificate Consumer Member must vote in
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum.
 31 member companies attended the Cupertino F2F meeting, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **12**, so quorum was **13 votes** – quorum was met.
 
-**Purpose of Ballot:**
+## Purpose of Ballot
 
 This ballot intends to clarify requirements placed on Subject attributes in Subscriber certificates in BR section 7.1.4.2 and EVGL section 9.2.8. Specifically, Subject fields must contain more than just metadata if they are present in a certificate. The OU field is permitted in EV certificates, but no unspecified Subject attributes are permitted.
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Doug Beattie of GlobalSign and Tim Hollebeek of DigiCert.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.3:
 
@@ -58,8 +58,6 @@ Replace Baseline Requirements section 7.1.4.2.2(j.), in its entirety, with the f
 j. Other Subject Attributes
 
 Other attributes MAY be present within the subject field. If present, other attributes MUST contain information that has been verified by the CA.
-
-—-
 
 This ballot modifies the “Guidelines For The Issuance And Management Of Extended Validation Certificates” as follows, based on Version 1.6.8:
 
@@ -79,11 +77,11 @@ Add EV Guidelines section 9.2.9, with the following text:
 
 CAs SHALL NOT include any Subject attributes except as specified in Section 9.2.
 
-**— MOTION ENDS —**
+## Motion ends
 
 This ballot proposes a set of Final Maintenance Guidelines.
 
-\*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at: [https://github.com/wthayer/documents/compare/master…wthayer:EV-Subject-Information](https://github.com/wthayer/documents/compare/master...wthayer:EV-Subject-Information)
 
@@ -100,7 +98,9 @@ Vote for approval (7 days)
 Start Time: March 8, 2019 19:00 UTC
 
 End Time: March 15, 2019 19:00 UTC
- |
+
+|
 | |
- |
+
+|
 | |

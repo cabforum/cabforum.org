@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-01-18-ballot-159-amend-section-4-of-baseline-requirements/
+- /2016/01/18/ballot-159-amend-section-4-of-baseline-requirements/
 author: Ben Wilson
 date: 2016-01-18 02:03:00
 tags:

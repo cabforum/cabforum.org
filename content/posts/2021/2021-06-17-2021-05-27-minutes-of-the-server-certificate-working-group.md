@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-06-17-2021-05-27-minutes-of-the-server-certificate-working-group/
+- /2021/06/17/2021-05-27-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2021-06-17 19:32:00
 tags:
@@ -10,47 +10,47 @@ title: 2021-05-27 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Aaron Gable (Let’s Encrypt), Adrian Mueller (SwissSign), Ali Gholami (Telia), Amanda Mendieta (Apple), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (Digicert), Curt Spann (Apple), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Huo Haitao (Halton) (360 Browser), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kati Davids (GoDaddy), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Peter Miskovic (Disig), Redha Hamzah (PoS Digicert), Rebecca Kelley (Apple), Sebastian Schulz (GlobalSign), Stephen Davidson (Digicert), Thomas Zermeno (SSL.com), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Maileen Del Rosario (GoDaddy)
 
-## Minutes 
+## Minutes
 
-### 1. Read Antitrust Statement 
+### 1. Read Antitrust Statement
 
 Jos Purvis read the antitrust statement.
 
-### 2. Roll Call 
+### 2. Roll Call
 
 Wayne Thayer read the roll.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
 No changes were made to the agenda.
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 This item on the agenda was overlooked and no minutes were approved.
 
-### 5. Validation Subcommittee Update 
+### 5. Validation Subcommittee Update
 
 Tim Hollebeek said the call was very short and there were no topics to discuss. Preparation for the F2F will be the topic of the next meeting.
 
-### 6. NetSec Subcommittee Update 
+### 6. NetSec Subcommittee Update
 
 Ben WIlson reported that the subcommittee met briefly on Tuesday. They discussed Clint WIlson’s audit log retention changes and decided that retention periods should be measured from certificate expiration instead of certificate issuance.
 
 Dimitris asked if there was any discussion on the definition of audit logging, and Clint said that it was not discussed on the call, but that he has since reviewed Dimitris’ email and worked on the changes he thinks are needed to resolve the concerns.
 
-### 7. Ballot Status 
+### 7. Ballot Status
 
-#### Ballots in Discussion Period 
+#### Ballots in Discussion Period
 
 - Ballot SC45: Validation methods for Wildcards/ADNs –
 
-#### Ballots in Voting Period 
+#### Ballots in Voting Period
 
-##### Ballot SC46: Sunset the CAA Exception for DNS operator 
+##### Ballot SC46: Sunset the CAA Exception for DNS operator
 
 Jos said that the ballot becomes effective prior to the completion of the IPR period. There is no provision to withdraw a ballot, so everyone either needs to vote against the ballot, or we can fix the error in a subsequent cleanup ballot.
 
@@ -88,25 +88,25 @@ Jos encouraged members to continue the discussion on the list and reminded every
 
 A bit later in the call, Aaron said that he is filing two issues in GitHub related to this discussion. One for clarifying the behavior of effective dates and another for establishing a procedure for having flexible effective dates.
 
-#### Ballots in Review Period 
+#### Ballots in Review Period
 
 - SC42 – 398-day Reuse Period
 - SC44: Clarify Acceptable Status Codes
 
-#### Draft Ballots Under Consideration 
+#### Draft Ballots Under Consideration
 
-##### Ballot SCXX: Debian Weak Keys (Chris) 
+##### Ballot SCXX: Debian Weak Keys (Chris)
 
 Chris Kemmerer said he is still looking for more input on this ballot.
 
-##### Ballot SC34 Account Management (Tobi) 
+##### Ballot SC34 Account Management (Tobi)
 
 Tobi Josefowitz said he has rebased the old pull request. He will verify that the original endorsers still support the ballot and then open discussion.
 
-### 8. Any Other Business 
+### 8. Any Other Business
 
 Jos asked members to raise any agenda items for the upcoming face-to-face meeting with one of the WG or subcommittee chairs or vice-chairs.
 
-### 9. Next call: June 10, 2021 at 11AM Eastern 
+### 9. Next call: June 10, 2021 at 11AM Eastern
 
 Adjourn; Immediately convene meeting of CA Browser Forum call (same call)

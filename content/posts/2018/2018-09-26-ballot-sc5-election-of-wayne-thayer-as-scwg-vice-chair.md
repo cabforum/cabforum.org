@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-09-26-ballot-sc5-election-of-wayne-thayer-as-scwg-vice-chair/
+- /2018/09/26/ballot-sc5-election-of-wayne-thayer-as-scwg-vice-chair/
 author: Ben Wilson
 date: 2018-09-26 03:25:00
 tags:

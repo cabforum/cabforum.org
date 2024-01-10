@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-12-06-2022-12-06-minutes-of-the-network-security-working-group/
+- /2022/12/06/2022-12-06-minutes-of-the-network-security-working-group/
 author: Ben Wilson
 date: 2022-12-06 16:46:00
 tags:
@@ -10,7 +10,7 @@ title: 2022-12-06 Minutes of the Network Security Working Group
 type: post
 ---
 
-**Attendance:**
+## Attendance
 
 Adam Jones – Microsoft
 
@@ -30,17 +30,17 @@ Tim Crawford – BDO
 
 Wendy Brown – FPKI
 
-**Minutes:**
+## Minutes
 
-**Read Antitrust Statement**
+## Read Antitrust Statement
 
 Clint Wilson read the antitrust statement
 
-**2.  Roll Call**
+**2. Roll Call**
 
 No new members in attendance
 
-**3.  Review Agenda**
+**3. Review Agenda**
 
 Review and Approval of Nov 8th and F2F in Oct minutes
 
@@ -74,9 +74,9 @@ d. David Kluge showed the map, and reviewed findings with group
 
 e. Paul van Brouwershaven shared a link that shows a mapping between CCM and CIS
 
-a.
+a. <https://www.cisecurity.org/controls/v8#v8-mappings>
 
-b. (click add on the right top to add frameworks to compare, click the individual items to see the control numbers)
+b. <https://www.cisecurity.org/controls/cis-controls-navigator/> (click add on the right top to add frameworks to compare, click the individual items to see the control numbers)
 
 f. Is there a licensing concern if we utilized CCM? Auditors would have to decide.
 

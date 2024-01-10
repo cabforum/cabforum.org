@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-05-10-2023-05-10minutes-of-the-s-mime-certificate-working-group/
+- /2023/05/10/2023-05-10minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-05-10 20:14:44
 tags:
@@ -70,8 +70,6 @@ None
 Next call: tentative Wednesday, May 24, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-\_\_PRESENT
 
 [1]: https://pypi.org/project/pkilint/
 [2]: https://github.com/digicert/pkilint

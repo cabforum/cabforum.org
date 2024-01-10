@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-03-02-ballot-csc-6-update-to-subscriber-private-key-protection-requirements/
+- /2022/03/02/ballot-csc-6-update-to-subscriber-private-key-protection-requirements/
 author: Corey Bonnell
 date: 2022-03-02 13:00:00
 tags:
@@ -10,20 +10,25 @@ title: Ballot CSC-6 – Update to Subscriber Private Key Protection Requirements
 type: post
 ---
 
-## Results of Voting 
+## Results of Voting
 
 (Mailing list post is available [here][1].)
 
 | | | | |
 | --- | --- | --- | --- |
 | |
-Yes |
-No |
-Abstain | |
+Yes
+|
+No
+|
+Abstain
+|
+|
 Certificate Issuers
 | |
 DigiCertEntrustGlobalSignHARICASecureTrust
-| | |
+| |
+|
 Certificate Consumers
 | |
 Microsoft
@@ -31,13 +36,13 @@ Microsoft
 
 The ballot has FAILED.
 
-## Purpose of the ballot 
+## Purpose of the ballot
 
 Update the subscriber private key protection requirements in the Baseline Requirement for the Issuance and Management of Publicly-Trusted Code Signing Certificates v2.7.
 
 The following motion has been proposed by Ian McMillan of Microsoft, and endorsed by Tim Hollebeek of DigiCert and Bruce Morton of Entrust.
 
-## Motion 
+## Motion
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates“ version 2.7 according to the attached redline which includes:
 

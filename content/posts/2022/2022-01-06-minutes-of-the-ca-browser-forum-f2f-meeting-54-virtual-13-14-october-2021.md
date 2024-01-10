@@ -1,38 +1,38 @@
 ---
 aliases:
-- /2022-01-06-minutes-of-the-ca-browser-forum-f2f-meeting-54-virtual-13-14-october-2021/
+- /2022/01/06/minutes-of-the-ca-browser-forum-f2f-meeting-54-virtual-13-14-october-2021/
 author: Jos Purvis
 date: 2022-01-06 20:48:00
 tags:
-- Minutes
 - Forum
+- Minutes
 - Face-to-Face
 title: Minutes of the F2F 54 Meeting, Virtual, 13-14 October 2021
 type: post
 ---
 
-## Wednesday, 13 October 2021 – Plenary Meeting (Day 1) 
+## Wednesday, 13 October 2021 – Plenary Meeting (Day 1)
 
 The Antitrust statement was read.
 
-### Attendees 
+### Attendees
 
 Actalis (Adriano Santoni), Telia Company (Ali Gholami), SecureTrust (Andrea Holland), D-Trust (Andreas Henschel), Microsoft (Aneta Wojtczak-Iwanicka), Nimbus, Member of ETSI ESI (Arno Fiedler), Telekom Security (Arnold Essing), GlobalSign (Atsushi Inaba), Mozilla (Ben Wilson), DigiCert (Brenda Bernal), GoDaddy (Brittany Randall), Entrust (Bruce Morton), SSL.com (Chris Kemmerer), GlobalSign (Christophe Bonjean), Apple (Clint Wilson), DigiCert (Corey Bonnell), Apple (Curt Spann), DigiCert (Dean Coclin), Google Chrome (Devon O’Brien), HARICA (Dimitris Zacharopoulos), CPA Canada (Don Sheehy), GlobalSign (Doug Beattie), Microsoft (Dustin Hollenback), SSL.com (Dustin Ward), Google Chrome (Emily Stark), D-TRUST (Enrico Entschew), GlobalSign (Eva Van Steenberge), JPRS (Fumihiko Yoneda), MSC Trustgate.com (Hazhar Ismail), GoDaddy (Hong Bui), Microsoft (Hongquan Yin), Google Chrome (Hubert Chao), Microsoft (Ian McMillan), Sectigo (Iñigo Barreira), SecureTrust (Janet Hines), BDO (Jeff Ward), DigiCert (Jeremy Rowley), TrustCor (Joanna Fox), Cisco (Jos Purvis), Microsoft (Karina Gupta), Microsoft (Karina Sirota), Mozilla (Kathleen Wilson), GoDaddy (Kati Davids), OATI (Kidd Freeman), Microsoft (Kiran Tummala), SSL.com (Leo Grove), Chunghwa Telecom Co., Ltd (Li-Chun Chen), Buypass (Mads Henriksveen), Visa (Marcelo Silva), Sectigo (Martijn Katerbarg), TÜViT / ACAB’c (Matthias Wiedenhorst), SSL.com (Michael Sykes), Primekey (Guest) (Mike Agrenius Kushner), SwissSign (Mike Guenther), Microsoft (Mike Reilly), SecureTrust (Natalia Kotliarsky), SECOM (Natsumi Uchida), Sectigo (Nick France), SecureTrust (Niko Carpenter), SECOM (Ono Fumiaki), Entrust (Paul van Brouwershaven), OISTE (Pedro Fuentes), Disig (Peter Miskovic), TrustCor (Rachel McPherson), GoDaddy (Rae Ann Gonzales), Apple (Rebecca Kelley), Sectigo (Rob Stradling), SwissSign (Roman Fischer), Google Chrome (Ryan Dickson), Google Chrome (Ryan Sleevi), GlobalSign (Sebastian Schulz), DigiCert (Stephen Davidson), OATI (Stephanie Skoro), SECOM (Tadahiko Ito), SSL.com (Thomas Zermeno), Sectigo (Tim Callan), BDO (Tim Crawford), DigiCert (Tim Hollebeek), Opera (Tobias Josefowitz), Amazon Trust Services (Trevoli Ponds-White), Chunghwa Telecom Co., Ltd (Tsung-Min Kuo), GoDaddy (Tyler Myers), eMudhra (Vijay Kumar), Fastly (Wayne Thayer), Federal PKI (Wendy Brown), JPRS (Yoshiro Yoneya), Georgia Tech (Zane Ma)
 
-### Minutes 
+### Minutes
 
-### Approval of Minutes 
+### Approval of Minutes
 
 No minutes to approve. Dean/Karina will look for the prior meeting minutes and prepare them for the next meeting.
 
-### Future face to face meeting schedule 
+### Future face to face meeting schedule
 
 **Speaker:** Dean Coclin
 **Minute Taker:** Dean Coclin
 
 Cisco is unable to host the spring meeting. DigiCert has volunteered to host in March in Salt Lake City, Utah. More details forthcoming as we get closer to the date.
 
-### Infrastructure WG Recap 
+### Infrastructure WG Recap
 
 **Speaker:** Jos Purvis
 **Minute Taker:** Tim Callan
@@ -43,19 +43,19 @@ Corey had an inquiry, which gave the example of a weekly Github digest published
 
 Questions: No questions
 
-### Presentation: What’s in a Name? Exploring CA Certificate Control 
+### Presentation: What’s in a Name? Exploring CA Certificate Control
 
 **Guest Speaker:** Zane Ma
 
 **Slides:** [cabrowser_forum\_-\_ca_transparency.pdf][1]
 
-## Wednesday, 13 October 2021 – Server Certificate Working Group Meeting 
+## Wednesday, 13 October 2021 – Server Certificate Working Group Meeting
 
-### Attendees 
+### Attendees
 
 As marked for the Wednesday meeting session above
 
-### Mozilla Root Program Update 
+### Mozilla Root Program Update
 
 **Speaker:** Ben Wilson
 **Minute Taker:** Devon O’Brien
@@ -69,11 +69,11 @@ Starting to work through 63 open issues on GitHub concerning the Mozilla Root St
 
 Improved documentation throughout policy, including continuing replacement of “CA” with “CA Operator”, cleaning up organization / formatting, additional information about pre-certificates re: Mozilla root program
 
-**S/MIME certificates**
+## S/MIME certificates
 
 Considering proposing deprecating SHA-1 for S/MIME certs and looking for any remaining use cases for SHA-1 in certs for Mozilla-trusted hierarchies
 
-**CRLs**
+## CRLs
 
 - Clarifying CRL profile fields
 - Addressing revocation reason codes, primarily to flag key compromise revocations
@@ -89,7 +89,7 @@ Other News
 - Enabling HTTPS by default in private browsing
 - Disabled 3DES
 
-### Google Root Program Update 
+### Google Root Program Update
 
 **Speaker:** Ryan Dickson, Ryan Sleevi
 **Minute Taker:** Ben Wilson
@@ -110,7 +110,7 @@ Dimitris asked about EV treatment. If a CA wants to apply, the current process w
 
 Answer: The process has not changed, so the same process should be followed.
 
-### Apple Root Program Update 
+### Apple Root Program Update
 
 **Speaker:** Clint Wilson
 **Minute Taker:** Trevoli Ponds-White
@@ -131,7 +131,7 @@ Q: Why is Apple introducing changes now instead of waiting for the CA/B F S/MIME
 
 Sebastian: As per the recording, I also pointed out that changes to the Root Store policy now (to only allow 825 days) might have to be rolled back when S/MIME BR are published, with some cert profiles allowing more than 825 days as per current BR requirements. Clint acknowledged that as well
 
-### Microsoft Root Program Update 
+### Microsoft Root Program Update
 
 **Speaker:** Karina Sirota
 **Minute Taker:** Doug Beattie
@@ -140,24 +140,24 @@ _Presentation unavailable_
 
 The details are in the attached pdf presentation and there were no comments. Top level summary:
 
-**Change Management**
+## Change Management
 
 Root Store Certificate Trust List package is posted here:
 Release notes here:
 
-**Testing**
+## Testing
 
 If your CA has changes you will be notified and must test the changes within 5 days
 For instructions on how to test, please go to
 
-**Communications links and info**
+## Communications links and info
 
 - Use for communications:
 - Program Requirements:
 - Audit requirements:
 - If you have issues or suggestions for Microsoft Trusted Root Program requirements, you can provide them on the GitHub page: and be sure to send an email to for their records.
 
-### CCADB Update 
+### CCADB Update
 
 **Speaker:** Kathleen Wilson
 **Minute Taker:** Clint Wilson
@@ -174,7 +174,7 @@ A new Case type is being introduced for non-audit updates to CA details. The doc
 
 Q: Are Full CRLs inclusive of Expired and Revoked CAs? A: No
 
-### ETSI Program Update 
+### ETSI Program Update
 
 **Speaker:** Arno Fiedler
 **Minute Taker:** Matthias Wiedenhorst
@@ -185,7 +185,7 @@ ETSI TS 119 461 as a standard on identity proofing has been published. Updated v
 
 No questions.
 
-### Acab’c Update 
+### Acab’c Update
 
 **Speaker:** Matthias Wiedenhorst from TUVIT
 **Minute Taker:** Arno Fiedler
@@ -206,20 +206,20 @@ New Qualified Trust Services
 1. Electronic archiving of documents
 1. Electronic ledger
 
-## Code Signing Certificate Working Group Meeting 
+## Code Signing Certificate Working Group Meeting
 
 **Speaker:** Ian McMillan
 **Minute Taker:** Eva Van Steenberge
 
 **Slides and Agenda:** [f2f_54\_-\_cswg_202110_v1.pdf][5]
 
-### Roll Call 
+### Roll Call
 
 SwissSign (Adrian Mueller), Telia Company (Ali Gholami), SecureTrust (Andrea Holland), Nimbus, Member of ETSI ESI (Arno Fiedler), GlobalSign (Atsushi Inaba), Entrust (Bruce Morton), DigiCert (Corey Bonnell), DigiCert (Dean Coclin), HARICA (Dimitris Zacharopoulos), CPA Canada (Don Sheehy), GlobalSign (Doug Beattie), SSL.com (Dustin Ward), GlobalSign (Eva Van Steenberge), Microsoft (Glaucia Young), GoDaddy (Hong Bui), Microsoft (Ian McMillan), Sectigo (Iñigo Barreira), SecureTrust (Janet Hines), BDO (Jeff Ward), TrustCor (Joanna Fox), Cisco (Jos Purvis), Microsoft (Karina Gupta), Microsoft (Karina Sirota), OATI (Kidd Freeman), Microsoft (Kiran Tummala), TÜViT / ACAB’c (Matthias Wiedenhorst), SSL.com (Michael Sykes), Primekey (Guest) (Mike Agrenius Kushner), SECOM (Natsumi Uchida), Sectigo (Nick France), SECOM (Ono Fumiaki), Entrust (Paul van Brouwershaven), GoDaddy (Rae Ann Gonzales), SwissSign (Roman Fischer), GlobalSign (Sebastian Schulz), OATI (Stephanie Skoro), SECOM (Tadahiko Ito), SSL.com (Thomas Zermeno), BDO (Tim Crawford), DigiCert (Tim Hollebeek), DigiCert (Tomofumi Okubo), Amazon Trust Services (Trevoli Ponds-White), Chunghwa Telecom Co., Ltd (Tsung-Min Kuo), eMudhra (Vijay Kumar), JPRS (Yoshiro Yoneya)
 
-### Minutes 
+### Minutes
 
-Goals and Progress - Merge non-EV and EV requirements – DONE - Rationalize EV requirements – DONE - Address move to 4096-bit RSA – DONE - Cleanup and clarify requirements – DONE - Update Subscriber Private Key Protection requirements - Update Signing Service requirements - Move CSBR to Pandoc/RFC 3647 format – Update in draft - CSBR less dependent on SSL BRs and SSL EVGs
+Goals and Progress • Merge non-EV and EV requirements – DONE • Rationalize EV requirements – DONE • Address move to 4096-bit RSA – DONE • Cleanup and clarify requirements – DONE • Update Subscriber Private Key Protection requirements • Update Signing Service requirements • Move CSBR to Pandoc/RFC 3647 format – Update in draft • CSBR less dependent on SSL BRs and SSL EVGs
 
 Subscriber keys Ian McMillan: this is all about getting off of the acceptance of software generated and protected private keys. Pushing the official guidellines and requirements about cloud based solutions. Subscribers are using those solutions, but are they using the software protected versions,. or the hardware backed solutions? Really, that’s what we’re after, if you’re going to have a private key, it has to be generated in a hardware crypto module and remain protected there.
 
@@ -449,15 +449,15 @@ Other Items: Revocation Date Ballot – Corey has reviewed the changes with Rob 
 
 Next Meeting: Thursday, 21 October 2021, 12:00 ET
 
-## Thursday, 14 October 2021 – Server Certificate Working Group Meeting (Day 2) 
+## Thursday, 14 October 2021 – Server Certificate Working Group Meeting (Day 2)
 
 The Antitrust statement was read.
 
-### Attendees 
+### Attendees
 
 SwissSign (Adrian Mueller), Telia Company (Ali Gholami), SecureTrust (Andrea Holland), Nimbus, Member of ETSI ESI (Arno Fiedler), GlobalSign (Atsushi Inaba), Entrust (Bruce Morton), DigiCert (Corey Bonnell), DigiCert (Dean Coclin), HARICA (Dimitris Zacharopoulos), CPA Canada (Don Sheehy), GlobalSign (Doug Beattie), SSL.com (Dustin Ward), GlobalSign (Eva Van Steenberge), Microsoft (Glaucia Young), GoDaddy (Hong Bui), Microsoft (Ian McMillan), Sectigo (Iñigo Barreira), SecureTrust (Janet Hines), BDO (Jeff Ward), TrustCor (Joanna Fox), Cisco (Jos Purvis), Microsoft (Karina Gupta), Microsoft (Karina Sirota), OATI (Kidd Freeman), Microsoft (Kiran Tummala), TÜViT / ACAB’c (Matthias Wiedenhorst), SSL.com (Michael Sykes), Primekey (Guest) (Mike Agrenius Kushner), SECOM (Natsumi Uchida), Sectigo (Nick France), SECOM (Ono Fumiaki), Entrust (Paul van Brouwershaven), GoDaddy (Rae Ann Gonzales), SwissSign (Roman Fischer), GlobalSign (Sebastian Schulz), OATI (Stephanie Skoro), SECOM (Tadahiko Ito), SSL.com (Thomas Zermeno), BDO (Tim Crawford), DigiCert (Tim Hollebeek), DigiCert (Tomofumi Okubo), Amazon Trust Services (Trevoli Ponds-White), Chunghwa Telecom Co., Ltd (Tsung-Min Kuo), eMudhra (Vijay Kumar), JPRS (Yoshiro Yoneya)
 
-### WebTrust Update 
+### WebTrust Update
 
 **Speaker:** Don Sheehy, Jeff Ward
 **Minute Taker:** Wayne Thayer
@@ -467,7 +467,7 @@ Bruce Morton brought up the separation of the Network Security audit report from
 Jeff continued presenting the CPA Canada slides at the end of the document linked above.
 There were no additional questions.
 
-### Guest topic: News about qualified certificates for website authentication 
+### Guest topic: News about qualified certificates for website authentication
 
 **Speaker:** Enrico Entschew
 
@@ -475,7 +475,7 @@ _MINUTES NOTE: The CA/Browser Forum does not take any official position on the a
 
 Enrico presented these slides: [20211014-ca-b-forum-entschew.pdf][7]
 
-### Guest presentation: Designing the new eIDAS 2 browser UI 
+### Guest presentation: Designing the new eIDAS 2 browser UI
 
 **Speaker:** Chris Bailey
 
@@ -483,7 +483,7 @@ _MINUTES NOTE: The CA/Browser Forum does not take any official position on the p
 
 Chris presented these slides: [05_chris-bailey_20210900-ca-day-designing-the-new-eidas-2-browser-ui_1\_.pdf][8]
 
-### Understanding Requirements for Legacy CA Certificates 
+### Understanding Requirements for Legacy CA Certificates
 
 **Speaker:** Tim Callan
 **Minute Taker:** Clint Wilson
@@ -504,16 +504,16 @@ Q: What about with cRLSign bit? A: There are some complexities with cRLSign, and
 
 C: One requirement that was strange, was when we had to add the revocationReason for certificates; because that was a requirement going forward, we had to add reason codes to CAs revoked prior to the ballot going into effect. C: We definitely need to think about those “soft” retroactive effects with ballots. C: That’s a very useful general rule, though this specific revocation scenario was explicitly called out. C: It was discussed, but it wasn’t necessarily described in the ballot language itself. So perhaps an improvement to the ballot writing process and language to make sure these considerations are made more explicit.
 
-## Thursday, 14 October 2021 – S/MIME Certificate Working Group Meeting 
+## Thursday, 14 October 2021 – S/MIME Certificate Working Group Meeting
 
 **Speaker:**
 **Minute Taker:** Mads Henriksveen (Buypass)
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Adriano Santoni (Actalis), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Bailey (Entrust), Clint Wilson (Apple), Corey Bonnell (DigiCert), David Kluge (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate.com), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Joanna Fox (TrustCor), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Mike Agrenius Kushner (PrimeKey), Nick France (Sectigo), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Rebecca Kelley (Apple), Rob Stradling (Sectigo), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Wendy Brown (Federal PKI)
 
-### Minutes 
+### Minutes
 
 Anti-trust statement read
 

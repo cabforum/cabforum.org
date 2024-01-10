@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-02-22-ballot-98-public-voting/
+- /2013/02/22/ballot-98-public-voting/
 author: Ben Wilson
 date: 2013-02-22 18:14:35
 tags:

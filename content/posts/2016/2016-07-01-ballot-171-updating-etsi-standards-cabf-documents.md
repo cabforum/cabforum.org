@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-07-01-ballot-171-updating-etsi-standards-cabf-documents/
+- /2016/07/01/ballot-171-updating-etsi-standards-cabf-documents/
 author: Ben Wilson
 date: 2016-07-01 22:35:01
 tags:
@@ -22,13 +22,13 @@ Full voting results can be found here:
 Dean Coclin
 CA/B Forum Chair
 
-**Ballot 171 – Updating the ETSI standards in the CABF documents**
+## Ballot 171 – Updating the ETSI standards in the CABF documents
 
 The following motion has been proposed by Iñigo Barreira of Izenpe and endorsed by Mads Henriksveen of Buypass, Jochem van den Berge of Logius PKIoverheid and Arno Fiedler of D-trust
 
-— MOTION BEGINS –
+- MOTION BEGINS –
 
-**In the BRs,**
+## In the BRs,
 
 In section 1.6.3 References, change:
 
@@ -50,7 +50,7 @@ In section 8.2 Identity/qualification of assessor, point 4, change:
 
 With
 
-4. (For audits conducted in accordance with any one of the ETSI standards)  accredited in accordance with ISO 17065 applying the requirements specified in ETSI EN 319 403;
+4. (For audits conducted in accordance with any one of the ETSI standards) accredited in accordance with ISO 17065 applying the requirements specified in ETSI EN 319 403;
 
 In section 8.4 Topics covered by assessment, point 2, change:
 
@@ -60,17 +60,17 @@ With
 
 2. A national scheme that audits conformance to ETSI TS 102 042/ ETSI EN 319 411-1;
 
-**In the EV guidelines,**
+## In the EV guidelines,
 
 In section 8.2.1 Implementation, point (B), change:
 
-(B)  Implement the requirements of (i) the then-current WebTrust Program for CAs, and (ii) the then-current WebTrust
+(B) Implement the requirements of (i) the then-current WebTrust Program for CAs, and (ii) the then-current WebTrust
 
 EV Program or ETSI TS 102 042; and
 
 With
 
-(B)  Implement the requirements of (i) the then-current WebTrust Program for CAs, and (ii) the then-current WebTrust
+(B) Implement the requirements of (i) the then-current WebTrust Program for CAs, and (ii) the then-current WebTrust
 
 EV Program or ETSI TS 102 042 for EVCP or ETSI EN 319 411-1 for EVCP policy; and
 
@@ -110,7 +110,7 @@ With
 
 (4) If the CA does not have a currently valid WebTrust Seal of Assurance for CAs or or an ETSI TS 102 042 EVCP or an ETSI EN 319 411-1 audit for EVCP policy, then, before issuing EV Certificates, the CA and its Root CA MUST successfully complete either: (i) a point-in-time readiness assessment audit against the WebTrust for CA Program, or (ii) a point-in-time readiness assessment audit against the WebTrust EV Program, or an ETSI TS 102 042 EVCP, or an ETSI EN 319 411-1 for EVCP policy.
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 2200 UTC on 17 June 2016, and will close at 2200 UTC on 24 June 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 1 July 2016. Votes must be cast by posting an on-list reply to this thread.
 

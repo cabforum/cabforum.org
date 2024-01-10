@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-07-26-ballot-202-underscore-wildcard-characters/
+- /2017/07/26/ballot-202-underscore-wildcard-characters/
 author: Ben Wilson
 date: 2017-07-26 07:56:36
 tags:
@@ -10,27 +10,27 @@ title: Ballot 202 – Underscore and Wildcard Characters
 type: post
 ---
 
-**Results on Ballot 202 – Underscore Character in SANs**
+## Results on Ballot 202 – Underscore Character in SANs
 
 The voting period for Ballot 202 has ended, and the ballot has failed. Here are the results.
 
-**Voting by CAs – 19 votes total, including abstentions**
+## Voting by CAs – 19 votes total, including abstentions
 
-12 Yes votes: Actalis, Amazon, Cisco, Comodo, DigiCert, Disig, HARICA, Let’s Encrypt, QuoVadis, Symantec, TrustCor, Trustwave
+- **12 Yes votes:** Actalis, Amazon, Cisco, Comodo, DigiCert, Disig, HARICA, Let’s Encrypt, QuoVadis, Symantec, TrustCor, Trustwave
 
-7 No votes: Buypass, CFCA, DocuSign France, Entrust, GDCA, GlobalSign, SHECA
+- **7 No votes:** Buypass, CFCA, DocuSign France, Entrust, GDCA, GlobalSign, SHECA
 
-0 Abstain:
+- **0 Abstain:**
 
 63% of voting CAs voted in favor
 
-**Voting by browsers – 3 votes total, including abstentions**
+## Voting by browsers – 3 votes total, including abstentions
 
-3 Yes votes: Apple, Google, Mozilla
+- **3 Yes votes:** Apple, Google, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -40,9 +40,9 @@ At least one CA Member and one browser Member must vote in favor of a ballot for
 
 Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one browser votes for approval. Votes to abstain are not counted for this purpose. This requirement was met for browsers but was not met for CAs.
 
-**Ballot 202 fails.**
+## Ballot 202 fails.
 
-**Ballot 202 – Underscore and Wildcard Characters**
+## Ballot 202 – Underscore and Wildcard Characters
 
 The current Baseline Requirements do not expressly allow underscore
 characters in Subject Alternative Names. This ballot seeks to clarify that

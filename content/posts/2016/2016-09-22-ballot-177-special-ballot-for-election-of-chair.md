@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-09-22-ballot-177-special-ballot-for-election-of-chair/
+- /2016/09/22/ballot-177-special-ballot-for-election-of-chair/
 author: Ben Wilson
 date: 2016-09-22 02:10:00
 tags:

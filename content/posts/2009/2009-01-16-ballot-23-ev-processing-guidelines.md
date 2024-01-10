@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2009-01-16-ballot-23-ev-processing-guidelines/
+- /2009/01/16/ballot-23-ev-processing-guidelines/
 author: Ben Wilson
 date: 2009-01-16 18:55:47
 tags:
@@ -16,21 +16,13 @@ Motion
 
 Tim Moses made the following motion, which was endorsed by Bjorn Vermo and Charlie Buckley.
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The EV Processing Guidelines at …
 
 should be adopted by the CABForum.
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 1700 EST on 19 Dec 2008,and will close at 1700 EST on 9 Jan 2009. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EST on 16 Jan 2009.
 

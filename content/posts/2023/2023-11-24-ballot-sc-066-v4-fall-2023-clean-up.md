@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-11-24-ballot-sc-066-v4-fall-2023-clean-up/
+- /2023/11/24/ballot-sc-066-v4-fall-2023-clean-up/
 author: Iñigo Barreira
 date: 2023-11-24 12:50:07
 tags:
@@ -10,25 +10,25 @@ title: 'Ballot SC-066 v4: Fall 2023 Clean up'
 type: post
 ---
 
-**Voting Results**
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 24 votes total, with no abstentions:
 
-- 24 Issuers voting YES: Actalis, Amazon, Buypass, Chunghwa Telecom, D-Trust, Digicert, Disig, eMudhra, Entrust, Fastly, GDCA, Globalsign, GoDaddy, HARICA, iTrusChina, Izenpe, JPRS, LE, OISTE, SECOM, Sectigo, SSL.com, Swisssign and Telia
-- 0 Issuers voting NO
-- 0 Issuers ABSTAIN
+- **24 Issuers voting YES:** Actalis, Amazon, Buypass, Chunghwa Telecom, D-Trust, Digicert, Disig, eMudhra, Entrust, Fastly, GDCA, Globalsign, GoDaddy, HARICA, iTrusChina, Izenpe, JPRS, LE, OISTE, SECOM, Sectigo, SSL.com, Swisssign and Telia
+- **0 Issuers voting NO**
+- **0 Issuers ABSTAIN**
 
-**Certificate Consumers**
+## Certificate Consumers
 
 4 votes total, with no abstentions:
 
-- 4 Consumers voting YES: Google, Mozilla, Apple and Opera
-- 0 Consumers voting NO
-- 0 Consumers ABSTAIN
+- **4 Consumers voting YES:** Google, Mozilla, Apple and Opera
+- **0 Consumers voting NO**
+- **0 Consumers ABSTAIN**
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 1. Bylaw 2.3(6) requires:
 
@@ -54,7 +54,7 @@ Notes:
 
 The following motion has been proposed by Iñigo Barreira of Sectigo. And, endorsed by Aaron Gable of Let´s Encrypt and Clint Wilson of Apple.
 
-## — Motion Begins —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 2.0.1.
 
@@ -62,7 +62,7 @@ MODIFY the Baseline Requirements as specified in the following Redline:
 
 [Comparing 90a98dc7c1131eaab01af411968aa7330d315b9b…d8447957753ed973cb036d0afe16723243c89998 · cabforum/servercert (github.com)][1]
 
-## — Motion Ends —
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 

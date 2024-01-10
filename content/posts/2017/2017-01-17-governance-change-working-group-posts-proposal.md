@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-01-17-governance-change-working-group-posts-proposal/
+- /2017/01/17/governance-change-working-group-posts-proposal/
 author: Ben Wilson
 date: 2017-01-17 21:50:41
 title: Governance Change Working Group Posts Proposal
@@ -11,9 +11,9 @@ The Governance Change Working Group has been working on an outline which would b
 
 This group was originally chartered by [Ballot 165][1] in April 2016 and has been meeting bi-weekly since then.
 
-Linked [here][2] is the outline for which we are seeking comments, suggestions, recommendations (and criticism) from members and the public at large.  Comments are due back by Friday, February 17th 2017. The public may comment by either sending to a current member (who will then re-post the comments to the public list) or by sending an email to questions @ cabforum.org. \[NOTE: The public cannot reply or send to public @ cabforum.org\]. The final outline will also be posted here:
+Linked [here][2] is the outline for which we are seeking comments, suggestions, recommendations (and criticism) from members and the public at large. Comments are due back by Friday, February 17th 2017. The public may comment by either sending to a current member (who will then re-post the comments to the public list) or by sending an email to questions @ cabforum.org. \[NOTE: The public cannot reply or send to public @ cabforum.org\]. The final outline will also be posted here:
 
-Once we finalize the outline, the working group will begin drafting new bylaws.  Hence it is important that we get agreement on this outline. Please don’t wait until the last day to submit comments as the group will continue meeting bi-weekly to review them as they come in.
+Once we finalize the outline, the working group will begin drafting new bylaws. Hence it is important that we get agreement on this outline. Please don’t wait until the last day to submit comments as the group will continue meeting bi-weekly to review them as they come in.
 
 Thank you!
 Dean Coclin and Ben Wilson

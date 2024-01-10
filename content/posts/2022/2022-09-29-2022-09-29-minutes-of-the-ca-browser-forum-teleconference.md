@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-09-29-2022-09-29-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/09/29/2022-09-29-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-09-29 17:10:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-09-29 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
@@ -14,19 +14,19 @@ type: post
 
 **Minutes:** Martijn Katerbarg
 
-**Read Antitrust Statement**
+## Read Antitrust Statement
 
 Jos Purvis read the antitrust statement.
 
-**Review Agenda**
+## Review Agenda
 
 No changes were made to the agenda.
 
-**Approval of Minutes from Last Teleconference**
+## Approval of Minutes from Last Teleconference
 
 We’re still waiting on the minutes of the August 18th meeting. Minutes of September 15st were approved.
 
-**Forum Infrastructure report**
+## Forum Infrastructure report
 
 One bug discovered in the membership tool during member registration. This was resolved and it seems to be working well now.
 
@@ -36,18 +36,18 @@ Ben Wilson sent out a list of pages to be updated and while some have been done,
 
 A PR request is open for tooling updates that generates the guideline documents. Individual working groups will need to look at upgrading and check that no documents are broken by this change. Each working group will also need to figure out if a formatting change will need a new document version.
 
-**Code Signing Working Group report**
+## Code Signing Working Group report
 
 Ballot CSC-15 for the summer cleanup is now complete through the IPR period.
 Ballot CSC-16 in which the date to require keys on hardware is postponed passed and is now in the IPR period.
 
 Still working on signing service updates, malware proposals and timestamping.
 
-**NetSec report**
+## NetSec report
 
 Chair election ballot will close in a few hours. After the results are posted the Vice-Chair nominations will open. Other than that NetSec is moving onwards with the threat assessment.
 
-**S/MIME report**
+## S/MIME report
 
 Formal discussion period for the ballot is underway but has been extended due to a number of discussion items. The pending issue of having a SHALL for OCSP is raised by Stephen. Some of the CAs have asked for OCSP to become a MAY, however Microsoft as Certificate Consumer has OCSP as a requirement in their Root Store Policy. Yet, at least one CA has made it clear that they have received confirmation by Microsoft that they only require OCSP for TLS Certificates, not code signing and S/MIME. Stephen has requested a representative from Microsoft to contribute to the discussion to get clarity. Kiran Tummala clarified that internal discussions are ongoing which is leaning towards making it optional, however it will be up to Karina to come with the official response once final decision has been made.
 
@@ -55,7 +55,7 @@ Dimitris mentioned that HARICA is one of the CAs that received a letter from Mic
 
 Dimitris also raised that there was also a discussion regarding the use of countryName. Stephen has put in and merged a PR that should resolve this issue.
 
-**Any other business**
+## Any other business
 
 Election status: Code Signing Chair election is completed. Other working groups are about to close.
 
@@ -69,4 +69,4 @@ The evening event is set to start at 7pm but may be moved earlier.
 
 Dimitris added that the CA Day and TSP Day agenda is now posted.
 
-**Meeting adjourned.**
+## Meeting adjourned.

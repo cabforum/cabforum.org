@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-05-10-2022-05-10-minutes-of-the-network-security-working-group/
+- /2022/05/10/2022-05-10-minutes-of-the-network-security-working-group/
 author: Clint Wilson
 date: 2022-05-10 12:00:00
 tags:
@@ -10,7 +10,7 @@ title: 2022-05-10 Minutes of the Network Security Working Group
 type: post
 ---
 
-**CA/Browser Forum NetSec Meeting**
+## CA/Browser Forum NetSec Meeting
 
 - **Attendance:**
 - Adam Jones – Microsoft
@@ -39,7 +39,7 @@ type: post
 - Tony Seymour – Comsign
 - Trevoli Ponds – Amazon Trust Services
 
-**Minutes:**
+## Minutes
 
 **1. Read Antitrust Statement**
 
@@ -57,11 +57,11 @@ c. Zones Ballot/ Air Gap Offline (Ben Wilson)
 
 **4. Cloud Services Sub-Group Risk Assessment effort**
 
-a**. **Define risk scenarios of threat, and consider other scenarios that are not too far fetched, but proven to be productive. Will work through scenarios offline and then review them in the next meeting. Amazon has offered a guest to assist in the methodology and work through some of the examples that are given.
+a\*\*. \*\*Define risk scenarios of threat, and consider other scenarios that are not too far fetched, but proven to be productive. Will work through scenarios offline and then review them in the next meeting. Amazon has offered a guest to assist in the methodology and work through some of the examples that are given.
 
 **5. Ballots (Ben Wilson)**
 
-a**. **Previous work on two ballots. 1) Zone Ballot, 2) Offline or Gap Ballot that need more definitions to help clarify certain topics.b. {.}
+a\*\*. \*\*Previous work on two ballots. 1) Zone Ballot, 2) Offline or Gap Ballot that need more definitions to help clarify certain topics.b. {.}
 
 c. Definitions and language was last updated awhile ago, and should there be a separate meeting, like a structure group, to update and bring ballots up to date.
 

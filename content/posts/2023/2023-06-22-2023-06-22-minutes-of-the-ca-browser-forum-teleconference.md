@@ -1,23 +1,26 @@
 ---
 aliases:
-- /2023-06-22-2023-06-22-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/06/22/2023-06-22-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-06-22 00:41:50
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-06-22 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-**Attendees:**
+## Attendees
+
 Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), Andrea Holland – (VikingCloud), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Clint Wilson – (Apple), Corey Rasmussen – (OATI), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Ellie Lu – (TrustAsia Technologies, Inc.), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Jos Purvis – (Fastly), Karina Sirota – (Microsoft), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Marco Schambach – (IdenTrust), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Roman Fischer – (SwissSign), Ryan Dickson – (Google), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wendy Brown – (US Federal PKI Management Authority), Yashwanth TM – (eMudhra), Yoshiro Yoneya – (Japan Registry Services).
 Dimitris read the **note-well**
-**Approval of minutes:**
+
+## Approval of minutes
 
 - May 25th, circulated June 7th: approved
 
-**Updates:**
+## Updates
+
 **Server Cert Working Group Update** – Iñigo Barreira (Sectigo)
 
 - Last meeting was during f2f and the following topics were discussed:

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2021-09-23-2021-09-23-minutes-of-the-code-signing-certificate-working-group/
+- /2021/09/23/2021-09-23-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-09-23 16:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2021-09-23 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Atsushi Inaba, Ben Wilson, Bruce Morton, Corey Bonnell, Dimitris Zacharopoulos, Ian McMillan, Iñigo Barreira, Janet Hines, Joanna Fox, Roberto Quiñones, Sebastian Schulz, Tim Crawford, Tomas Gustavsson
 
-## Minutes 
+## Minutes
 
 Bruce read the antitrust statement.
 

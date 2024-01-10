@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-02-01-ballot-sc25-define-new-http-domain-validation-methods-v2/
+- /2020/02/01/ballot-sc25-define-new-http-domain-validation-methods-v2/
 author: Wayne Thayer
 date: 2020-02-01 15:06:46
 tags:
@@ -10,11 +10,11 @@ title: 'Ballot SC25: Define New HTTP Domain Validation Methods v2'
 type: post
 ---
 
-## BALLOT RESULTS 
+## BALLOT RESULTS
 
 The voting period for Ballot SC25 has ended and **the Ballot has Passed**. Here are the results:
 
-### Voting by Certificate Issuers 
+### Voting by Certificate Issuers
 
 **24 votes total including abstentions**
 
@@ -24,9 +24,9 @@ The voting period for Ballot SC25 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Issuers voted in favor.
 
-### Voting by Certificate Consumers 
+### Voting by Certificate Consumers
 
-**5 votes total including abstentions**
+- *5 votes total including abstentions*\*
 
 – **5 Yes vote**s: Apple, Cisco, Google, Microsoft, Mozilla
 – 0 **No votes**:
@@ -34,7 +34,7 @@ The voting period for Ballot SC25 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Consumers voted in favor.
 
-### Relevant Bylaw references 
+### Relevant Bylaw references
 
 Bylaw 2.3(f) requires:
 
@@ -43,9 +43,9 @@ Bylaw 2.3(f) requires:
 
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **10**, so quorum was **11** votes – quorum was met.”
 
-## Ballot SC25: Define New HTTP Domain Validation Methods v2 
+## Ballot SC25: Define New HTTP Domain Validation Methods v2
 
-**Purpose of Ballot:**
+\*\*Purpose of Ballot: \*\*
 
 This ballot sets a sunset date for the current Method 6 and defines two new
 Domain Validation methods. One is intended to replace Method 6 (Agreed-Upon
@@ -56,7 +56,7 @@ The following motion has been proposed by Doug Beattie of GlobalSign and
 endorsed by Jacob Hoffman-Andrews of Lets Encrypt and Bruce Morton of
 Entrust.
 
-**—MOTION BEGINS—**
+- *-MOTION BEGINS-*\*
 
 This ballot modifies the “Baseline Requirements for the Issuance and
 Management of Publicly-Trusted Certificates” as defined in the following
@@ -65,7 +65,7 @@ redline, based on Version 1.6.7:
 [https://github.com/dougbeattie/documents/commit/bb90ff37c4bc043636229138d992
 3fcff670cdfc#diff-7f6d14a20e7f3beb696b45e1bf8196f2](https://github.com/dougbeattie/documents/commit/bb90ff37c4bc043636229138d9923fcff670cdfc#diff-7f6d14a20e7f3beb696b45e1bf8196f2)
 
-**—MOTION ENDS—**
+- *-MOTION ENDS-*\*
 
 This ballot proposes a Final Maintenance Guideline.
 

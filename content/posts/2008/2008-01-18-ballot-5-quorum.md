@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-01-18-ballot-5-quorum/
+- /2008/01/18/ballot-5-quorum/
 author: Ben Wilson
 date: 2008-01-18 17:54:33
 tags:

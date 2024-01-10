@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-09-15-ballot-forum-5-election-of-ca-browser-forum-vice-chair-term-nov-1-2018-oct-31-2020/
+- /2018/09/15/ballot-forum-5-election-of-ca-browser-forum-vice-chair-term-nov-1-2018-oct-31-2020/
 author: Ben Wilson
 date: 2018-09-15 02:48:00
 tags:

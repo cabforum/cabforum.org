@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-05-15-2020-04-30-minutes-of-the-server-certificate-working-group/
+- /2020/05/15/2020-04-30-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2020-05-15 19:48:00
 tags:
@@ -12,29 +12,29 @@ type: post
 
 Minute taker: Tobias S. Josefowitz
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michael Guenther (SwissSign), Michelle Coon (OATI), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Taconis Lewis (FPKI).
 
-## Minutes 
+## Minutes
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Chair took attendance.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
 Accepted without changes.
 
-### 4. Approval of minutes from previous teleconference 
+### 4. Approval of minutes from previous teleconference
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update 
+### 5. Validation Subcommittee Update
 
 Tim reports that the Subcommittee is continuing to tackle the same two topics it has been discussing for a while now.
 
@@ -46,7 +46,7 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 6. NetSec Subcommittee Update 
+### 6. NetSec Subcommittee Update
 
 Neil reports that the Painpoints subteam has been focusing on the details to a ballot concerning log retention, trying to tighten up the text.
 
@@ -64,22 +64,22 @@ The draft minutes of that particular Subcommittee meeting are available at the f
 
 -
 
-### 7. Ballot Status 
+### 7. Ballot Status
 
-#### Ballots in Discussion Period 
+#### Ballots in Discussion Period
 
 None.
 
-#### Ballots in Voting Period 
+#### Ballots in Voting Period
 
 \_SC29: System Configuration Management \_(Neil)
 Neil asked members to vote.
 
-#### Ballots in Review Period 
+#### Ballots in Review Period
 
 \_SC27: Version 3 Onion Certificates \_(Wayne) (review ends 2020-03-26)
 
-#### Draft Ballots under Consideration 
+#### Draft Ballots under Consideration
 
 \_Aligning the BRs with existing Browser Requirements _(Ryan)
 No updates
@@ -93,7 +93,7 @@ Ryan reports there has been some discussion in the validation subcommittee, but 
 _Updating BR Section 6.1.1.3_
 Chris: We are considering incorporating some of the changes Ryan has been suggesting, we’ll need to review internally, we will comment shortly.
 
-### 8. Agenda topics for the upcoming F2F 
+### 8. Agenda topics for the upcoming F2F
 
 Dimitris sent out a Draft Agenda for the Virtual Meeting (June 9th), tried to squeeze everything into three days. First day is subcommittee day, code signing working group is not scheduled as they will have a meeting anyway one week before and one week after. The same question applies to Subcommittee Chairs for Form Infrastructure, NetSec and Validation Subcommittee. He recommend having those meetings because hopefully more people are going to join than the regular meetings, but it is up to the Chairs. The Subcommittee chairs should contact Dimitris if they want to change the slots.
 
@@ -103,11 +103,11 @@ We have Browser updates, CCADB, Webtrust, ETSI, ACABc, reports from every Subcom
 
 If anybody wants to propose a topic feel free to send to the public list or to Dimitris directly.
 
-### 9. Any Other Business 
+### 9. Any Other Business
 
 No other business.
 
-### 10. Next call 
+### 10. Next call
 
 May 14, 2020 at 11:00 am Eastern Time.
 

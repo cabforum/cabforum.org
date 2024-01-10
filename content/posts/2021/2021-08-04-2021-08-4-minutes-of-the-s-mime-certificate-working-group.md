@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-08-04-2021-08-4-minutes-of-the-s-mime-certificate-working-group/
+- /2021/08/04/2021-08-4-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2021-08-04 20:59:00
 tags:
@@ -10,31 +10,31 @@ title: 2021-08-04 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 August 4, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Christy Berghoff (Federal PKI), Clint Wilson (Apple), Corey Bonnell (DigiCert), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Eusebio Herrera (Camerfirma), Hazhar Ismail (MSC Trustgate.com), Hongquan Yin (Microsoft), Inigo Barreira (Sectigo), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Matthias Wiedenhorst (ACAB’c), Mauricio Fernandez (TeleTrust), Morad Abou Nasser (TeleTrust), Niko Carpenter (SecureTrust), Patrycja Tulinska (PSW), Pedro Fuentes (OISTE), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Vigil Security), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Tim Crawford (WebTrust), Tsung-Min Kuo (Chunghwa Telecom)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the July 23 teleconference were approved.
 
-### 5. Discussion 
+### 5. Discussion
 
 Clint Wilson asked about the status of the OIDs for the S/MIME BR certificate profiles, and whether they are firm enough for CAs to start considering to use them. Stephen Davidson noted the OIDs and their order have already shuffled several times in our proceedings. When the certificate profiles are considered sufficiently firm, a ballot will be held to finalize those OIDs.
 
@@ -67,11 +67,11 @@ Stefan Selbitschka pointed out that in the Org profile, there really was no way 
 
 Next meeting returns to discuss the Organization profile.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, August 18, 2021 at 11:00 am Eastern Time
 

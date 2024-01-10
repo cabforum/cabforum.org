@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-07-29-notice-ipr-review-period-br-amendments-made-ballots-96-97-99-102-105/
+- /2013/07/29/notice-ipr-review-period-br-amendments-made-ballots-96-97-99-102-105/
 author: Ben Wilson
 date: 2013-07-29 18:13:30
 tags:

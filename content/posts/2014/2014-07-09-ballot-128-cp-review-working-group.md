@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-07-09-ballot-128-cp-review-working-group/
+- /2014/07/09/ballot-128-cp-review-working-group/
 author: Ben Wilson
 date: 2014-07-09 21:22:17
 tags:
@@ -19,7 +19,7 @@ Abstaining: Actalis
 
 Result: Ballot passes.
 
-**Ballot 128 – CP Review Working Group**
+## Ballot 128 – CP Review Working Group
 
 During the CAB Forum face-to-face meeting, we discussed creating a working group to compare the NIST IR proposal and various with the existing CAB Forum work product. The group will also continue our contemplation on converting to a 3647 format to make future comparisons easier.
 
@@ -33,7 +33,7 @@ Jeremy
 
 Jeremy Rowley (DigiCert) made the following motion, endorsed by Dean Coclin (Symantec) and Doug Beattie (GlobalSign)
 
-**—MOTION BEGINS—**
+## -MOTION BEGINS
 
 The CAB Forum shall create a Working Group called the CP Review Working Group.
 
@@ -41,7 +41,7 @@ Scope: The CP Review Working Group will (i) consider existing and proposed stand
 
 Deliverables: The Working Group will produce topics of discussion and proposed ballots that improve the CA infrastructure based on existing standards and documents. The Working Group will also make a recommendation on whether to finish the 3647 conversion. Of course, all work product produced by the Working Group is non-binding on the forum until officially adopted by ballot.
 
-**… MOTION ENDS …**
+## … MOTION ENDS …
 
 The review period starts on Wednesday, June 25, 2014 and ends on July 2, 2014. Voting starts at 2200 UTC on Wednesday, July 2, 2014. The voting period will close at 2200 UTC on Wednesday, July 9, 2014.
 

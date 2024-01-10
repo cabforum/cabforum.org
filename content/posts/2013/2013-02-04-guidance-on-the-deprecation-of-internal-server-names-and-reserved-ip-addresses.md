@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-02-04-guidance-on-the-deprecation-of-internal-server-names-and-reserved-ip-addresses/
+- /2013/02/04/guidance-on-the-deprecation-of-internal-server-names-and-reserved-ip-addresses/
 author: Ben Wilson
 date: 2013-02-04 23:53:48
 title: Guidance on the Deprecation of Internal Server Names and Reserved IP Addresses

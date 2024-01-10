@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2009-07-14-ballot-29-guidelines-renumbering/
+- /2009/07/14/ballot-29-guidelines-renumbering/
 author: Ben Wilson
 date: 2009-07-14 19:38:18
 tags:
@@ -16,11 +16,7 @@ Motion
 
 Tim Moses has made the following motion, and Bjorn Vermo and Nick Hales have endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective upon ratification of Version 1.2, the Guidelines should be renumbered in accordance with the following table.
 
@@ -312,31 +308,27 @@ ToC -> ToC
 
 15.2.2 Root CA Indemnification -> (b) Root CA Indemnification
 
-Appendix A – Minimum Cryptographic Algorithm and Key Sizes -> Appendix A — Minimum Cryptographic Algorithm and Key Sizes
+Appendix A – Minimum Cryptographic Algorithm and Key Sizes -> Appendix A - Minimum Cryptographic Algorithm and Key Sizes
 
-Appendix B – EV Certificates Required Certificate Extensions -> Appendix B — EV Certificates Required Certificate Extensions
+Appendix B – EV Certificates Required Certificate Extensions -> Appendix B - EV Certificates Required Certificate Extensions
 
-Appendix C – User Agent Verification -> Appendix C — User Agent Verification
+Appendix C – User Agent Verification -> Appendix C - User Agent Verification
 
-Appendix D – Sample Form Legal Opinion Letter -> Appendix D — Sample Form Legal Opinion Letter
+Appendix D – Sample Form Legal Opinion Letter -> Appendix D - Sample Form Legal Opinion Letter
 
-Appendix E – Sample Accountant Letters Confirming Specified Information -> Appendix E — Sample Accountant Letters Confirming Specified Information
+Appendix E – Sample Accountant Letters Confirming Specified Information -> Appendix E - Sample Accountant Letters Confirming Specified Information
 
-Appendix F – Foreign Organization Name Guidelines -> Appendix F — Foreign organization name guidelines
+Appendix F – Foreign Organization Name Guidelines -> Appendix F - Foreign organization name guidelines
 
-Appendix G – Code-signing: Introduction (Informative) -> Appendix G — Code-Signing: Introduction
+Appendix G – Code-signing: Introduction (Informative) -> Appendix G - Code-Signing: Introduction
 
-Appendix H – Code-signing: Requirements for Certification Authorities (Normative) -> Appendix H — Code-Signing: Requirements for Certification Authorities
+Appendix H – Code-signing: Requirements for Certification Authorities (Normative) -> Appendix H - Code-Signing: Requirements for Certification Authorities
 
-Appendix I – Code-signing: Requirements for Timestamp Authorities (Normative) -> Appendix I — Code-Signing: Requirements for Timestamp Authorities
+Appendix I – Code-signing: Requirements for Timestamp Authorities (Normative) -> Appendix I - Code-Signing: Requirements for Timestamp Authorities
 
-Appendix J – Code-signing: Requirements for Signing Authorities (Normative) -> Appendix J — Code-Signing: Requirements for Signing Authorities
+Appendix J – Code-signing: Requirements for Signing Authorities (Normative) -> Appendix J - Code-Signing: Requirements for Signing Authorities
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 30 June 09 and will close at 2100 UTC on 7 July 2009. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 14 July 2009.
 

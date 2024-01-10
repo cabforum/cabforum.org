@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-02-12-ballot-10-non-latin-names/
+- /2008/02/12/ballot-10-non-latin-names/
 author: Ben Wilson
 date: 2008-02-12 18:16:53
 tags:
@@ -16,11 +16,7 @@ Motion
 
 The Guidelines should be amended by the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Appendix F
 
@@ -68,17 +64,9 @@ The CA MAY use the Financial Services Agency to verify an English Name. When use
 
 When relying on Articles of Incorporation to verify an English Name, the Articles of Incorporation MUST be accompanied either: by a document, signed with the original Japanese Corporate Stamp, that proves that the Articles of Incorporation are authentic and current, or by a lawyer’s opinion letter. The CA MUST verify the authenticity of the Corporate Stamp.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period came into effect at 1700 EST on (Tuesday) 29 Jan 2008, and will close at 1700 EST on (Tuesday) 5 Feb 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EST on (Tuesday) 12 Feb 2008.
 

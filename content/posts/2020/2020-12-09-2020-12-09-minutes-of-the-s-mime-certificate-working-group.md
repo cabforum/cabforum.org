@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-12-09-2020-12-09-minutes-of-the-s-mime-certificate-working-group/
+- /2020/12/09/2020-12-09-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2020-12-09 13:58:00
 tags:
@@ -10,35 +10,35 @@ title: 2020-12-09 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 December 09, 2020
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Ahmad Syafiq Md Zaini (MSC Trustgate.com), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Arno Fiedler (Arno Fiedler), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Chris Kemmerer (SSL.com), Corey Bonnell (DigiCert), David Kluge (Google), Dean Coclin (DigiCert), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate.com), Hongquan Yin (Microsoft), James Knapp (Federal PKI), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Morad Abou Nasser (TeleTrust), Patrycja Tulinska (PSW), Pedro Fuentes (OISTE), Rich Smith (Sectigo), Rufus Buschart (TeleTrust), Russ Housley (Vigil Security), Sebastian Schulz (GlobalSign), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Crawford (WebTrust), Tim Hollebeek (DigiCert)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
 There was discussion relating to the change in CABF mailers, noting that members should check the listserv archives if they have not been receiving messages recently. Some mail systems started quarantining messages with the change in mailer.
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 It was noted that some members did not receive the draft Minutes of the November 25 call. Those will be re-distributed and approval of those Minutes is deferred until a later date.
 
-### 5. New member 
+### 5. New member
 
 Following discussion and confirmation of eligibility, the membership of KPMG Korea as an Interested Party was confirmed by consensus.
 
-### 6. Discussion of certificate profile 
+### 6. Discussion of certificate profile
 
 Extensive discussion took place regarding the certificate policy object identifiers for different forms of S/MIME certificates.
 
@@ -78,11 +78,11 @@ A discussion was undertaken to define commonly used Exetnsions. Doug Beattie pro
 
 It was raised that some other use cases can rely upon the emailProtection EKU, such as PDF signing. It was proposed that an eventual CABF WG might be created for document signing but in meantime interested parties such as Adobe should be invited to join or monitor the SMCWG.
 
-### 7. Any Other Business 
+### 7. Any Other Business
 
 It was agreed that the December 23, 2020 meeting will be cancelled.
 
-### 8. Next call 
+### 8. Next call
 
 The next call will take place on January 6, 2021 at 11:00am Eastern Time.
 

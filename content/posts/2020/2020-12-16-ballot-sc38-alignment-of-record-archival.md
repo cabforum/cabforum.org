@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-12-16-ballot-sc38-alignment-of-record-archival/
+- /2020/12/16/ballot-sc38-alignment-of-record-archival/
 author: Ben Wilson
 date: 2020-12-16 03:45:00
 tags:
@@ -40,7 +40,7 @@ noncompliance as they relate to retention periods.
 The NetSec discussion document for this ballot is attached as a PDF to
 this email.
 
-— MOTION BEGINS —
+## Motion begins
 
 Delete the following Section 5.5.2 Retention period for archive from the
 “Baseline Requirements for the Issuance and Management of
@@ -59,7 +59,7 @@ and the verification thereof, and all Certificates and revocation
 thereof, for at least two years after any Certificate based on that
 documentation ceases to be valid.
 
-— MOTION ENDS —
+## Motion ends
 
 \* WARNING \*: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL
 VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):

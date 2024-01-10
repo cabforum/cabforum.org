@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-07-11-ballot-smc03-corrections-and-clarifications-for-s-mime-baseline-requirements/
+- /2023/07/11/ballot-smc03-corrections-and-clarifications-for-s-mime-baseline-requirements/
 author: Stephen Davidson
 date: 2023-07-11 02:02:31
 tags:
-- Ballot
 - S/MIME
+- Ballot
 title: 'Ballot SMC03: Corrections and clarifications for “S/MIME Baseline Requirements”'
 type: post
 ---
@@ -24,13 +24,13 @@ End of Review Period: 1700 UTC on August 11, 2023
 
 Please forward a written notice to exclude Essential Claims by email to and a copy to the CA/B Forum public mailing list before the end of the Review Period.
 
-See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also . An optional format for an Exclusion Notice is available at .
+See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also [/about/ipr-policy/](/about/ipr-policy/). An optional format for an Exclusion Notice is available at [/uploads/Template-for-Exclusion-Notice.pdf](/uploads/Template-for-Exclusion-Notice.pdf).
 
 ## Voting Results
 
 The voting period for Ballot SMC03 (Corrections and clarifications for “S/MIME Baseline Requirements”) has completed, and the ballot has passed.
 
-**Certificate Issuers**
+## Certificate Issuers
 
 21 votes total, with no abstentions:
 
@@ -40,7 +40,7 @@ The voting period for Ballot SMC03 (Corrections and clarifications for “S/MIME
 
 0 Issuers ABSTAIN
 
-**Certificate Consumers**
+## Certificate Consumers
 
 2 votes total, with no abstentions:
 
@@ -50,7 +50,7 @@ The voting period for Ballot SMC03 (Corrections and clarifications for “S/MIME
 
 0 Consumers ABSTAIN
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 Bylaw 2.3(f) requires:
 
@@ -60,25 +60,25 @@ At least one Certificate Issuer and one Certificate Consumer Member must vote in
 
 Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three meetings. Votes to abstain are counted in determining quorum. The quorum was 7 for this ballot. This requirement was MET.
 
-## Purpose of Ballot:
+## Purpose of Ballot
 
 The ballot proposes text to clarify certain sections and to make corrections in other sections of v1.0.0 of the S/MIME Baseline Requirements. The affected sections include:
 
-- Transition for Extant S/MIME CAs in Definitions, 7.1.2.2, and Appendix B
-- Clarification of Enterprise RA capabilities in 1.3.2.1
-- Updated Mailbox Address definition in 1.3.3
-- Updated Pseudonym reference in 3.1.1, 3.1.3, 7.1.4.2.2 (a), and 9.4.2
-- Enterprise RA reference clarifications in 3.2.4, 3.2.4.2 (6), and 3.28
-- Cleaning up of numbering in 4.9.1.1
-- Addition of keyUsages for EdDSA Certificates in 7.1.2.3 (e)
-- Clarification of LEI in 7.1.2.3 (l)
-- Clarification of ISO code in organizationIdentifier in 7.1.4.2.2 (a)
-- Clarification of ETSI audit requirements in 8.4
-- Minor text corrections
+• Transition for Extant S/MIME CAs in Definitions, 7.1.2.2, and Appendix B
+• Clarification of Enterprise RA capabilities in 1.3.2.1
+• Updated Mailbox Address definition in 1.3.3
+• Updated Pseudonym reference in 3.1.1, 3.1.3, 7.1.4.2.2 (a), and 9.4.2
+• Enterprise RA reference clarifications in 3.2.4, 3.2.4.2 (6), and 3.28
+• Cleaning up of numbering in 4.9.1.1
+• Addition of keyUsages for EdDSA Certificates in 7.1.2.3 (e)
+• Clarification of LEI in 7.1.2.3 (l)
+• Clarification of ISO code in organizationIdentifier in 7.1.4.2.2 (a)
+• Clarification of ETSI audit requirements in 8.4
+• Minor text corrections
 
 The following motion has been proposed by Stephen Davidson of DigiCert and endorsed by Martijn Katerbarg of Sectigo and Christophe Bonjean of GlobalSign.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates” (“S/MIME Baseline Requirements”) resulting in Version 1.0.1.
 
@@ -86,7 +86,7 @@ The proposed modifications to the S/MIME Baseline Requirements may be found at h
 
 The SMCWG Chair or Vice-Chair is permitted to update the Relevant Dates and Version Number of the S/MIME Baseline Requirements to reflect final dates.
 
-**— MOTION ENDS —**
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
@@ -99,13 +99,6 @@ Start Time: 5 July 2023 17:00 UTC
 End Time: 12 July 2023 17:00 UTC
 
 IPR Review (30 days)
-
-\_\_PRESENT
-\_\_PRESENT
-\_\_PRESENT
-\_\_PRESENT
-\_\_PRESENT
-\_\_PRESENT
 
 [1]: /working-groups/smime/documents/
 [2]: /uploads/SBR_SMC03_IPR.pdf

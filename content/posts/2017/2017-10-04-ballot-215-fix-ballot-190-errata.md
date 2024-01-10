@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-10-04-ballot-215-fix-ballot-190-errata/
+- /2017/10/04/ballot-215-fix-ballot-190-errata/
 author: Ben Wilson
 date: 2017-10-04 15:10:09
 tags:
@@ -12,23 +12,23 @@ type: post
 
 The voting period for Ballot 215 has ended and the ballot has passed. Here are the results.
 
-**Voting by CAs – 18 votes total including abstentions**
+## Voting by CAs – 18 votes total including abstentions
 
-18 Yes votes: Buypass, CFCA, D-TRUST, DigiCert, Disig, Entrust, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, OATI, QuoVadis, SSL.com, Symantec, TWCA, TrustCor, Trustwave
+- **18 Yes votes:** Buypass, CFCA, D-TRUST, DigiCert, Disig, Entrust, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, OATI, QuoVadis, SSL.com, Symantec, TWCA, TrustCor, Trustwave
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 3 votes total including abstentions**
+## Voting by browsers – 3 votes total including abstentions
 
-3 Yes votes: Apple, Google, Mozilla
+- **3 Yes votes:** Apple, Google, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -38,21 +38,21 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
+## The ballot passes.
 
-**Ballot 215 – Fix Ballot 190 Errata**
+## Ballot 215 – Fix Ballot 190 Errata
 
-**Explanation**
+## Explanation
 
 Ballot 190 inadvertently added “or a Delegated Third Party” back into section 3.2.2.4 of the Baseline Requirements, which conflicts with the results of Ballot 204 that removed it from section 3.2.2.4. This ballot re-removes “Delegated Third Party” from section 3.2.2.4 of the Baseline Requirements.
 
 The following motion has been proposed by Ben Wilson of DigiCert and endorsed by Rich Smith of Comodo and Tim Hollebeek of Trustwave.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 In the Baseline Requirements v. 1.5.2., section 3.2.2.4, remove instances of “or a Delegated Third Party” and “or Delegated Third Party”, as further indicated by red strike-outs in the attached PDF file (here – [Ballot 215][1]).
 
-**–Motion Ends–**
+## –Motion Ends–
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 

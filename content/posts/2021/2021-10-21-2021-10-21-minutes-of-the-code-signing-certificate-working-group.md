@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2021-10-21-2021-10-21-minutes-of-the-code-signing-certificate-working-group/
+- /2021/10/21/2021-10-21-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-10-21 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2021-10-21 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Andrea Holland, Atushi Inaba, Bruce Morton, Dimitris Zacharopoulos, Ian McMillan, Inigo Barreira, Joanna Fox, Tim Crawford, Tim Hollebeek, Tomas Gustavsson
 
-## Minutes 
+## Minutes
 
 Minute taker: Tomas Gustavsson
 
@@ -22,7 +22,7 @@ Minute taker: Tomas Gustavsson
 
 - Minutes from the meeting on October 7th was approved.
 
-### Current Ballots 
+### Current Ballots
 
 Ballot CSC-11 in IPR review through November 3rd. No discussion so far.
 
@@ -46,7 +46,7 @@ Dimitris mentioned that from the experience from the server certificate working 
 
 Ian was okay and will work on the bringing it to a ballot.
 
-### Signing Service 
+### Signing Service
 
 Bruce noted that his gut feeling was to sort out the subscriber key protection and then the signing service would have to align with that. Tim noted that we could delay some parts of the signing service discussion but could work on other parts and take the opportunity to work in parallel. The questions around op model and certifications and audit don’t necessarily touch the area of key protection and could be drilled into.
 
@@ -54,11 +54,11 @@ Bruce asked if we should take one of these items and put on the agenda for the m
 
 Bruce discussed if we should aim to address the subscriber key protection in the next meeting, get that done in pre-ballot format to get that moving, and then move on to the other one later. Suggested to wrap up the key protection and place the signing service for a future meeting. Tim agreed that wrapping up the key protection would help us with the signing service so it makes sense. Ian was fine either way. It was agreed to prepare the subscriber private key protection for the next meeting on the 4th of November and then start talking about the signing service two weeks after that.
 
-### Other Business 
+### Other Business
 
 Dimitris asked where we are on the conversion to RFC3647. Tim said that Corey has a draft that needs some finishing up. There is a link to a GitHub page somewhere on the mailing list. Dimitris remember starting a pull request and Corey making a bigger pass. Dimitris noted that the more ballots we include in the pipe-line the harder it is to rebase the 3647 work, so we should perhaps set a timeline on this conversion. We could start prepare other ballots but wait for the conversion to be done. Tim thinks we can do it in either order as Corey wasn’t too upset of having to merge a ballot or two. Time thinks the 3647 pandoc conversion could be the next ballot, prior to key protection. The other order would be fine but Tim thinks the 3647 work is done. Dimitris thinks they can work in parallel and that key protection may take a while. Bruce added to plan to talk about the conversion in the next meeting to get our next ballots against that version.
 
-### Next Meeting 
+### Next Meeting
 
 Next meeting is on the 4th of November.
 

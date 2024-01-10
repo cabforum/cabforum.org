@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-05-01-ballot-sc44-clarify-acceptable-status-codes/
+- /2021/05/01/ballot-sc44-clarify-acceptable-status-codes/
 author: Wayne Thayer
 date: 2021-05-01 01:13:13
 tags:
@@ -12,44 +12,44 @@ type: post
 
 The voting on ballot SC44 has completed, and the ballot has **passed**.
 
-## Voting Results 
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 **21 votes total, with no abstentions**
 
-·         21 Yes votes: Buypass, Certum (Asseco), Chunghwa Telecom, D-TRUST, DigiCert, eMudhra, Entrust, Firmaprofesional, GlobalSign, GoDaddy, HARICA, Kamu SM, Let’s Encrypt / ISRG, OISTE, Sectigo, SSL.com, SwissSign, Telia Company, TrustCor, SecureTrust, Visa
+· 21 Yes votes: Buypass, Certum (Asseco), Chunghwa Telecom, D-TRUST, DigiCert, eMudhra, Entrust, Firmaprofesional, GlobalSign, GoDaddy, HARICA, Kamu SM, Let’s Encrypt / ISRG, OISTE, Sectigo, SSL.com, SwissSign, Telia Company, TrustCor, SecureTrust, Visa
 
-·         0 No Votes
+· 0 No Votes
 
-·         0 Abstentions
+· 0 Abstentions
 
-**Certificate Consumers**
+## Certificate Consumers
 
 **5 votes total, with no abstentions**
 
-1.      5 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla
+1. 5 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla
 
-2.      0 No votes
+1. 0 No votes
 
-3.      0 Abstentions
+1. 0 Abstentions
 
-**Bylaw Requirements**
+## Bylaw Requirements
 
-1.      Bylaw 2.3(f) requires:
+1. Bylaw 2.3(f) requires:
 
-o     A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
+o A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
 _This requirement was MET for Certificate Issuers and MET for Certificate Consumers_.
 
-o    at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
+o at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
 _This requirement was MET_.
 
-2.      Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 12, so the quorum was 13 for this ballot.
-_This requirement was MET._
+2. Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 12, so the quorum was 13 for this ballot.
+   _This requirement was MET._
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Ballot Text 
+## Ballot Text
 
 Purpose of Ballot:
 

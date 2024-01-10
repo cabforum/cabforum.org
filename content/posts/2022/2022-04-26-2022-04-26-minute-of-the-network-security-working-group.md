@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-04-26-2022-04-26-minute-of-the-network-security-working-group/
+- /2022/04/26/2022-04-26-minute-of-the-network-security-working-group/
 author: Clint Wilson
 date: 2022-04-26 12:00:00
 tags:
@@ -9,7 +9,7 @@ title: 2022-04-26 Minute of the Network Security Working Group
 type: post
 ---
 
-**Attendance:**
+## Attendance
 
 - Adam Jones – Microsoft
 - Antti Backman – Telia
@@ -33,19 +33,15 @@ type: post
 - Tony Seymour – Comsign
 - Trevoli Ponds – Amazon Trust Services
 
-**Minutes:**
+## Minutes
 
 **1. Read Antitrust Statement**
 
 a.Clint Wilson read the antitrust statement
 
-______________________________________________________________________
-
 **2. Roll Call**
 
 a. No new members in attendance
-
-______________________________________________________________________
 
 **3. Review Agenda**
 
@@ -56,8 +52,6 @@ b. Review rough drafts of ballot proposals (SLO for Cert Info)
 c. Update from Ben Wilson (Mozilla)
 
 d. Open for other business
-
-______________________________________________________________________
 
 **4. Ballot Status**
 
@@ -71,16 +65,12 @@ i. Trevoli Ponds (Amazon Trust Services) agreed from the comments, that an examp
 
 c. Discussion around the symbols in the examples in the draft ballot are not used by all. Examples were given between different CAs to explain how the symbols and values could be confusing.
 
-i.  The discussion focused on how clarification and understanding.
-
-______________________________________________________________________
+i. The discussion focused on how clarification and understanding.
 
 **5. Ben Wilson Update**
 
 a. Ben Wilson (Mozilla) provided an update on the proposed changes he is currently working on.
 
-______________________________________________________________________
-
-**6. Other Business**
+\*\*6. Other Business \*\*
 
 a. David Kluge (Google Trust Services) discussed the Risk Assessment that they Cloud Services Sub Group has been working on. A couple of weeks ago it was suggested that they use Microsoft Stride to document risk scenarios. Trevoli Ponds (Amazon Trust Services) has a contact that can assist in helping with this task.

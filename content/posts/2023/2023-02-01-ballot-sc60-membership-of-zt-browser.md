@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-02-01-ballot-sc60-membership-of-zt-browser/
+- /2023/02/01/ballot-sc60-membership-of-zt-browser/
 author: Iñigo Barreira
 date: 2023-02-01 10:29:51
 tags:
@@ -10,35 +10,35 @@ title: 'Ballot SC60: Membership of ZT Browser'
 type: post
 ---
 
-**Voting Results**
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 12 votes total, with 7 abstentions:
 
-- 4 Issuers voting YES: Entrust, HARICA, Izenpe, Telia
+- **4 Issuers voting YES:** Entrust, HARICA, Izenpe, Telia
 
-- 1 Issuers voting NO: SwissSign
+- **1 Issuers voting NO:** SwissSign
 
-- 7 Issuers ABSTAIN: Actalis, DigiCert, D-Trust, JPRS, OISTE, SECOM Trust Systems, SSL.com
+- **7 Issuers ABSTAIN:** Actalis, DigiCert, D-Trust, JPRS, OISTE, SECOM Trust Systems, SSL.com
 
-**Certificate Consumers**
+## Certificate Consumers
 
 4 votes total, with no abstentions:
 
-- 0 Consumers voting YES
+- **0 Consumers voting YES**
 
-- 4 Consumers voting NO: Apple, Google, Mozilla, Opera
+- **4 Consumers voting NO:** Apple, Google, Mozilla, Opera
 
-- 0 Consumers ABSTAIN
+- **0 Consumers ABSTAIN**
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 2. Bylaw 2.3(6) requires:
 
-- A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose. This requirement was **MET** for Certificate Issuers and **NOT MET** for Certificate Consumers.
+   - A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose. This requirement was **MET** for Certificate Issuers and **NOT MET** for Certificate Consumers.
 
-- At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was **MET** for Certificate Issuers and **NOT MET** for Certificate Consumers.
+   - At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was **MET** for Certificate Issuers and **NOT MET** for Certificate Consumers.
 
 1. Bylaw 2.3(7) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 12, so the quorum was 13 for this ballot. This requirement was **MET**.
 

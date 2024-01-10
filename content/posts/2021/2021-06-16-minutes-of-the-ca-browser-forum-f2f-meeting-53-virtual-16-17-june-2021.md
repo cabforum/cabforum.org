@@ -1,28 +1,28 @@
 ---
 aliases:
-- /2021-06-16-minutes-of-the-ca-browser-forum-f2f-meeting-53-virtual-16-17-june-2021/
+- /2021/06/16/minutes-of-the-ca-browser-forum-f2f-meeting-53-virtual-16-17-june-2021/
 author: Jos Purvis
 date: 2021-06-16 15:30:42
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 53 Meeting, Virtual, 16-17 June 2021
 type: post
 ---
 
-## Wednesday, 16 June 2021 – Plenary Meeting (Day 1) 
+## Wednesday, 16 June 2021 – Plenary Meeting (Day 1)
 
 The Antitrust statement was read.
 
-### Attendees 
+### Attendees
 
 Adam Clark (Visa), Adrian Mueller (SwissSign), Ali Gholami (Telia), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Clemens Wanko (ACAB Council), Curt Spann (Apple), David Kluge (Google), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Eva Van Steenberge (GlobalSign), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jeremy Rowley (Digicert), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Kati Davids (GoDaddy), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Michael Guenther (SwissSign), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Nick France (Sectigo), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Redha Hamzah (PoS Digicert), Rebecca Kelley (Apple), Ryan Sleevi (Google), Sebastian Schulz (GlobalSign), Shelley Brewer (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Chris Czajczyc (Deloitte (WebTrust)), Ian McMillan (Microsoft), Hongquan Yin (Microsoft), Natalia Kotliarsky (SecureTrust), Brittany Randall (GoDaddy), Wang Chunlan (GDCA), Arnold Essing (Telekom Security – guest), Jesse Weissman (Microsoft), Jose Guzman (GoDaddy), Tyler Myers (GoDaddy), Dustin Ward (), Aaron Russell (SSL.com)
 
-### Future face to face meeting schedule 
+### Future face to face meeting schedule
 
 The Fall meeting will be virtual (again). The lineup for next year is confirmed for a meeting in Poland in the summer and for Berlin for the Fall. The Spring meeting will be in the US. Dean is working with several hosts to confirm.
 
-### Infrastructure WG Recap 
+### Infrastructure WG Recap
 
 Infrastructure met on Wednesday 2 June:
 
@@ -32,30 +32,30 @@ Infrastructure met on Wednesday 2 June:
 - We are continuing the work on updating website content.
 - For email bounces and failures, we are now manually reviewing the infra-bot mailer periodically and removing/blacklisting permanently bounced email addresses, to cut down on the number of bounces that Amazon SES sees from us.
 - The update to the membership spreadsheet is in the works, and Jos reminded the CABF members present to please use the membership update forms and be sure to keep up with the people recorded as representatives for your company. This will cut down on the number of email bounces, among other things!
-- Finally, Infra approved GoDaddy to shut down the old hardware server that provided all of the CABF services for so long. We want to express our appreciation again for GoDaddy’s team and their support of the CABF infrastructure over the last several years—they continue to be excellent partners!
+- Finally, Infra approved GoDaddy to shut down the old hardware server that provided all of the CABF services for so long. We want to express our appreciation again for GoDaddy’s team and their support of the CABF infrastructure over the last several years-they continue to be excellent partners!
 
-## Server Certificate Working Group Meeting 
+## Server Certificate Working Group Meeting
 
 Attendees: _As marked for the Wednesday meeting session above_
 
 Jos called the meeting to order.
 
-### Anti-Trust Statement 
+### Anti-Trust Statement
 
 Jos read the anti-trust statement.
 
-### Approval of Previous Minutes 
+### Approval of Previous Minutes
 
 The minutes for the 27 May and 13 May meetings were approved by general acclamation.
 
-### Mozilla Root Program Update 
+### Mozilla Root Program Update
 
 **Speaker**: Ben Wilson (Mozilla)
 **Minutes**: Ryan Sleevi
 
 **Presentation:**
 
-#### Q & A 
+#### Q & A
 
 - Q: Dean Coclin (DigiCert): P5 has “slow to respond to requests” – is that looking at the application specifically, or the CA overall?
 
@@ -71,25 +71,25 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 
 - A: Ryan Sleevi (Google): Some of these are tracked in GitHub, either for CABF or MRSP. Some of these lead to ballots by CAs, such as the recent Ballot 202 redux from Corey at DigiCert. Some of these are definitely ambiguous or have a long and storied history, like the recent discussion about the precision in the notAfter of a certificate. Having looked at all of these, although not tracked to the same detail as Ben, some are just the CA stating something is unclear, even when the language is already very explicit, and 99/100 CAs, or whatever precision you want, are doing the right thing. So there’s a spectrum here, but definitely look for the CA to bring these issues.
 
-### Cisco Root Program Update 
+### Cisco Root Program Update
 
 **Speaker**: J.P. Hamilton, Jos Purvis (Cisco)
 **Minutes**: Karina Sirota
 **Presentation:**
 
-### Microsoft Root Program Update 
+### Microsoft Root Program Update
 
 **Speaker**: Karina Sirota (Microsoft)
 **Minutes**: Jos Purvis
 
-#### Change Management 
+#### Change Management
 
 - Karina reviewed the Change Mgt process – updated monthly except December
 - Update packages available for download; please do test and confirm testing
 - Public share backlog of changes pending to make users aware of future changes which you can share to your users
 - Release notes posted to a standard link when live
 
-#### Program Requirements 
+#### Program Requirements
 
 - Current requirements URL posted
 
@@ -103,81 +103,77 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 
 - Some minor changes around requirements language are also being made
 
-#### Testing 
+#### Testing
 
 - All CAs can currently test changes roughly two weeks before change release
 - If you have changes, you will be notified when the test changes are live. Please test within 5 business days of notice and confirm working/not-working (anyone can test–just requires some quick registry changes)
 - Instructions on testing are available on docs.microsoft.com
 
-#### Communications Reminder 
+#### Communications Reminder
 
 - msroot@microsoft.com should be used for all communications
 - Program requirements on Microsoft Docs (aka.ms/RootCert)
 - Audit requirements on Microsoft Docs (aka.ms/auditreqs)
 
-#### Kernel Mode Code Signing 
+#### Kernel Mode Code Signing
 
 - Certs for KMCS must expire by 1 July 2021 for certs issued after 20 Jan 2020
 - Certs able to sign ddrivers prior to this date can continue to sign non-driver code
 - Link to FAQ for developers found online
 - List of 2021 expirations of these CAs provided
 
-#### Q and A 
+#### Q and A
 
 _Q (Dimitris Zacharopoulos, HARICA)_: We recently got this testing message and there seems to be an issue with the cert transparency settings. New roots are currently not allowed to log to prod CT logs and I don’t know if there’s a way to fully test websites using the new Edge as a result.
 
-_A (Karina)_: We can look into it. If there are no other errors besides CT, that should be considered fine—once you’re able to log it to CT that would be considered fine. We do this type of testing internally and it should be OK; I can look into what else we can do.
+_A (Karina)_: We can look into it. If there are no other errors besides CT, that should be considered fine-once you’re able to log it to CT that would be considered fine. We do this type of testing internally and it should be OK; I can look into what else we can do.
 
 _D_: I believe there are settings client can do but I believe these are only permitted for Enterprises not for public roots.
 
 _K_: I’ll look into it for sure!
 
-______________________________________________________________________
-
 Dean asked to have one of the links pasted into the chat
-
-______________________________________________________________________
 
 _Dimitris_: Regarding the root program requirements–you pasted the link to Github. So CAs can keep track of changes or updates using that repo, right?
 
 _Karina_: Yes, that was recently provided. I’m looking in to a way to provide redlines and changes through that. I believe we have the ability to do that through GH now.
 
-### CCADB Update 
+### CCADB Update
 
 **Speaker**: Kathleen Wilson (Mozilla)
 **Minutes**: Ben Wilson
 
 Presentation:
 
-#### JSON Array of Partitioned CRLs 
+#### JSON Array of Partitioned CRLs
 
 We previously announced a new field in the CCADB, “Pertaining to Certificates issued by this CA”. We have also added a field called “JSON Array of Partitioned CRLs”. Mozilla does not currently have requirements for this field. It is currently set to 5,000 characters. One CA said they need 16,000 characters. Please comment in MDSP if you have issues with the size of the field.
 
-#### Root Inclusion Cases 
+#### Root Inclusion Cases
 
 Root inclusion cases have been extended to Apple. In the CCADB, there is shared information, but each root store operator will make its own determination on whether to include a root.
 
-#### CA Task Lists 
+#### CA Task Lists
 
 When a CA opens up the CCADB, they will get a report and if any of the Task List items on your CCADB home page are non-zero, be sure to expand the corresponding report and resolve the problematic items.
 
-#### CCADB Enhancements Now Tracked in Bugzilla 
+#### CCADB Enhancements Now Tracked in Bugzilla
 
 CCADB enhancements and bugs are now being tracked in Bugzilla –
 
-#### Other Uses of Root Stores 
+#### Other Uses of Root Stores
 
-Lists of curated roots are available in the CCADB –  – subject to license appearing there.
+Lists of curated roots are available in the CCADB – – subject to license appearing there.
 
-#### CCADB Enhancements 
+#### CCADB Enhancements
 
 We are currently prototyping CCADB for other kinds of updates – CA Owner information, selecting root certificates to update, and updating information on root certificates such as policy documents, test websites, and other fields. Then root store operators will verify and accept the changes.
 
-#### Questions 
+#### Questions
 
 Clemens asked if auditors could get access to do ALV pre-checking of their audit letters. Kathleen said that the solution might be to provide a form outside of CCADB to perform such checks. Ryan said that is already on the roadmap.
 
-### Q&A discussion 
+### Q&A discussion
 
 **Speaker**: Jos Purvis \[lead\]
 **Minutes**: Neil Dunbar
@@ -196,7 +192,7 @@ From RFC 3647,S 4.6.5
 
 > This subcomponent is used to describe computer security controls such as: use of the trusted computing base concept, discretionary access control, labels, mandatory access controls, object re-use, audit, identification and authentication, trusted path, security testing, and penetration testing. Product assurance may also be addressed. A computer security rating for computer systems may be required. The rating could be based, for example, on the Trusted System Evaluation Criteria (TCSEC), Canadian Trusted Products Evaluation Criteria, European Information Technology Security Evaluation Criteria (ITSEC), or the Common Criteria for Information Technology Security Evaluation, ISO/IEC 15408:1999. This subcomponent can also address requirements for product evaluation analysis, testing, profiling, product certification, and/or product accreditation related activity undertaken.
 >
-> From \<>
+> From [<https://www.ietf.org/rfc/rfc3647](<https://www.ietf.org/rfc/rfc3647)>
 
 Dean: NIST IR also says “No Stipulation”
 
@@ -234,7 +230,7 @@ Regarding unfairness – that’s a value judgment which is hard to comment on.
 
 Kathleen W: Posted [https://wiki.mozilla.org/CA/Required_or_Recommended_Practices#CP.2FCPS_Documents_will_be_Reviewed.21][1]
 
-Ryan S: (in chat) – Note that Google Chrome has its own set of prioritization policies as well –  – prioritized based on our user security needs
+Ryan S: (in chat) – Note that Google Chrome has its own set of prioritization policies as well – – prioritized based on our user security needs
 
 Kathleen W: It is the readiness in publishing to CCADB which helps prioritize a CA inclusion request. If a CA is prepared, it does not usually take 2 years.
 
@@ -248,19 +244,19 @@ Mike R: (in chat) – Concur with concern of risks to root store with delegation
 
 Jos P: Propose table the remaining questions to see if we have time tomorrow to address others.
 
-## Thursday, 17 June 2021 – Server Certificate Working Group Meeting (Day 2) 
+## Thursday, 17 June 2021 – Server Certificate Working Group Meeting (Day 2)
 
 The Antitrust statement was read.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Adriano Santoni (Actalis S.p.A.), Aleksandra Kurosz (Asseco Data Systems SA (Certum)), Ali Gholami (Telia), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Clemens Wanko (ACAB Council), Curt Spann (Apple), David Kluge (Google), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Kati Davids (GoDaddy), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Redha Hamzah (PoS Digicert), Rebecca Kelley (Apple), Ryan Sleevi (Google), Shelley Brewer (Digicert), Sissel Hoel (Buypass AS), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Chris Czajczyc (Deloitte (WebTrust)), Ian McMillan (Microsoft), Hongquan Yin (Microsoft), Natalia Kotliarsky (SecureTrust), Brittany Randall (GoDaddy), Arnold Essing (Telekom Security – guest), Jesse Weissman (Microsoft), Tyler Myers (GoDaddy), Aaron Russell (SSL.com)
 
-### Guest Speaker Prof. David Maimon: Evidence Based Cybersecurity 
+### Guest Speaker Prof. David Maimon: Evidence Based Cybersecurity
 
 Presentation: [Evidence-Based Cybersecurity and its Relevance for Guiding Certificate Authorities Operations][2]
 
-### ETSI Update 
+### ETSI Update
 
 **Speaker**: Arno Fiedler (Vice Chair ETSI ESI)
 **Minutes**: Clemens Wanko (ACAB’c)
@@ -291,7 +287,7 @@ Apart from that, the following tests were performed: Interoperability tests with
 
 Finally Arno announced the drafted update of the EU Regulation 910/2014 (eIDAS) which had been released June 3rd by the EU commision.
 
-### ACAB’C Update 
+### ACAB’C Update
 
 **Speaker**: Clemens Wanko (TÜV AUSTRIA)
 **Slides**: [/uploads/20210615_53.cabforum_acabc_slides_01.pdf][3]
@@ -306,7 +302,7 @@ ACABc the Accredited Conformity Assessment Bodies – Council (association) has 
 
 Please download AAL Version 2.8 (or later) here:
 
-### WebTrust Update 
+### WebTrust Update
 
 **Speaker**: Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Note Taker**: Brittany Randall (GoDaddy)
@@ -372,7 +368,7 @@ Questions?
 - Kathleen: Do you have a timeframe when you think you might have that template available for the audit team qualifications?
 - Don: Working on it now. Got one that one of the task force members has already developed. Should have a draft within the next month or so that we can share with you.
 
-### Strategies for retiring older root CA certificates 
+### Strategies for retiring older root CA certificates
 
 **Speaker**: Ben Wilson (Mozilla)
 **Minutes**: Wayne Thayer (Mozilla)

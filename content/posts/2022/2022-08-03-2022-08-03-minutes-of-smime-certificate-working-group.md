@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-08-03-2022-08-03-minutes-of-smime-certificate-working-group/
+- /2022/08/03/2022-08-03-minutes-of-smime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-08-03 02:10:00
 tags:
@@ -10,31 +10,31 @@ title: 2022-08-03 Minutes of SMIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 August 3, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Ashish Dhiman (GlobalSign), Christophe Bonjean (GlobalSign), Daniel Zens (GlobalTrust), David Kluge (Google), Eva Vansteenberge (GlobalSign), Inigo Barreira (Sectigo), Judith Spencer (CertiPath), Li-Chun Chen (Chunghwa Telecom), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW), Renne Rodriguez (Apple), Stephen Davidson (Digicert), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The updated minutes of the June 22, 2022 and the minutes of the July 20, 2022 teleconferences were approved.
 
-### 5. Discussion 
+### 5. Discussion
 
 The WG discussed the expression of interest of Zone Media OÜ to join the SMCWG as a Certificate Consumer. Under the charter a Certificate Consumer “must produce and maintain a mail user agent (web-based or application based) or email service provider that processes S/MIME certificates.” From the context of the past charter discussions, this was understood to mean the native ability to sign/encrypt using S/MIME certificates from within the MUA or service.
 
@@ -48,7 +48,7 @@ The WG discussed a PR proposed by Judith Spencer found at which seeks to exclude
 
 The group returned to the prior discussion of the validation method which allow reliance by the Certificate Issuer upon digital signatures from certain signature schemes in support of vetting individual identity. See section 3.2.41 subsection 4. It was previously agreed to expand the list of accepted schemes if corresponding acceptance criteria was defined for those schemes.
 
-The WG discussed draft text provided by Eva Van Steenberge. Wendy Brown noted that the listing of the NIST and Kantara assurance levels should be specified as IAL2 or higher, and that the FBCA mention is not appropriate in current form.  Judith Spencer noted that self-assessment of the schemes was not appropriate and the WG needed to be able to review and update the list of approved schemes.
+The WG discussed draft text provided by Eva Van Steenberge. Wendy Brown noted that the listing of the NIST and Kantara assurance levels should be specified as IAL2 or higher, and that the FBCA mention is not appropriate in current form. Judith Spencer noted that self-assessment of the schemes was not appropriate and the WG needed to be able to review and update the list of approved schemes.
 
 (Note: Following the teleconference, based on the discussion Stephen Davidson proposed a new PR at and a further discussion occurred on the mailing list).
 
@@ -58,11 +58,11 @@ Stephen Davidson again noted that edits are being checked in with noncontroversi
 
 Stephen noted that the goal remains to move to ballot at the close of the summer when vacation absences are less prevalent. Stephen noted that that some items were clearly tagged for a future version of the SBR (such as CAA, new email control methods, and the discussion of optional CRL or OCSP). He emphasized if WG members have significant issues they should be brought to the table now. Judith Spencer noted that she had a list of comments on Github, which Stephen agreed to review.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, August 17, 2022 at 11:00 am Eastern Time
 

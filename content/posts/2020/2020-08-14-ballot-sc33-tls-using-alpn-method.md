@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-08-14-ballot-sc33-tls-using-alpn-method/
+- /2020/08/14/ballot-sc33-tls-using-alpn-method/
 author: Wayne Thayer
 date: 2020-08-14 22:25:18
 tags:
@@ -11,7 +11,8 @@ type: post
 ---
 
 The voting period for Ballot SC33 has ended and **the Ballot has Passed**. Here are the results:
-**Voting by Certificate Issuers – 22 votes total including abstentions**
+
+## Voting by Certificate Issuers – 22 votes total including abstentions
 
 – 22 **Yes votes**: Buypass, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, D-TRUST, Disig, eMudhra, Entrust Datacard, Firmaprofesional, GlobalSign, GoDaddy, HARICA, Izenpe, Kamu SM, Let’s Encrypt, NAVER, SHECA, SSL.com, TWCA, TrustCor, SecureTrust (former Trustwave), Visa
 – **0 No votes**:
@@ -19,7 +20,7 @@ The voting period for Ballot SC33 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Issuers voted in favor.
 
-**Voting by Certificate Consumers – 6 votes total including abstentions**
+## Voting by Certificate Consumers – 6 votes total including abstentions
 
 – 6 **Yes vote**s: Apple, Cisco, Google, Microsoft, Mozilla, Opera
 – 0 **No votes**:
@@ -27,7 +28,7 @@ The voting period for Ballot SC33 has ended and **the Ballot has Passed**. Here 
 
 100% of voting Certificate Consumers voted in favor.
 
-**Relevant Bylaw references**
+## Relevant Bylaw references
 
 Bylaw 2.3(f) requires:
 
@@ -46,13 +47,13 @@ This ballot also limits the use of the new method to the specific FQDN that was 
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Roland Shoemaker of Let’s Encrypt and Tim Hollebeek of DigiCert.
 
-– MOTION BEGINS –
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.7.0:
 
 MODIFY section 3.2.2.4 as defined in the following redline: [https://github.com/cabforum/documents/compare/df5bd3b00e3a215202dedafa68bf8f608d47041b…26913aa7f75a78eff1af5cb628451b9433011a67][1]
 
-– MOTION ENDS –
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline.
 

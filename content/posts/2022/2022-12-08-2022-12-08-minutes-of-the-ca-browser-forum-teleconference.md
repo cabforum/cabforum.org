@@ -1,22 +1,22 @@
 ---
 aliases:
-- /2022-12-08-2022-12-08-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/12/08/2022-12-08-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-12-08 17:14:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-12-08 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-**Attendees (in alphabetical order)**
+## Attendees (in alphabetical order)
 
-Adam Jones  (Microsoft), Andrea Holland  (SecureTrust), Atsushi INABA  (GlobalSign), Ben Wilson (Mozilla), Bruce Morton  (Entrust), Cassie L’Heureux  (GoDaddy), Chris Clements (Google Chrome), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen  (OATI), Daryn Wright  (GoDaddy), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Doug Beattie  (GlobalSign), Dustin Hollenback  (Microsoft), Enrico Entschew (D-Trust), Fumi Yoneda (Japan Registry Services), Joanna Fox  (TrustCor), Johnny Reading (GoDaddy), Luis Cervantes  (GoDaddy), Lynn Jeun (VISA), Mads Henriksveen  (Buypass), Michelle Coon  (OATI), Nargis Mannan (SecureTrust), Paul van Brouwershaven  (Entrust), Peter Miskovic  (Disig), Rebecca Kelley (Apple), Rollin Yu  (TrustAsia), Stephen Davidson (DigiCert), Tadahiko Ito  (SECOM), Thomas Zermeno (SSL.com), Tim Hollebeek (DigiCert), Tobias Josefowitz  (Opera), Trevoli Ponds-White  (Amazon), Tyler Myers  (Godaddy), Wendy Brown (FPKI), Yoshiro Yoneya  (JPRS).
+Adam Jones (Microsoft), Andrea Holland (SecureTrust), Atsushi INABA (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Cassie L’Heureux (GoDaddy), Chris Clements (Google Chrome), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen (OATI), Daryn Wright (GoDaddy), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-Trust), Fumi Yoneda (Japan Registry Services), Joanna Fox (TrustCor), Johnny Reading (GoDaddy), Luis Cervantes (GoDaddy), Lynn Jeun (VISA), Mads Henriksveen (Buypass), Michelle Coon (OATI), Nargis Mannan (SecureTrust), Paul van Brouwershaven (Entrust), Peter Miskovic (Disig), Rebecca Kelley (Apple), Rollin Yu (TrustAsia), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM), Thomas Zermeno (SSL.com), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera), Trevoli Ponds-White (Amazon), Tyler Myers (Godaddy), Wendy Brown (FPKI), Yoshiro Yoneya (JPRS).
 
-# Minutes 
+# Minutes
 
-**1. Roll call**
+\*\*1. Roll call \*\*
 
 The Chair (Dimitris Zacharopoulos) took attendance
 
@@ -24,15 +24,15 @@ The Chair (Dimitris Zacharopoulos) took attendance
 
 The antitrust statement was read
 
-**3. Review Agenda**
+\*\*3. Review Agenda \*\*
 
 Today’s agenda was approved
 
-**4. Approval of minutes of last call and F2F#57**
+\*\*4. Approval of minutes of last call and F2F#57 \*\*
 
 The minutes of the last call and of the F2F#57 were approved.
 
-**5. Forum Infrastructure Subcommittee update**
+\*\*5. Forum Infrastructure Subcommittee update \*\*
 
 Jos Purvis, I couldn’t attend today and asked Ben Wilson to give the update:
 
@@ -57,20 +57,20 @@ Stephen Davidson joined late, and Tim Hollebeek agreed to provide the update.
 - Bruce Morton mentioned that the group talked about allowing the QIIS for just a couple of items to help validate address and the reliable method of communication. Tim Hollebeek added that there are definitely some good discussion points there and that he is glad Bruce spotted this.
 - Stephen joined late and adding that some information about CAA has been shared on the mailing list around the work that is happening in the LAMPS working group of the IETF.
 
-**8. NetSec Working group report**
+\*\*8. NetSec Working group report \*\*
 
 Clint Wilson gave the update.
 
 - The group talked about changing the meeting time as there are a few people that have been unable to attend lately. A straw poll will be sent out to see if there are people that would attend NetSec meetings, if it was at a different time, and try to figure out if we can find a schedule that works to allow us more folks to attend.
 - We have been working on the red-lines ballot that Ben Wilson has been spearheading, and we have spent a fair amount of time on the fundamentals around offline CAs, powered off CAs, air gapped CAs, what these different states mean, and what we can expect or should be able to expect them to mean.
 
-**9. 2022-2024 CA/B Forum Plans – Strategy – Tasks**
+\*\*9. 2022-2024 CA/B Forum Plans – Strategy – Tasks \*\*
 
 Dimitris Zacharopoulos explained that he took a lot of feedback at the latest face to face meeting and had a couple of meetings with Paul van Brouwershaven (the vice chair) and other folks to put together a couple of slides for this call.
 
 The slides can be reviewed here:
 
--
+- [/uploads/CA_B-Forum-2022-2024.pdf](/uploads/CA_B-Forum-2022-2024.pdf)
 
 Dimitris presented the slides; the following items try to cover the discussions:
 
@@ -90,7 +90,7 @@ Dimitris presented the slides; the following items try to cover the discussions:
 - Paul suggested to look at software release life cycle management best practices.
 - Tim suggested that it would be beneficial if other root programs align their effective dates with the odd months.
 
-**10. Any other business**
+\*\*10. Any other business \*\*
 
 - Dimitris created a minute takers rotation plan for the forum and server certificates working group like the validation subcommittee. The group has not shown any objections. Andrea Holland is the next minute taker on the list.
 - Reminder that people should not forget to sign-up for the next face-to-face meeting in Ottawa, hosted by Entrust from February 28 until March 2, 2023, and is followed by a Post-Quantum Cryptography from the PKI Consortium on Friday (3 March).

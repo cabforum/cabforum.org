@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-09-10-ballot-sc28-logging-and-log-retention/
+- /2020/09/10/ballot-sc28-logging-and-log-retention/
 author: Wayne Thayer
 date: 2020-09-10 18:03:17
 tags:
@@ -11,7 +11,8 @@ type: post
 ---
 
 The voting period for Ballot SC28v6 has ended and **the Ballot has Passed**. Here are the results:
-**Voting by Certificate Issuers – 19 votes total including abstentions**
+
+## Voting by Certificate Issuers – 19 votes total including abstentions
 
 – 19 **Yes votes**: Actalis, Amazon, Buypass, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, D-TRUST, DigiCert, Entrust Datacard, GDCA, GlobalSign, iTrusChina, NAVER, OISTE, SSL.com, SwissSign, TrustCor, SecureTrust (former Trustwave), Visa
 – **0 No votes**:
@@ -19,7 +20,7 @@ The voting period for Ballot SC28v6 has ended and **the Ballot has Passed**. Her
 
 100% of voting Certificate Issuers voted in favor.
 
-**Voting by Certificate Consumers – 5 votes total including abstentions**
+## Voting by Certificate Consumers – 5 votes total including abstentions
 
 – 5 **Yes vote**s: Cisco, Microsoft, Mozilla, Opera, 360
 – 0 **No votes**:
@@ -27,7 +28,7 @@ The voting period for Ballot SC28v6 has ended and **the Ballot has Passed**. Her
 
 100% of voting Certificate Consumers voted in favor.
 
-**Relevant Bylaw references**
+## Relevant Bylaw references
 
 Bylaw 2.3(f) requires:
 
@@ -47,7 +48,7 @@ The benefit of this ballot is to reduce data retention requirements for those lo
 The discussion document which forms the basis of the ballot is attached as a PDF to this email – previous attempts to link to the Google Drive document ran up against permission problems in the past. Proposal The following ballot is proposed by Neil Dunbar of TrustCor Systems and endorsed by Trevoli Ponds-White of Amazon and Dustin Hollenback of Microsoft.
 
 ```
-*— MOTION BEGINS —*
+*- MOTION BEGINS -*
 
 **Delete the following Section 5.4.1. from the “Baseline Requirements for
 the Issuance and Management of Publicly-Trusted Certificates”, version
@@ -61,11 +62,11 @@ and the personnel involved. The CA SHALL make these records available
 to its Qualified Auditor as proof of the CA’s compliance with these
 Requirements.
  The CA SHALL record at least the following events: 
- 1. CA key lifecycle management events, including: 
+1. CA key lifecycle management events, including: 
  a. Key generation, backup, storage, recovery, archival,
 and destruction; and 
  b. Cryptographic device lifecycle management events. 
- 2. CA and Subscriber Certificate lifecycle management events, including:
+2. CA and Subscriber Certificate lifecycle management events, including:
  a. Certificate requests, issuance, renewal, and re-key requests,
  and revocation;
  b. All verification activities stipulated in these Requirements
@@ -75,12 +76,12 @@ and destruction; and 
  d. Acceptance and rejection of certificate requests; Frequency
  of Processing Loge. Issuance of Certificates; and
  f. Generation of Certificate Revocation Lists and OCSP entries.
- 3. Security events, including:
- a.  Successful and unsuccessful PKI system access attempts;
+3. Security events, including:
+ a. Successful and unsuccessful PKI system access attempts;
  b. PKI and security system actions performed;
- c.  Security profile changes;
+ c. Security profile changes;
  d. System crashes, hardware failures, and other anomalies;
- e.  Firewall and router activities; and
+ e. Firewall and router activities; and
  f. Entries to and exits from the CA facility.
 
 **Insert in Section 1.6.1 (Definitions) of the “Baseline Requirements for the
@@ -95,7 +96,7 @@ template file used by CA software.
 **Insert, as Section 5.4.1. (Types of events recorded) of the “Baseline Requirements
 for the Issuance and Management of Publicly-Trusted Certificates”, the following:**
 
-**Section 5.4.1**
+## Section 5.4.1
 The CA and each Delegated Third Party SHALL record details of the actions taken
 to process a certificate request and to issue a Certificate, including all information
 generated and documentation received in connection with the certificate request;
@@ -105,27 +106,27 @@ Requirements.
 
 The CA SHALL record at least the following events:
 
- 1. CA certificate and key lifecycle events, including:
- 1. Key generation, backup, storage, recovery, archival, and destruction; 
- 2. Certificate requests, renewal, and re-key requests, and revocation;
- 3. Approval and rejection of certificate requests; 
- 4. Cryptographic device lifecycle management events;
- 5. Generation of Certificate Revocation Lists and OCSP entries;
- 6. Introduction of new Certificate Profiles and retirement of existing Certificate Profiles.
- 2. Subscriber Certificate lifecycle management events, including:
- 1. Certificate requests, renewal, and re-key requests, and revocation;
- 2. All verification activities stipulated in these Requirements and the CA's Certification Practice Statement;
- 3. Approval and rejection of certificate requests; 
- 4. Issuance of Certificates; and
- 5. Generation of Certificate Revocation Lists and OCSP entries.
- 3. Security events, including:
- 1. Successful and unsuccessful PKI system access attempts;
- 2. PKI and security system actions performed;
- 3. Security profile changes;
- 4. Installation, update and removal of software on a Certificate System; 
- 5. System crashes, hardware failures, and other anomalies;
- 6. Firewall and router activities; and
- 7. Entries to and exits from the CA facility.
+1. CA certificate and key lifecycle events, including:
+1. Key generation, backup, storage, recovery, archival, and destruction; 
+2. Certificate requests, renewal, and re-key requests, and revocation;
+3. Approval and rejection of certificate requests; 
+4. Cryptographic device lifecycle management events;
+5. Generation of Certificate Revocation Lists and OCSP entries;
+6. Introduction of new Certificate Profiles and retirement of existing Certificate Profiles.
+2. Subscriber Certificate lifecycle management events, including:
+1. Certificate requests, renewal, and re-key requests, and revocation;
+2. All verification activities stipulated in these Requirements and the CA's Certification Practice Statement;
+3. Approval and rejection of certificate requests; 
+4. Issuance of Certificates; and
+5. Generation of Certificate Revocation Lists and OCSP entries.
+3. Security events, including:
+1. Successful and unsuccessful PKI system access attempts;
+2. PKI and security system actions performed;
+3. Security profile changes;
+4. Installation, update and removal of software on a Certificate System; 
+5. System crashes, hardware failures, and other anomalies;
+6. Firewall and router activities; and
+7. Entries to and exits from the CA facility.
 
 **Delete the following Section 5.4.3. from the “Baseline Requirements for the Issuance
 and Management of Publicly-Trusted Certificates”, version 1.6.7, which currently
@@ -139,28 +140,28 @@ for the Issuance and Management of Publicly-Trusted Certificates”, the followi
 
  The CA SHALL retain, for at least two years:
 
- 1. CA certificate and key lifecycle management event records (as set forth in Section 5.4.1 (1)) after the later occurrence of:
+1. CA certificate and key lifecycle management event records (as set forth in Section 5.4.1 (1)) after the later occurrence of:
  a. the destruction of the CA Private Key; or
  b. the revocation or expiration of the final CA Certificate in that set of Certificates that have an X.509v3 basicConstraints extension with the cA field set to true and which share a common Public Key corresponding to the CA Private Key; 
- 2. Subscriber Certificate lifecycle management event records (as set forth in Section 5.4.1 (2)) after the revocation or expiration of the Subscriber Certificate.
- 3. Any security event records (as set forth in Section 5.4.1 (3)) after the event occurred. 
+2. Subscriber Certificate lifecycle management event records (as set forth in Section 5.4.1 (2)) after the revocation or expiration of the Subscriber Certificate.
+3. Any security event records (as set forth in Section 5.4.1 (3)) after the event occurred. 
 
 **Delete from “Network and Certificate Systems Security Requirements”, Version 1.3,
 Section 3.b**
  b. Identify those Certificate Systems under the control of CA or Delegated
  Third Party Trusted Roles capable of monitoring and logging system activity
-  and enable those systems to continuously monitor and log system activity;
+ and enable those systems to continuously monitor and log system activity;
 
 **Insert new “Network and Certificate Systems Security Requirements”, Version 1.3,
 Section 3.b with the following text:**
 
  b. Identify those Certificate Systems under the control of CA or Delegated
-  Third Party Trusted Roles capable of monitoring and logging system activity,
-  and enable those systems to log and continuously monitor the events specified
-  in Section 5.4.1 (3) of the Baseline Requirements for the Issuance and
-  Management of Publicly-Trusted Certificates;
+ Third Party Trusted Roles capable of monitoring and logging system activity,
+ and enable those systems to log and continuously monitor the events specified
+ in Section 5.4.1 (3) of the Baseline Requirements for the Issuance and
+ Management of Publicly-Trusted Certificates;
 
-*— MOTION ENDS —*
+*- MOTION ENDS -*
 ```
 
 Discussion (7+ days)

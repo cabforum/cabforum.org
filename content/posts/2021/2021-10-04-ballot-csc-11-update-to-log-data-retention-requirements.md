@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-10-04-ballot-csc-11-update-to-log-data-retention-requirements/
+- /2021/10/04/ballot-csc-11-update-to-log-data-retention-requirements/
 author: Corey Bonnell
 date: 2021-10-04 02:00:00
 tags:
@@ -10,7 +10,7 @@ title: Ballot CSC-11 – Update to log data retention requirements
 type: post
 ---
 
-## Results of IPR Review 
+## Results of IPR Review
 
 (Mailing list post is available [here][1].)
 
@@ -18,30 +18,37 @@ The review period has ended and no exclusion notices were filed.
 
 The final documents, with the effective date being 2021-11-03, are available [here][2].
 
-## Results of Voting 
+## Results of Voting
 
 (Mailing list post is available [here][3].)
 
 | | | | |
 | --- | --- | --- | --- |
 | |
-Yes |
-No |
-Abstain | |
-Certificate Issuers |
+Yes
+|
+No
+|
+Abstain
+|
+|
+Certificate Issuers
+|
 Certum (Asseco)DigiCerteMudhraEntrustGlobalSignHARICASectigoSecureTrust
-| | | |
-Certificate Consumers |
+| | |
+|
+Certificate Consumers
+|
 Microsoft
 | | |
 
 The ballot has PASSED.
 
-## Purpose of the Ballot 
+## Purpose of the Ballot
 
 Update the log data and retention of log data requirements in the Baseline Requirement for the Issuance and Management of Publicly-Trusted Code Signing Certificates v2.5. The following motion has been proposed by Ian McMillan of Microsoft, and endorsed by Dimitris Zacharopoulos (HARICA) and Bruce Morton (Entrust).
 
-## Motion 
+## Motion
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates“ version 2.5 according to the attached redline which includes:
 

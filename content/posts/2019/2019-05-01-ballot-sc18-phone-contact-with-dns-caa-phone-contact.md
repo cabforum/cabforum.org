@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-05-01-ballot-sc18-phone-contact-with-dns-caa-phone-contact/
+- /2019/05/01/ballot-sc18-phone-contact-with-dns-caa-phone-contact/
 author: Wayne Thayer
 date: 2019-05-01 20:47:15
 tags:
@@ -17,7 +17,7 @@ The voting period for Ballot SC18 has ended and the **Ballot has Failed**. Here 
 
 - **9 No votes: Certum (Asseco), Chunghwa Telecom, DarkMatter, DigiCert, eMudhra, Entrust Datacard, GlobalSign, Kamu SM, TrustCor**
 
-- **0 Abstain:**
+- \*\*0 Abstain: \*\*
 
 10% of voting Certificate Issuers voted in favor.
 
@@ -25,8 +25,8 @@ The voting period for Ballot SC18 has ended and the **Ballot has Failed**. Here 
 
 - **0 Yes votes:**
 
-- **1 No vote: Microsoft
-**
+- \*\*1 No vote: Microsoft
+  \*\*
 
 - **0 Abstain:**
 
@@ -45,7 +45,7 @@ Half of currently active Members as of the start of voting was **12**, so quorum
 
 The following motion has been proposed by Doug Beattie of GlobalSign and endorsed Tim Hollebeek of DigiCert and Bruce Morton from Entrust.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.4.
 
@@ -55,7 +55,7 @@ DNS CAA Phone Contact: The phone number defined in section B.1.2.
 
 Add the following Acronym to section 1.6.2:
 
-ADN      Authorization Doman Name
+ADN Authorization Doman Name
 
 Add Section 3.2.2.4.17 as follows:
 
@@ -87,9 +87,9 @@ CAA 0 contactphone “+1 (555) 123-4567”
 
 The contactphone property MAY be critical if the domain owner does not want CAs who do not understand it to issue certificates for the domain.
 
-**— MOTION ENDS —**
+## Motion ends
 
-\*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at:
 
@@ -99,12 +99,12 @@ The procedure for approval of this ballot is as follows:
 
 Discussion (7+ days)
 
-Start Time: 2019-04-16   16:00 Eastern
+Start Time: 2019-04-16 16:00 Eastern
 
-End Time: Not before 2018-04-23   16:00 Eastern
+End Time: Not before 2018-04-23 16:00 Eastern
 
 Vote for approval (7 days)
 
-Start Time: 2019-04-23   17:15 Eastern
+Start Time: 2019-04-23 17:15 Eastern
 
-End Time: 2019-04-30   17:15 Eastern
+End Time: 2019-04-30 17:15 Eastern

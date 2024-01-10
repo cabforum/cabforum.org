@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-11-11-2020-11-11-minutes-of-the-s-mime-certificate-working-group/
+- /2020/11/11/2020-11-11-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2020-11-11 18:53:30
 tags:
@@ -10,33 +10,33 @@ title: 2020-11-11 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 November 11, 2020
 
 These are the Draft Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Chris Kemmerer (SSL.com), , Corey Bonnell (DigiCert), David Kluge (Google), Dean Coclin (DigiCert), Doug Beattie (GlobalSign), Hazhar Ismail (MSC Trustgate.com), Hugh Mercer (GlobalSign), James Knapp (Federal PKI), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Markus Wichmann (TeleTrust), Matthias Wiedenhorst (ACAB’c), Morad Abou Nasser (TeleTrust), Pedro Fuentes (OISTE), Russ Housley (Vigil Security), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Thomas Zermeno (SSL.com), Tim Crawford (WebTrust), Tim Hollebeek (DigiCert), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (Federal PKI)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
 The Chair proposed adding a new membership to the Agenda, and following confirmation of their eligibility Telia Company was accepted as a Certificate Issuer member of the SMCWG by a consensus vote.
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the October 28 teleconference were approved.
 
-### 5. Discussion of certificate profile 
+### 5. Discussion of certificate profile
 
 A discussion was held regarding the new approach being adopted in the Validation subcommittee of the Server Certificate Working Group to express certificate profiles in the TLS BR. Tim Hollebeek of DigiCert provided a description of that approach and showed an example. Previously the BR provided long-text descriptions of each allowed field and its requirements.
 
@@ -57,11 +57,11 @@ Parking lot items requiring further discussion:
 - Algorithms beyond those identified in BR
 - Additional extensions such as qcStatements
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 No other business.
 
-### 7. Next call 
+### 7. Next call
 
 The next call will take place on November 25, 2020 at 11:00am Eastern Time.
 

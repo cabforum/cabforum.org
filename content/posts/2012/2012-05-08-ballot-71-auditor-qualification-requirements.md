@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-05-08-ballot-71-auditor-qualification-requirements/
+- /2012/05/08/ballot-71-auditor-qualification-requirements/
 author: Ben Wilson
 date: 2012-05-08 21:38:12
 tags:
@@ -16,7 +16,7 @@ Motion
 
 Tim Moses made the following motion, and Inigo Barreira and Ben Wilson endorsed it:
 
-Motion begins
+## Motion begins
 
 Effective 1 Jan 2013:
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-11-06-ballot-sc4-caa-contact-property-and-associated-e-mail-validation-method/
+- /2018/11/06/ballot-sc4-caa-contact-property-and-associated-e-mail-validation-method/
 author: Jos Purvis
 date: 2018-11-06 18:34:17
 tags:
@@ -12,15 +12,12 @@ type: post
 
 This ballot was in the review period for more than 21 days and voting did not start. **According to section 2.3c of the Bylaws, the ballot has failed.**
 
-______________________________________________________________________
-
 Purpose of Ballot: Increasingly, contact information is not available in WHOIS due to concerns about potential GDPR violations. This ballot specifies a method by which domain holders can publish their contact information via DNS, and how CAs can use that information for validating domain control.
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Bruce Morton of Entrust and Doug Beattie of GlobalSign.
 
-— MOTION BEGINS —
-
-This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.0:
+- MOTION BEGINS
+  This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.0:
 
 Add Section 3.2.2.4.13: Email to DNS CAA Contact
 
@@ -46,13 +43,12 @@ The following is an example where the holder of the domain specified the contact
 
 $ORIGIN example.com
 
-.             CAA 0 issue “ca.example.net”
+. CAA 0 issue “ca.example.net”
 
-.             CAA 0 contactemail [“domainowner@example.com”][1]
+. CAA 0 contactemail [“domainowner@example.com”][1]
 
-— MOTION ENDS —
-
-A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4—CAA-CONTACT-email?diff=unified&expand=1][2]
+- MOTION ENDS
+  A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4-CAA-CONTACT-email?diff=unified&expand=1][2]
 
 [][2]
 

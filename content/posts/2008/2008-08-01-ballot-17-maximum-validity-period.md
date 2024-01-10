@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-08-01-ballot-17-maximum-validity-period/
+- /2008/08/01/ballot-17-maximum-validity-period/
 author: Ben Wilson
 date: 2008-08-01 23:49:00
 tags:

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-06-21-2023-06-21-minutes-of-the-s-mime-certificate-working-group/
+- /2023/06/21/2023-06-21-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-06-21 13:28:31
 tags:
@@ -66,5 +66,4 @@ Next call: tentative Wednesday, July 19, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
 
-\_\_PRESENT
 \_\_PRESENT

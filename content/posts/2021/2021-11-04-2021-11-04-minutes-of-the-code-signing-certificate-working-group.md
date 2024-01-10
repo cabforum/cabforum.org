@@ -1,32 +1,32 @@
 ---
 aliases:
-- /2021-11-04-2021-11-04-minutes-of-the-code-signing-certificate-working-group/
+- /2021/11/04/2021-11-04-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-11-04 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2021-11-04 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Andrea Holland, Atsushi Inaba, Ben Wilson, Bruce Morton, Chris Kemmerer, Corey Bonnell, Dean Coclin, Dimitris Zacharopoulo, Ian McMillan, Inigo Barreira, Janet Hines, Joanna Fox, Martijn Katerbarg, Michael Sykes, Sebastian Schulz, Tim Crawford, Tim Hollebeek, Tomas Gustavsson
 
-## Minutes 
+## Minutes
 
 **Minute Taker:** Martijn
 
-**Anti-Trust statement
-** Dean read the anti-trust statement
+**Anti-Trust statement**
+Dean read the anti-trust statement
 
-**Previous Minutes
-** Minutes from October 13th and October 21st are approved. Dean will send them out to the public list
+**Previous Minutes**
+Minutes from October 13th and October 21st are approved. Dean will send them out to the public list
 
-### SC-50 – Remove the requirements of 4.1.1.**
+### SC-50 – Remove the requirements of 4.1.1.\*\*
 
-** 
+\*\* {.wp-block-heading}
 
 Bruce: SC50 In the Server Certificate working group s a ballot where they would change 4.1.1 to say “No Stipulation”. Do we care about this or not, and do we want to add any additional information here.An email was sent out about this on the 1st of November.
 
@@ -42,14 +42,14 @@ Bruce: I think we should do that. Sometimes it makes sense to have a different p
 
 To be kept on the agenda for the next meeting
 
-### Ballot status on ballots 11 and 12 
+### Ballot status on ballots 11 and 12
 
 Bruce provided an update on both:
 
 - CSC-11 has gone though IPR review and is now complete. The version of the CSC BR document has been sent out and published.
 - CSC-12 is now out for IPS review running through December 3rd 2021.
 
-### CSC-6 Subscriber key protection 
+### CSC-6 Subscriber key protection
 
 - Ian has sent out a draft on November 3rd based on CS BRs version 2.5. If needed a redline based on 2.6 can be created and sent out. All changes are centered around section 16.3
 - A few changes were received from Bruce regarding signing services which was mainly cleanup items in terms of EV vs non-EV.
@@ -80,14 +80,14 @@ Bruce provided an update on both:
 - The wording is discussed further, there being a strong favour for key attestation to be used. Ian will make adjustments to the suggested text for the ballot.
 - If a CA comes up with new means they shall publish it in their CPS and they must propose this to the CA/B forum within 6 months. Dimitris adds that we should have that as item 7, Any other method
 
-### CS BR Format Change**
+### CS BR Format Change\*\*
 
-** 
+\*\* {.wp-block-heading}
 
 Corey went through the CS BR’s and did a section by section comparison with the TLS BR’s. It looks mostly consistent. The next step will have to be a review to see there haven’t been made any mistakes and then get it up for a vote.
 
-**Other Business
-** None
+**Other Business**
+None
 
-**Next Meeting
-** November 18th
+**Next Meeting**
+November 18th

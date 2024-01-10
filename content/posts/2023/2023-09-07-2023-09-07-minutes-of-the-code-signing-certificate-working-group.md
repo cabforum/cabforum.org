@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-09-07-2023-09-07-minutes-of-the-code-signing-certificate-working-group/
+- /2023/09/07/2023-09-07-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-09-07 16:00:07
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2023-09-07 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
@@ -16,11 +16,11 @@ Andrea Holland – VikingCloud, Atsushi Inaba – GlobalSign, Brianca Martin –
 
 # Minutes
 
-**Discussion Points:**
+## Discussion Points
 
 Prior minutes approval – 24-Aug-2023 minutes approved with no objection
 
-**Ballot Status**
+## Ballot Status
 
 Ballot 19 is completed and effective 5-Sep-23 and new Code Signing BR version is published with updates from this ballot.
 
@@ -37,7 +37,7 @@ Summary of Major updates for Signing Service:
 
 High Risk ballot – To be postponed for now and to be taken up later.
 
-**Discussion on need for charter update for TSA certificates**
+## Discussion on need for charter update for TSA certificates
 
 Dimitris brought to group attention that it was agreed at forum level that Codesigning Working group can work on requirements for TSA related to Code Signing and is in scope.
 

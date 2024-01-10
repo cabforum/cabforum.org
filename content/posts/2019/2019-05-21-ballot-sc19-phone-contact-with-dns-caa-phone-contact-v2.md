@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-05-21-ballot-sc19-phone-contact-with-dns-caa-phone-contact-v2/
+- /2019/05/21/ballot-sc19-phone-contact-with-dns-caa-phone-contact-v2/
 author: Wayne Thayer
 date: 2019-05-21 15:58:41
 tags:
@@ -43,7 +43,7 @@ Under Bylaw 2.3(g), “a ballot result will be considered valid only when more t
 
 The following motion has been proposed by Doug Beattie of GlobalSign and endorsed Tim Hollebeek of DigiCert and Bruce Morton from Entrust.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.4.
 
@@ -53,7 +53,7 @@ DNS CAA Phone Contact: The phone number defined in section B.1.2.
 
 Add the following Acronym to section 1.6.2:
 
-ADN      Authorization Doman Name
+ADN Authorization Doman Name
 
 Add Section 3.2.2.4.17 as follows:
 
@@ -85,9 +85,9 @@ CAA 0 contactphone “+1 (555) 123-4567”
 
 The contactphone property MAY be critical if the domain owner does not want CAs who do not understand it to issue certificates for the domain.
 
-**— MOTION ENDS —**
+## Motion ends
 
-\*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at (while the link name may be misleading, this is an accurate redline for SC19):
 
@@ -97,14 +97,14 @@ The procedure for approval of this ballot is as follows:
 
 Discussion (7+ days)
 
-Start Time: 2019-05-02   12:00 Eastern
+Start Time: 2019-05-02 12:00 Eastern
 
-End Time: Not before 2019-05-09   12:00 Eastern
+End Time: Not before 2019-05-09 12:00 Eastern
 
 Vote for approval (7 days)
 
-Start Time: 2019-05-13   16:30 Eastern
+Start Time: 2019-05-13 16:30 Eastern
 
-End Time: 2019-05-20   16:30 Eastern
+End Time: 2019-05-20 16:30 Eastern
 
 [1]: https://github.com/dougbeattie/documents/compare/master...dougbeattie:SC18-v1-CAA-Phone-Validation

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-03-02-ballot-188-clarify-use-term-ca-baseline-requirements/
+- /2017/03/02/ballot-188-clarify-use-term-ca-baseline-requirements/
 author: Ben Wilson
 date: 2017-03-02 08:02:18
 tags:
@@ -10,27 +10,27 @@ title: Ballot 188 – Clarify use of term “CA” in Baseline Requirements
 type: post
 ---
 
-**Results on Ballot 188**
+## Results on Ballot 188
 
 The voting period for Ballot 188 has ended. Here are the results.
 
-**Voting by CAs – 10 votes total including abstentions**
+## Voting by CAs – 10 votes total including abstentions
 
-3 Yes votes: Digicert, HARICA, and SwissSign
+- **3 Yes votes:** Digicert, HARICA, and SwissSign
 
-6 No votes: Entrust, GlobalSign, Symantec, Cisco, GDCA, and SHECA
+- **6 No votes:** Entrust, GlobalSign, Symantec, Cisco, GDCA, and SHECA
 
-1 Abstain: ANF Autoridad de Certificación
+- **1 Abstain:** ANF Autoridad de Certificación
 
 33.33% of voting CAs voted in favor
 
-**Voting by browsers – 2 votes total including abstentions**
+## Voting by browsers – 2 votes total including abstentions
 
-0 Yes votes:
+- **0 Yes votes:**
 
-2 No votes: Mozilla, Google
+- **2 No votes:** Mozilla, Google
 
-0 Abstain:
+- **0 Abstain:**
 
 0% of voting browsers voted in favor
 
@@ -40,9 +40,9 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was not met.
 
-**The ballot fails.**
+## The ballot fails.
 
-**Ballot 188 – Clarify use of term “CA” in Baseline Requirements**
+## Ballot 188 – Clarify use of term “CA” in Baseline Requirements
 
 The following motion has been proposed by Dimitris Zacharopoulos of HARICA and endorsed by Ben Wilson of Digicert and Tim Hollebeek of Trustwave.
 
@@ -56,7 +56,7 @@ Some incorrect references (pointing to Section 3.3.1 instead of 4.2.1) are also 
 
 In accordance with the Bylaws, a PDF with redlines to the Baseline Requirements as they currently exist is attached to assist your review.
 
-— MOTION BEGINS —
+## Motion begins
 
 In Section 1.1 (Overview)
 
@@ -247,13 +247,13 @@ e. keyUsage
 
 g. extkeyUsage (optional)
 
-For Subordinate CA Certificates to be Technically constrained in line with section 7.1.5, then either the value id-kp-serverAuth \[RFC5280\] or id-kp-clientAuth \[RFC5280\] or both values MUST be present**.
+For Subordinate CA Certificates to be Technically constrained in line with section 7.1.5, then either the value id-kp-serverAuth \[RFC5280\] or id-kp-clientAuth \[RFC5280\] or both values MUST be present\*\*.
 
 Other values MAY be present.
 
 If present, this extension SHOULD be marked non-critical.
 
-** Generally Extended Key Usage will only appear within end entity certificates (as highlighted in RFC 5280 (4.2.1.12)), however, Subordinate CA Operators MAY include the extension to further protect relying parties until the use of the extension is consistent between Application Software Suppliers whose software is used by a substantial portion of Relying Parties worldwide.
+\*\* Generally Extended Key Usage will only appear within end entity certificates (as highlighted in RFC 5280 (4.2.1.12)), however, Subordinate CA Operators MAY include the extension to further protect relying parties until the use of the extension is consistent between Application Software Suppliers whose software is used by a substantial portion of Relying Parties worldwide.
 
 In Section 7.1.2.3 (Subscriber Certificate)
 
@@ -338,7 +338,7 @@ Replace the last paragraph with:
 
 The Root CA Operator SHALL be responsible for the performance and warranties of its Externally Operated Subordinate CAs, for the Externally Operated Subordinate CAs’ compliance with these Requirements, and for all liabilities and indemnification obligations of the Externally Operated Subordinate CAs under these Requirements, as if the Root CA Operator were the Externally Operated Subordinate CA issuing the Certificates.
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 

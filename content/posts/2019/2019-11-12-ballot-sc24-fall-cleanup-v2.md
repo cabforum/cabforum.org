@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-11-12-ballot-sc24-fall-cleanup-v2/
+- /2019/11/12/ballot-sc24-fall-cleanup-v2/
 author: Jos Purvis
 date: 2019-11-12 20:51:18
 tags:
@@ -10,15 +10,15 @@ title: 'Ballot SC24: Fall Cleanup V2'
 type: post
 ---
 
-## Ballot Results 
+## Ballot Results
 
 The voting period for Ballot SC24 has ended and the **Ballot has Passed**. Here are the results:
 
-### Voting by Certificate Issuers 
+### Voting by Certificate Issuers
 
 **29 votes total including abstentions**
 
-** 24 votes total including abstentions**
+\*\* 24 votes total including abstentions\*\*
 
 - **24 Yes votes:** Actalis, Amazon, Buypass, Camerfirma, Certum (Asseco), CFCA, Chunghwa Telecom, D-TRUST, DarkMatter, Disig, DigiCert, Entrust Datacard, Firmaprofesional, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, Kamu SM, Let’s Encrypt, SSL.com, TrustCor, SecureTrust (former Trustwave), TurkTrust
 - **0 No votes:**
@@ -26,27 +26,27 @@ The voting period for Ballot SC24 has ended and the **Ballot has Passed**. He
 
 100% of voting Certificate Issuers voted in favor.
 
-### Voting by Certificate Consumers 
+### Voting by Certificate Consumers
 
 **5 votes total including abstentions**
 
 - **5 Yes votes:** Apple, Cisco, Google, Microsoft, Mozilla
 - **0 No votes:**
-- **0 Abstain:**
+- \*\*0 Abstain: \*\*
 
 100% of voting Certificate Consumers voted in favor
 
-### Relevant Bylaw references 
+### Relevant Bylaw references
 
 Bylaw 2.3(6) requires:
 
 - A “yes” vote by two-thirds of Certificate Issuer votes and 50%-plus-one Certificate Consumer votes for approval. Votes to abstain are not counted for this purpose. _This requirement was met for both Certificate Issuers and Certificate Consumers._
 - At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. _This requirement was also met._
-- Under Bylaw 2.3(7), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. 20 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **10**, so quorum was** 11 votes** –_quorum was met._
+- Under Bylaw 2.3(7), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. 20 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **10**, so quorum was\*\* 11 votes\*\* –_quorum was met._
 
-## Ballot SC24: Fall Cleanup V2 
+## Ballot SC24: Fall Cleanup V2
 
-### Purpose of Ballot 
+### Purpose of Ballot
 
 This ballot proposes to correct a number of minor errata that have been discovered in the BRs and EVGLs. The specific list of changes and motivations is as follows:
 
@@ -78,7 +78,7 @@ To the EVGs:
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Ryan Sleevi of Google and Jacob Hoffman-Andrews of Let’s Encrypt.
 
-**— MOTION BEGINS –**
+## - MOTION BEGINS –
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as defined in the following redline, based on Version 1.6.6:
 
@@ -88,6 +88,6 @@ This ballot modifies the “Guidelines for the Issuance and Management of Extend
 
 [https://github.com/cabforum/documents/compare/master@%7B10-25-19%7D…sleevi:2019-07-Cleanups@%7B10-25-19%7D][1]
 
-**— MOTION ENDS —**
+## Motion ends
 
 [1]: https://github.com/cabforum/documents/compare/master@%7B10-25-19%7D...sleevi:2019-07-Cleanups@%7B10-25-19%7D

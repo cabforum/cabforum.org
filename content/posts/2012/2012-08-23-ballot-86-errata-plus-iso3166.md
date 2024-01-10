@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-08-23-ballot-86-errata-plus-iso3166/
+- /2012/08/23/ballot-86-errata-plus-iso3166/
 author: Ben Wilson
 date: 2012-08-23 01:33:00
 tags:

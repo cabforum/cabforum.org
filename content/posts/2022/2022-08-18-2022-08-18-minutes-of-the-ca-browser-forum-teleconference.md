@@ -1,17 +1,18 @@
 ---
 aliases:
-- /2022-08-18-2022-08-18-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/08/18/2022-08-18-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2022-08-18 17:02:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-08-18 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
 - **Opening Procedures**– Dean
-- **Roll Call**
+
+* **Roll Call**
 
 **Attendees:** Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Clements (Google), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), David Kluge (Google), Dustin Hollenback (Microsoft), Fumi Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Inaba Atsushi (GlobalSign), Jamie Mackey (US Federal PKI Management Authority), Janet Hines (SecureTrust), Joanna Fox (TrustCor Systems), Johnny Reading (GoDaddy), Jos Purvis (Fastly), Karina Sirota (Microsoft), Kiran Tummala (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Michael Guenther (SwissSign), Michelle Coon (OATI), Rebecca Kelley (Apple), Roman Fischer (SwissSign), Ryan Dickson (Google), Tadahiko Ito (SECOM Trust Systems), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tyler Myers (GoDaddy), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
@@ -59,20 +60,20 @@ The production of the membership tool and has been turned over to Martin for cod
 
 - Jos noted that some of the first post-quantum TLS options are being pushed in sandboxes as examples but it’s still very early.
 
-**F2F Meeting Schedule**
+## F2F Meeting Schedule
 
-\*   2022
+- 2022
 
-\*   Oct 24-26 – Berlin (Note: Meeting dates are Mon-Weds and will be
+- Oct 24-26 – Berlin (Note: Meeting dates are Mon-Weds and will be
 
 followed by the CA Day and TSP event on Thurs/Fri) MEETING IS CONFIRMED.
 
 PLEASE SIGN UP ON WIKI IF YOU ARE ATTENDING IN PERSON OR REMOTE
 
-\*   2023
+- 2023
 
-\*   Spring TBD
+- Spring TBD
 
-\*   June: Redmond, WA (Microsoft)
+- June: Redmond, WA (Microsoft)
 
-\*   October: Portsmouth, NH (Globalsign)
+- October: Portsmouth, NH (Globalsign)

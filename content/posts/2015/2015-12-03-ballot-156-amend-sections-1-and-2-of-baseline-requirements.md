@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-12-03-ballot-156-amend-sections-1-and-2-of-baseline-requirements/
+- /2015/12/03/ballot-156-amend-sections-1-and-2-of-baseline-requirements/
 author: Ben Wilson
 date: 2015-12-03 16:53:45
 tags:
@@ -20,7 +20,7 @@ Therefore, the ballot passes. Full ballot results can be found here:
 
 The Policy Review Working Group has reviewed Sections 1 and 2 of the Baseline Requirements and, as a result, suggests that certain changes be made to them. Based on the lack of urgency for these changes and other considerations, the Working Group recommends that Certification Authorities be given one year from the effective date of this amendment before they are required to comply. Therefore, the following motion has been proposed by Ben Wilson of DigiCert and endorsed by Tim Hollebeek of Trustwave and Robin Alden of Comodo:
 
-— MOTION BEGINS —
+## Motion begins
 
 1. In Section 1.1, under Notice to Readers add a second sentence to read as follows: “This document serves two purposes: to specify Baseline Requirements and to provide guidance and requirements for what a CA should include in its CPS.”
 
@@ -36,9 +36,9 @@ The Policy Review Working Group has reviewed Sections 1 and 2 of the Baseline Re
 
 1. In Section 2.4 add “The CA shall make its Repository publicly available in a read-only manner.”
 
-8) These changes shall be effective immediately. However, CAs are allowed one year after adoption (i.e. 3 December 2016) to comply with this amendment to the Baseline Requirements.
+1. These changes shall be effective immediately. However, CAs are allowed one year after adoption (i.e. 3 December 2016) to comply with this amendment to the Baseline Requirements.
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 2100 UTC on Thursday, 19 November 2015, and will close at 2100 UTC on Thursday, 26 November 2015. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on Thursday, 3 December 2015. Votes must be cast by posting an on-list reply to this thread.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-05-09-ballot-199-require-commonname-root-intermediate-certificates/
+- /2017/05/09/ballot-199-require-commonname-root-intermediate-certificates/
 author: Ben Wilson
 date: 2017-05-09 21:02:05
 tags:
@@ -10,27 +10,27 @@ title: Ballot 199 – Require commonName in Root and Intermediate Certificates
 type: post
 ---
 
-**Results on Ballot 199 – Require commonName in Root and Intermediate Certificates**
+## Results on Ballot 199 – Require commonName in Root and Intermediate Certificates
 
 The voting period for Ballot 199 has ended and the ballot has passed. Here are the results.
 
-**Voting by CAs – 15 votes total including abstentions**
+## Voting by CAs – 15 votes total including abstentions
 
-14 Yes votes: Actalis, CFCA, Cisco, DigiCert, Entrust, GDCA, GlobalSign, HARICA, Izenpe, OATI, SHECA, SSC, SwissSign, Trustwave
+- **14 Yes votes:** Actalis, CFCA, Cisco, DigiCert, Entrust, GDCA, GlobalSign, HARICA, Izenpe, OATI, SHECA, SSC, SwissSign, Trustwave
 
-1 No vote: Buypass
+- **1 No vote:** Buypass
 
-0 Abstain:
+- **0 Abstain:**
 
 93% of voting CAs voted in favor
 
-**Voting by browsers – 3 votes total including abstentions**
+## Voting by browsers – 3 votes total including abstentions
 
-3 Yes votes: Apple, Google, Mozilla
+- **3 Yes votes:** Apple, Google, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -40,16 +40,18 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met.
 
-**The ballot passes.**
+## The ballot passes.
 
 _This is the corrected text (one word change) of ballot 199 which is currently in the voting period (voting ends on 9th May)._
 
-**Ballot 199 – Require commonName in Root and Intermediate Certificates**
+## Ballot 199 – Require commonName in Root and Intermediate Certificates
 
 **Purpose of Ballot:** Section 7.1.4.3 of the BRs, which deals with Subject Information for Subordinate CA Certificates, currently requires only that all information in a Subordinate CA Certificate is accurate; it does not say what information is required. Some of the necessary information is required elsewhere in the BRs, but it is not complete – commonName is missing. If commonName is omitted, DN clashes can more easily occur. So this motion centralises that information in the obvious place, and adds a commonName requirement.
 
 The following motion has been proposed by Gervase Markham of Mozilla and endorsed by Patrick Tronnier of OATI and Ryan Sleevi of Google:
-— MOTION BEGINS —
+
+## Motion begins
+
 Make the following changes to the Baseline Requirements:
 
 - Delete 7.1.2.1 (e), which currently defines the Subject Information required in a Root CA Certificate.
@@ -82,33 +84,47 @@ Required/Optional: Required
 
 Contents: This field MUST contain the two‐letter ISO 3166‐1 country code for the country in which the CA’s place of business is located.
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
 | | | |
-| --- | --- | --- | |
+| --- | --- | --- |
+|
 BALLOT 199
 
 Status: Final Maintenance Guideline |
-Start time (23:00 UTC) |
-End time (23:00 UTC) | |
-Discussion (7 to 14 days) |
-25 Apr |
-2 May | |
-Vote for approval (7 days) |
-2 May |
-9 May | |
+Start time (23:00 UTC)
+|
+End time (23:00 UTC)
+|
+|
+Discussion (7 to 14 days)
+|
+25 Apr
+|
+2 May
+|
+|
+Vote for approval (7 days)
+|
+2 May
+|
+9 May
+|
+|
 If vote approves ballot: Review Period (Chair to send Review Notice) (30 days).
 
 If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created.
 
 If no Exclusion Notices filed, ballot becomes effective at end of Review Period. |
-Upon filing of Review Notice by Chair |
-30 days after filing of Review Notice by Chair |
+Upon filing of Review Notice by Chair
+|
+30 days after filing of Review Notice by Chair
+|
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 
-Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about/membership/members/](/about/membership/members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is shown on CA/Browser Forum wiki. Under Bylaw 2.2(g), at least the required quorum number must participate in the ballot for the ballot to be valid, either by voting in favor, voting against, or abstaining.

@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-01-26-2023-01-26-minutes-of-the-code-signing-certificate-working-group/
+- /2023/01/26/2023-01-26-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-01-26 17:00:18
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2023-01-26 Minutes of the Code Signing Certificate Working Group
 type: post
 ---

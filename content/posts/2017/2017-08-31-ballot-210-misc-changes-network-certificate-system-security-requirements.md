@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-08-31-ballot-210-misc-changes-network-certificate-system-security-requirements/
+- /2017/08/31/ballot-210-misc-changes-network-certificate-system-security-requirements/
 author: Ben Wilson
 date: 2017-08-31 15:20:47
 tags:
@@ -15,23 +15,23 @@ Results on Ballot 210 – Misc. Changes to the Network and Certificate System Se
 
 The voting period for Ballot 210 has ended and the ballot has passed. Here are the results.
 
-**Voting by CAs – 18 votes total including abstentions**
+## Voting by CAs – 18 votes total including abstentions
 
-18 Yes votes: Amazon, Buypass, Chunghwa Telecom, Cisco, D-TRUST, DigiCert, Disig, Entrust, GDCA, GlobalSign, GoDaddy, HARICA, Logius PKIoverheid, SSL.com, SwissSign, Symantec, TrustCor, Trustwave
+- **18 Yes votes:** Amazon, Buypass, Chunghwa Telecom, Cisco, D-TRUST, DigiCert, Disig, Entrust, GDCA, GlobalSign, GoDaddy, HARICA, Logius PKIoverheid, SSL.com, SwissSign, Symantec, TrustCor, Trustwave
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 3 votes total including abstentions**
+## Voting by browsers – 3 votes total including abstentions
 
-3 Yes votes: Apple, Google, Mozilla
+- **3 Yes votes:** Apple, Google, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -41,15 +41,15 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
+## The ballot passes.
 
 The discussion period for this ballot is 12 days to give everyone ample time to review it. Voting will start at 2200 UTC on Thursday, August 24, 2017.
 
-The Network Security Working Group recommends that the Forum make the following minor revisions to the Network and Certificate System Security Requirements.   (Other changes are being considered by the Working Group and will be presented in due course.)
+The Network Security Working Group recommends that the Forum make the following minor revisions to the Network and Certificate System Security Requirements. (Other changes are being considered by the Working Group and will be presented in due course.)
 
 The following ballot is proposed by Dimitris Zacharopoulos of HARICA and endorsed by Ben Wilson of DigiCert and Neil Dunbar of TrustCor.
 
-**–Motion Begins–**
+## –Motion Begins–
 
 In the Network and Certificate System Security Requirements:
 
@@ -79,7 +79,7 @@ REPLACE the definition of Security Support System in the Definitions with “Sec
 
 Make other editorial changes as indicated at and in the attached PDF.
 
-**–Motion Ends—**
+## –Motion Ends
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows:
 
@@ -87,9 +87,9 @@ BALLOT 210 – Final Maintenance Guideline
 
 Relevant Start times and End Times are 22:00 UTC
 
-Discussion (7 to 14 days) Start: August 17, 2017     End: August 24, 2017
+Discussion (7 to 14 days) Start: August 17, 2017 End: August 24, 2017
 
-Vote for approval (7 days) Start: August 24, 2017    End: August 31, 2017
+Vote for approval (7 days) Start: August 24, 2017 End: August 31, 2017
 
 If a vote of the Forum approves this ballot, the Chair will initiate a 30-day IPR Review Period by sending out an IPR Review Notice.
 

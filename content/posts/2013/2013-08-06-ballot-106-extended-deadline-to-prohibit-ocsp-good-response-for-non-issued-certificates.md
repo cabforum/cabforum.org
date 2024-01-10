@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-08-06-ballot-106-extended-deadline-to-prohibit-ocsp-good-response-for-non-issued-certificates/
+- /2013/08/06/ballot-106-extended-deadline-to-prohibit-ocsp-good-response-for-non-issued-certificates/
 author: Ben Wilson
 date: 2013-08-06 18:56:29
 tags:
@@ -19,7 +19,7 @@ Given that several CAs have notified the CA/Browser Forum that they will be unab
 
 Kelvin Yiu made the following motion, and Eddy Nigg from [StartCom][1], Ryan Hurst from [GlobalSign][2], and Iida Yosiaki from SECOM, and Inigo Barreira of Izenpe endorsed it:
 
-Motion Begins
+## Motion Begins
 
 EFFECTIVE RETROACTIVELY TO 1 AUGUST 2013,
 
@@ -27,7 +27,7 @@ The last sentence of Section 13.2.6 of the Baseline Requirements (Response for n
 
 “Effective 1 August 2014, OCSP responders MUST NOT respond with a “good” status for such certificates.”
 
-Motion Ends
+## Motion Ends
 
 The ballot review period comes into effect immediately upon posting today (Tuesday, 23 July 2013) and will close at 2200 UTC on Tuesday, 30 July 2013. Unless the ballot is withdrawn or modified during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Tuesday, 6 August 2013. If the ballot is modified for reasons other than to correct minor typographical errors, then the ballot will be deemed to have been withdrawn.
 

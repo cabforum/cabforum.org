@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-08-09-2018-08-09-server-certificate-working-group-minutes/
+- /2018/08/09/2018-08-09-server-certificate-working-group-minutes/
 author: Ben Wilson
 date: 2018-08-09 17:49:37
 tags:
@@ -10,9 +10,9 @@ title: 2018-08-09 Server Certificate Working Group Minutes
 type: post
 ---
 
-**Minutes for Server Certificate Working Group Teleconference – 9 August 2018**
+## Minutes for Server Certificate Working Group Teleconference – 9 August 2018
 
-1. **Attendees/Roll Call. ** The roll call occurred on the previous Forum teleconference. See [2018-08-09 Minutes][1]
+1. \*\*Attendees/Roll Call. \*\* The roll call occurred on the previous Forum teleconference. See [2018-08-09 Minutes][1]
 
 1. **Read Antitrust Statement.** Reading of the Antitrust Statement occurred on the previous Forum teleconference. See [2018-08-09 Minutes](/2018/08/09/2018-08-09-minutes/)
 

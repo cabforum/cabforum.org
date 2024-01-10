@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-10-04-ballot-sc34-account-management/
+- /2020/10/04/ballot-sc34-account-management/
 author: Ben Wilson
 date: 2020-10-04 03:41:00
 tags:

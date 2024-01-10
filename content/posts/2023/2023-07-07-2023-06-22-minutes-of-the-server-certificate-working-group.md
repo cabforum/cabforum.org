@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-07-07-2023-06-22-minutes-of-the-server-certificate-working-group/
+- /2023/07/07/2023-06-22-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2023-07-07 08:58:11
 tags:
@@ -10,22 +10,20 @@ title: 2023-06-22 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-# **Server Certificate Working Group Meeting
+# Server Certificate Working Group Meeting June 22, 2023
 
-June 22, 2023**
-
-**Attendees:**
+## Attendees
 
 Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), Andrea Holland – (VikingCloud), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Clint Wilson – (Apple), Corey Rasmussen – (OATI), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Ellie Lu – (TrustAsia Technologies, Inc.), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Jos Purvis – (Fastly), Karina Sirota – (Microsoft), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Marco Schambach – (IdenTrust), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Roman Fischer – (SwissSign), Ryan Dickson – (Google), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wendy Brown – (US Federal PKI Management Authority), Yashwanth TM – (eMudhra), Yoshiro Yoneya – (Japan Registry Services).
 
 The note-well was read in the plenary meeting earlier during this call.
 
-**Approval of minutes:**
+## Approval of minutes
 
 - May 25th, circulated June 7th: approved
 - f2f minutes have not been circulated. Inigo Barreira (Sectigo) will forward to the list.
 
-**Updates:**
+## Updates
 
 Membership – Inigo Barreira (Sectigo)
 

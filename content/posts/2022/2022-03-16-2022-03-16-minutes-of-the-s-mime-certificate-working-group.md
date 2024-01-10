@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-03-16-2022-03-16-minutes-of-the-s-mime-certificate-working-group/
+- /2022/03/16/2022-03-16-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-03-16 19:59:00
 tags:
@@ -10,31 +10,31 @@ title: 2022-03-16 Minutes of the S/MIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 March 16, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Cade Cairns (Google), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Eusebio Herrera (AC Camerfirma SA), Fotis Loukos (Google), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jamie Mackey (US Federal PKI Management Authority), Joanna Fox (TrustCor Systems), Khairil Nizam Abdul Malek (MSC Trustgate Sdn Bhd), Martijn Katerbarg (Sectigo), Mauricio Fernandez (TeleTrust), Morad Abou Naser (TeleTrust), Mrugesh Chandarana (IdenTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tsung-Min Kuo (Chunghwa Telecom)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the March 2 teleconference were approved. The minutes from the F2F will be separately distributed.
 
-### 5. Discussion 
+### 5. Discussion
 
 The draft S/MIME Baseline Requirements is available at
 
@@ -56,15 +56,15 @@ Stephen proposed text to allow the inclusion of organisationalUnit in certificat
 
 Stephen noted the prior discussions which were concerned that the commonName restriction to “givenName +surname” may be too rigid. He proposed providing language to allow preferred formats (such as Doug for Douglas) in the commonName, noting the friendly name allowance that exists in ETSI EN 319 412-2 section 4.2.4. Fotis noted that such rules are not really auditable. Don noted that it is a case of professional judgement. Stephen asked if guardrails can/should be provided as either normative text or informative notes.
 
-Stephen proposed text: “If present, the Personal Name SHALL contain a name of the Subject. The Personal Name SHOULD be presented as `subject:givenName` and/or `subject:surname`. The Personal Name MAY be in the Subject’s preferred presentation format, or a format preferred by the CA or Enterprise RA but SHALL be a meaningful representation of the Subject’s name as verified under Section 3.2.4.” He asked for feedback on this proposal.
+Stephen proposed text: “If present, the Personal Name SHALL contain a name of the Subject. The Personal Name SHOULD be presented as \`subject:givenName\` and/or \`subject:surname\`. The Personal Name MAY be in the Subject’s preferred presentation format, or a format preferred by the CA or Enterprise RA but SHALL be a meaningful representation of the Subject’s name as verified under Section 3.2.4.” He asked for feedback on this proposal.
 
 In closing minutes of the call, Stephen noted the issues with subject:pseudonyms. Currently the Sponsor- validated and Individual-validated profiles allowed the attribute but only if validated from official ID. This is a very limited use as only German national IDs appear to have pseudonyms. He did not believe the use extended to general unverified names like roles. Russ Housely suggested that on the sponsor-validated profile the left hand labels of an email address might be considered as an acceptable pseudonym. It was agreed further discussion was required.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, March 30, 2022 at 11 a.m. US Eastern.
 

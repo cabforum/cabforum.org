@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-09-07-ballot-175-addition-given-name-surname/
+- /2016/09/07/ballot-175-addition-given-name-surname/
 author: Ben Wilson
 date: 2016-09-07 20:38:35
 tags:
@@ -26,15 +26,15 @@ Dean Coclin
 
 CA/B Forum Chair
 
-**Ballot 17****5 – Addition of givenName/surname**
+## Ballot 17\*\*\*\*5 – Addition of givenName/surname
 
 The following motion has been proposed by Jeremy Rowley of DigiCert and endorsed by Richard Wang of WoSign and Eddy Nigg of StartCom:
 
-**Background:**
+## Background
 
 The CAB Forum Baseline Requirements theoretically permit use of givenName and surname under Section 7.1.4.2.2. However, the actual language of Section 7.1.4.2.2 ends up prohibiting use of these fields. This ballot permits use of givenName and surname to identify individuals validated under Section 3.2.5.
 
-**–Motion Begins–**
+## –Motion Begins–
 
 Insert a new (C) under 7.1.4.2.2, renumbering all subsequent bullets.
 
@@ -85,7 +85,7 @@ If the Certificate asserts the policy identifier of 2.23.140.1.2.1, then it MUST
 
 …
 
-**–Motion Ends–**
+## –Motion Ends–
 
 The review period for this ballot shall commence at 2200 UTC on 24 August 2016, and will close at 2200 UTC on 31 August 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 7 September 2016. Votes must be cast by posting an on-list reply to this thread.
 

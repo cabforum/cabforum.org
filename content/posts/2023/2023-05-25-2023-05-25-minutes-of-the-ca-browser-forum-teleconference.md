@@ -1,28 +1,28 @@
 ---
 aliases:
-- /2023-05-25-2023-05-25-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/05/25/2023-05-25-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-05-25 00:38:34
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-05-25 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
 Minutes prepared by Eva Van Steenberge (Globalsign).
 
-**Attendees:**
+## Attendees
 
 Aaron Poulsen – (Amazon), Adam Jones – (Microsoft), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Cade Cairns – (Google), Chad Ehlers – (IdenTrust), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dean Coclin – (DigiCert), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Ellie Lu – (TrustAsia Technologies, Inc.), Enrico Entschew – (D-TRUST), Eva Vansteenberge – (GlobalSign), Fumi Yoneda – (Japan Registry Services), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Jamie Mackey – (US Federal PKI Management Authority), Joanna Fox – (TrustCor Systems), Jos Purvis – (Fastly), Karina Sirota – (Microsoft), Kiran Tummala – (Microsoft), Kyle Duren – (Yahoo Inc), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marco Schambach – (IdenTrust), Michelle Coon – (OATI), Miguel Sanchez – (Google), Nate Smith – (GoDaddy), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Ryan Dickson – (Google), Scott Rea – (eMudhra), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tim Hollebeek – (DigiCert), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wendy Brown – (US Federal PKI Management Authority), Yoshiro Yoneya – (Japan Registry Services).
 
-**Approval of minutes:**
+## Approval of minutes
 
 - April 27th, circulated may 12th: approved
 - March 30th, ciculated may 8th: approved
 - May 11th, circulated May 12th: approved
 
-**Updates:
+\*\*Updates:
 **Server cert working group** – Iñigo Barreira (Sectigo)
 
 - Membership application of Yahoo (interested party, waiting for IPR), QikFox (certificate consumer consumer) which has been affected by the member moratorium by Mozilla.

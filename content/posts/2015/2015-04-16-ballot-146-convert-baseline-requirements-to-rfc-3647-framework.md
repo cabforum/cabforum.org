@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-04-16-ballot-146-convert-baseline-requirements-to-rfc-3647-framework/
+- /2015/04/16/ballot-146-convert-baseline-requirements-to-rfc-3647-framework/
 author: Ben Wilson
 date: 2015-04-16 17:37:17
 tags:
@@ -10,7 +10,7 @@ title: Ballot 146 – Convert Baseline Requirements to RFC 3647 Framework
 type: post
 ---
 
-**Ballot 146 – Convert Baseline Requirements to RFC 3647 Framework**
+## Ballot 146 – Convert Baseline Requirements to RFC 3647 Framework
 
 Voting has closed on Ballot 146, “Convert Baseline Requirements”
 
@@ -20,8 +20,6 @@ Among Browsers, there was 1 YES vote and 1 Abstention
 Therefore, the ballot passes.
 
 Here are [Version 1.3.0][1] and a helpful [Conversion Table][2]
-
-—————————————-
 
 The Certificate Policy Review Working Group was chartered by Ballot 128 to (i) consider existing and proposed standards, (ii) create a list of potential improvements based on the considered standards that improve the existing CAB Forum work product, (iii) evaluate the transition to a 3647 format based on the amount \[of work involved\]. One deliverable of the CP Review WG was to propose a ballot to improve CA infrastructure based on existing standards and documents and recommend whether to finish the 3647 conversion presented by Jeremy Rowley in January 2014.
 
@@ -33,11 +31,11 @@ Attached is the RFC-3647-formatted Baseline Requirements for the Issuance and Ma
 
 Ben Wilson of DigiCert made the following motion, Tim Hollebeek from Trustwave and Jody Cloutier from Microsoft have endorsed it.
 
-**Motion Begins**
+## Motion Begins
 
 Be it resolved that the CA / Browser Forum adopts the attached CA/B Forum Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates, v.1.3.0, effective upon adoption.
 
-**Motion Ends**
+## Motion Ends
 
 The review period for this ballot shall commence at 2200 UTC on Thursday 2 April 2015 and will close at 2200 UTC on Thursday 9 April 2015, unless the comment period is further extended an additional week during the regular fortnightly CA/B Forum call earlier on that date. Otherwise, unless the motion is withdrawn during the review period or the review period is otherwise extended, the voting period will start immediately thereafter and will close at 2200 UTC on Thursday 16 April 2015.
 

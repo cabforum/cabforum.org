@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-06-28-ballot-192-notary-revision/
+- /2017/06/28/ballot-192-notary-revision/
 author: Ben Wilson
 date: 2017-06-28 17:41:46
 tags:
@@ -10,29 +10,27 @@ title: Ballot 192 – Notary Revision
 type: post
 ---
 
-**Results on Ballot 192 – Notary Revision**
-
-****
+## Results on Ballot 192 – Notary Revision
 
 The voting period for Ballot 192 has ended. The ballot has passed. Here are the results.
 
-**Voting by CAs – 10 votes total including abstentions**
+## Voting by CAs – 10 votes total including abstentions
 
-9 Yes votes: Actalis, Comodo, DigiCert, Entrust, GDCA, HARICA, SHECA, Symantec, Trustwave
+- **9 Yes votes:** Actalis, Comodo, DigiCert, Entrust, GDCA, HARICA, SHECA, Symantec, Trustwave
 
-0 No votes:
+- **0 No votes:**
 
-1 Abstain: OATI
+- **1 Abstain:** OATI
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 2 votes total including abstentions**
+## Voting by browsers – 2 votes total including abstentions
 
-2 Yes votes: Apple, Mozilla
+- **2 Yes votes:** Apple, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
@@ -42,19 +40,19 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
+## The ballot passes.
 
-**Ballot 192 – Notary Revisions**
+## Ballot 192 – Notary Revisions
 
 The following motion has been proposed by Jeremy Rowley of DigiCert and endorsed by Kirk Hall of Entrust and Rich Smith of Comodo.
 
 Currently, section 11.11.1(A)(ii) states,
 
-11.11.1.              Verified Legal Opinion
+11.11.1. Verified Legal Opinion
 
-(1)         Verification Requirements: Before relying on a legal opinion submitted to the CA, the CA MUST verify that such legal opinion meets the following requirements:
+(1) Verification Requirements: Before relying on a legal opinion submitted to the CA, the CA MUST verify that such legal opinion meets the following requirements:
 
-(A)         Status of Author: The CA MUST verify that the legal opinion is authored by an independent legal practitioner retained by and representing the Applicant (or an in-house legal practitioner employed by the Applicant) (Legal Practitioner) who is either:
+(A) Status of Author: The CA MUST verify that the legal opinion is authored by an independent legal practitioner retained by and representing the Applicant (or an in-house legal practitioner employed by the Applicant) (Legal Practitioner) who is either:
 
 …
 
@@ -80,21 +78,32 @@ By deleting the requirement that a Latin Notary be a member of the International
 
 (ii) A notary that is a member of the International Union of Latin Notaries, and is Latin Notary who is currently commissioned or licensed to practice in the country of the Applicant’s Jurisdiction of Incorporation or Registration or any jurisdiction where the Applicant maintains an office or physical facility (and that jurisdiction recognizes the role of the Latin Notary);
 
-–MOTION ENDS—
-
+–MOTION ENDS
 The procedure for approval of this ballot is as follows:
 
 | | | |
-| --- | --- | --- | |
-BALLOT 192 |
-Start time (22:00 UTC) |
-End time (22:00 UTC) | |
-Discussion (7 to 14 days) |
-15th June |
-21st June | |
-Vote for approval (7 days) |
-21st June |
-28th June |
+| --- | --- | --- |
+|
+BALLOT 192
+|
+Start time (22:00 UTC)
+|
+End time (22:00 UTC)
+|
+|
+Discussion (7 to 14 days)
+|
+15th June
+|
+21st June
+|
+|
+Vote for approval (7 days)
+|
+21st June
+|
+28th June
+|
 | | | |
 
 Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:

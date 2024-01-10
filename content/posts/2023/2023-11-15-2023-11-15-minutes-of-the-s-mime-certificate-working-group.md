@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-11-15-2023-11-15-minutes-of-the-s-mime-certificate-working-group/
+- /2023/11/15/2023-11-15-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-11-15 16:27:40
 tags:
@@ -63,9 +63,6 @@ None
 Next call: Wednesday, December 6, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-\_\_PRESENT
-\_\_PRESENT\_\_PRESENT\_\_PRESENT
 
 [1]: https://github.com/srdavidson/smime/compare/241e92cde85c25d7e0d4a5c70118ecadacd4d72b...29f73eb50573bf3e04cb417aaf67be1c209f066b
 [2]: https://github.com/cabforum/smime/issues

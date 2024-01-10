@@ -1,24 +1,24 @@
 ---
 aliases:
-- /2023-01-05-2023-01-05-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/01/05/2023-01-05-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-01-05 17:17:03
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-01-05 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
 Minutes prepared by Andrea Holland (VikingCloud).
 
-**Forum Meeting: January 5, 2023**
+## Forum Meeting: January 5, 2023
 
-**Attendance (in alphabetical order):**
+## Attendance (in alphabetical order)
 
 Aaron Gable (ISRG), Aaron Poulsen (Amazon Trust Services), Adam Jones (Microsoft), Andrea Holland (VikingCloud), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Clements (Google Chrome), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen (OATI), Daryn Wright (GoDaddy), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Ellie (TrustAsia), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fumi Yoneda (JPRS), Hazhar Ismail (MSC Trustgate), Inigo Barreira (Sectigo), Jamie Mackey (FPKI), Janet Hines (VikingCloud), Joanna Fox (TrustCor), Jos Purvis (Fastly), Karina Sirota Goodley (Microsoft), Kiran Tummala (Microsoft), Lynn Jeun (Visa), Mads Henriksveen (Buypass), Marcelo Silva (Visa), Marco Schambach (IdenTrust), Michelle Coon (OATI), Mrugesh Chandarana (IdenTrust), Nargis Mannan (VikingCloud), Peter Miskovic (Disig), Rich Smith (DigiCert), Rollin Yu (Trust Asia), Sissel Hoel (Buypass), Stephen Davidson (DigiCert), Steve Topletz (Cisco), Tadahiko Ito (SECOM), Tim Hollebeek (DigCert), Tobias Josefowitz (Opera), Trevoli Ponds-White (Amazon Trust Services), Wayne Thayer (Fastkt), Wendy Brown (FPKI), Yoshiro Yoneya (JPRS)
 
-**Minutes**
+## Minutes
 
 1. **Roll called**
 1. **Antitrust statement read**

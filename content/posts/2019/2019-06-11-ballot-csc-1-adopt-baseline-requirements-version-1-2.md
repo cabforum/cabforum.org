@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-06-11-ballot-csc-1-adopt-baseline-requirements-version-1-2/
+- /2019/06/11/ballot-csc-1-adopt-baseline-requirements-version-1-2/
 author: Ben Wilson
 date: 2019-06-11 03:56:00
 tags:
@@ -13,20 +13,12 @@ type: post
 ```
 *NOTICE OF REVIEW PERIOD*
 
- 
-
 **
-
- 
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum's
 Intellectual Property Rights Policy (v1.3). This Review Period is for a
 Final Guideline (60 day Review Period). Attached is a complete Draft
 Guideline subject of this Review Notice.
-
- 
-
- 
 
 Ballot for Review: Ballot CSCWG-1 
 
@@ -47,13 +39,10 @@ Voting on Ballot CSCWG-1 has ended and the results are as follows:
 1 Certificate Consumer voting YES: Microsoft
 
 0 Certificate Consumers voting No or Abstain
- 
 
 Quorum calculator requires 6 to meet quorum. This was met.
 
 Therefore, the Ballot passes.
-
- 
 
 Dean Coclin 
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-06-15-ballot-103-ocsp-aia-and-tls-feature-extension/
+- /2013/06/15/ballot-103-ocsp-aia-and-tls-feature-extension/
 author: Ben Wilson
 date: 2013-06-15 01:44:00
 tags:

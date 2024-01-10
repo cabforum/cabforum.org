@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-02-17-2021-02-17-minutes-of-the-s-mime-certificate-working-group/
+- /2021/02/17/2021-02-17-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2021-02-17 21:24:00
 tags:
@@ -10,35 +10,35 @@ title: 2021-02-17 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 February 17, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees 
+### Attendees
 
 Andreas Henschel (D-TRUST), Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Ali Gholami (Telia Company), Atsushi Inaba (GlobalSign), Burkhard Wiegel (Zertificon), Bruce Morton (Entrust), Ben Wilson (Mozilla), Chris Kemmerer (SSL.com), Christy Berghoff (Federal PKI), Corey Bonnell (DigiCert), David Chen (TWCA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Dimitris Zacharopoulos (HARICA), Hazhar Ismail (MSC Trustgate.com), James Knapp (Federal PKI), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Klauss Voss (Zertificon), Mevre Tunca (Zertificon), Matthias Wiedenhorst (ACAB’c), Mads Henriksveen (BuyPass), Niko Carpenter (SecureTrust), Pedro Fuentes (OISTE), Patrycja Tulinska (PSW), Li-Chun Chen (Chunghwa Telecom), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Tim Hollebeek (DigiCert), Tsung-Min Kuo (Chunghwa Telecom)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the February 3 teleconference were approved.
 
-### 5. New Member Declaration 
+### 5. New Member Declaration
 
 Existing CABF members Apple (Certificate Consumer) and AC Camerfirma (Certificate Issuer) were confirmed as members of the SMCWG.
 
-### 6. Discussion of certificate profile 
+### 6. Discussion of certificate profile
 
 A discussion was undertaken on the format of our presentation to the upcoming CABF Virtual Face to Face, both to describe our progress towards creating the draft S/MIME Standard and to seek clarification several points. These topics include:
 
@@ -73,11 +73,11 @@ Tom Connelly emphasized that we need to be careful in balancing simplicity for t
 
 Stephen agreed to distribute draft text on the methods for 1) validating authority over email address via domain and 2) validating control over email address via email (the two requirements of the Mozilla policy.)
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 The March 3 call of the SMCWG has been cancelled but will be replaced by an overall meeting of the CABF (the Virtual F2F). Further details to follow.
 

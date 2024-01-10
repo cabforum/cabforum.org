@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-03-23-ballot-sc20-system-configuration-management/
+- /2020/03/23/ballot-sc20-system-configuration-management/
 author: Ben Wilson
 date: 2020-03-23 03:36:00
 tags:
@@ -13,7 +13,7 @@ type: post
 
 This ballot failed.
 
-**Purpose of Ballot:**
+## Purpose of Ballot
 
 Section 1(h) of the Network and Certification Systems Security Requirements provides that CAs shall:
 
@@ -37,7 +37,7 @@ In its current wording, Section 1(h) leaves open who should decide on the scope 
 
 The following motion has been proposed by Neil Dunbar of Google Trust Services and endorsed by Tobias Josefowitz of OPERA and Dustin Hollenback of Microsoft.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Network and Certificate System Security Requirements” based on Version 1.2. Section 1(h) is replaced with the following:
 
@@ -65,9 +65,9 @@ package repositories and other sources of system-level updates
 
 operating system logging service or its equivalent
 
-**— MOTION ENDS —**
+## Motion ends
 
-**\* WARNING** \*: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\*\* WARNING\*\* \*: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/16a5a9b…neildunbar:8ec37e8?diff=split][1]
 

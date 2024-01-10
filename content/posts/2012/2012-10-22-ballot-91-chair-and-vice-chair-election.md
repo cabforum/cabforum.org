@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-10-22-ballot-91-chair-and-vice-chair-election/
+- /2012/10/22/ballot-91-chair-and-vice-chair-election/
 author: Ben Wilson
 date: 2012-10-22 18:18:25
 tags:
@@ -16,11 +16,11 @@ Motion
 
 Kirk Hall made the following motion, and Gerv Markham, Ryan Hurst, and Eddy Nigg endorsed it:
 
-Motion begins
+## Motion begins
 
 RESOLVED: That Ben Wilson be elected Chair of the CA/Browser Forum for a two-year term, and that Dean Coclin be elected as Vice Chair of the CA/Browser Forum for a two-year term (to serve as Chair in Ben Wilson’s absence).
 
-Motion ends
+## Motion ends
 
 The ballot review period comes into effect immediately and will close at 2100 UTC on 13 Oct 2012. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 22 October 2012.
 

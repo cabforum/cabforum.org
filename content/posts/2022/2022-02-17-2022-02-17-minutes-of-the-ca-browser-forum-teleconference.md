@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2022-02-17-2022-02-17-minutes-of-the-ca-browser-forum-teleconference/
+- /2022/02/17/2022-02-17-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2022-02-17 19:42:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2022-02-17 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Adam Jones (Microsoft), Adrian Mueller (SwissSign), Amanda Mendieta (Apple), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (Digicert), Daryn Wright (GoDaddy), Dean Coclin (Digicert), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Fumi Yoneda (Japan Registry Services), Inaba Atsushi (GlobalSign), Jamie Mackey (US Federal PKI Management Authority), Joanna Fox (TrustCor Systems), Jos Purvis (Cisco Systems), Kati Davids (GoDaddy), Marcelo Silva (Visa), Martijn Katerbarg (Sectigo), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Renne Rodriguez (Apple), Ryan Dickson (Google), Trevoli Ponds-White (Amazon), Tyler Myers (GoDaddy), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## Minutes 
+## Minutes
 
 - Roll Call (Dean Coclin, DigiCert)
 

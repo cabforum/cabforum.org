@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-08-16-2022-08-16-minutes-of-the-network-security-working-group/
+- /2022/08/16/2022-08-16-minutes-of-the-network-security-working-group/
 author: Clint Wilson
 date: 2022-08-16 12:00:00
 tags:

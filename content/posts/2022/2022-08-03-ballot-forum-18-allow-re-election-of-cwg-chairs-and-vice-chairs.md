@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-08-03-ballot-forum-18-allow-re-election-of-cwg-chairs-and-vice-chairs/
+- /2022/08/03/ballot-forum-18-allow-re-election-of-cwg-chairs-and-vice-chairs/
 author: Ben Wilson
 date: 2022-08-03 16:04:00
 tags:
@@ -27,7 +27,7 @@ Therefore the ballot has **PASSED**.
 
 Since this ballot does not involve IPR, there will be no IPR review.
 
-———————————————————————————————————–
+-----------------------------------–
 
 Ballot FORUM-18, Allow Re-election of CWG Chairs and Vice Chairs
 
@@ -51,11 +51,11 @@ This is important because the pool of qualified and willing candidates is not pa
 
 This ballot retains the existing prohibition on re-election for Forum Chairs and Vice Chairs.
 
-— MOTION BEGINS —
+## Motion begins
 
 The Bylaws of the CA/Browser Forum are amended as described in the following redline:
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 

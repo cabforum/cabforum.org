@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-02-28-cabrowser-forum-announces-organizational-reform-working-group/
+- /2012/02/28/cabrowser-forum-announces-organizational-reform-working-group/
 author: Ben Wilson
 date: 2012-02-28 00:00:00
 tags:

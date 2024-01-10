@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-12-04-ballot-21-phone-number-at-place-of-business/
+- /2008/12/04/ballot-21-phone-number-at-place-of-business/
 author: Ben Wilson
 date: 2008-12-04 18:52:58
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Ken Bretschneider made the following motion, and Nick Hales and Bruce Morton endorsed it.
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended in accordance with the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Delete Section 16b and replace it with the following.
 
@@ -44,17 +36,9 @@ Delete Section 16b and replace it with the following.
 
 (C) Rely on a Verified Legal Opinion or a Verified Accountant Letter to the effect that Applicant’s telephone number, as provided, is a main phone number for Applicant’s Place of Business.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 1700 EDT on (Thursday) 20 Nov 2008, and will close at 1700 EDT on (Thursday) 27 Nov 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EDT on (Thursday) 4 Dec 2008.
 

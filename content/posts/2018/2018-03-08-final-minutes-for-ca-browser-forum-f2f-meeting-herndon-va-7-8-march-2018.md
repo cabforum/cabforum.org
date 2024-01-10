@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2018-03-08-final-minutes-for-ca-browser-forum-f2f-meeting-herndon-va-7-8-march-2018/
+- /2018/03/08/final-minutes-for-ca-browser-forum-f2f-meeting-herndon-va-7-8-march-2018/
 author: Jos Purvis
 date: 2018-03-08 19:43:30
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 43 Meeting in Herndon, Virginia, 7-8 March 2018
 type: post
 ---
@@ -45,7 +45,7 @@ Info directly published by CCADB to:
 -
 -
 
-Can be updated as part of Audit Case in CCADB. If needs to be updated out of the annual cycle, then send email to  .
+Can be updated as part of Audit Case in CCADB. If needs to be updated out of the annual cycle, then send email to .
 
 **2.2 Audit Cases [3] and audit archiving:**
 
@@ -68,7 +68,7 @@ Kathleen is redesigning Root Inclusion Case objects, and will announce when it i
 **2.4 CP/CPS updates**
 
 - Part of the Audit Case.
-- If a CA needs to update separately, then send email to  .
+- If a CA needs to update separately, then send email to .
 - On our to-do list: Make it so CAs can directly update certain information in their Owner and Root records, such as CP/CPS links, CA Problem Reporting Mechanism, CAA Identifiers.
 
 **2.5 Updates to Account Hierarchy section in CA Owner, root, and intermediate cert pages**
@@ -105,7 +105,7 @@ We decided to send out a special survey in January to raise awareness of the vul
 
 Thank you to all CAs who completed assessments by the original deadline of January 31st. Extensions until April 15th have been granted to some CAs. We would like to make a review and update of this an annual requirement that each CA submits along with -or perhaps prior to – their annual audit statements.
 
-Google Doc of BR Self Assessment Status:  If your CA’s BR Self Assessment status in this document is incorrect, please send email to Kathleen.
+Google Doc of BR Self Assessment Status: If your CA’s BR Self Assessment status in this document is incorrect, please send email to Kathleen.
 
 **8 Audit Reporting Requirements**
 
@@ -121,7 +121,7 @@ Section 5.3.1 and 5.3.2 of the latest Mozilla policy requires CAs to publicly di
 
 **10 Symantec Certificates and Firefox**
 
-We are planning to release the second phase of the Symantec distrust plan — remove trust in all Symantec certs issued prior to June 1, 2016 — [10] [11] in Firefox 60, due to be released in May [12]. With the exception of certain whitelisted subordinates, certificates that chain to Symantec roots and that were issued prior to June 1, 2016 will generate an error. Our implementation has been updated to whitelist certain subordinate CAs based on their public key. We have also added the preference “security.pki.distrust_ca_policy” to FIrefox. A large number of sites are currently impacted by this change, but we are optimistic that the situation will improve prior to the release of Firefox 60.
+We are planning to release the second phase of the Symantec distrust plan - remove trust in all Symantec certs issued prior to June 1, 2016 - \[10\] \[11\] in Firefox 60, due to be released in May [12]. With the exception of certain whitelisted subordinates, certificates that chain to Symantec roots and that were issued prior to June 1, 2016 will generate an error. Our implementation has been updated to whitelist certain subordinate CAs based on their public key. We have also added the preference “security.pki.distrust_ca_policy” to FIrefox. A large number of sites are currently impacted by this change, but we are optimistic that the situation will improve prior to the release of Firefox 60.
 
 In Firefox 63 due in October, we plan to remove the exception for certificates issued after June 1, 2016. but exceptions for the whitelisted intermediates will remain in place. We have not yet set a date for removing the whitelist or the Symantec roots.
 
@@ -133,18 +133,18 @@ Mozilla has no new information or plans to share at this time, but we are still 
 
 I am working on a number of updates to our root store program [13]. CAs are encouraged to participate in the discussion on mozilla.dev.security.policy. One area that I would especially like CAs input is requirements for transfers of subordinate CAs.
 
-**URLs related to the above**
+## URLs related to the above
 
-[1]  [2]  [3]  [4]  [5]  [6] [https://wiki.mozilla.org/CA/Root_Store_Policy_Archive][9]
+[1] [2] [3] [4] [5] [6] [https://wiki.mozilla.org/CA/Root_Store_Policy_Archive][9]
 
 #### Microsoft
 
-_**Note Taker: Tim
-**_
+_\*\*Note Taker: Tim
+\*\*_
 
-**Talking points from Mike**
+## Talking points from Mike
 
-- should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members. (old  will relay mails to msroot but eventually will be decommissioned)
+- should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members. (old will relay mails to msroot but eventually will be decommissioned)
 - We now have the capability to deploy root store changes on a monthly cadence. Root change request review may not move as quickly though depending on complexity, conformance to CABF baseline requirements and/or Microsoft root program requirements/contract
 - January release came out on 30 Jan. For more information, see: . Next release targeted for the end of March. Monthly change capability begins in April
 - Continuing to conduct end-to-end examination of each root in the root store for EKUs, use, contract compliance and other issues which may represent risk to Microsoft our users. Moving last remaining CAs on 2007 version contracts to updated 2015 version
@@ -212,9 +212,9 @@ _**Note Taker: Mike**_
 
 Upcoming distrust of Symantec plan details to be published soon. Apple plans to align distrust with the timeline published by Google and Mozilla. However, what will be distrusted may be different than those root stores which focus only on TLS
 
-**Certificate Transparency (CT) update:** Looking into CT log policy development but most likely the Apple CT policy will align with that of Google. Apple will also use the same list of trusted logs as Google. This list can be found at  +/master/net/data/ssl/certificate_transparency/log_list.json
+**Certificate Transparency (CT) update:** Looking into CT log policy development but most likely the Apple CT policy will align with that of Google. Apple will also use the same list of trusted logs as Google. This list can be found at +/master/net/data/ssl/certificate_transparency/log_list.json
 
-Should a log operator desire to include their log in Apple’s program requests should be sent to certificate-transparency-  and include the following:
+Should a log operator desire to include their log in Apple’s program requests should be sent to certificate-transparency- and include the following:
 
 - Two points of contact (email and phone number)
 - CT logging policy for accepting certificates
@@ -339,15 +339,15 @@ Some doubt remains, given the scope of work and availability of resources to com
 
 Some other work products involve EV improvement and IP validation, but at a lower priority.
 
-### [**WebTrust**][4]** Update**
+### [**WebTrust**][4]\*\* Update\*\*
 
 _**Note Taker: Kirk**_
 
-[**WebTrust**][4]** for CA Update**
+[**WebTrust**][4]\*\* for CA Update\*\*
 
 Presented by Jeff Ward, Don Sheehy, and Taryn Abate
 
-**Current Status of [WebTrust][4] audit criteria**
+## Current Status of [WebTrust][4] audit criteria
 
 [WebTrust][4] Baseline + NS vs 2.3 Released effective February 1, 2018 Updated to conform with Baseline 1.5.4 and NS 1.1
 
@@ -517,7 +517,7 @@ _Ryan H:_ Recommend moving from WordPress to [GitHub][10]
 
 _Ryan:_ There is an upfront investment that will pay dividends over time
 
-**Next steps:**
+## Next steps
 
 - Remove duplicate information
 - Update useful pages
@@ -553,7 +553,7 @@ Phil states that he is reviewing another standard and would like consistency, se
 
 ### News from the Council of Accredited Conformity Assessment Bodies (ACAB-c) on Harmonized audit attestation
 
-**Presented by Philipp Bouchet from ACABc Member LSTI France and Mattias Wiedenhorst ACABc Member TÜVIT**
+## Presented by Philipp Bouchet from ACABc Member LSTI France and Mattias Wiedenhorst ACABc Member TÜVIT
 
 _**Note Taker: Arno**_
 

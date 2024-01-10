@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2021-09-09-2021-09-09-minutes-of-the-code-signing-certificate-working-group/
+- /2021/09/09/2021-09-09-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2021-09-09 16:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2021-09-09 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Atsushi Inaba, Ben Wilson, Bruce Morton, Corey Bonnell, Dean Coclin, Dimitris Zacharopoulos, Iñigo Barreira, Janet Hines, Joanna Fox, Roberto Quiñones, Sebastian Schulz, Tim Hollebeek, Tomas Gustavsson
 
-## Minutes 
+## Minutes
 
 Dean read the anti-trust statement.
 

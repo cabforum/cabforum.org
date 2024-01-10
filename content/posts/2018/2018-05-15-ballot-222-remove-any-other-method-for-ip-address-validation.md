@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-05-15-ballot-222-remove-any-other-method-for-ip-address-validation/
+- /2018/05/15/ballot-222-remove-any-other-method-for-ip-address-validation/
 author: Ben Wilson
 date: 2018-05-15 02:40:00
 tags:

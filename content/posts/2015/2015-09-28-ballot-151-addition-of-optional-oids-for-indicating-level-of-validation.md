@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-09-28-ballot-151-addition-of-optional-oids-for-indicating-level-of-validation/
+- /2015/09/28/ballot-151-addition-of-optional-oids-for-indicating-level-of-validation/
 author: Ben Wilson
 date: 2015-09-28 16:12:29
 tags:
@@ -10,15 +10,15 @@ title: Ballot 151 – Addition of Optional OIDs for Indicating Level of Validati
 type: post
 ---
 
-**Ballot 151 – Addition of Optional OIDs for Indicating Level of Validation**
+## Ballot 151 – Addition of Optional OIDs for Indicating Level of Validation
 
 Ballot 151, OID revisions, closed on September 28th 2015. The Chair received 22 votes from CAs in which 19 were in favor, 0 against and 3 abstentions and 3 votes from Browsers in which 2 were in favor, 0 against and 1 abstention. Therefore the ballot passes.
 
 The following motion has been proposed by Dean Coclin of Symantec and endorsed by Jeremy Rowley of Digicert and Kirk Hall of Trend Micro.
 
-– MOTION BEGINS –
+## Motion begins
 
-1)     Modify section 1.2 of Baseline Requirements as follows:
+1. Modify section 1.2 of Baseline Requirements as follows:
 
 **1.2 Document Name and Identification**
 
@@ -32,9 +32,7 @@ The following Certificate Policy identifiers are reserved for use by CAs as an o
 
 {joint‐iso‐itu‐t(2) international‐organizations(23) ca‐browser‐forum(140) certificate‐policies(1) baseline‐ requirements(2) individual-validated(3)} (2.23.140.1.2.3).
 
-2)     Modify section 7.1.6.1 of the Baseline Requirements as follows:
-
-****
+2. Modify section 7.1.6.1 of the Baseline Requirements as follows:
 
 **7.1.6.1. Reserved Certificate Policy Identifiers**
 
@@ -52,11 +50,11 @@ If the Certificate asserts the policy identifier of 2.23.140.1.2.1, then it MUST
 
 If the Certificate asserts the policy identifier of 2.23.140.1.2.2, then it MUST also include organizationName, localityName (to the extent such field is required under Section 7.1.4.2.2), stateOrProvinceName (to the extent such field is required under Section 7.1.4.2.2), and countryName in the Subject field. If the Certificate asserts the policy identifier of 2.23.140.1.2.3, then it MUST also include (i) either organizationName or givenName and surname, (ii) localityName (to the extent such field is required under Section 7.1.4.2.2), (iii) stateOrProvinceName (to the extent required under Section 7.1.4.2.2), and (iv) countryName in the Subject field.
 
-3)     Modify the definition of “EV OID” in the EV Guidelines as follows:
+3. Modify the definition of “EV OID” in the EV Guidelines as follows:
 
 **EV OID**: An identifying number, in the form of an “object identifier,” that is included in the certificatePolicies field of a certificate that: (i) indicates which CA policy statement relates to that certificate, and (ii) is either the CA/Browser Forum EV policy identifier or a policy identifier that, by pre-agreement with one or more Application Software Supplier, marks the certificate as being an EV Certificate.
 
-4)     Modify Section 9.3.2 of the EV Guidelines as follows:
+4. Modify Section 9.3.2 of the EV Guidelines as follows:
 
 Each EV Certificate issued by the CA to a Subscriber MUST contain a policy identifier that is either defined by these Guidelines or the CA in the certificate’s certificatePolicies extension that: (i) indicates which CA policy statement relates to that Certificate, (ii) asserts the CA’s adherence to and compliance with these Guidelines, and (iii), is either the CA/Browser Forum’s EV policy identifier or a policy identifier that, by pre-agreement with the Application Software Supplier, marks the Certificate as being an EV Certificate.
 
@@ -65,7 +63,7 @@ The following Certificate Policy identifier is the CA/Browser Forum’s EV polic
 
 If the ballot passes, the custodian of the Forum OIDs will be instructed to obtain the new OID for IV as indicated above.
 
-— MOTION ENDS –
+## Motion ends
 
 The review period for this ballot shall commence at 2200 UTC on Monday, September 14, 2015, and will close at 2200 UTC on Monday, September 21, 2015. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Monday, September 28, 2015. Votes must be cast by posting an on-list reply to this thread.
 

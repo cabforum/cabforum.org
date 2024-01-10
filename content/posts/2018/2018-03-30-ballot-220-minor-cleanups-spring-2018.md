@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-03-30-ballot-220-minor-cleanups-spring-2018/
+- /2018/03/30/ballot-220-minor-cleanups-spring-2018/
 author: Jos Purvis
 date: 2018-03-30 14:09:07
 tags:
@@ -10,11 +10,11 @@ title: Ballot 220 – Minor Cleanups (Spring 2018)
 type: post
 ---
 
-**Results on Ballot 220 – Minor Cleanups (Spring 2018)**
+## Results on Ballot 220 – Minor Cleanups (Spring 2018)
 
 The voting period for Ballot 220 has ended, and the ballot has passed. Here are the results.
 
-**Voting by CAs – 24 votes total including abstentions**
+## Voting by CAs – 24 votes total including abstentions
 
 **24 Yes votes:** Actalis, Amazon, Buypass, CFCA, Chunghwa Telecom, Cisco, Comodo CA, D-TRUST, DigiCert, Disig, Entrust Datacard, GDCA, GlobalSign, HARICA, Kamu Sertifikasyon Merkezi, OATI, QuoVadis, SHECA, SSL.com, SSC, SwissSign, TrustCor, Trustwave, TurkTrust
 
@@ -24,7 +24,7 @@ The voting period for Ballot 220 has ended, and the ballot has passed. Here are 
 
 **100% of voting CAs voted in favor**
 
-**Voting by browsers – 5 votes total including abstentions**
+## Voting by browsers – 5 votes total including abstentions
 
 **5 Yes votes:** Apple, Comodo Security Solutions, Google, Microsoft, Mozilla
 
@@ -40,17 +40,15 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**The ballot passes.**
+## The ballot passes.
 
-______________________________________________________________________
-
-**Ballot 220: Minor Cleanups (Spring 2018)**
+## Ballot 220: Minor Cleanups (Spring 2018)
 
 Purpose of Ballot: This ballot corrects two incorrect cross-references and one terminology error.
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Stephen Davidson of Quovadis and Adriano Santoni of Actalis.
 
-— MOTION BEGINS –
+- MOTION BEGINS –
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based upon Version 1.5.6:
 
@@ -58,17 +56,17 @@ In the definition of Qualified Auditor and in section 8.4, change the references
 
 In section 3.2.2.4.6, change the non-existing term “Request Value” to the defined term “Random Value”.
 
-— MOTION ENDS –
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 
-**Discussion (7+ days)**
+## Discussion (7+ days)
 
 **Start Time:** 2018-03-14 9:45:00 EDT
 
 **End Time:** after 2018-03-23 6:45:00 EDT
 
-**Vote for approval (7 days)**
+## Vote for approval (7 days)
 
 **Start Time:** 2018-03-23 6:45:00 EDT
 

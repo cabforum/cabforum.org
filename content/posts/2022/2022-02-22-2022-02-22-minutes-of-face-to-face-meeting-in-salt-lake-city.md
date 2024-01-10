@@ -1,37 +1,37 @@
 ---
 aliases:
-- /2022-02-22-2022-02-22-minutes-of-face-to-face-meeting-in-salt-lake-city/
+- /2022/02/22/2022-02-22-minutes-of-face-to-face-meeting-in-salt-lake-city/
 author: Ben Wilson
 date: 2022-02-22 22:05:00
 tags:
-- Minutes
 - Forum
+- Minutes
 - Face-to-Face
 title: Minutes of the F2F 55 Meeting in Salt Lake City, Utah, 22-24 February 2022
 type: post
 ---
 
-## Tuesday, 22 February 2022 – CA/B Forum Meeting (Day 1) 
+## Tuesday, 22 February 2022 – CA/B Forum Meeting (Day 1)
 
 The antitrust statement was read.
 
-#### Attendees 
+#### Attendees
 
 Adam Jones (Microsoft), An Yin (iTrusChina), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Aneta Wojtczak-Iwanicka (Microsoft), Antti Backman (Telia Company), Arno Fiedler (D-TRUST), Ben Wilson (Mozilla), Brenda Bernal (Digicert), Brianca Martin (Amazon), Brittany Randall (GoDaddy), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clemens Wanko (ACAB Council), Clint Wilson (Apple), Corey Bonnell (Digicert), Curt Spann (Apple), Daniel Jeffery (Fastly), Daryn Wright (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Fumi Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Hubert Chao (Google), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jamie Mackey (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Jeremy Rowley (Digicert), Joanna Fox (TrustCor Systems), Joe DeBlasio (Google), Jos Purvis (Cisco Systems), Jozef Nigut (Disig), Karina Sirota (Microsoft), Kathleen Wilson (Mozilla), Kati Davids (GoDaddy), Katsuyoshi Osaki (Japan Registry Services), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Michael Guenther (SwissSign), Michael Sykes (SSL.com), Michelle Coon (OATI), Mike Kushner (PrimeKey), Mike Lettona (Digicert), Nick France (Sectigo), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Pekka Lahtiharju (Telia Company), Peter Miskovic (Disig), Prachi Jain (Fastly), Rachel McPherson (TrustCor Systems), Rae Ann Gonzales (GoDaddy), Raffaela Achermann (SwissSign), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Rich Smith (Digicert), Rob Stradling (Sectigo), Roman Fischer (SwissSign), Ryan Dickson (Google), Sissel Hoel (Buypass AS), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Tyler Myers (GoDaddy), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Xiu Lei (GDCA), Yoshihiko Matsuo (Japan Registry Services), Yoshiro Yoneya (Japan Registry Services), Arnold Essing (Deutsche Telekom Security), Robin Alden, Dr Peter Thomassen (SSE Secure Systems)
 
-### Minutes – Approval of Minutes 
+### Minutes – Approval of Minutes
 
 Minutes of the 17 February meeting were reviewed and approved.
 
-### Future face to face meeting schedule 
+### Future face to face meeting schedule
 
 Poland meeting is on for June, Berlin meeting is on for October. More details to follow. Looking for 2023 meeting hosts. Checking on potential for hosts that had to cancel in 2020-2021 to host in 2023. OATI, Globalsign, Cisco are candidates.
 
-### Mozilla Root Program Update 
+### Mozilla Root Program Update
 
 **Leader:** Ben Wilson (Mozilla)
 **Minutes:** Ryan Dickson (Google Chrome)
-**Presentation:**
+**Presentation:** [/uploads/CABForum-February2022-Mozilla-Update.pdf](/uploads/CABForum-February2022-Mozilla-Update.pdf)
 
 - Today’s update will focus on a review of planned changes that will take effect in Mozilla Root Store Policy (MRSP) v. 2.8 (May 1, 2022)
 - Reminders:
@@ -71,11 +71,11 @@ Poland meeting is on for June, Berlin meeting is on for October. More details to
 - Discussion:
 - One question from GDCA regarding recent changes made by CPA Canada regarding WebTrust audits in mainland China. Ben indicated that Mozilla, along with other browser and operating system vendors, recognizes the severity and importance of the issue, and are working with CPA Canada to determine next steps.
 
-### Google Root Program Update 
+### Google Root Program Update
 
 **Leader:** Ryan Dickson (Google Chrome)
 **Minutes:** Ben Wilson (Mozilla)
-**Presentation:**
+**Presentation:** [/uploads/Chrome-Browser-Update-Feb-2022.pdf](/uploads/Chrome-Browser-Update-Feb-2022.pdf)
 
 Google is working on the Chrome Root Program with another launch planned for later this summer. The Program is going through iterations and growth, before then and after, too. With regard to Governance Aspects, Google is updating the root program policy and currently clarifying the policy details. With regard to Technical Aspects, Google is working in the CCADB to streamline processes. Incident management processes are being developed. Also working on optimization, which is a long term goal.
 
@@ -85,7 +85,7 @@ The transitional store was updated last week. (It’s the basis of the Chrome ro
 
 Long-term priorities are listed on the slide. Some of these priorities are included in the updated policy to be published in a few months. Many of these items are not new, and CAs should be aware of them. Included in these priorities are: reducing misissuance, increasing accountability, and preparing for a post-quantum world.
 
-**Long term priorities**
+## Long term priorities
 
 - Encourage modern infrastructure and agility
 - Replace legacy roots and pki
@@ -106,12 +106,12 @@ See slide on Combined Feature Set – launch roadmap.
 
 Certificate Transparency – Chrome 100 – new policy on number of logs and SCT requirements and aligning with Apple’s policies. General Updates – In Chrome 98, TLS 1.0 and 1.1 are blocked with non-bypassable errors
 
-### Apple Root Program Update 
+### Apple Root Program Update
 
 **Leader:** Clint Wilson (Apple)
 **Minutes:** Jos Purvis
 
-#### Updated Root Program Policy 
+#### Updated Root Program Policy
 
 - Some CAs did not receive updates due to Spam filtering
 - Minor clarifications and text alignments about expectations
@@ -122,17 +122,17 @@ Certificate Transparency – Chrome 100 – new policy on number of logs and SCT
 - Take effect 1 Oct 2022
 - Full CRL disclosure
 
-#### Add’l Cert Configuration Data 
+#### Add’l Cert Configuration Data
 
 - Documentation
 - Would like feedback about documentation improvement – how can they make this easier and clearer?
 - Article linked about new hyperlink service
 
-#### Questions 
+#### Questions
 
 _No questions_
 
-### Microsoft Root Program Update 
+### Microsoft Root Program Update
 
 **Leader:** Karina Sirota (Microsoft)
 **Minutes:** Tim Hollebeek (DigiCert)
@@ -145,16 +145,16 @@ See also the presentation slides for more details.
 
 No questions.
 
-### Guest Speaker 
+### Guest Speaker
 
 **Presenter:** Dr. Peter Thomassen, SSE / deSEC
 **Presentation:** [PSL Access as a Service](/uploads/2022-02-22_ca_b_forum_psl_access_as_a_service.pdf)
 
-### CCADB Update 
+### CCADB Update
 
 **Leader:** Kathleen Wilson (Mozilla)
 **Minutes:** Corey Bonnell
-**Presentation:**
+**Presentation:** [/uploads/2022-February-CCADB-News-for-CABF-F2F.pdf](/uploads/2022-February-CCADB-News-for-CABF-F2F.pdf)
 
 CCADB Policy Updates
 
@@ -184,7 +184,7 @@ Kathleen reminded the group of the CCADB API that can be used to automate interm
 
 There were no additional questions.
 
-### ETSI Update 
+### ETSI Update
 
 **Leader:** Arno Fiedler (Vice Chair ETSI ESI)
 **Minutes:** Clemens Wanko
@@ -197,38 +197,38 @@ ETSI standards adopt other standards that have been internationally supported wh
 
 – Monitoring UNCITRAL “Draft Provisions on the Use and Cross-border Recognition of Identity Management and Trust Services” finalized in Mid 2022 (?)
 
-Update on TS 119 403-2 V1.2.4 (2020-11): Part 2: Additional requirements for Conformity Assessment Bodies auditing Trust Service Providers that issue Publicly-Trusted Certificates” (as in CA/Browser Forum) New work item on AAL updates () will start soon.
+Update on TS 119 403-2 V1.2.4 (2020-11): Part 2: Additional requirements for Conformity Assessment Bodies auditing Trust Service Providers that issue Publicly-Trusted Certificates” (as in CA/Browser Forum) New work item on AAL updates (<https://www.ccadb.org/policy#51-audit-statement-content>) will start soon.
 
-### ACAB’c Update 
+### ACAB’c Update
 
 **Leader:** Clemens Wanko (TÜV AUSTRIA)
 **Minutes:** Arno Fiedler
 
-**Council Membership**
+## Council Membership
 
 Clemens reported a rising number of membership requests since Mozilla announced their Policy Update making the membership in the ACAB council mandatory for ETSI auditors. ACABc currently has two more EU CAB in membership application process.
 
-**Quality Management at the ACAB council**
+## Quality Management at the ACAB council
 
 The process and decision taking for peer reviews of ETSI Audit Attestations is under discussion within the council. Decision taking to be expected at next ACABc members meeting in March ‘22.
 
-**Common certification program for ACAB’c member CAB**
+## Common certification program for ACAB’c member CAB
 
 In order to further harmonize ETSI auditing amongst ACAB council members, key elements for a common audit scheme and certification program were discussed. Implementation suggestions are expected at next ACABc members meeting.
 
-**“ETSI auditors session with the Browsers”**
+## “ETSI auditors session with the Browsers”
 
 As in the past, ETSI/ACAB’c suggested a common meeting with the browsers to be scheduled for next f2f in Poland (56.) & Germany (57.)
 
-**New eIDAS Features (reminder):**
+## New eIDAS Features (reminder)
 
 European Digital Identity Wallets will have to be provided by every EU member state. New the following Qualified Trust Services are expected to be defined within eIDAS 2: services for remote signing/sealing, attestation of attributes (to support the wallet), archiving and ledgers.
 
-**Refreshed (unofficial) schedule for eIDAS 2 release:**
+## Refreshed (unofficial) schedule for eIDAS 2 release
 
 The next update of the drafted eIDAS 2 is expected by end of March 2022. The so called toolbox (practical implementation guidance and samples) is expected to be ready by end of the year 2022. The eIDAS 2.0 release is currently foreseen for mid 2023 with getting into force with different grace periods depending on the specific eID and trust service.
 
-**Important and to be kept in mind for CA and TSP under eIDAS:**
+## Important and to be kept in mind for CA and TSP under eIDAS
 
 Additional new rules are expected to become mandatory for CA/TSP under eIDAS 2.0:
 
@@ -244,26 +244,26 @@ Additional new rules are expected to become mandatory for CA/TSP under eIDAS 2.0
 
 For further information or in order to register, please contact us at: [www.acab-c.com](http://www.acab-c.com)
 
-### WebTrust Update 
+### WebTrust Update
 
 **Speakers**: Jeff Ward and Don Sheehy
 **Minute Taker**: Tim Callan
 
-#### “WETSI” – WebTrust/ETSI in cooperation 
+#### “WETSI” – WebTrust/ETSI in cooperation
 
 - No specific discussions since December virtual meeting
 - Continuing issues to be discussed on reporting and auditing
 - Will include audits with outsourcing, subservice arrangements
 - Trying to stay ahead of technology advances to keep requirements current
 
-#### Impact of COVID-19 
+#### Impact of COVID-19
 
 2020 – Issued – Practitioner guidance for auditors on COVID-19
 
 - Discussed areas that might impact auditors and CAs
 - Potential for scope limitations in certain areas caused by inability to physically be onsite
 - Provides examples of tools and approaches as best practices
-- On CPA Canada’s web site () [www.webtrust.org](http://www.webtrust.org) will redirect you
+- On CPA Canada’s web site (<https://www.cpacanada.ca/en/business-and-accounting-resources/audit-and-assurance/overview-of-webtrust-services>) [www.webtrust.org](http://www.webtrust.org) will redirect you
 
 2021 Early 2022 – Still relevant no change to practitioner guidance
 
@@ -293,7 +293,7 @@ For further information or in order to register, please contact us at: [www.acab
 
 2021- Early 2022 same process as 2020 for awarding COVID- 19 Temporary WebTrust Seal
 
-#### Updates to Criteria 
+#### Updates to Criteria
 
 WebTrust Principles and Criteria for Certification Authorities – Verified Mark Certificates
 
@@ -328,7 +328,7 @@ WebTrust Extended Validation SSL 1.7.8
 - Principle 2, Criteria 4.7 – Deleted as no longer contained in EV. Still required in Baseline Requirements (4.1.1)
 - Will be available on CPA Canada website once compliant with AODA
 
-#### Current Status of Updated WebTrust Documents 
+#### Current Status of Updated WebTrust Documents
 
 - WebTrust for CA 2.2.2
 - WebTrust Baseline + NS vs 2.6
@@ -337,7 +337,7 @@ WebTrust Extended Validation SSL 1.7.8
 - WebTrust for Extended Validation Code Signing vs 1.4.1 – deleted effective November 1 2020
 - WebTrust for RA 1.01
 
-#### Updates to Reporting Guidance 
+#### Updates to Reporting Guidance
 
 Updated Reporting Templates vs 2.0
 
@@ -355,7 +355,7 @@ Updated Reporting Templates vs 2.0
 - If you need any of these in advance, reach out to Don or Jeff and they will get you a current draft
 - We don’t expect significant changes to any of them
 
-#### New Projects and Changes 
+#### New Projects and Changes
 
 Provision of additional information requested by Mozilla
 
@@ -377,7 +377,7 @@ Outsourcing Issues – Carveout
 - Will also reach out to other audit schemes
 - Includes ETSI
 
-#### Practitioner guidance for auditors 
+#### Practitioner guidance for auditors
 
 - Version combines US, Canada and International
 - Provides examples of tools and approaches as best practices
@@ -387,7 +387,7 @@ Outsourcing Issues – Carveout
 - New US reporting material on direct engagements being addressed
 - Additional potential discussion on outsourcing, specific browser requirements being considered
 
-#### Detailed Controls Reporting 
+#### Detailed Controls Reporting
 
 - No real changes since last update
 - Field tested with some minor changes to system description
@@ -405,18 +405,18 @@ Component report template has been developed – A period of time report has bee
 - Section 4- Detailed testing performed and results thereof
 - Section 5 – Unaudited Information, such as Management comments
 
-#### WebTrust Reports Available – Full Lifecycle 
+#### WebTrust Reports Available – Full Lifecycle
 
 - Rootkey Generation Ceremony Report (Birth Certificate)
 - Key Protection (Provides assurance that once a key is created and up to the point it is moved into production, it was properly safeguarded)
 - Point In Time (As of date for testing the design and implementation of controls)
 - Period of Time (Same as Point in Time, but also tests transactions over a period between 2-12 months to ensure controls are operating effectively)
 - Key Transportation, Migration & Destruction
-- Engagement applicability matrix updated January 2022 – will be published on CPA Canada website
+- Engagement applicability matrix updated January 2022 – will be published on CPA Canada website <https://www.cpacanada.ca/en/business-and-accounting-resources/audit-and-assurance/overview-of-webtrust-services/principles-and-criteria>
 - This is a roadmap to all the engagements
 - Jeff or Don can provide a draft early if needed
 
-#### CPA Canada – changes 
+#### CPA Canada – changes
 
 CPA Canada
 
@@ -459,18 +459,18 @@ Jeff: There is a sense of urgency to accommodate all CAs. Those that are affecte
 
 People are thinking about COVID going away, but CPA Canada has built the new audit requirements for “the next bad thing.” Could be an act of war, another pandemic, etc.
 
-### SCWG Review and Plans 
+### SCWG Review and Plans
 
 **Leader:** Jos Purvis (Cisco)
 **Minutes:** Kati Davids (GoDaddy)
 
-#### 2021 work 
+#### 2021 work
 
 - Completed migration to Github for documents
 - Currently transferring NetSec responsibilities to the working group. Almost complete, but not quite.
 - Working on simplifying and clarifying BR language. Trying to make things easier to interpret.
 
-#### Looking to 2022 
+#### Looking to 2022
 
 2 categories of work:
 
@@ -486,7 +486,7 @@ People are thinking about COVID going away, but CPA Canada has built the new aud
 - How do we incorporate the output of the Netsec WG? Working on this. Do we automatically import, do we import by version number?
 - Continuing work on integrating github processes into single source of truth & publication, example using it to publish ballots on the website. We want as much info in github as Single source of truth as possible. It can be hard to track changes if you aren’t following the git repository. We want to make it easier to share and consume the updates as easily as possible.
 
-### CSCWG Review and Plans 
+### CSCWG Review and Plans
 
 **Leader:** Bruce Morton (Entrust)
 **Minutes:** Bruce Morton (Entrust)
@@ -509,7 +509,7 @@ People are thinking about COVID going away, but CPA Canada has built the new aud
 - Validation for Open Source Project Applicants
 - Time-stamping Updates (as applicable to code signing signatures)
 
-### SMCWG Review and Plans 
+### SMCWG Review and Plans
 
 **Leader:** Stephen Davidson (DigiCert)
 **Minutes:** Renee Rodriguez (Apple)
@@ -520,7 +520,7 @@ As an introduction, Stephen highlighted some aspects that make the S/MIME workin
 
 While the group charter is similar to other working groups, there are three net new topics: 1. Certificate Profiles 2. Verification of control over email addresses 3. Identity validation for people
 
-#### 2021 Accomplishments 
+#### 2021 Accomplishments
 
 1. **There is a draft of the standard** available at [github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md).
 
@@ -545,7 +545,7 @@ While the group charter is similar to other working groups, there are three net 
 - Organization Identity vetting – Focus on reusing existing work previously done
 - Mailbox control – New method proposed including use of MX records (Google proposal).
 
-#### 2022 Targets 
+#### 2022 Targets
 
 These are topics for discussion:
 
@@ -575,7 +575,7 @@ There are also some administrative aspects to consider:
 - Address comments
 - Align standard availability with audit community and consumers (clients)
 
-#### Recommendations Based on Experience 
+#### Recommendations Based on Experience
 
 1. Having a guide (perhaps, style guide) would be helpful for new writers. The draft used text from other documents and there is an inconsistent use of terminology based on the author (e.g., SHALL/MUST)
 
@@ -587,7 +587,7 @@ There are also some administrative aspects to consider:
 
 3. Moving EV Guidelines (EVG) to RFC3647 would help the drafting of this document for correct allocation of text taken from EVG
 
-### NetSec WG Review and Plans 
+### NetSec WG Review and Plans
 
 **Leader:** Clint Wilson (Apple)
 **Minutes:** Daniel Jeffery (Fastly)
@@ -602,7 +602,7 @@ There are also some administrative aspects to consider:
 - Restarting Risk Assessment work
 - Major effort within the group right now
 
-#### 2022 plans 
+#### 2022 plans
 
 - Focus and simplify the NSRs
 - Explore incorporating external standards where CABF is not best suited to be maintaining the standards
@@ -621,12 +621,12 @@ There are also some administrative aspects to consider:
 - Open for questions
 - No questions
 
-### Infrastructure Subcommittee Review and Plans 
+### Infrastructure Subcommittee Review and Plans
 
 **Leader:** Jos Purvis (Cisco)
 **Minutes:** Dustin Hollenback (Microsoft)
 
-#### 2021 Review 
+#### 2021 Review
 
 Membership spreadsheet updated and re-tooled
 
@@ -641,7 +641,7 @@ Ballot tables updated on the website
 
 - Ben Wilson (Mozilla) has done work to provide historical details of ballots
 
-#### 2022 Priorities 
+#### 2022 Priorities
 
 Automation is a big part of the work
 
@@ -666,20 +666,20 @@ Explore wiki alternatives or additions
 - Media management
 - Markup differences. Not everyone is familiar with Markdown and there may be a better way.
 
-## Wednesday, 23 February 2022 – CA/B Forum Meeting (Day 2) 
+## Wednesday, 23 February 2022 – CA/B Forum Meeting (Day 2)
 
 The antitrust statement was read.
 
 Attendees: Dimitris Zacharopoulos, Martijn Katerbarg, Arnold Essing (guest), Yoshiro Yoneya, Don Sheehy, Dean Coclin, Tyler Myers, Joanna Fox, Fumihiko Yoneda, Roman Fischer, Kathleen Wilson, Joseph Nigut, Eva Van Steenberge, Matthias Wiedenhorst, Atushi Inaba, Prachi Jain, Rich Smith, Raffaela Achermann, Mads Henriksveen, Pedro Fuentes, Inigo Barreira, Michael Sykes, Aaron Gable, Adam Jones, Adrian Mueller, Andrea Holland, Andreas Henschel, Aneta Wojtcsak, Arno Fiedler, Ben Wilson, Brittany Randall, Bruce Morton, Paul van Brouwershaven, Michelle Coon, Jeff Ward, Curt Spann, Peter Miskovic, Hubert Chao, Corey Bonnell, Pekka Lahtiharju, Tsung-Min Kuo, Tobias Josefowitz, Clint Wilson, Kati Davids, Trevoli Ponds-White, Nikos Soumelidis (guest), Doug Beattie, Clemens Wanko, Georgy Sebastian, Rob Stradling, Jos Purvis, Nick France, Tim Crawford, Jeremy Rowley, Chris Kemmerer, Tadahiko Ito, Niko Carpenter, Thomas Zermeno, Daniel Jeffery, Janet Hines, Daryn Wright, Li-Chun Chen, Dustin Hollenback, Ian McMillan, Wendy Brown, Yoshihiko Matsuo, Rae Ann Gonzales, Enrico Entschew, Karina Sirota, Marcelo Silva, Heather Warncke, Rebecca Kelley, Rachel McPherson, Yamian Quintero, Jamie Mackey, Leo Grove, Ryan Dickson, Sissel Hoel, Stephen Davidson, Tim Callan, Tim Hollebeek, Wayne Thayer, Peter Thomassen (guest)
 
-### Code of Conduct 
+### Code of Conduct
 
 **Speaker**: Jos Purvis
 **Minute Taker**: Tim Callan
 
 Jos: Over the past couple weeks I have been made aware of behavior from organizations that are over the line or pushing the line. If you see anything that does not meet the code of conduct, please let me know. The code of conduct says we should have the ability for reasonable people to disagree. It’s easy when we’re using electronic communication to miss that someone didn’t mean something the way they wrote it. I remind you to assume the best intentions, and also that you should reread what you wrote and see if it can be interpreted in a worse way than you intended. Be friendly. Be gentle. Not everyone has the same background as you do. It’s hard if they’re not privy to all the history you have. We tend to assume that a lot of this is more black and white than it is, and it isn’t. Please think about what you’re writing and reading and assume the best intentions.
 
-### CommScope membership application 
+### CommScope membership application
 
 **Speaker**: Jos Purvis
 **Minute Taker**: Tim Callan
@@ -690,12 +690,12 @@ Ben Wilson: Somebody could apply and their application could be too void of deta
 
 Joss: Admission as an associate member is not automatic. Still needs to be approved. We should probably stress that. They will stay as an interested party until root program applications come in.
 
-### Revocation Reason Codes and Revocation for Key Compromise 
+### Revocation Reason Codes and Revocation for Key Compromise
 
 **Speakers**: Kathleen Wilson and Ben Wilson
 **Minute Taker**: Wayne Thayer
 
-**Draft Policy**:
+**Draft Policy**: [/uploads/Policy-CRLRevocationReasonCodes-TLS-Server-Certs.pdf](/uploads/Policy-CRLRevocationReasonCodes-TLS-Server-Certs.pdf)
 
 Kathleen shared the Draft Policy about CRLRevocation Reason Codes for TLS End-Entity Certificates
 
@@ -803,7 +803,7 @@ Curt said that Apple is also looking at this. Is the goal to hard fail on all of
 
 Aaron said that he likes the fact that this proposal makes it clear that cessationOfOperation is clearly the code to use when someone other than the Subscriber proves domain control.
 
-### Validation Subcommittee Progress Report 
+### Validation Subcommittee Progress Report
 
 The antitrust statement was read.
 
@@ -876,9 +876,9 @@ Ben: This is already happening today
 
 Wendy: As long as Root programs allow multiple purposes under their program, this is allowed today.
 
-## Thursday, 24 February 2022 – CA/B Forum Meeting (Day 3) 
+## Thursday, 24 February 2022 – CA/B Forum Meeting (Day 3)
 
-### S/MIME Certificate Working Group Meeting 
+### S/MIME Certificate Working Group Meeting
 
 **Speaker**: Stephen Davidson (Digicert) **Minute Taker**: Eva
 
@@ -886,9 +886,9 @@ Member attendees: Adrian Mueller, Andreas Henschel, Andrea Holland, Aneta Wojtcz
 
 Dean read the antitrust statement.
 
-Additional materials are at
+Additional materials are at [/uploads/smcwg_20220222_f2f.pdf](/uploads/smcwg_20220222_f2f.pdf)
 
-Draft S/MIME BR are at
+Draft S/MIME BR are at <https://github.com/cabforum/smime/blob/preSBR/SBR.md>
 
 3 main topics:
 
@@ -1252,7 +1252,7 @@ The draft is available today, and if you’re able to review it, and notice thin
 
 Regular working group next week, let’s stick to it, intent to return to the individual identity topic. Send a direct link to the list today, to where that list is. Take a look at it, and gather questions and comments. In the areas that are still wide open, this is the biggest one. Org Identity and Org Identifier are smaller. The standard is now on a flypath for completion.
 
-### Code Signing Working Group 
+### Code Signing Working Group
 
 **Speaker**: Bruce Morton
 **Minute Taker**: Corey Bonnell

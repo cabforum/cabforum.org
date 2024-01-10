@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-04-23-ballot-45-verification-of-authority/
+- /2010/04/23/ballot-45-verification-of-authority/
 author: Ben Wilson
 date: 2010-04-23 20:34:17
 tags:
@@ -52,35 +52,19 @@ Acceptable methods of verification of the Signing Authority of the Contract Sign
 
 The current mechanisms work well for larger Applicants where the Contract Signer and Certificate Approve are not company officers or executives. However, in the case of a small Applicant, the Signer and/or Approver are often Senior executives listed in a QIIS or QGIS. These Applicants are often forced to get a legal opinion or to have a lower ranking executive confirm that the owner of the business has the authority to sing the contract and approve the certificate.
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective immediately
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Add the following option to section 10.7.3:
 
 (7) QIIS or QGIS: The Signing Authority of the Contract Signer, and/or the EV Authority of the Certificate Approver, MAY be verified by a QIIS or QGIS that identifies the Contract Signer and/or the Certificate Approver as a corporate officer, sole proprietor, or other senior official of the Applicant.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 9 Apr ’10 and will close at 2100 UTC on 16 Apr ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 23 Apr ’10.
 

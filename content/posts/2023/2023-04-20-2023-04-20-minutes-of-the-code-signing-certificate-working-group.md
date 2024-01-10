@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-04-20-2023-04-20-minutes-of-the-code-signing-certificate-working-group/
+- /2023/04/20/2023-04-20-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-04-20 17:00:12
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2023-04-20 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
@@ -20,7 +20,7 @@ Bruce Morton – (Entrust), Corey Bonnell – (DigiCert), Dean Coclin – (DigiC
 
 **Approval of Minutes:** April 6th minutes are approved. January 26th minutes are pending. Bruce will take over writing these minutes.
 
-## Ballot Status:
+## Ballot Status
 
 - CSC-18 – In discussion period. A few additional items were mentioned which are being added:
 - Request from Application Software Suppliers to not revoke a certificate when requested by them

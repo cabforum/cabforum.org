@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-05-25-2022-05-25-minutes-of-smime-certificate-working-group/
+- /2022/05/25/2022-05-25-minutes-of-smime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-05-25 21:27:00
 tags:
@@ -10,31 +10,31 @@ title: 2022-05-25 Minutes of SMIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 May 25, 2022
 
 These are the approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Christophe Bonjean (GlobalSign), Clint Wilson (Apple), Corey Bonnell (Digicert), Daniel Zens (GlobalTrust), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jamie Mackey (US Federal PKI Management Authority), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Mauricio Fernandez (TeleTrust), Morad Abou Naser (TeleTrust), Mrugesh Chandarana (IdenTrust), Patrycja Tulinska (PSW), Pekka Lahtiharju (Telia Company), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (US Federal PKI Management Authority), Tim Crawford (CPA Canada/WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the May 11 teleconference were approved.
 
-### 5. Discussion 
+### 5. Discussion
 
 Stephen Davidson noted that draft the S/MIME Baseline Requirements is available at . This call is open for comments that members may have on the draft. Edits are being checked in with noncontroversial updates and corrections based upon feedback.
 
@@ -54,11 +54,11 @@ Stephen indicated the ballot will include a 7 day discussion period, and a 7 day
 
 Stephen noted that the latest “document” format of the SBR is always available in the “Actions” tab of the cabforum/smime repository on GitHub, choosing the topmost workflow run, then scrolling down to the “Artifacts” download which included both Word and PDF documents of the draft.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Monday June 6, 2022 at the CA/Browser Forum Face-to-Face, see wiki.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-07-25-ballot-15-certificate-renewal/
+- /2008/07/25/ballot-15-certificate-renewal/
 author: Ben Wilson
 date: 2008-07-25 18:31:23
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Nick Hales has made the following motion, and Bruce Morton and Tony Berman have endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended by the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Replace this paragraph from Section 8 (b)
 
@@ -118,17 +110,9 @@ Add the following Definition to the Definition section:
 
 EV Certificate Renewal. The process whereby an Applicant who has a valid unexpired and non-revoked EV certificate makes application, to the CA that issued the original certificate, for a newly issued EV certificate for the same organizational and domain name prior to the expiration of the applicant’s existing EV Certificate.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 1700 EDT on (Friday) 11 July 2008, and will close at 1700EDT on (Friday) 18 July 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EDT on (Friday) 25 July 2008.
 

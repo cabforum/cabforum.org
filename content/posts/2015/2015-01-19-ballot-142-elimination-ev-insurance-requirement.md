@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-01-19-ballot-142-elimination-ev-insurance-requirement/
+- /2015/01/19/ballot-142-elimination-ev-insurance-requirement/
 author: Ben Wilson
 date: 2015-01-19 19:58:34
 tags:
@@ -10,7 +10,7 @@ title: Ballot 142 – Elimination of EV Insurance Requirement
 type: post
 ---
 
-**Elimination of EV Insurance Requirement**
+## Elimination of EV Insurance Requirement
 
 Voting on Ballot 142 closed on 19 January 2015.
 
@@ -24,11 +24,11 @@ Therefore, Ballot 142 fails.
 
 The following motion has been proposed by Gervase Markham of Mozilla and endorsed by Ryan Sleevi of Google and Moudrick Dadashov of SSC.
 
-— MOTION BEGINS —
+## Motion begins
 
 1. EV Guideline Section 8.4 is deleted.
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 2200 UTC on Monday, 5 January 2015, and will close at 2200 UTC on Wednesday, 12 January 2015. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Wednesday, 19 January 2015. Votes must be cast by posting an on-list reply to this thread.
 

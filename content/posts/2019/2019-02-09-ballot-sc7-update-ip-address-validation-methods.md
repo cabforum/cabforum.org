@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-02-09-ballot-sc7-update-ip-address-validation-methods/
+- /2019/02/09/ballot-sc7-update-ip-address-validation-methods/
 author: Wayne Thayer
 date: 2019-02-09 00:02:24
 tags:
@@ -44,7 +44,7 @@ The intention is that, moving forward, IP validation methods will be handled in 
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Doug Beattie of GlobalSign and Tim Hollebeek of DigiCert.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.2:
 
@@ -58,7 +58,7 @@ _Add the following definitions to section 1.6.1:_
 
 **IP Address Contact:** The person(s) or entity(ies) registered with an IP Address Registration Authority as having the right to control how one or more IP Addresses are used.
 
-**IP Address Registration Authority:** The  Internet Assigned Numbers Authority (IANA) or a Regional Internet Registry (RIPE, APNIC, ARIN, AfriNIC, LACNIC).
+**IP Address Registration Authority:** The Internet Assigned Numbers Authority (IANA) or a Regional Internet Registry (RIPE, APNIC, ARIN, AfriNIC, LACNIC).
 
 _Replace Baseline Requirements section 3.2.2.5, in its entirety, with the following text:_
 
@@ -82,7 +82,7 @@ If a Random Value is used, the CA SHALL provide a Random Value unique to the cer
 
 **3.2.2.5.2. Email, Fax, SMS, or Postal Mail to IP Address Contact**
 
-Confirming the Applicant’s control over the IP Address  by sending a Random Value via email, fax, SMS, or postal mail and then receiving a confirming response utilizing the Random Value. The Random Value MUST be sent to an email address, fax/SMS number, or postal mail address identified as an IP Address Contact.
+Confirming the Applicant’s control over the IP Address by sending a Random Value via email, fax, SMS, or postal mail and then receiving a confirming response utilizing the Random Value. The Random Value MUST be sent to an email address, fax/SMS number, or postal mail address identified as an IP Address Contact.
 
 Each email, fax, SMS, or postal mail MAY confirm control of multiple IP Addresses.
 
@@ -116,15 +116,15 @@ The Random Value SHALL remain valid for use in a confirming response for no more
 
 **3.2.2.5.6 ACME “http-01” method for IP Addresses**
 
-Confirming the Applicant’s control over the IP Address by performing the procedure documented for an “http-01” challenge in draft 04 of “ACME IP Identifier Validation Extension,” available at .
+Confirming the Applicant’s control over the IP Address by performing the procedure documented for an “http-01” challenge in draft 04 of “ACME IP Identifier Validation Extension,” available at <https://tools.ietf.org/html/draft-ietf-acme-ip-04#section-4>.
 
 **3.2.2.5.7 ACME “tls-alpn-01” method for IP Addresses**
 
-Confirming the Applicant’s control over the IP Address by performing the procedure documented for a “tls-alpn-01” challenge in draft 04 of “ACME IP Identifier Validation Extension,” available at .
+Confirming the Applicant’s control over the IP Address by performing the procedure documented for a “tls-alpn-01” challenge in draft 04 of “ACME IP Identifier Validation Extension,” available at <https://tools.ietf.org/html/draft-ietf-acme-ip-04#section-4>.
 
-**— MOTION ENDS —**
+## Motion ends
 
-\*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at:[https://github.com/wthayer/documents/compare/wthayer:master…Ballot-SC7](https://github.com/dougbeattie/documents/compare/master...dougbeattie:SC14---Phone-validation-updates)
 

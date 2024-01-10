@@ -1,42 +1,50 @@
 ---
 aliases:
-- /2019-09-05-2019-08-22-minutes-of-the-ca-browser-forum-teleconference/
+- /2019/09/05/2019-08-22-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2019-09-05 16:49:10
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2019-08-22 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Arno Fiedler (D-TRUST), Ben Wilson (Digicert), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Gordon Bock (Microsoft), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Kenneth Myers (US Federal PKI Management Authority), Li-Chun Chen (Chunghwa Telecom), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tim Shirley (SecureTrust), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla).
 
 ## Minutes
 
+{.wp-block-heading}
+
 ### 1. Roll Call
+
+{.wp-block-heading}
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
+{.wp-block-heading}
+
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
+{.wp-block-heading}
+
 No changes to the agenda.
 
-### 4. Approval of minutes from previous teleconference 
+### 4. Approval of minutes from previous teleconference
 
 The minutes from the previous teleconference were approved and will be circulated to the public list.
 
-### 5. Forum Infrastructure Working Group update 
+### 5. Forum Infrastructure Working Group update
 
 No update.
 
-### 6. Code Signing Working Group update 
+### 6. Code Signing Working Group update
 
 Dean mentioned that the Final Guideline will be posted on the public web site and will ask the CA Security Council to update its link. The WG discussed about creating a separate timestamping document and whether the CSCWG should be re-chartered to include a timestamping certificates, associated with the id-kp-timeStamping EKU, in scope. Dean will discuss with Bruce to figure out what the plans are.
 
@@ -52,11 +60,11 @@ Gordon asked if the solution to time stamping was the formation of a new Working
 
 Ryan also asked whether the WG adopted a document that provides guidance for time stamping that is outside the charter. Dean responded that the WG just adopted a document that already existed. He would take this discussion back to the WG to revisit.
 
-### 7. Follow-up on new S/MIME WG Charter 
+### 7. Follow-up on new S/MIME WG Charter
 
 No update.
 
-### 8. Any Other Business 
+### 8. Any Other Business
 
 Mike asked if Members would be interested to explore about updating the name “CA/Browser Forum” for the larger Forum especially since we have already added Code Signing Working Group, will add S/MIME and even Time Stamping Working Group.
 
@@ -75,6 +83,8 @@ Dimitris agreed to that approach but also mentioned that the Google document wit
 Dean reminded Members that plan to attend F2F 48 and 49 to signup and update the participant tables on the wiki so that the hosts can plan ahead.
 
 ### 9. Next call
+
+{.wp-block-heading}
 
 September 5, 2019 at 11:00 am Eastern Time.
 

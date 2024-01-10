@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-06-30-ballot-sc47v2-sunset-subjectorganizationalunitname/
+- /2021/06/30/ballot-sc47v2-sunset-subjectorganizationalunitname/
 author: Wayne Thayer
 date: 2021-06-30 04:11:34
 tags:
@@ -12,36 +12,36 @@ type: post
 
 The voting on ballot SC47v2 has completed, and the ballot has **passed**.
 
-## Voting Results 
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 **26 votes total, with no abstentions**
 
-·        25 Yes votes: Amazon, Buypass, Certum (Asseco), Chunghwa Telecom, D-TRUST, DigiCert, Disig, eMudhra, Entrust, Firmaprofesional, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, JPRS, Kamu SM, Let’s Encrypt / ISRG, OISTE, Sectigo, Telia Company, TrustCor, SecureTrust, Visa
+· 25 Yes votes: Amazon, Buypass, Certum (Asseco), Chunghwa Telecom, D-TRUST, DigiCert, Disig, eMudhra, Entrust, Firmaprofesional, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, JPRS, Kamu SM, Let’s Encrypt / ISRG, OISTE, Sectigo, Telia Company, TrustCor, SecureTrust, Visa
 
-·        1 No Vote: OATI
+· 1 No Vote: OATI
 
-·         0 Abstentions
+· 0 Abstentions
 
-**Certificate Consumers**
+## Certificate Consumers
 
 **6 votes total, with no abstentions**
 
-·       6 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla, 360
+· 6 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla, 360
 
-·       0 No votes
+· 0 No votes
 
-·       0 Abstentions
+· 0 Abstentions
 
-**Bylaw Requirements**
+## Bylaw Requirements
 
 1. Bylaw 2.3(f) requires:
 
-o     A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
+o A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
 _This requirement was MET for Certificate Issuers and MET for Certificate Consumers_.
 
-o    at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
+o at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
 _This requirement was MET_.
 
 2. Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 13, so the quorum was 14 for this ballot.
@@ -49,13 +49,13 @@ _This requirement was MET_.
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Purpose of Ballot: 
+## Purpose of Ballot:
 
-This Ballot sets a sunset date for the `subject:organizationalUnitName` as several earlier attempts to strengthen the validation failed to gain consensus.
+This Ballot sets a sunset date for the \`subject:organizationalUnitName\` as several earlier attempts to strengthen the validation failed to gain consensus.
 
 The following motion has been proposed by Paul van Brouwershaven of Entrust and endorsed by Ben Wilson of Mozilla and Chema Lopez of Firmaprofesional.
 
-It can be viewed on GitHub as
+It can be viewed on GitHub as <https://github.com/cabforum/servercert/pull/282>
 
 ===== MOTION BEGINS =====
 

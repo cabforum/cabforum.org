@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2009-10-01-ballot-34-adopt-ev-guidelines-draft-03-as-version-1-2/
+- /2009/10/01/ballot-34-adopt-ev-guidelines-draft-03-as-version-1-2/
 author: Ben Wilson
 date: 2009-10-01 20:03:33
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Nick Hales made the following motion, and Bjorn Vermo and Ben Wilson endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Forum should adopt, with immediate effect, the document entitled “Guidelines For The Issuance And Management Of Extended Validation Certificates, Version 1.2, Draft 03” as Version 1.2 of the EV Guidelines. The document was circulated for review on 20 Aug 2009. The editor may update the document and release further versions to reflect the consensus of the members as it emerges from discussions during the review period.
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 3 Sep 09 and will close at 2100 UTC on 24 Sep 2009. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 1 Oct 2009.
 

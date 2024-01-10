@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-01-10-ballot-35-role-requirements/
+- /2010/01/10/ballot-35-role-requirements/
 author: Ben Wilson
 date: 2010-01-10 20:14:40
 tags:
@@ -16,16 +16,11 @@ Motion
 
 Tim Moses made the following motion, and Mads Henriksveen and Jay Schiavo endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The role requirements laid out in Section 9.1.2 are incorrect.
 
-Effective immediately, delete:-
-
+Effective immediately, delete:
 “9.1.2 Role Requirements
 
 The following Applicant roles are required for the issuance of an EV Certificate.
@@ -34,8 +29,7 @@ The following Applicant roles are required for the issuance of an EV Certificate
 
 One person MAY be authorized by the Applicant to fill one, two, or all three of these roles, provided that the Certificate Approver and Contract Signer are employees of the Applicant. An Applicant MAY also authorize more than one person to fill each of these roles.”
 
-And insert:-
-
+And insert:
 “9.1.2 Role Requirements
 
 The following Applicant roles are required for the issuance of an EV Certificate.
@@ -44,11 +38,7 @@ The following Applicant roles are required for the issuance of an EV Certificate
 
 The Applicant MAY authorize one individual to occupy two or more of these roles. The Applicant MAY authorize more than one individual to occupy any of these roles.’
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 11 Jan ’10 and will close at 2100 UTC on 18 Jan ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 25 Jan ’10.
 

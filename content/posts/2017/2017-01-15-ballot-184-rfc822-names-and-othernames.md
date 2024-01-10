@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-01-15-ballot-184-rfc822-names-and-othernames/
+- /2017/01/15/ballot-184-rfc822-names-and-othernames/
 author: Ben Wilson
 date: 2017-01-15 02:17:00
 tags:

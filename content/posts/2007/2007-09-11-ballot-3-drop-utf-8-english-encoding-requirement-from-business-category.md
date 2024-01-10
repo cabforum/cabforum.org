@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2007-09-11-ballot-3-drop-utf-8-english-encoding-requirement-from-business-category/
+- /2007/09/11/ballot-3-drop-utf-8-english-encoding-requirement-from-business-category/
 author: Ben Wilson
 date: 2007-09-11 17:52:25
 tags:

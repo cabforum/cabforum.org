@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-10-12-ballot-53-contract-signer-self-asserted-authority/
+- /2010/10/12/ballot-53-contract-signer-self-asserted-authority/
 author: Ben Wilson
 date: 2010-10-12 20:55:29
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Jay Schiavo made the following motion, and Ben Wilson and Bruce Morton endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 EFFECTIVE IMMEDIATELY,
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 A. In Section 10.7.1 (2), delete:
 
@@ -60,11 +52,7 @@ Appendix K – Sample Contract Signer’s Representation/Warranty. A CA may rely
 
 \[CA\] and Applicant are entering into a legally valid and enforceable Subscriber Agreement that creates extensive obligations on Applicant. An EV Certificate serves as a form of digital identity for Applicant. The loss or misuse of this identity can result in great harm to the Applicant. By signing this Subscriber Agreement, the contract signer acknowledges that they have the authority to obtain the digital equivalent of a company stamp, seal, or (where applicable) officer’s signature to establish the authenticity of the company’s website, and that \[Applicant name\] is responsible for all uses of its EV Certificate. By signing this Agreement on behalf of \[Applicant name\], the contract signer represents that the contract signer (i) is acting as an authorized representative of \[Applicant name\], (ii) is expressly authorized by \[Applicant name\] to sign Subscriber Agreements and approve EV Certificate requests on Applicant’s behalf, and (iii) has confirmed Applicant’s exclusive right to use the domain(s) to be included in EV Certificates.”
 
-______________________________________________________________________
-
-Erratum ends
-
-______________________________________________________________________
+### Erratum ends
 
 The ballot review period comes into effect at 2100 UTC on 28 Sep ’10 and will close at 2100 UTC on 5 Oct ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 12 Oct ’10.
 
@@ -74,6 +62,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

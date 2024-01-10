@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-10-19-ballot-209-ev-liability/
+- /2017/10/19/ballot-209-ev-liability/
 author: Ben Wilson
 date: 2017-10-19 02:29:00
 tags:

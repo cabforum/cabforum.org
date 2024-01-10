@@ -1,29 +1,29 @@
 ---
 aliases:
-- /2023-10-26-2023-10-26-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/10/26/2023-10-26-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-10-26 16:50:19
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-10-26 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
 These are the Final Minutes of the Teleconference described in the subject of this message, prepared by Michelle Coon (OATI).
 
-**Attendance
-**
+**Attendance**
 
-Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Andrea Holland – (VikingCloud), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Brittany Randall – (GoDaddy), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Eva Vansteenberge – (GlobalSign), Inaba Atsushi – (GlobalSign), Janet Hines – (VikingCloud), Kiran Tummala – (Microsoft), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies Inc), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wendy Brown – (US Federal PKI Management Authority), Yoshihiko Matsuo – (Japan Registry Services).**
-**
+Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Andrea Holland – (VikingCloud), Ben Wilson – (Mozilla), Brianca Martin – (Amazon), Brittany Randall – (GoDaddy), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Eva Vansteenberge – (GlobalSign), Inaba Atsushi – (GlobalSign), Janet Hines – (VikingCloud), Kiran Tummala – (Microsoft), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies Inc), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Trevoli Ponds-White – (Amazon), Wendy Brown – (US Federal PKI Management Authority), Yoshihiko Matsuo – (Japan Registry Services).\*\*
+\*\*
 
-**Minutes**
+## Minutes
 
-1. **Roll Call:** Dimitris conducted roll call**
-**
+1. **Roll Call:** Dimitris conducted roll call\*\*
 
-1. **Note-well:** Dimitris read the note-well.
+- -
+
+2. **Note-well:** Dimitris read the note-well.
 
 1. **Review of Agenda:** There were no changes to the agenda.
 
@@ -77,7 +77,7 @@ Ballot distributed to public list – discussion period ends Monday, 10/30/2023.
 
 **13. CSCWG charter update** – Martijn Katerbarg
 
-Draft in progress – added clarification around time-stamping certificates; removing old Bylaws version reference and fixing forum calculation which isn’t valid according to the charter. Pull request: . Looking for endorsers – HARICA will endorse.
+Draft in progress – added clarification around time-stamping certificates; removing old Bylaws version reference and fixing forum calculation which isn’t valid according to the charter. Pull request: <https://github.com/cabforum/forum/pull/40/files>. Looking for endorsers – HARICA will endorse.
 
 14. **Separation of Forum and SCWG bi-weekly Teleconference**
 

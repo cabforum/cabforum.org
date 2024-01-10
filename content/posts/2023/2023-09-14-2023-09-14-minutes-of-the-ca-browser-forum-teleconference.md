@@ -1,24 +1,23 @@
 ---
 aliases:
-- /2023-09-14-2023-09-14-minutes-of-the-ca-browser-forum-teleconference/
+- /2023/09/14/2023-09-14-minutes-of-the-ca-browser-forum-teleconference/
 author: Ben Wilson
 date: 2023-09-14 01:02:31
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2023-09-14 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
 Minutes prepared by Janet Hines – VikingCloud.
 
-**Attendance
-**
+**Attendance**
 
-Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), Andrea Holland – (VikingCloud), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Enrico Entschew – (D-TRUST), Fumi Yoneda – (Japan Registry Services), Hannah Sokol – (Microsoft), Inaba Atsushi – (GlobalSign), Jos Purvis – (Fastly), Keshava Nagaraju – (eMudhra), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Mrugesh Chandarana – (IdenTrust), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Ryan Dickson – (Google), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Wayne Thayer – (Fastly), Yoshihiko Matsuo – (Japan Registry Services).**
-**
+Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microsoft), Adrian Mueller – (SwissSign), Andrea Holland – (VikingCloud), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Chris Clements – (Google), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Corey Rasmussen – (OATI), Daryn Wright – (GoDaddy), Dimitris Zacharopoulos – (HARICA), Doug Beattie – (GlobalSign), Dustin Hollenback – (Microsoft), Enrico Entschew – (D-TRUST), Fumi Yoneda – (Japan Registry Services), Hannah Sokol – (Microsoft), Inaba Atsushi – (GlobalSign), Jos Purvis – (Fastly), Keshava Nagaraju – (eMudhra), Lynn Jeun – (Visa), Mads Henriksveen – (Buypass AS), Marcelo Silva – (Visa), Martijn Katerbarg – (Sectigo), Michelle Coon – (OATI), Mrugesh Chandarana – (IdenTrust), Nargis Mannan – (VikingCloud), Nate Smith – (GoDaddy), Nicol So – (CommScope), Paul van Brouwershaven – (Entrust), Pedro Fuentes – (OISTE Foundation), Peter Miskovic – (Disig), Rebecca Kelley – (Apple), Rollin Yu – (TrustAsia Technologies, Inc.), Ryan Dickson – (Google), Scott Rea – (eMudhra), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Thomas Zermeno – (SSL.com), Tobias Josefowitz – (Opera Software AS), Wayne Thayer – (Fastly), Yoshihiko Matsuo – (Japan Registry Services).\*\*
+\*\*
 
-**Minutes**
+## Minutes
 
 1. **Note-well:** Dimitris read the note-well. There were no changes to the agenda..
 1. **Approval of minutes**:

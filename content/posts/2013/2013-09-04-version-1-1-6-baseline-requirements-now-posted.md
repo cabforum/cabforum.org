@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-09-04-version-1-1-6-baseline-requirements-now-posted/
+- /2013/09/04/version-1-1-6-baseline-requirements-now-posted/
 author: Ben Wilson
 date: 2013-09-04 17:37:19
 title: Version 1.1.6 Baseline Requirements Now Posted

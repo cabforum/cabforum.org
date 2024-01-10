@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-09-29-2023-09-14-minutes-of-the-server-certificate-working-group/
+- /2023/09/29/2023-09-14-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2023-09-29 07:54:19
 tags:
@@ -44,7 +44,7 @@ Email threads open
 
 F2F Topics
 
-– Subscriber verses Applicant, should that be discussed at the SCWG level?  May be best to start with a proposal before the F2F.
+– Subscriber verses Applicant, should that be discussed at the SCWG level? May be best to start with a proposal before the F2F.
 
 – GitHub item progress to either move towards a proposal or closure.
 
@@ -58,7 +58,7 @@ SCXX – SLO/Response for CRL & OCSP Responses: on hold
 
 SCXX – Fall clean-up ballot
 
-SCXX – Modify Subscriber and Terms of Use:  Working on a draft for this one and there is already one update to it. Should we include the subscriber verses applicant discussion or keep it separate?
+SCXX – Modify Subscriber and Terms of Use: Working on a draft for this one and there is already one update to it. Should we include the subscriber verses applicant discussion or keep it separate?
 
 SCXX – Profiles clean-up ballot
 

@@ -1,27 +1,27 @@
 ---
 aliases:
-- /2022-10-06-2022-10-06-minutes-of-the-code-signing-certificate-working-group/
+- /2022/10/06/2022-10-06-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2022-10-06 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2022-10-06 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Atsushi Inaba (GlobalSign), Bruce Morton (Entrust), Corey Bonnell (DigiCert), Dimitris Zacharopoulos (HARICA), Ian McMillan (Microsoft), Inigo Barreira (Sectigo), Martijn Katerbarg (Sectigo), Michael Sykes (SSL.com), Mohit Kumar (GlobalSign)
 
-## Minutes 
+## Minutes
 
 1. Antitrust statement was read.
 1. Approval of prior meeting minutes: Minutes for 22 September 2022 were approved.
 1. Ballot Status:
-1. CSC 15: IPR review ended 18 September 2022, so is now complete.
-1. CSC 17: Passed and is not in IPR period until 27 October 2022.
-1. Special election ballot: Passed, so Dean Coclin will be Chair for another term.
+   1. CSC 15: IPR review ended 18 September 2022, so is now complete.
+   1. CSC 17: Passed and is not in IPR period until 27 October 2022.
+   1. Special election ballot: Passed, so Dean Coclin will be Chair for another term.
 1. Malware proposal (Martijn): Long discussion about the process and the number of days and the procedure when the CA receives notification about a certificate associated with signed malware. Martijn will update the proposal and forward for review.
 1. Signing Service discussion (Bruce/Corey): Signing Service update will be discussed at the F2F in Berlin.
 1. Timestamping Ballot (Ian): Ina would like to hold off discussion on time-stamping until after we have resolved the malware proposal and the Signing Service update.

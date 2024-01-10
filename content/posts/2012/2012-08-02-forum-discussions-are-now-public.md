@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-08-02-forum-discussions-are-now-public/
+- /2012/08/02/forum-discussions-are-now-public/
 author: Ben Wilson
 date: 2012-08-02 23:57:25
 title: Forum Discussions are Now Public

@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2021-10-01-2021-09-09-minutes-of-the-ca-browser-forum-teleconference/
+- /2021/10/01/2021-09-09-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2021-10-01 18:24:29
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2021-09-09 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Adrian Mueller (SwissSign), Ali Gholami (Telia), Amanda Mendieta (Apple), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Brittany Randall (GoDaddy), Chris Kemmerer (SSL.com), Chris McMillan (Visa), Clint Wilson (Apple), Corey Bonnell (Digicert), David Kluge (Google), Dean Coclin (Digicert), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Fumihiko Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (TrustCor Systems), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kati Davids (GoDaddy), Mads Henriksveen (Buypass AS), Mike Min (GoDaddy), Mike Reilly (Microsoft), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Rebecca Kelley (Apple), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Trevoli Ponds-White (Amazon), Vijayakumar (Vijay) Manjunatha (eMudhra), Yoshiro Yoneya (Japan Registry Services), Steven Deitte (GoDaddy)
 
-## Minutes 
+## Minutes
 
 1. Read Antitrust Statement
 1. Review Agenda

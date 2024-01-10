@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2015-10-07-2015-10-07-face-to-face-meeting-minutes-meeting-36-istanbul/
+- /2015/10/07/2015-10-07-face-to-face-meeting-minutes-meeting-36-istanbul/
 author: Ben Wilson
 date: 2015-10-07 16:58:46
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 36 Meeting in Istanbul, Turkey, 7-8 October 2015
 type: post
 ---
 
-# Day 1 – Wednesday, October 7 {#Day_1\_-\_Wednesday.2C_October_7}
+# Day 1 – Wednesday, October 7
 
-## Working Group Reports {#Working_Group_Reports}
+## Working Group Reports
 
-### Validation Working Group {#Validation_Working_Group}
+### Validation Working Group
 
 *Note Taker: Doug*
 
@@ -26,7 +26,7 @@ Business Entity other: Allow the issuance of EV certificates when government rec
 
 Updates to IV certificates: OV certificates can be issued to individuals in certain cases as defined in the BRs. When this happens today the person’s name must appear in the Organization field. There is work towards a ballot to allow CAs to optionally put first/given names and last/surnames in the name fields and leave the Organization field blank.
 
-### Policy Working Group {#Policy_Working_Group}
+### Policy Working Group
 
 *Note Taker: Tim*
 
@@ -52,13 +52,13 @@ Ben: it will be
 
 Process remains the same (Ballots propose changing X to Y in whatever form the proposer prefers; the text of the BRs is what is important regardless of what format it is in)
 
-### Code Signing Working Group {#Code_Signing_Working_Group}
+### Code Signing Working Group
 
 *Note Taker: Cecilia*
 
 We have finished reviewing the most recent comments from Sig. The final document will be posted to the public list and ready for a ballot. What we haven’t decided is the actual timeline for implementation. Some thoughts a while back was a year from ballot but maybe next Summer or Fall – need to discuss during the next WG call.
 
-### Information Sharing Working Group {#Information_Sharing_Working_Group}
+### Information Sharing Working Group
 
 *Note Taker: Dimitris*
 
@@ -71,7 +71,7 @@ Issues to resolve:
 - Who will run the information sharing repository/server/code?
 - Need to anonymize information with a low cost solution.
 
-## Guest Speaker Session: Andreas from eIDAs {#Guest_Speaker_Session:\_Andreas_from_eIDAs}
+## Guest Speaker Session: Andreas from eIDAs
 
 *Note Taker: Sigbjorn*
 
@@ -212,7 +212,7 @@ A: This is not imposed on anyone. What is the value of a US signature in Europe?
 
 Arno: 15th of December there will be a CA day meeting in Berlin, all members are invited.
 
-## Short-Lived Certificates {#Short_Lived_Certificates}
+## Short-Lived Certificates
 
 *Note Taker: Bruce*
 
@@ -236,33 +236,33 @@ There was also concern about logging to CT? Can the logs scale? Ryan stated that
 
 Gerv and Ryan stated that they will endorse the ballot.
 
-## Certificate Validity Periods {#Certificate_Validity_Periods}
+## Certificate Validity Periods
 
 *Note Taker: Atilla*
 
 - Kirk: Maximum cert validity period is not examined for a long time. A matrix is created for this purpose. Browsers generally would like cert validity periods to be shorter. CAs like longer for customer management issue.
 
-* Jeremy: May be 27 months was a problem for EV.
+- Jeremy: May be 27 months was a problem for EV.
 
-* Kirk: Also we need to consider how long a validation data may be used. Today we can use 3 year old validation info.
+- Kirk: Also we need to consider how long a validation data may be used. Today we can use 3 year old validation info.
 
-* Kirk: If it’s a security consideration, we can shorten the validity periods.
+- Kirk: If it’s a security consideration, we can shorten the validity periods.
 
-* Gerv: Divergence of the validity periods of DV or OV is very unlikely – browsers don’t want OV > DV, and CAs don’t want DV > OV. For EV, the distinction may be discussed. Browsers will only support 2-2-2. If there is a consensus among CAs that EV being different is a big enough problem, 2-2-2 is your option. If not, we can stay with the current condition 3-3-2, but definitely not 3-3-3.
+- Gerv: Divergence of the validity periods of DV or OV is very unlikely – browsers don’t want OV > DV, and CAs don’t want DV > OV. For EV, the distinction may be discussed. Browsers will only support 2-2-2. If there is a consensus among CAs that EV being different is a big enough problem, 2-2-2 is your option. If not, we can stay with the current condition 3-3-2, but definitely not 3-3-3.
 
-* Jeremy: 2-2-2 is supported by Digicert as well.
+- Jeremy: 2-2-2 is supported by Digicert as well.
 
-* Gerv: A suggestion: out-of-date information in certs is inevitable. Anyway, if a client info has not been changed, whenever you need validation, you may just ask the client whether their info is changed or not, and revalidate if and only if there are changes in their info as stated by them. Otherwise, don’t do revalidation, just validate the domain and go. Worst thing is that info which used to be true but is now not, remains. Hardly seems like the basis for an attack.
+- Gerv: A suggestion: out-of-date information in certs is inevitable. Anyway, if a client info has not been changed, whenever you need validation, you may just ask the client whether their info is changed or not, and revalidate if and only if there are changes in their info as stated by them. Otherwise, don’t do revalidation, just validate the domain and go. Worst thing is that info which used to be true but is now not, remains. Hardly seems like the basis for an attack.
 
-* Ryan: Even the domain owner info may be outdated.
+- Ryan: Even the domain owner info may be outdated.
 
-* Jeremy: I don’t see any difficulty in revalidating via the QIIS when we need a new validation for renewal or so.
+- Jeremy: I don’t see any difficulty in revalidating via the QIIS when we need a new validation for renewal or so.
 
-* Bruce: Actually, revalidation is an expensive issue. Kirk agrees.
+- Bruce: Actually, revalidation is an expensive issue. Kirk agrees.
 
-* As a result, Kirk will not propose any change in cert validity periods.
+- As a result, Kirk will not propose any change in cert validity periods.
 
-## Ballot 152 Discussion {#Ballot_152_Discussion}
+## Ballot 152 Discussion
 
 *Note Taker: Robin*
 
@@ -387,9 +387,9 @@ Ryan: Mozilla (draft?) policy play for SHA-1 was 2014 initially in the first ver
 
 Ryan: If MS changes policy this would be changing the date. We have other policy requirements.
 
-## Browser News {#Browser_News}
+## Browser News
 
-### Google {#Google}
+### Google
 
 *Note Taker: Rick*
 
@@ -403,7 +403,7 @@ Google is continuing to experiment with inverting the state of the lock (moving 
 
 Today, users can click the lock and see connection info. That’s going away. Through user studies, Google learned that users are confused by these messages. They will be moved into the Developer Console instead. This may happen in Chrome 48. Once the info is in the developer-focused interface, Google will remove it from the user-focused interface. Google is also overhauling Chrome’s SSL error messages. Ryan doesn’t expect to do a blog post each time these change.
 
-On CT, Chrome will begin enforcing its log diversity requirements (see the May 2015 policy at ). The diversity requirement is that a certificate needs SCTs from at least one Google log, and from at least one non-Google log.
+On CT, Chrome will begin enforcing its log diversity requirements (see the May 2015 policy at <http://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjZXJ0aWZpY2F0ZXRyYW5zcGFyZW5jeXxneDoyZGU5Yjg1MmVjNzc5NjQz>). The diversity requirement is that a certificate needs SCTs from at least one Google log, and from at least one non-Google log.
 
 Google is continuing to develop its Security Panel in Chrome’s Developer Console.
 
@@ -415,7 +415,7 @@ Chrome now supports the collection of info related to HPKP. Ryan explained that 
 
 In Zurich, Ryan mentioned that Chrome was transitioning from NSS to Boring SSL. The ASN.1 parsing module in Boring SSL is more strict than that of NSS, and they’re finding issues with certificates issued by some CAs. He mentioned that Mozilla has published “CA problematic practices” for some time, including ASN.1 violations. Google is reaching out to CAs and auditors when issues are found. Ryan was asked if there was any documentation on how to check our certificates with BoringSSL, but Ryan said that there was no documentation. His guidance was that CAs should be compliant with specifications like RFC 5280s and the BRs. Boring SSL will become more strict over time. Ryan said that the issues they’ve found so far seem to be mostly around qualified client certs, not SSL certs.
 
-### Mozilla {#Mozilla}
+### Mozilla
 
 *Note Taker: Jeremy*
 
@@ -440,7 +440,7 @@ Nearing the end of 1024 bit root removal process: Other root changes include:
 - 1208461 – Remove UTN – DATACorp SGC root as per Comodo’s request
 -
 
-1193476 — Add WoSign roots
+1193476 - Add WoSign roots
 
 2. RC4 Support
 
@@ -480,7 +480,7 @@ The two big initial discussions we are having relate to the proposed removal of 
 
 On the matter of the Code Signing bit, we are particularly interested in hearing from anyone who is actually using that bit to make trust decisions, and in what context.
 
-### Opera {#Opera}
+### Opera
 
 *Note Taker: Ben*
 
@@ -494,15 +494,15 @@ Opera has been reviewing some telemetry data on Man-in-the-Middle interference w
 
 So in order to show users the warning, it wants to reduce the number of false positives. Some of the data represent anti-virus while other represent malware.
 
-# Day 2 – Thursday, October 8 {#Day_2\_-\_Thursday.2C_October_8}
+# Day 2 – Thursday, October 8
 
-## Browser News (cont. from Day 1) {#Browser_News\_.28cont.\_from_Day_1.29}
+## Browser News (cont. from Day 1)
 
-### Microsoft {#Microsoft}
+### Microsoft
 
 *Note Taker: Ryan*
 
-#### General Update {#General_Update}
+#### General Update
 
 - Two releases for root program (third Tuesday of November; third Tuesday of January)
 - 29 companies (~63 roots) subject to removal due to not executing the new contract, not having a current audit, or some intersection
@@ -519,27 +519,27 @@ So in order to show users the warning, it wants to reduce the number of false po
 - The initial goal is for Windows 10, but the changes and infrastructure should be viable to backport through to Windows 7
 -
 
-The SHA-1 plan is published, canonically, at \[ it will be updated as questions come in
+The SHA-1 plan is published, canonically, at \[<http://aka.ms/sha1%5D;> it will be updated as questions come in
 
-#### Root Program Requirements Update {#Root_Program_Requirements_Update}
+#### Root Program Requirements Update
 
-##### Audit Requirements {#Audit_Requirements}
+##### Audit Requirements
 
 - Attestation letters are required to be available in English, as translated/made available/signed off by the auditor (e.g. not the CA’s translation w/o any auditor feedback)
 - Auditors are now required to include a cover letter in addition to the attestation letter, to make it easier for Microsoft to evaluate program and audit compliance
 - Significantly reformatted the table regarding how the EKU trust bits (SSL, code signing, email) apply to particular audit requirements
 
-##### Program Requirements {#Program_Requirements}
+##### Program Requirements
 
 - Section 3 had terminology to rename ‘subroot’ to ‘subca’, aligning the language with the program contract
 - Section 4 clarified some of the expiration policies with respect to existing intermediates vs newly-issued intermediates
 -
 
-Item 14 in Section 4 (dealing with SHA-1 policies) will likely be replaced with simply a forward reference to \[\] rather than trying to rewrite the section
+Item 14 in Section 4 (dealing with SHA-1 policies) will likely be replaced with simply a forward reference to \[<http://aka.ms/sha1>\] rather than trying to rewrite the section
 
 - Currently, a minimum revocation period is set at 8 hours; feedback from some CAs indicated that they use a shorter minimum. In the next update (so not the November update), Microsoft anticipates removing this minimum validity period requirement, leaving just a maximum validity. CAs can determine their minimum validities based on the risk/compatability profiles they desire.
 
-##### Q & A {#Q\_.26_A}
+##### Q & A
 
 Q (Rick): If we want to remove a root, is the proper step to email \[ trustcert @ microsoft.com \]? A (Jody): Yes; that’s presently in the contract, can add it to the program requirements to clarify this.
 
@@ -547,7 +547,7 @@ Q (Doug): There was some discussion on the list regarding the policies of SHA-1 
 
 Q (Tim): One thing we’re seeing is challenging for customers is understanding how to use signtool to produce signatures that are both SHA-1 (for Vista/2008 systems) and SHA-256 (for newer systems). Could you add some guidance and tooling documentation on the Microsoft-sanctioned way to do this. A (Jody): Send me an email, and I’ll work to add that to the FAQ.
 
-## EV Wildcards {#EV_Wildcards}
+## EV Wildcards
 
 *Note Taker: Billy*
 
@@ -575,13 +575,13 @@ Ryan said none of DV, OV, EV address phishing. Users are not conditioned to look
 
 Dean: Big customers have asked Symantec for EV WC. FB has EVWC for .onion. That was allowed due to limits on .onion but shows good use case.
 
-## CT Update {#CT_Update}
+## CT Update
 
 *Note Taker: Rick*
 
-CT is still required for EV, no change. As of yesterday, enforcement of the log diversity requirements (one Google log, one non-Google log that changed in the May policy at ) has landed in Chrome for certificates issued after 1 July 2015. “Landed” means that it’s in the trunk of the code repository, and will take 12 weeks or so to get out to the stable release (which will probably mean Chrome 48).
+CT is still required for EV, no change. As of yesterday, enforcement of the log diversity requirements (one Google log, one non-Google log that changed in the May policy at <http://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjZXJ0aWZpY2F0ZXRyYW5zcGFyZW5jeXxneDoyZGU5Yjg1MmVjNzc5NjQz>) has landed in Chrome for certificates issued after 1 July 2015. “Landed” means that it’s in the trunk of the code repository, and will take 12 weeks or so to get out to the stable release (which will probably mean Chrome 48).
 
-Dean mentioned that he had read a good description of CT (at www.certificate-transparency.org). Ryan said that site documented the protocol and concepts, but not Google’s CT Policy. That’s kept at .
+Dean mentioned that he had read a good description of CT (at www.certificate-transparency.org). Ryan said that site documented the protocol and concepts, but not Google’s CT Policy. That’s kept at <https://sites.google.com/a/chromium.org/dev/Home/chromium-security/certificate-transparency>.
 
 Google is continuing to monitor CT logs, and not just for Google domains. They are also checking for BR and EVGL compliance, and things that other root programs might be interested in. Some of the monitoring and compliance tools are open sourced.
 
@@ -591,7 +591,7 @@ Dean asked if there were any new CT logs. Ryan said that WoSign is working on tw
 
 Ryan said that someone needs to be watching each log server, and clients need to know about it. Google is beginning to explore the impact of a large number of log servers (for example, if each CA stood up their own server). Will there be an upper cap on number of logs? Ryan said that there may be a limit of how many log servers would be known and trusted by Chrome (maybe 20). The way they choose may be to pick the ones that are most inclusive of policy or are operating more in the public interest (for example, open to all CAs’ roots). Those will be given preference. The more inclusive a log server is, the less likely there will be challenges. This is a long term discussion, and will probably only affect those starting to think about logs.
 
-Ryan said that he had sent out email to CAs on Google’s CT policy change regarding diversity of logs. Kirk asked for the URL to the policy document; it’s .
+Ryan said that he had sent out email to CAs on Google’s CT policy change regarding diversity of logs. Kirk asked for the URL to the policy document; it’s <http://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjZXJ0aWZpY2F0ZXRyYW5zcGFyZW5jeXxneDoyZGU5Yjg1MmVjNzc5NjQz>.
 
 Jeremy asked about Tom Ritter’s proposal to send Must-Staple and CT preferences in HTTP Headers, like HPKP and HSTS. The Must-Staple flag requires the CA to change, but Tom’s proposal wouldn’t require CA changes, only web server configuration changes. Ryan expects they’ll have more concrete proposals in Chromium, after working through usability and end user experience issues. It’s a technical discussion right now. Google won’t be standardizing anything in the near future. They want to provide a way for domain owners to say that they always expect to provide CT info, and a client should be cautious if such a site doesn’t provide it. Jeremy said if you’re worried about the user experience, can’t Chrome just report violations instead of warning users and changing browser UI? Ryan said that’s what they’re exploring.
 
@@ -611,11 +611,11 @@ Dean asked what other browsers are implementing CT? Ryan said that Apple (iOS9) 
 
 Dean asked Gerv about Firefox. Gerv said that Mozilla is adding code to request it, thanks to a code contribution from Google, but Mozilla hasn’t come up with a policy yet (for example, how many SCTs are needed for different certs). And he doesn’t know when they will. What’s added to Firefox is how to detect, parse and validate SCTs. Dean asked Siggy about Opera. Siggy said that they have no policy of their own, but have support for CT by virtue of building on Chromium. But he said that Opera will need to develop their own user interface for CT.
 
-## ETSI Presentations {#ETSI_Presentations}
+## ETSI Presentations
 
 *Note Taker: Ben*
 
-### Iñigo Barreira {#I.2BAPE-igo_Barreira}
+### Iñigo Barreira
 
 [ETSI TC ETSI STF 458 Oct 2015](/uploads/ETSI-TC-ETSI-STF-458-Oct-2015.pdf)
 
@@ -625,7 +625,7 @@ Currently ETSI audits are 3-year cycles with 1-year surveillance audits. Draft E
 
 EN 319 403 is in place, but European cooperation for Accreditation (EA) will create a procedure to accredit CABs. The NAB web site indicates accredited CABs. The ACAB Council will make a list of the 403-accredited CABs and a common template for ETSI audit reports. ETSI is not responsible for providing CAB or audit-report status. The TSL only is for qualified TSPs. Ryan said it would be nice to have something like a TSL for all CAs audited under ETSI standards. Moudrick asked why a TSP couldn’t request listing under a special attribute in the TSL. Iñigo and Arno said that is not allowed in Spain and Germany. Atilla asked whether a Turkish company could establish an administrative office in a member state and be supervised by that country’s Supervisory Body. It would depend on what the member state allowed, because they would be the regulator. There was a discussion about where the keys should be stored.
 
-### Matthias Wiedenhorst {#Matthias_Wiedenhorst}
+### Matthias Wiedenhorst
 
 [20151007_CAB-Forum_ETSI_Cert_V1.2][1]
 
@@ -666,11 +666,11 @@ A: No
 
 The TS standards have no expiration date which means that an organization could continue to be audited against the TS standard as long as their auditors are accredited for it (under the rules of the TS standard). This means that Browsers have no reason to dismiss the TS standards from their Root program requirements. They could add the EN standards as also compatible.
 
-## WebTrust Presentation by Gord Beal of CPA Canada {#WebTrust_Presentation_by_Gord_Beal_of_CPA_Canada}
+## WebTrust Presentation by Gord Beal of CPA Canada
 
 [Webtrust – CAB Forum – Oct 6-8 2015](/uploads/Webtrust-CAB-Forum-Oct-6-8-2015.pdf)
 
-## WebTrust Update {#WebTrust_Update}
+## WebTrust Update
 
 *Note Taker: Kirk*
 
@@ -678,7 +678,7 @@ Don Sheehy presented a WebTrust update. His full update is shown on the pdfs nam
 
 [Webtrust – CAB Forum DES update](/uploads/Webtrust-CAB-Forum-DES-update.pdf)
 
-Don stated that the official website for WebTrust is at . There are some older WebTrust pages in the internet that are no longer accurate. WebTrust is updating its website to clarify what the current applicable WebTrust audit criteria are. Older versions of the WebTrust audit criteria may be deleted.
+Don stated that the official website for WebTrust is at <http://www.webtrust.org/item64428.aspx>. There are some older WebTrust pages in the internet that are no longer accurate. WebTrust is updating its website to clarify what the current applicable WebTrust audit criteria are. Older versions of the WebTrust audit criteria may be deleted.
 
 The current audit criteria versions which WebTrust auditors must use are as follows:
 
@@ -698,11 +698,11 @@ WebTrust is considering how to improve its audit criteria for the future, includ
 
 Don finished his presentation by displaying the matrix of applicable WebTrust audit criteria for each type of CA and certificate – see pdf.
 
-## Doc merging EV and BRs {#Doc_merging_EV_and_BRs}
+## Doc merging EV and BRs
 
 *Skipped*
 
-## Next F2F Meeting planning {#Next_F2F_Meeting_planning}
+## Next F2F Meeting planning
 
 *Note Taker: Neil*
 

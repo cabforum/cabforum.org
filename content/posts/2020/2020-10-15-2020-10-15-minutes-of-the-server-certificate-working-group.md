@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-10-15-2020-10-15-minutes-of-the-server-certificate-working-group/
+- /2020/10/15/2020-10-15-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2020-10-15 13:37:07
 tags:
@@ -10,29 +10,29 @@ title: 2020-10-15 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Abdul Hakeem Putra (MSC Trustgate), Adrian Mueller (SwissSign), Ahmad Syafiq MD Zaini (MSC Trustgate), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), David Kluge (Google), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Han Yong, Park (NAVER Business Platform), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Jeff Ward (CPA Canada/WebTrust), Johnny Reading (GoDaddy), Karina Sirota (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Neil Dunbar (TrustCor Systems), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
-## Minutes 
+## Minutes
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 Anti-trust statement was read.
 
-### 3. Review Agenda, assign minute taker for next call 
+### 3. Review Agenda, assign minute taker for next call
 
 Dimitris reviewed the agenda; no changes were identified. Tobi (Opera) volunteered to take minutes for the next call.
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 Accepted without objections.
 
-### 5. Validation Subcommittee Update 
+### 5. Validation Subcommittee Update
 
 Tim reported. The subcommittee met last week and continues to discuss about difficulties in various subjectDN fields
 
@@ -68,7 +68,7 @@ Tim added that if Entrust wants to propose something it should be soon before th
 
 Subcommittee minutes:
 
-### 6. NetSec Subcommittee Update 
+### 6. NetSec Subcommittee Update
 
 Neil presented. The subcommittee is mainly preparing a presentation for the F2F. It will address issues raised for the overall direction of NetSec. There was good feedback from Apple network engineers.
 
@@ -78,22 +78,22 @@ Pain points group concluded most of the immediate pain points that were highligh
 
 Subcommittee minutes:
 
-### 7. Ballot Status 
+### 7. Ballot Status
 
-#### Ballots in Discussion Period 
-
-_None._
-
-#### Ballots in Voting Period 
+#### Ballots in Discussion Period
 
 _None._
 
-#### Ballots in IPR Review Period 
+#### Ballots in Voting Period
+
+_None._
+
+#### Ballots in IPR Review Period
 
 \_None.
 \_
 
-#### Draft Ballots under Consideration 
+#### Draft Ballots under Consideration
 
 \_Minimum expectations regarding weak keys \_(Chris)
 
@@ -110,15 +110,15 @@ No updates
 \_SC34 Account Management \_(Tobi)
 No updates
 
-### 8. Approval of Agenda for F2F 51 
+### 8. Approval of Agenda for F2F 51
 
 The Validation Subcommittee asked for additional 15 minutes on Tuesday to discuss about the OU field. With this modification, the agenda was approved without objections.
 
-### 9. Any Other Business 
+### 9. Any Other Business
 
 No other business was discussed.
 
-### 10. Next call 
+### 10. Next call
 
 The next call is scheduled for October 29, 2020 at 11:00am Eastern Time.
 

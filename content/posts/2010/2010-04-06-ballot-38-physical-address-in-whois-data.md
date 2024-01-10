@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-04-06-ballot-38-physical-address-in-whois-data/
+- /2010/04/06/ballot-38-physical-address-in-whois-data/
 author: Ben Wilson
 date: 2010-04-06 23:54:00
 tags:

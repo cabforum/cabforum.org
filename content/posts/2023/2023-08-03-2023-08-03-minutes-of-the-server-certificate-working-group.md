@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-08-03-2023-08-03-minutes-of-the-server-certificate-working-group/
+- /2023/08/03/2023-08-03-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2023-08-03 09:36:59
 tags:

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-06-15-ballot-78-updates-to-domain-and-ip-validation-high-risk-requests-and-data-source-in-the-baseline-requirements/
+- /2012/06/15/ballot-78-updates-to-domain-and-ip-validation-high-risk-requests-and-data-source-in-the-baseline-requirements/
 author: Ben Wilson
 date: 2012-06-15 21:49:20
 tags:

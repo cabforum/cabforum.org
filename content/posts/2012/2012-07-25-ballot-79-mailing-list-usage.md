@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-07-25-ballot-79-mailing-list-usage/
+- /2012/07/25/ballot-79-mailing-list-usage/
 author: Ben Wilson
 date: 2012-07-25 21:51:03
 tags:

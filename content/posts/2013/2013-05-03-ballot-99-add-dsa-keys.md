@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-05-03-ballot-99-add-dsa-keys/
+- /2013/05/03/ballot-99-add-dsa-keys/
 author: Ben Wilson
 date: 2013-05-03 18:24:59
 tags:
@@ -16,11 +16,11 @@ Ballot 99 – Add DSA Keys (Passed)
 
 … Erratum Begins …
 
-In the Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates, Appendix A, add to each of the tables (1) Root CA Certificates, (2) Subordinate CA Certificates, and (3) Subscriber Certificates a new row with these three column entries (comma-separated): Minimum DSA modulus and divisor size (bits) **\*, L= 2048, N= 224 or L= 2048, N= 256, L= 2048, N= 224 or L= 2048, N= 256
+In the Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates, Appendix A, add to each of the tables (1) Root CA Certificates, (2) Subordinate CA Certificates, and (3) Subscriber Certificates a new row with these three column entries (comma-separated): Minimum DSA modulus and divisor size (bits) \*\*\*, L= 2048, N= 224 or L= 2048, N= 256, L= 2048, N= 224 or L= 2048, N= 256
 
 Following Table 3, change the first sentence to read (++added language++): * SHA-1 MAY be used ++with RSA keys++ until SHA-256 is supported widely by browsers used by a substantial portion of relying-parties worldwide.
 
-After “** A Root CA Certificate issued…”, add: **\* L and N (the bit lengths of modulus p and divisor q, respectively) are described in the Digital Signature Standard, FIPS 186-3 ().
+After “\*\* A Root CA Certificate issued…”, add: \*\*\* L and N (the bit lengths of modulus p and divisor q, respectively) are described in the Digital Signature Standard, FIPS 186-3 ().
 
 To Section “(4) General requirements for public keys”, add:
 

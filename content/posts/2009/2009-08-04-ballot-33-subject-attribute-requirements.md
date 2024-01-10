@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2009-08-04-ballot-33-subject-attribute-requirements/
+- /2009/08/04/ballot-33-subject-attribute-requirements/
 author: Ben Wilson
 date: 2009-08-04 20:00:37
 tags:
@@ -16,17 +16,11 @@ Motion
 
 Steve Roylance made the following motion, and Johnathan Nightingale and Jay Schiavo endorsed it:
 
-______________________________________________________________________
-
-Motion begins
+## Motion begins
 
 The Guidelines should be amended by the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Delete the following paragraph from Section 6.
 
@@ -52,15 +46,9 @@ Insert the following paragraph:
 
 41. Jurisdiction of Incorporation: In the case of a Private Organization, the country and (where applicable) the state or province or locality where the organization’s legal existence was established by a filing with (or an act of) an appropriate government agency or entity (e.g., where it was incorporated). In the case of a Government Entity, the country and (where applicable) the state or province where the Entity’s legal existence was created by law.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 21 July 09 and will close at 2100 UTC on 28 July 2009. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 4th August 2009.
 

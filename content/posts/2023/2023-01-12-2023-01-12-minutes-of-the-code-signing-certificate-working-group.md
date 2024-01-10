@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-01-12-2023-01-12-minutes-of-the-code-signing-certificate-working-group/
+- /2023/01/12/2023-01-12-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-01-12 17:00:29
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2023-01-12 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
@@ -38,4 +38,4 @@ Section 7.1.4.2.3 had several BR references that need more discussion. Will upda
 
 None.
 
-Next meeting is January 26, 2023,  Meeting was adjourned.
+Next meeting is January 26, 2023, Meeting was adjourned.

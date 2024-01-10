@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2007-12-15-ballot-4-browser-voting-rules/
+- /2007/12/15/ballot-4-browser-voting-rules/
 author: Ben Wilson
 date: 2007-12-15 16:16:36
 tags:

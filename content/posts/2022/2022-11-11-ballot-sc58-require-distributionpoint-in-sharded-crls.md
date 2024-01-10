@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-11-11-ballot-sc58-require-distributionpoint-in-sharded-crls/
+- /2022/11/11/ballot-sc58-require-distributionpoint-in-sharded-crls/
 author: Iñigo Barreira
 date: 2022-11-11 17:03:04
 tags:
@@ -10,34 +10,32 @@ title: Ballot SC58 – Require distributionPoint in sharded CRLs
 type: post
 ---
 
-**Voting Results**
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 19 votes total, with no abstentions:
 
-- 19 Issuers voting YES: TrustCor, Disig, Entrust, JPRS, Kamu SM, SECOM, Chunghwa Telecom, Fastly, SecureTrust, GDCA, HARICA, Let’s Encrypt, Sectigo, SSL.com, eMudhra, Certinomis, Izenpe, Digicert, OISTE
-- 0 Issuers voting NO
-- 0 Issuers ABSTAIN
+- **19 Issuers voting YES:** TrustCor, Disig, Entrust, JPRS, Kamu SM, SECOM, Chunghwa Telecom, Fastly, SecureTrust, GDCA, HARICA, Let’s Encrypt, Sectigo, SSL.com, eMudhra, Certinomis, Izenpe, Digicert, OISTE
+- **0 Issuers voting NO**
+- **0 Issuers ABSTAIN**
 
-**Certificate Consumers**
+## Certificate Consumers
 
 3 votes total, with no abstentions:
 
-- 3 Consumers voting YES: Apple, Google, Mozilla
-- 0 Consumers voting NO
-- 0 Consumers ABSTAIN
+- **3 Consumers voting YES:** Apple, Google, Mozilla
+- **0 Consumers voting NO**
+- **0 Consumers ABSTAIN**
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 1. Bylaw 2.3(f) requires:
-
-- A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose. This requirement was **MET** for Certificate Issuers and**MET** for Certificate Consumers.
-- At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was **MET**.
-
+   - A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose. This requirement was **MET** for Certificate Issuers and**MET** for Certificate Consumers.
+   - At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was **MET**.
 1. Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 14, so the quorum was 15 for this ballot. This requirement was **MET**.
 
-## Ballot Contents 
+## Ballot Contents
 
 Purpose of Ballot
 
@@ -47,28 +45,28 @@ This ballot augments the Baseline Requirements’ CRL Profile to ensure that all
 
 The following motion has been proposed by Aaron Gable of ISRG / Let’s Encrypt, and endorsed by Clint Wilson of Apple, Corey Bonnell of DigiCert, and Dmitris Zacharopoulos of HARICA.
 
-# Motion Begins 
+# Motion Begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 1.8.4.
 
 MODIFY the Baseline Requirements as specified in the following Redline:
 
-# Motion Ends 
+# Motion Ends
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-## Discussion (7+ days) 
+## Discussion (7+ days)
 
 Start time: 2022-10-22 00:00:00 UTC
 
 End time: Not before 2022-10-29 00:00:00 UTC
 
-## Vote for approval (7 days) 
+## Vote for approval (7 days)
 
 Start time: 2022-10-31 16:00:00 UTC
 
 End time: 2022-11-07 16:00:00 UTC
 
-## Ballot Status 
+## Ballot Status
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.

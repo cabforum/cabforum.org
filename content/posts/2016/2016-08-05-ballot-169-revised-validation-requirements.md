@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-08-05-ballot-169-revised-validation-requirements/
+- /2016/08/05/ballot-169-revised-validation-requirements/
 author: Ben Wilson
 date: 2016-08-05 21:47:02
 tags:
@@ -24,11 +24,11 @@ This ballot has an effective date of March 1, 2017.
 
 [CA-Browser Forum BR 1.3.7-redlined w Ballot 169][1]
 
-**Ballot 169 – Revised Validation Requirements**
+## Ballot 169 – Revised Validation Requirements
 
 The following motion has been proposed by Jeremy Rowley of DigiCert and endorsed by Tim Hollebeek of Trustwave and Doug Beattie of GlobalSign:
 
-**Background:**  The primary purpose of this change is to replace Domain Validation item 7 “Using any other method of confirmation which has at least the same level of assurance as those methods previously described” with a specific list of the approved domain validation methods (including new methods proposed by Members). This ballot also tightens up and clarifies the existing Domain Validation methods 1 through 6. This revised BR 3.2.2.4 describes the methods that CAs may use to confirm domain ownership or control. Other validation methods can be added in the future.
+**Background:** The primary purpose of this change is to replace Domain Validation item 7 “Using any other method of confirmation which has at least the same level of assurance as those methods previously described” with a specific list of the approved domain validation methods (including new methods proposed by Members). This ballot also tightens up and clarifies the existing Domain Validation methods 1 through 6. This revised BR 3.2.2.4 describes the methods that CAs may use to confirm domain ownership or control. Other validation methods can be added in the future.
 
 The Validation Working Group believes the domain validation rules should follow the current BR 3.2.2.4 structure as much as possible so the changes are easy to understand, be worded as simply and clearly as possible so as to be easily implemented by CAs worldwide, and should avoid unnecessary complications or additional requirements that don’t address a realistic security threat. If a Forum Member believes that any new requirements to these validation methods should be added, the Validation Working Group would prefer that the new requirements be proposed and discussed by separate ballot.
 
@@ -44,7 +44,7 @@ Effective date: Prior to 1 March 2017, CAs may use either the domain validation 
 
 **Authorized Port:** One of the following ports: 80 (http), 443 (http), 115 (sftp), 25 (smtp), 22 (ssh).
 
-**Base Domain Name:** The portion of an applied-for FQDN that is the first domain name node left of a registry-controlled or public suffix plus the registry-controlled or public suffix (e.g. “example.co.uk” or “example.com”).   For FQDNs where the right-most domain name node is a gTLD having ICANN Specification 13 in its registry agreement, the gTLD itself may be used as the Base Domain Name.
+**Base Domain Name:** The portion of an applied-for FQDN that is the first domain name node left of a registry-controlled or public suffix plus the registry-controlled or public suffix (e.g. “example.co.uk” or “example.com”). For FQDNs where the right-most domain name node is a gTLD having ICANN Specification 13 in its registry agreement, the gTLD itself may be used as the Base Domain Name.
 
 **Domain Contact:** The Domain Name Registrant, technical contact, or administrative contract (or the equivalent under a ccTLD) as listed in the WHOIS record of the Base Domain Name or in a DNS SOA record.
 

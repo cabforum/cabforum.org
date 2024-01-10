@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-10-14-2020-10-14-minutes-of-the-s-mime-certificate-working-group/
+- /2020/10/14/2020-10-14-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2020-10-14 17:44:00
 tags:
@@ -10,31 +10,31 @@ title: 2020-10-14 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 October 14, 2020
 
 These are the Approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Ahmad Syafiq Md Zaini (MSC Trustgate.com), Andreas Henschel (D-TRUST), Ben Wilson (Mozilla), Bruce Morton (Entrust DataCard), Burkhard Wiegel (Zertificon), Chris Kemmerer (SSL.com), Dean Coclin (DigiCert), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate.com), Hongquan Yin (Microsoft), India Donald (Federal PKI), James Knapp (Federal PKI), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Li-Chun Chen (Chunghwa Telecom), Morad Abou Nasser (TeleTrust), Patrycja Tulinska (PSW), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE), Rich Smith (Sectigo), Rufus Buschart (TeleTrust), Russ Housley (Vigil Security), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Crawford (WebTrust), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (Federal PKI)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the September 30 teleconference were approved.
 
-### 5. Discussion of approach and deliverables 
+### 5. Discussion of approach and deliverables
 
 The discussion continued regarding the fields in S/MIME leaf certificates.
 
@@ -60,11 +60,11 @@ It was decided that a strawman would be further discussed on OID option, at leas
 
 AIA: OPTIONAL use of caIssuers and ocsp (latter if present MUST contain at least one publicly accessible HTTP URI). AccessDescription MUST NOT contain any labels or parameters that are specific to an individual certificate. There was discussion relating to the use of LDAP, noting that it should be allowed but if included must be publicly available.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 No other business.
 
-### 7. Next call 
+### 7. Next call
 
 The next call will take place on October 28, 2020 at 11:00am Eastern Time.
 

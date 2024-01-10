@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-05-29-ballot-72-reorganize-ev-documents/
+- /2012/05/29/ballot-72-reorganize-ev-documents/
 author: Ben Wilson
 date: 2012-05-29 21:39:42
 tags:

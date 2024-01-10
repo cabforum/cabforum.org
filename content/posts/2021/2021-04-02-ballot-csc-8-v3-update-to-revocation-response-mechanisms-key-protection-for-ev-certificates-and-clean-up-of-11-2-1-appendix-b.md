@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-04-02-ballot-csc-8-v3-update-to-revocation-response-mechanisms-key-protection-for-ev-certificates-and-clean-up-of-11-2-1-appendix-b/
+- /2021/04/02/ballot-csc-8-v3-update-to-revocation-response-mechanisms-key-protection-for-ev-certificates-and-clean-up-of-11-2-1-appendix-b/
 author: Ben Wilson
 date: 2021-04-02 19:59:00
 tags:
@@ -59,14 +59,14 @@ Corey Bonnell noted a contradiction in the section 11.2.1 regarding Timestamp in
 
 The following motion has been proposed by Ian McMillan of Microsoft, and endorsed by Dimitris Zacharopoulos of HARICA and Bruce Morton of EnTrust.
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” version 2.2 according to the attached redline.
 
 [Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates v.2.3](/uploads/baseline_requirements_for_the_issuance_and_management_of_code_signing.v2.3.pdf)
 [Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates v.2.3 (redline)](/uploads/baseline_requirements_for_the_issuance_and_management_of_code_signing.v2.3_redline.pdf)
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 

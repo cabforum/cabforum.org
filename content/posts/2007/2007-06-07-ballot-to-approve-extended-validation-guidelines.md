@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2007-06-07-ballot-to-approve-extended-validation-guidelines/
+- /2007/06/07/ballot-to-approve-extended-validation-guidelines/
 author: Ben Wilson
 date: 2007-06-07 00:08:15
 tags:

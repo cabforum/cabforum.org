@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-03-20-2020-03-05-minutes-of-the-server-certificate-working-group/
+- /2020/03/20/2020-03-05-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2020-03-20 14:20:47
 tags:
@@ -10,25 +10,33 @@ title: 2020-03-05 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees (in alphabetical order) 
+## Attendees (in alphabetical order)
 
 Adam Clark (Visa), Bruce Morton (Entrust Datacard), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Chris Kemmerer (SSL.com), Curt Spann (Apple), Daniela Hood (GoDaddy), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Inaba Atsushi (GlobalSign), India Donald (US Federal PKI Management Authority), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Kirk Hall (Entrust Datacard), Li-Chun Chen (Chunghwa Telecom), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Peter Miskovic (Disig), Rich Smith (Sectigo), Robin Alden (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Sissel Hoel (Buypass AS), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority).
 
 ## Minutes
 
+{.wp-block-heading}
+
 ### 1. Roll Call
+
+{.wp-block-heading}
 
 The Chair took attendance.
 
 ### 2. Read Antitrust Statement
 
+{.wp-block-heading}
+
 The Antitrust Statement was read.
 
 ### 3. Review Agenda
 
+{.wp-block-heading}
+
 Accepted without changes.
 
-### 4. Validation Subcommittee Update 
+### 4. Validation Subcommittee Update
 
 The subcommittee’s call had follow-ups from the F2F including 7 work items.
 
@@ -50,28 +58,36 @@ The subcommittee’s call had follow-ups from the F2F including 7 work items.
 
 The draft minutes of that particular Validation SubCommittee meeting are available in
 
-### 5. NetSec Subcommittee Update 
+### 5. NetSec Subcommittee Update
 
 There was no meeting after the F2F. Neil mentioned that they will need to change ballot number (SC20 has failed automatically) and include OS patches in the new ballot.
 
 There are 3 ballots on their way to the main Working Group.
 
-### 6. Ballot Status 
+### 6. Ballot Status
 
 #### Ballots in Discussion Period
+
+{.wp-block-heading}
 
 _SC20: Configuration Management_ (Neil)
 No further discussion
 
 #### Ballots in Voting Period
 
+{.wp-block-heading}
+
 None
 
 #### Ballots in Review Period
 
+{.wp-block-heading}
+
 \_SC27: Version 3 Onion Certificates \_(Wayne) (review ends 2020-03-26)
 
 #### Draft Ballots under Consideration
+
+{.wp-block-heading}
 
 _SC26 – Pandoc-Friendly Markdown Formatting Changes_ (Jos)
 Ryan and Jos to work on a ballot for SC26. Ryan explained that Jos’ ballot “touches” a lot of sections of the BRs and it is very likely that new ballots might “touch” the same sections as SC26. In such cases, the ballot proposer must include language to describe how these specific sections will look like should SC26 pass or fail. If anyone wants to propose a ballot while SC26 is in the official discussion period, Ryan may assist any proposer with drafting the appropriate language to make progress in parallel. There is no need for a “quiet” period until SC26 completes its processing cycle.
@@ -87,13 +103,15 @@ The latest copy will be circulated soon. Ryan mentioned that he doesn’t want t
 
 ### 7. Minutes for F2F 49
 
+{.wp-block-heading}
+
 Dimitris mentioned that the majority of the draft minutes have been uploaded on the wiki. He emailed the minute-takers of the last 3 slots.
 
-### 8. Any Other Business 
+### 8. Any Other Business
 
 No other Business raised.
 
-### 9. Next call 
+### 9. Next call
 
 March 19, 2020 at 11:00 am Eastern Time.
 

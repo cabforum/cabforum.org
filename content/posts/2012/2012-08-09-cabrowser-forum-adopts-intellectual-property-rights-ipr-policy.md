@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-08-09-cabrowser-forum-adopts-intellectual-property-rights-ipr-policy/
+- /2012/08/09/cabrowser-forum-adopts-intellectual-property-rights-ipr-policy/
 author: Ben Wilson
 date: 2012-08-09 23:56:46
 tags:

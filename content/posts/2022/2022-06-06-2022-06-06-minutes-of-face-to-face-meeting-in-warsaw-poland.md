@@ -1,16 +1,16 @@
 ---
 aliases:
-- /2022-06-06-2022-06-06-minutes-of-face-to-face-meeting-in-warsaw-poland/
+- /2022/06/06/2022-06-06-minutes-of-face-to-face-meeting-in-warsaw-poland/
 author: Ben Wilson
 date: 2022-06-06 22:49:55
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 56 Meeting in Warsaw, Poland, 6-8 June 2022
 type: post
 ---
 
-**CABF Face-to-Face Meeting 56**
+## CABF Face-to-Face Meeting 56
 
 # Day 1 – June 6, 2022
 
@@ -55,7 +55,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 **Update Summary:** Chrome is continuing to make progress on establishing their own root store
 
-**Detailed Updates:**
+## Detailed Updates
 
 - Although, today, Chrome integrates with platform root stores and certificate validation processes, there is a collection of CAs that are planned for the initial release of and transition to the Chrome Root Store taking place later this year.
 - Until very recently, the Root Store was managed by a policy published in 2020 that outlined the set of ongoing requirements and commitments for the CA operators included in the initial store. The initial policy also outlined how the initial set of roots targeted for the Chrome Root Store would be maintained and updated until Chrome’s CA application process opened.
@@ -74,7 +74,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 **Update Summary:** No significant updates since the February F2F. A few reminders were shared.
 
-**Detailed Updates:**
+## Detailed Updates
 
 - Technical enforcement of Chrome’s updated CT policy began in Chrome 100. This includes removal of the “One Google Log” requirement, and aligns SCT expectations with Apple’s policy. Dropped the 1-Google log requirement earlier this year. See more at .
 - CT Log Policy has been updated to allow log operators to enforce acceptance of certificates based on EKU (id-kp-serverAuth). See more at .
@@ -91,16 +91,17 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 **Leader:** Clint Wilson (Apple)
 **Minutes:** Dustin Hollenback (Microsoft)
-**Presentation link:**
 
-**Root Program Updates**
+## Presentation link
+
+## Root Program Updates
 
 - TLS and S/MIME
 - Closing out fall updates now and starting spring updates in July
 - VMC
 - Root program is being added to CCADB
 
-**Dates**
+## Dates
 
 - 2022-04-01
 - S/MIME Certificate Profile Requirements
@@ -108,26 +109,26 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 - 2022-10-01
 - Full CRL disclosure
 
-**Technical Enforcement**
+## Technical Enforcement
 
 - Cross-certified CAs treated the same as subordinate CAs
 - Name Constraints have path building inheritance
 
-**SHA-1**
+## SHA-1
 
 - SHA-1 CertIDs are supported now, but plan to move to SHA-256 CertIDs for OCSP requests
 - Apple requests that CAs investigate compatibility
 
-**CT Log List**
+## CT Log List
 
 - Cleaned up log entries to make it more efficient for devices to consume the log list
 - Additional Cleanup in Fall that won’t impact any existing CT Log lists used today
 
-**Private Relay**
+## Private Relay
 
 - CA Communication will be coming this month about Private Relay so that CAs are aware
 
-**Questions**
+## Questions
 
 - Dimitris (HARICA) asked if SHA-1 will be discussed at IETF forum level
 - Clint (Apple) said that it could be a combination of IETF, the browsers, and other forums
@@ -137,20 +138,21 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 **Leader:** Karina Sirota (Microsoft)
 **Minutes:** Martijn Katerbarg (Sectigo)
-**Presentation link:**
+
+## Presentation link
 
 **2022 Goals**
 
 - Bettering all our, primarily internal processes for CAs
 
-**Program Requirements Reminders**
+## Program Requirements Reminders
 
 - Current requirements are posted at
 - Any question regarding the current requirements can be sent to msroot@microsoft.com
 - For any issues or suggestions for the Microsoft Trusted Root Program they can now be provided on the GitHub page: . Microsoft has requested to also send an email to simultaneously.
 - Testing will occur for up to 2 months before release date. Changes for specific release months should be requested no later than 3 months in advance of the release
 
-**Testing**
+## Testing
 
 - Root Store Certificate Trust List is updated monthly, except for December
 - Update packages are available for download and testing at
@@ -165,7 +167,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 **Presenter:** Robert Poznański (Certum)
 
-**Presentation Links:**
+## Presentation Links
 
 [Post-Quantum Cryptography and Trust Services][4]
 
@@ -298,7 +300,8 @@ See Day 1 list with the addition of the following: Nick Pope,
 
 **Leader:** Nick Pope (Vice Chair ETSI ESI))
 **Minutes:** Clemens Wanko (TUV AUSTRIA)
-**Presentation link:**
+
+## Presentation link
 
 Nick Pope informed about the following updates from ETSI:
 
@@ -318,7 +321,8 @@ ETSI already identified 40 requirements resulting from eIDAS 2 which are covered
 
 **Leader:** Clemens Wanko (TÜV AUSTRIA)
 **Minutes:** Andreas Henschel (D-TRUST)
-**Presentation link:**
+
+## Presentation link
 
 - ACAB’C is growing, 7 new members aplying, 9 existing, 17 overall expected within this year
 - A list with all members with CAB status available (see presentation)
@@ -326,7 +330,7 @@ ETSI already identified 40 requirements resulting from eIDAS 2 which are covered
 - ACAB’c would like to ask for access to the AALV Tool
 - eIDAS 2.0 is coming up including regulations and directives regarding Cyber Security, GDPR, NIS 2 (directives has to be interpreted and implemented on national level → NIS 2)
 
-**Q&A:**
+## Q&A
 
 Ben – When is the adoption deadline of NIS 2?
 Clemens – Still in discussion. eIDAS 2 will set a date. Probably not before 2023 plus transition period.
@@ -336,7 +340,7 @@ Dimitris – there will be a two year transition from the date the directive com
 
 **Leader:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Minutes:** Ben Wilson
-**Presentation link: ** [Webtrust for CA Update][5]
+\*\*Presentation link: \*\* [Webtrust for CA Update][5]
 
 Jeff: Reviewed Slide 2 – Outline of Discussion Topics
 
@@ -512,13 +516,14 @@ See Day 1 with the addition of the following: Attila Rozgonyi (Guest)
 ## Approval of CABF Minutes from last teleconference
 
 **Leader:** Dean Coclin (Digicert)
-**Minutes:**
+
+## Minutes
 
 Minutes approved from last 2 teleconferences
 
 ## Server Certificate Working Group Meeting
 
-**Antitrust Statement, Assign Minute Taking, Approval of SCWG Minutes from last teleconference**
+## Antitrust Statement, Assign Minute Taking, Approval of SCWG Minutes from last teleconference
 
 **Leader:** Doug Beattie (GlobalSign)
 **Minutes:** Martijn Katerbarg (Sectigo)

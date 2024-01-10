@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-03-02-minutes-of-the-f2f-58-meeting-in-ottawa-canada-28-feb-2-march-2023-validation-sc-2-march/
+- /2023/03/02/minutes-of-the-f2f-58-meeting-in-ottawa-canada-28-feb-2-march-2023-validation-sc-2-march/
 author: Iñigo Barreira
 date: 2023-03-02 11:55:47
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 - Server Certificates
 title: Minutes of the F2F 58 Meeting in Ottawa, Canada, 28 Feb-2 March 2023 – Validation
   SC (2 March)
@@ -24,9 +24,9 @@ since the Fall 2022 face-to-face meeting, the most notable accomplishment has be
 
 **Agenda review** – We’ll discuss Multi-Perspective Domain Validation and then certificate issuance flows, as time allows.
 
-**DISCUSSION ON MULTI-PERSPECTIVE DOMAIN VALIDATION (MPDV)**
+## DISCUSSION ON MULTI-PERSPECTIVE DOMAIN VALIDATION (MPDV)
 
-Ryan D. sees value in MPDV.  We need to define core terms for MPDV– e.g. geographically diverse, etc. Then, we need to look at a base implementation, a phased implementation, and a set of ‘SHOULD” requirements for the desired end state. We also will need to define the required quorum, a set of minimum requirements, and how we monitor compliance. Then, for the long-term, we will need to implement an enforcement period where CAs must use MPDV.
+Ryan D. sees value in MPDV. We need to define core terms for MPDV– e.g. geographically diverse, etc. Then, we need to look at a base implementation, a phased implementation, and a set of ‘SHOULD” requirements for the desired end state. We also will need to define the required quorum, a set of minimum requirements, and how we monitor compliance. Then, for the long-term, we will need to implement an enforcement period where CAs must use MPDV.
 
 Aaron G. stated support for MPDV. The group should look at the Princeton paper’s suggestions. We need to be careful with the language used. We should also make sure that extercanal MPDV points are not within a CA’s audit scope. The primary domain validation point must succeed, and no more than one point external point can fail. The external points must not be in scope of audit until the Forum fully addresses cloud issues.
 
@@ -72,9 +72,8 @@ Steps for addressing MDP:
 
 1. define the problem statement – with specific scope:
 
-- 1\. what attack is being addressed
-
-- 2\. what validation methods are involved
+- 1. what attack is being addressed
+- 2. what validation methods are involved
 
 2. set the definitions
 1. set the goals

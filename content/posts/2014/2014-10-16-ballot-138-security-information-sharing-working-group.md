@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-10-16-ballot-138-security-information-sharing-working-group/
+- /2014/10/16/ballot-138-security-information-sharing-working-group/
 author: Ben Wilson
 date: 2014-10-16 23:54:29
 tags:
@@ -10,7 +10,7 @@ title: Ballot 138 – Security Information Sharing Working Group
 type: post
 ---
 
-**Ballot 138 – Security Information Sharing Working Group**
+## Ballot 138 – Security Information Sharing Working Group
 
 Voting on Ballot 138 – Information Sharing Working Group closed on 16 October 2014.
 
@@ -22,11 +22,11 @@ Therefore, Ballot 138 passed.
 
 Kirk Hall of Trend Micro made the following motion and Ben Wilson of Digicert and Dean Coclin of Symantec have endorsed it:
 
-**Reason**
+## Reason
 
 During face-to-face Meeting 33, and on previous occasions, there were discussions about how members of the Forum might be able to share security-related information. One of the conclusions of these discussions is that the issue needs further study. Additional details are found in the scope statement in Ballot 138, which proposes the chartering a Security Information Sharing Group.
 
-**— Motion begins —**
+## Motion begins
 
 The CA-Browser Forum shall create a Working Group, to be known as the Security Information Sharing Working Group.
 
@@ -36,7 +36,7 @@ The CA-Browser Forum shall create a Working Group, to be known as the Security I
 
 **Expiration Date:** The Working Group’s mandate shall expire twenty-four months from the date this resolution passes, unless extended by a further ballot of the Members, such a ballot to specify the extension period and any necessarily modifications of the scope and deliverables.
 
-**— Motion Ends —**
+## Motion ends
 
 The review period for this ballot shall commence at 2200 UTC on Thursday, 2 October 2014, and will close at 2200 UTC on Thursday, 9 October 2014. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Thursday, 16 October 2014. Votes must be cast by posting an on-list reply to this thread.
 

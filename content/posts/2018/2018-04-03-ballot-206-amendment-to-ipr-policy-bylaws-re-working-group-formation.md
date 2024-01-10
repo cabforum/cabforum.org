@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-04-03-ballot-206-amendment-to-ipr-policy-bylaws-re-working-group-formation/
+- /2018/04/03/ballot-206-amendment-to-ipr-policy-bylaws-re-working-group-formation/
 author: Ben Wilson
 date: 2018-04-03 20:06:26
 tags:
@@ -14,27 +14,27 @@ type: post
 
 The voting period for Ballot 206 has ended and the ballot has passed. Here are the results.
 
-**Voting by CAs – 16 votes total, including abstentions**
+## Voting by CAs – 16 votes total, including abstentions
 
-16 Yes votes: Amazon, Buypass, CFCA, Chunghwa Telecom, Cisco, DigiCert, Disig, Entrust Datacard, GDCA, GlobalSign, HARICA, Kamu Sertifikasyon Merkezi, SHECA, SSL.com, SSC, TurkTrust
+- **16 Yes votes:** Amazon, Buypass, CFCA, Chunghwa Telecom, Cisco, DigiCert, Disig, Entrust Datacard, GDCA, GlobalSign, HARICA, Kamu Sertifikasyon Merkezi, SHECA, SSL.com, SSC, TurkTrust
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 5 votes total, including abstentions**
+## Voting by browsers – 5 votes total, including abstentions
 
-5 Yes votes: Apple, Comodo Security Solutions, Google, Microsoft, Mozilla
+- **5 Yes votes:** Apple, Comodo Security Solutions, Google, Microsoft, Mozilla
 
-0 No votes:
+- **0 No votes:**
 
-0 Abstain:
+- **0 Abstain:**
 
 100% of voting browsers voted in favor
 
-**Quorum requirements**
+## Quorum requirements
 
 Currently active members: 20
 
@@ -50,17 +50,17 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met
 
-**Ballot 206 passes. Congratulations and thanks to Virginia Fournier, Dean Coclin, and all the members of the Governance Change Working Group for all their hard work!**
+## Ballot 206 passes. Congratulations and thanks to Virginia Fournier, Dean Coclin, and all the members of the Governance Change Working Group for all their hard work!
 
 ## Ballot 206
 
-Purpose of Ballot:  This ballot is the result of the work done by the CA/Browser Forum (the “Forum”) Governance Reform Working Group.
+Purpose of Ballot: This ballot is the result of the work done by the CA/Browser Forum (the “Forum”) Governance Reform Working Group.
 
 The following motion has been proposed by Virginia Fournier of Apple and endorsed by Tim Hollebeek of Digicert and Jos Purvis of Cisco to amend the CA/Browser Forum Intellectual Property Rights Policy (“IPR Policy”) and Bylaws of the
 
 CA/Browser Forum (the “Bylaws”) regarding the formation of working groups:
 
-— MOTION BEGINS –
+- MOTION BEGINS –
 
 1. Amendment to IPR Policy. The IPR Policy is hereby amended to read in its entirety as set
 
@@ -100,23 +100,23 @@ of the amendment to the Bylaws is to:
 
 1. Applicability of Amendments. The amendments to the IPR Policy and the Bylaws described in this ballot shall become effective 90 days after the date on which the vote for approval is final, and shall not apply retroactively. Any Draft Guideline Ballots already in the Review Period when such amendments go into effect shall comply with the versions of the IPR Policy and the Bylaws in effect when such Review Period began.
 
-— MOTION ENDS –
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 
 BALLOT 206
 
-Formal discussion period:  (7 days)
+Formal discussion period: (7 days)
 
-Start time:  20 March 2018 2:38 PM PDT (20 Mar 2018 21:38 UTC)
+Start time: 20 March 2018 2:38 PM PDT (20 Mar 2018 21:38 UTC)
 
-End Time:  27 March 2018 8:00 PM PDT  (28 Mar 2018 3:00 AM UTC)
+End Time: 27 March 2018 8:00 PM PDT (28 Mar 2018 3:00 AM UTC)
 
 Vote for approval (7 days)
 
 Start time: 27 March 2018 8:30 PM PDT (28 March 2018 3:30 AM UTC)
 
-End time:  3 April 2018 8:30 PM PDT (4 April 2018 3:30 AM)
+End time: 3 April 2018 8:30 PM PDT (4 April 2018 3:30 AM)
 
 Votes must be cast by posting an on-list reply to this thread on the Public Mail List.
 
@@ -704,21 +704,21 @@ I. Conduct. The Forum is committed to providing a friendly, safe, and welcoming 
 
 (a) In connection with official Forum activities, all Forum participants shall:
 
-- Be polite, kind, and courteous to other participants, refraining from insulting remarks on the perceived intelligence or ability of others.
-- Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.
-- Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single “correct” answer. Be willing to compromise and agree to disagree.
+• Be polite, kind, and courteous to other participants, refraining from insulting remarks on the perceived intelligence or ability of others.
+• Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.
+• Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single “correct” answer. Be willing to compromise and agree to disagree.
 
 (b) In connection with official Forum activities, all Forum participants shall refrain from conduct such as:
 
-- Threatening violence towards anyone.
-- Discriminating against anyone on the basis of personal characteristics or group membership.
-- Harassing or bullying anyone verbally, physically, or sexually.
-- Launching barbs at others. \[Note: a “barb” is an obviously or openly unpleasant or carping remark.\]
-- Touching another person in a physically inappropriate way.
-- Deliberately intimidating or stalking another person (in-person, online, or by other means).
-- Inappropriately disrupting or impeding official Forum events, including meetings, talks, and presentations. For purposes of this Code, “inappropriate disruption” would include aggressive, violent, and abusive conduct that prevents an official Forum event from occurring or proceeding.
-- Spamming, trolling, flaming, baiting, and other similar behavior inappropriately directed towards an individual.
-- Advocating for, or encouraging, any of the above behavior.
+• Threatening violence towards anyone.
+• Discriminating against anyone on the basis of personal characteristics or group membership.
+• Harassing or bullying anyone verbally, physically, or sexually.
+• Launching barbs at others. \[Note: a “barb” is an obviously or openly unpleasant or carping remark.\]
+• Touching another person in a physically inappropriate way.
+• Deliberately intimidating or stalking another person (in-person, online, or by other means).
+• Inappropriately disrupting or impeding official Forum events, including meetings, talks, and presentations. For purposes of this Code, “inappropriate disruption” would include aggressive, violent, and abusive conduct that prevents an official Forum event from occurring or proceeding.
+• Spamming, trolling, flaming, baiting, and other similar behavior inappropriately directed towards an individual.
+• Advocating for, or encouraging, any of the above behavior.
 
 (c) All Forum participants should promote the rules of this Code and take action to bring discussions back into compliance with the Code whenever violations are observed.
 
@@ -754,19 +754,19 @@ Voting Structure for WG: (e.g., 2/3 of CAs, ½ of Browsers)
 \[Describe goals and objectives of WG. What is the purpose of the WG, what do you hope to accomplish, why is this group important/necessary? Will this group leverage any existing work or collaborate with other groups?\]
 1.2 Success Criteria
 
-- Prepare a ballot to create guidelines for the \[insert name\] Working Group.
-- In order to advance to Final Guidelines or Final Maintenance Guidelines, each specification is expected to have \[e.g., at least x independent implementations of each feature defined in the specification\].
-- Work with Forum to have guidelines for the \[insert name\] Working Group be approved and adopted.
+• Prepare a ballot to create guidelines for the \[insert name\] Working Group.
+• In order to advance to Final Guidelines or Final Maintenance Guidelines, each specification is expected to have \[e.g., at least x independent implementations of each feature defined in the specification\].
+• Work with Forum to have guidelines for the \[insert name\] Working Group be approved and adopted.
 
 1.3 Minimum Requirements
 
 Each WG must meet the following minimum requirements:
 
-- Comply with all applicable laws, rules and regulations.
-- Comply with the CAB Forum IPR Policy and Bylaws.
+• Comply with all applicable laws, rules and regulations.
+• Comply with the CAB Forum IPR Policy and Bylaws.
 
-- Follow RFC 3647 and other technical requirements regarding the preparation of minutes and the use of public mailing lists.
-- \[Any other requirements applicable to this specific WG?\]
+• Follow RFC 3647 and other technical requirements regarding the preparation of minutes and the use of public mailing lists.
+• \[Any other requirements applicable to this specific WG?\]
 
 1.3 Out of Scope
 

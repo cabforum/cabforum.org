@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-05-21-ballot-sc17-version-7-alternative-registration-numbers-for-ev-certificates/
+- /2019/05/21/ballot-sc17-version-7-alternative-registration-numbers-for-ev-certificates/
 author: Wayne Thayer
 date: 2019-05-21 15:53:12
 tags:
@@ -43,21 +43,21 @@ Under Bylaw 2.3(g), “a ballot result will be considered valid only when more t
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Dimitris Zacharopoulos of Harica and Enrico Entshew of D-Trust.
 
-**Motivation:**
+## Motivation
 
 Update to CAB Forum EV Guidelines to cater for alternative registration numbers caused by EU Legal Requirements:
 
-i. The EU Regulation No 910/2014 (eIDAS \[\]) defines regulatory requirements for certificates with an agreed quality level called Qualified. This regulation specifies in Annex IV specific requirements for “Qualified certificates for website authentication” including the statement that the certificate shall contain: “for a legal person: the name and, where applicable, registration number as stated in the official records,”
+i. The EU Regulation No 910/2014 (eIDAS \[<https://eur-lex.europa.eu/eli/reg/2014/910/oj>\]) defines regulatory requirements for certificates with an agreed quality level called Qualified. This regulation specifies in Annex IV specific requirements for “Qualified certificates for website authentication” including the statement that the certificate shall contain: “for a legal person: the name and, where applicable, registration number as stated in the official records,”
 
 ii. It is understood that this requirement relates to validated attributes for the identification of the certificate subject and hence is best fitted in the subject’s distinguished name.
 
-iii. In line with the regulatory framework ETSI has defined a general structure for carrying “registration numbers” in TS 119 412-1\[\] clause 5.1.4. This uses the X.520 \[\] organizationIdentifier within the subject’s distinguished name in line with its stated purpose being “holds an identification of an organization different from the organization name”. This is used for ETSI requirements to carry registration numbers for certificates, Qualified or otherwise.
+iii. In line with the regulatory framework ETSI has defined a general structure for carrying “registration numbers” in TS 119 412-1\[<https://www.etsi.org/standards-search#page=1&search=TS119412-1>\] clause 5.1.4. This uses the X.520 \[<https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.520-201210-S!!PDF-E&type=items>\] organizationIdentifier within the subject’s distinguished name in line with its stated purpose being “holds an identification of an organization different from the organization name”. This is used for ETSI requirements to carry registration numbers for certificates, Qualified or otherwise.
 
 iv. It is considered that this use of organizationIdentifier supports the primary purpose of EV certificates as stated in section 2.1.1 of the EV Guidelines as “other disambiguating information”.
 
-v. A recent EU delegated Regulation 2018/389 on secure communications for payment services (RTS \[\]) states in Article 34.2 that for Qualified Website certificates (QWACs) the registration number required in eIDAS “shall be the authorisation number of the payment service provider … or equivalent \[reference made to earlier regulations relating to banks\]”.
+v. A recent EU delegated Regulation 2018/389 on secure communications for payment services (RTS \[<https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32018R0389>\]) states in Article 34.2 that for Qualified Website certificates (QWACs) the registration number required in eIDAS “shall be the authorisation number of the payment service provider … or equivalent \[reference made to earlier regulations relating to banks\]”.
 
-vi. ETSI has specified TS 119 495 \[\] requirements for carrying PSD2 related registration numbers in the general structure for registration numbers defined in TS 119 412-1 clause 5.1.4 as mentioned in iii. above.
+vi. ETSI has specified TS 119 495 \[<https://www.etsi.org/standards-search#page=1&search=TS119495>\] requirements for carrying PSD2 related registration numbers in the general structure for registration numbers defined in TS 119 412-1 clause 5.1.4 as mentioned in iii. above.
 
 vii. ETSI has endeavoured to ensure and always intended that requirements relating to web site certificates at the Qualified level are in line with the CA/B Forum EV Guidelines.
 
@@ -81,9 +81,9 @@ vi. This use of organisationIdentifier must be extendable to allow for use by ot
 
 vii. There is interest by some CA/B Forum members in carrying LEIs within CA/B Forum certificates but as yet the LEI registration scheme is not currently considered sufficiently robust to be recognised as an registration numbering scheme to be accepted by CA/B Forum. Therefore this proposal only introduces a limited set of Registration Schemes (namely NTR, VAT, PSD) which have reasonably robust validation rules.
 
-viii. Some CA/B Forum members have indicated the possible need for multiple identifiers in the subject name. This, however, cannot be achieved using X.520 organizationIdentifier which defined this attribute as being “SINGLE VALUE”.  The use of a single value has the advantage is it is clear what is the registration, in addition to the company registration, which identifies the subject.
+viii. Some CA/B Forum members have indicated the possible need for multiple identifiers in the subject name. This, however, cannot be achieved using X.520 organizationIdentifier which defined this attribute as being “SINGLE VALUE”. The use of a single value has the advantage is it is clear what is the registration, in addition to the company registration, which identifies the subject.
 
-**—MOTION BEGINS—**
+## -MOTION BEGINS
 
 Purpose of Ballot: Update to CAB Forum EV Guidelines to allow alternative registration numbers
 
@@ -105,11 +105,11 @@ Insert new section 9.2.8:
 
 “9.2.8. Subject Organization Identifier Field
 
-**Certificate field**: organizationIdentifier (OID: 2.5.4.97)
+\*\*Certificate field\*\*: organizationIdentifier (OID: 2.5.4.97)
 
-**Required/Optional**: Optional
+\*\*Required/Optional\*\*: Optional
 
-**Contents**: If present, this field MUST contain a Registration Reference for a Legal Entity assigned in accordance to the identified Registration Scheme.
+\*\*Contents\*\*: If present, this field MUST contain a Registration Reference for a Legal Entity assigned in accordance to the identified Registration Scheme.
 
 The organizationIdentifier MUST be encoded as a PrintableString or UTF8String (see RFC 5280).
 
@@ -161,21 +161,21 @@ If a CA includes an extension in a certificate that has a Certificate field whic
 
 9.8.1. Subject Alternative Name Extension
 
-**Certificate field:** \_subjectAltName:dNSName\_
+\*\*Certificate field:\*\* \_subjectAltName:dNSName\_
 
-**Required/Optional:** Required
+\*\*Required/Optional:\*\* Required
 
-**Contents:** This extension MUST contain one or more host Domain Name(s) owned or controlled by the Subject and to be associated with the Subject’s server. Such server MAY be owned and operated by the Subject or another entity (e.g., a hosting service). Wildcard certificates are not allowed for EV Certificates.
+\*\*Contents:\*\* This extension MUST contain one or more host Domain Name(s) owned or controlled by the Subject and to be associated with the Subject’s server. Such server MAY be owned and operated by the Subject or another entity (e.g., a hosting service). Wildcard certificates are not allowed for EV Certificates.
 
 9.8.2. CA/Browser Forum Organization Identifier Field
 
-**Extension Name**: \_cabfOrganizationIdentifier\_ (OID: 2.23.140.3.1)
+\*\*Extension Name\*\*: \_cabfOrganizationIdentifier\_ (OID: 2.23.140.3.1)
 
-**Verbose OID**: {joint-iso-itu-t(2) international-organizations(23) ca-browser-forum(140) certificate-extensions(3) cabf-organization-identifier(1) }
+\*\*Verbose OID\*\*: {joint-iso-itu-t(2) international-organizations(23) ca-browser-forum(140) certificate-extensions(3) cabf-organization-identifier(1) }
 
-**Required/Optional**: Optional (but see below)
+\*\*Required/Optional\*\*: Optional (but see below)
 
-**Contents**: If the subject:organizationIdentifier is present, this field SHOULD be present.
+\*\*Contents\*\*: If the subject:organizationIdentifier is present, this field SHOULD be present.
 
 Effective January 31, 2020, if the subject:organizationIdentifier field is present, this field MUST be present.
 
@@ -189,13 +189,13 @@ ext-CABFOrganizationIdentifier EXTENSION ::= { SYNTAX CABFOrganizationIdentifier
 
 CABFOrganizationIdentifier ::= SEQUENCE {
 
-registrationSchemeIdentifier  PrintableString (SIZE(3)),
+registrationSchemeIdentifier PrintableString (SIZE(3)),
 
-registrationCountry           PrintableString (SIZE(2)),
+registrationCountry PrintableString (SIZE(2)),
 
-registrationStateOrProvince   \[0\] IMPLICIT PrintableString OPTIONAL (SIZE(0..128)),
+registrationStateOrProvince \[0\] IMPLICIT PrintableString OPTIONAL (SIZE(0..128)),
 
-registrationReference         UTF8String
+registrationReference UTF8String
 
 }
 
@@ -205,21 +205,21 @@ Add new Appendix H – Registration Schemes
 
 “The following Registration Schemes are currently recognised as valid under these guidelines:
 
-**NTR**: The information carried in this field shall be the same as held in Subject Registration Number Field as specified in 9.2.5 and the country code used in the Registration Scheme identifier shall match that of the subject’s jurisdiction as specified in Section 9.2.4.
+\*\*NTR\*\*: The information carried in this field shall be the same as held in Subject Registration Number Field as specified in 9.2.5 and the country code used in the Registration Scheme identifier shall match that of the subject’s jurisdiction as specified in Section 9.2.4.
 
 Where the Subject Jurisdiction of Incorporation or Registration Field in 9.2.4 includes more than the country code, the additional locality information shall be included as specified in sections 9.2.8 and/or 9.8.1.
 
-**VAT**: Reference allocated by the national tax authorities to a Legal Entity. This information shall be validated using information provided by the national tax authority against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4.
+\*\*VAT\*\*: Reference allocated by the national tax authorities to a Legal Entity. This information shall be validated using information provided by the national tax authority against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4.
 
-**PSD**: Authorization number as specified in ETSI TS 119 495 clause 4.4 allocated to a payment service provider and containing the information as specified in ETSI TS 119 495 clause 5.2.1. This information SHALL be obtained directly from the national competent authority register for payment services or from an information source approved by a government agency, regulatory body, or legislation for this purpose. This information SHALL be validated by being matched directly or indirectly (for example, by matching a globally unique registration number) against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4. The stated address of the organisation combined with the organization name SHALL NOT be the only information used to disambiguate the organisation.”
+\*\*PSD\*\*: Authorization number as specified in ETSI TS 119 495 clause 4.4 allocated to a payment service provider and containing the information as specified in ETSI TS 119 495 clause 5.2.1. This information SHALL be obtained directly from the national competent authority register for payment services or from an information source approved by a government agency, regulatory body, or legislation for this purpose. This information SHALL be validated by being matched directly or indirectly (for example, by matching a globally unique registration number) against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4. The stated address of the organisation combined with the organization name SHALL NOT be the only information used to disambiguate the organisation.”
 
-**—MOTION ENDS—**
+## -MOTION ENDS
 
-\*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at:
 
-[https://github.com/cabforum/documents/compare/Ballot-SC17—Alternative-registration-numbers-for-EV-certificates?diff=unified&expand=1][1]
+[https://github.com/cabforum/documents/compare/Ballot-SC17-Alternative-registration-numbers-for-EV-certificates?diff=unified&expand=1][1]
 
 Changes since version 5:
 

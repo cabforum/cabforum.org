@@ -1,24 +1,22 @@
 ---
 aliases:
-- /2021-05-13-2021-04-29-minutes-of-the-ca-browser-forum-teleconference/
+- /2021/05/13/2021-04-29-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2021-05-13 21:06:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2021-04-29 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendance 
+## Attendance
 
 Aaron Gable (Let’s Encrypt), Abdul Hakeem Putra (MSC Trustgate), Adrian Mueller (SwissSign), Ali Gholami (Telia), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (DigiCert), Curt Spann (Apple), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority), Natalia Kotliarsky (SecureTrust), Maileen Del Rosario (GoDaddy), Brittany Randall (GoDaddy)
 
-## Minutes 
+## Minutes
 
 Anti-Trust statement read, no changes to the agenda
-
-### 
 
 Infrastructure subcommittee update given by Jos
 
@@ -27,14 +25,10 @@ Infrastructure subcommittee update given by Jos
 1. Started to dig into membership management and the membership spread sheet.
 1. There is some discussion around interested parties and getting their input. Wayne has added information on the site that becoming an interested party is the right way to go about it.
 
-### 
-
 Code Signing Working Group given by Bruce
 
 1. Discussed how timestamping works and whether it is in the charter. Nothing has been resolved yet. Discussion will continue in the working group.
 1. Restore clean up ballot: having some challenges with version control and moving forward.
-
-### 
 
 SMIME working group given by Stephen
 
@@ -43,14 +37,10 @@ SMIME working group given by Stephen
 1. Ongoing discussion related to the SAN field, in particular the use of the other name. This would be related to the legacy profile rather than the strict profile. Continue discussion in calls this upcoming week.
 1. Targeting having a rough draft before the June face-to-face.
 
-### 
-
 June Face to Face
 
 1. Had discussion on different dates and time structure. Will be setting a meeting with working groups to discuss.
 1. One guest speaker has already been found
-
-### 
 
 Any other business?
 

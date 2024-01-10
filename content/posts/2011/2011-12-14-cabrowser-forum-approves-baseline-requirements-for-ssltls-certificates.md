@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2011-12-14-cabrowser-forum-approves-baseline-requirements-for-ssltls-certificates/
+- /2011/12/14/cabrowser-forum-approves-baseline-requirements-for-ssltls-certificates/
 author: Ben Wilson
 date: 2011-12-14 00:00:43
 tags:

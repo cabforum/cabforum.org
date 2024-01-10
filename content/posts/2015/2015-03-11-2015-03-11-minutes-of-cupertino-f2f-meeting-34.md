@@ -1,24 +1,24 @@
 ---
 aliases:
-- /2015-03-11-2015-03-11-minutes-of-cupertino-f2f-meeting-34/
+- /2015/03/11/2015-03-11-minutes-of-cupertino-f2f-meeting-34/
 author: Ben Wilson
 date: 2015-03-11 17:27:45
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 34 Meeting in Cupertino, California, 10-12 March 2015
 type: post
 ---
 
-**Meeting 34 Minutes**
+## Meeting 34 Minutes
 
 Attending at various times over 3 days: Dean Coclin (Symantec), Kirk Hall (Trend Micro), Wayne Thayer (GoDaddy), Robin Alden (Comodo), Michael Whittam (Comodo), Arno Fiedler (representing ETSI), Iñigo Barreira (IZENPE), Rashmi Tabada (Symantec), Tim Hollebeek (Trustwave), Li-Chun Chen (Chunghwa Telecom), Doug Beattie (Globalsign), Atsushi Inaba (Globalsign), Robert Ikeoka (E&Y), Ryan Sleevi (Google), Billy VanCannon (Trustwave), Bruce Morton (Entrust), Gervase Markham (Mozilla), Richard Barnes (Mozilla), Moudrick Dadashov (SSC), Cecilia Kam (Symantec), Jeremy Rowley (Digicert), Ben Wilson (Digicert), Rick Andrews (Symantec), Stephen Davidson (QuoVadis), Richard Wang (WoSign), Mat Caughron (Apple), John Wilander (Apple), Don Sheehy (representing WebTrust), Jeff Ward (representing WebTrust), Kathleen Wilson (Mozilla), Stephen Hillier (Trend Micro), Chris Bailey (Trend Micro), John Noll (Apple), Gigi Wang (Apple), Curt Spann (Apple), Anoosh Saboori (Microsoft), Deron O’Brien (Apple)
 
-**Day 1**
+## Day 1
 
-**Browser Updates**
+## Browser Updates
 
-**Mozilla**
+## Mozilla
 
 Mozilla disabled SSL 3.0 in Firefox 34, which was released on Dec 10, 2014. See SSL 3 disablement bug:
 
@@ -64,7 +64,7 @@ The next CA communication is expected in Q2. Topics may include the items discus
 
 Mozilla plans to discuss CA policy 2.3 in Q2. CA Policy 2.3 potential items: [https://wiki.mozilla.org/CA:CertPolicyUpdates#Consider_for_Version_2.3][2]
 
-**Google**
+## Google
 
 - Exploring creating a security tab in the Chrome developer tools panel to display info for site developers to better explain what’s going on with security on the page
 
@@ -138,9 +138,9 @@ Atilla: we will send another email. Will we get a reply?
 
 Gerv: ‘Almost a promise.’
 
-**Microsoft**
+## Microsoft
 
-**Microsoft Presentation on Revocation**
+## Microsoft Presentation on Revocation
 
 Microsoft presented the group with a slide about some new options for Windows 10. CAs can ask Microsoft to mark their roots with 2 new meta tags:
 
@@ -155,21 +155,21 @@ Microsoft will be collecting telemetry data in Windows 10 related to certificate
 - They will support Root Name Constraints (which will be back ported to Win 7)
 - They will be enabling test mode for root program: (A/B testing). This will allow Root data changes to be rolled out to a subset of the user community to track possible issues. This will only impact a portion of the user community and it can be reversed. This applies to adding Name Constraints, removing roots, and related root level changes.
 
-**Microsoft Presentation on Certificate Reputation**
+## Microsoft Presentation on Certificate Reputation
 
 Using Windows 10 information of SSL certificates will be gathered for those certificates which chain to trusted roots. Administrators will be able to access the information through Bing Web Master tools. The Administrator must go through a process to confirm they have control of the domain names. Through Messages > Security > Certificates, the Administrator can track certificates and report issues for invalid certificates. In the future features will be added to allow certificates to be analyzed and provide automatic reports back. Microsoft cannot map the information to any users, so there is no privacy issue.
 
 More information can be found here, [Certificate Reputation for website owners][3].
 
-**Microsoft Presentation on Code Integrity**
+## Microsoft Presentation on Code Integrity
 
 Drivers submitted for Windows 10 must be kernel mode signed using an EV Code Signing certificate. The drivers must then be submitted through a Microsoft portal to be verified and signed. Microsoft will sign with SHA-1 and SHA-2 to ensure that Vista and Windows 7 will be supported. New drivers which do not meet the new signing requirements will have a failure.
 
 Post meeting note. Windows 7 will support SHA-2 per [Availability of SHA-2 Code Signing Support for Windows 7 and Windows Server 2008 R2][4].
 
-**Working Group Updates**
+## Working Group Updates
 
-**Validation WG**
+## Validation WG
 
 1.Presentation by Richard from WoSign about Intermediate names
 
@@ -271,7 +271,7 @@ Stirred new interest – possible – EV for individuals – nothing for main gr
 
 3. Any other items Inclusion of Inc, LLC – Leave it as is for now – you can drop the INC and LLC for OV certificates No strong interests
 
-**Code Signing WG**
+## Code Signing WG
 
 The Working Group discussed a comment received from the public about the reuse of keys; should they be reused, or should we prevent keys from being used for SSL and Code Signing. We decided that there’s no good way for CAs to track key reuse; the best we can do is to tell customers not to do it in the subscriber agreement.
 
@@ -279,7 +279,7 @@ We also discussed preventing misleading names in Code Signing certs like “Clic
 
 Jeremy said that we have incorporated public comments; once he gets the last few changes in he’ll circulate the doc to the public list. Ryan asked about participation and membership criteria; Dean said we’ll discuss that tomorrow
 
-**Policy WG**
+## Policy WG
 
 Policy working group has been discussing how to organize the baseline requirements in accordance with RFC 3647.
 
@@ -347,7 +347,7 @@ Guidelines for the Issuance And Management Of Extended Validation Code Signing C
 
 The audit criteria can be found at
 
-Don then displayed a matrix showing which WebTrust audits are required for different kinds of CAs (public, government, etc.) who provide different kinds of certificates (SSL, code signing, etc.) See table attached as pdf titled “Audit Matrix.”  [Audit-Matrix][7]
+Don then displayed a matrix showing which WebTrust audits are required for different kinds of CAs (public, government, etc.) who provide different kinds of certificates (SSL, code signing, etc.) See table attached as pdf titled “Audit Matrix.” [Audit-Matrix][7]
 
 This table is based both on WebTrust’s recommendations and the requirements of the browser root programs.
 
@@ -359,7 +359,7 @@ The Forum members then discussed with the auditor representatives how auditors w
 
 The members then discussed with the auditors the best way to update the BRs, EVGL, and other requirements after amendment by ballots – should a new version be posted after every amendment, or only on a periodic basis that incorporates all changes since the last published version. One possibility is to publish a new version at a specific date, such as once a quarter, twice a year, etc. There was also discussion of amending the Bylaws to create a standard Effective Date (such as 30 or 60 days after a ballot is adopted), unless the ballot includes an different Effective Date (earlier or later) to avoid confusion. Kirk Hall said he could draft a Bylaw change once the Forum decides on what time period it wants for publication of new document versions, as well as ballot effective dates.
 
-**Discussion on Wildcard Certificates and 3-year EV Certificates**
+## Discussion on Wildcard Certificates and 3-year EV Certificates
 
 Webhosts use wildcard certs. EV doesn’t allow this.
 
@@ -401,7 +401,7 @@ Chunghwa Telecom finds there is a bug the same as IIS that Qualys SSL Labs tool 
 
 So Chunghwa Telecom requested Microsoft to solve the bug of IIS ASAP through Premium support.
 
-Chunghwa Telecom ** **suggested to make AIA mandatory and browsers must support fetching intermediate certificates through AIA. Supporting AIA will also reduce some web site administrators forget to install intermediate certificates to their server follow CAs or web server’s manuals. (In SSL protocol, SSL servers should send intermediate certificate & SSL certificate to SSL client)
+Chunghwa Telecom \*\* \*\*suggested to make AIA mandatory and browsers must support fetching intermediate certificates through AIA. Supporting AIA will also reduce some web site administrators forget to install intermediate certificates to their server follow CAs or web server’s manuals. (In SSL protocol, SSL servers should send intermediate certificate & SSL certificate to SSL client)
 
 Gerv said that even if Mozilla were to fix AIA chasing there would still be problems with other clients. Ryan said that the newer versions of OpenSSL and Apache have behavior similar to IIS 7, due to server operators failing to configure their servers properly. OpenSSL 1.1.0 will prefer trusted certificates first. Newer versions of Apache will try to build a valid chain. You can still force it to send the chain you want with the old directive, but the default will be to try to construct the ideal chain before sending it. Anoosh said that there are things you can do to force IIS to send a different chain. One thing is to add the unwanted certificate to the “Untrusted Store.” Ryan said another approach is to manually disable the Windows operating system’s trust store and direct it to use a Certificate Trust List (CTL). Robin said that the server operator would still need to ensure that the server is able to trust what it needs to trust.
 
@@ -411,7 +411,7 @@ Ryan added that with the SHA1 deprecation server operators have had trouble deci
 
 \[Additionally, Brian Smith commented separately via email, “It is also possible, and recommended, for the rollover certificate to be added to Firefox’s certificate store. Then Firefox will be able to use it even if IIS doesn’t send it.”\]
 
-**Day 2**
+## Day 2
 
 **Mozilla Demo – Mozilla’s CA Program data in SalesForce** – Kathleen Wilson
 
@@ -431,7 +431,7 @@ Kathleen stressed that this is not ready yet, and that CAs should continue to us
 
 Kathleen hopes to send the upcoming CA Communication email out through SalesForce and collect responses in the SalesForce tool. Next week she hopes to use SalesForce to send out audit reminder emails. SalesForce will let her easily see whose audit info is missing or out of date.
 
-Rick asked if this is intended to be used to see which roots will be in a certain version of NSS? No, Ryan explained that it’s hard to predict what version of NSS a particular root will be included in. The NSS team has their own process for deciding when to include new roots. SalesForce cases have fields to hold data on when a root is first included in NSS. All currently-included roots have that information, and new roots, as they are included, will have the information. See — Columns: “NSS Release When First Included” and “Firefox Release When First Included”.
+Rick asked if this is intended to be used to see which roots will be in a certain version of NSS? No, Ryan explained that it’s hard to predict what version of NSS a particular root will be included in. The NSS team has their own process for deciding when to include new roots. SalesForce cases have fields to hold data on when a root is first included in NSS. All currently-included roots have that information, and new roots, as they are included, will have the information. See - Columns: “NSS Release When First Included” and “Firefox Release When First Included”.
 
 We got into a separate discussion about who was responsible if a CA sold a root to another company. Mozilla policy says CAs need to publish on their web page the audit info for all roots and non-constrained intermediate certs. Even if a root is sold off, the seller is responsible for getting audit info submitted to Mozilla. Kirk asked if action would be taken against the CA if the Root CA couldn’t get a new root owner to respond; Ryan said it would be discussed on the policy group. Jeremy would like to see more enforcement for non-disclosure, because he’s lost customers who didn’t want their intermediates disclosed, and they went to other CAs. Ryan said that in the worst case, intermediate CAs could be revoked via OneCRL and CRLSets if they are not disclosed. Or, he said maybe disclosed intermediate CA certs would become a whitelist. Kathleen and Ryan indicated that they do want to improve compliance.
 
@@ -441,7 +441,7 @@ We discussed SalesForce licenses. They are based on email address and password, 
 
 Ryan said he thought that Chrome would become more aggressive about removing EV treatment if audits are out of date, and he will be able to use SalesForce to easily see audit compliance. Ryan has write access too, so if CAs want to submit any audit information to Mozilla, they can copy Ryan too.
 
-**Certificate Transparency Update: Lessons from rollout, Log status, Future plans, etc**
+## Certificate Transparency Update: Lessons from rollout, Log status, Future plans, etc
 
 Jan 1 is the deadline Google set for all EV certification and is now enforced. July 1 is the deadline for logs’ independence requirements. Non-compliance means Chrome will not show the EV indication (downgrade to DV).
 
@@ -449,7 +449,7 @@ Three independent logging system must be used, one of them being a Google system
 
 None of these are ready now. “Independent” is not well defined. Ryan did indicate that different companies/entities using the same infrastructure such as AWS didn’t count as independent. One company is already using AWS, so use of it by another would not be independent. For clarity, as many entities who want can use AWS can, but CA’s logging to them would only be able to count them as one independent system. TrendMicro was going to use AWS. Jeremy suggested “independent” could mean different government jurisdictions (so all 2 in the US would not be independent.) Ryan didn’t support or deny this one. Ryan’s primary suggestion to help with independence was to require OCSP stapling and then only 2 independent logs are required.
 
-There was also much concern that Google requires 90 days of monitoring, so these alternative systems must actually must start April 1 and pass monitoring to be ready July 1. There is an open question if Akamai will become public. Certly monitoring has not started as of 3/12. ISOC will not be in time. Richard wanted to start one in China, but Ryan warned Google’s monitoring might not make it through the firewall and it must be “globally accessible.” There was a lot of pushing for Google to define what monitoring issues would cause failure. Ryan only repeated RFC 6962 compliance. It appears there are no performance requirements. One example would be response time. People fear Google might have different interpretations than them and then get rejected. At this point it would leave no time to recover. Ryan offered no solutions to this. One issue is 24/7/365 availability. Kirk suggested that Google just setup however many global instances would make them happy and have everybody use them.  Jeremy pointed out that this doesn’t really address some of the problems CT is trying to address – such as being independent from government compulsion. There was discussion about NSLs to compel a certificate to be issued and not logged.
+There was also much concern that Google requires 90 days of monitoring, so these alternative systems must actually must start April 1 and pass monitoring to be ready July 1. There is an open question if Akamai will become public. Certly monitoring has not started as of 3/12. ISOC will not be in time. Richard wanted to start one in China, but Ryan warned Google’s monitoring might not make it through the firewall and it must be “globally accessible.” There was a lot of pushing for Google to define what monitoring issues would cause failure. Ryan only repeated RFC 6962 compliance. It appears there are no performance requirements. One example would be response time. People fear Google might have different interpretations than them and then get rejected. At this point it would leave no time to recover. Ryan offered no solutions to this. One issue is 24/7/365 availability. Kirk suggested that Google just setup however many global instances would make them happy and have everybody use them. Jeremy pointed out that this doesn’t really address some of the problems CT is trying to address – such as being independent from government compulsion. There was discussion about NSLs to compel a certificate to be issued and not logged.
 
 Google’s long term vision is that only TLS 1.2 with OCSP stapling be required. Stapling helps CT for 1. Tracking rejected logs, 2. Offline logging, and 3. Tracking revocation. They also plan to expand CT beyond EV to DV and OV. Name constraint and name redaction must be figured out first. (Chrome downgrades EV certificates with name redaction to DV) Another issue is that they want to eliminate whitelisting certs because EV alone is 200,000 (~760 kB) which is a lot of memory for this function and expanding it to DV and OV would make the list ~1.5 million.
 
@@ -503,7 +503,7 @@ Ryan – That is my concern.
 
 Iñigo – A goal of section 403 is to come forward with a common format of auditor’s report – a template that is similar across Europe. And section 411-3 can be used currently for code signing certificate issuers.
 
-**ETSI Audits**
+## ETSI Audits
 
 Iñigo showed the website and the list, provided only for information, of CABs (Conformity Assessment Bodies) under TS 102 042 Annex E, provided by NABs (National Accreditation Bodies), which specify the requirements for CABs. NABs are listed by the EA – European Accreditation –
 
@@ -521,11 +521,11 @@ Ryan – I would still need to make sure that TUVit is accredited by the German 
 
 Iñigo – The standard is ISO 17065 today and after July 2016 it will be according to EN 319 403 (2 years with intervening surveillance audit).
 
-**eIDAS**
+## eIDAS
 
 eIDAS was published in 2014. It includes an EU Trust Mark for qualified services – this will allow certified European TSPs to use a trustmark.
 
-**RFC 3647**
+## RFC 3647
 
 When the CP working group started we were concerned about new sections with new methods because 411-1 incorporates the CA/B Forum requirements. It’s a problem because we need 9 months to incorporate changes into ETSI standards. Iñigo said that he had provided mapping tables.
 
@@ -550,8 +550,8 @@ Kirk reviewed his memo sent to the forum, available in the Management list archi
 1. Recap of Prior Ballots
 
 - EVGL requires $2m CGL insurance + $5m professional liability/E&O insurance (2008) for EV certs
-- Ballot 121 (May 2014) to delete the requirement — passes among CAs, fails among browsers
-- Ballot 133 (October 2014) updates insurance requirements to be more relevant to CA activities — passes among CAs, fails among browsers
+- Ballot 121 (May 2014) to delete the requirement - passes among CAs, fails among browsers
+- Ballot 133 (October 2014) updates insurance requirements to be more relevant to CA activities - passes among CAs, fails among browsers
 - Ballot 141 (Jan. 2015) eliminates EV insurance requirement, adds financial responsibility requirement – CAs must retain some amount of potential liability for mis-issued certs as follows (EVGL and BR Sec. 18):
 
 Cert Type Current minimum retained liability (per Subscriber or Relying Party per EV Certificate) Proposed minimum retained liability per Subscriber or Relying Party per EV Certificate DV $0 $2,000 OV $0 $5,000 EV $2,000 $10,000
@@ -562,7 +562,7 @@ Fails among CAs, passes among browsers
 
 2. Possible Changes (some or all of the following)
 
-- Eliminate current EV insurance requirements (EVGL Sec. 18), have no insurance requirements - Modify/improve current insurance requirements, maybe extend to DV and OV certs. In the alternative, just require CAs to disclose what insurance they have - Add financial responsibility requirements (All certs? Only EV certs? o Require that CAs retain some liability (i.e., can’t disclaim 100% of legal responsibility). Actual liability (if any) for misissuance would still be determined by applicable national law o Require that CAs maintain some minimum capital o In the alternative, just require that CAs disclose if they have disclaimed liability, what their asset level is (this would require standardized language, location in CPS) - Some combination of the above - Take no action (leave current EV insurance requirements in place)
+- Eliminate current EV insurance requirements (EVGL Sec. 18), have no insurance requirements • Modify/improve current insurance requirements, maybe extend to DV and OV certs. In the alternative, just require CAs to disclose what insurance they have • Add financial responsibility requirements (All certs? Only EV certs? o Require that CAs retain some liability (i.e., can’t disclaim 100% of legal responsibility). Actual liability (if any) for misissuance would still be determined by applicable national law o Require that CAs maintain some minimum capital o In the alternative, just require that CAs disclose if they have disclaimed liability, what their asset level is (this would require standardized language, location in CPS) • Some combination of the above • Take no action (leave current EV insurance requirements in place)
 
 - Dean asked if we should take a straw poll
 
@@ -705,7 +705,7 @@ Ryan: I think this is coupled to the issue of producing Code Signing BRs. There 
 
 Kirk: I won’t take this further.
 
-**Public list access**
+## Public list access
 
 Ryan: propose that after an initial 1 time moderation, anyone can post to the public list. Maybe have a small bylaw amendment that says “don’t be a jerk.” Disruptive members go back to being moderated.
 
@@ -741,7 +741,7 @@ Bruce said that when SSL pre-validation there is of less of a value for CAA (at 
 
 The recommendation was that we revisit this again in the fall when we get together.
 
-**DV/OV/EV Certificates, Wildcards, Appropriate use, and OIDs**
+## DV/OV/EV Certificates, Wildcards, Appropriate use, and OIDs
 
 Certificate policy OIDs for DV and OV certificates are not set to the BR policy OIDs. The issue is it is hard for third parties (such as relying parties) to determine which certificate are DV and which are OV. Browsers do not require this distinction.
 
@@ -761,9 +761,9 @@ Concerns discussed were:
 
 There did not seem a lot of support to pursue this issue at this time, but Dean stated he would bring it up again in the future.
 
-**Discuss F2F Meeting 35 in Zurich June 23-25 and F2F Meeting 36 in Istanbul Week of October 5**
+## Discuss F2F Meeting 35 in Zurich June 23-25 and F2F Meeting 36 in Istanbul Week of October 5
 
-**Meeting adjourned**
+## Meeting adjourned
 
 [1]: https://wiki.mozilla.org/CA:ImprovingRevocation#Preload_Revocations_of_Intermediate_CA_Certificates
 [2]: https://wiki.mozilla.org/CA:CertPolicyUpdates#Consider_for_Version_2.3

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2011-12-15-ballot-63-adopt-ipr-policy/
+- /2011/12/15/ballot-63-adopt-ipr-policy/
 author: Ben Wilson
 date: 2011-12-15 00:11:00
 tags:

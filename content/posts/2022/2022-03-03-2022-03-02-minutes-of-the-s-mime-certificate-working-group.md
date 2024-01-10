@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-03-03-2022-03-02-minutes-of-the-s-mime-certificate-working-group/
+- /2022/03/03/2022-03-02-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-03-03 20:44:00
 tags:
@@ -10,31 +10,31 @@ title: 2022-03-02 Minutes of the S/MIME Certificate Working Group 
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 March 2, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Ashish Dhiman (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Cade Cairns (Google), Clint Wilson (Apple), Corey Bonnell (Digicert), Daniel Zens (GlobalTrust), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Eusebio Herrera (AC Camerfirma SA), Fotis Loukos (Google), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Joanna Fox (TrustCor Systems), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Mauricio Fernandez (TeleTrust), Mrugesh Chandarana (IdenTrust), Nick France (Sectigo), Patrycja Tulinska (PSW Group), Pekka Lahtiharju (Telia Company), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Russ Housley (Russ Housley), Stefan Selbitschka (runQuadrat), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Crawford (CPA Canada/WebTrust), Wendy Brown (US Federal PKI Management Authority)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the February 16 teleconference were approved. The minutes from the F2F will be separately distributed.
 
-### 5. Discussion 
+### 5. Discussion
 
 Clint Wilson raised a question regarding the new “MX record method” described in Section 3.2.2.3 of the draft . Namely that text was proposed with the thought that the Applicant would be an email service provider. Client questioned whether an variant method would be desired or useful if an individual Applicant or even another service provider (rather than an email service provider) might want to use MX records to establish control.
 
@@ -58,11 +58,11 @@ Stephen noted that he believed that certificates issued via an Enterprise RA sho
 
 The draft the S/MIME Baseline Requirements is available at
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, March 16, 2022 at 11 a.m. US Eastern.
 

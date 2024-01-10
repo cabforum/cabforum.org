@@ -1,18 +1,17 @@
 ---
 aliases:
-- /2014-02-19-2014-02-19-minutes-of-mountain-view-f2f/
+- /2014/02/19/2014-02-19-minutes-of-mountain-view-f2f/
 author: Ben Wilson
 date: 2014-02-19 18:14:10
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 31 Meeting in Mountain View, California, 18-20 February
   2014
 type: post
 ---
 
-**Meeting 31 Minutes – Mountain View Face-to-Face
-**
+**Meeting 31 Minutes – Mountain View Face-to-Face**
 
 The antitrust statement was read.
 
@@ -22,7 +21,7 @@ Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno F
 
 ## Day 1
 
-**Wednesday, 19 February 2014**
+## Wednesday, 19 February 2014
 
 ### Browser News
 
@@ -42,9 +41,9 @@ Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno F
 
 #### Google Chrome (Ryan Sleevi)
 
-1.  Google is transitioning away from NSS to an OpenSSL stack except on Windows and Android. Chrome on Windows will continue with CryptoAPI. The effect of moving to OpenSSL for certificates will be the use of the OpenSSL parsing rules. There is no special UI for bridge certificates, but the chain building engine supports them.
+1. Google is transitioning away from NSS to an OpenSSL stack except on Windows and Android. Chrome on Windows will continue with CryptoAPI. The effect of moving to OpenSSL for certificates will be the use of the OpenSSL parsing rules. There is no special UI for bridge certificates, but the chain building engine supports them.
 
-2. Google will be improving programmatic enforcement of the Baseline Requirements.
+1. Google will be improving programmatic enforcement of the Baseline Requirements.
 
 1. CT requirements will be discussed later
 
@@ -54,13 +53,13 @@ Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno F
 
 1. Microsoft published its SHA-1 announcement.
 
-2. The first step will be removal of 1024-bit certificates in March with a Windows update. Another update to be issued in June will remove more roots. One criterion in moving forward will be how quickly CAs respond to Microsoft’s notice. By the end of 2014 there will be no more 1024 roots.
+1. The first step will be removal of 1024-bit certificates in March with a Windows update. Another update to be issued in June will remove more roots. One criterion in moving forward will be how quickly CAs respond to Microsoft’s notice. By the end of 2014 there will be no more 1024 roots.
 
-3. Microsoft will also begin to programmatically enforce the Baseline Requirements in 2014. Tom is contacting CAs directly. After 2014, MS will rule out the exceptions and “throw the switch”.
+1. Microsoft will also begin to programmatically enforce the Baseline Requirements in 2014. Tom is contacting CAs directly. After 2014, MS will rule out the exceptions and “throw the switch”.
 
-4. By April 2015, Windows will no longer accept non-BR-compliant certificates.
+1. By April 2015, Windows will no longer accept non-BR-compliant certificates.
 
-5. Microsoft will be focusing on certificate hygiene and checking things, like making sure no end entity certificates are issued from roots.
+1. Microsoft will be focusing on certificate hygiene and checking things, like making sure no end entity certificates are issued from roots.
 
 ### SHA1 Sunsetting / Grandfathering Strategy
 
@@ -78,7 +77,7 @@ Brian: With TLS 1.2, the client can send the server a list of algorithms it supp
 
 Robin: We cannot, however, partition the Internet into different zones – SHA1 vs. SHA2.
 
-Dean:  How does this work on the browser side?
+Dean: How does this work on the browser side?
 
 Brian: In Firefox, the user gets a warning that says, “we cannot verify that this was issued by a trusted issuer.” Then we let users click through it – we basically treat it as an invalid signature.
 
@@ -94,13 +93,13 @@ Ben: Regardless of whether all of the browsers implement SHA1 sunsetting, there 
 
 Chris: As a general rule, we seem to have a double sunset. We take a date to our customers, and they start to implement it. Then our customers come back to us with news about their problems, or their customers’ problems. And then through an organic process we come up with a grandfather policy.
 
-Wayne:  I wonder if we should be setting deadlines at this point. Microsoft has a date and a time next year at which to re-evaluate the policy, and then we have our users and a security policy we’re trying to implement without breaking things, so that is when we should evaluate between breaking things and the sunset.
+Wayne: I wonder if we should be setting deadlines at this point. Microsoft has a date and a time next year at which to re-evaluate the policy, and then we have our users and a security policy we’re trying to implement without breaking things, so that is when we should evaluate between breaking things and the sunset.
 
 Brian: If we wait too long, then we’ll have some CAs who have the situation under control and those that don’t. Then, if things change, those CAs who have handled the transition responsibly will feel they are being treated unfairly. For instance, a CA issuing a certificate without OCSP could sell certificates more cheaply in violation of the rules. By June 2015, we need to be able to say that we have identified all of the potential issues.
 
 Chris: We need to have a process for future migrations. So, if Microsoft says, “we need to move over to this specification, but until customers begin to feel the pain, we don’t know what all of the issues are. Then, when they complain, we give them a temporary, 1-year reprieve while a better solution is developed.
 
-Brian: We should definitely consider shortening the lifetimes of SHA1 certificates—they shouldn’t be longer than a year. So, we need to put into the Baseline Requirements a maximum lifetime for a certificate with a SHA1 signature.
+Brian: We should definitely consider shortening the lifetimes of SHA1 certificates-they shouldn’t be longer than a year. So, we need to put into the Baseline Requirements a maximum lifetime for a certificate with a SHA1 signature.
 
 Bob: We’re trying to reduce our risk, because we want to reduce the number of certificates with SHA1 and the negative impact that will occur when it is known that SHA1 is insecure.
 
@@ -150,9 +149,9 @@ Ben: Whatever we do should not allow customers or other CAs wiggle out by not ha
 
 Wayne: What I’ve heard here today has changed my opinion, instead of assuming that all CAs are smart enough not to issue SHA1 certificates that expire after January 1, 2017, we should have a policy that says starting January 1, 2015, you’re not allowed to issue a certificate with a SHA1 algorithm that expires after January 1, 2017. When I read Microsoft policy, that’s what I get, but that’s not really what it says. Maybe that is a way to move it forward.
 
-Brian: That’s almost exactly what I recommended that Firefox do, except I said 2014. I don’t see why we should keep accepting certificates after there has been time for CAs to adjust, that have a validity period that ends after January 1, 2017.  If CAs say they need 6 months, to implement some changes before they are ready to do that, then that type of policy is very reasonable, not just for CA/B Forum to put in the BRs, but for browsers to start enforcing that on January 1, 2015.
+Brian: That’s almost exactly what I recommended that Firefox do, except I said 2014. I don’t see why we should keep accepting certificates after there has been time for CAs to adjust, that have a validity period that ends after January 1, 2017. If CAs say they need 6 months, to implement some changes before they are ready to do that, then that type of policy is very reasonable, not just for CA/B Forum to put in the BRs, but for browsers to start enforcing that on January 1, 2015.
 
-Doug: I prefer to not set a certain date because when you’re selling certificates, it is hard to set the price for an 18-month or 20-month certificate. I think that we set maximum validity periods on certain dates. For instance, say April 2014 is a 2-year max validity SHA1 certificate, but not an end date—it’s easier to program for a 2-year or a 1-year certificate.
+Doug: I prefer to not set a certain date because when you’re selling certificates, it is hard to set the price for an 18-month or 20-month certificate. I think that we set maximum validity periods on certain dates. For instance, say April 2014 is a 2-year max validity SHA1 certificate, but not an end date-it’s easier to program for a 2-year or a 1-year certificate.
 
 Wayne: My interpretation the way I hear what you are saying is after January 1, 2015, with my system is that I will no longer be able to sell a SHA1 Certificate to a customer for more than 1 year. But at the same time, other CAs might have different systems, but they are stuck with that.
 
@@ -178,7 +177,7 @@ Dean: It’s not because we are trying to sell SHA1 certificates, it is that cus
 
 Bob: The point is that you have to stop selling three-year SHA1 certificates.
 
-Doug:  Not necessarily. They can get a replacement certificate for free, only it’s a SHA2. At their leisure, they can upgrade to a SHA256.
+Doug: Not necessarily. They can get a replacement certificate for free, only it’s a SHA2. At their leisure, they can upgrade to a SHA256.
 
 Rick: Clearly, after January 1, 2017, we cannot sell a SHA1 certificate of any duration. Our current path is best. We sell them a three-year SHA2 certificate. If they come back and say they need a SHA1 certificate, we give them a three-year SHA1 certificate, and we tell them, at some point, you’ll probably need to switch back to the SHA2 certificate.
 
@@ -202,7 +201,7 @@ Ryan: This pushes support to the browsers because when a site operator does not 
 
 Moudrick: We need a date for not issuing them and we need a date for not recognizing them.
 
-Ryan: That’s why we need these dates—to balance these burdens.
+Ryan: That’s why we need these dates-to balance these burdens.
 
 Dean: The Microsoft policy has two dates. It says stop issuing SHA1 on 1 January 2016 and that on 1 January 2017 it will stop recognizing SHA1 certificates.
 
@@ -291,7 +290,7 @@ The WG Mailing list exists. If you didn’t get the notes, please let Wayne Thay
 
 ### RFC 3647 Working Group report
 
-Jeremy: we have the format, but there are certain members who question whether it’s worth pursuing due to already having our established format. CABF guidelines traditionally focused on validation (nothing else) — 90% validation.
+Jeremy: we have the format, but there are certain members who question whether it’s worth pursuing due to already having our established format. CABF guidelines traditionally focused on validation (nothing else) - 90% validation.
 
 It was suggested that we use sections 4-5-6 from the NIST document and put that into our guideline documents.
 
@@ -301,7 +300,7 @@ Much of it is security related.
 
 **Two main takeaways:** 1. Find out from broad group if we want to convert to 3647 or give up and leave alone (convert, map, or do nothing) 2. Should we create a group like the security practices group and take a look at NIST document, find things that we haven’t addressed, and put those items into the CABF’s format?
 
-Tom: Yes. It would be good to have a mapping between ETSI and RFC 3647.  Then we go back to the NIST document and just lift out what we want (would meet requirement).
+Tom: Yes. It would be good to have a mapping between ETSI and RFC 3647. Then we go back to the NIST document and just lift out what we want (would meet requirement).
 
 Ben: That’s where we left it. What does the big group think?
 
@@ -317,7 +316,7 @@ Ryan Sleevi: +1 to that.
 
 ### Code Signing Working Group report
 
-Dean:  The CS WG reviewed the current draft and the comments received from Microsoft. A big item remaining is deciding on the High-Risk Database, which would be accessible to all CAs, containing information about high-risk applicants, which CAs would be required to check. There are issues such as: how should it be populated with data, who should run/operate the database, how would blacklisted applicants be able to dispute blacklisting?
+Dean: The CS WG reviewed the current draft and the comments received from Microsoft. A big item remaining is deciding on the High-Risk Database, which would be accessible to all CAs, containing information about high-risk applicants, which CAs would be required to check. There are issues such as: how should it be populated with data, who should run/operate the database, how would blacklisted applicants be able to dispute blacklisting?
 
 The CS BRs also have a concept of three strikes. On each strike, a subscriber’s key storage requirements are elevated – after the first strike, the user must store keys in a FIPS/Common-Criteria-certified cryptomodule, after the second strike, there would be additional requirements, etc.
 
@@ -347,19 +346,19 @@ Dean: We want to get this out for public review, because we need feedback from s
 
 Jeremy Rowley presented the report for the EV Guidelines (EVGL) Working Group. The group is addressing roughly ten areas in the EVGL for clarification or improvements, none of which is ready yet for action by the Forum. These include the following issues:
 
-- For EV Code Signing – clarification is needed as to whether an EV Code Signing certificate must have or can’t have domains in the SANs field. A ballot for this issue is almost ready.
+• For EV Code Signing – clarification is needed as to whether an EV Code Signing certificate must have or can’t have domains in the SANs field. A ballot for this issue is almost ready.
 
-- Rewriting EVGL 11.13 concerning the age of data and how long it can be used before revetting.
+• Rewriting EVGL 11.13 concerning the age of data and how long it can be used before revetting.
 
-- Finding alternatives to confirmation of a business’s telephone number now that more and more businesses are dropping land lines, but there are no reliable directories for VOIP or mobile numbers. (In Norway, all land lines may be eliminated over the next five years.)
+• Finding alternatives to confirmation of a business’s telephone number now that more and more businesses are dropping land lines, but there are no reliable directories for VOIP or mobile numbers. (In Norway, all land lines may be eliminated over the next five years.)
 
-- Reexamining the three roles of Contract Signer, Certificate Requester, and Certificate Approver to avoid confusion, and possibly combining certain roles.
+• Reexamining the three roles of Contract Signer, Certificate Requester, and Certificate Approver to avoid confusion, and possibly combining certain roles.
 
-- Possible modification to the current insurance requirements for CAs, which do not always translate well outside North America.
+• Possible modification to the current insurance requirements for CAs, which do not always translate well outside North America.
 
-- Restoring the ability under the EVGL to authorize use of domains by parents, subsidiaries, and affiliates of a company to which the domain is registered in [WhoIs][1]. (This explicit permission used to be in EVGL 11.6, but was inadvertently dropped by the ballot which allowed use of the automatic domain control method for EV – by cross-referencing to the BRs, certain previous EVGL language was dropped by accident.)
+• Restoring the ability under the EVGL to authorize use of domains by parents, subsidiaries, and affiliates of a company to which the domain is registered in [WhoIs][1]. (This explicit permission used to be in EVGL 11.6, but was inadvertently dropped by the ballot which allowed use of the automatic domain control method for EV – by cross-referencing to the BRs, certain previous EVGL language was dropped by accident.)
 
-- Possible addition to the EVGL of the BR rule that allows reissue of a previously vetted certificate with the same expiration date as the original certificate to apply to EV certificates as well.
+• Possible addition to the EVGL of the BR rule that allows reissue of a previously vetted certificate with the same expiration date as the original certificate to apply to EV certificates as well.
 
 The EV Guidelines Working Group will continue to meet every other week, and will present additional ballots to the Forum soon.
 
@@ -397,69 +396,69 @@ Ben suggested we think about these things again when we discuss the Network Secu
 
 ### WebTrust and Review ‘Network and Certificate System Security’
 
-- We reviewed Don’s auditor comments on the Network and Certificate System Security Requirements NCSSR) document
+• We reviewed Don’s auditor comments on the Network and Certificate System Security Requirements NCSSR) document
 
-- Dean asked what Don’s comments will be used for – will the guidance be used by the auditor? Don – yes
+• Dean asked what Don’s comments will be used for – will the guidance be used by the auditor? Don – yes
 
-- Ben presented his responses to Don’s comments. He gave an example of the requirement that all accounts, applications, services, protocols, and port that are not in use should be disabled. Ben proposed a blacklist instead.
+• Ben presented his responses to Don’s comments. He gave an example of the requirement that all accounts, applications, services, protocols, and port that are not in use should be disabled. Ben proposed a blacklist instead.
 
-- Don agreed with Ben
+• Don agreed with Ben
 
-- Ryan said that “default deny’ whitelists are better at dealing with threats that constantly adapt
+• Ryan said that “default deny’ whitelists are better at dealing with threats that constantly adapt
 
-- Ben moved on to the weekly change review. Don’s comment is that a week skipped would be an audit finding.
+• Ben moved on to the weekly change review. Don’s comment is that a week skipped would be an audit finding.
 
-- Robin – do we need a more general requirement – less prescriptive?
+• Robin – do we need a more general requirement – less prescriptive?
 
-- Wayne asked Don if a qualified NCSSR audit would mean a failed Webtrust audit. Don said the NCSSR audit will be part of baseline, so a problem with an NCSSR requirement would qualify a baseline audit, but not necessarily a regular Webtrust audit.
+• Wayne asked Don if a qualified NCSSR audit would mean a failed Webtrust audit. Don said the NCSSR audit will be part of baseline, so a problem with an NCSSR requirement would qualify a baseline audit, but not necessarily a regular Webtrust audit.
 
-- Wayne said that missing a minor prescriptive requirement would cause a qualified audit, which is essentially failing, from my perspective. And even if a qualification did not remove you from the root store, you would have to go around and explain the qualification to each of the browsers.
+• Wayne said that missing a minor prescriptive requirement would cause a qualified audit, which is essentially failing, from my perspective. And even if a qualification did not remove you from the root store, you would have to go around and explain the qualification to each of the browsers.
 
-- Robin said it’s not a failure, it’s just a qualification.
+• Robin said it’s not a failure, it’s just a qualification.
 
-- Don said his concern is about the time-sensitive requirements. An example of alternative language might be something like, “on a timely basis, normally within 24 hours.” Auditors wouldn’t normally create new prescriptive requirements in audit requirements, but we are relying on you as users of the audit.
+• Don said his concern is about the time-sensitive requirements. An example of alternative language might be something like, “on a timely basis, normally within 24 hours.” Auditors wouldn’t normally create new prescriptive requirements in audit requirements, but we are relying on you as users of the audit.
 
-- Robin said that less prescriptive requirements lead to the use of “weasel words” like “normally”
+• Robin said that less prescriptive requirements lead to the use of “weasel words” like “normally”
 
-- Don – For example, you have a requirement for the CA to terminate all administrative access within 24 hours of termination, where 48 hours might be just as good.
+• Don – For example, you have a requirement for the CA to terminate all administrative access within 24 hours of termination, where 48 hours might be just as good.
 
-- Ben said that there was a debate about this when the NCSSRs were balloted and the more prescriptive language was chosen
+• Ben said that there was a debate about this when the NCSSRs were balloted and the more prescriptive language was chosen
 
-- Don – another example is where you say “lockout account access to Certificate Systems after no more than five (5) failed access attempts”
+• Don – another example is where you say “lockout account access to Certificate Systems after no more than five (5) failed access attempts”
 
-- Dean said that we should keep the prescriptive language and let the CA explain it to root programs
+• Dean said that we should keep the prescriptive language and let the CA explain it to root programs
 
-- Ryan agreed, stating that he’d rather see more audit findings
+• Ryan agreed, stating that he’d rather see more audit findings
 
-- Ben moved on to a discussion of the requirement for patching every 6 months.
+• Ben moved on to a discussion of the requirement for patching every 6 months.
 
-- Robin gave the example of an air-gapped offline CA system that is only touched once per year as a cause for an audit finding.
+• Robin gave the example of an air-gapped offline CA system that is only touched once per year as a cause for an audit finding.
 
-- Jeremy said that the requirement was for a record of the decision not to install an update to be recorded. That would not generate an audit finding even for an untouched offline system as long as the decision is made for each update.
+• Jeremy said that the requirement was for a record of the decision not to install an update to be recorded. That would not generate an audit finding even for an untouched offline system as long as the decision is made for each update.
 
-- Doug asked what constitutes a vulnerability? Ryan said that the MITRE database is the industry standard.
+• Doug asked what constitutes a vulnerability? Ryan said that the MITRE database is the industry standard.
 
-- Ben moved on to the requirement that passwords ‘are not a dictionary word’ that Don commented on being non-auditable. Ben said that’s fine because the NIST document is actually stricter and the current wording allows the CA to create a password policy that is at least equivalent. The CA security document is similar to the NIST proposal in this, except the NIST proposal just states begins this section by saying that organizations should have a password policy. So, we could adopt the NIST approach of saying, all CAs should have a password policy, and good policies consist of the following…
+• Ben moved on to the requirement that passwords ‘are not a dictionary word’ that Don commented on being non-auditable. Ben said that’s fine because the NIST document is actually stricter and the current wording allows the CA to create a password policy that is at least equivalent. The CA security document is similar to the NIST proposal in this, except the NIST proposal just states begins this section by saying that organizations should have a password policy. So, we could adopt the NIST approach of saying, all CAs should have a password policy, and good policies consist of the following…
 
-- Ben moved to discussion of the requirement to restrict remote administration or access. Don said that this requirement eliminates the use of floating IP addresses. Ben said that he didn’t think we wanted people running CAs from coffee shops. IP addresses can be in a set range or specified. Or if a VPN or other product doesn’t provide functionality, then maybe that should be looked at. If it results in a qualified audit, then the CA can explain it. Don said that the CA would have to document exceptions with evidence.
+• Ben moved to discussion of the requirement to restrict remote administration or access. Don said that this requirement eliminates the use of floating IP addresses. Ben said that he didn’t think we wanted people running CAs from coffee shops. IP addresses can be in a set range or specified. Or if a VPN or other product doesn’t provide functionality, then maybe that should be looked at. If it results in a qualified audit, then the CA can explain it. Don said that the CA would have to document exceptions with evidence.
 
-- Ryan asked why have the external IP address requirement. Dean read the provision out loud about multifactor authentication. Ryan said that from the perspective of a global company like Google, that it does not appear to be an effective mitigation technique against state-sponsored attacks—but they have everything else in place—device certificates, authentication and encryption, tunneling, and audit logging, etc. but the external IP doesn’t seem to matter as much. Google is moving away from it.
+• Ryan asked why have the external IP address requirement. Dean read the provision out loud about multifactor authentication. Ryan said that from the perspective of a global company like Google, that it does not appear to be an effective mitigation technique against state-sponsored attacks-but they have everything else in place-device certificates, authentication and encryption, tunneling, and audit logging, etc. but the external IP doesn’t seem to matter as much. Google is moving away from it.
 
-- Ben moved to discussion of ‘Security Support System under the control of CA…’ and said that Don is interpreting it more broadly than intended. Don says that the people running the monitoring systems need to be in trusted roles. Ben thought the language was reducing the scope.
+• Ben moved to discussion of ‘Security Support System under the control of CA…’ and said that Don is interpreting it more broadly than intended. Don says that the people running the monitoring systems need to be in trusted roles. Ben thought the language was reducing the scope.
 
-- Ben reviewed the requirement that minimizes the scope of changes to things the CA determines to be “significant”. Don stated that the burden of proof is on CAs for what is “significant.”
+• Ben reviewed the requirement that minimizes the scope of changes to things the CA determines to be “significant”. Don stated that the burden of proof is on CAs for what is “significant.”
 
-- Ryan said that what constitutes a “security patch” is generally designated as part of the vulnerability announcement. “Recommended” presumes that it is by the application vendor. Microsoft, Chrome and Mozilla are usually clear about when they designate a patch as “security relevant” and Mozilla gets a CVE assignment from Mitre.
+• Ryan said that what constitutes a “security patch” is generally designated as part of the vulnerability announcement. “Recommended” presumes that it is by the application vendor. Microsoft, Chrome and Mozilla are usually clear about when they designate a patch as “security relevant” and Mozilla gets a CVE assignment from Mitre.
 
-- Bob said that critical security patch requirements come out for Mozilla at least every 14 days, and DOD says you have to get it patched within 30 days or CyberCom will shut you down.
+• Bob said that critical security patch requirements come out for Mozilla at least every 14 days, and DOD says you have to get it patched within 30 days or CyberCom will shut you down.
 
-- Ryan said this section could benefit from additional clarity that it refers to Mitre, which is who maintains the CVE database.
+• Ryan said this section could benefit from additional clarity that it refers to Mitre, which is who maintains the CVE database.
 
-- Don said that CAs need to document all of these compliance explanations as they occur before the auditor shows up.
+• Don said that CAs need to document all of these compliance explanations as they occur before the auditor shows up.
 
-- Dean asked if Don’s comments and/or audit guidance would be shared with CAs to help them comply with the audit requirements, and Don said, “yes.”
+• Dean asked if Don’s comments and/or audit guidance would be shared with CAs to help them comply with the audit requirements, and Don said, “yes.”
 
-- Ben said that he had written an article for ISSA Journal that people will read and hopefully we’ll receive more input from information security professionals on this.
+• Ben said that he had written an article for ISSA Journal that people will read and hopefully we’ll receive more input from information security professionals on this.
 
 ### EV Verification Tasks performed by attorneys, accountants, local registration authorities, site visit companies, etc.
 
@@ -498,7 +497,7 @@ Richard Wang presented several options to consider for the fall face-to-face mee
 
 Dean Coclin read a summary of the agenda item saying that there are some other organizations that have their own requirements and policy OIDs, which we should discuss.
 
-Ben Wilson: When going forward with the Guidelines sometimes we need to be aware of other organizations—for instance, with the domain component provision, if we say it one way, and then it’s contradictory, then we have to go back and change it. These organizations include the government, the IETF, and grid federations that may have different policies, and there are conflicting layers, and we need to try to move something forward to agree something in this regard.
+Ben Wilson: When going forward with the Guidelines sometimes we need to be aware of other organizations-for instance, with the domain component provision, if we say it one way, and then it’s contradictory, then we have to go back and change it. These organizations include the government, the IETF, and grid federations that may have different policies, and there are conflicting layers, and we need to try to move something forward to agree something in this regard.
 
 Rick Andrews: The CABF was the group dictating the policies and formats for SSL certificates, but a customer might show up with a need to interoperate with the Federal Bridge, asking “I need an SSL certificate and it has to work in the Federal Bridge” so, now, which set of guidelines do I need to follow? It is possible conflict. As a practical point at the profile level, I have to create an intermediate and end entity to follow the BR policy and also the Federal Bridge. Or, the other option, I can have just one that fits both specifications and at some point in the chain you can insert a new policy OID. Then what about the browsers? Will they complain?
 
@@ -538,7 +537,7 @@ Ben Wilson: How can we work toward consensus on requirements in this area? The b
 
 Ryan Sleevi: In the cross certificate policy, each party has one way trust. We will recognize this. The bridge will cross certify you; you won’t cross certify the bridge. The root programs include the public trusted roots. Each of those has its own policies. How do we resolve those conflicts? The BRs can support that issue.
 
-Ben Wilson: On the technical side, there’s a conflict, someday in the future we will have to address this topic — the cross certificate model.
+Ben Wilson: On the technical side, there’s a conflict, someday in the future we will have to address this topic - the cross certificate model.
 
 Ryan Sleevi: I am not concerned about it, but for the public internet I have to raise my hand.
 
@@ -564,7 +563,7 @@ Ryan Sleevi: yes. Check the EV OID that is validated. Section 9.1 for domain val
 
 ## Day 2
 
-**Thursday, 20 February 2014**
+## Thursday, 20 February 2014
 
 ### CT and Google Requirements Discussion
 
@@ -608,11 +607,11 @@ Ben Laurie: Obviously the only immediate plan is for EV, but we intend to extend
 
 Rick Andrews: In my opinion, EV was created by the CAB Forum, and I was wondering if you’re going to bring your idea to require CT for EV to a vote in the CAB Forum?
 
-Ryan: So while I recognize that EV was created within the CAB Forum, what has been established in the CAB Forum is a set of auditing requirements and governing principles that govern EV, including Webtrust for EV and equivalent auditing standards to determine compliance with that. But if you approach a root program and say you have a Webtrust audit, that fact in itself is not going to get you into a root program. There are a series of other checks. For example, if you approach Mozilla with that, you are going to go through a public review, and you’re going to go through a series of document checks by Mozilla staff and later go to public review and discussion. If you approach Microsoft, you’ll have their program requirements. While EV Guidelines set the auditing framework, there is an additional set that goes on to enable EV. As I mentioned on a call previously, CT represents an auditable framework. So existing audit criteria essentially have a Webtrust or ETSI-accredited auditor go into your organization, examining your certificate practices, your CPS, ensuring that your CPS aligns with the stated EV policies, and if so, signs an attestation to an assertion. It is clear that while it is helpful, we’ve seen that such a point-in-time audit does not address the sorts of issues that affect trust online. We’ve had multiple incidents, and we’ve all seen how it comes about—for example, sometimes it’s well-intentioned, but mistakes will occur in a change configuration system. We want to provide the capability for the public who relies on these certificates to actually be able to audit these certificates, to be deserving of that trust. So that is why in our view CT is an additional set of requirements, similar to the EV Guidelines. Whether they are folded into the EV Guidelines, we’re not pressing on this point. We realize that there are deployment hurdles, and that is why we’re working with CAs in the Forum to better understand CA concerns on the technical engineering side, but the overall goal is to provide a publicly auditable detection framework, so that any CA operating in this heightened trust mode can be verified.
+Ryan: So while I recognize that EV was created within the CAB Forum, what has been established in the CAB Forum is a set of auditing requirements and governing principles that govern EV, including Webtrust for EV and equivalent auditing standards to determine compliance with that. But if you approach a root program and say you have a Webtrust audit, that fact in itself is not going to get you into a root program. There are a series of other checks. For example, if you approach Mozilla with that, you are going to go through a public review, and you’re going to go through a series of document checks by Mozilla staff and later go to public review and discussion. If you approach Microsoft, you’ll have their program requirements. While EV Guidelines set the auditing framework, there is an additional set that goes on to enable EV. As I mentioned on a call previously, CT represents an auditable framework. So existing audit criteria essentially have a Webtrust or ETSI-accredited auditor go into your organization, examining your certificate practices, your CPS, ensuring that your CPS aligns with the stated EV policies, and if so, signs an attestation to an assertion. It is clear that while it is helpful, we’ve seen that such a point-in-time audit does not address the sorts of issues that affect trust online. We’ve had multiple incidents, and we’ve all seen how it comes about-for example, sometimes it’s well-intentioned, but mistakes will occur in a change configuration system. We want to provide the capability for the public who relies on these certificates to actually be able to audit these certificates, to be deserving of that trust. So that is why in our view CT is an additional set of requirements, similar to the EV Guidelines. Whether they are folded into the EV Guidelines, we’re not pressing on this point. We realize that there are deployment hurdles, and that is why we’re working with CAs in the Forum to better understand CA concerns on the technical engineering side, but the overall goal is to provide a publicly auditable detection framework, so that any CA operating in this heightened trust mode can be verified.
 
 Rick: So you gave an explanation of why the current audit also needs this public audit, and I don’t have an argument with that. I was simply asking why not put it to a vote in the CAB Forum before coming up with a unilateral plan to force CAs to do this.
 
-Ryan: Because we’ve seen that when presented to the CAB Forum, while we can certainly appreciate the multi-stakeholder nature of it, it is certainly not in the interests of some CAs. It is not in their interest—their business interests are not aligned entirely with our security goals for our users. Our first and foremost goal as an application vendor is the security of our users, and we’ll continue to act on that. And we also recognize that the CAB Forum is a very slow-moving organization—e.g., the SHA1 discussion with the CAB Forum and whether the action of an application vendor has been sufficient. So CT is another example of a vendor acting unilaterally, and we can see that some CAs prefer that approach.
+Ryan: Because we’ve seen that when presented to the CAB Forum, while we can certainly appreciate the multi-stakeholder nature of it, it is certainly not in the interests of some CAs. It is not in their interest-their business interests are not aligned entirely with our security goals for our users. Our first and foremost goal as an application vendor is the security of our users, and we’ll continue to act on that. And we also recognize that the CAB Forum is a very slow-moving organization-e.g., the SHA1 discussion with the CAB Forum and whether the action of an application vendor has been sufficient. So CT is another example of a vendor acting unilaterally, and we can see that some CAs prefer that approach.
 
 So regardless, we’re going to continue to act in the interests of our users and ensure that their needs are met, and we believe CT aligns with that, and we see CT as going forward regardless of a vote, and we want to understand the concerns, and develop something workable for CAs, and later take it to a vote, but as an application vendor we are willing to take that risk and act unilaterally.
 
@@ -640,7 +639,7 @@ Iñigo: Going back to Rick’s question, if this is going to be somehow included
 
 Ryan: Just like RFC 5280 and X.509, that is why work is proceeding in the IETF.
 
-Arno: It is like in the ETSI Algo document, we recommend stronger cryptography—that’s state of the art. But you are introducing new techniques of doing PKI, which is a fundamental change for security systems which is a procedural change that we need to be careful with when it is implemented by trust service providers. The 12-month time frame is a problem, and we need security advice – is there a university or external authority that will make a statement about whether the level of security is increased by CT?
+Arno: It is like in the ETSI Algo document, we recommend stronger cryptography-that’s state of the art. But you are introducing new techniques of doing PKI, which is a fundamental change for security systems which is a procedural change that we need to be careful with when it is implemented by trust service providers. The 12-month time frame is a problem, and we need security advice – is there a university or external authority that will make a statement about whether the level of security is increased by CT?
 
 Ryan: I point to the IETF, and Ben L. can give you some resources.
 
@@ -658,7 +657,7 @@ Ben L. can comment on the actual size of CT, but as discussed in the SSL perform
 
 Ben W: Rob Stradling had asked about how many proofs needed to be included, and in what situations might fewer proofs be needed. Oh, I see you already have a chart available. So, I guess we need to understand more about the number of SCTs required and what is the size of the SCT and the overall impact of additional overhead.
 
-Ben L.: It’s around 100 bytes. Rob Stradling has proposed some potential size reductions that I’d be happy to look into that during the revision of the RFC. I suppose we could get it down to about 70 bytes, or something like that. With the TLS extension and OCSP stapling, we only require one SCT because those can be dynamically updated, unlike certificates, obviating the requirement for multiple SCTs initially (so that if a log does go bad, we don’t end up cancelling half the certificates in the world as a result of it). The secondary consideration is that the more SCT you have, or are required to have, the more difficult it is for a bad guy to issue a certificate that looks validate but is not, because the more logs there will be that they will have to subvert—which currently is not a factor, but might be considered in the future
+Ben L.: It’s around 100 bytes. Rob Stradling has proposed some potential size reductions that I’d be happy to look into that during the revision of the RFC. I suppose we could get it down to about 70 bytes, or something like that. With the TLS extension and OCSP stapling, we only require one SCT because those can be dynamically updated, unlike certificates, obviating the requirement for multiple SCTs initially (so that if a log does go bad, we don’t end up cancelling half the certificates in the world as a result of it). The secondary consideration is that the more SCT you have, or are required to have, the more difficult it is for a bad guy to issue a certificate that looks validate but is not, because the more logs there will be that they will have to subvert-which currently is not a factor, but might be considered in the future
 
 Ryan: I do want to highlight that this is not new. We have announced this requirement previously, and I want to take the opportunity now and in the coming weeks to revisit these program requirements.
 
@@ -674,7 +673,7 @@ Wayne: Commercial software takes time to be updated, and I don’t understand it
 
 Arno: The security regulation of OCSP systems in Germany may require nine months before changes can be made, and that is common.
 
-Ryan: On the matter of OCSP stapling, there are a number of CAs who have pointed out that they are pre-signing OCSP responses, so there is an opportunity to incorporate CT into that pipeline—the OCSP serving infrastructure is already capable of delivering these SCTs.
+Ryan: On the matter of OCSP stapling, there are a number of CAs who have pointed out that they are pre-signing OCSP responses, so there is an opportunity to incorporate CT into that pipeline-the OCSP serving infrastructure is already capable of delivering these SCTs.
 
 Rick: Ben L., the IETF is a slow deliberative process where they favor building consensus. It seems to me that this spec has gone from experimental to being required at breathtaking speed, which speaks to Arno’s point, and I think it’s dangerous, but is this within the IETF working model?
 
@@ -692,7 +691,7 @@ Ben W.: Before you create an actual certificate, you create the pre-certificate 
 
 Doug: It looks like the hash of the pre-certificate isn’t actually of the certificate you are issuing. So, when you go to validate it, it looks like you’re looking at one certificate, but you have an SCT for a different certificate. What’s the relationship between those?
 
-Ryan: The way it works on the client side, the client takes the certificate with SCTs and removes the SCT extension. Then it does the DER encoding of it as a TBS certificate to compare the TBS certificate hash and match it against the hash of what was sent to the SCT log. So, the client does not need to reconstruct any signatures, it reconstructs the data that was signed—similar to what it already does when verifying a certificate signature when its checks the TBS certificate. So, the client does a DER encoding of this modified certificate.
+Ryan: The way it works on the client side, the client takes the certificate with SCTs and removes the SCT extension. Then it does the DER encoding of it as a TBS certificate to compare the TBS certificate hash and match it against the hash of what was sent to the SCT log. So, the client does not need to reconstruct any signatures, it reconstructs the data that was signed-similar to what it already does when verifying a certificate signature when its checks the TBS certificate. So, the client does a DER encoding of this modified certificate.
 
 Question: Where does the poison extension go?
 
@@ -708,11 +707,11 @@ Ryan: Yes. That depends on our discussions later today, in terms of what is an S
 
 Moudrick: In the end, do I have two “duplicate” certificates?
 
-Ryan: You have two certificates with the same name and serial number, but one has a critical poison extension, that should prevent it from being used anywhere. And that relates to the discussion later today on whether the CA/Browser Forum needs to take action on whether the certificate with the poison extension is an SSL certificate according to the Baseline Requirements. That is something for the Forum to determine and that is the discussion that is taking place on the list—it’s a matter of terminology. On the other hand, with a delegated pre-certificate signer, you have two certificates with the same serial number, but they are issued by two different CAs. Also, there is no requirement; you can do it either way.
+Ryan: You have two certificates with the same name and serial number, but one has a critical poison extension, that should prevent it from being used anywhere. And that relates to the discussion later today on whether the CA/Browser Forum needs to take action on whether the certificate with the poison extension is an SSL certificate according to the Baseline Requirements. That is something for the Forum to determine and that is the discussion that is taking place on the list-it’s a matter of terminology. On the other hand, with a delegated pre-certificate signer, you have two certificates with the same serial number, but they are issued by two different CAs. Also, there is no requirement; you can do it either way.
 
 Doug: So, would the other CA have to have the same key, if you are hashing the issuer’s KeyID and the Issuer’s subject DN?
 
-Ryan: RFC 5280 does not require the Issuer DN to be enforced by the client, so the two can be different.  The metadata mechanisms in certificates like DNs and Issuer keys used for chain building, disambiguation, processing cross-certifications, and key rollover are advisory and not mandatory. The pre-certificate issuer can set its key identifier to that of the final issuing CA’s key (or it could be the pre-cert CA’s key), but either way both CAs have to be configured so that the hash of the pre-certificate and the hash of the certificate are not different.
+Ryan: RFC 5280 does not require the Issuer DN to be enforced by the client, so the two can be different. The metadata mechanisms in certificates like DNs and Issuer keys used for chain building, disambiguation, processing cross-certifications, and key rollover are advisory and not mandatory. The pre-certificate issuer can set its key identifier to that of the final issuing CA’s key (or it could be the pre-cert CA’s key), but either way both CAs have to be configured so that the hash of the pre-certificate and the hash of the certificate are not different.
 
 Bob: My concern is that this is the first time that we’d be saying that a duplicate serial number from the CA would be allowed.
 
@@ -724,7 +723,7 @@ Ryan: That is where the pre-cert CA comes into play. We’ve been working with R
 
 Rick: I suspect that our large enterprise customers will be concerned and will want to stay out of the log, but this issue is still open according to the issue tracker.
 
-Ryan: Processing the policy requirement for an SCT will depend on the browser. It is similar to the processing of name constraints. When a name constraint is encountered, do these need to be logged? As mentioned during our discussions yesterday, if you chain to a CA that is name-constrained, there is less concern about what is in the certificate, because you can only hurt yourself. On the client side, we’ll enforce cryptographic requirements, but requirements like self-auditing of 3% of certificates issued, are separate. With SCT enforcement, if the process determines that the CA is not name-constrained, then it can disallow the certificate. However, yesterday it was mentioned that name constraints do not work for certain organization, but I care about those certificates—because the CA presents risk to the Internet, we expect to see those certificates logged.
+Ryan: Processing the policy requirement for an SCT will depend on the browser. It is similar to the processing of name constraints. When a name constraint is encountered, do these need to be logged? As mentioned during our discussions yesterday, if you chain to a CA that is name-constrained, there is less concern about what is in the certificate, because you can only hurt yourself. On the client side, we’ll enforce cryptographic requirements, but requirements like self-auditing of 3% of certificates issued, are separate. With SCT enforcement, if the process determines that the CA is not name-constrained, then it can disallow the certificate. However, yesterday it was mentioned that name constraints do not work for certain organization, but I care about those certificates-because the CA presents risk to the Internet, we expect to see those certificates logged.
 
 Ben L.: We want the Intermediate CA to be logged. Rob Stradling has proposed that for certain pre-certificates the log does not reveal the subject’s name, but it still maps one-to-one to the issued certificate, but I need to look at the security of the proposal some more. Basically it would say, “this is for a private name in this domain,” and the client could just check that, because that would be morally equivalent to a name-constrained CA.
 
@@ -736,7 +735,7 @@ Ben L.: No, you could issue the pre-certificate and log it as “private.example
 
 Ben W.: As we discuss the security and privacy of logs, it seems there may need to be a legal framework developed around the rights, duties and obligations of parties handing the logs, aside from the auditing of log operators that is technical in nature. Does the CAB Forum need to look at these non-technical issues?
 
-Ryan: If you look at Mozilla’s policy concerning repositories, it says that all repositories must be publicly accessible without username/password. That is similar to the approach that we have taken with CT logs—they should be open as a condition of the software that requires and implements them.
+Ryan: If you look at Mozilla’s policy concerning repositories, it says that all repositories must be publicly accessible without username/password. That is similar to the approach that we have taken with CT logs-they should be open as a condition of the software that requires and implements them.
 
 Kirk: Ryan, I have one quick question, does Google’s privacy policy, with its Opt Out provisions, apply to CT? Will it apply to CT?
 
@@ -802,7 +801,7 @@ Ryan: As you look at the issues we continue to see, the domain validation proces
 
 Richard: What about CAA? Google says, “WoSign cannot issue Google.com domain”?
 
-Ryan: We have two methods—pinning and CAA. Public key pinning is already in Google Chrome, but it does not protect any user who does not use Google Chrome. We discussed at a previous CA/Browser Forum face-to-face whether the Forum should mandate CAA by requiring CAs to state their policy concerning CAA in their CP or CPS, but due to misunderstanding by some CAs about CAA or due to differing opinions, did not accept that. However, both of these are inadequate. That is why we have CT—because policy in practice, while good, is not perfect, and CT provides technical means.
+Ryan: We have two methods-pinning and CAA. Public key pinning is already in Google Chrome, but it does not protect any user who does not use Google Chrome. We discussed at a previous CA/Browser Forum face-to-face whether the Forum should mandate CAA by requiring CAs to state their policy concerning CAA in their CP or CPS, but due to misunderstanding by some CAs about CAA or due to differing opinions, did not accept that. However, both of these are inadequate. That is why we have CT-because policy in practice, while good, is not perfect, and CT provides technical means.
 
 Richard: If CT says “anyone can submit a certificate to the log,” what about someone submitting a mis-issued certificate?
 

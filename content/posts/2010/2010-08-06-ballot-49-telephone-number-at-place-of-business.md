@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-08-06-ballot-49-telephone-number-at-place-of-business/
+- /2010/08/06/ballot-49-telephone-number-at-place-of-business/
 author: Ben Wilson
 date: 2010-08-06 20:46:53
 tags:
@@ -16,13 +16,12 @@ Motion
 
 Rich Smith made the following motion, endorsed by Ben Wilson and Bruce Morton (note: for a “red-line” version, see email from Rich Smith on 12 July):
 
-— Motion begins —
+## Motion begins
 
 EFFECTIVE IMMEDIATELY,
 
-— Erratum begins —
-
-A. RENAME the following Sections as follows:
+- Erratum begins
+  A. RENAME the following Sections as follows:
 
 Section 8.3 (Maximum Validity Period) to “8.3 Technical Requirements”
 
@@ -102,9 +101,8 @@ Section 13.3.2(3) to Section 10.13.1(5) so that it reads as follows:
 
 H. DELETE Section 13.3 (Reuse and Updating Information and Documentation) and RENUMBER Section 13.4 (Data Security) to Section 13.3 and make subsequent numbering changes to Section 13.3 Data Security accordingly.
 
-— Erratum ends —
-
-The ballot review period comes into effect at 2100 UTC on 23 July ’10 and will close at 2100 UTC on 30 July ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 6 Aug ’10.
+- Erratum ends
+  The ballot review period comes into effect at 2100 UTC on 23 July ’10 and will close at 2100 UTC on 30 July ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 6 Aug ’10.
 
 Votes must be cast by “reply all’ to this email.
 
@@ -112,4 +110,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-— Motion ends —
+## Motion ends

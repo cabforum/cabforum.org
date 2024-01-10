@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-04-02-ballot-148-issuer-field-correction/
+- /2015/04/02/ballot-148-issuer-field-correction/
 author: Ben Wilson
 date: 2015-04-02 17:27:30
 tags:
@@ -22,14 +22,9 @@ Several votes were received after the ballot closed and were not counted. Full d
 
 Ballot 148 resulted in the adoption of [BRv1.2.5][1]
 
-**Ballot 148 – Issuer Field Correction (Rev 1)
-**
+**Ballot 148 – Issuer Field Correction (Rev 1)**
 
-\___\___\___\___\___\___\___\___\___\___\___\___\_\_\_\_
-
-**Reason**
-
-\___\___\___\___\___\___\___\___\___\___\___\___\_\_\_\_
+## Reason
 
 The issuer field language in Section 9.1 of the Baseline Requirements confuses two issues:
 
@@ -41,11 +36,7 @@ To clarify the issue, and ensure proper name chaining, this ballot fixes the iss
 
 Doug Beattie of GlobalSign made the following motion, which was endorsed by Jeremy Rowley of DigiCert and Richard Wang of WoSign.
 
-\___\___\___\___\___\___\___\___\___\___\___\___\_\_\_\_
-
-**Motion begins**
-
-\___\___\___\___\___\___\___\___\___\___\___\___\_\_\_\_
+## Motion begins
 
 1. Replace Section 9.1 with the following:
 
@@ -65,7 +56,7 @@ The content of the Certificate Issuer Distinguished Name field MUST match the Su
 
 1. In Appendix B (Certificate Content and Extensions), Item (1) Root CA Certificates, add
 
-**E. Subject Information**
+## E. Subject Information
 
 The Certificate Subject MUST contain the following
 
@@ -75,7 +66,7 @@ The Certificate Subject MUST contain the following
 
 8. In Appendix B (Certificate Content and Extensions), Item (2) Subordinate CA Certificate, add
 
-**H. Subject Information**
+## H. Subject Information
 
 The Certificate Subject MUST contain the following
 
@@ -83,11 +74,7 @@ The Certificate Subject MUST contain the following
 
 – organizationName (OID 2.5.4.10). This field MUST contain the name (or abbreviation thereof), trademark, or other meaningful identifier for the CA, provided that they accurately identify the CA. The field MUST NOT contain exclusively a generic designation such as “CA1”.
 
-\___\___\___\___\___\___\___\___\___\___\___\___\_\_\_\_
-
-**Motion Ends**
-
-\___\___\___\___\___\___\___\___\___\___\___\___\_\_\_\_
+## Motion Ends
 
 The review period for this ballot shall commence at 2200 UTC on 19 Mar 2015, and will close at 2200 UTC on 26 Mar 2015. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 2 Apr 2015. Votes must be cast by posting an on-list reply to this thread.
 

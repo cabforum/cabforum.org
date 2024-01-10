@@ -1,46 +1,46 @@
 ---
 aliases:
-- /2022-08-11-2022-08-11-minutes-of-the-code-signing-certificate-working-group/
+- /2022/08/11/2022-08-11-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2022-08-11 16:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2022-08-11 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Atsushi Inaba, Bruce Morton, Corey Bonnell, Dean Coclin, Ian McMillan, Lynn Jeun, Martijn Katerbarg, Michael Sykes, Tomas Gustavsson
 
-## Minutes 
+## Minutes
 
 - Anti-Trust Statement read by Dean
 - Prior meeting minutes fron July 28, 2022 are approved without objection or comment.
 
-### CSC-15 Ballot Status 
+### CSC-15 Ballot Status
 
 - Voting period closed and Dean will be announcing the results.
 - Next steps to send out for IPR.
 
-### Signing Service Proposed Ballot Update 
+### Signing Service Proposed Ballot Update
 
 - Bruce is waiting for the CSC-15 ballot to clear before proceeding.
 - Suggested changes need to be merged using Bruce’s Word markup to a GitHub PR.
 
-### Timestamping Updates 
+### Timestamping Updates
 
 - Ian waiting on talking with Tim Hollebeek to incorporate his feedback on changes (Tim back next week).
 - Looking at setting clear expectations on TSA CA protection requirements being offline and shortening the TSA entity certificate max validity period.
 
-### Malware Proposal from Martijn 
+### Malware Proposal from Martijn
 
 - Further discussion with Bruce lead to changes in the removal of exceptions for not having to notify the subscriber when the Certificate Beneficiary reaches out on a key compromise scenario. This is invoked in both 4.9.1.1 and 4.9.1.3.
 - Martijn is waiting on feedback from Ian on the new updates before proceeding with the ballot proposal. In general Ian is feeling this is on the right track, but will follow up with detailed feedback.
 - Martijn will be posting the proposal to both the mailing list and on the GitHub
 
-### Handling changes in the future (GitHub vs Mailing List + marked-up Word) 
+### Handling changes in the future (GitHub vs Mailing List + marked-up Word)
 
 - Do we hold the conversation on the PRs in GitHub or on the Mailing List?
 - There is no convention right now.
@@ -50,7 +50,7 @@ Atsushi Inaba, Bruce Morton, Corey Bonnell, Dean Coclin, Ian McMillan, Lynn Jeun
 - Larger or broader changes can be harder to view in its totality on GitHub.
 - No conclusion, discussion will continue.
 
-### Chair/Vice-Chair Elections Coming Up 
+### Chair/Vice-Chair Elections Coming Up
 
 - Dean to put out an announcement in the next week or 2 weeks (must be before August 30, 2022).
 - Vice-Chair election will be first, followed by the Chair.

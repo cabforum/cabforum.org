@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-07-05-2022-07-05-minutes-of-network-security-working-group/
+- /2022/07/05/2022-07-05-minutes-of-network-security-working-group/
 author: Ben Wilson
 date: 2022-07-05 17:16:00
 tags:
@@ -10,19 +10,19 @@ title: 2022-07-05 Minutes of the Network Security Working Group
 type: post
 ---
 
-Network Security Working Group  –  July 5, 2022
+Network Security Working Group – July 5, 2022
 
 **Antitrust Statement** was read by Clint.
 
-**Roll Call:**  Aaron Poulsen (Amazon), Adam Jones (Microsoft), Ben Wilson (Mozilla), Clint Wilson (Apple), Corey Bonnell (DigiCert), David Kluge (Google), Jillian Karner (Let’s Encrypt), Paul van Brouwershaven (Entrust), Ruben Annemans (GlobalSign), Tim Crawford (CPA Canada/WebTrust), Tobias Josefowitz (Opera Software AS), Tony Seymour (Comsign)
+**Roll Call:** Aaron Poulsen (Amazon), Adam Jones (Microsoft), Ben Wilson (Mozilla), Clint Wilson (Apple), Corey Bonnell (DigiCert), David Kluge (Google), Jillian Karner (Let’s Encrypt), Paul van Brouwershaven (Entrust), Ruben Annemans (GlobalSign), Tim Crawford (CPA Canada/WebTrust), Tobias Josefowitz (Opera Software AS), Tony Seymour (Comsign)
 
-**Membership Application Processing:**
+## Membership Application Processing
 
 [SSL.COM](http://SSL.COM) has applied to join the working group. They meet all the requirements and no objections were raised to their joining.
 
 Fastly has applied to join the working group. They are not yet a member of another working group, which is a prerequisite, but assuming their membership application is accepted in the Server Cert Working Group, we would able to have them join here. No objections were raised to having them join as a voting member (instead of interested party), once they’ve been added as a certificate issuer to the Server Cert Working Group.
 
-**Any other business:**
+## Any other business
 
 - David provided an update of the threat model and risk analysis for OCSP responders, identifying mitigating controls for remediation. The group should look at the results, polish, and determine to move onto the next component.
 

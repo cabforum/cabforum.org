@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-12-18-ballot-sc13-caa-contact-property-and-associated-e-mail-validation-methods/
+- /2018/12/18/ballot-sc13-caa-contact-property-and-associated-e-mail-validation-methods/
 author: Wayne Thayer
 date: 2018-12-18 16:46:00
 tags:
@@ -12,7 +12,7 @@ type: post
 
 The voting period for Ballot SC13 has ended and the **Ballot has Passed**. Here are the results:
 
-**Voting by Certificate Issuers – 21 votes total including abstentions**
+## Voting by Certificate Issuers – 21 votes total including abstentions
 
 - **20 Yes votes:** Actalis, Amazon, Camerfirma, Certinomis, Chunghwa Telecom, D-TRUST, DarkMatter, DigiCert, Entrust, GDCA, GlobalSign, GoDaddy, HARICA, OATI, Quovadis, SecureTrust, SHECA, SSL.com, TURKTRUST, Visa
 - **1 No vote:** Sectigo
@@ -20,7 +20,7 @@ The voting period for Ballot SC13 has ended and the **Ballot has Passed**. Here 
 
 95% of voting Certificate Issuers voted in favor.
 
-**Voting by Certificate Consumers – 4 votes total including abstentions**
+## Voting by Certificate Consumers – 4 votes total including abstentions
 
 - **4 Yes votes:** Cisco, Comodo Security Solutions, Microsoft, Mozilla
 - **0 No votes:**
@@ -39,7 +39,7 @@ Under Bylaw 2.3(g), “a ballot result will be considered valid only when more t
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Bruce Morton of Entrust and Doug Beattie of GlobalSign.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.0:
 
@@ -95,13 +95,15 @@ B.2.1. DNS TXT Record Email Contact
 
 The DNS TXT record MUST be placed on the “\_validation-contactemail” subdomain of the domain being validated. The entire RDATA value of this TXT record MUST be a valid email address as defined in RFC 6532 section 3.2, with no additional padding or structure, or it cannot be used.
 
-**— MOTION ENDS —**
+## Motion ends
 
-\*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
-A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4—CAA-CONTACT-email?diff=unified&expand=1](https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1)
+A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4-CAA-CONTACT-email?diff=unified&expand=1](https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1)
 
 The changes between version 5 and version 4 are here:
+
+<https://github.com/cabforum/documents/commit/92dd4a3a9afa38e9abf6765eb19e27508663ae61>
 
 The procedure for approval of this ballot is as follows:
 

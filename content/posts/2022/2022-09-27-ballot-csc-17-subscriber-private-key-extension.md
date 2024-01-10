@@ -1,16 +1,16 @@
 ---
 aliases:
-- /2022-09-27-ballot-csc-17-subscriber-private-key-extension/
+- /2022/09/27/ballot-csc-17-subscriber-private-key-extension/
 author: Corey Bonnell
 date: 2022-09-27 21:00:00
 tags:
 - Code Signing
 - Ballot
-title: 'Ballot CSC-17:  Subscriber Private Key Extension'
+title: 'Ballot CSC-17: Subscriber Private Key Extension'
 type: post
 ---
 
-## Notice of Review Period 
+## Notice of Review Period
 
 (Mailing list post is available [here][1].)
 
@@ -28,25 +28,33 @@ End of Review Period: October 27, 2022 at 5:00pm Eastern Time
 
 Please forward a written notice to exclude Essential Claims to the Forum and Working Group Chair by email to and a copy to the CA/B Forum CSCWG public mailing list [cscwg][4]-public@cabforum.org before the end of the Review Period. See current version of CA/Browser Forum Intellectual Property Rights Policy for details.
 
-## Results of Voting 
+## Results of Voting
 
 | | | | |
 | --- | --- | --- | --- |
 | |
-Yes |
-No |
-Abstain | |
-Certificate Issuers |
-DigiCerteMudhraEntrustGlobalSignSectigoSecureTrust |
+Yes
+|
+No
+|
+Abstain
+|
+|
+Certificate Issuers
+|
+DigiCerteMudhraEntrustGlobalSignSectigoSecureTrust
+|
 HARICA
-| | |
-Certificate Consumers |
+| |
+|
+Certificate Consumers
+|
 Microsoft
 | | |
 
 This ballot has PASSED.
 
-## Purpose of the Ballot 
+## Purpose of the Ballot
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates“ version 3.1 according to the attached redline which includes the change of the effective date of November 15, 2021, to June 1, 2023, subscriber key protection and verification requirements in the following sections:
 
@@ -58,7 +66,7 @@ The change to extend the effective date for these sections regarding subscriber 
 
 The following motion has been proposed by Ian McMillan of Microsoft and endorsed by Tim Hollebeek of DigiCert and Bruce Morton of Entrust.
 
-## Motion 
+## Motion
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” version 3.1 by replacing the entirely of the content of the document with the attached document.
 

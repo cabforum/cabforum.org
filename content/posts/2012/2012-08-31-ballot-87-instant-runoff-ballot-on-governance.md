@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-08-31-ballot-87-instant-runoff-ballot-on-governance/
+- /2012/08/31/ballot-87-instant-runoff-ballot-on-governance/
 author: Ben Wilson
 date: 2012-08-31 04:44:48
 tags:
@@ -12,9 +12,9 @@ type: post
 
 Ballot 87 – Instant Runoff Ballot on Governance
 
-**Instant Runoff Ballot on Governance**
+## Instant Runoff Ballot on Governance
 
-**Voting by instant-runoff**
+## Voting by instant-runoff
 
 17 Members Voted
 
@@ -52,7 +52,7 @@ Ballot 87 – Instant Runoff Ballot on Governance
 
 **Google**: PayPal, DigiCert, TrendMicro, No Change, Microsoft
 
-**Runoff Results**
+## Runoff Results
 
 **Round 1** – Trend Micro 7, DigiCert 5, PayPal 4, Microsoft 1, No Change 0
 
@@ -64,19 +64,19 @@ Ballot 87 – Instant Runoff Ballot on Governance
 
 **Result**: Proposals of Trend Micro and DigiCert will proceed to further vote.
 
-**Ballot 87 Text**
+## Ballot 87 Text
 
 This is an instant run-off ballot to eliminate all but two of the following proposals (listed in alphabetical order):
 
-- DigiCert Proposal
+• DigiCert Proposal
 
-- Microsoft Proposal
+• Microsoft Proposal
 
-- No Change Proposal
+• No Change Proposal
 
-- PayPal Proposal
+• PayPal Proposal
 
-- Trend Micro Proposal
+• Trend Micro Proposal
 
 Each voting member may assign the numbers 1 to 5 to the proposals in order of preference (1 indicating their most preferred choice).
 

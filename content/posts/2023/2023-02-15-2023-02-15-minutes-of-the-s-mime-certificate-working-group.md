@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-02-15-2023-02-15-minutes-of-the-s-mime-certificate-working-group/
+- /2023/02/15/2023-02-15-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-02-15 02:02:05
 tags:
@@ -42,8 +42,8 @@ Ben Wilson noted that Mozilla would most likely allow the use of EdDSA by CAs bu
 
 Stephen displayed draft text clarifying the Enterprise RA role described in Section 1.3.2.1. [https://github.com/srdavidson/smime/commit/49bacdf09b3bb3b27a78ece305ec08987cbd026f][1] The draft lays out that:
 
-- The Enterprise RA may request `Mailbox-validated`, `Organization-validated` or `Sponsor-validated` profiles to email domains they control (i.e., “internal”) using Section 3.2.2.1 (TLS BR methods) or Section 3.2.2.3 (DNS method)
-- The Enterprise RA may request  `Mailbox-validated` profiles for email domains they do NOT control (i.e., “external”) with the CA using Section 3.2.2.2 (mailbox control). This is not strictly an Enterprise RA function – but the WG wanted to indicate that Enterprise RAs should use this lightweight profile for external users.
+- The Enterprise RA may request \`Mailbox-validated\`, \`Organization-validated\` or \`Sponsor-validated\` profiles to email domains they control (i.e., “internal”) using Section 3.2.2.1 (TLS BR methods) or Section 3.2.2.3 (DNS method)
+- The Enterprise RA may request \`Mailbox-validated\` profiles for email domains they do NOT control (i.e., “external”) with the CA using Section 3.2.2.2 (mailbox control). This is not strictly an Enterprise RA function – but the WG wanted to indicate that Enterprise RAs should use this lightweight profile for external users.
 
 Don Sheehy noted that a first version of the WebTrust standard had been approved and they hoped to have it published by the beginning of April. He noted that Certificate Issuers could contact David Chin at CPA Canada f they wished to see that draft. Stephen noted that ETSI was now working on a similar set of criteria, with goal of getting to final document by May. Clint Wilson asked if the Certificate Consumers could see the draft before it was made final.
 

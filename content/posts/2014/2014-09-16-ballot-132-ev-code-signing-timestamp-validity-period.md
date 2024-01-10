@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-09-16-ballot-132-ev-code-signing-timestamp-validity-period/
+- /2014/09/16/ballot-132-ev-code-signing-timestamp-validity-period/
 author: Ben Wilson
 date: 2014-09-16 15:28:25
 tags:
@@ -20,17 +20,17 @@ Voting on Ballot 132 (amending the EV Code Signing Timestamp Validity Period) cl
 
 1. Time stamps are used not just to time-stamp code, but other objects, such as signed financial reports and other digital objects.
 
-3 The EV Guidelines and some government archival systems require that signatures be capable of automatic verification for approximately ten years.
+1. The EV Guidelines and some government archival systems require that signatures be capable of automatic verification for approximately ten years.
 
-4. When the EV Guidelines for code signing were developed, it was thought that a 123-month period would provide a three-month cushion (120 months plus 3). But because the BRs for Code Signing anticipate that a new key pair will be cycled every 15 months, then a 15-month period should be added to the 10-year TSA certificate validity, not just for code signing, but for all other uses where those extra months can add a longer period for automatic validation of the time-stamp. This would equal 135 months (120 months plus 15).
+1. When the EV Guidelines for code signing were developed, it was thought that a 123-month period would provide a three-month cushion (120 months plus 3). But because the BRs for Code Signing anticipate that a new key pair will be cycled every 15 months, then a 15-month period should be added to the 10-year TSA certificate validity, not just for code signing, but for all other uses where those extra months can add a longer period for automatic validation of the time-stamp. This would equal 135 months (120 months plus 15).
 
 1. A longer validity period for the TSA certificate is also justified because the requirement of a new key pair every 15 months will reduce the risk severity due to a key compromise.
 
-1. There are additional reasons to allow a longer period, including from Japan, the time-stamping regulations of the METI pursuant to Article 435 of the Japanese Companies Act, subsection 2 (Preparation and Retention of Financial Statements, etc.), subsection 4 (financial schedules to be retained for ten years from the time of preparation). See
+1. There are additional reasons to allow a longer period, including from Japan, the time-stamping regulations of the METI pursuant to Article 435 of the Japanese Companies Act, subsection 2 (Preparation and Retention of Financial Statements, etc.), subsection 4 (financial schedules to be retained for ten years from the time of preparation). See <http://www.dekyo.or.jp/tb/english/index.html>
 
 Steve Roylance of Globalsign made the following motion and Ben Wilson of Digicert and Rob Stradling of Comodo endorsed it:
 
-–Motion Begins —
+–Motion Begins -
 
 In Sections 8.2.1 and 9.4 of the EV Code Signing Guidelines replace “one hundred and twenty three months” with “one hundred and thirty five months” (in three places in each section) as follows:
 
@@ -54,10 +54,10 @@ When a platform encounters a certificate that fails to validate due to revocatio
 
 Code may be signed at any point in the development or distribution process, either by a software publisher or a user organization. Signed code may be verified at any time, including during: download, unpacking, installation, reinstallation, or execution, or during a forensic investigation. Subscribers may obtain an EV Code Signing Certificate with a validity period not exceeding thirty-nine months. Timestamp Authorities and Signing Authorities may obtain an EV Timestamp Certificate or EV Code Signing Certificate (respectively) with a validity period not exceeding one hundred and thirty five twenty three months. The validity period for an EV Code Signing Certificate issued to a Subscriber MUST NOT exceed thirty-nine months. The validity period for an EV Code Signing Certificate issued to a Signing Authority that fully complies with these Guidelines MUST NOT exceed one hundred and thirty five twenty three months. The validity period for an EV Timestamp Certificate issued to a Timestamp Authority that fully complies with these Guidelines MUST NOT exceed one hundred and thirty five twenty three months.
 
-— Motion Ends —
+- Motion Ends -
 
 The review period for this ballot shall commence at 2100 UTC on Tuesday, 2 September 2014, and will close at 2100 UTC on Tuesday, 9 September 2014. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on Tuesday, 16 September 2014. Votes must be cast by posting an on-list reply to this thread.
 
-A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about/membership/members/](/about/membership/members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Also, at least seven members must participate in the ballot, either by voting in favor, voting against, or abstaining.

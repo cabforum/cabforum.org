@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-12-29-ballot-22-rsa-1024-retirement/
+- /2008/12/29/ballot-22-rsa-1024-retirement/
 author: Ben Wilson
 date: 2008-12-29 18:54:37
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Robin Alden made the following motion, and Steve Medin and Moudrick Dadashov endorsed it.
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended in accordance with the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Delete Appendix A and replace it with the following.
 
@@ -39,67 +31,101 @@ Appendix A Minimum Cryptographic Algorithm and Key Sizes
 | | | |
 | --- | --- | --- |
 | |
-Root Certificates whose validity period begins on or before 31 Dec 2010 |
-Root Certificates whose validity period begins after 31 Dec 2010 | |
-Digest algorithm |
-MD5 (NOT RECOMMENDED),SHA-1 |
-SHA-1\*, SHA-256, SHA-384 or SHA-512 | |
-RSA |
-2048† |
-2048 | |
-ECC |
-NIST P-256 |
-NIST P-256 |
+Root Certificates whose validity period begins on or before 31 Dec 2010
+|
+Root Certificates whose validity period begins after 31 Dec 2010
+|
+|
+Digest algorithm
+|
+MD5 (NOT RECOMMENDED),SHA-1
+|
+SHA-1\*, SHA-256, SHA-384 or SHA-512
+|
+|
+RSA
+|
+2048†
+|
+2048
+|
+|
+ECC
+|
+NIST P-256
+|
+NIST P-256
+|
 
 2. Subordinate CA Certificates
 
 | | | |
 | --- | --- | --- |
 | |
-Subordinate CA Certificates whose validity period begins on or before 31 Dec 2010 |
-Subordinate CA Certificates whose validity period begins after 31 Dec 2010 | |
-Digest algorithm |
-SHA-1 |
-SHA-1\*, SHA-256, SHA-384 or SHA-512 | |
-RSA |
-1024 |
-2048 | |
-ECC |
-NIST P-256 |
-NIST P-256 |
+Subordinate CA Certificates whose validity period begins on or before 31 Dec 2010
+|
+Subordinate CA Certificates whose validity period begins after 31 Dec 2010
+|
+|
+Digest algorithm
+|
+SHA-1
+|
+SHA-1\*, SHA-256, SHA-384 or SHA-512
+|
+|
+RSA
+|
+1024
+|
+2048
+|
+|
+ECC
+|
+NIST P-256
+|
+NIST P-256
+|
 
 3. Subscriber Certificates
 
 | | | |
 | --- | --- | --- |
 | |
-Subscriber Certificates whose validity period ends on or before 31 Dec 2010 |
-Subscriber Certificates whose validity period ends after 31 Dec 2010 | |
-Digest algorithm |
-SHA-1 |
-SHA1\*, SHA-256, SHA-384 or SHA-512 | |
-RSA |
-1024 |
-2048 | |
-ECC |
-NIST P-256 |
-NIST P-256 |
+Subscriber Certificates whose validity period ends on or before 31 Dec 2010
+|
+Subscriber Certificates whose validity period ends after 31 Dec 2010
+|
+|
+Digest algorithm
+|
+SHA-1
+|
+SHA1\*, SHA-256, SHA-384 or SHA-512
+|
+|
+RSA
+|
+1024
+|
+2048
+|
+|
+ECC
+|
+NIST P-256
+|
+NIST P-256
+|
 
 † A Subscriber Certificate may, in addition, chain to an EV-enabled \<2048-bit key RSA root CA certificate.
 
 - SHA-1 SHOULD be used only until SHA-256 is supported widely by browsers used by a substantial portion of relying parties worldwide.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 18.00 EST on Monday 15th December, and will close at 18.00 EST on Monday 22nd December. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 18.00 EST on Monday 29th December.
 

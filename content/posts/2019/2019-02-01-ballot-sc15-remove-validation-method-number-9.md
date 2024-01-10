@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-02-01-ballot-sc15-remove-validation-method-number-9/
+- /2019/02/01/ballot-sc15-remove-validation-method-number-9/
 author: Wayne Thayer
 date: 2019-02-01 03:04:17
 tags:
@@ -34,11 +34,11 @@ a “yes” vote by two-thirds of Certificate Issuer votes and 50%-plus-one Cert
 at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was also met.
 Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting was **9**, so quorum was **10 votes** – quorum was met
 
-**Purpose of Ballot:**  Method 9, Test Certificate, is insecure when web hosting platforms use a single IP address for more than one Domain Name, so this method must not be used.
+**Purpose of Ballot:** Method 9, Test Certificate, is insecure when web hosting platforms use a single IP address for more than one Domain Name, so this method must not be used.
 
 The following motion has been proposed by Doug Beattie of GlobalSign and endorsed by Bruce Morton of Entrust Datacard and Ryan Sleevi of Google.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.2:
 
@@ -46,11 +46,11 @@ Replace the content of section 3.2.2.4.9 with:
 
 This method has been retired and MUST NOT be used. Prior validations using this method and validation data gathered according to this method SHALL NOT be used to issue certificates.
 
-**— MOTION ENDS —**
+## Motion ends
 
-\*\** WARNING ***: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
-A comparison of the changes can be found at: [https://github.com/dougbeattie/documents/compare/master…dougbeattie:SC15—Remove-Method-9](https://github.com/dougbeattie/documents/compare/master...dougbeattie:SC15---Remove-Method-9)
+A comparison of the changes can be found at: [https://github.com/dougbeattie/documents/compare/master…dougbeattie:SC15-Remove-Method-9](https://github.com/dougbeattie/documents/compare/master...dougbeattie:SC15---Remove-Method-9)
 
 The procedure for approval of this ballot is as follows:
 

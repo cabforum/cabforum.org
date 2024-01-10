@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2018-09-06-2018-09-06-minutes-of-ca-browser-forum/
+- /2018/09/06/2018-09-06-minutes-of-ca-browser-forum/
 author: Ben Wilson
 date: 2018-09-06 15:05:29
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2018-09-06 Minutes of CA/Browser Forum
 type: post
 ---

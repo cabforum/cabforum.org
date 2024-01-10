@@ -1,22 +1,22 @@
 ---
 aliases:
-- /2020-12-10-11-12-2020-minutes-of-the-ca-browser-forum-teleconference/
+- /2020/12/10/11-12-2020-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2020-12-10 19:08:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2020-12-11 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Adrian Mueller (SwissSign), Amanda Mendieta (Apple), Andrea Holland (SecureTrust), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Kemmerer (SSL.com), Clint Wilson (Apple), Corey Bonnell (SecureTrust), Christy Berghoff (Federal PKI), Curt Spann (Apple), Daniela Hood (GoDaddy), David Kluge (Google), Dean Coclin (Digicert), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Enrico Entschew (D-TRUST), Hazhar Ismail (MSC Trustgate), Inaba Atsushi (GlobalSign), Janet Hines (SecureTrust), Joanna Fox (GoDaddy), Johnny Reading (GoDaddy), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (Buypass AS), Michelle Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (TrustCor Systems), Niko Carpenter (SecureTrust), Patrick Nohe (GlobalSign), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Rich Smith (Sectigo), Ryan Sleevi (Google), Shelley Brewer (Digicert), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (Digicert), Tobias Josefowitz (Opera Software AS), Wayne Thayer (Mozilla), Wendy Brown (US Federal PKI Management Authority)
 
-## CA/B Forum Meeting Minutes 
+## CA/B Forum Meeting Minutes
 
-### Administrative Updates 
+### Administrative Updates
 
 _Dean Coclin (DigiCert) CA/B Forum Chair_
 
@@ -25,7 +25,7 @@ _Dean Coclin (DigiCert) CA/B Forum Chair_
 - Approval of Face-to-Face 51 minutes
 - No comments. Minutes approved.
 
-### Forum Infrastructure Subcommittee 
+### Forum Infrastructure Subcommittee
 
 _Jos Purvis (Cisco) Subcommittee Chair_
 
@@ -37,7 +37,7 @@ _Jos Purvis (Cisco) Subcommittee Chair_
 - Jim Gorz (GoDaddy) has been preparing to move the mailer host
 - He’ll post a change date once it is available to ensure we do not have discussions or voting periods during the migration to the new host
 
-### Code Signing Certificate Working Group 
+### Code Signing Certificate Working Group
 
 _Dean Coclin (DigiCert) CA/B Forum Chair_
 
@@ -47,7 +47,7 @@ _Dean Coclin (DigiCert) CA/B Forum Chair_
 - If root issued before 2021 and is 2048 key size, can it still be used. Ian McMillan is going to get clarity.
 - Bruce Morton (Entrust) is investigating EV vs. Non-EV requirements in BRs.
 
-### S/MIME Working Group 
+### S/MIME Working Group
 
 _Stephen Davidson (DigiCert), Working Group Chair_
 
@@ -59,7 +59,7 @@ _Stephen Davidson (DigiCert), Working Group Chair_
 - Reviewed data within fields
 - Working on aligning format (table type) with what other working groups are using
 
-### Additional Administrative Updates 
+### Additional Administrative Updates
 
 - Member applications
 - Jos Purvis (Cisco) will follow-up with members requesting to join the CA/B Forum

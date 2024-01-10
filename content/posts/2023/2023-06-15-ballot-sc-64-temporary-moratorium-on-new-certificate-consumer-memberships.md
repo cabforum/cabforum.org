@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-06-15-ballot-sc-64-temporary-moratorium-on-new-certificate-consumer-memberships/
+- /2023/06/15/ballot-sc-64-temporary-moratorium-on-new-certificate-consumer-memberships/
 author: Iñigo Barreira
 date: 2023-06-15 09:06:35
 tags:
@@ -10,25 +10,25 @@ title: 'Ballot SC-64: Temporary Moratorium on New Certificate Consumer Membershi
 type: post
 ---
 
-**Voting Results**
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 19 votes total:
 
-- 7 Issuers voting YES: Actalis, Chunghwa Telecom, iTrusChina, JPRS, SECOM, SSL.com, SwissSign
-- 3 Issuers voting NO: Entrust, Fastly, HARICA
-- 9 Issuers ABSTAIN: D-TRUST, DigiCert, GlobalSign, GoDaddy, Izenpe, Kamu SM, OISTE, Telia Company, Viking Cloud
+- **7 Issuers voting YES:** Actalis, Chunghwa Telecom, iTrusChina, JPRS, SECOM, SSL.com, SwissSign
+- **3 Issuers voting NO:** Entrust, Fastly, HARICA
+- **9 Issuers ABSTAIN:** D-TRUST, DigiCert, GlobalSign, GoDaddy, Izenpe, Kamu SM, OISTE, Telia Company, Viking Cloud
 
-**Certificate Consumers**
+## Certificate Consumers
 
 2 votes total, with no abstentions:
 
-- 2 Consumers voting YES: Google, Mozilla
-- 0 Consumers voting NO
-- 0 Consumers ABSTAIN
+- **2 Consumers voting YES:** Google, Mozilla
+- **0 Consumers voting NO**
+- **0 Consumers ABSTAIN**
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 1. Bylaw 2.3(6) requires:
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-06-05-ballot-124-business-entity-clarification/
+- /2014/06/05/ballot-124-business-entity-clarification/
 author: Ben Wilson
 date: 2014-06-05 18:14:08
 tags:
@@ -52,6 +52,6 @@ A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear r
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-Voting members are listed here:
+Voting members are listed here: [/about/membership/members/](/about/membership/members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and more than one half of the votes cast by members in the browser category must be in favor. Quorum is currently six (6) members– at least six members must participate in the ballot, either by voting in favor, voting against, or by abstaining for the vote to be valid.

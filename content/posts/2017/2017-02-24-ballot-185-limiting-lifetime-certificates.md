@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-02-24-ballot-185-limiting-lifetime-certificates/
+- /2017/02/24/ballot-185-limiting-lifetime-certificates/
 author: Ben Wilson
 date: 2017-02-24 08:06:18
 tags:
@@ -10,27 +10,27 @@ title: Ballot 185 – Limiting the Lifetime of Certificates
 type: post
 ---
 
-**Results on Ballot 185**
+## Results on Ballot 185
 
 The voting period for Ballot 185 has ended. Here are the results.
 
-**Voting by CAs – 25 votes total plus abstentions**
+## Voting by CAs – 25 votes total plus abstentions
 
-1 Yes vote: Let’s Encrypt
+- **1 Yes vote:** Let’s Encrypt
 
-24 No votes: DigiCert, Entrust, AS Sertifitseerimiskeskus, Izenpe, ANF Autoridad de Certificación, Comodo, Certinomis, HARICA, GlobalSign, Quo Vadis, GoDaddy, Actalis, Symantec, Trustwave, CFCA, Secom, TWCA, GDCA, Certum, OATI, Buypass, SHECA, CNNIC, Cisco
+- **24 No votes:** DigiCert, Entrust, AS Sertifitseerimiskeskus, Izenpe, ANF Autoridad de Certificación, Comodo, Certinomis, HARICA, GlobalSign, Quo Vadis, GoDaddy, Actalis, Symantec, Trustwave, CFCA, Secom, TWCA, GDCA, Certum, OATI, Buypass, SHECA, CNNIC, Cisco
 
-3 Abstain: Logius PKI, SwissSign, Chunghwa Telecom
+- **3 Abstain:** Logius PKI, SwissSign, Chunghwa Telecom
 
 4% of CAs voted in favor
 
-**Voting by browsers – 4 votes total plus abstentions**
+## Voting by browsers – 4 votes total plus abstentions
 
-2 Yes votes: Google, Mozilla
+- **2 Yes votes:** Google, Mozilla
 
-2 No votes: Microsoft, Qihoo 360
+- **2 No votes:** Microsoft, Qihoo 360
 
-1 Abstain: Apple
+- **1 Abstain:** Apple
 
 50% of browsers voted in favor
 
@@ -40,7 +40,7 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 Accordingly, the ballot fails.
 
-**Ballot 185 – Limiting the Lifetime of Certificates**
+## Ballot 185 – Limiting the Lifetime of Certificates
 
 The following motion has been proposed by Ryan Sleevi of Google, Inc and
 endorsed by Josh Aas of ISRG and Gervase Markham of Mozilla to introduce
@@ -49,7 +49,8 @@ Policy for the Issuance and Management of Publicly-Trusted Certificates”
 and the “Guidelines for the Issuance and Management of Extended Validation
 Certificates”
 
-— MOTION BEGINS —
+## Motion begins
+
 Modify Section 6.3.2 of the “Baseline Requirements Certificate Policy for
 the Issuance and Management of Publicly-Trusted Certificates” as follows:
 
@@ -109,7 +110,8 @@ Period greater than three hundred and ninety-eight (398) days.
 EV Certificates issued prior to 24 August 2017 MUST NOT have a Validity
 Period greater than twenty seven (27) months.
 “””
-— MOTION ENDS —
+
+## Motion ends
 
 Ballot 185 – Limiting the Lifetime of Certificates
 Status: Final Maintenance Guideline

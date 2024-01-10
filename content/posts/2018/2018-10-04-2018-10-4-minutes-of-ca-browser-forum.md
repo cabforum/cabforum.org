@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2018-10-04-2018-10-4-minutes-of-ca-browser-forum/
+- /2018/10/04/2018-10-4-minutes-of-ca-browser-forum/
 author: Jos Purvis
 date: 2018-10-04 14:56:38
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2018-10-4 Minutes of CA/Browser Forum
 type: post
 ---

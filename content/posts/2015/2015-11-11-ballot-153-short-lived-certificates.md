@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2015-11-11-ballot-153-short-lived-certificates/
+- /2015/11/11/ballot-153-short-lived-certificates/
 author: Ben Wilson
 date: 2015-11-11 23:51:27
 tags:
@@ -10,7 +10,7 @@ title: Ballot 153 – Short-Lived Certificates
 type: post
 ---
 
-**Ballot 153 – Short-Lived Certificates**
+## Ballot 153 – Short-Lived Certificates
 
 Ballot 153, Short-Lived Certificates revision, closed on November 10th 2015.
 The Chair received **26 votes from CAs** in which 04 were in favor, 17 against and 05 abstentions and **05 votes from Browsers** in which 04 were in favor, 01 against and 0 abstention.
@@ -18,7 +18,7 @@ Therefore the ballot fails.
 
 The following motion has been proposed by Jeremy Rowley of DigiCert and endorsed by Ryan Sleevi of Google and Gervase Markham of Mozilla.
 
-— MOTION BEGINS —
+## Motion begins
 
 1. Add/revise the following definitions:
 
@@ -42,7 +42,7 @@ c. authorityInformationAccess With the exception of stapling and Short-Lived Cer
 
 The HTTP URL of the Issuing CA’s OCSP responder MAY be omitted for Short-Lived Certificates containing a cRLDistributionPoints extension or if Subscriber “staples” OCSP responses for the Certificate in its TLS handshakes \[RFC4366\].
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 27 October 2015, and will close at 3 November 2015. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 10 November 2015. Votes must be cast by posting an on-list reply to this thread.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-03-22-special-commendation-to-gervase-markham-2/
+- /2018/03/22/special-commendation-to-gervase-markham-2/
 author: Ben Wilson
 date: 2018-03-22 19:35:45
 title: Special Commendation to Gervase Markham
@@ -19,13 +19,13 @@ It’s been a great privilege for all of us to work with Gerv over the years, an
 
 Thanks, Gerv!
 
-______________________________________________________________________
+## \*\*\*\*\*
 
-**The CA / Browser Forum and its Members**
+## The CA / Browser Forum and its Members
 
-***gratefully extend to***
+## *gratefully extend to*
 
-**Gervase Markham**
+## Gervase Markham
 
 Their heartfelt commendation and appreciation
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-10-28-2020-10-28-minutes-of-the-s-mime-certificate-working-group/
+- /2020/10/28/2020-10-28-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2020-10-28 09:44:50
 tags:
@@ -10,31 +10,31 @@ title: 2020-10-28 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 October 28, 2020
 
 These are the Approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Burkhard Wiegel (Zertificon), Chris Kemmerer (SSL.com), Corey Bonnell (DigiCert), David Kluge (Google), Dean Coclin (DigiCert), Don Sheehy (WebTrust), Hazhar Ismail (MSC Trustgate.com), Hugh Mercer (GlobalSign), India Donald (Federal PKI), James Knapp (Federal PKI), Janet Hines (SecureTrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Markus Wichmann (TeleTrust), Matthias Wiedenhorst (ACAB’c), Morad Abou Nasser (TeleTrust), Patrycja Tulinska (PSW), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Connelly (Federal PKI), Thomas Zermeno (SSL.com), Tim Hollebeek (DigiCert), Tsung-Min Kuo (Chunghwa Telecom), Wendy Brown (Federal PKI)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the October 14 teleconference were approved.
 
-### 5. Discussion of approach and deliverables 
+### 5. Discussion of approach and deliverables
 
 A brief overview was given of the discussion pertaining to the SMCWG held at the CABF virtual face to face on October 20, which included a vote by consensus to confirm Google’s participation as a Certificate Consumer member. The minutes of that session will be included as part of the CABF virtual face to face.
 
@@ -58,11 +58,11 @@ That standard provides that different combinations MAY be used but split keys (s
 
 It was raised that CAs should be encouraged to submit their S/MIME certificate profiles in order to discover practices that vary from the SMCWG discussion. It was noted that another option would be to publish an early version of the SBR that included mandatory disclosure requirements relating to grey areas in our discussions, allowing us to make properly informed decisions and transition dates.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 No other business.
 
-### 7. Next call 
+### 7. Next call
 
 The next call will take place on November 11, 2020 at 11:00am Eastern Time.
 

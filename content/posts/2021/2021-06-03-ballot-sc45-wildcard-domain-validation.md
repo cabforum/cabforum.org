@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-06-03-ballot-sc45-wildcard-domain-validation/
+- /2021/06/03/ballot-sc45-wildcard-domain-validation/
 author: Wayne Thayer
 date: 2021-06-03 21:43:09
 tags:
@@ -10,36 +10,36 @@ title: 'Ballot SC45: Wildcard Domain Validation'
 type: post
 ---
 
-## Voting Results 
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 **22 votes total, with no abstentions**
 
-·        22 Yes votes: Actalis, Buypass, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, D-TRUST, eMudhra, Entrust, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, Kamu SM, Sectigo, SSL.com, SwissSign, Telia Company, TrustCor, SecureTrust, Visa
+· 22 Yes votes: Actalis, Buypass, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, D-TRUST, eMudhra, Entrust, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, Kamu SM, Sectigo, SSL.com, SwissSign, Telia Company, TrustCor, SecureTrust, Visa
 
-·         0 No Votes
+· 0 No Votes
 
-·         0 Abstentions
+· 0 Abstentions
 
-**Certificate Consumers**
+## Certificate Consumers
 
 **5 votes total, with no abstentions**
 
-·       5 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla
+· 5 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla
 
-·       0 No votes
+· 0 No votes
 
-·       0 Abstentions
+· 0 Abstentions
 
-**Bylaw Requirements**
+## Bylaw Requirements
 
 1. Bylaw 2.3(f) requires:
 
-o     A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
+o A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
 _This requirement was MET for Certificate Issuers and MET for Certificate Consumers_.
 
-o    at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
+o at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
 _This requirement was MET_.
 
 2. Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 13, so the quorum was 14 for this ballot.
@@ -47,7 +47,7 @@ _This requirement was MET_.
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
-## Purpose of Ballot 
+## Purpose of Ballot
 
 This Ballot addresses security issues with the use of methods 3.2.2.4.6, 3.2.2.4.18, and 3.2.2.4.19 of the Baseline Requirements to authenticate an entire domain namespace. These methods rely on an HTTP based demonstration of control, which only demonstrates control over a particular host and service, rather than the entire Domain Namespace.
 
@@ -57,9 +57,9 @@ Although not directly modifying the same section, this Ballot does interact with
 
 The following motion has been proposed by Ryan Sleevi of Google and endorsed by Jos Purvis of Cisco and Dimitris Zacharopoulos of HARICA.
 
-It can be viewed on GitHub as
+It can be viewed on GitHub as <https://github.com/cabforum/servercert/pull/269>
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 1.7.4.
 
@@ -71,7 +71,7 @@ If SC42 fails to finish the IP Review period without issues and is not adopted, 
 
 https://github.com/cabforum/servercert/compare/47248d77d371356780b08cfa971b26d88d704ca8..2ab50e3667c676d3591318474c3cbff99be8baf2
 
-— MOTION ENDS —
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline.
 

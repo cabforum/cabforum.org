@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-02-21-ballot-97-prevention-of-unknown-certificate-contents/
+- /2013/02/21/ballot-97-prevention-of-unknown-certificate-contents/
 author: Ben Wilson
 date: 2013-02-21 18:13:06
 tags:

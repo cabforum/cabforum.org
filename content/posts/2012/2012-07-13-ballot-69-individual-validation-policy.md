@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-07-13-ballot-69-individual-validation-policy/
+- /2012/07/13/ballot-69-individual-validation-policy/
 author: Ben Wilson
 date: 2012-07-13 00:17:00
 tags:

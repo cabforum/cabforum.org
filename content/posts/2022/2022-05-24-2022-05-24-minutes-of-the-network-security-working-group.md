@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-05-24-2022-05-24-minutes-of-the-network-security-working-group/
+- /2022/05/24/2022-05-24-minutes-of-the-network-security-working-group/
 author: Clint Wilson
 date: 2022-05-24 12:00:00
 tags:
@@ -10,9 +10,9 @@ title: 2022-05-24 Minutes of the Network Security Working Group
 type: post
 ---
 
-**CA/Browser Forum NetSec Meeting**
+## CA/Browser Forum NetSec Meeting
 
-**Attendance:**
+## Attendance
 
 - Aaron Poulsen – Amazon
 - Antti Backman – Telia
@@ -37,23 +37,23 @@ type: post
 - Tim Hollebeek – DigiCert
 - Trevoli Ponds – Amazon Trust Services
 
-**Minutes:**
+## Minutes
 
 **1. Read Antitrust Statement**
 
-a**. **Clint Wilson read the antitrust statement
+a\*\*. \*\*Clint Wilson read the antitrust statement
 
 **2. Roll Call**
 
-a**. **Clint Wilson took attendance
+a\*\*. \*\*Clint Wilson took attendance
 
 **3. Minutes approved for last NetSec Meeting**
 
 **4. Agenda**
 
-**a. ****Further discussion on Risk Assessment from the Cloud Services Sub-Group**
+## a. \*\*\*\*Further discussion on Risk Assessment from the Cloud Services Sub-Group
 
-****1**. **Briefed guest speaker meeting and what advice was given
+\*\***1**. \*\*Briefed guest speaker meeting and what advice was given
 
 i. Discussed threat models and what defines a threat. Be more precise.
 
@@ -63,12 +63,12 @@ iii. Look at OCSP responders
 
 2. Next Task: Write a narrative to describe the system, and the system design to give the reader a complete understanding.
 
-**b. Ben Wilson Updates**
+## b. Ben Wilson Updates
 
 a. Holding separate call to continue work on the documents that focus around zones, offline CAs, and terminology used in the NetSec Requirements. Will schedule later.
 
 b. Continued work on terms for remaining time of NetSec Meeting
 
-**c. F2F agenda for NetSec**
+## c. F2F agenda for NetSec
 
-**   **a. Write Risk Assessment narrative
+\*\* \*\*a. Write Risk Assessment narrative

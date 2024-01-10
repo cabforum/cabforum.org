@@ -1,12 +1,12 @@
 ---
 aliases:
-- /2023-06-06-minutes-of-the-f2f-59-meeting-in-redmond-wa-usa-6-8-june-2023-cscwg-6-june/
+- /2023/06/06/minutes-of-the-f2f-59-meeting-in-redmond-wa-usa-6-8-june-2023-cscwg-6-june/
 author: Corey Bonnell
 date: 2023-06-06 19:00:40
 tags:
-- Code Signing
-- Minutes
 - Face-to-Face
+- Minutes
+- Code Signing
 - Server Certificates
 title: Minutes of the F2F 59 Meeting in Redmond, WA, USA, 6-8 June 2023 – CSCWG (6
   June)
@@ -16,13 +16,14 @@ type: post
 # Attendees
 
 Attendance: IN THE ROOM (FROM SIGN UP SHEET) Ben Wilson (Mozilla), Dean Coclin (DigiCert), Ian McMillan (Microsoft), Karina Sirota Goodley (Microsoft), Tahmina Ahmad (Microsoft), Hannah Sokol (Microsoft), Nitesh Bakliwal (Microsoft), Brianca Martin (Amazon), Trevoli Ponds-White (Amazon), Jonathan Kozolchyk (Amazon), Blake Hess (Amazon), Aaron Poulsen (Amazon), Michael Slaughter (Amazon), Tim Crawford (WebTrust), Inigo Barreira (Sectigo), Yoshiro Yoneya (JPRS), Martijn Katerbard (Sectigo), Nick France (Sectigo), Tim Callen (Sectigo), Roberto Quinones (Intel), Ben Dewberry (Keyfactor), Sven Rajala (Keyfactor), Leo Grove (SSL.com), Stephen Davidson (DigiCert), Jeremy Rowley (DigiCert), Scott Olsen (Microsoft), Linda Diefendorf (Microsoft), Steve Lasker (Microsoft), Yamian Quinero (Microsoft), Thomas Zermeno (SSL.com), Georgy Sebastian (Amazon), Meha Sharma (Microsoft), Rakia Segeu (Microsoft), Dawn Wang (Microsoft), Eva van Steenberge (Globalsign), Christophe Bonjean (Globalsign), Romain Delval (Certigna), Josselin Allemandou (Certigna), Xiu Lei (GDCA), Xizo Qiang (GDCA), Corey Bonnell (DigiCert), Vikas Khanna (Microsoft), An Yin (iTrus China), Vijay Kumar (eMuhdra), Pankaj Chawla (eMuhdra), Scott Rea (eMuhdra), Paul van Browershaven (Entrust), Bruce Morton (Entrust), Arno Fiedler (ETSI ESI), Dimitris Zacharopoulos (HARICA)
-**NEED TO ADD ONLINE ATTENDEES**
+
+## NEED TO ADD ONLINE ATTENDEES
 
 # Minutes
 
 **Presentation by:** Bruce Morton (Entrust)
 
-**Minutes: Brianca Martin/Roberto Quinones**
+## Minutes: Brianca Martin/Roberto Quinones
 
 - The Antitrust statement was read
 

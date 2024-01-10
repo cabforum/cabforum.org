@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-08-18-ballot-csc-15-summer-2022-cleanup/
+- /2022/08/18/ballot-csc-15-summer-2022-cleanup/
 author: Corey Bonnell
 date: 2022-08-18 18:00:00
 tags:
@@ -10,7 +10,7 @@ title: Ballot CSC-15 – Summer 2022 Cleanup
 type: post
 ---
 
-## Results of Review Period 
+## Results of Review Period
 
 (Mailing list post is available [here][1].)
 
@@ -28,28 +28,35 @@ End of Review Period: 2022 09-18 at 1400 Eastern Time
 
 Please forward a written notice to exclude Essential Claims to the Working Group Chair by email to and a copy to the CA/B Forum CSCWG public mailing list before the end of the Review Period. See current version of CA/Browser Forum Intellectual Property Rights Policy for details. (Optional form of Exclusion Notice is available at )
 
-## Results of Voting 
+## Results of Voting
 
 | | | | |
 | --- | --- | --- | --- |
 | |
-Yes |
-No |
-Abstain | |
-Certificate Issuers |
+Yes
+|
+No
+|
+Abstain
+|
+|
+Certificate Issuers
+|
 Certum (Asseco)DigiCertEntrustGlobalSignHARICASectigoSSL.comSecureTrust
-| | | |
-Certificate Consumers |
+| | |
+|
+Certificate Consumers
+|
 Microsoft
 | | |
 
-## Purpose of the Ballot 
+## Purpose of the Ballot
 
 As part of the review process for ballot CSC-14, several minor typographical and formatting errors were identified. This ballot corrects those errors; no normative changes are introduced by this ballot.
 
 The following motion has been proposed by Corey Bonnell of DigiCert and endorsed by Ian McMillan of Microsoft and Dimitris Zacharopoulos of HARICA.
 
-## Motion 
+## Motion
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” version 3.0 according to this redline: [https://github.com/cabforum/code-signing/compare/e345af02746bccf5d3c99506e492b5021714548a…4af5f82dcf343816eeec3ec218c1c7c818572aa7][4].
 

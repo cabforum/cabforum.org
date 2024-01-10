@@ -1,25 +1,25 @@
 ---
 aliases:
-- /2015-06-24-2015-06-24-face-to-face-meeting-35-minutes/
+- /2015/06/24/2015-06-24-face-to-face-meeting-35-minutes/
 author: Ben Wilson
 date: 2015-06-24 17:51:40
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 35 Meeting in Zurich, Switzerland, 23-25 June 2015
 type: post
 ---
 
-**Meeting 35 Minutes**
+## Meeting 35 Minutes
 
 **Day 1
 Wednesday, 24 June 2015**
 
-**CNNIC application**
+## CNNIC application
 
 A discussion on the CNNIC application for membership in the CA/B Forum took place. Although it appears their application is complete, two questions arose: 1. They don’t appear to be licensed in China (BRs requires that a CA be licensed in the country they do business if a licensing scheme is in place) and 2. they appear to be a registrar for a TLD as well as a CA. Dean stated that they have a valid BR audit which would address item 1 but was asked to get clarification from CNNIC. Further discussion will take place on the next call.
 
-**Working Group reports**
+## Working Group reports
 
 **Policy Working Group** (Ben)
 
@@ -74,7 +74,7 @@ What is new with this policy
 
 The information sharing thematic could not be covered it is delegated to the information sharing work group
 
-**Information sharing Working Group**
+## Information sharing Working Group
 
 The information sharing working group is working to define technical aspects like
 
@@ -87,7 +87,7 @@ The information sharing working group is working to define technical aspects lik
 
 So there are technical persons required – the call is taking place on every second Friday in the same week like the CAB phone call at 16:00.
 
-**Microsoft Root Program Update**
+## Microsoft Root Program Update
 
 Consolidated root program in a single group at Microsoft. New changes went live on June 2, 2015. Received comments from information that was sent out in April. Only about 4-5 companies responded.
 
@@ -133,7 +133,7 @@ Questions:
 - Is there an issue with KPMG not listed for Turkey. No as cross border accreditation will allow KPMG to audit in Turkey.
 - What about S/MIME? Microsoft will need to follow up on S/MIME.
 
-**Short-Lived certificates**
+## Short-Lived certificates
 
 Ben Wilson: Several years ago we were trying to improve revocation response times in the wake of the Diginotar incident. Looking at all of the things which could be done. Some say that with a short-lived certificate, even when that certificate doesn’t include pointers to revocation information, the amount of risk is the same as a longer lived certificate with revocation information because the time for an OCSP response or CRL to expire is comparable with the life of the short lived certificate.
 
@@ -195,7 +195,7 @@ Ryan: Mozilla policy has ‘get out of jail free’ cards for Name-Constrained C
 Wayne: Do the browsers view these certificates as compliant?
 Ryan: Yes. Plexapp.com – is viewed with a browser.
 
-**Ballot process/preparation. Demo of new system of marked up version of BRs.**
+## Ballot process/preparation. Demo of new system of marked up version of BRs.
 
 Ben – The Problem: easy to keep track of changes when there was only one set of BRs, changes were minor, and there weren’t many people. Coordination of ballot #s wasn’t necessary. Had certain rules about ballot format, what the ballot was for, why it was needed, redlined version of proposal. Ben thinks people were starting to get a bit careless about ballots, and it wasn’t always clear what changes need to be made to the BRs after ballots had passed. Official ballot needs to be clear about the exact changes being voted on, without any interpretation being necessary.
 
@@ -209,7 +209,7 @@ Ryan showed the source document in .md format, and showed the document converted
 
 Dean had some concerns about usability of command line tools. It was mentioned that WYSIWIG editors exist for all these tools. Ryan demoed editing the BRs via a github web interface. Ryan demonstrated adding comments inline to discuss changes to the BRs. Kirk asked if comments appeared in the final document. Ryan confirmed that they do not, but comments would be saved and the public could see all the conversation that was involved in creating the baseline requirements. It was mentioned that git might be a bit complex for non-technical users. Ryan mentioned that there are two parts: converting the BRs to text, and the tools used to simplify the process. Wayne mentioned that github really is not all that much more complex than Word. There could be simple instructions for how to create a ballot using github. Ryan mentioned that Ben is currently doing quite a bit of work to create redlined versions of documents, and merging documents, that is error prone and not necessary. Wayne: don’t have a good way to track versions today; this is exactly what github is for. Kirk: if we need better version control, we need to do that. Wayne: Manual version control is very costly, tools like this are designed for this. Ben: Ben currently manages the master version of the documents, with a central server to coordinate changes, things might work better. Rick: Could members of the public participate in discussions? Ryan: It’s up to us whether we allow public participation. Rick: There is the danger that the comments get split between github, and the email list. Ryan: We’d have to have rules about what goes where, perhaps pre-ballot on github and ballot on list. Again, there are two parts: replacing Word with something more flexible, and using github. Rick: Could we use Google Docs? The UI is more friendly. Ryan: Perhaps, but the version control features are less powerful. Kirk: Once a ballot is over, who makes the changes? Ryan: If we were using github, Ben would just have to press a button to accept the results. The view of the BRs is the latest version. Kirk: Do I have to scroll through the entire document to see the changes? Ryan: No, the default view shows only the changes, and a few lines of context around the changes.
 
-**WebTrust Update**
+## WebTrust Update
 
 Don Sheehy from Deloitte LLP then gave the following WebTrust update:
 
@@ -222,8 +222,8 @@ Don Sheehy from Deloitte LLP then gave the following WebTrust update:
 1. Timing of audits and timeliness of reporting issues – it is the client responsibility to submit audit reports and issues with reports to browsers. Use of third party data centers may not allow timeliness of reporting of certain issues in infrastructure.
 1. There could be a need for additional reports if specific browsers add new requirements. Microsoft stated it didn’t think auditors would need to audit its new root program requirements – it will use telemetry to monitor compliance.
 
-**Browser News**
+## Browser News
 
 **Microsoft**: No update on Internet Explorer or Edge
 
-**Google**: Ryan said there wasn’t much news to report. He indicated that Chrome was considering a feature that Microsoft’s new Edge browser implemented: blocking all mixed content on sites using HSTS. To explain: There are two types of mixed content: “Active” vs “Passive” (browsers are now calling these “Blockable Content” and “Optionally-Blockable Content” under the Mixed Content spec).**
+## Google\*\*: Ryan said there wasn’t much news to report. He indicated that Chrome was considering a feature that Microsoft’s new Edge browser implemented: blocking all mixed content on sites using HSTS. To explain: There are two types of mixed content: “Active” vs “Passive” (browsers are now calling these “Blockable Content” and “Optionally-Blockable Content” under the Mixed Content spec).

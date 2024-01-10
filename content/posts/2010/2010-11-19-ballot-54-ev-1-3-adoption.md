@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-11-19-ballot-54-ev-1-3-adoption/
+- /2010/11/19/ballot-54-ev-1-3-adoption/
 author: Ben Wilson
 date: 2010-11-19 21:01:03
 tags:
@@ -16,11 +16,7 @@ Motion
 
 Tim Moses made the following motion, and Robin Alden and Ben Wilson endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective 20 Nov 2010, the CAB Forum adopts Draft 9 of Version 1.3 of the “Guidelines For The Issuance And Management Of Extended Validation Certificates” as Version 1.3.
 
@@ -32,6 +28,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-10-14-2021-10-14-minutes-of-the-s-mime-certificate-working-group/
+- /2021/10/14/2021-10-14-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2021-10-14 12:58:00
 tags:
@@ -10,37 +10,35 @@ title: 2021-10-14 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 October 14, 2021
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Adriano Santoni (Actalis), Ali Gholami (Telia Company), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust), Chris Bailey (Entrust), Clint Wilson (Apple), Corey Bonnell (DigiCert), David Kluge (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Dustin Ward (SSL.com), Enrico Entschew (D-TRUST), Fumihiko Yoneda (JPRS), Hazhar Ismail (MSC Trustgate.com), Inigo Barreira (Sectigo), Janet Hines (SecureTrust), Jeff Ward (WebTrust), Joanna Fox (TrustCor), Jos Purvis (Cisco), Kiran Tummala (Microsoft), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Marcelo Silva (Visa), Mike Agrenius Kushner (PrimeKey), Nick France (Sectigo), Niko Carpenter (SecureTrust), Ono Fumiaki, Paul van Brouwershaven (Entrust), Rebecca Kelley (Apple), Rob Stradling (Sectigo), Roman Fischer (SwissSign), Sebastian Schulz (GlobalSign), Stefan Selbitschka (rundQuadrat), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Wendy Brown (Federal PKI), Yoshiro Yoneya (JPRS)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the September 29 teleconference were approved with corrections.
 
-### 5. Discussion 
+### 5. Discussion
 
 Minutes were taken by Mads Henriksveen, summarized as follows.
 
 Stephen Davidson introduced topic of ‘What’s an S/MIME cert’ from the perspective of the draft S/MIME BRs. Calling attention to the updated Apple CA Policy (see ) Clint Wilson said the EKU and SAN were the main focus. Effective April 1, 2022 Apple will considered a cert with emailProtection EKU and an active email address in the SAN to be S/MIME. He noted that the Subject is used for UI processing, not for trusted processing. Therefore, Apple are explicitly looking for email addresses in the SAN. After the effective date, newly issued S/MIME certs without SAN will not work in Apple email software. Excerpt:
-
-—
 
 Effective April 1, 2022, S/MIME certificates must:
 
@@ -56,8 +54,6 @@ Effective October 1, 2022, CA providers must populate the “Pertaining to Certi
 
 - The CRL URLs provided by CAs in this section must be available for successful retrieval by Apple systems a minimum of once every 4 hours.
 - In order to populate this section for Root CA Certificates, please email the Apple Root Program () with the desired details and associated CCADB records.
-
-—
 
 Clint also indicated that all CAs are now required to follow the work of this SMCWG with the intent of being well informed of pending changes in the S/MIME standards. It was noted that there are many S/MIME issuers who are not participating in the SMCWG so Apple wished to focus attention on the draft standard.
 
@@ -75,11 +71,11 @@ Sebastian Schulz pointed out that some of the changes can be done via technical 
 
 Stephen noted that changes are underway to the draft S/MIME BR in Github:
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: Wednesday, October 27, 2021 at 11:00 am Eastern Time
 

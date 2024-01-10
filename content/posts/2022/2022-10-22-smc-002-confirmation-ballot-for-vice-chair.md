@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-10-22-smc-002-confirmation-ballot-for-vice-chair/
+- /2022/10/22/smc-002-confirmation-ballot-for-vice-chair/
 author: Ben Wilson
 date: 2022-10-22 18:24:00
 tags:
-- Ballot
 - S/MIME
+- Ballot
 title: SMC-002 Confirmation Ballot for Vice Chair
 type: post
 ---
@@ -20,11 +20,11 @@ Thank you to Mads Henriksveen of Buypass who previously served in the role of SM
 
 A single nomination has been received for Vice Chair of the SMCWG. Thus a confirmation ballot will be held.
 
-**— Motion begins —**
+## Motion begins
 
 RESOLVED: That Martijn Katerbarg be elected Vice Chair of the S/MIME Certificate Working Group of the CA/Browser Forum for a two-year term, to begin at the expiration of the current term.
 
-**— Motion ends —**
+## Motion ends
 
 The discussion period (7 days) will be held:
 
@@ -33,7 +33,7 @@ End: Friday, 14 October 2022 at 1700 ET (Eastern)
 
 At the conclusion of the discussion period, a further notice will provide details on the voting period (also 7 days).
 
-**Voting Details**
+## Voting Details
 
 During the voting period, votes must be cast by an on-list reply to this email thread using the list.
 
@@ -41,6 +41,6 @@ A vote in favor of the motion must indicate a clear ‘yes’ in the response. A
 
 The latest vote received from any representative of a Voting Member before the close of the voting period will be counted.
 
-Voting Members (Certificate Consumers and Certificate Issuers) are listed at .
+Voting Members (Certificate Consumers and Certificate Issuers) are listed at [/working-groups/smime-certificate-wg/](/working-groups/smime-certificate-wg/).
 
 In accordance with the By-Laws, the single nominee is considered confirmed if a majority of the Voting Members who vote are in favor of the appointment, regardless of the number of votes cast and irrespective of the proportion of Voting Member categories.

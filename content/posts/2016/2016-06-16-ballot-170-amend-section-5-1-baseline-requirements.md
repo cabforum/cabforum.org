@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-06-16-ballot-170-amend-section-5-1-baseline-requirements/
+- /2016/06/16/ballot-170-amend-section-5-1-baseline-requirements/
 author: Ben Wilson
 date: 2016-06-16 18:51:20
 tags:
@@ -22,11 +22,11 @@ Dean Coclin
 
 Chair CA/B Forum
 
-**Ballot 170 – Amend Section 5.1 of Baseline Requirements**
+## Ballot 170 – Amend Section 5.1 of Baseline Requirements
 
 The Policy Review Working Group has reviewed Section 5.1 of the Baseline Requirements and, as a result, suggests that certain changes be made. Therefore, the following motion has been proposed by Ben Wilson of DigiCert and endorsed by Robin Alden of Comodo and Li-Chun CHEN of Chunghwa Telecom:
 
-— MOTION BEGINS —
+## Motion begins
 
 In Section 5.1.1 Site location and construction add:
 
@@ -62,7 +62,7 @@ In Section 5.1.8 Off-site backup add:
 
 The purpose of an off-site backup is to recover from system failure resulting from damage to the equipment or similar causes. For components of the Certificate System operated in an online fashion, any backup necessary to recover from system failure SHALL be made at least once per week or so that no changes made prior to the last week might be lost. Root CA Systems and other components operated in an offline fashion SHALL be backed up prior to taking them offline. Only the latest backup needs to be retained. The backup SHALL be stored at a separate site with physical and procedural controls sufficient to protect the confidentiality, integrity, and availability of the information backed up.
 
-— MOTION ENDS —
+## Motion ends
 
 The review period for this ballot shall commence at 2200 UTC on 2 June 2016, and will close at 2200 UTC on 9 June 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 16 June 2016. Votes must be cast by posting an on-list reply to this thread.
 

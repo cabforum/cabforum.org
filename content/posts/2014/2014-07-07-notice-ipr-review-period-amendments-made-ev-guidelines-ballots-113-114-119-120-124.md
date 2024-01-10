@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-07-07-notice-ipr-review-period-amendments-made-ev-guidelines-ballots-113-114-119-120-124/
+- /2014/07/07/notice-ipr-review-period-amendments-made-ev-guidelines-ballots-113-114-119-120-124/
 author: Ben Wilson
 date: 2014-07-07 20:11:14
 tags:

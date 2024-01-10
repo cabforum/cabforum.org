@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-09-14-ballot-sc6-revocation-timeline-extension/
+- /2018/09/14/ballot-sc6-revocation-timeline-extension/
 author: Ben Wilson
 date: 2018-09-14 19:24:30
 tags:
@@ -12,17 +12,17 @@ type: post
 
 Voting by CAs – 23 votes total including abstentions
 
-23 Yes votes: Actalis, Amazon, Buypass, Camerfirma, Certigna (DHIMYOTIS), Certinomis, certSIGN, Certum (Asseco), CFCA, Chunghwa Telecom, Comodo CA, Comsign, D-TRUST, Disig, Entrust Datacard, E-TUGRA, Firmaprofesional, GDCA, GlobalSign, Kamu Sertifikasyon Merkezi, Logius PKIoverheid, OATI, SECOM, SHECA, SK ID Solution, SSL.com, SSC, TWCA, TrustCor, Trustwave, TurkTrust, Visa
-0 No votes:
-0 Abstain:
-100% of voting CAs voted in favor
+- **23 Yes votes:** Actalis, Amazon, Buypass, Camerfirma, Certigna (DHIMYOTIS), Certinomis, certSIGN, Certum (Asseco), CFCA, Chunghwa Telecom, Comodo CA, Comsign, D-TRUST, Disig, Entrust Datacard, E-TUGRA, Firmaprofesional, GDCA, GlobalSign, Kamu Sertifikasyon Merkezi, Logius PKIoverheid, OATI, SECOM, SHECA, SK ID Solution, SSL.com, SSC, TWCA, TrustCor, Trustwave, TurkTrust, Visa
+- **0 No votes:**
+- **0 Abstain:**
+  100% of voting CAs voted in favor
 
 Voting by browsers – 5 votes total including abstentions
 
-5 Yes votes: Cisco, Google, Microsoft, Mozilla, 360
-0 No votes:
-0 Abstain:
-100% of voting browsers voted in favor
+- **5 Yes votes:** Cisco, Google, Microsoft, Mozilla, 360
+- **0 No votes:**
+- **0 Abstain:**
+  100% of voting browsers voted in favor
 
 Under Bylaw 2.2(g), a ballot result will be considered valid only when more than half of the number of currently active Members has participated. Votes to abstain are counted in determining a quorum. Half of currently active Members as of the start of voting is 11, so quorum was 12 votes – quorum was met.
 
@@ -32,7 +32,7 @@ At least one CA Member and one browser Member must vote in favor of a ballot for
 
 The ballot passes.
 
-**Ballot SC6 version 3: Revocation Timeline Extension**
+## Ballot SC6 version 3: Revocation Timeline Extension
 
 **Purpose of Ballot:**
 Section 4.9.1.1 of the Baseline Requirements currently requires CAs to revoke a Subscriber certificate within 24 hours of identifying any of 15 issues affecting the certificate. In cases where there is not an immediate threat of misuse of the certificate, this requirement can cause undue harm to a Subscriber that isn’t capable of replacing the certificate prior to revocation. This ballot makes a number of improvements to the revocation rules imposed by the Baseline Requirements:
@@ -46,12 +46,12 @@ Section 4.9.1.1 of the Baseline Requirements currently requires CAs to revoke a 
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Tim Hollebeek of DigiCert and Dimitris Zacharopoulos of Harica.
 
-— MOTION BEGINS —This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.0:
+- MOTION BEGINS -This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.0:
 
-** Modify the definition of Key Compromise as follows:**
+\*\* Modify the definition of Key Compromise as follows: \*\*
 Key Compromise: A Private Key is said to be compromised if its value has been disclosed to an unauthorized person or an unauthorized person has had access to it.
 
-** Modify Section 4.9.1 to read as follows:**
+\*\* Modify Section 4.9.1 to read as follows: \*\*
 
 **4.9.1.1 Reasons for Revoking a Subscriber Certificate**
 
@@ -89,13 +89,13 @@ The Issuing CA SHALL revoke a Subordinate CA Certificate within seven (7) days i
 1. The Issuing CA or Subordinate CA ceases operations for any reason and has not made arrangements for another CA to provide revocation support for the Certificate;
 1. The Issuing CA’s or Subordinate CA’s right to issue Certificates under these Requirements expires or is revoked or terminated, unless the Issuing CA has made arrangements to continue maintaining the CRL/OCSP Repository; or
 1. Revocation is required by the Issuing CA’s Certificate Policy and/or Certification Practice Statement.
-   ** Modify section 4.9.3 as follows:**
+   \*\* Modify section 4.9.3 as follows: \*\*
 
 The CA SHALL provide a process for Subscribers to request revocation of their own Certificates. The process MUST be described in the CA’s Certificate Policy or Certification Practice Statement. The CA SHALL maintain a continuous 24×7 ability to accept and respond to revocation requests and Certificate Problem Reports.
 
 The CA SHALL provide Subscribers, Relying Parties, Application Software Suppliers, and other third parties with clear instructions for reporting suspected Private Key Compromise, Certificate misuse, or other types of fraud, compromise, misuse, inappropriate conduct, or any other matter related to Certificates. The CA SHALL publicly disclose the instructions through a readily accessible online means and in section 1.5.2 of their CPS.
 
-** Modify section 4.9.5 to read as follows:**
+\*\* Modify section 4.9.5 to read as follows: \*\*
 
 Within 24 hours after receiving a Certificate Problem Report, the CA SHALL investigate the facts and circumstances related to a Certificate Problem Report and provide a preliminary report on its findings to both the Subscriber and the entity who filed the Certificate Problem Report.
 
@@ -107,7 +107,7 @@ After reviewing the facts and circumstances, the CA SHALL work with the Subscrib
 1. The entity making the complaint (for example, a complaint from a law enforcement official that a Web site is engaged in illegal activities should carry more weight than a complaint from a consumer alleging that she didn’t receive the goods she ordered); and
 1. Relevant legislation.
 
-— MOTION ENDS —
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline.
 

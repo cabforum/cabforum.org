@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-06-23-2022-06-23-minutes-of-the-server-certificate-working-group/
+- /2022/06/23/2022-06-23-minutes-of-the-server-certificate-working-group/
 author: Jos Purvis
 date: 2022-06-23 14:35:00
 tags:
@@ -10,57 +10,57 @@ title: 2022-06-23 Minutes of the Server Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Chris Clements (Google), Chris Kemmerer (SSL.com), Corey Bonnell (Digicert), Daryn Wright (GoDaddy), David Kluge (Google), Dean Coclin (Digicert), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Dustin Hollenback (Microsoft), Emily Stark (Google), Fumi Yoneda (Japan Registry Services), Hubert Chao (Google), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jamie Mackey (US Federal PKI Management Authority), Joanna Fox (TrustCor Systems), Jos Purvis (Cisco Systems), Karina Sirota (Microsoft), Kiran Tummala (Microsoft), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Michelle Coon (OATI), Nargis Mannan (SecureTrust), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Peter Miskovic (Disig), Rae Ann Gonzales (GoDaddy), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Stephen Davidson (Digicert), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Trevoli Ponds-White (Amazon), Vijay Kumar (India PKI Forum), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## Minutes 
+## Minutes
 
-### 1. Read Antitrust Statement 
+### 1. Read Antitrust Statement
 
 Jos Purvis read the antitrust statement.
 
-### 2. Roll Call 
+### 2. Roll Call
 
 Dean Coclin read the roll.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
 No changes were made to the agenda.
 
-### 4. Approval of Minutes from Last Teleconference 
+### 4. Approval of Minutes from Last Teleconference
 
 No minutes to approve (F2F). Please finish up your F2F minutes and ask for recordings if needed.
 
-### 5. Validation Subcommittee Update 
+### 5. Validation Subcommittee Update
 
 Cory: We went thought the slides that were slated for F2F. Finished review of SHOULD and SHOULD NOT normative changes and also some V2 items. This will continue at the next meeting
 
-### 6. Ballot Status 
+### 6. Ballot Status
 
-#### Ballots in Discussion Period 
-
-_None_
-
-#### Ballots in Voting Period 
+#### Ballots in Discussion Period
 
 _None_
 
-#### Ballots in Review Period 
+#### Ballots in Voting Period
 
 _None_
 
-#### Draft Ballots Under Consideration 
+#### Ballots in Review Period
 
-**Ballot: Debian Weak Keys**
+_None_
 
-Chris: There was a suggestion to add Hanno Boeck’s  tool to the list of tools that can be used to identity weak keys.  Overall happy with the text and we think everything raised that has been addressed. Please take a review and will add Hano’s tool for another options and push it out today.
+#### Draft Ballots Under Consideration
+
+## Ballot: Debian Weak Keys
+
+Chris: There was a suggestion to add Hanno Boeck’s tool to the list of tools that can be used to identity weak keys. Overall happy with the text and we think everything raised that has been addressed. Please take a review and will add Hano’s tool for another options and push it out today.
 
 Dimitris: Chris, about the tool, is this self-controlled so it is not considered a “delegated 3rd party” checking keys for the CA as some sort of remote API? Can anyone check it?
 
 Chris: It’s a tool he developed and the link is in the thread and will accept input as sent in. It’s in GitHub.
 
-Ben: We could do a cross reference to a  BR web page instead of keeping the list within the BRs itself with a list of suggested tools that can be used, and that would be easier to maintain.
+Ben: We could do a cross reference to a BR web page instead of keeping the list within the BRs itself with a list of suggested tools that can be used, and that would be easier to maintain.
 
 Cory: Since this is a list of suggestions, maybe this guidance is OK to be hosted on the web site.
 
@@ -78,7 +78,7 @@ Jos: Yea, good point. So, since this is not managed as strictly as the BRs since
 
 Chris: Will proceed with including the direct links of the suggested tools and they will be vetted as part of the ballot process. Dimitris and Ben agree.
 
-**Ballot: SLO/Response for CRL & OCSP Responses**
+## Ballot: SLO/Response for CRL & OCSP Responses
 
 David Kluge: No recent updates. Still interested in the ballot. Intermediate conclusion: Key challenge is to define how to properly define the SLOs. Will get some more detail and then will be able to properly process the ballot.
 
@@ -86,20 +86,20 @@ Please continue discussion on the list.
 
 No other ballot updates
 
-### 7. Any Other Business 
+### 7. Any Other Business
 
-#### Future of validation committee meetings 
+#### Future of validation committee meetings
 
 Jos: We had a discussion on the list about the VSC and if we still need it. Welcome discussion like we had and looks forward to having more technical topics on the calls like we had earlier in this meeting vs. just a status as well as the mailing list.
 
-As far as the future, no reason to change anything  immediately, but welcome more discussions.
+As far as the future, no reason to change anything immediately, but welcome more discussions.
 
 As we expand the discussion of this call we may want to potentially moving the forum call to a monthly call and that would provide more time to this WG/SC.
 
-Dimitris: Should move this to the public list. VSC is still improving validation methods and practices and have not completed that work yet.  Share the concerns with the time issues just raised.
+Dimitris: Should move this to the public list. VSC is still improving validation methods and practices and have not completed that work yet. Share the concerns with the time issues just raised.
 
 Jos: Let’s continue these technical discussions during these calls vs .just status updates.
 
-### 8. Next call: July 7th 
+### 8. Next call: July 7th
 
 Adjourn; Immediately convene meeting of CA Browser Forum (same call)

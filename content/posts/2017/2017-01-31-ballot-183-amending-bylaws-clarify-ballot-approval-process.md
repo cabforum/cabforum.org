@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2017-01-31-ballot-183-amending-bylaws-clarify-ballot-approval-process/
+- /2017/01/31/ballot-183-amending-bylaws-clarify-ballot-approval-process/
 author: Ben Wilson
 date: 2017-01-31 21:29:38
 tags:
@@ -16,15 +16,15 @@ CA yes votes: Amazon, ANF Autoridad de Certificacion, Buypass AS, Chunghwa Telec
 
 Browser yes votes: Apple, Mozilla
 
-**Ballot 183 – Amending the Bylaws to Clarify the Ballot Approval Process**
+## Ballot 183 – Amending the Bylaws to Clarify the Ballot Approval Process
 
 The following motion has been proposed by Kirk Hall of Entrust, Inc. and endorsed by Virginia Fournier of Apple, Inc. and Chris Nalevanko of Amazon.com, Inc. to amend the CA/Browser Forum Bylaws (the “Bylaws”):
 
-— MOTION BEGINS –
+- MOTION BEGINS –
 
 In accordance with Section 6.1 of the Bylaws of the CA/Browser Forum (the “Forum”), the Bylaws are hereby amended as follows:
 
-1. **Ballots Among Forum Members. ** Section 2.2 of the Bylaws is hereby amended to read in its entirety as follows:
+1. \*\*Ballots Among Forum Members. \*\* Section 2.2 of the Bylaws is hereby amended to read in its entirety as follows:
 
 “**2.2 General Provisions Applicable to all Ballots**
 
@@ -36,7 +36,7 @@ The following rules will apply to all ballots, including Draft Guideline Ballots
 
 (c) A representative of any Member can call for a proposed ballot to be published for discussion and comment by the membership. Any proposed ballot needs two endorsements by other Members in order to proceed. The discussion period then shall take place for at least seven but no more than 14 calendar days before votes are cast. The proposer of the ballot will designate the length of the discussion period, and each ballot shall clearly state the start and end dates and times (including time zone) for both the discussion period and the voting period.
 
-(d) Upon completion of the discussion period, Members shall have exactly seven calendar days for voting, with the deadline clearly communicated in the ballot and sent via the Public Mail List. All voting will take place via the Public Mail List.  Votes not submitted to the Public Mail List will not be considered valid, and will not be counted for any purpose.
+(d) Upon completion of the discussion period, Members shall have exactly seven calendar days for voting, with the deadline clearly communicated in the ballot and sent via the Public Mail List. All voting will take place via the Public Mail List. Votes not submitted to the Public Mail List will not be considered valid, and will not be counted for any purpose.
 
 (e) Members may vote yes, no, or abstain on a ballot. Only votes that indicate a clear ‘yes’ or ‘no’ response to the ballot question shall be considered (i.e. votes to abstain and votes that do not indicate a clear ‘yes’ or ‘no’ response will not figure in the calculation of item (f), below).
 
@@ -50,7 +50,7 @@ The following rules will apply to all ballots, including Draft Guideline Ballots
 
 2. **Draft Guideline Ballots.** A new Section 2.3 shall be added to the Bylaws, and will read in its entirety as follows:
 
-**“2.3      Requirements for Draft Guideline Ballots**
+**“2.3 Requirements for Draft Guideline Ballots**
 
 This section applies to any ballot that proposes a Final Guideline or a Final Maintenance Guideline (a “Draft Guideline Ballot”), all as defined under the Forum’s IPR Policy. Draft Guideline Ballots must comply with the following rules in addition to the requirements set forth in Section 2.2 above.
 
@@ -90,26 +90,37 @@ Nothing in these Bylaws is intended to supersede or replace anything in the IPR 
 
 3. **Effect of Ballot.** Nothing in this ballot is intended to supersede or replace anything in the IPR Policy. In the event of a conflict between this ballot and the IPR Policy, the IPR Policy shall govern. Except as specifically provided in this ballot, all other provisions of the Bylaws shall remain in full force and effect.
 
-**— MOTION ENDS –**
+**## Motion ends**
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
 | | | |
-| --- | --- | --- | |
+| --- | --- | --- |
+|
 BALLOT 183
 
 Status: Amendment to Bylaws |
-Start time (22:00 UTC) |
-End time (22:00 UTC) | |
-Discussion (7 days) |
-17 Jan. 2017 |
-24 Jan. 2017 | |
-Vote for approval (7 days) |
-24 Jan. 2017 |
-31 Jan. 2017 |
+Start time (22:00 UTC)
+|
+End time (22:00 UTC)
+|
+|
+Discussion (7 days)
+|
+17 Jan. 2017
+|
+24 Jan. 2017
+|
+|
+Vote for approval (7 days)
+|
+24 Jan. 2017
+|
+31 Jan. 2017
+|
 
 Votes must be cast by posting an on-list reply to this thread on the Public Mail List.
 
-A vote in favor of the ballot must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting Member before the close of the voting period will be counted. Voting Members are listed here:
+A vote in favor of the ballot must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting Member before the close of the voting period will be counted. Voting Members are listed here: [/about/membership/members/](/about/membership/members/)
 
 In order for the ballot to be adopted, two thirds or more of the votes cast by Members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is currently ten (10) Members – at least ten Members must participate in the ballot, either by voting in favor, voting against, or abstaining.

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-09-12-ballot-131-update-verified-method-communication/
+- /2014/09/12/ballot-131-update-verified-method-communication/
 author: Ben Wilson
 date: 2014-09-12 15:06:24
 tags:
@@ -64,6 +64,6 @@ Motion Ends
 
 The review period for this ballot shall commence at 2200 UTC on Friday, 22 August 2014, and will close at 2200 UTC on Friday, 29 August 2014. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Friday, 5 September 2014. Votes must be cast by posting an on-list reply to this thread. THE VOTING PERIOD FOR THIS BALLOT HAS BEEN EXTENDED TO 2200 UTC FRIDAY, 12 SEPTEMBER 2014.
 
-A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about/membership/members/](/about/membership/members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Also, at least seven members must participate in the ballot, either by voting in favor, voting against, or abstaining.

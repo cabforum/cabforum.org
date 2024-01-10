@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-07-09-ballot-104-ev-domain-validation/
+- /2013/07/09/ballot-104-ev-domain-validation/
 author: Ben Wilson
 date: 2013-07-09 18:35:50
 tags:
@@ -22,7 +22,7 @@ EFFECTIVE IMMEDIATELY, in order to reconcile the differences in domain verificat
 
 4 Definitions
 
-Capitalized Terms are defined in the Baseline Requirements except where provided below: \***
+Capitalized Terms are defined in the Baseline Requirements except where provided below: \*\*\*
 
 Domain Authorization Document: Documentation provided by, or a CA’s documentation of a communication with, the domain name registrar or the person or entity listed in WHOIS as the registering the domain name (including any private, anonymous, or proxy registration service) attesting that the Applicant has the exclusive right to use the specified domain name.
 
@@ -40,13 +40,13 @@ When the CA issues an EV Certificate, the CA and its Root CA represent and warra
 
 (B) Identity: The CA has confirmed that, as of the date the EV Certificate was issued, the legal name of the Subject named in the EV Certificate matches the name on the official government records of the Incorporating or Registration Agency in the Subject’s Jurisdiction of Incorporation or Registration, and if an assumed name is also included, that the assumed name is properly registered by the Subject in the jurisdiction of its Place of Business;
 
-(C) Right to Use Domain Name: The CA has taken all steps reasonably necessary to verify that, as of the date the EV Certificate was issued, the Subject named in the EV Certificate has the exclusive right to use all the Domain Name(s) listed in the EV Certificate. \***
+(C) Right to Use Domain Name: The CA has taken all steps reasonably necessary to verify that, as of the date the EV Certificate was issued, the Subject named in the EV Certificate has the exclusive right to use all the Domain Name(s) listed in the EV Certificate. \*\*\*
 
 11.1.1 Verification Requirements – Overview
 
-Before issuing an EV Certificate, the CA MUST ensure that all Subject organization information to be included in the EV Certificate conforms to the requirements of, and is verified in accordance with, these Guidelines and matches the information confirmed and documented by the CA pursuant to its verification processes. Such verification processes are intended to accomplish the following: \***
+Before issuing an EV Certificate, the CA MUST ensure that all Subject organization information to be included in the EV Certificate conforms to the requirements of, and is verified in accordance with, these Guidelines and matches the information confirmed and documented by the CA pursuant to its verification processes. Such verification processes are intended to accomplish the following: \*\*\*
 
-(2) Verify the Applicant is a registered holder, or has exclusive control, of the Domain Name(s) to be included in the EV Certificate;” \***
+(2) Verify the Applicant is a registered holder, or has exclusive control, of the Domain Name(s) to be included in the EV Certificate;” \*\*\*
 
 11.6 Verification of Applicant’s Domain Name
 
@@ -56,7 +56,7 @@ _\[BR 11.1.1(7) provides as follows – and would not be permitted for EV domain
 
 _BR 11.1.1 Authorization by Domain Name Registrant_
 
-_For each Fully-Qualified Domain Name listed in a Certificate, the CA SHALL confirm that, as of the date the Certificate was issued, the Applicant either is the Domain Name Registrant or has control over the FQDN by: **\*_
+_For each Fully-Qualified Domain Name listed in a Certificate, the CA SHALL confirm that, as of the date the Certificate was issued, the Applicant either is the Domain Name Registrant or has control over the FQDN by: \*\*\*_
 
 _7. Using any other method of confirmation, provided that the CA maintains documented evidence that the method of confirmation establishes that the Applicant is the Domain Name Registrant or has control over the FQDN to at least the same level of assurance as those methods previously described. \[Prohibited for EV domain verification.\]_
 
@@ -108,9 +108,9 @@ In addition, the CA MUST verify the Applicant‘s exclusive right to use the Dom
 
 (4) Mixed Character Set Domain Names: (2) EV Certificates MAY include Domain Names containing mixed character sets only in compliance with the rules set forth by the domain registrar. The CA MUST visually compare any Domain Names with mixed character sets with known high risk domains. If a similarity is found, then the EV Certificate Request MUST be flagged as High Risk. The CA must perform reasonably appropriate additional authentication and verification to be certain beyond reasonable doubt that the Applicant and the target in question are the same organization.
 
-11.10 Verification of Certain Information Sources \***
+11.10 Verification of Certain Information Sources \*\*\*
 
-An Independent Confirmation from the Applicant is a confirmation of a particular fact (e.g., knowledge of its exclusive control of a Domain Name, confirmation of the employee or agency status of a Contract Signer or Certificate Approver, confirmation of the EV Authority of a Certificate Approver, etc.) that is: \***
+An Independent Confirmation from the Applicant is a confirmation of a particular fact (e.g., knowledge of its exclusive control of a Domain Name, confirmation of the employee or agency status of a Contract Signer or Certificate Approver, confirmation of the EV Authority of a Certificate Approver, etc.) that is: \*\*\*
 
 11.10.4 Independent Confirmation From Applicant
 
@@ -122,9 +122,9 @@ An Independent Confirmation from the Applicant is a confirmation of a particular
 
 (C) Binding on the Applicant.
 
-An Independent Confirmation from the Applicant MAY be obtained via the following procedure: \***
+An Independent Confirmation from the Applicant MAY be obtained via the following procedure: \*\*\*
 
-11.13 Requirements for Re-use of Existing Documentation \***
+11.13 Requirements for Re-use of Existing Documentation \*\*\*
 
 11.13.3 Exceptions
 
@@ -158,6 +158,6 @@ Notwithstanding the requirements set forth in Section 11.13.1 \[Error! Reference
 
 The review period for this ballot shall commence at June 25, 2013 and will close at July 2, 2013. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at July 9, 2013. Votes must be cast by posting an on-list reply to this thread.
 
-Motion Ends
+## Motion Ends
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.

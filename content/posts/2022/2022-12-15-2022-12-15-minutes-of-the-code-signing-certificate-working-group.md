@@ -1,20 +1,20 @@
 ---
 aliases:
-- /2022-12-15-2022-12-15-minutes-of-the-code-signing-certificate-working-group/
+- /2022/12/15/2022-12-15-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2022-12-15 17:00:00
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2022-12-15 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-## Attendees 
+## Attendees
 
 Andrea Holland, Brianca Martin, Bruce Morton, Corey Bonnell, Dean Coclin, Dimitris Zacharopoulos, Inigo Barreira, Michael Sykes Mohit Kumar, Rollin Yu, Tim Crawford, Trevoli Ponds-White
 
-## Minutes 
+## Minutes
 
 Antitrust statement was read.
 
@@ -22,7 +22,7 @@ Minutes approved for last meeting 1-Dec-22 and F2F.
 
 There was discussion on how we can make minutes more effective – in general with a suggestion on recapping along discussion by chair or minute taker for summary.
 
-### Ballot around Malware protection 
+### Ballot around Malware protection
 
 Updates made to draft to suggest that subscriber can provide a different date based on impact. And also, software application provider can check for possible impact. Based on these 2, CA can decide on revocation date.
 
@@ -40,11 +40,11 @@ If we go to the back date of issue of certificate, then it impacts all the drive
 
 Need to be improved and discussion to be kept in progress.
 
-### Signing Service 
+### Signing Service
 
 No updates
 
-### Removing SSL BRs references 
+### Removing SSL BRs references
 
 Concerns highlighted in redline in Github. Pull request to be shared with the group.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-11-01-ballot-forum-16-election-of-ca-browser-forum-vice-chair/
+- /2020/11/01/ballot-forum-16-election-of-ca-browser-forum-vice-chair/
 author: Ben Wilson
 date: 2020-11-01 03:13:00
 tags:
@@ -28,31 +28,39 @@ Congratulations to Karina Sirota for her ratification as the new Forum Vice Chai
 
 Dean Coclin
 
-——————
+______________________________________________________________________
 
 The following motion has been proposed by the CA/Browser Forum Chair Dimitris Zacharopoulos of HARICA.
 
-## Purpose of Ballot[][1] 
+## Purpose of Ballot[][1]
 
 This special ballot is to confirm the new Vice Chair of the CA/Browser Forum.
 
-## MOTION BEGINS[][2] 
+## MOTION BEGINS[][2]
 
 In accordance with Bylaw 4.1 c, **Karina Sirota** representing Microsoft is hereby elected Vice Chair of the CA/Browser Forum for a term commencing on November 1, 2020 and continuing through October 31, 2021.
 
-## MOTION ENDS[][3] 
+## MOTION ENDS[][3]
 
 The procedure for this ballot is as follows:
 
 | | | |
 | --- | --- | --- |
-| **Special Ballot Forum-16 – Election of CA/Browser Forum Vice Chair** | **Start time** | **End time** | |
-Discussion (7 days) |
-2020-10-14 at 11:00 am Eastern Time |
-2020-10-21 at 11:00 am Eastern Time | |
-Vote for approval (7 days) |
-2020-10-21 at 11:00 am Eastern Time |
-2020-10-28 at 11:00 am Eastern Time |
+| **Special Ballot Forum-16 – Election of CA/Browser Forum Vice Chair** | **Start time** | **End time** |
+|
+Discussion (7 days)
+|
+2020-10-14 at 11:00 am Eastern Time
+|
+2020-10-21 at 11:00 am Eastern Time
+|
+|
+Vote for approval (7 days)
+|
+2020-10-21 at 11:00 am Eastern Time
+|
+2020-10-28 at 11:00 am Eastern Time
+|
 
 [1]: https://wiki.cabforum.org/forum-16_-_special_ballot_for_election_of_ca/b_forum_vicechair#purpose_of_ballot
 [2]: https://wiki.cabforum.org/forum-16_-_special_ballot_for_election_of_ca/b_forum_vicechair#motion_begins

@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-07-21-minutes-of-the-f2f-59-meeting-in-redmon-wa-usa-6-8-june-2023-validation-sc-8-june/
+- /2023/07/21/minutes-of-the-f2f-59-meeting-in-redmon-wa-usa-6-8-june-2023-validation-sc-8-june/
 author: Iñigo Barreira
 date: 2023-07-21 12:20:00
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 - Server Certificates
 title: Minutes of the F2F 59 Meeting in Redmond, WA, USA, 6-8 June 2023 – Validation
   SC (8 June)
@@ -20,9 +20,7 @@ Minute Taker: Michael Slaughter (Amazon Trust Services)
 
 Validation WG Chair: Corey Bonnell (DigiCert)
 
-**Introduction**
-
-****
+## Introduction
 
 - Corey proposed not performing another roll-call. **– No Objections**
 - Corey proposed approving the minutes from 5/18 Validation Sub-Committee sent by Chris Clements . **– No Objections**
@@ -31,14 +29,12 @@ Validation WG Chair: Corey Bonnell (DigiCert)
 - Corey summarized the analysis of three certificate issuance workflows: “Bring your own host”, CDN Issuance and ACME. The analysis exposed multiple ways the BRs can be improved surrounding the delegation of pre-issuance activities.
 - Corey reviewed the agenda for today’s working session.
 
-**Update on Multi-Perspective Domain Validation (Ryan and Chris)**
-
-****
+## Update on Multi-Perspective Domain Validation (Ryan and Chris)
 
 - Ryan explained the origins of the MPDV working group and the progress the 20 participants have made since F2F 58. The current proposal calls for March 15th 2025 to be the point in time when multi-perspective domain validation will be required for all public certificate issuance that utilize specific domain validation methods. The plan is to share the draft ballot more broadly, collect feedback, work with the community and ultimately find a way for all to benefit from the new approach.
 - Corey asked for questions. – **No questions.**
 
-**Changes to the Subscriber Agreement requirements (Ben and Dustin)**
+## Changes to the Subscriber Agreement requirements (Ben and Dustin)
 
 - Dustin provided background on the subscriber agreement and the terms of use. The original intent was that the subscriber agreement was not “legally” enforceable within an organization but Terms of Use might be enforceable within an organization depending on corporate rules. Across multiple revisions to the baseline requirements, those concepts started to merge together and now there is language in the BRs that states that both of them must be legally enforceable which is incorrect.
 - Dimitris suggested that if you want to provide something equivalent then you would need to have another statement that says the CA MUST implement a process to ensure that each Terms of Use is enforceable against the applicant.
@@ -69,7 +65,7 @@ Validation WG Chair: Corey Bonnell (DigiCert)
 - Jeremy suggested that the topic should be moved to the Server Cert WG instead.
 - Dustin and Dimitris agreed that the topic should move to the SCWG.
 
-**Discussion on Applicant Delegation of Domain Validation (Corey) 2:26**
+## Discussion on Applicant Delegation of Domain Validation (Corey) 2:26
 
 - Corey introduced the topic of application delegation of domain validation. This specifically describes when an applicant wants to assert control of a domain name on a certificate, they have to use an underscore prefixed domain name called an authorization domain name that is delegated to another domain name where the controller has added a TXT record that contains the random token used for domain validation.
 - Corey noted that this could be done for HTTP validation using HTTP Redirects but most often applies to DNS validation. The domain owner has a mechanism to opt-out by removing the CNAME record.
@@ -111,12 +107,8 @@ Validation WG Chair: Corey Bonnell (DigiCert)
 - Corey concluded the meeting by recapping the next steps. We will be taking a two prong approach by leveraging Tim’s language as the starting point for a short term ballot to clarify the current system. Longer term the group will be exploring different validation methods to further enhance automation capability.
 - Tim will be leading the next validation working group call on 6/15.
 
-**Meeting adjourned.**
-
-****
+## Meeting adjourned.
 
 **[1] [https://lists.cabforum.org/pipermail/validation/2021-December/001734.html][1]**
-
-****
 
 [1]: https://lists.cabforum.org/pipermail/validation/2021-December/001734.html

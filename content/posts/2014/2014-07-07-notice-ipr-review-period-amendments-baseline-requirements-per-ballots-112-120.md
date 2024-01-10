@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-07-07-notice-ipr-review-period-amendments-baseline-requirements-per-ballots-112-120/
+- /2014/07/07/notice-ipr-review-period-amendments-baseline-requirements-per-ballots-112-120/
 author: Ben Wilson
 date: 2014-07-07 20:10:28
 tags:

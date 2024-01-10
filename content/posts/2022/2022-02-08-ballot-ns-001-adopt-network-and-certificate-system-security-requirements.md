@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2022-02-08-ballot-ns-001-adopt-network-and-certificate-system-security-requirements/
+- /2022/02/08/ballot-ns-001-adopt-network-and-certificate-system-security-requirements/
 author: Ben Wilson
 date: 2022-02-08 22:16:24
 tags:
-- Ballot
 - Network Security
+- Ballot
 title: 'Ballot NS-001: Adopt Network and Certificate System Security Requirements'
 type: post
 ---
@@ -17,9 +17,9 @@ The purpose of this ballot is for the Networking Security Working Group to forma
 
 **MOTION**
 The following motion has been proposed by Clint Wilson of Apple and endorsed by Tim Hollebeek of DigiCert and Ben Wilson of Mozilla.
-—–Motion Begins—–
+-–Motion Begins-–
 In accordance with the Bylaws and Intellectual Property Rights (IPR) Policy of the CA/Browser Forum, version 1.7 of the Network and Certificate System Security Requirements are adopted in full.
-—–Motion Ends—–
+-–Motion Ends-–
 This ballot proposes a **Final Guideline**. The procedure for approval of this ballot is as follows:
 **Discussion (7+ days)**
 Start Time: January 31 2022 17:00 UTC

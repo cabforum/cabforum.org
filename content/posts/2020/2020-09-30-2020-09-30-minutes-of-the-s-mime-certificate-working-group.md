@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2020-09-30-2020-09-30-minutes-of-the-s-mime-certificate-working-group/
+- /2020/09/30/2020-09-30-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2020-09-30 00:59:59
 tags:
@@ -10,31 +10,31 @@ title: 2020-09-30 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 September 30, 2020
 
 These are the Approved Minutes of the Teleconference described in the subject of this message.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller (SwissSign), Ahmad Syafiq Md Zaini (MSC Trustgate.com), Andreas Henschel (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (Mozilla), Bruce Morton (Entrust DataCard), Burkhard Wiegel (Zertificon), Dean Coclin (DigiCert), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Dr. Holger Muehlbauer (TeleTrust), Hazhar Ismail (MSC Trustgate.com), Hugh Mercer (GlobalSign), India Donald (Federal PKI), James Knapp (Federal PKI), Janet Hines (Trustwave), Jeff Ward (WebTrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Mike Guenther (SwissSign), Morad Abou Nasser (TeleTrust), Rufus Buschart (TeleTrust), Russ Housley (Vigil Security, LLC), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM Trust Systems), Tim Crawford (WebTrust), Tim Hollebeek (DigiCert), Wendy Brown (Federal PKI)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 The minutes of the September 16 teleconference were approved.
 
-### 5. Discussion of approach and deliverables 
+### 5. Discussion of approach and deliverables
 
 The discussion continued regarding the fields in S/MIME leaf certificates.
 
@@ -50,11 +50,11 @@ Key Usage: There was discussion relating to dual use versus split use certificat
 
 There was discussion regarding key escrow: only allowing for encryption keys. There may be interest in marking keys where the CA generates keys, but may be deceptive as key escrow could be occurring outside the CA (such as using an enterprise key management system).
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 No other business.
 
-### 7. Next call 
+### 7. Next call
 
 The next call will take place on October 14, 2020 at 11:00am Eastern Time.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-03-17-ballot-sc62v2-certificate-profiles-update/
+- /2023/03/17/ballot-sc62v2-certificate-profiles-update/
 author: Iñigo Barreira
 date: 2023-03-17 12:44:51
 tags:
@@ -10,25 +10,25 @@ title: Ballot SC62v2-Certificate profiles update
 type: post
 ---
 
-**Voting Results**
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 30 votes total, with no abstentions:
 
-- 30 Issuers voting YES: Fastly, iTrusChina, HARICA, Certinomis, OISTE, SSL.COM, eMudhra, GoDaddy, Actalis, Digicert, GlobalSign, JPRS, Entrust, NAVER, SwissSign, Certum, Tubitak Kamu, Telia, Izenpe, VikingCloud, Let’s Encrypt, SECOM, e-Tugra, GDCA, Chunghwa Telecom, Buypass, CFCA, Disig, Sectigo, Amazon
-- 0 Issuers voting NO
-- 0 Issuers ABSTAIN
+- **30 Issuers voting YES:** Fastly, iTrusChina, HARICA, Certinomis, OISTE, SSL.COM, eMudhra, GoDaddy, Actalis, Digicert, GlobalSign, JPRS, Entrust, NAVER, SwissSign, Certum, Tubitak Kamu, Telia, Izenpe, VikingCloud, Let’s Encrypt, SECOM, e-Tugra, GDCA, Chunghwa Telecom, Buypass, CFCA, Disig, Sectigo, Amazon
+- **0 Issuers voting NO**
+- **0 Issuers ABSTAIN**
 
-**Certificate Consumers**
+## Certificate Consumers
 
 3 votes total, with no abstentions:
 
-- 3 Consumers voting YES: Google, Mozilla, Apple
-- 0 Consumers voting NO
-- 0 Consumers ABSTAIN
+- **3 Consumers voting YES:** Google, Mozilla, Apple
+- **0 Consumers voting NO**
+- **0 Consumers ABSTAIN**
 
-**Bylaws Requirements**
+## Bylaws Requirements
 
 1. Bylaw 2.3(6) requires:
 
@@ -69,7 +69,7 @@ The following motion has been proposed by Ryan Dickson of Google and endorsed by
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 1.8.6.
 
-**Notes:**
+## Notes
 
 - Upon beginning discussion for SC-62 V2 on 2/17, Version 1.8.6 was the latest approved version of the BRs. During the discussion period, the SC-61 V4 vote was [approved][5], incrementing the soon to be latest version of the BRs to 1.8.7. These changes are in the process of being merged into the main Github repository.
 - The changes introduced in [SC-62 V2][6] do not conflict with those added in [SC-61 V4][7].

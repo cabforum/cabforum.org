@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-04-22-ballot-42-principal-individual/
+- /2010/04/22/ballot-42-principal-individual/
 author: Ben Wilson
 date: 2010-04-22 20:28:04
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Cecilia Kam made the following motion, and Eddy Nigg and Moudrick Dadashov endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective immediately,
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 In Section 10.2.2 (4) delete:
 
@@ -42,17 +34,9 @@ And insert:
 
 (i) the CA confirms their authenticity (not improperly modified when compared with the underlying original) with the Third-Party Validator; and (ii) electronic copies of similar kinds of documents are recognized as legal substitutes for originals under the laws of the CA’s jurisdiction.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 8 Apr ’10 and will close at 2100 UTC on 15 Apr ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 22 Apr ’10.
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-09-16-ballot-18-pre-approved-requests/
+- /2008/09/16/ballot-18-pre-approved-requests/
 author: Ben Wilson
 date: 2008-09-16 18:47:49
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Steve Roylance made the following motion, and Bruce Morton and Tony Berman endorsed it.
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended in accordance with the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 Replace this paragraph from Section 11
 
@@ -60,17 +52,9 @@ With
 
 Both the Subscriber Agreement and each non pre-approved EV Certificate Request MUST be signed. The Subscriber Agreement MUST be signed by an authorized Contract Signer. The EV Certificate Request MUST be signed by the Certificate Requester submitting the document unless the Certificate Request has been pre-authorized in line with section 19(d) of these Guidelines. If the Certificate requester is not also an authorized Certificate Approver, then an authorized Certificate Approver MUST independently approve the EV Certificate Request. In all cases applicable signatures MUST be a legally valid and enforceable seal or handwritten signature (for a paper Subscriber Agreement and/or EV Certificate Request), or a legally valid and enforceable electronic signature (for an electronic Subscriber Agreement and/or EV Certificate Request), that binds Applicant to the terms of each respective document.
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 1700 EDT on (Tuesday) 2 Sep 2008, and will close at 1700 EDT on (Tuesday) 9 Sep 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EDT on (Tuesday) 16 Sep 2008.
 

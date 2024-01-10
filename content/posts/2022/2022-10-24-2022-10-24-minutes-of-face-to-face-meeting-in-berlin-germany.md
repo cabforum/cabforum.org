@@ -1,33 +1,34 @@
 ---
 aliases:
-- /2022-10-24-2022-10-24-minutes-of-face-to-face-meeting-in-berlin-germany/
+- /2022/10/24/2022-10-24-minutes-of-face-to-face-meeting-in-berlin-germany/
 author: Ben Wilson
 date: 2022-10-24 04:07:28
 tags:
-- Minutes
 - Face-to-Face
+- Minutes
 title: Minutes of the F2F 57 Meeting in Berlin, Germany, 24-26 October 2022
 type: post
 ---
 
-# CABF Face-to-Face Meeting 57: Day 1 October 24, 2022 {#cabf_face-to-face_meeting_57day_1_october_24_2022.sectionedit1.page-header}
+# CABF Face-to-Face Meeting 57: Day 1 October 24, 2022
 
-## Attendance {#attendance.sectionedit2.page-header}
+## Attendance
 
 Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Adriano Santoni (Actalis S.p.A.), Aleksandra Kurosz (Asseco Data Systems SA (Certum)) Aleksandra Ilnicka, Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Ann-Marie Christian (WebTrust), Antti Backman (Telia Company), Arno Fiedler (D-TRUST), Arnold Essing (Telekom Security), Ben Wilson (Mozilla), Brittany Randall (GoDaddy), Bruce Morton (Entrust), Chris Clements (Google), Chris Kemmerer (SSL.com), Christophe Bonjean (GlobalSign), Clemens Wanko (ACAB Council), Clint Wilson (Apple), Corey Bonnell (DigiCert), Curt Spann (Apple), Daryn Wright (GoDaddy), Dave Chin (WebTrust), David Kluge (Google), Dean Coclin (DigiCert), Dilip Barman (Govt. of India), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Eva Vansteenberge (GlobalSign), Frank Steinfeldt (D-TRUST), Franziska Granc (Nimbus), Fumi Yoneda (Japan Registry Services), Hogeun Yoo (NAVER Cloud), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Irina Hedea (Deloitte) Jamie Mackey (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jeremy Rowley (DigiCert), Joanna Fox (TrustCor Systems), John Sarapata (Google), Jos Purvis (Fastly), Joris Minolla (D-Trust), Jozef Nigut (Disig), JP Hamilton (Cisco Systems), Karina Sirota (Microsoft), Kateryna Aleksieieva (Asseco Data Systems SA (Certum)), Keshova N (Emudhra), Kim Nguyen (D-Trust), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Marco Schambach (IdenTrust), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Michael Guenther (SwissSign), Michael Sykes (SSL.com), Morad Abou Nassan (TeleTrust), Nargis Mannan (SecureTrust), Nick France (Sectigo), Paul van Brouwershaven (Entrust), Pekka Lahtiharju (Telia Company), Peter Miskovic (Disig), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Rob Stradling (Sectigo), Rollin Yu (TrustAsia Technologies, Inc.), Roman Fischer (SwissSign), Ryan Dickson (Google), Sissel Hoel (Buypass AS), Dr. Soundra Pandian (Govt. of India), Stefan Kirch (Telekom Security), Stephen Davidson (DigiCert), Sven Rajala (Keyfactor), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Tyler Myers (GoDaddy), Vijayakumar (Vijay) Manjunatha (eMudhra), Wei-Hao Tung (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## CA/Browser Forum Meeting {#cabrowser_forum_meeting.sectionedit3.page-header}
+## CA/Browser Forum Meeting
 
-### Approval of CABF Minutes from last teleconference {#approval_of_cabf_minutes_from_last_teleconference.sectionedit4}
+### Approval of CABF Minutes from last teleconference
 
 **Leader:** Dean Coclin (Digicert)
 
 Prior minutes were not prepared and will be sent to the list for approval at the next meeting.
 
-### Future face to face meeting schedule, fall election results, new working group chairs/vice chairs {#future_face_to_face_meeting_schedule_fall_election_results_new_working_group_chairsvice_chairs.sectionedit5}
+### Future face to face meeting schedule, fall election results, new working group chairs/vice chairs
 
 **Leader:** Dean Coclin (Digicert)
-**Presentation link:**
+
+- *Presentation link:*\*
 
 **Discussion outside the presentation:** Future F2F meeting schedule:
 
@@ -37,15 +38,16 @@ Prior minutes were not prepared and will be sent to the list for approval at the
 
 A chart with all the new chairs/vice chairs was presented. The only unknown is the Forum vice chair which will be announced tomorrow.
 
-### Browser Updates {#browser_updates.sectionedit6}
+### Browser Updates
 
-#### Mozilla Root Program Update {#mozilla_root_program_update}
+#### Mozilla Root Program Update
 
 **Leader:** Ben Wilson (Mozilla)
-**Minutes:** Dimitris Zacharopoulos (HARICA)
-**Presentation link: [Mozilla Root Program Update](/uploads/1-3-2022-October-Mozilla-Update-for-CABF-Berlin-F2F.pdf)**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Dimitris Zacharopoulos (HARICA)
+- *Presentation link: [Mozilla Root Program Update](/uploads/1-3-2022-October-Mozilla-Update-for-CABF-Berlin-F2F.pdf)*\*
+
+## Discussion outside the presentation
 
 - Question from Paul (Entrust): Will Mozilla have its own CT policy or follow the other Browser’s CT Policy?
 - Ben replied that the plan is to use the least strenious policy from other Root Programs.
@@ -67,11 +69,12 @@ A chart with all the new chairs/vice chairs was presented. The only unknown is t
 - Trev: It appears that Mozilla is mainly interested in the validity of 15y and will distrust at some point regardless of the validity of the actual Root CA Certificate. That means that a CA can continue issuing certificates but will not be trusted by Mozilla. Ben confirmed.
 - Daryn (GoDaddy) asked if the time period start was based on the validity period or the actual creation date. Ben said it is based on the actual creation date, but they are relying on CAs to identify the actual creation date with assistance from Auditors.
 
-#### Google Root Program Update {#google_root_program_update}
+#### Google Root Program Update
 
 **Leader:** Ryan Dickson (Google)
-**Minutes:** Doug Beattie (Globalsign)
-**Presentation link: [Chrome Browser Update](/uploads/1-4-CABF-F2F-57-Chrome-Browser-Update.pdf)**
+
+- *Minutes:*\* Doug Beattie (Globalsign)
+- *Presentation link: [Chrome Browser Update](/uploads/1-4-CABF-F2F-57-Chrome-Browser-Update.pdf)*\*
 
 There were 3 main sections to Chrome’s presentation:
 
@@ -91,7 +94,7 @@ There were 3 main sections to Chrome’s presentation:
 
 - Summarized some of the important Chrome browser updates for Chrome 104-106 and a look ahead to what might be in upcoming releases.
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 Dean asked about Enterprise CAs and private roots will be treated
 
@@ -109,201 +112,172 @@ Inigo askes about use of ACME
 
 Ryan: Chrome will be asking what automation methods CAs use today. At least 90% of total issuance by CA owners support ACME/automation. The survey will be used to collect the automation methods supported by CAs. CAs with new root inclusion requests may be required to support ACME and other automation techniques for ICAs under those roots, but more details will be forthcoming after the survey.
 
-#### Apple Root Program Update {#apple_root_program_update}
+#### Apple Root Program Update
 
 **Leader:** Clint Wilson (Apple)
-**Minutes:** Marcelo Silva (VISA)
-**Presentation link: [Apple Root Program Update October 2022](/uploads/1-5-2022-october-cabf_wiki-apple.pdf)**
+
+- *Minutes:*\* Marcelo Silva (VISA)
+- *Presentation link: [Apple Root Program Update October 2022](/uploads/1-5-2022-october-cabf_wiki-apple.pdf)*\*
 
 **Discussion outside the presentation:** No additional discussion.
 
-#### Microsoft Root Program Update {#microsoft_root_program_update}
+#### Microsoft Root Program Update
 
 **Leader:** Karina Sirota (Microsoft)
-**Minutes:** Bruce Morton (Entrust)
-**Presentation link: [Microsoft Trusted Root Program Update](/uploads/1-6-Microsoft-CABF-57-Update.pdf)**
 
-- Goal: Bettering our processes to make things better for all!
+- *Minutes:*\* Bruce Morton (Entrust)
+- *Presentation link: [Microsoft Trusted Root Program Update](/uploads/1-6-Microsoft-CABF-57-Update.pdf)*\*
 
-- Program Requirement Updates:
+* Goal: Bettering our processes to make things better for all!
 
-- Currently investigating the benefits of making OCSP for TLS optional.
+* Program Requirement Updates:
 
-- Currently investigating policy that all revoked certificate must have revocation reason code provided for revocations.
+  - Currently investigating the benefits of making OCSP for TLS optional.
+  - Currently investigating policy that all revoked certificate must have revocation reason code provided for revocations.
+  - All CAs have to have group email alias. Currently 18 CAs that don’t provide a group email alias.
 
-- All CAs have to have group email alias. Currently 18 CAs that don’t provide a group email alias.
+* Microsoft Edge Root Store Update:
 
-- Microsoft Edge Root Store Update:
+  - Delivering a dedicated root store for Edge browser, which will include all active TLS enabled roots enabled in Microsoft.
+  - Updating policies for EV policy OID; one CABF EV OID (2.23.149.1.1), plus one optional CA defined EV OID on all EV audited TLS roots. These are metadata for root CA and will not be included in the root CA certificate. Question asked about more OIDs to cover other policies such as QWAC. Note, CA company can have different policy OIDs per root.
+  - Microsoft will be engaging CAs which 1) do not have a CABF EV OID applied, and 2) have more than 2 EV OIDs applied with their root (minus EV CS OID).
 
-- Delivering a dedicated root store for Edge browser, which will include all active TLS enabled roots enabled in Microsoft.
+* Malware Monitoring:
 
-- Updating policies for EV policy OID; one CABF EV OID (2.23.149.1.1), plus one optional CA defined EV OID on all EV audited TLS roots. These are metadata for root CA and will not be included in the root CA certificate. Question asked about more OIDs to cover other policies such as QWAC. Note, CA company can have different policy OIDs per root.
+  - Are starting initiatives around monitoring signed malware and working on creating a telemetry pipeline to identify signed malware. Once signed code is identified, CAs will be asked to investigate specific certificates.
 
-- Microsoft will be engaging CAs which 1) do not have a CABF EV OID applied, and 2) have more than 2 EV OIDs applied with their root (minus EV CS OID).
+* Program Communications Reminders:
 
-- Malware Monitoring:
-
-- Are starting initiatives around monitoring signed malware and working on creating a telemetry pipeline to identify signed malware. Once signed code is identified, CAs will be asked to investigate specific certificates.
-
-- Program Communications Reminders:
-
-- msroot@microsoft.com should be used for communications to ensure timely response. Emailing any other aliases may result in the email being missed.
-
-- Program requirements can be found on Microsoft Docs at: [https://aka.ms/RootCert](https://aka.ms/RootCert "https://aka.ms/RootCert").
-
-- Program audit requirements can be found on Microsoft Docs at: [https://aka.ms/auditreqs](https://aka.ms/auditreqs "https://aka.ms/auditreqs").
-
-- Please test changes and confirm with 3 days when asked by Microsoft.
+  - msroot@microsoft.com should be used for communications to ensure timely response. Emailing any other aliases may result in the email being missed.
+  - Program requirements can be found on Microsoft Docs at: [https://aka.ms/RootCert](https://aka.ms/RootCert "https://aka.ms/RootCert").
+  - Program audit requirements can be found on Microsoft Docs at: [https://aka.ms/auditreqs](https://aka.ms/auditreqs "https://aka.ms/auditreqs").
+  - Please test changes and confirm with 3 days when asked by Microsoft.
 
 **Discussion outside the presentation:** No additional discussion.
 
-### CCADB Update {#ccadb_update}
+### CCADB Update
 
 **Leader:** Chris Clements and Ryan Dickson (Google)
-**Minutes:** Martijn Katerbarg (Sectigo)
-**Presentation link: [Common CA Database Update](/uploads/1-7-CAB-F2F-57-CCADB-Update.pdf)**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Martijn Katerbarg (Sectigo)
+- *Presentation link: [Common CA Database Update](/uploads/1-7-CAB-F2F-57-CCADB-Update.pdf)*\*
+
+## Discussion outside the presentation
 
 - CCADB Updates
 
-- New user and password reset instructions have been added to the website
-
-- The audit statements, policy documents and other data workflow pages have been updated
-
-- Instructions updated on Adding / Updating root request
-
-- It is now possible to upload Root certificates in CCADB which are being decoded
+  - New user and password reset instructions have been added to the website
+  - The audit statements, policy documents and other data workflow pages have been updated
+  - Instructions updated on Adding / Updating root request
+  - It is now possible to upload Root certificates in CCADB which are being decoded
 
 - System Feature Updates
 
-- VMC Audit fields are now available for RCA and ICA including in the API
-
-- The ALV system has not yet been updated for VMC
-
-- Recomputed all derived trust bits on intermediate certificates after making the OID → Friendly Name mapping table dynamic
+  - VMC Audit fields are now available for RCA and ICA including in the API
+  - The ALV system has not yet been updated for VMC
+  - Recomputed all derived trust bits on intermediate certificates after making the OID → Friendly Name mapping table dynamic
 
 - Add/Update Root Request
 
-- “CA Audit Update Request” and “CA Information Update Request (Non-Audit)” is now combined into “Add/Update Root Request”
-
-- When updating, CA owners only need to update the specific tab where they need to make updates
-
-- On the first update after this change some additional information may need to be filled by CAs
+  - “CA Audit Update Request” and “CA Information Update Request (Non-Audit)” is now combined into “Add/Update Root Request”
+  - When updating, CA owners only need to update the specific tab where they need to make updates
+  - On the first update after this change some additional information may need to be filled by CAs
 
 - Root Information Tab
 
-- Self-Assessment and Key Generation only need to be completed for new root CAs requesting inclusion
+  - Self-Assessment and Key Generation only need to be completed for new root CAs requesting inclusion
 
 - Root Inclusion Request
 
-- Coming soon. Trying to simplify the process
-
-- One case can be used for multiple roots into multiple stores
+  - Coming soon. Trying to simplify the process
+  - One case can be used for multiple roots into multiple stores
 
 - CCADB Groups
 
-- Moving from the Mozilla managed group to CCADB Steering Committeee managed group for public discussion: public@ccadb.org
-
-- MDSP will continue to exist and may be used for Mozilla specific needs where the CCADB group will be used by multiple root stores
+  - Moving from the Mozilla managed group to CCADB Steering Committeee managed group for public discussion: public@ccadb.org
+  - MDSP will continue to exist and may be used for Mozilla specific needs where the CCADB group will be used by multiple root stores
 
 - CCADB Public Discussion Group
 
-- Currently assessing the value of public discussion.
+  - Currently assessing the value of public discussion.
 
 - Public Discussion
 
-- We want to adjust the process as currently in place.
-
-- Intent to start public discussion process earlier than currently done.
-
-- Intent to have public discussion to start together with the detailed in-depth review by the Root Store owners
-
-- Plan is to have discussions going on for 6 weeks. 3 root inclusion requests at the same time
+  - We want to adjust the process as currently in place.
+  - Intent to start public discussion process earlier than currently done.
+  - Intent to have public discussion to start together with the detailed in-depth review by the Root Store owners
+  - Plan is to have discussions going on for 6 weeks. 3 root inclusion requests at the same time
 
 - Reminders / Coming Soon
 
-- CCADB dashboard is available at wiki.mozilla.org/CA/CCADB_Dashboard
-
-- New CCADB Self-Assessment is currently being planned
-
-- New Root Inclusion Request Workflow is in development
-
-- CCADB policy v1.2 is currently in draft
+  - CCADB dashboard is available at wiki.mozilla.org/CA/CCADB_Dashboard
+  - New CCADB Self-Assessment is currently being planned
+  - New Root Inclusion Request Workflow is in development
+  - CCADB policy v1.2 is currently in draft
 
 - Questions
 
-- Stephen Davidson:
+  - Stephen Davidson:
 
-- Can CCADB become two way so updates are given when roots for example are remove
+* Can CCADB become two way so updates are given when roots for example are remove
 
-- Answer: This can be considered and improved upon
+* Answer: This can be considered and improved upon
 
-- Paul van Brouwershaven:
+  - Paul van Brouwershaven:
 
-- I appreciate considering to consolidate the browser policies into one policy, which I view as a positive change. What are the possibilities of consolidating these under the CA/B Forum?
+* I appreciate considering to consolidate the browser policies into one policy, which I view as a positive change. What are the possibilities of consolidating these under the CA/B Forum?
 
-- Answer: Language in the current policy is specific to CCADB requirements. Root programs can and will still have their own policies as well.
+* Answer: Language in the current policy is specific to CCADB requirements. Root programs can and will still have their own policies as well.
 
-- Dimitris Zacharopoulos:
+  - Dimitris Zacharopoulos:
 
-- Regarding the Self-Assessment, which is a Chrome root program requirement, what is the expected tools to add that for existing CAs, should we keep sending this by email or also use CCADB?
+* Regarding the Self-Assessment, which is a Chrome root program requirement, what is the expected tools to add that for existing CAs, should we keep sending this by email or also use CCADB?
 
-- Answer: The CCADB page also points to the Excel file currently used by CAs and we do not expect that to change in the near future.
+* Answer: The CCADB page also points to the Excel file currently used by CAs and we do not expect that to change in the near future.
 
-- Dimitris Zacharopoulos: When are we expected to send these in?
+* Dimitris Zacharopoulos: When are we expected to send these in?
 
-- Answer: For new inclusion requests, it’s part of the inclusion request. For all CAs, it will be an annual requirement starting 2023
+* Answer: For new inclusion requests, it’s part of the inclusion request. For all CAs, it will be an annual requirement starting 2023
 
-### Updates to Forum web pages {#updates_to_forum_web_pages}
+### Updates to Forum web pages
 
 **Leader:** Ben Wilson (Mozilla)
-**Minutes:** Ryan Dickson (Google)
-**Presentation link: [CA/Browser Forum Web Pages](/uploads/CABF_WebPages-2022-10.pdf)**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Ryan Dickson (Google)
+- *Presentation link: [CA/Browser Forum Web Pages](/uploads/CABF_WebPages-2022-10.pdf)*\*
+
+## Discussion outside the presentation
 
 - Ben reviewed the website and identified things that require advice, discussion, review, or are in obvious need of an update.
 
-- Some changes are minor, others are more significant.
+  - Some changes are minor, others are more significant.
 
-- In other areas, we need brand new content to fill in gaps within our existing sets of documentation.
-
-- The minor updates are administrative like changing officer information.
+* In other areas, we need brand new content to fill in gaps within our existing sets of documentation.
+* The minor updates are administrative like changing officer information.
 
 - Ben shared a link where he performed this work, and where volunteers can sign up to perform the needed update.
 
 - Categories include:
 
-- Browser/OS Information (not discussed, but needs review)
-
-- CA Practices
-
-- Minutes (these are quite outdated)
-
-- Documents
+  - Browser/OS Information (not discussed, but needs review)
+  - CA Practices
+  - Minutes (these are quite outdated)
+  - Documents
 
 - Categories that need more content were also outlined:
 
-- BRs pages (a few blank landing pages)
-
-- CA/Browser forum news (either we should deprecate, or create more news)
-
-- Information for the public needs some newer content
-
-- WebTrust for CAs needs more content detailed, as well as ETSI.
-
-- SMIME Ballots (new page)
-
-- Resources and Proceedings are landing pages that should have clarifying content
+  - BRs pages (a few blank landing pages)
+  - CA/Browser forum news (either we should deprecate, or create more news)
+  - Information for the public needs some newer content
+  - WebTrust for CAs needs more content detailed, as well as ETSI.
+  - SMIME Ballots (new page)
+  - Resources and Proceedings are landing pages that should have clarifying content
 
 - Most pages appear to need some amount of updating such as:
 
-- Read through, wordsmithing, freshen content.
-
-- Ensure documents are aligned with procedures in practice
-
-- More helpful notes on how to navigate the site
+  - Read through, wordsmithing, freshen content.
+  - Ensure documents are aligned with procedures in practice
+  - More helpful notes on how to navigate the site
 
 - EV content is very outdated
 
@@ -313,53 +287,54 @@ Ryan: Chrome will be asking what automation methods CAs use today. At least 90% 
 
 - ACTION: Members should volunteer to help out by placing their name next to a topic in the document Ben shared.
 
-- Word press can assign writing privileges — without granting administrative privs
+  - Word press can assign writing privileges - without granting administrative privs
 
-- Ben just needs the mapping
-
-- 2FA is required
+* Ben just needs the mapping
+* 2FA is required
 
 - Paul recommends transitioning to GitHub from WordPress
 
-- Jos:
+  - Jos:
 
-- Previously discussed in infrastructure meeting
+* Previously discussed in infrastructure meeting
 
-- Jos put together a prototype
+* Jos put together a prototype
 
-- Group felt that the overhead of page management would be more difficult for people than WordPress (everybody would need to learn how to use Git)
+* Group felt that the overhead of page management would be more difficult for people than WordPress (everybody would need to learn how to use Git)
 
-- Adding more labor overhead is something the group needs to see a significant benefit out of
+* Adding more labor overhead is something the group needs to see a significant benefit out of
 
-- Jos wouldn’t mind revisiting this as we look at wholesale redoing chunks of the website, or at least content on the website
+* Jos wouldn’t mind revisiting this as we look at wholesale redoing chunks of the website, or at least content on the website
 
-- Paul: It seems like we all use GitHub to manage our policy and to track issues today. So yes, possibly a learning curve, but this is probably manageable.
+  - Paul: It seems like we all use GitHub to manage our policy and to track issues today. So yes, possibly a learning curve, but this is probably manageable.
 
-- Some tools exist to help with writing markdown, etc. These help with publication elements without interfacing with GitHub.
+* Some tools exist to help with writing markdown, etc. These help with publication elements without interfacing with GitHub.
 
-- Dean closes by thanking Ben, and he encourages members to sign up to volunteer, we’ll reconvene in the infrastructure group.
+  - Dean closes by thanking Ben, and he encourages members to sign up to volunteer, we’ll reconvene in the infrastructure group.
 
-## S/MIME Certificate Working Group Meeting {#smime_certificate_working_group_meeting.sectionedit7.page-header}
+## S/MIME Certificate Working Group Meeting
 
 **Leader:** Stephen Davidson (DigiCert)
-**Minutes:** Martijn Katerbarg (Sectigo)
-**Presentation link: [S/MIME Certificate Working Group](/uploads/1-11-smcwg_202201024f2f.pdf)**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Martijn Katerbarg (Sectigo)
+- *Presentation link: [S/MIME Certificate Working Group](/uploads/1-11-smcwg_202201024f2f.pdf)*\*
 
-# CABF Face-to-Face Meeting 57: Day 2 {#cabf_face-to-face_meeting_57day_2.sectionedit8.page-header}
+## Discussion outside the presentation
 
-## Attendees {#attendees.sectionedit9.page-header}
+# CABF Face-to-Face Meeting 57: Day 2
+
+## Attendees
 
 Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Adriano Santoni (Actalis S.p.A.), Aleksandra Kurosz (Asseco Data Systems SA (Certum)), Aleksandra IInicka (Certum), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Anna-Marie Christian (CPA Canada/WebTrust), Antti Backman (Telia Company), Arno Fiedler (D-TRUST), Arnold Essing (Telekom Security), Ben Wilson (Mozilla), Brianca Martin (Amazon), Brittany Randall (GoDaddy), Bruce Morton (Entrust), Chris Clements (Google), Chris Kemmerer (SSL.com), Christophe Bonjean (GlobalSign), Clemens Wanko (ACAB Council), Clint Wilson (Apple), Corey Bonnell (DigiCert), Daryn Wright (GoDaddy), Dave Chin (WebTrust), David Kluge (Google), Dean Coclin (DigiCert), Dilip Barman (Govt of India), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Eva van Steenberge (Globalsign), Frank Steinfeldt (D-TRUST), Franzeska Granc (Nimbus), Fumi Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Hogeun Yoo (NAVER Cloud), Ian McMillan (Microsoft), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Irina Hedea (Deloitte), Jamie Mackey (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jeremy Rowley (DigiCert), Joanna Fox (TrustCor Systems), John Sarapata (Google), Joris Minolla (D-Trust), Jos Purvis (Fastly), Jozef Nigut (Disig), JP Hamilton (Cisco Systems), Karina Sirota (Microsoft), Kateryna Aleksieieva (Asseco Data Systems SA (Certum)), Keshova N (EMuhdra), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Marco Schambach (IdenTrust), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Michael Guenther (SwissSign), Michael Sykes (SSL.com), Morad Abou Nasser (TeleTrust), Nargis Mannan (SecureTrust), Nick France (Sectigo), Nikolaos Soumelidis (ACAB Council), Paul van Brouwershaven (Entrust), Pekka Lahtiharju (Telia Company), Peter Miskovic (Disig), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Rob Stradling (Sectigo), Rollin Yu (TrustAsia Technologies, Inc.), Roman Fischer (SwissSign), Ryan Dickson (Google), Sissel Hoel (Buypass), Dr. Soundra Pandian (Govt. of India), Stefan Kirch (Telekom Security), Stephen Davidson (DigiCert), Sven Rajala (KeyFactor), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera Software AS), Tomas Gustavsson (PrimeKey), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Tyler Myers (GoDaddy), Vijayakumar (Vijay) Manjunatha (eMudhra), Wei-Hao Tung (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## CA/Browser Forum Meeting {#cabrowser_forum_meeting1.sectionedit10.page-header}
+## CA/Browser Forum Meeting
 
-### Potential bylaws changes to election process {#potential_bylaws_changes_to_election_process.sectionedit11}
+### Potential bylaws changes to election process
 
 **Leader:** Tim Hollebeek (DigiCert)
-**Minutes:** Stephen Davidson (DigiCert)
-**Presentation: [Election Issues](/uploads/2-1-CABF-Election-Issues.pdf)**
+
+- *Minutes:*\* Stephen Davidson (DigiCert)
+- *Presentation: [Election Issues](/uploads/2-1-CABF-Election-Issues.pdf)*\*
 
 Collective discussion on how to improve election process to make it run more smoothly in the future.
 
@@ -374,7 +349,7 @@ Which mailing lists should be used for announcements, voting?
 
 Bylaws are clear what happens if there is a tie but what happens if a confirmation ballot fails?
 
-Term limits for Forum chairs or WG leaders (recently removed)?  * Benefits of rotation.
+Term limits for Forum chairs or WG leaders (recently removed)? * Benefits of rotation.
 
 - Dean Coclin: Some of the WG are small so was considered to have less rotation. Ben Wilson in favor of elections centrally run.
 
@@ -410,13 +385,14 @@ Straw poll – in favor of disclosing the aggregate number of voters in an elect
 
 Straw poll – in favor that a WG chair that has hit term limit can run as Vice Chair.
 
-### Forum use cases for PQC? {#forum_use_cases_for_pqc.sectionedit12}
+### Forum use cases for PQC?
 
 **Leader:** Bruce Morton (Entrust)
-**Minutes:** Paul van Brouwershaven (Entrust)
-**Presentation:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Paul van Brouwershaven (Entrust)
+- *Presentation:*\*
+
+## Discussion outside the presentation
 
 - Bruce: I brought up the idea for forum use cases PQC, but has not prepared any slides.
 - What are going to do around PQC or what is the process?
@@ -432,20 +408,22 @@ Straw poll – in favor that a WG chair that has hit term limit can run as Vice 
 - Tim: We don’t have IPR at the forum level, maybe we need a cross working group where these issues can be discussed.
 - Conclusion: Nothing that we can do now, those interested can best follow the work in the LAMPS working group of the IETF.
 
-### Guest Speaker: “Quantum Cryptography topic” {#guest_speakerquantum_cryptography_topic.sectionedit13}
+### Guest Speaker: “Quantum Cryptography topic”
 
 **Leader:** Dr Manfred Lochter (BSI)
-**Presentation: [Quantum Safe Cryptography](/uploads/2-3-Browser_Lochter.pdf)**
+
+- *Presentation: [Quantum Safe Cryptography](/uploads/2-3-Browser_Lochter.pdf)*\*
 
 **Discussion outside the presentation:** No additional discussion.
 
-### Audit Updates {#audit_updates.sectionedit14}
+### Audit Updates
 
-#### ETSI Update {#etsi_update}
+#### ETSI Update
 
 **Leader:** Arno Fiedler (Vice Chair ETSI ESI)
-**Minutes:** Clemens Wanko (TUV AUSTRIA)
-**Presentation link: [Update on ETSI ESI standardisation related to Publicly Trusted Certificates](/uploads/2-4-ETSI-ESI_Standardisation_Update_for_CAB-Forum-10-2022.pdf)**
+
+- *Minutes:*\* Clemens Wanko (TUV AUSTRIA)
+- *Presentation link: [Update on ETSI ESI standardisation related to Publicly Trusted Certificates](/uploads/2-4-ETSI-ESI_Standardisation_Update_for_CAB-Forum-10-2022.pdf)*\*
 
 New ETSI standards released:
 
@@ -466,52 +444,49 @@ Explanatory statements made with regard to:
 
 Apart from that ETSI focuses on international alignment of ETSI standards.
 
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 - Clemens asked in how far it can be expected that the NIS2 alignment of the ETSI EN 319 401 can be expected to support full audit coverage of NIS2 along with an eIDAS Trust Service conformity assessment.
 - Arno answered that it is not upon ETSI to guarantee this, but from the professional perspective the ETSI EN 319 401 shall be made fit to reach that goal. He referred to the ETSI presentation of Paloma Llaneza González at the CA-Day 2022 later this week (NIS II and eIDAS II: How to audit Trust Services in 2025?)
 
-#### ACAB’C Update {#acab_c_update}
+#### ACAB’C Update
 
 **Leader:** Clemens Wanko (TÜV AUSTRIA)
-**Minutes:** Andreas Henschel (D-TRUST)
-**Presentation link: [Accredited Conformity Assessment Bodies Council](/uploads/2-5-20221025_ACABc_presentation_1.0.pdf)**
 
-- The council has grown significantly:
+- *Minutes:*\* Andreas Henschel (D-TRUST)
+- *Presentation link: [Accredited Conformity Assessment Bodies Council](/uploads/2-5-20221025_ACABc_presentation_1.0.pdf)*\*
 
-- at the moment 15 members
+* The council has grown significantly:
 
-- that means more than 50% of european auditors are ACAB’c members and more than 50% of the european TSPs are audited by ACAB’c members
+  - at the moment 15 members
+  - that means more than 50% of european auditors are ACAB’c members and more than 50% of the european TSPs are audited by ACAB’c members
+  - certify 134 of all European qualified CA / TSPs (54%) → that’s eIDAS Trust Services. For CA active in CA/B ecosystem, almost 100% coverage is assumed
+  - certifications in 83% of EU countries with QTSP
 
-- certify 134 of all European qualified CA / TSPs (54%) → that’s eIDAS Trust Services. For CA active in CA/B ecosystem, almost 100% coverage is assumed
+* ACAB’C Board elections: Clemens Wanko elected as Chair, Matthias Wiedenhorst and Nikolaos Soumelidis as Vice Chair
 
-- certifications in 83% of EU countries with QTSP
+* AALT (Audit Attestation Letter template)
 
-- ACAB’C Board elections: Clemens Wanko elected as Chair, Matthias Wiedenhorst and Nikolaos Soumelidis as Vice Chair
+  - until now: for CA operating more than one Root, one single Root-AAL was issued by the CAB per Root CA audited
+  - coming up by end of 2022: multi Root-AAL which allow issuance of one joint AAL for CA taking more than one Root under audit
+  - Note: multi Root-AAL should be used in the future, the CAB may have reasons however to keep on issuing single Root-AAL
 
-- AALT (Audit Attestation Letter template)
-
-- until now: for CA operating more than one Root, one single Root-AAL was issued by the CAB per Root CA audited
-
-- coming up by end of 2022: multi Root-AAL which allow issuance of one joint AAL for CA taking more than one Root under audit
-
-- Note: multi Root-AAL should be used in the future, the CAB may have reasons however to keep on issuing single Root-AAL
-
-**Discussion outside the presentation:**
+## Discussion outside the presentation
 
 - Ben: Thanks to ACAB’c for the work that has been done so far within the CA/B-Forum
 - Wendy: Is there a Link to the report of the attack of the Video Identification done by the CCC?
 - Clemens: A Link to a report in German language will be posted.
 
-#### WebTrust Update {#webtrust_update}
+#### WebTrust Update
 
 **Leader:** Don Sheehy (CPA Canada)
-**Minutes:** Ben Wilson (Mozilla
-**Presentation link: [Webtrust for CA Update – Berlin](/uploads/2-6-Webtrust-CABFupdate-Oct2022.pdf)**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Ben Wilson (Mozilla
+- *Presentation link: [Webtrust for CA Update – Berlin](/uploads/2-6-Webtrust-CABFupdate-Oct2022.pdf)*\*
 
-Don introduced Dave Chin and Anna-Marie Christian. Don thanked Jeff Ward for his hours of contribution. No recent formal collaborative efforts with ETSI, but planning in the future. COVID-19 was a challenge for on-site audits. This led to the temporary 6-month, limited-scope audit, and special Webtrust seal. This program is now being repurposed to handle catastrophic or government-mandated events.    Network Security is being segregated from TLS Baseline Requirements, so it is independent and can be associated with Code Signing and S/MIME audits. He is hopeful that the NetSec requirements will be revised early next year.
+## Discussion outside the presentation
+
+Don introduced Dave Chin and Anna-Marie Christian. Don thanked Jeff Ward for his hours of contribution. No recent formal collaborative efforts with ETSI, but planning in the future. COVID-19 was a challenge for on-site audits. This led to the temporary 6-month, limited-scope audit, and special Webtrust seal. This program is now being repurposed to handle catastrophic or government-mandated events. Network Security is being segregated from TLS Baseline Requirements, so it is independent and can be associated with Code Signing and S/MIME audits. He is hopeful that the NetSec requirements will be revised early next year.
 
 They have worked on an illustrative template for audit reports.
 
@@ -526,94 +501,91 @@ Updates to reporting – templates circulated for US, Canada, and International.
 Slides 24-28 cover CPA Canada’s Webtrust Program. Dave Chin said they are working on seals for RAs, NetSec, and S/MIME. Anna-Marie Christian said her responsibilities cover the Webtrust Program, a dedicated Webtrust team, succession planning (knowledge transfer, etc.). She also reviewed reporting structures and roles (Slide 27).
 
 - Inigo asked about cloud services auditing. What are Webtrust/ETSI doing in this area?
-
 - Don said that they are awaiting the NetSec committee’s work in this area. On existing cloud services reporting, then there are limited examples of audits going to the extent of Webtrust. He said there are challenges.
-
 - Clemens said it is possible to take up cloud services, but there are barriers – e.g. how deep can the auditor dig into the cloud services arrangement. Clemens is also waiting for information in this area.
-
 - Trev asked Don was the concern that with a cloud service provider, it could be literally in any location, and you wouldn’t know where it was?
 
-- Don responded that it is the hardware being used. There may be multiple data centers and within those datacenters there are multiple racks. Some might be miles or 1000’s of miles apart. * Trev said that her impression is that data centers for a region are not 1000 of miles apart, customer data doesn’t transit 1000s of miles, she could only speak for Amazon, but maybe there is a need to get education out on these topics. Consider US-Canada, or within the EU under GDPR.
+* Don responded that it is the hardware being used. There may be multiple data centers and within those datacenters there are multiple racks. Some might be miles or 1000’s of miles apart. * Trev said that her impression is that data centers for a region are not 1000 of miles apart, customer data doesn’t transit 1000s of miles, she could only speak for Amazon, but maybe there is a need to get education out on these topics. Consider US-Canada, or within the EU under GDPR.
 
 - Dimitris asked about aligning our definitions and wondered whether some of the work had already been done by Webtrust. Don said that they were awaiting word from the CA/B Forum.
 
-### Summary Presentations from Working Groups {#summary_presentations_from_working_groups.sectionedit15}
+### Summary Presentations from Working Groups
 
-#### Server Certificate Working Group (SCWG) {#server_certificate_working_group_scwg}
+#### Server Certificate Working Group (SCWG)
 
 **Leader:** Jos Purvis (Fastly) Chair, SCWG
-**Minutes:** Corey Bonnell (Digicert)
-**Presentation link: [Server Certificate Working Group, 2020-2022 Summary](/uploads/2-8-scwgupdate.pdf)**
+
+- *Minutes:*\* Corey Bonnell (Digicert)
+- *Presentation link: [Server Certificate Working Group, 2020-2022 Summary](/uploads/2-8-scwgupdate.pdf)*\*
 
 **Discussion outside the presentation:** No additional discussion.
 
-#### Code-Signing Certificate Working Group (CSCWG) {#code-signing_certificate_working_group_cscwg}
+#### Code-Signing Certificate Working Group (CSCWG)
 
 **Leader:** Bruce Morton (Entrust)
-**Minutes:** Dean Coclin (Digicert)
-**Presentation link: [Code Signing Certificate Working Group, F2F 57](/uploads/2-9-F2F-57-CSWG-202210.pdf)**
 
-- Accomplishments since last meeting.
+- *Minutes:*\* Dean Coclin (Digicert)
+- *Presentation link: [Code Signing Certificate Working Group, F2F 57](/uploads/2-9-F2F-57-CSWG-202210.pdf)*\*
 
-- Done: Private key protection moved to June 2023
+* Accomplishments since last meeting.
 
-- Plans (To Do): Updating revocation rules for signed malware
-
-- Signing service reqt update
-
-- Remove references to TLS BRs
-
-- Time Stamp updates
-
-- High Risk Applicants
-
-- Open Source project applicants
+  - Done: Private key protection moved to June 2023
+  - Plans (To Do): Updating revocation rules for signed malware
+  - Signing service reqt update
+  - Remove references to TLS BRs
+  - Time Stamp updates
+  - High Risk Applicants
+  - Open Source project applicants
 
 **Discussion outside the presentation:** No additional discussion.
 
-#### S/MIME Certificate Working Group (SMCWG) {#smime_certificate_working_group_smcwg}
+#### S/MIME Certificate Working Group (SMCWG)
 
 **Leader:** Stephen Davidson (DigiCert)
-**Minutes:** Mads Henriksveen (BuyPass)
-**Presentation link: [S/MIME Certificate Working Group, Berlin F2F](/uploads/2-10-smcwg_202201025f2f.pdf)**
+
+- *Minutes:*\* Mads Henriksveen (BuyPass)
+- *Presentation link: [S/MIME Certificate Working Group, Berlin F2F](/uploads/2-10-smcwg_202201025f2f.pdf)*\*
 
 **Discussion outside the presentation:** No additional discussion.
 
-#### Network Security Working Group {#network_security_working_group}
+#### Network Security Working Group
 
 **Leader:** Clint Wilson (Apple)
-**Minutes:** Chris Kemmerrer (SSL.com)
-**Presentation link: [Network Security Working Group, October 2022](/uploads/2-11-2022-october-cabf-netsec.pdf)**
+
+- *Minutes:*\* Chris Kemmerrer (SSL.com)
+- *Presentation link: [Network Security Working Group, October 2022](/uploads/2-11-2022-october-cabf-netsec.pdf)*\*
 
 **Discussion outside the presentation:** No additional discussion.
 
-#### Infrastructure Subcommittee {#infrastructure_subcommittee}
+#### Infrastructure Subcommittee
 
 **Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
-**Minutes:** Martijn Katerbarg (Sectigo)
-**Presentation link: [Infrastructure Subcommittee: F2F Meeting 57 Update](/uploads/2-12-cabf57-infraupdate.pdf)**
+
+- *Minutes:*\* Martijn Katerbarg (Sectigo)
+- *Presentation link: [Infrastructure Subcommittee: F2F Meeting 57 Update](/uploads/2-12-cabf57-infraupdate.pdf)*\*
 
 **Discussion outside the presentation:** No additional discussion.
 
-## CSCWG Meeting {#cscwg_meeting.sectionedit16.page-header}
+## CSCWG Meeting
 
 **Leader:** Dean Coclin (DigiCert)
-**Minutes:** Tim Callan (Sectigo)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Tim Callan (Sectigo)
+- *Presentation link:*\*
 
-**Signing Models**
+## Discussion outside the presentation
 
-- Subscriber uses token or server HSM verification
+## Signing Models
 
-- Subscriber uses cloud service verification
+• Subscriber uses token or server HSM verification
 
-- Signing service hosts HSM – audit
+• Subscriber uses cloud service verification
 
-- Signing service hosts HSM with protected private keys in cloud service – audit except cloud service
+• Signing service hosts HSM – audit
 
-- Signing service uses cloud service to generate and store private key s- audit except cloud service
+• Signing service hosts HSM with protected private keys in cloud service – audit except cloud service
+
+• Signing service uses cloud service to generate and store private key s- audit except cloud service
 
 Bruce Morton (Entrust): Third is easiest to tackle. We have to figure out how to audit these. Clarification – it’s subscriber keys.
 
@@ -661,13 +633,13 @@ Dimitris: Yes, it’s self-declared.
 
 Jeremy: it’s an issue that we’re relying on them to tell us. We should focus first on the CA case. This is a blurry line.
 
-**Signing Service Requirements**
+## Signing Service Requirements
 
-- Generation Subscriber Key Pair in hardware crypto module
+• Generation Subscriber Key Pair in hardware crypto module
 
-- Operate the hardware crypto module to a standard
+• Operate the hardware crypto module to a standard
 
-- Provide the Subscriber secure access to activate their Private Key for signing
+• Provide the Subscriber secure access to activate their Private Key for signing
 
 Doug: Have hardware crypto module and operate it to some standard. Provide subscriber secure access to activate private key for signing. What else?
 
@@ -687,15 +659,15 @@ Martijn: What is the definition of importing and exporting? Can I backup?
 
 Trev: Backup would have different requirements.
 
-**Signing Service – Cloud-based Key Generation**
+## Signing Service – Cloud-based Key Generation
 
-- Cloud-based key generation is allowed
+• Cloud-based key generation is allowed
 
-- How do we determine what cloud-based key generation is?
+• How do we determine what cloud-based key generation is?
 
-- Can the CA provide cloud-based key generation?
+• Can the CA provide cloud-based key generation?
 
-- If the CA provides cloud-based key generation, then what audit requirements apply?
+• If the CA provides cloud-based key generation, then what audit requirements apply?
 
 Bruce: What is cloud-based versus not? How does the CA know? How do you apply it?
 
@@ -707,7 +679,7 @@ Inigo Barreira (Sectigo): ETSI has no distinction between cloud-based and on pre
 
 Bruce: Propose moving on drafted ballot and then go after these hard questions in phases.
 
-**Two-year Goals**
+## Two-year Goals
 
 Ian: Candidates to add:
 
@@ -731,33 +703,36 @@ Tim: It also solves the problem of CAs not knowing about certs from known bad ac
 
 Attendance: In the room: ….. On WebEx: …..
 
-# CABF Face-to-Face Meeting 57: Day 3 {#cabf_face-to-face_meeting_57day_3.sectionedit17.page-header}
+# CABF Face-to-Face Meeting 57: Day 3
 
-## Attendance {#attendance1.sectionedit18.page-header}
+## Attendance
 
 Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Adriano Santoni (Actalis S.p.A.), Aleksandra Kurosz (Asseco Data Systems SA (Certum)), Aleksandra IInicka (Certum), Andrea Holland (SecureTrust), Andreas Henschel (D-TRUST), Anna-Marie Christian (CPA Canada/WebTrust), Antti Backman (Telia Company), Arno Fiedler (D-TRUST), Arnold Essing (Telekom Security), Ben Wilson (Mozilla), Brianca Martin (Amazon), Brittany Randall (GoDaddy), Bruce Morton (Entrust), Chris Clements (Google), Chris Kemmerer (SSL.com), Christophe Bonjean (GlobalSign), Clemens Wanko (ACAB Council), Clint Wilson (Apple), Corey Bonnell (DigiCert), Daryn Wright (GoDaddy), Dave Chin (WebTrust), David Kluge (Google), Dean Coclin (DigiCert), Dilip Barman (Govt of India), Dimitris Zacharopoulos (HARICA), Don Sheehy (CPA Canada/WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Eva van Steenberge (Globalsign), Frank Steinfeldt (D-TRUST), Franzeska Granc (Nimbus), Fumi Yoneda (Japan Registry Services), Hazhar Ismail (MSC Trustgate Sdn Bhd), Hogeun Yoo (NAVER Cloud), Ian McMillan (Microsoft), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Irina Hedea (Deloitte), Jamie Mackey (US Federal PKI Management Authority), Janet Hines (SecureTrust), Jeremy Rowley (DigiCert), Joanna Fox (TrustCor Systems), John Sarapata (Google), Joris Minolla (D-Trust), Jos Purvis (Fastly), Jozef Nigut (Disig), JP Hamilton (Cisco Systems), Karina Sirota (Microsoft), Kateryna Aleksieieva (Asseco Data Systems SA (Certum)), Keshova N (EMuhdra), Kim Nguyen (D-Trust), Leo Grove (SSL.com), Li-Chun Chen (Chunghwa Telecom), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Marcelo Silva (Visa), Marco Schambach (IdenTrust), Martijn Katerbarg (Sectigo), Matthias Wiedenhorst (ACAB Council), Michael Guenther (SwissSign), Michael Sykes (SSL.com), Morad Abou Nasser (TeleTrust), Nargis Mannan (SecureTrust), Nick France (Sectigo), Nikolaos Soumelidis (ACAB Council), Paul van Brouwershaven (Entrust), Pekka Lahtiharju (Telia Company), Peter Miskovic (Disig), Rebecca Kelley (Apple), Renne Rodriguez (Apple), Rob Stradling (Sectigo), Rollin Yu (TrustAsia Technologies, Inc.), Roman Fischer (SwissSign), Ryan Dickson (Google), Sissel Hoel (Buypass), Dr. Soundra Pandian (Govt. of India), Stefan Kirch (Telekom Security), Stephen Davidson (DigiCert), Sven Rajala (KeyFactor), Tadahiko Ito (SECOM Trust Systems), Thomas Zermeno (SSL.com), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera Software AS), Tomas Gustavsson (PrimeKey), Trevoli Ponds-White (Amazon), Tsung-Min Kuo (Chunghwa Telecom), Tyler Myers (GoDaddy), Vijayakumar (Vijay) Manjunatha (eMudhra), Wei-Hao Tung (Chunghwa Telecom), Wendy Brown (US Federal PKI Management Authority), Yoshiro Yoneya (Japan Registry Services)
 
-## Server Certificate Working Group Meeting {#server_certificate_working_group_meeting.sectionedit19.page-header}
+## Server Certificate Working Group Meeting
 
-### Antitrust Statement, Assign Minute Taking, Approval of SCWG Minutes from last teleconference {#antitrust_statement_assign_minute_taking_approval_of_scwg_minutes_from_last_teleconference.sectionedit20}
+### Antitrust Statement, Assign Minute Taking, Approval of SCWG Minutes from last teleconference
 
 **Leader:** Jos Purvis (Fastly)
-**Minutes:**
+
+- *Minutes:*\*
 
 Antitrust statement was read. …
 
-### Validation Subcommittee {#validation_subcommittee.sectionedit21}
+### Validation Subcommittee
 
 **Leaders:** Corey Bonnell (DigiCert)
-**Minutes:** Chris Clements (Google Chrome)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Chris Clements (Google Chrome)
+- *Presentation link:*\*
 
-## Network Security Working Group Meeting {#network_security_working_group_meeting.sectionedit22.page-header}
+## Discussion outside the presentation
+
+## Network Security Working Group Meeting
 
 **Presenter:** Clint Wilson (Apple)
-**Minutes:** Ben Wilson (Mozilla) & Rebecca Kelley (Apple)
-**Presentation link:**
 
-**Discussion outside the presentation:**
+- *Minutes:*\* Ben Wilson (Mozilla) & Rebecca Kelley (Apple)
+- *Presentation link:*\*
+
+## Discussion outside the presentation

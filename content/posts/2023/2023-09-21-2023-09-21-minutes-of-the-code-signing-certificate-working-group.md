@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2023-09-21-2023-09-21-minutes-of-the-code-signing-certificate-working-group/
+- /2023/09/21/2023-09-21-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-09-21 16:00:55
 tags:
-- Code Signing
 - Minutes
+- Code Signing
 title: 2023-09-21 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
@@ -32,5 +32,5 @@ Andrea Holland – VikingCloud, Atsushi INABA – GlobalSign, Brianca Martin –
 1. Charter Update – Martijn working on change.
 1. Time-stamp – Delay until other ballots are done.
 1. Other business – An email received from Tim McGrath from Microsoft. Ian knows the people that provided the email and will address. The question was about point-in-time for the address; but this is the type of data based on the CA review. Note there is no unique information included for an individual. An email address would be easy and unique for an individual and maybe we could drop location data. Can an individual specify a specific project for the signing, but the issue would be validating. It would be good if a CA could add information to distinguish an individual, so they would be added to a blocklist if they intentionally sign suspect code. What can we do to help protect relying parties? Perhaps we can brainstorm at the F2F about Individual and OV verification mechanisms. For organization, can we choose an existing model which is already defined in the CAB Forum. Would not like to create another model.
-1. Next meeting –  F2F Oct 5
+1. Next meeting – F2F Oct 5
 1. Adjourn

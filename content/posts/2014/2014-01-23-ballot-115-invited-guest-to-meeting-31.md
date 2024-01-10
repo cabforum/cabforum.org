@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2014-01-23-ballot-115-invited-guest-to-meeting-31/
+- /2014/01/23/ballot-115-invited-guest-to-meeting-31/
 author: Ben Wilson
 date: 2014-01-23 21:53:52
 tags:
@@ -21,8 +21,7 @@ The basis for this request is that I have known Bruce Morton since 2005 and he w
 Based on these representations and for other good and valid reasons, I believe that the CA/Browser Forum should waive its requirements to sign the IPR Agreement for Bruce Morton so that he may be invited to and attend the upcoming meetings.
 Therefore,
 
--Motion Begins-
-
+-Motion Begins
 Be it resolved that the Chair is authorized to invite Bruce Morton as an Invited Guest to Meeting 31 and associated Working Group meetings without condition that he or Entrust submit their signed IPR Agreement prior to such meetings.
 
 –Motion Ends–

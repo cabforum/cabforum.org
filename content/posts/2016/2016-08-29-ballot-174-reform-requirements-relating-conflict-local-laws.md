@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-08-29-ballot-174-reform-requirements-relating-conflict-local-laws/
+- /2016/08/29/ballot-174-reform-requirements-relating-conflict-local-laws/
 author: Ben Wilson
 date: 2016-08-29 15:04:58
 tags:
@@ -22,7 +22,7 @@ CAs are required to make this change to their processes by a date 90 days from t
 
 Detailed voting results are on the ballot tracker here: https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI
 
-**Ballot 174 – Reform of Requirements Relating to Conflicts with Local Law**
+## Ballot 174 – Reform of Requirements Relating to Conflicts with Local Law
 
 The following motion has been proposed by Gervase Markham of Mozilla and endorsed by Kirk Hall of Entrust and Moudrick Dadashov of SSC:
 
@@ -44,7 +44,8 @@ The CA MUST also (prior to issuing a certificate under the modified requirement)
 Any modification to CA practice enabled under this section MUST be discontinued if and when the Law no longer applies, or these Requirements are modified to make it possible to comply with both them and the Law simultaneously. An appropriate change in practice, modification to the CA’s CPS and a notice to the CA/Browser Forum, as outlined above, MUST be made within 90 days.
 
 CAs are required to make this change to their processes by a date 90 days from the date this ballot passes.
-**–Motion Ends–**
+
+## –Motion Ends–
 
 The review period for this ballot shall commence immediately and close at 2200 UTC on Monday 22nd August. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Monday 29th August. Votes must be cast by posting an on-list reply to this thread.
 

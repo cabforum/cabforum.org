@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2009-02-13-ballot-24-acceptable-audits-in-ev-processing-guidelines/
+- /2009/02/13/ballot-24-acceptable-audits-in-ev-processing-guidelines/
 author: Ben Wilson
 date: 2009-02-13 18:58:23
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Stephen Davidson made the following motion and it was endorsed by Ben Wilson and Johnathan Nightingale.
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective 13 Feb 2009, the EV Processing Requirements should be amended in accordance with the following erratum. For inclusion of an EV CA, the current EV Processing Requirements refer to “an acceptable audit program” whereas the EV Guidelines are more specific in Section J, referring to “equivalent audit procedures approved by the CA/Browser Forum”. At this time the only approved procedures are the (i) [WebTrust][1] Program for CAs audit and (ii) [WebTrust][1] EV Program audit. Equivalent audit procedures for ETSI are currently being developed, and will soon be considered by the CA/B Forum for approval.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 1. Delete the following paragraph from Section 6.1 of the Guidelines for the Processing of Extended Validation Certificates v1.0:
 
@@ -48,17 +40,9 @@ Insert the following paragraph:
 
 “Perhaps the most serious threat to the security of extended validation is the possibility that any one of the CSPs upon which the application relies fails to conform, or maintain conformance with, the EV requirements for issuance and management \[ISSU\]. The main safeguard against this possibility is the CSP audit. Therefore, it is important that the application developer confirm that the CSP’s audit is current, identifies no deficiencies and was conducted by a properly qualified auditor. The audit program must be approved by the CA/Browser Forum as recorded in \[ISSU\] or approved errata. In general, claims of equivalence to an approved audit program are not acceptable.”
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2200 UTC on 30 Jan 2009, and will close at 2200 UTC on 6 Feb 2009. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 13 Feb 2009.
 

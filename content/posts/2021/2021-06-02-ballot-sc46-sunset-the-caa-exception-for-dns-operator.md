@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-06-02-ballot-sc46-sunset-the-caa-exception-for-dns-operator/
+- /2021/06/02/ballot-sc46-sunset-the-caa-exception-for-dns-operator/
 author: Wayne Thayer
 date: 2021-06-02 23:08:22
 tags:
@@ -12,42 +12,42 @@ type: post
 
 The voting on ballot SC46 has completed, and the ballot has **passed**.
 
-**Voting Results**
+## Voting Results
 
-**Certificate Issuers**
+## Certificate Issuers
 
 **17 votes total, with no abstentions**
 
-·        17 Yes votes: Actalis, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, DigiCert, eMudhra, Entrust, Firmaprofesional, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, Kamu SM, SwissSign, Telia Company, Visa
+· 17 Yes votes: Actalis, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, DigiCert, eMudhra, Entrust, Firmaprofesional, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, Kamu SM, SwissSign, Telia Company, Visa
 
-·         0 No Votes
+· 0 No Votes
 
-·         0 Abstentions
+· 0 Abstentions
 
-·       One vote was not counted because it was received after the voting period had ended.
+· One vote was not counted because it was received after the voting period had ended.
 
-**Certificate Consumers**
+## Certificate Consumers
 
 **5 votes total, with no abstentions**
 
-·       5 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla
+· 5 Yes votes: Apple, Cisco, Google, Microsoft, Mozilla
 
-·       0 No votes
+· 0 No votes
 
-·       0 Abstentions
+· 0 Abstentions
 
-**Bylaw Requirements**
+## Bylaw Requirements
 
-1.      Bylaw 2.3(f) requires:
+1. Bylaw 2.3(f) requires:
 
-o     A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
+o A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose.
 _This requirement was MET for Certificate Issuers and MET for Certificate Consumers_.
 
-o    at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
+o at least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted.
 _This requirement was MET_.
 
-2.      Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 13, so the quorum was 14 for this ballot.
-_This requirement was MET._
+2. Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining quorum. Half of the currently active members at the start of voting was 13, so the quorum was 14 for this ballot.
+   _This requirement was MET._
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
 
@@ -63,15 +63,17 @@ To avoid these issues, this sunsets the CAA exception on 2021-07-01 for the DNS 
 
 The following motion has been proposed by Ryan Sleevi of Google and endorsed by Ben Wilson of Mozilla and Jacob Hoffman-Andrews of ISRG/Let’s Encrypt.
 
-It can be viewed on GitHub as
+It can be viewed on GitHub as <https://github.com/cabforum/servercert/pull/271>
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 1.7.4:
 
 MODIFY the Baseline Requirements as specified in the following Redline:
 
-— MOTION ENDS —
+<https://github.com/cabforum/servercert/compare/47248d77d371356780b08cfa971b26d88d704ca8..6d34b1d51f645912d2237d5d4b46f4a49e8352ed>
+
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline.
 

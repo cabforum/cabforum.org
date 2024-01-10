@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2016-05-10-ballot-168-baseline-requirement-corrections-amended/
+- /2016/05/10/ballot-168-baseline-requirement-corrections-amended/
 author: Ben Wilson
 date: 2016-05-10 22:37:45
 tags:
@@ -28,15 +28,15 @@ Dean Coclin
 
 CA/B Forum Chair
 
-**Ballot 168: Baseline Requirements Corrections (Revised)**
+## Ballot 168: Baseline Requirements Corrections (Revised)
 
 The following motion has been proposed by Peter Bowen of Amazon and endorsed by Dimitris Zacharopoulos of HARICA and Rich Smith of Comodo:
 
-**Background:**
+## Background
 
 A number of small corrections and clarifications to the Baseline Requirements have been identified. These are, in general, changes that reflect the existing understanding of the Baseline Requirements by the Forum. Due to the understanding that these primarily represent existing practice, they are combined for efficiency.
 
-**— MOTION BEGINS —**
+## Motion begins
 
 Effective the date of passage, the following modifications to the Baseline Requirements are adopted:
 
@@ -104,7 +104,7 @@ In the following sections, replace all occurrences of “Subscriber or Terms of 
 
 - Section 9.6.3
 
-**— MOTION ENDS —**
+## Motion ends
 
 The review period for this ballot shall commence at 1740 UTC on 26 April 2016, and will close at 2200 UTC on 3 May 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 10 May 2016. Votes must be cast by posting an on-list reply to this thread.
 

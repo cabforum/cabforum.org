@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-06-07-2023-06-7-minutes-of-the-s-mime-certificate-working-group/
+- /2023/06/07/2023-06-7-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-06-07 11:58:34
 tags:
@@ -48,7 +48,7 @@ Minutes were prepared by Ben Wilson.
 - Extant CA transition
 - Release by DigiCert of PKILINT as OSS. Includes lints for the S/MIME BRs. [https://github.com/digicert/pkilint][1]
 - Externally: working with ETSI on TS 119 411-6 on implementation standard-mapping ETSI’s CPs with the S/MIME BRs. Draft will be available within 2 weeks. There is a formal liaison between ETSI and the CABF inviting input from SMCWG members.
-- Discussion of ICA transition — existing or new ICA creation before effective date in “Extant SMIME CA” draft at [https://github.com/srdavidson/smime/tree/Ballot-SMC03][2]. This responds to a comment from a Certificate Consumer that it is often preferable, when a new standard sets a new requirement, that the standard includes transition arrangements. As long as developed with consultation, such “baked in” transition arrangements may simplify adoption by root stores.
+- Discussion of ICA transition - existing or new ICA creation before effective date in “Extant SMIME CA” draft at [https://github.com/srdavidson/smime/tree/Ballot-SMC03][2]. This responds to a comment from a Certificate Consumer that it is often preferable, when a new standard sets a new requirement, that the standard includes transition arrangements. As long as developed with consultation, such “baked in” transition arrangements may simplify adoption by root stores.
 - After September 1: Topics relating Enterprise RAs; CAA; How to create bluesky between S/MIME and Signing?
 
 ### 5. Next call
@@ -56,9 +56,6 @@ Minutes were prepared by Ben Wilson.
 Next call: tentative Wednesday, June 21, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-\_\_PRESENT
-\_\_PRESENT
 
 [1]: https://github.com/digicert/pkilint
 [2]: https://github.com/srdavidson/smime/tree/Ballot-SMC03

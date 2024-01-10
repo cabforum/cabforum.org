@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2020-05-06-2020-04-16-minutes-of-the-ca-browser-forum-teleconference/
+- /2020/05/06/2020-04-16-minutes-of-the-ca-browser-forum-teleconference/
 author: Jos Purvis
 date: 2020-05-06 19:36:00
 tags:
-- Minutes
 - Forum
+- Minutes
 title: 2020-04-16 Minutes of the CA/Browser Forum Teleconference
 type: post
 ---

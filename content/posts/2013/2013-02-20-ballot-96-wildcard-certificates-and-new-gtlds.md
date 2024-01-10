@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-02-20-ballot-96-wildcard-certificates-and-new-gtlds/
+- /2013/02/20/ballot-96-wildcard-certificates-and-new-gtlds/
 author: Ben Wilson
 date: 2013-02-20 18:11:16
 tags:
@@ -10,7 +10,7 @@ title: Ballot 96 – Wildcard Certificates and New gTLDs
 type: post
 ---
 
-**Ballot 96 – Wildcard Certificates and New gTLDs (Passed)**
+## Ballot 96 – Wildcard Certificates and New gTLDs (Passed)
 
 Motion
 

@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-02-01-2023-02-01-minutes-of-the-s-mime-certificate-working-group/
+- /2023/02/01/2023-02-01-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-02-01 02:18:48
 tags:
@@ -38,7 +38,7 @@ The minutes of the January 18 teleconferences were approved.
 
 Stephen Davidson noted that representatives were on the call from TrustAsia, who had not previously joined the WG. There was some confusion regarding lists on the wiki and membership tool. It was agreed that the TrustAsia representatives would leave the call and that the various membership lists would be checked. Stephen thanked the TrustAsia representatives for their cooperation.
 
-The email verification procedures of Section 1.3.2.1 were discussed, following a question submitted by Christophe Bonjean.  He noted that the text for Organization-validated or sponsor-validated profiles indicate the use of Section 3.2.2.1 (domain based) or Section 3.2.2.3 (operator of server). The text for the Mailbox-validated profiles describes Section 3.2.2.2 (email challenge).
+The email verification procedures of Section 1.3.2.1 were discussed, following a question submitted by Christophe Bonjean. He noted that the text for Organization-validated or sponsor-validated profiles indicate the use of Section 3.2.2.1 (domain based) or Section 3.2.2.3 (operator of server). The text for the Mailbox-validated profiles describes Section 3.2.2.2 (email challenge).
 
 Christophe asked if this prohibited Enterprise RAs from issuing mailbox-validated profiles on the basis of domain validation (3.2.2.1) or as operator of server (3.2.2.3). Stephen said that Mailbox-validated profiles could be issued using those methods if the domains belonged to the ERA.
 

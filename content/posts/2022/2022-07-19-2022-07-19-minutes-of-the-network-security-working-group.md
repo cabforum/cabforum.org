@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-07-19-2022-07-19-minutes-of-the-network-security-working-group/
+- /2022/07/19/2022-07-19-minutes-of-the-network-security-working-group/
 author: Clint Wilson
 date: 2022-07-19 12:00:00
 tags:
@@ -10,9 +10,9 @@ title: 2022-07-19 Minutes of the Network Security Working Group
 type: post
 ---
 
-**CA/Browser Forum NetSec Meeting**
+## CA/Browser Forum NetSec Meeting
 
-**Attendance:**
+## Attendance
 
 - Aaron Poulsen – Amazon
 - Adam Jones – Microsoft
@@ -35,41 +35,39 @@ type: post
 - Tony Seymour – Comsign
 - Trevoli Ponds – Amazon Trust Services
 
-**Minutes:**
+## Minutes
 
-**1.  Roll Call**
+**1. Roll Call**
 
-a.   Clint Wilson took attendance
+a. Clint Wilson took attendance
 
-**2.  Read Antitrust Statement**
+**2. Read Antitrust Statement**
 
-a.  Clint Wilson read the antitrust statement
+a. Clint Wilson read the antitrust statement
 
-**3.  Review Agenda**
+**3. Review Agenda**
 
-a.  Cloud Services Risk Assessment Effort Update (David Kluge)
+a. Cloud Services Risk Assessment Effort Update (David Kluge)
 
-b.   Zones Ballot/ Air Gapped Offline (Ben Wilson)
+b. Zones Ballot/ Air Gapped Offline (Ben Wilson)
 
-c.   GitHub Definitions
+c. GitHub Definitions
 
 **4. Cloud Services Sub-Group Risk Assessment effort (David Kluge)**
 
 b. The Assessment Threat Modeling of the OCSP Responders (The first component of the model architecture) has been completed due to a great amount of feedback.
 
-c.  Next area of focus is the Storage of certificates or certificate database.
+c. Next area of focus is the Storage of certificates or certificate database.
 
-d.  Always appreciate those who have the extra time to work on the document offline during the week.
+d. Always appreciate those who have the extra time to work on the document offline during the week.
 
 **5. Ballots (Ben Wilson)**
 
 a.No updates at this time
 
-b.** **** Touched on briefly at end of meeting to cover definitions ******
+b.\*\* \*\*\*\* Touched on briefly at end of meeting to cover definitions \*\*\*\*\*\*
 
 **6. GitHub Definitions**
-
-______________________________________________________________________
 
 a.Reviewed and provided feedback on section that covers the 96 hour process for remediation of critical vulnerabilities.
 

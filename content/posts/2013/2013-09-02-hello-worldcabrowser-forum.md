@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-09-02-hello-worldcabrowser-forum/
+- /2013/09/02/hello-worldcabrowser-forum/
 author: Ben Wilson
 date: 2013-09-02 18:02:11
 tags:

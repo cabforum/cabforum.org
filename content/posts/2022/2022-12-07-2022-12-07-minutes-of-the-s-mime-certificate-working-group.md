@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-12-07-2022-12-07-minutes-of-the-s-mime-certificate-working-group/
+- /2022/12/07/2022-12-07-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2022-12-07 17:37:36
 tags:
@@ -10,31 +10,31 @@ title: 2022-12-07 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
-## Minutes of SMCWG 
+## Minutes of SMCWG
 
 December 07, 2022
 
 These are the Approved Minutes of the Teleconference described in the subject of this message. Corrections and clarifications where needed are encouraged by reply.
 
-### Attendees 
+### Attendees
 
 Adrian Mueller – (SwissSign), Ashish Dhiman – (GlobalSign), Ben Wilson – (Mozilla), Bruce Morton – (Entrust), Chad Ehlers – (IdenTrust), Clint Wilson – (Apple), Corey Bonnell – (DigiCert), Dimitris Zacharopoulos – (HARICA), Don Sheehy – (CPA Canada/WebTrust), Eusebio Herrera – (AC Camerfirma SA), Inaba Atsushi – (GlobalSign), Inigo Barreira – (Sectigo), Marco Schambach – (IdenTrust), Patrycja Tulinska – (PSW), Paul van Brouwershaven – (Entrust), Pekka Lahtiharju – (Telia Company), Rebecca Kelley – (Apple), Renne Rodriguez – (Apple), Stephen Davidson – (DigiCert), Tadahiko Ito – (SECOM Trust Systems), Tim Crawford – (CPA Canada/WebTrust), Tim Hollebeek – (DigiCert)
 
-### 1. Roll Call 
+### 1. Roll Call
 
 The Roll Call was taken.
 
-### 2. Read Antitrust Statement 
+### 2. Read Antitrust Statement
 
 The Antitrust/Compliance Statement was read.
 
-### 3. Review Agenda 
+### 3. Review Agenda
 
-### 4. Approval of minutes from last teleconference 
+### 4. Approval of minutes from last teleconference
 
 NA
 
-### 5. Discussion 
+### 5. Discussion
 
 The WG agreed to drop the planned teleconference for December 21. The January 4 meeting will tentatively go ahead, if only to confirm the effective date of the SBR and the pending availability of audit criteria.
 
@@ -57,11 +57,11 @@ Tim encouraged parties who support the use of CAA for S/MIME to join the IETF di
 
 Stephen noted that CAA if adopted would most likely take effect after the September effective date of the SBR v1.0.0. Dimitris commented that there are CAs that issue S/MIME that do not issue TLS, and for whom CAA may be new, so any deadline should have adequate implementation time.
 
-### 6. Any Other Business 
+### 6. Any Other Business
 
 None
 
-### 7. Next call 
+### 7. Next call
 
 Next call: tentative Wednesday, January 4, 2023 at 11:00 am Eastern Time
 

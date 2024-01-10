@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-08-16-ballot-sc3-two-factor-authentication-and-password-improvements/
+- /2018/08/16/ballot-sc3-two-factor-authentication-and-password-improvements/
 author: Jos Purvis
 date: 2018-08-16 14:12:36
 tags:
@@ -30,9 +30,9 @@ Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one brow
 
 At least one CA Member and one browser Member must vote in favor of a ballot for the ballot to be adopted. This requirement was met.
 
-**The ballot passes.**
+## The ballot passes.
 
-**Ballot SC3: Two-Factor Authentication and Password Improvements**
+## Ballot SC3: Two-Factor Authentication and Password Improvements
 
 **Purpose of Ballot:** The Network Security Working Group met a number of times to improve the Network Security Guidelines requirements around authentication, specifically by requiring two-factor authentication, and improving the password requirements in line with more recent NIST guidelines.
 
@@ -40,7 +40,7 @@ While CAs are encouraged to improve their password requirements as soon as possi
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Dimitris Zacharopoulos of Harica and Neil Dunbar of TrustCor.
 
-— MOTION BEGINS –
+- MOTION BEGINS –
 
 This ballot modifies the “Network and Certificate System Security Requirements” as follows, based upon Version 1.1:
 
@@ -82,9 +82,9 @@ Change section 2.n. to read:
 
 “Enforce Multi-Factor Authentication for all Trusted Role accounts on Certificate Systems (including those approving the issuance of a Certificate, which equally applies to Delegated Third Parties) that are accessible from outside a Secure Zone or High Security Zone; and”
 
-— MOTION ENDS –
+## Motion ends
 
-A comparison of the changes in this ballot can be found at
+A comparison of the changes in this ballot can be found at <https://github.com/cabforum/documents/commit/4a98c0917510937432d1f004cf36fd989851cdb8#diff-50fc941f7be640a0bf58764b83d5d9e7>
 
 The procedure for approval of this ballot is as follows:
 

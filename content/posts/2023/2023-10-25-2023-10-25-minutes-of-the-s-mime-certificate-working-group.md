@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2023-10-25-2023-10-25-minutes-of-the-s-mime-certificate-working-group/
+- /2023/10/25/2023-10-25-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2023-10-25 20:27:50
 tags:
@@ -61,8 +61,6 @@ None
 Next call: Thursday, November 15, 2023 at 11 am Eastern time.
 
 ### Adjourned
-
-\_\_PRESENT
 
 [1]: https://rfc-editor.org/rfc/rfc9495.html
 [2]: https://github.com/cabforum/smime/pull/218

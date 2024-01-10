@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-02-02-ballot-csc-7v2-update-to-merge-ev-and-non-ev-clauses/
+- /2021/02/02/ballot-csc-7v2-update-to-merge-ev-and-non-ev-clauses/
 author: Ben Wilson
 date: 2021-02-02 16:18:00
 tags:
@@ -30,14 +30,14 @@ The CSC-2 merger of the Code Signing BRs and the EV Code Signing Guidelines was 
 
 The following motion has been proposed by Bruce Morton of Entrust, and endorsed by Dimitris Zacharopoulos of HARICA and Dean Coclin of DigiCert.
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” version 2.1 according to the attached redline.
 
 [Baseline Requirements for the Issuance and Management of Code Signing v2.2.pdf](/uploads/baseline_requirements_for_the_issuance_and_management_of_code_signing.v2.2.pdf)
 [Baseline Requirements for the Issuance and Management of Code Signing v2.2 – redline.pdf](/uploads/baseline_requirements_for_the_issuance_and_management_of_code_signing.v2.2_redline.pdf)
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 

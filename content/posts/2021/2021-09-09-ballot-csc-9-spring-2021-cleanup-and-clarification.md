@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2021-09-09-ballot-csc-9-spring-2021-cleanup-and-clarification/
+- /2021/09/09/ballot-csc-9-spring-2021-cleanup-and-clarification/
 author: Ben Wilson
 date: 2021-09-09 21:09:00
 tags:
@@ -10,13 +10,13 @@ title: Ballot CSC-9 – Spring 2021 Cleanup and Clarification
 type: post
 ---
 
-**IPR Review Results**
+## IPR Review Results
 
 The review period has ended and no exclusion notices were filed.
 
 The final documents, with the effective date being 9 September 2021, are available [here](/working-groups/code-signing/documents/).
 
-**Voting Results**
+## Voting Results
 
 Voting on Ballot CSC-9 has concluded and the ballot has passed. Below are the results:
 
@@ -39,21 +39,19 @@ Dean Coclin
 
 CSCWG Chair
 
-______________________________________________________________________
-
-**Purpose of this ballot:**
+## Purpose of this ballot
 
 Cleanup and clarify requirements in the Baseline Requirement for the Issuance and Management of Publicly-Trusted Code Signing Certificates v2.3.
 
 The following motion has been proposed by Bruce Morton, and endorsed by Ian McMillan of Microsoft and Corey Bonnell of DigiCert.
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates“ version 2.3 according to the following redline.
 
 [Baseline Requirements for the Issuance and Management of Code Signing Ballot CSC-9][1]
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 

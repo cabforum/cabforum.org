@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2011-04-08-ballot-57-verifying-agency-through-confirmation-of-employment-using-qiis-or-qgis/
+- /2011/04/08/ballot-57-verifying-agency-through-confirmation-of-employment-using-qiis-or-qgis/
 author: Ben Wilson
 date: 2011-04-08 21:08:06
 tags:
@@ -17,29 +17,17 @@ Motion
 
 Ryan Koski made the following motion, and Ben Wilson and Rich Smith endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Effective immediately,
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 In Section 10.7.2.(2), insert after (B):
 
 “(C) Obtaining confirmation from a QIIS or QGIS that the Contract Signer and/or Certificate Approver is an employee of the Applicant.”
 
-______________________________________________________________________
-
-Erratum ends
-
-______________________________________________________________________
+### Erratum ends
 
 The ballot review period comes into effect at 2100 UTC on 25 Mar ’11 and will close at 2100 UTC on 1 Apr ’11. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 8 Apr ’11.
 
@@ -49,6 +37,4 @@ A vote in favour of the motion must indicate a clear ‘yes’ in the response. 
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends

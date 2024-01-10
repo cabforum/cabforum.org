@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-09-23-ballot-52-contract-signer-self-asserted-authority/
+- /2010/09/23/ballot-52-contract-signer-self-asserted-authority/
 author: Ben Wilson
 date: 2010-09-23 00:06:00
 tags:

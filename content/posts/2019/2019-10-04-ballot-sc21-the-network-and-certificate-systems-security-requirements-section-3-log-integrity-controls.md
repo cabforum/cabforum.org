@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2019-10-04-ballot-sc21-the-network-and-certificate-systems-security-requirements-section-3-log-integrity-controls/
+- /2019/10/04/ballot-sc21-the-network-and-certificate-systems-security-requirements-section-3-log-integrity-controls/
 author: Wayne Thayer
 date: 2019-10-04 03:49:15
 tags:
@@ -45,15 +45,15 @@ This ballot also adds specific requirements in terms of the timeliness for addre
 
 It is proposed by Ben Wilson of DigiCert and endorsed by Trevoli Ponds-White of Amazon and Fotis Loukos of SSL.com to revise the Network and Certificate System Security Requirements (Requirements) as set forth in the following language of Section 3 of the Requirements, to be EFFECTIVE ninety (90) days after completion of the IPR Review Period:
 
-\*— BALLOT BEGINS —\*
+\*- BALLOT BEGINS -\*
 
-e.       Monitor the integrity of the logging processes for application and system logs through continuous automated monitoring and alerting or through a human review to ensure that logging and log-integrity functions are effective. Alternatively, if a human review is utilized and the system is online, the process must be performed at least once every 31 days.
+e. Monitor the integrity of the logging processes for application and system logs through continuous automated monitoring and alerting or through a human review to ensure that logging and log-integrity functions are effective. Alternatively, if a human review is utilized and the system is online, the process must be performed at least once every 31 days.
 
-f.       Monitor the archival and retention of logs to ensure that logs are retained for the appropriate amount of time in accordance with the disclosed business practices and applicable legislation.
+f. Monitor the archival and retention of logs to ensure that logs are retained for the appropriate amount of time in accordance with the disclosed business practices and applicable legislation.
 
-g.       If continuous automated monitoring and alerting is utilized to satisfy sections 1.h. or 3.e. of these Requirements, respond to the alert and initiate a plan of action within at most twenty-four (24) hours.
+g. If continuous automated monitoring and alerting is utilized to satisfy sections 1.h. or 3.e. of these Requirements, respond to the alert and initiate a plan of action within at most twenty-four (24) hours.
 
-\*— BALLOT ENDS —\*
+\*- BALLOT ENDS -\*
 
 The procedure for approval of this ballot is as follows:
 
@@ -67,8 +67,8 @@ Immediately following the conclusion of the discussion period, one of the above 
 
 If this ballot passes, then an IPR Review Period will occur in accordance with Bylaws 2.4.5 and 2.4.6.
 
-\*\** WARNING ***: USE THE PDF ATTACHMENT / GITHUB AT YOUR OWN RISK. THE REDLINE VERSIONS PROVIDED ARE NOT THE OFFICIAL VERSION OF THE CHANGES AND THE BALLOT VERSION ABOVE TAKES PRECEDENCE OVER SUCH REDLINE VERSIONS IN ACCORDANCE WITH SECTION 2.4.1 OF THE FORUM BYLAWS:
+\*\\*\* WARNING \*\**: USE THE PDF ATTACHMENT / GITHUB AT YOUR OWN RISK. THE REDLINE VERSIONS PROVIDED ARE NOT THE OFFICIAL VERSION OF THE CHANGES AND THE BALLOT VERSION ABOVE TAKES PRECEDENCE OVER SUCH REDLINE VERSIONS IN ACCORDANCE WITH SECTION 2.4.1 OF THE FORUM BYLAWS:
 
 https://github.com/tobij/documents/blob/25169b17812645641b9843426eb0af41d8e96ec6/docs/NSR.md
 
-(ONLY SHOWS MOST RECENT CHANGES MADE DURING COMMITTEE DISCUSSIONS, AND NOT REDLINES FROM THE CURRENT VERSION – USE THE PDF FOR THOSE)
+<https://github.com/tobij/documents/commit/25169b17812645641b9843426eb0af41d8e96ec6> (ONLY SHOWS MOST RECENT CHANGES MADE DURING COMMITTEE DISCUSSIONS, AND NOT REDLINES FROM THE CURRENT VERSION – USE THE PDF FOR THOSE)

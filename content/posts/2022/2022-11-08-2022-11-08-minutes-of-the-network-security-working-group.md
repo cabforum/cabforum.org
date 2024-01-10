@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2022-11-08-2022-11-08-minutes-of-the-network-security-working-group/
+- /2022/11/08/2022-11-08-minutes-of-the-network-security-working-group/
 author: Ben Wilson
 date: 2022-11-08 17:00:00
 tags:
@@ -13,9 +13,9 @@ type: post
 CA/Browser Forum NetSec Meeting
 **Attendance:** Adam Jones – Microsoft; Aaron Poulsen – Amazon Trust Services; Ben Wilson – Mozilla; Clint Wilson – Apple; Corey Rasmussen – OATI; David Kluge – Google; Joanna Fox – TrustCor; Marcelo Silva – Visa; Paul van Brouwershaven – Entrust; Pedro Fuentes – OISTE; Prachi Jain – Fastly; Rebecca Kelley – Apple; Ruben Annemans – GlobalSign; Tim Crawford – BDO; Tobias Josefowitz – Opera
 
-**Minutes:**
+## Minutes
 
-**Read Antitrust Statement**
+## Read Antitrust Statement
 
 Clint Wilson read the antitrust statement
 **2. Roll Call**
@@ -25,7 +25,7 @@ No new members in attendance
 
 Waiting to approve minutes from previous meeting that was held at the F2F
 
-New Meeting time and link
+New Meeting time and link <https://cabf.webex.com/cabf/j.php?MTID=m0192d60c00c649d7c4c5d0dfceb74ef2>
 
 Risk Assessment/ Cloud Services review (David Kluge)
 

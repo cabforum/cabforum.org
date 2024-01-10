@@ -1,12 +1,12 @@
 ---
 aliases:
-- /2023-10-05-2023-10-05-minutes-of-the-f2f-code-signing-certificate-working-group/
+- /2023/10/05/2023-10-05-minutes-of-the-f2f-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2023-10-05 21:00:43
 tags:
-- Code Signing
-- Minutes
 - Face-to-Face
+- Minutes
+- Code Signing
 title: 2023-10-05 Minutes of the F2F Code Signing Certificate Working Group
 type: post
 ---
@@ -21,7 +21,7 @@ Adam Jones – (Microsoft), Aleksandra Kurosz – (Asseco Data Systems SA (Certu
 
 **Interested Party status** – IBM added as interested party
 
-**Ballot Proposals Status:-**
+## Ballot Proposals Status:-
 
 Cleanup Ballot – Proposal shared , to be pursued forward for discussion period
 
@@ -33,7 +33,7 @@ Code Signing Working Group Charter Update – Proposed language update. Changes 
 
 High Risk Ballot – To be cleaned up and ballot to be provided but after Service Signing ballot is pursued for discussion and is closer to be approved.
 
-**Individual and Organization verification Mechanism :**
+## Individual and Organization verification Mechanism
 
 Value of point in time location verification and use fields like State and Locality being discussed – It was highlighted that there could be tools in the market may be using these fields, so consuming technology may need these fields but what level of verification is required can be discussed
 
@@ -87,7 +87,7 @@ Martijn gives anecdotal evidence about customers providing half-a-page “audits
 
 Paul brings up that there are several hardware devices that cannot handle attestation. Tim says that we may need to start out with vague guidelines that strengthen as the ecosystem does.
 
-— Break —
+- Break
 
 10. Bruce wants to bring up open Github items, with Martijn’s assistance, as they are mostly his items.
 
@@ -108,7 +108,5 @@ Dean -mentioned that Adobe is an interested party, but no new news to add.
 Ben Wilson – Curious about EV code signing standard. What is the status of that? Is there a need for it? There should be a reference added to the document that states that it is no longer valid; no one wanted to take up the initiative of generating a ballot for this change, but Tim suggests creating a Github issue to follow up on this.
 
 Don Sheehy was honored for his contributions over the years.
-
-****
 
 12. Meeting adjourned; next meeting in 2 weeks.

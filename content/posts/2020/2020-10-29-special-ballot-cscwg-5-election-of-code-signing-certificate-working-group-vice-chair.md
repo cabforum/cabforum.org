@@ -1,12 +1,12 @@
 ---
 aliases:
-- /2020-10-29-special-ballot-cscwg-5-election-of-code-signing-certificate-working-group-vice-chair/
+- /2020/10/29/special-ballot-cscwg-5-election-of-code-signing-certificate-working-group-vice-chair/
 author: Ben Wilson
 date: 2020-10-29 04:04:00
 tags:
+- Server Certificates
 - Code Signing
 - Ballot
-- Server Certificates
 title: 'Special Ballot CSCWG-5: Election of Code Signing Certificate Working Group
   Vice Chair'
 type: post
@@ -20,11 +20,11 @@ Purpose of Ballot
 
 This special ballot is to confirm the new Vice Chair of the Code Signing Certificate Working Group.
 
-— MOTION BEGINS —
+## Motion begins
 
 In accordance with Bylaw 4.1©, Bruce Morton representing Entrust is hereby elected Vice Chair of the Code Signing Certificate Working Group for a term commencing on November 1, 2020 and continuing through October 31, 2022.
 
-— MOTION ENDS —
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 

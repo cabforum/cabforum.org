@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-04-06-ballot-37-another-qgis/
+- /2010/04/06/ballot-37-another-qgis/
 author: Ben Wilson
 date: 2010-04-06 20:20:57
 tags:
@@ -20,25 +20,15 @@ Rules for verifying an Applicant’s place of business address are specified in 
 
 A QGIS, other than one “operated by, or on behalf of, the Incorporating or Registration Agency” (such as the SEC), should be an acceptable alternative to the QIIS and QTIS that are allowed by Section 10.4.1.
 
-______________________________________________________________________
+## Motion begins
 
-Motion begins
-
-______________________________________________________________________
-
-Effective immediately, delete:-
-
+Effective immediately, delete:
 “10.4.1 Address of Applicant’s Place of Business … (A) Place of Business in the Country of Incorporation or Registration (i) For Applicants whose Place of Business is in the same country as the Applicant’s Jurisdiction of Incorporation or Registration and whose Place of Business is NOT the same as that indicated in the relevant Qualified Government Information Source used in Section 10.2 to verify legal existence: (1) For Applicants listed at the same Place of Business address in the current version of either at least one QIIS or a QTIS, the CA MUST confirm that the Applicant’s address, as listed in the EV Certificate Request, is a valid business address for the Applicant or a Parent/Subsidiary Company by reference to such QIIS or QTIS, and MAY rely on the Applicant’s representation that such address is its Place of Business;”
 
-And, insert:-
-
+And, insert:
 “10.4.1 Address of Applicant’s Place of Business … (A) Place of Business in the Country of Incorporation or Registration (i) For Applicants whose Place of Business is in the same country as the Applicant’s Jurisdiction of Incorporation or Registration and whose Place of business is NOT the same as that indicated in the Qualified Government Information Source used in Section 10.2 to verify legal existence: (1) For Applicants listed at the same Place of Business address in the current version of either at least one QGIS (other than that used to verify legal existence), QIIS or QTIS, the CA MUST confirm that the Applicant’s address, as listed in the EV Certificate Request, is a valid business address for the Applicant or a Parent/Subsidiary Company by reference to such QGIS, QIIS or QTIS, and MAY rely on the Applicant’s representation that such address is its Place of Business;”
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 19 Mar ’10 and will close at 2100 UTC on 26 Mar ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 6 Apr ’10.
 

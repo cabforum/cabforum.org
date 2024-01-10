@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2018-07-27-ballot-sc2-validating-certificates-via-caa-contact/
+- /2018/07/27/ballot-sc2-validating-certificates-via-caa-contact/
 author: Jos Purvis
 date: 2018-07-27 00:56:34
 tags:
@@ -12,27 +12,27 @@ type: post
 
 The voting period for Ballot SC2 has ended and the ballot has failed. Here are the results.
 
-**Voting by CAs – 25 votes total, including abstentions**
+## Voting by CAs – 25 votes total, including abstentions
 
-20 Yes votes: Amazon, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, D-TRUST, DigiCert, Entrust Datacard, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, QuoVadis, SECOM, SHECA, SSL.com, SwissSign, TWCA, TrustCor, Visa
+- **20 Yes votes:** Amazon, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, D-TRUST, DigiCert, Entrust Datacard, GDCA, GlobalSign, GoDaddy, HARICA, Izenpe, QuoVadis, SECOM, SHECA, SSL.com, SwissSign, TWCA, TrustCor, Visa
 
-0 No votes:
+- **0 No votes:**
 
-5 Abstain: Actalis, Comodo CA, Disig, KPN Corporate Market, SSC
+- **5 Abstain:** Actalis, Comodo CA, Disig, KPN Corporate Market, SSC
 
 100% of voting CAs voted in favor
 
-**Voting by browsers – 8 votes total, including abstentions**
+## Voting by browsers – 8 votes total, including abstentions
 
-2 Yes votes: Microsoft, Opera
+- **2 Yes votes:** Microsoft, Opera
 
-2 No votes: Cisco, Google
+- **2 No votes:** Cisco, Google
 
-4 Abstain: Apple, Comodo Group Inc., Mozilla, 360
+- **4 Abstain:** Apple, Comodo Group Inc., Mozilla, 360
 
 50% of voting browsers voted in favor
 
-**Quorum requirements**
+## Quorum requirements
 
 Currently active members: 23
 
@@ -48,15 +48,15 @@ At least one CA Member and one browser Member must vote in favor of a ballot for
 
 Bylaw 2.2(f) requires a yes vote by two-thirds of CA votes and 50%-plus-one browser votes for approval. Votes to abstain are not counted for this purpose. This requirement was met for CAs but was **not** met for browsers.
 
-**Ballot SC2 fails.**
+## Ballot SC2 fails.
 
-**Ballot SC2: CAA Contact Property and Associated Validation Methods**
+## Ballot SC2: CAA Contact Property and Associated Validation Methods
 
 Purpose of Ballot: Increasingly, contact information is not available in WHOIS due to concerns about potential GDPR violations. This ballot specifies a method by which domain holders can publish their contact information via DNS, and how CAs can use that information for validating domain control.
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Bruce Morton of Entrust and Doug Beattie of GlobalSign.
 
-— MOTION BEGINS —
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.5.7:
 
@@ -88,7 +88,7 @@ The Random Value SHALL be unique in each email. The email MAY be re-sent in its 
 
 Note: Once the FQDN has been validated using this method, the CA MAY also issue Certificates for other FQDNs that end with all the labels of the validated FQDN. This method is suitable for validating Wildcard Domain Names.
 
-##### 3.2.2.4.16 Domain Owner Phone published in TXT record
+\##### 3.2.2.4.16 Domain Owner Phone published in TXT record
 
 Confirm the Applicant’s control over the FQDN by calling the DNS domain name holder phone number and obtaining a response confirming the Applicant’s request for validation of the FQDN. The CA MUST place the call to a phone number identified in the DNS TXT record defined in Appendix B.
 
@@ -118,31 +118,31 @@ The following is an example where the holder of the domain specified the contact
 
 $ORIGIN example.com
 
-.             CAA 0 issue “ca.example.net”
+. CAA 0 issue “ca.example.net”
 
-.             CAA 0 contact “”
+. CAA 0 contact “”
 
-.             CAA 0 contact “”
+. CAA 0 contact “”
 
-## Support for Legacy Systems
+\## Support for Legacy Systems
 
 Some systems still do not have sufficient support for CAA records. To allow users of those systems to specify contact information, a legacy format using text records is allowed. The CAA contact property SHOULD be used instead of TXT records, where feasible.
 
 The DNS TXT record MUST be placed on the “\_caa_contact” subdomain of the domain being validated. The DNS record MUST be named “domain-authorization-email” or “domain-authorization-phone”. The value of “domain-authorization-email” MUST contain a valid email address, or it cannot be used. The value of “domain-authorization-phone” must be a global phone number, including country code, as defined in RFC 3966 or it cannot be used.
 
-— MOTION ENDS —
+## Motion ends
 
 A comparison of the changes can be found at:
 
 The procedure for approval of this ballot is as follows:
 
-**Discussion (7+ days)**
+## Discussion (7+ days)
 
 Start Time: 2018-07-11 10:30am EST
 
 End Time: 2018-07-19 11:00am EST
 
-**Vote for approval (7 days)**
+## Vote for approval (7 days)
 
 Start Time: 2018-07-19 11:00am EST
 

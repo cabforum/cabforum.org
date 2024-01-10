@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2012-04-06-ballot-67-adopt-ipr-policy/
+- /2012/04/06/ballot-67-adopt-ipr-policy/
 author: Ben Wilson
 date: 2012-04-06 21:24:15
 tags:
@@ -16,7 +16,7 @@ Motion
 
 Jeremy Rowley made the following motion, and Gervase Markham and Dean Coclin endorsed it:
 
-Motion begins
+## Motion begins
 
 As of April 8, 2012 (“Effective Date”), the CA/Browser Forum adopts Rev. 0_99.2 of ‘CA/Browser Forum Intellectual Property Rights Policy’ and the ‘CAB Forum IPR Policy Agreement’ – available at:
 
@@ -32,4 +32,4 @@ A vote in favor of the motion must indicate a clear ‘yes’ in the response. A
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-Motion ends
+## Motion ends

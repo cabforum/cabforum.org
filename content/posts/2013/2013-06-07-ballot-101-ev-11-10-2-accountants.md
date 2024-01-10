@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2013-06-07-ballot-101-ev-11-10-2-accountants/
+- /2013/06/07/ballot-101-ev-11-10-2-accountants/
 author: Ben Wilson
 date: 2013-06-07 18:28:46
 tags:
@@ -16,7 +16,7 @@ Motion
 
 Ryan Koski made the following motion, and Ben Wilson from DigiCert and Rich Smith from Comodo endorsed it:
 
-Motion Begins
+## Motion Begins
 
 EFFECTIVE IMMEDIATELY, in order to eliminate a conflict in the Extended Validation Guidelines between the definition of Accounting Practitioner in Section 4 (Definitions) mentioning “country” and the specific requirements for verifying the status of Accounting Practitioners in 11.10.2(1)(A) which does not, and to clarify the requirement, we propose amending section 11.10.2 as follows:
 
@@ -32,6 +32,6 @@ and INSERT:
 
 The review period for this ballot shall commence at 21:00 UTC on 24 May 2013 and will close at 21:00 UTC on 31 May 2013. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 21:00 UTC on 7 June 2013. Votes must be cast by posting an on-list reply to this thread.
 
-Motion Ends
+## Motion Ends
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.

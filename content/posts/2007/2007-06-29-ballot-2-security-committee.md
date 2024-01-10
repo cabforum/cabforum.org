@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2007-06-29-ballot-2-security-committee/
+- /2007/06/29/ballot-2-security-committee/
 author: Ben Wilson
 date: 2007-06-29 16:03:08
 tags:

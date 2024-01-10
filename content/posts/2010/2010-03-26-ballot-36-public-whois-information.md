@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2010-03-26-ballot-36-public-whois-information/
+- /2010/03/26/ballot-36-public-whois-information/
 author: Ben Wilson
 date: 2010-03-26 20:18:33
 tags:
@@ -16,14 +16,9 @@ Motion
 
 Tim Moses made the following motion, and Eddy Nigg and Cecilia Kam endorsed it:
 
-______________________________________________________________________
+## Motion begins
 
-Motion begins
-
-______________________________________________________________________
-
-Effective immediately, delete:-
-
+Effective immediately, delete:
 “10.6 Verification of Applicant’s Domain Name
 
 10.6.1 Verification Requirements
@@ -34,19 +29,14 @@ To verify the Applicant’s registration, or exclusive control, of the Domain Na
 
 (2) Domain registration information in the WHOIS database is public and shows the name, physical address, and administrative contact information for the organization;”
 
-And insert:-
-
+And insert:
 “10.6 Verification of Applicant’s Domain Name
 
 10.6.1 Verification Requirements
 
 To verify the Applicant’s registration, or exclusive control, of the Domain Name(s) to be listed in the EV Certificate, the CA MUST verify that each such Domain Name is registered with an Internet Corporation for Assigned Names and Numbers (ICANN)-approved registrar or a registry listed by the Internet Assigned Numbers Authority (IANA). For each such domain, the CA MUST compare any registration information that is publicly available from the WHOIS database with the verified Subject organization information and MUST confirm that it is neither misleading nor inconsistent.”
 
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 2100 UTC on 12 Mar ’10 and will close at 2100 UTC on 19 Mar ’10. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on 26 Mar ’10.
 

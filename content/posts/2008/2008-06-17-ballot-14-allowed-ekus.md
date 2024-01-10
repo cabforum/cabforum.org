@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2008-06-17-ballot-14-allowed-ekus/
+- /2008/06/17/ballot-14-allowed-ekus/
 author: Ben Wilson
 date: 2008-06-17 18:29:39
 tags:
@@ -16,19 +16,11 @@ Motion
 
 Bruce Morton has made the following motion, and Inigo Barreira and Johnathan Nightingale have endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 The Guidelines should be amended by the following erratum.
 
-______________________________________________________________________
-
-Erratum begins
-
-______________________________________________________________________
+### Erratum begins
 
 1. Replace the following paragraph from Section 1.(b)
 
@@ -44,17 +36,9 @@ With:
 
 Either the value id-kp-serverAuth \[RFC3280\] or id-kp-clientAuth \[RFC3280\] or both values MUST be present. Server Gated Cryptography values 1.3.6.1.4.1.311.10.3.3 (msSGC) and 2.16.840.1.113730.4.1 (nsSGC) are NOT RECOMMENDED. Other values SHALL NOT be present.”
 
-______________________________________________________________________
+### Erratum ends
 
-Erratum ends
-
-______________________________________________________________________
-
-______________________________________________________________________
-
-Motion ends
-
-______________________________________________________________________
+## Motion ends
 
 The ballot review period comes into effect at 1700 EDT on (Tuesday) 3 June 2008, and will close at 1700EDT on (Tuesday) 10 June 2008. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 1700 EDT on (Tuesday) 17 June 2008.
 

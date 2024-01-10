@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2012-06-12-ballot-76-public-review-of-network-security-controls/
+- /2012/06/12/ballot-76-public-review-of-network-security-controls/
 author: Ben Wilson
 date: 2012-06-12 21:46:28
 tags:
-- Ballot
 - Network Security
+- Ballot
 - Server Certificates
 title: Ballot 76 – Public Review of Network Security Controls
 type: post
@@ -17,11 +17,7 @@ Motion
 
 Ben Wilson made the following motion, and Eddy Nigg and Gerv Markham endorsed it:
 
-______________________________________________________________________
-
-Motion begins
-
-______________________________________________________________________
+## Motion begins
 
 Members of the CAB Forum have drafted Network Security Requirements, dated May 14,2012, and setting a baseline level of network security for all certification authorities that operate or manage a root certificate embedded as a trust anchor in publicly distributed browser software. The document is available for review here:
 
@@ -53,6 +49,4 @@ A vote in favor of the motion must indicate a clear ‘yes’ in the response. A
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-______________________________________________________________________
-
-Motion ends
+## Motion ends
