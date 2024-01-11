@@ -1,7 +1,6 @@
 ---
 aliases:
 - /ev-code-signing-certificate-guidelines/
-author: Ben Wilson
 date: 2014-03-27 00:40:16
 linkTitle: EV Documents
 title: EV Code Signing Certificate Guidelines

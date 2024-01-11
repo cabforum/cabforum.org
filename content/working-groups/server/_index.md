@@ -1,7 +1,6 @@
 ---
 aliases:
 - /scwg/
-author: Ben Wilson
 date: 2018-07-12 16:39:37
 linkTitle: Server Cert WG
 menu:

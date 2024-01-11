@@ -1,7 +1,6 @@
 ---
 aliases:
 - /network-security-wg-ballots/
-author: Ben Wilson
 date: 2022-02-08 22:11:57
 linkTitle: Ballots
 title: Network Security WG Ballots

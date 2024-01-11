@@ -1,10 +1,8 @@
 ---
 aliases:
 - /leadership/
-author: Ben Wilson
 date: 2013-08-31 03:01:56
 title: Leadership
-type: page
 ---
 
 The CA/Browser Forum strives to be a consensus-driven organization. There is no formal organizational structure. There are two recognized roles within the Forum and Working Group level: Chairperson and Vice-Chairperson. The Chairperson is responsible for coordinating meetings, preparing meeting minutes, and other organizational activities. The Vice Chairperson performs the duties of the Chairperson in the absence of the Chairperson, and other tasks delegated to the Chair and Vice-Chair. Further details concerning the responsibilities of the Chairperson and Vice-Chairperson can be found in the [Bylaws][1].

@@ -1,10 +1,8 @@
 ---
 aliases:
 - /minutes/
-author: Ben Wilson
 date: 2013-09-04 01:17:06
 title: Minutes
-type: page
 ---
 
 Since May 2012, the proceedings of the CA/Browser Forum have been made public generally two weeks after they have been distributed to members for review.

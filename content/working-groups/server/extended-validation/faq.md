@@ -1,10 +1,8 @@
 ---
 aliases:
 - /ev-faq/
-author: Ben Wilson
 date: 2013-09-04 03:25:30
 title: EV FAQ
-type: page
 ---
 
 # Frequently Asked Questions about the EV Guidelines {#Frequently_Asked_Questions_about_the_EV_Guidelines}

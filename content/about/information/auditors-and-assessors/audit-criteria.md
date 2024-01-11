@@ -1,10 +1,8 @@
 ---
 aliases:
 - /audit-criteria/
-author: Ben Wilson
 date: 2013-10-01 17:43:21
 title: Audit Criteria
-type: page
 ---
 
 The CA / Browser Forum requires that all audits of Certification Authorities be performed by qualified auditors in accordance with an eligible audit scheme, such as the WebTrust® Program for Certification Authorities or ETSI. Also allowed, subject to confirmation by the browser to which a CA wishes to submit its root, are schemes that audit conformance to ISO 21188 or government audit schemes, where the CA is required by law or regulation (i.e. its Certificate Policy) to use a different internal audit scheme, provided that the audit either (a) encompasses all requirements of one of the above schemes or (b) consists of comparable criteria that are available for public review.

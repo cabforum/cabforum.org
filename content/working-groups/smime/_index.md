@@ -1,7 +1,6 @@
 ---
 aliases:
 - /smime-certificate-wg/
-author: Stephen Davidson
 date: 2020-06-23 04:38:00
 linkTitle: S/MIME Cert WG
 menu:

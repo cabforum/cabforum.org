@@ -1,10 +1,8 @@
 ---
 aliases:
 - /validation-subcommittee/
-author: Ben Wilson
 date: 2018-10-06 22:36:48
 title: Validation Subcommittee
-type: page
 ---
 
 **Validation Subcommittee of the Server Certificate Working Group**

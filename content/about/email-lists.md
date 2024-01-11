@@ -1,10 +1,8 @@
 ---
 aliases:
 - /email-lists/
-author: Ben Wilson
 date: 2013-08-31 03:10:54
 title: Email Lists
-type: page
 ---
 
 ## Forum Discussions are Now Public {#Forum_Discussions_are_Now_Public}

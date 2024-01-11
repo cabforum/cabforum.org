@@ -1,10 +1,8 @@
 ---
 aliases:
 - /baseline-requirements/
-author: Ben Wilson
 date: 2013-12-13 18:36:08
 title: Baseline Requirements
-type: page
 ---
 
 **[About the Baseline Requirements][1]**

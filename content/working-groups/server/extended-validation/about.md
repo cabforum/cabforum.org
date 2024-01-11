@@ -1,10 +1,8 @@
 ---
 aliases:
 - /about-ev-ssl/
-author: Ben Wilson
 date: 2013-09-04 03:17:15
 title: About EV SSL
-type: page
 ---
 
 **Objectives of Extended Validation**

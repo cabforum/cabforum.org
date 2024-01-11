@@ -1,10 +1,8 @@
 ---
 aliases:
 - /internal-names/
-author: Ben Wilson
 date: 2013-10-01 15:05:47
 title: Guidance on Internal Names
-type: page
 ---
 
 ## Guidance on the Deprecation of Internal Server Names and Reserved IP Addresses

@@ -1,7 +1,6 @@
 ---
 aliases:
 - /code-signing-working-group/
-author: Ben Wilson
 date: 2013-09-04 03:49:36
 linkTitle: Code Signing Cert WG
 menu:

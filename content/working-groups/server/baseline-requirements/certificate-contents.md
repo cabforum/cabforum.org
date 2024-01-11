@@ -1,10 +1,8 @@
 ---
 aliases:
 - /baseline-requirements-certificate-contents/
-author: Ben Wilson
 date: 2013-09-04 03:30:54
 title: Certificate Contents for Baseline SSL
-type: page
 ---
 
 # Baseline Requirements for Contents of Publicly Trusted SSL/TLS Certificates {#Baseline_Requirements_for_Contents_of_Publicly_Trusted_SSL.2BAC8-TLS_Certificates}

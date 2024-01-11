@@ -1,10 +1,8 @@
 ---
 aliases:
 - /extended-validation-2/
-author: Ben Wilson
 date: 2013-12-10 18:05:00
 title: Extended Validation
-type: page
 ---
 
 **[About the Extended Validation Guidelines][1]**

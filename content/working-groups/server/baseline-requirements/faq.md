@@ -1,10 +1,8 @@
 ---
 aliases:
 - /faq-about-the-baseline-requirements/
-author: Ben Wilson
 date: 2013-09-04 03:33:24
 title: FAQ for Baseline Requirements
-type: page
 ---
 
 # Frequently Asked Questions about the Baseline Requirements {#Frequently_Asked_Questions_about_the_Baseline_Requirements}

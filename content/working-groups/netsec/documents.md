@@ -1,7 +1,6 @@
 ---
 aliases:
 - /network-security-requirements/
-author: Ben Wilson
 date: 2018-11-08 17:25:46
 linkTitle: Documents
 title: Network Security Requirements

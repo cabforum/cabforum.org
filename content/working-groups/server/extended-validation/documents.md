@@ -1,10 +1,8 @@
 ---
 aliases:
 - /extended-validation/
-author: Ben Wilson
 date: 2013-08-31 00:36:51
 title: EV Guidelines for TLS Server Certificates
-type: page
 ---
 
 ## **EV Guidelines for TLS Server Certificates

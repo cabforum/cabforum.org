@@ -1,10 +1,8 @@
 ---
 aliases:
 - /news/
-author: Ben Wilson
 date: 2013-08-31 03:02:59
 title: CA / Browser Forum News
-type: page
 ---
 
 ****CA / Browser Forum** News, Press Releases, Correspondence, and other PKI Industry News**

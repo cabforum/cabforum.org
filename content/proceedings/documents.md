@@ -1,10 +1,8 @@
 ---
 aliases:
 - /documents/
-author: Ben Wilson
 date: 2013-12-03 23:42:56
 title: Documents
-type: page
 ---
 
 ## Baseline Requirements for TLS Server Certificates and Extended Validation (EV) Guidelines 

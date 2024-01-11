@@ -1,10 +1,8 @@
 ---
 aliases:
 - /guidance-ip-addresses-certificates/
-author: Ben Wilson
 date: 2016-05-26 07:27:09
 title: Guidance on IP Addresses in Certificates
-type: page
 ---
 
 # Introduction and problem description

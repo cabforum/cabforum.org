@@ -1,7 +1,6 @@
 ---
 aliases:
 - /smime-br/
-author: Stephen Davidson
 date: 2023-01-03 16:36:25
 linkTitle: Documents
 title: S/MIME Baseline Requirements (S/MIME BR)

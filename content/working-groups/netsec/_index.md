@@ -1,7 +1,6 @@
 ---
 aliases:
 - /netsec-wg/
-author: Ben Wilson
 date: 2022-01-25 20:00:41
 linkTitle: NetSec WG
 menu:

@@ -1,10 +1,8 @@
 ---
 aliases:
 - /baseline-requirements-documents/
-author: Ben Wilson
 date: 2013-09-04 00:38:08
 title: Baseline Requirements for TLS Server Certificates
-type: page
 ---
 
 ## Baseline Requirements

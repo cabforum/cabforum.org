@@ -1,7 +1,6 @@
 ---
 aliases:
 - /etsi/
-author: Ben Wilson
 date: 2014-11-10 23:50:44
 linkTitle: ETSI
 title: ETSI – European Telecommunications Standards Institute

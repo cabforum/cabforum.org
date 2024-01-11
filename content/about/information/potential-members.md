@@ -1,11 +1,9 @@
 ---
 aliases:
 - /information-for-potential-members/
-author: Ben Wilson
 date: 2013-08-30 22:34:32
 linkTitle: Potential Members
 title: Information for Potential Members
-type: page
 ---
 
 ## About the CA/Browser Forum

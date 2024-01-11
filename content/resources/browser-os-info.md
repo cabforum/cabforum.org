@@ -1,10 +1,8 @@
 ---
 aliases:
 - /browser-os-info/
-author: Ben Wilson
 date: 2013-09-26 11:40:50
 title: Browser/OS Information
-type: page
 ---
 
 | Root Store Owner | Primary Link                                                                                                    | Other Links                                                                                                                                          |

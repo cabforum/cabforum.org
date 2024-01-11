@@ -1,10 +1,8 @@
 ---
 aliases:
 - /info-for-consumers/
-author: Ben Wilson
 date: 2013-08-30 21:40:48
 title: Information for the Public
-type: page
 ---
 
 ## What are the different types of SSL Certificates?

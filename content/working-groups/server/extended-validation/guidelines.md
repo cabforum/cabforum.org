@@ -1,5 +1,4 @@
 ---
-author: Paul van Brouwershaven
 date: 2024-01-01 00:00:00
 linkTitle: Guidelines
 summary: Latest guidelines for the Issuance and Management of Extended Validation

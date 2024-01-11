@@ -1,10 +1,8 @@
 ---
 aliases:
 - /the-ev-ssl-certificate-and-its-contents/
-author: Wayne Thayer
 date: 2013-12-02 16:02:50
 title: The EV SSL Certificate and its Contents
-type: page
 ---
 
 Extended Validation (EV) SSL Certificates will contain the following required fields:

@@ -1,10 +1,8 @@
 ---
 aliases:
 - /resources/tools/
-author: Ben Wilson
 date: 2013-10-16 02:23:46
 title: Tools
-type: page
 ---
 
 **_Reference to these tools is solely for the information and convenience of the public, and does not constitute the endorsement or recommendation of any company, product, or service by the CA/Browser Forum._**

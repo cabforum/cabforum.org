@@ -1,7 +1,6 @@
 ---
 aliases:
 - /information-for-auditors-and-assessors/
-author: Ben Wilson
 date: 2013-08-30 22:46:00
 linkTitle: Auditors and Assessors
 title: Information for Auditors and Assessors

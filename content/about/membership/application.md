@@ -1,10 +1,8 @@
 ---
 aliases:
 - /application-for-membership/
-author: Ben Wilson
 date: 2013-08-30 22:31:47
 title: Application for Membership
-type: page
 ---
 
 **For CAs and Browsers Interested in Joining the CA / Browser Forum:**

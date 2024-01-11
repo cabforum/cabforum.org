@@ -1,10 +1,8 @@
 ---
 aliases:
 - /working-groups/
-author: Ben Wilson
 date: 2013-08-31 02:52:35
 title: Working Groups
-type: page
 ---
 
 **Working Groups**

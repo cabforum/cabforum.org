@@ -1,10 +1,8 @@
 ---
 aliases:
 - /ev-certificate-contents/
-author: Ben Wilson
 date: 2013-09-04 03:28:58
 title: EV Certificate Contents
-type: page
 ---
 
 **EV SSL Certificate Contents**

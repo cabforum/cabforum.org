@@ -1,10 +1,8 @@
 ---
 aliases:
 - /ipr-policy/
-author: Ben Wilson
 date: 2016-02-09 00:43:36
 title: IPR Policy
-type: page
 ---
 
 [**Intellectual Property Rights (IPR) Policy v. 1.3**][1] **– effective 3 July 2018**

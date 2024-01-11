@@ -1,13 +1,11 @@
 ---
 aliases:
 - /proceedings/
-author: Ben Wilson
 date: 2018-10-08 03:43:20
 menu:
   main:
     weight: 7
 title: Proceedings
-type: page
 ---
 
 [Ballots][1]

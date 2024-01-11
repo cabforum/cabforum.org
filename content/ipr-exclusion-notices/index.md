@@ -1,10 +1,8 @@
 ---
 aliases:
 - /ipr-exclusion-notices/
-author: Ben Wilson
 date: 2013-11-14 23:39:46
 title: IPR Exclusion Notices
-type: page
 ---
 
 ## IPR Exclusion Notices

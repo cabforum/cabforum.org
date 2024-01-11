@@ -1,10 +1,8 @@
 ---
 aliases:
 - /forum-infrastructure-wg/
-author: Ben Wilson
 date: 2018-10-06 22:48:57
 title: Forum Infrastructure Committee
-type: page
 ---
 
 ## Charter 

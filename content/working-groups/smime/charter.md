@@ -1,7 +1,6 @@
 ---
 aliases:
 - /smcwg-charter/
-author: Stephen Davidson
 date: 2020-06-23 19:56:33
 linkTitle: Charter
 title: S/MIME Certificate Working Group (SMCWG) Charter

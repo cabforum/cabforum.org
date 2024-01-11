@@ -1,10 +1,8 @@
 ---
 aliases:
 - /overview-of-the-extended-validation-ssl-vetting-process/
-author: Wayne Thayer
 date: 2013-12-02 15:58:49
 title: Overview of the Extended Validation SSL Vetting Process
-type: page
 ---
 
 # 

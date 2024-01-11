@@ -1,11 +1,9 @@
 ---
 aliases:
 - /information-for-site-owners-and-administrators/
-author: Ben Wilson
 date: 2013-08-30 22:03:38
 linkTitle: Site Owners and Administrators
 title: Information for Site Owners and Administrators
-type: page
 ---
 
 Here you’ll find helpful information about the installation and use of SSL/TLS Certificates. If you are not already familiar with SSL/TLS certificates, then you should read this post first – Information for users.

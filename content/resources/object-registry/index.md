@@ -1,10 +1,8 @@
 ---
 aliases:
 - /object-registry/
-author: Ben Wilson
 date: 2013-10-16 02:58:44
 title: Object Registry
-type: page
 ---
 
 # Object Registry of the CA / Browser Forum {#Object_Registry_of_the_CA\_.2BAC8_Browser_Forum}

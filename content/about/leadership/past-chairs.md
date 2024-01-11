@@ -1,10 +1,8 @@
 ---
 aliases:
 - /past-chairs/
-author: Ben Wilson
 date: 2020-11-02 17:42:37
 title: Past CA/Browser Forum Officers
-type: page
 ---
 
 | Duration      | Officers                                                                   |

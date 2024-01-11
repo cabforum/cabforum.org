@@ -1,10 +1,8 @@
 ---
 aliases:
 - /interested-parties/
-author: Ben Wilson
 date: 2021-03-24 04:15:45
 title: Information for Interested Parties
-type: page
 ---
 
 The role of the Interested Party in CA/B Forum activities is described in Section 3.2 of the [Bylaws][1]. An Interested Party may post to a Forum Working Group’s public mailing list and participate in teleconferences to which they are invited by the Working Group Chair related to their area of expertise or to the subject of their working group participation.

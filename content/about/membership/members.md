@@ -1,10 +1,8 @@
 ---
 aliases:
 - /members/
-author: Ben Wilson
 date: 2013-08-31 02:59:33
 title: Members
-type: page
 ---
 
 The CA/Browser Forum includes the following members:

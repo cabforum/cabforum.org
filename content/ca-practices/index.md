@@ -1,10 +1,8 @@
 ---
 aliases:
 - /ca-practices/
-author: Ben Wilson
 date: 2013-10-24 21:55:44
 title: CA Practices
-type: page
 ---
 
 In addition to the Extended Validation Guidelines and the Baseline Requirements, the CA / Browser Forum has developed statements about the practices of CAs, such as:
