@@ -54,9 +54,7 @@ The following motion has been proposed by Gervase Markham of Mozilla and endorse
 
 This motion changes the CAB Forum Bylaws.
 
-\*\*Section 1
-
-- -
+### Section 1
 
 Add a new section between 2.1 (“Qualifying for Forum Membership”) and the following section, numbering the new section 2.2, and renumbering following sections appropriately. The new section shall read:
 
@@ -83,19 +81,15 @@ A suspended CA Forum Member who believes it has now re-met the membership criter
 
 While suspended, CAs may participate in meetings and on the Forum’s discussion lists, but not propose or second ballots or take part in any form of voting. Votes cast before a member’s suspension is announced will stand.
 
-\*\*Section 2
-
-- -
+### Section 2
 
 Update both sections 2.1 (a) and (b) to insert words as follows:
 
 “actively issues certificates to Web servers that are openly accessible from the Internet, such certificates being treated as valid when using a browser created by a Browser member.”
 
-## Section 3
+### Section 3
 
-\*\*
-
-- \*\*\*\*\*Update section 2.2 b) as follows:
+- Update section 2.2 b) as follows:
 
 Only one vote per Member company shall be accepted; representatives of corporate affiliatesAffiliates shall not vote.
 
@@ -107,30 +101,11 @@ Add to the Definitions section:
 
 The procedure for approval of this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 205
+BALLOT 205  
 
-Status: Bylaws Change |
-Start time (23:00 UTC)
-|
-End time (23:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-22 June
-|
-29 June
-|
-|
-Vote for approval (7 days)
-|
-29 June
-|
-6 July
-|
-| | | |
+|                            | Start time (22:00 UTC) | End time (22:00 UTC) |
+| -------------------------- | ---------------------- | -------------------- |
+| Discussion (7 to 14 days)  | 22 June                | 29 June              |
+| Vote for approval (7 days) | 29 June                | 6 July               |
 
 Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about/membership/members/](/about/membership/members/) In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is shown on CA/Browser Forum wiki. Under Bylaw 2.2(g), at least the required quorum number must participate in the ballot for the ballot to be valid, either by voting in favor, voting against, or abstaining.

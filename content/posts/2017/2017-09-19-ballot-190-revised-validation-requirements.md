@@ -74,7 +74,7 @@ Voting on Ballot 190 will begin tomorrow, and the text has been changed as shown
 
 The following motion has been proposed by Kirk Hall of Entrust Datacard and endorsed by the following CA/B Forum member representatives: Doug Beattie of GlobalSign and Mads of Henriksveen of Buypass to introduce new Final Maintenance Guidelines for the “Baseline Requirements Certificate Policy for the Issuance and Management of Publicly-Trusted Certificates” (Baseline Requirements).
 
-## –Motion Begins
+## Motion Begins
 
 1. In BR Sec. 1.6.1, add new definitions and revise existing definitions as shown:
 
@@ -198,44 +198,17 @@ If a Delegated Third Party fulfills any of the CA’s obligations under this sec
 
 4. The proposer and endorsers of this Ballot may withdraw this Ballot at any time prior to completion of the final vote for approval, in which case the Ballot will not proceed further.
 
-## –Motion Ends–
+## Motion Ends
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 190
+BALLOT 190  
 
-Status: Final Maintenance Guideline |
-Start time (18:00 UTC)
-|
-End time (18:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-Sept. 5, 2017
-|
-Sept. 12, 2017
-|
-|
-Vote for approval (7 days)
-|
-Sept 12, 2017
-|
-Sept. 19, 2017
-|
-|
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days).
-
-If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created.
-
-If no Exclusion Notices filed, ballot becomes effective at end of Review Period. |
-Upon filing of Review Notice by Chair
-|
-30 days after filing of Review Notice by Chair
-|
+| Status: Final Maintenance Guideline                                                                                                                                                                                                                | Start time (18:00 UTC)                | End time (18:00 UTC)                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Discussion (7 to 14 days)                                                                                                                                                                                                                          | Sept. 5, 2017                         | Sept. 12, 2017                                 |
+| Vote for approval (7 days)                                                                                                                                                                                                                         | Sept 12, 2017                         | Sept. 19, 2017                                 |
+| If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. | Upon filing of Review Notice by Chair | 30 days after filing of Review Notice by Chair |
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 

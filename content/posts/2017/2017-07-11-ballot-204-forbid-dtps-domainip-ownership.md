@@ -56,9 +56,9 @@ Delegated Third Party: A natural person or Legal Entity that is not the CA\*\*, 
 
 1. In section 1.3.2, replace the following sentence:
 
-“The CA MAY delegate the performance of all, or any part, of Section 3.2 requirements to a Delegated Third Party, provided that the process as a whole fulfills all of the requirements of Section 3.2.” with: “With the exception of sections 3.2.2.4 and 3.2.2.5, the CA MAY delegate the performance of all, or any part, of Section 3.2 requirements to a Delegated Third Party, provided that the process as a whole fulfills all of the requirements of Section 3.2.”
+    “The CA MAY delegate the performance of all, or any part, of Section 3.2 requirements to a Delegated Third Party, provided that the process as a whole fulfills all of the requirements of Section 3.2.” with: “With the exception of sections 3.2.2.4 and 3.2.2.5, the CA MAY delegate the performance of all, or any part, of Section 3.2 requirements to a Delegated Third Party, provided that the process as a whole fulfills all of the requirements of Section 3.2.”
 
-2. In sections 3.2.2.4, replace the paragraph beginning “The CA SHALL confirm that” with the following: “The CA SHALL confirm that, as of the date the Certificate issues, the CA has validated each Fully‐Qualified Domain Name (FQDN) listed in the Certificate using at least one of the methods listed below, or is within the Domain Namespace of a Fully-Qualified Domain Name (FQDN) that has been validated using at least one of the methods listed below (not including the method defined in section 3.2.2.4.8).”
+1. In sections 3.2.2.4, replace the paragraph beginning “The CA SHALL confirm that” with the following: “The CA SHALL confirm that, as of the date the Certificate issues, the CA has validated each Fully‐Qualified Domain Name (FQDN) listed in the Certificate using at least one of the methods listed below, or is within the Domain Namespace of a Fully-Qualified Domain Name (FQDN) that has been validated using at least one of the methods listed below (not including the method defined in section 3.2.2.4.8).”
 
 1. In section 3.2.2.4.6, remove the words “or Delegated Third Party”.
 
@@ -72,40 +72,13 @@ Delegated Third Party: A natural person or Legal Entity that is not the CA\*\*, 
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 204
+BALLOT 204  
 
-Status: Final Maintenance Guideline |
-Start time (23:00 UTC)
-|
-End time (23:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-27 June
-|
-4 July
-|
-|
-Vote for approval (7 days)
-|
-4 July
-|
-11 July
-|
-|
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days).
-
-If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created.
-
-If no Exclusion Notices filed, ballot becomes effective at end of Review Period. |
-Upon filing of Review Notice by Chair
-|
-30 days after filing of Review Notice by Chair
-|
+| Status: Final Maintenance Guideline                                                                                                                                                                                                                | Start time (22:00 UTC)                | End time (22:00 UTC)                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Discussion (7 to 14 days)                                                                                                                                                                                                                          | 27 June                               | 4 July                                         |
+| Vote for approval (7 days)                                                                                                                                                                                                                         | 4 July                                | 11 July                                        |
+| If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. | Upon filing of Review Notice by Chair | 30 days after filing of Review Notice by Chair |
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 

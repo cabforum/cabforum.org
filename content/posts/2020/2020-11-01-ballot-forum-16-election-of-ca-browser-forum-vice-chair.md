@@ -44,23 +44,12 @@ In accordance with Bylaw 4.1 c, **Karina Sirota** representing Microsoft is here
 
 The procedure for this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-| **Special Ballot Forum-16 – Election of CA/Browser Forum Vice Chair** | **Start time** | **End time** |
-|
-Discussion (7 days)
-|
-2020-10-14 at 11:00 am Eastern Time
-|
-2020-10-21 at 11:00 am Eastern Time
-|
-|
-Vote for approval (7 days)
-|
-2020-10-21 at 11:00 am Eastern Time
-|
-2020-10-28 at 11:00 am Eastern Time
-|
+Special Ballot Forum-16 – Election of CA/Browser Forum Vice Chair
+
+|                            | Start time                          | End time                            |
+| -------------------------- | ----------------------------------- | ----------------------------------- |
+| Discussion (7 days)        | 2020-10-14 at 11:00 am Eastern Time | 2020-10-21 at 11:00 am Eastern Time |
+| Vote for approval (7 days) | 2020-10-21 at 11:00 am Eastern Time | 2020-10-28 at 11:00 am Eastern Time |
 
 [1]: https://wiki.cabforum.org/forum-16_-_special_ballot_for_election_of_ca/b_forum_vicechair#purpose_of_ballot
 [2]: https://wiki.cabforum.org/forum-16_-_special_ballot_for_election_of_ca/b_forum_vicechair#motion_begins

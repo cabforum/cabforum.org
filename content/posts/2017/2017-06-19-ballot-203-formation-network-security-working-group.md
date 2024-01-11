@@ -123,30 +123,13 @@ The expiry date given above shall be automatically postponed by 1 year on 2018-0
 
 The procedure for approval of this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 203
-|
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-5th June
-|
-12th June
-|
-|
-Vote for approval (7 days)
-|
-12th June
-|
-19th June
-|
-| | | |
+BALLOT 203  
+
+|                            | Start time (22:00 UTC) | End time (22:00 UTC) |
+| -------------------------- | ---------------------- | -------------------- |
+| Discussion (7 to 14 days)  | 5th June               | 12th June            |
+| Vote for approval (7 days) | 12th June              | 19th June            |
+
 
 Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
 

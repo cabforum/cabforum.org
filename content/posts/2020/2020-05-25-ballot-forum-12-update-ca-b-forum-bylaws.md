@@ -56,7 +56,7 @@ Here is a list of major changes:
 1. In 5.3.1 require that a Certificate Issuer is trusted in the “latest” software produced by a Certificate Consumer
 1. In 4.1 the Chair is eligible to be elected as Chair after having vacated the position as Chair for at least one (1) term, instead of two (2) years.
 
-## MOTION BEGINS[][3]
+## Motion begins
 
 **Amendment to the Bylaws:** Replace the entire text of the Bylaws of the CA/Browser Forum with the attached version (CA-Browser Forum Bylaws v2.3.pdf).
 
@@ -66,29 +66,16 @@ Here is a list of major changes:
 1. DOCX (attached)
 1. GitHub redline available at
 
-## MOTION ENDS[][4]
+## Motion ends
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-| **Forum-12 – Update CA/B Forum Bylaws** | **Start time (22:00 UTC)** | **End time (22:00 UTC)** |
-|
-Discussion (14 days)
-|
-04 May 2020
-|
-18 May 2020
-|
-|
-Expected Vote for approval (7 days)
-|
-TBD
-|
-TBD
-|
+Forum-12 – Update CA/B Forum Bylaws
+
+|                                     | Start time (22:00 UTC) | End time (22:00 UTC) |
+| ----------------------------------- | ---------------------- | -------------------- |
+| Discussion (14 days)                | 04 May 2020            | 18 May 2020          |
+| Expected Vote for approval (7 days) | TBD                    | TBD                  |
 
 [1]: https://wiki.cabforum.org/forum-12_-_update_cab_forum_bylaws_to_version_2.3#purpose_of_ballot
 [2]: https://docs.google.com/document/d/1EtrIy3F5cPge0_M-C8J6fe72KcVI8H5Q_2S6S31ynU0
-[3]: https://wiki.cabforum.org/forum-12_-_update_cab_forum_bylaws_to_version_2.3#motion_begins
-[4]: https://wiki.cabforum.org/forum-12_-_update_cab_forum_bylaws_to_version_2.3#motion_ends

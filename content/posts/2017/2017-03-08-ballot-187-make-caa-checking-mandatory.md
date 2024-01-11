@@ -92,40 +92,13 @@ RFC6844, Request for Comments: 6844, DNS Certification Authority Authorization (
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 187
+BALLOT 187  
 
-Status: Maintenance Guideline |
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 to 14 calendar days)
-|
-2017-02-22
-|
-2017-03-01
-|
-|
-Vote for approval (7 calendar days)
-|
-2017-03-01
-|
-2017-03-08
-|
-|
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 calendar days).
-
-If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created.
-
-If no Exclusion Notices filed, ballot becomes effective at end of Review Period. |
-Upon filing of Review Notice by Chair
-|
-30 days after filing of Review Notice by Chair
-|
+| Status: Maintenance Guideline                                                                                                                                                                                                                               | Start time (22:00 UTC)                | End time (22:00 UTC)                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Discussion (7 to 14 calendar days)                                                                                                                                                                                                                          | 2017-02-22                            | 2017-03-01                                     |
+| Vote for approval (7 calendar days)                                                                                                                                                                                                                         | 2017-03-01                            | 2017-03-08                                     |
+| If vote approves ballot: Review Period (Chair to send Review Notice) (30 calendar days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. | Upon filing of Review Notice by Chair | 30 days after filing of Review Notice by Chair |
 
 From Section 2.3 of the Bylaws: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Section 2.3(j) of the Bylaws.
 

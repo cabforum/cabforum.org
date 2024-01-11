@@ -54,8 +54,6 @@ Currently, section 11.11.1(A)(ii) states,
 
 (A) Status of Author: The CA MUST verify that the legal opinion is authored by an independent legal practitioner retained by and representing the Applicant (or an in-house legal practitioner employed by the Applicant) (Legal Practitioner) who is either:
 
-…
-
 (ii) A notary that is a member of the International Union of Latin Notaries, and is licensed to practice in the country of the Applicant’s Jurisdiction of Incorporation or Registration or any jurisdiction where the Applicant maintains an office or physical facility (and that such jurisdiction recognizes the role of the Latin Notary);
 
 The EV Guidelines already define “Latin Notary” appropriately and sufficiently as “A person with legal training whose commission under applicable law not only includes authority to authenticate the execution of a signature on a document but also responsibility for the correctness and content of the document. A Latin Notary is sometimes referred to as a Civil Law Notary.”
@@ -64,7 +62,7 @@ Whether a Latin Notary (or Civil Law Notary) is a member of the IULN should not 
 
 By deleting the requirement that a Latin Notary be a member of the International Union of Latin Notaries, this ballot permits a more extensive view on who can provide the type of legal opinion required by the EV Guidelines.
 
-–MOTION BEGINS–
+## Motion begins
 
 11. Effective immediately, modify 11.11.1(A) as follows:
 
@@ -78,33 +76,16 @@ By deleting the requirement that a Latin Notary be a member of the International
 
 (ii) A notary that is a member of the International Union of Latin Notaries, and is Latin Notary who is currently commissioned or licensed to practice in the country of the Applicant’s Jurisdiction of Incorporation or Registration or any jurisdiction where the Applicant maintains an office or physical facility (and that jurisdiction recognizes the role of the Latin Notary);
 
-–MOTION ENDS
+## Motions ends 
+
 The procedure for approval of this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 192
-|
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-15th June
-|
-21st June
-|
-|
-Vote for approval (7 days)
-|
-21st June
-|
-28th June
-|
-| | | |
+BALLOT 192  
+
+|                            | Start time (22:00 UTC) | End time (22:00 UTC) |
+| -------------------------- | ---------------------- | -------------------- |
+| Discussion (7 to 14 days)  | 15th June              | 21st June            |
+| Vote for approval (7 days) | 21st June              | 28th June            |
 
 Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
 

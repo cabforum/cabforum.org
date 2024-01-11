@@ -56,40 +56,13 @@ Add the following definition to section 1.6.1 of the Baseline Requirements:
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 196
+BALLOT 196  
 
-Status: Final Maintenance Guideline |
-Start time (23:00 UTC)
-|
-End time (23:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-3rd April
-|
-10th April
-|
-|
-Vote for approval (7 days)
-|
-10th April
-|
-17th April
-|
-|
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days).
-
-If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created.
-
-If no Exclusion Notices filed, ballot becomes effective at end of Review Period. |
-Upon filing of Review Notice by Chair
-|
-30 days after filing of Review Notice by Chair
-|
+| Status: Final Maintenance Guideline                                                                                                                                                                                                                | Start time (23:00 UTC)                | End time (23:00 UTC)                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Discussion (7 to 14 days)                                                                                                                                                                                                                          | 3rd April                             | 10th April                                     |
+| Vote for approval (7 days)                                                                                                                                                                                                                         | 10th April                            | 17th April                                     |
+| If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. | Upon filing of Review Notice by Chair | 30 days after filing of Review Notice by Chair |
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 

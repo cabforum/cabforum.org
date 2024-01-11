@@ -88,27 +88,10 @@ with:
 
 The procedure for approval of this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-| |
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-7 Dec
-|
-14 Dec
-|
-|
-Vote for approval (7 days)
-|
-14 Dec
-|
-21 Dec
-|
+|                            | Start time (22:00 UTC) | End time (22:00 UTC) |
+| -------------------------- | ---------------------- | -------------------- |
+| Discussion (7 to 14 days)  | 7 Dec                  | 14 Dec               |
+| Vote for approval (7 days) | 14 Dec                 | 21 Dec               |
 
 Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
 

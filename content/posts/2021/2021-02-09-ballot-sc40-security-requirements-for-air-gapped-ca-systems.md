@@ -36,158 +36,31 @@ Not only does this ballot introduce a new section 5, it also adds additional phy
 
 These proposed subsections in a new section 5 come from the current NCSSRs as follows:
 
-| | | |
-| --- | --- | --- |
-| **Description** | **Offline\*\*\*\*Criteria #** | **General\*\*\*\*Criteria #** |
-| **5.1 Logical Security of Air-Gapped CA Systems** | | |
-|
-Configuration review
-|
-5.1.1
-|
-1h
-|
-|
-Appointing individuals to trusted roles
-|
-5.1.2
-|
-2a
-|
-|
-Grant access to Air-Gapped CAs
-|
-5.1.3
-|
-1i
-|
-|
-Document responsibilities of Trusted roles
-|
-5.1.4
-|
-2b
-|
-|
-Segregation of duties
-|
-5.1.5
-|
-2d
-|
-|
-Require least privileged access for Trusted Roles
-|
-5.1.6
-|
-2e
-|
-|
-All access tracked to individual account
-|
-5.1.7
-|
-2f
-|
-|
-Password requirements
-|
-5.1.8
-|
-2gi
-|
-|
-Review logical access
-|
-5.1.9
-|
-2j
-|
-|
-Implement multi-factor access
-|
-5.1.10
-|
-2m
-|
-|
-Monitor Air-Gapped CA systems
-|
-5.1.11
-|
-3b
-|
-|
-Review logging integrity
-|
-5.1.12
-|
-3e
-|
-|
-Monitor archive and retention of logs
-|
-5.1.13
-|
-3f
-|
-| **5.2 Physical Security of Air-Gapped CA Systems** | | |
-|
-Grant physical access
-|
-5.2.1
-|
-1i
-|
-|
-Multi-person physical access
-|
-5.2.2
-|
-1j
-|
-|
-Review physical access
-|
-5.2.3
-|
-2j
-|
-|
-Video monitoring
-|
-5.2.4
-|
-3a
-|
-|
-Physical access monitoring
-|
-5.2.5
-|
-3a
-|
-|
-Review accounts with physical access
-|
-5.2.6
-|
-2j
-|
-|
-Monitor retention of physical access of records
-|
-5.2.7
-|
-3f
-|
-|
-Review integrity of physical access logs
-|
-5.2.8
-|
-3e
-|
+| Description                                        | Offline Criteria # | General Criteria # |
+| -------------------------------------------------- | ------------------ | ------------------ |
+| **5.1 Logical Security of Air-Gapped CA Systems**  |                    |                    |
+| Configuration review                               | 5.1.1              | 1h                 |
+| Appointing individuals to trusted roles            | 5.1.2              | 2a                 |
+| Grant access to Air-Gapped CAs                     | 5.1.3              | 1i                 |
+| Document responsibilities of Trusted roles         | 5.1.4              | 2b                 |
+| Segregation of duties                              | 5.1.5              | 2d                 |
+| Require least privileged access for Trusted Roles  | 5.1.6              | 2e                 |
+| All access tracked to individual account           | 5.1.7              | 2f                 |
+| Password requirements                              | 5.1.8              | 2gi                |
+| Review logical access                              | 5.1.9              | 2j                 |
+| Implement multi-factor access                      | 5.1.10             | 2m                 |
+| Monitor Air-Gapped CA systems                      | 5.1.11             | 3b                 |
+| Review logging integrity                           | 5.1.12             | 3e                 |
+| Monitor archive and retention of logs              | 5.1.13             | 3f                 |
+| **5.2 Physical Security of Air-Gapped CA Systems** |                    |                    |
+| Grant physical access                              | 5.2.1              | 1i                 |
+| Multi-person physical access                       | 5.2.2              | 1j                 |
+| Review physical access                             | 5.2.3              | 2j                 |
+| Video monitoring                                   | 5.2.4              | 3a                 |
+| Physical access monitoring                         | 5.2.5              | 3a                 |
+| Review accounts with physical access               | 5.2.6              | 2j                 |
+| Monitor retention of physical access of records    | 5.2.7              | 3f                 |
+| Review integrity of physical access logs           | 5.2.8              | 3e                 |
 
 This motion is made by Ben Wilson of Mozilla and endorsed by David Kluge of Google Trust Services and Neil Dunbar of TrustCor.
 
@@ -271,7 +144,7 @@ Discussion (7+ days)
 
 Start Time: 2021-02-08 17:00 UTC
 
-End Time: TBD (not before 2021-02-09 17:00 UTC
+End Time: TBD (not before 2021-02-09 17:00 UTC)
 
 Vote for approval (7 days)
 

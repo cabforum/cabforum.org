@@ -67,45 +67,13 @@ to:
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-|
+BALLOT 223 v2 Status: Update BR Section 8.4 for CA audit criteria
 
-## BALLOT 223 v2 Status: Update BR Section 8.4 for CA audit criteria
-
-|
-
-## Start time (22:00 UTC)
-
-|
-
-## End time (22:00 UTC)
-
-|
-|
-
-Discussion (7+ days)
-|
-30 April 2018
-|
-7 May 2018
-|
-|
-
-Vote for approval (7 days)
-|
-8 May 2018
-|
-15 May 2018
-|
-|
-
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days) If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. Votes must be cast by posting an on-list reply to this thread on the Public Mail List.
-|
-Upon filing of Review Notice by Chair
-|
-30 days after filing of Review Notice by Chair
-|
+|                                                                                                                                                                                                                                                                                                                                          | Start time (22:00 UTC)                | End time (22:00 UTC)                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Discussion (7+ days)                                                                                                                                                                                                                                                                                                                     | 30 April 2018                         | 7 May 2018                                     |
+| Vote for approval (7 days)                                                                                                                                                                                                                                                                                                               | 8 May 2018                            | 15 May 2018                                    |
+| If vote approves ballot: Review Period (Chair to send Review Notice) (30 days) If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. Votes must be cast by posting an on-list reply to this thread on the Public Mail List. | Upon filing of Review Notice by Chair | 30 days after filing of Review Notice by Chair |
 
 From the Bylaws section 2.4(a): “If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Section 2.4(j) below”.
 

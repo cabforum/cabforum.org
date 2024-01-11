@@ -14,25 +14,10 @@ type: post
 
 (Mailing list post is available [here][1].)
 
-| | | | |
-| --- | --- | --- | --- |
-| |
-Yes
-|
-No
-|
-Abstain
-|
-|
-Certificate Issuers
-| |
-DigiCertEntrustGlobalSignHARICASecureTrust
-| |
-|
-Certificate Consumers
-| |
-Microsoft
-| |
+|                       | Yes | No                                                 | Abstain |
+| --------------------- | --- | -------------------------------------------------- | ------- |
+| Certificate Issuers   |     | DigiCert, Entrust, GlobalSign, HARICA, SecureTrust |         |
+| Certificate Consumers |     | Microsoft                                          |         |
 
 The ballot has FAILED.
 

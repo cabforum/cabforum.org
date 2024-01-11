@@ -30,27 +30,10 @@ Please forward a written notice to exclude Essential Claims to the Forum and Wor
 
 ## Results of Voting
 
-| | | | |
-| --- | --- | --- | --- |
-| |
-Yes
-|
-No
-|
-Abstain
-|
-|
-Certificate Issuers
-|
-DigiCerteMudhraEntrustGlobalSignSectigoSecureTrust
-|
-HARICA
-| |
-|
-Certificate Consumers
-|
-Microsoft
-| | |
+|                       | Yes                                                          | No     | Abstain |
+| --------------------- | ------------------------------------------------------------ | ------ | ------- |
+| Certificate Issuers   | DigiCert, eMudhra, Entrust, GlobalSign, Sectigo, SecureTrust | HARICA |         |
+| Certificate Consumers | Microsoft                                                    |        |         |
 
 This ballot has PASSED.
 

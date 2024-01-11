@@ -46,7 +46,7 @@ The current EV Guidelines are not clear on what address information is required 
 
 The following motion has been proposed by Bruce Morton of Entrust and endorsed by Jeremy Rowley of DigiCert and Robin Alden of Comodo:
 
-–Motion Begins–
+## Motion Begins
 
 9. Modify Section 9.2.7 of the EV Guidelines as follows:
 
@@ -68,40 +68,18 @@ Required/Optional: –(City, State, and country – Required; Street and postal
 
 Contents: This field MUST contain the address of the physical location of the Subject’s Place of Business.
 
-–Motion Ends–
+## Motion Ends
 
 The procedure for approval of this Final Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 191 Status: Final Maintenance Guideline
-|
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 to 14 days)
-|
-9 May 2017
-|
-16 May 2017
-|
-|
-Vote for approval (7 days)
-|
-16 May 2017
-|
-23 May 2017
-|
-|
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period.
-|
-Upon filing of Review Notice by Chair
-|
-30 days after filing of Review Notice by Chair
-|
+
+BALLOT 191
+
+| Status: Final Maintenance Guideline                                                                                                                                                                                                                | Start time (22:00 UTC)                | End time (22:00 UTC)                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Discussion (7 to 14 days)                                                                                                                                                                                                                          | 9 May 2017                            | 16 May 2017                                    |
+| Vote for approval (7 days)                                                                                                                                                                                                                         | 16 May 2017                           | 23 May 2017                                    |
+| If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. | Upon filing of Review Notice by Chair | 30 days after filing of Review Notice by Chair |
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 

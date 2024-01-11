@@ -20,17 +20,11 @@ The final documents, with the effective date being 2022-06-29, are available [he
 
 _Summary of Review_
 
-| | |
-| --- | --- |
-| **Ballot for Review** |
-Ballot CSC-14 – Convert Code Signing Baseline Requirements to RFC 3647 Framework
-|
-| **Start of Review Period** |
-26 May 2022 at 18:00 UTC
-|
-| **End of Review Period** |
-25 June 2022 at 18:00 UTC
-|
+|                            |                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------- |
+| **Ballot for Review**      | Ballot CSC-14 – Convert Code Signing Baseline Requirements to RFC 3647 Framework |
+| **Start of Review Period** | 26 May 2022 at 18:00 UTC                                                         |
+| **End of Review Period**   | 25 June 2022 at 18:00 UTC                                                        |
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to ) and also submit a copy to the CA/B Forum public mailing list (email to ) before the end of the Review Period.
 
@@ -38,27 +32,10 @@ For details, please see the current version of the CA/Browser Forum Intellect
 
 ## Results of Voting
 
-| | | | |
-| --- | --- | --- | --- |
-| |
-Yes
-|
-No
-|
-Abstain
-|
-|
-Certificate Issuers
-|
-ActalisCertum (Asseco)DigiCerteMudhraEntrustGlobalSignHARICASSL.comSecureTrust
-| |
-Sectigo
-|
-|
-Certificate Consumers
-|
-Microsoft
-| | |
+|                       | Yes                                                                                          | No  | Abstain |
+| --------------------- | -------------------------------------------------------------------------------------------- | --- | ------- |
+| Certificate Issuers   | ActalisCertum (Asseco), DigiCert, eMudhra, Entrust, GlobalSign, HARICA, SSL.com, SecureTrust |     | Sectigo |
+| Certificate Consumers | Microsoft                                                                                    |     |         |
 
 The ballot has PASSED.
 

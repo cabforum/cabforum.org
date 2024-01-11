@@ -30,25 +30,10 @@ Please forward a written notice to exclude Essential Claims to the Working Group
 
 ## Results of Voting
 
-| | | | |
-| --- | --- | --- | --- |
-| |
-Yes
-|
-No
-|
-Abstain
-|
-|
-Certificate Issuers
-|
-Certum (Asseco)DigiCertEntrustGlobalSignHARICASectigoSSL.comSecureTrust
-| | |
-|
-Certificate Consumers
-|
-Microsoft
-| | |
+|                       | Yes                                                                                   | No  | Abstain |
+| --------------------- | ------------------------------------------------------------------------------------- | --- | ------- |
+| Certificate Issuers   | Certum (Asseco), DigiCert, Entrust, GlobalSign, HARICA, Sectigo, SSL.com, SecureTrust |     |         |
+| Certificate Consumers | Microsoft                                                                             |     |         |
 
 ## Purpose of the Ballot
 

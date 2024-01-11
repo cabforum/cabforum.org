@@ -94,30 +94,12 @@ Nothing in these Bylaws is intended to supersede or replace anything in the IPR 
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 183
+BALLOT 183  
 
-Status: Amendment to Bylaws |
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 days)
-|
-17 Jan. 2017
-|
-24 Jan. 2017
-|
-|
-Vote for approval (7 days)
-|
-24 Jan. 2017
-|
-31 Jan. 2017
-|
+| Status: Amendment to Bylaws | Start time (22:00 UTC) | End time (22:00 UTC) |
+| --------------------------- | ---------------------- | -------------------- |
+| Discussion (7 days)         | 17 Jan. 2017           | 24 Jan. 2017         |
+| Vote for approval (7 days)  | 24 Jan. 2017           | 31 Jan. 2017         |
 
 Votes must be cast by posting an on-list reply to this thread on the Public Mail List.
 

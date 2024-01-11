@@ -60,23 +60,12 @@ The Server Certificate Working Group hereby establishes the **Network Security 
 
 The procedure for approval of this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-| **Ballot SC10 – Establishing the Network Security Subcommittee of the SCWG** | **Start time (22:00 UTC)** | **End time (22:00 UTC)** |
-|
-Discussion (7 days)
-|
-20 September 2018
-|
-27 September 2018
-|
-|
-Vote for approval (7 days)
-|
-27 September 2018
-|
-4 October 2018
-|
+Ballot SC10 – Establishing the Network Security Subcommittee of the SCWG
+
+|                            | Start time (22:00 UTC) | End time (22:00 UTC) |
+| -------------------------- | ---------------------- | -------------------- |
+| Discussion (7 days)        | 20 September 2018      | 27 September 2018    |
+| Vote for approval (7 days) | 27 September 2018      | 4 October 2018       |
 
 ## Additional Information (not part of Ballot)
 
@@ -92,7 +81,7 @@ Purpose of Ballot: To form a Network Security Working Group to re-evaluate the C
 
 The following motion has been proposed by Gervase Markham of Mozilla and endorsed by Jeremy Rowley of DigiCert and Moudrick Dadashov of SSC:
 
-- MOTION BEGINS –
+# Motion begins
 
 In accordance with Section 5.3 of the CA/B Forum Bylaws, the chartering of a new Working Group requires a ballot. This ballot charters the Network Security Working Group.
 

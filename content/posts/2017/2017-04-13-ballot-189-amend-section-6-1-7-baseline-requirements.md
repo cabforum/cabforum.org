@@ -89,36 +89,13 @@ Private Keys corresponding to Root Certificates MUST NOT be used to sign Certifi
 
 The procedure for this ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-|
-BALLOT 189 Status: Amend BR 6.1.7
-|
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 days)
-|
-30 March 2017
-|
-6 April 2017
-|
-|
-Vote for approval (7 days)
-|
-6 April 2017
-|
-13 April 2017
-|
-|
-If vote approves ballot: Review Period (Chair to send Review Notice) (30 days) If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. Votes must be cast by posting an on-list reply to this thread on the Public Mail List.
-|
-Upon filing of Review Notice by Chair
-|
-30 days after filing of Review Notice by Chair
-|
+BALLOT 189  
+
+| Status: Amend BR 6.1.7                                                                                                                                                                                                                                                                                                                   | Start time (22:00 UTC)                | End time (22:00 UTC)                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- |
+| Discussion (7 days)                                                                                                                                                                                                                                                                                                                      | 30 March 2017                         | 6 April 2017                                   |
+| Vote for approval (7 days)                                                                                                                                                                                                                                                                                                               | 6 April 2017                          | 13 April 2017                                  |
+| If vote approves ballot: Review Period (Chair to send Review Notice) (30 days) If Exclusion Notice(s) filed, ballot approval is rescinded and PAG to be created. If no Exclusion Notices filed, ballot becomes effective at end of Review Period. Votes must be cast by posting an on-list reply to this thread on the Public Mail List. | Upon filing of Review Notice by Chair | 30 days after filing of Review Notice by Chair |
 
 From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 

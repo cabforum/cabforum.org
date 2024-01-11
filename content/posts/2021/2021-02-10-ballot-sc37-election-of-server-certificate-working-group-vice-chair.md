@@ -52,20 +52,9 @@ In accordance with Bylaw 4.1(c), **Wayne Thayer** representing Mozilla is hereby
 
 The procedure for approval of this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-| **Special Ballot SC37: Election of Server Certificate Working Group Vice Chair** | **Start time** | **End time** |
-|
-Discussion (7 days)
-|
-October 14, 2020 at 11:00 am Eastern Time
-|
-October 21, 2020 at 11:00 am Eastern Time
-|
-|
-Vote for approval (7 days)
-|
-October 21, 2020 at 11:00 am Eastern Time
-|
-October 28, 2020 at 11:00 am Eastern Time
-|
+Special Ballot SC37: Election of Server Certificate Working Group Vice Chair
+
+|                            | Start time                                | End time                                  |
+| -------------------------- | ----------------------------------------- | ----------------------------------------- |
+| Discussion (7 days)        | October 14, 2020 at 11:00 am Eastern Time | October 21, 2020 at 11:00 am Eastern Time |
+| Vote for approval (7 days) | October 21, 2020 at 11:00 am Eastern Time | October 28, 2020 at 11:00 am Eastern Time |

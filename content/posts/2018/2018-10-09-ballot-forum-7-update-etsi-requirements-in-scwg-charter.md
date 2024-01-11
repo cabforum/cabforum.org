@@ -59,20 +59,9 @@ Here is a red-line of these particular changes.
 
 The procedure for approval of this ballot is as follows:
 
-| | | |
-| --- | --- | --- |
-| **Forum-7 – Update ETSI requirements in the SCWG Charter** | **Start time (22:00 UTC)** | **End time (22:00 UTC)** |
-|
-Discussion (7 days)
-|
-21 September 2018
-|
-28 September 2018
-|
-|
-Vote for approval (7 days)
-|
-28 September 2018
-|
-5 October 2018
-|
+Forum-7 – Update ETSI requirements in the SCWG Charter
+
+|                            | Start time (22:00 UTC) | End time (22:00 UTC) |
+| -------------------------- | ---------------------- | -------------------- |
+| Discussion (7 days)        | 21 September 2018      | 28 September 2018    |
+| Vote for approval (7 days) | 28 September 2018      | 5 October 2018       |

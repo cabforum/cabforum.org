@@ -22,25 +22,10 @@ The final documents, with the effective date being 2021-11-03, are available [he
 
 (Mailing list post is available [here][3].)
 
-| | | | |
-| --- | --- | --- | --- |
-| |
-Yes
-|
-No
-|
-Abstain
-|
-|
-Certificate Issuers
-|
-Certum (Asseco)DigiCerteMudhraEntrustGlobalSignHARICASectigoSecureTrust
-| | |
-|
-Certificate Consumers
-|
-Microsoft
-| | |
+|                       | Yes                                                                                   | No  | Abstain |
+| --------------------- | ------------------------------------------------------------------------------------- | --- | ------- |
+| Certificate Issuers   | Certum (Asseco), DigiCert, eMudhra, Entrust, GlobalSign, HARICA, Sectigo, SecureTrust |     |         |
+| Certificate Consumers | Microsoft                                                                             |     |         |
 
 The ballot has PASSED.
 

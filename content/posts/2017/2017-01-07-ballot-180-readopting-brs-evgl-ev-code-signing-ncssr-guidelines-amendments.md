@@ -38,7 +38,7 @@ The voting period for Ballot 180 has started, and will continue until **January 
 
 **Ballot 180 – Readopting the BRs, EVGL, EV Code Signing, and NCSSR Guidelines with Amendments**
 
-\*\*\_ \_\*\*The following motion has been proposed by Kirk Hall of Entrust and endorsed by Peter Bowen of Amazon and Virginia Fournier of Apple as a Final Guideline:
+The following motion has been proposed by Kirk Hall of Entrust and endorsed by Peter Bowen of Amazon and Virginia Fournier of Apple as a Final Guideline:
 
 - MOTION BEGINS –
 
@@ -65,50 +65,23 @@ Completed confirmations of Applicant authority may be valid for the issuance of 
 
 **11.7.1. Verification Requirements**
 
-\*\* \*\*(1) For each Fully-Qualified Domain Name listed in a Certificate, other than a Domain Name with .onion in the rightmost label of the Domain Name, the CA SHALL confirm that, as of the date the Certificate was issued, the Applicant (or the Applicant’s Parent Company, Subsidiary Company, or Affiliate, collectively referred to as “Applicant” for the purposes of this section) either is the Domain Name Registrant or has control over the FQDN using a procedure specified in Section 3.2.2.4 of the Baseline Requirements. For a Certificate issued to a Domain Name with .onion in the right-most label of the Domain Name, the CA SHALL confirm, as of the date the Certificate was issued, the Applicant’s control over the .onion Domain Name in accordance with Appendix F.
+(1) For each Fully-Qualified Domain Name listed in a Certificate, other than a Domain Name with .onion in the rightmost label of the Domain Name, the CA SHALL confirm that, as of the date the Certificate was issued, the Applicant (or the Applicant’s Parent Company, Subsidiary Company, or Affiliate, collectively referred to as “Applicant” for the purposes of this section) either is the Domain Name Registrant or has control over the FQDN using a procedure specified in Section 3.2.2.4 of the Baseline Requirements. For a Certificate issued to a Domain Name with .onion in the right-most label of the Domain Name, the CA SHALL confirm, as of the date the Certificate was issued, the Applicant’s control over the .onion Domain Name in accordance with Appendix F.
 
 (2) **Mixed Character Set Domain Names:** EV Certificates MAY include Domain Names containing mixed character sets only in compliance with the rules set forth by the domain registrar. The CA MUST visually compare any Domain Names with mixed character sets with known high risk domains. If a similarity is found, then the EV Certificate Request MUST be flagged as High Risk. The CA must perform reasonably appropriate additional authentication and verification to be certain beyond reasonable doubt that the Applicant and the target in question are the same organization.
 
 The proposer and endorsers of this Ballot may withdraw this Ballot at any time prior to completion of the final vote for approval, in which case the Ballot will not proceed further.
 
-**## Motion ends**
+## Motion ends
 
 The procedure for this Maintenance Guideline ballot is as follows (exact start and end times may be adjusted to comply with applicable Bylaws and IPR Agreement):
 
-| | | |
-| --- | --- | --- |
-|
 BALLOT 180
 
-Status: Final Guideline |
-Start time (22:00 UTC)
-|
-End time (22:00 UTC)
-|
-|
-Discussion (7 days)
-|
-Oct. 25, 2016
-|
-Nov. 1, 2016
-|
-|
-Review Period (Chair to send Review Notice) (60 days).
-
-If Exclusion Notice(s) filed, PAG to be created and no further action until PAG recommendations received.
-
-If no Exclusion Notice(s) filed, proceed to: |
-Nov. 1, 2016
-|
-Dec. 31, 2016
-|
-|
-Vote for approval (7 days)
-|
-Dec. 31, 2016
-|
-Jan. 7, 2017
-|
+| Status: Final Guideline                                                                                                                                                                                       | Start time (22:00 UTC) | End time (22:00 UTC) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- |
+| Discussion (7 days)                                                                                                                                                                                           | Oct. 25, 2016          | Nov. 1, 2016         |
+| Review Period (Chair to send Review Notice) (60 days). If Exclusion Notice(s) filed, PAG to be created and no further action until PAG recommendations received. If no Exclusion Notice(s) filed, proceed to: | Nov. 1, 2016           | Dec. 31, 2016        |
+| Vote for approval (7 days)                                                                                                                                                                                    | Dec. 31, 2016          | Jan. 7, 2017         |
 
 Votes must be cast by posting an on-list reply to this thread on the Public list.
 

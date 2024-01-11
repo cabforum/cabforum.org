@@ -22,25 +22,10 @@ The final documents, with the effective date being 2022-05-09, are available [he
 
 (Mailing list post is available [here][3].)
 
-| | | | |
-| --- | --- | --- | --- |
-| |
-Yes
-|
-No
-|
-Abstain
-|
-|
-Certificate Issuers
-|
-Certum (Asseco)DigiCerteMudhraEntrustHARICASectigoSSL.com
-| | |
-|
-Certificate Consumers
-|
-Microsoft
-| | |
+|                       | Yes                                                                   | No  | Abstain |
+| --------------------- | --------------------------------------------------------------------- | --- | ------- |
+| Certificate Issuers   | Certum (Asseco), DigiCert, eMudhra, Entrust, HARICA, Sectigo, SSL.com |     |         |
+| Certificate Consumers | Microsoft                                                             |     |         |
 
 The ballot has PASSED.
 
