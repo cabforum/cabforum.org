@@ -2,6 +2,8 @@
 
     <title>{{ .Title }}{{ if eq .IsHome false }} | {{ .Site.Title }}{{ end }}</title>
 
+    <base href="{{ .Site.BaseURL}}" target="_self">
+
     {{- with $.Param "robots" -}}
     <meta name="robots" content="{{.}}">
     {{- end -}}
@@ -16,8 +18,7 @@
     {{ template "_internal/opengraph.html" . }}
 
     <link rel="canonical" href="{{ .Permalink }}">
-    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL}}/blog/feed/" title="Subscribe to updates from the CA/Browser Forum blog" />
-    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL}}/news/feed/" title="Subscribe to news from the CA/Browser Forum members" />
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL}}/posts/feed/" title="Subscribe to updates from the CA/Browser Forum" />
 
     <!-- Favicon -->
     <link rel="icon" href="{{ .Site.BaseURL }}/favicon.svg">
