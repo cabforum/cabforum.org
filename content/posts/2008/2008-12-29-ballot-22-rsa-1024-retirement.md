@@ -28,96 +28,28 @@ Appendix A Minimum Cryptographic Algorithm and Key Sizes
 
 1. Root CA Certificates
 
-| | | |
-| --- | --- | --- |
-| |
-Root Certificates whose validity period begins on or before 31 Dec 2010
-|
-Root Certificates whose validity period begins after 31 Dec 2010
-|
-|
-Digest algorithm
-|
-MD5 (NOT RECOMMENDED),SHA-1
-|
-SHA-1\*, SHA-256, SHA-384 or SHA-512
-|
-|
-RSA
-|
-2048†
-|
-2048
-|
-|
-ECC
-|
-NIST P-256
-|
-NIST P-256
-|
+|                  | Root Certificates whose validity period begins on or before 31 Dec 2010 | Root Certificates whose validity period begins after 31 Dec 2010 |
+| ---------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Digest algorithm | MD5 (NOT RECOMMENDED),SHA-1                                             | SHA-1\*, SHA-256, SHA-384 or SHA-512                             |
+| RSA              | 2048†                                                                   | 2048                                                             |
+| ECC              | NIST P-256                                                              | NIST P-256                                                       |
+|                  |
 
 2. Subordinate CA Certificates
 
-| | | |
-| --- | --- | --- |
-| |
-Subordinate CA Certificates whose validity period begins on or before 31 Dec 2010
-|
-Subordinate CA Certificates whose validity period begins after 31 Dec 2010
-|
-|
-Digest algorithm
-|
-SHA-1
-|
-SHA-1\*, SHA-256, SHA-384 or SHA-512
-|
-|
-RSA
-|
-1024
-|
-2048
-|
-|
-ECC
-|
-NIST P-256
-|
-NIST P-256
-|
+|                  | Subordinate CA Certificates whose validity period begins on or before 31 Dec 2010 | Subordinate CA Certificates whose validity period begins after 31 Dec 2010 |
+| ---------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Digest algorithm | SHA-1                                                                             | SHA-1\*, SHA-256, SHA-384 or SHA-512                                       |
+| RSA              | 1024                                                                              | 2048                                                                       |
+| ECC              | NIST P-256                                                                        | NIST P-256                                                                 |
 
-3. Subscriber Certificates
+1. Subscriber Certificates
 
-| | | |
-| --- | --- | --- |
-| |
-Subscriber Certificates whose validity period ends on or before 31 Dec 2010
-|
-Subscriber Certificates whose validity period ends after 31 Dec 2010
-|
-|
-Digest algorithm
-|
-SHA-1
-|
-SHA1\*, SHA-256, SHA-384 or SHA-512
-|
-|
-RSA
-|
-1024
-|
-2048
-|
-|
-ECC
-|
-NIST P-256
-|
-NIST P-256
-|
+|                  | Subscriber Certificates whose validity period ends on or before 31 Dec 2010 | Subscriber Certificates whose validity period ends after 31 Dec 2010 |
+| ---------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Digest algorithm | SHA-1                                                                       | SHA1\*, SHA-256, SHA-384 or SHA-512                                  |
+| RSA              | 1024                                                                        | 2048                                                                 |
+| ECC              | NIST P-256                                                                  | NIST P-256                                                           |
 
 † A Subscriber Certificate may, in addition, chain to an EV-enabled \<2048-bit key RSA root CA certificate.
 

@@ -37,12 +37,11 @@ Because of the strict vetting procedures which CA’s use to check the informati
 
 **Figure 1 compares the features of the three types of certificates:**
 
-| | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | ---: |
 | ***Type of certificate*** | ***Domain validated?*** | ***Subject Name Validated?*** | ***Address Validated?*** | ***Pad Lock** **Displayed by** **Browser?*** | ***Green address bar or other special treatment?*** | ***Relative price*** |
-| *DV* | *X* | | | *X* | | *$* |
-| *OV* | *X* | *X* | *X* | *X* | | *$$* |
-| *EV* | *X* | *X* | *X* | *X* | *X* | *$$$* |
+| :-----------------------: | :---------------------: | :---------------------------: | :----------------------: | :------------------------------------------: | :-------------------------------------------------: | -------------------: |
+|           *DV*            |           *X*           |                               |                          |                     *X*                      |                                                     |                  *$* |
+|           *OV*            |           *X*           |              *X*              |           *X*            |                     *X*                      |                                                     |                 *$$* |
+|           *EV*            |           *X*           |              *X*              |           *X*            |                     *X*                      |                         *X*                         |                *$$$* |
 
 _Figure 1_
 
