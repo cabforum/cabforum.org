@@ -1,42 +1,5 @@
 {{ define "main" }}
 
-<div class="row gx-0 gx-lg-4 p-0 mx-0 my-1">
-
-  <div class="col-12 col-lg-9">
-      <div class="bg-white shadow-sm border-bottom border-primary border-4">
-          <div id="content" class="p-4 border-top-lg border-start-lg border-end-lg" data-pagefind-body>
-              <div class="border-bottom mb-2"><h1>{{ if .Params.Header }}{{ .Params.Header }}{{ else }}{{ .Title }}{{ end }}</h1></div>
-              <div class="pt-3">{{ .Content }}</div>
-              <div>
-              {{ range first 3 (where .Site.RegularPages "Type" "post") }}
-                {{ partial "pagelisting.html" . }}
-              {{ end }}
-
-              <a class="btn btn-secondary btn-sm" href="posts/" title="{{ .Site.Params.name }} posts">More {{ .Site.Params.name }} posts</a>
-              </div>
-          </div>
-      </div>
-
-      <div class="mb-2"></div>
-  </div>
-  
-  <div class="col">
-      <div class="mb-4 d-none d-lg-block">{{- partialCached "search.html" . -}}</div>
-      <div class="mb-4 d-none d-lg-block">
-          <div class="bg-white shadow-sm border-bottom border-primary border-4">
-              <div class="border-top border-start border-end">
-                  <div class="bg-body-secondary fw-bolder p-1 text-uppercase">Latest releases</div>
-                  <div class="p-4">
-                    {{- partialCached "release-latest.html" (dict "title" "Server Certificate" "repository" "servercert" "filename" "docs/BR.md") "servercert" -}}
-                    {{- partialCached "release-latest.html" (dict "title" "Code Signing" "repository" "code-signing" "filename" "docs/CSBR.md") "code-signing" -}}
-                    {{- partialCached "release-latest.html" (dict "title" "S/MIME" "repository" "smime" "filename" "docs/SBR.md") "smime" -}}
-                    {{- partialCached "release-latest.html" (dict "title" "Network and Certificate System Security Requirements" "repository" "netsec" "filename" "docs/NSR.md") "netsec" -}}
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
-  
-</div>
+    {{ partial "main.html" . }}
 
 {{ end }}

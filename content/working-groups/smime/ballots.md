@@ -17,4 +17,4 @@ title: S/MIME Ballots
 
 ## Passed Ballots
 
-{{< pages-with-tags tags="Ballot,S/MIME" >}}
+{{< list-pages summary=false tags="Ballot,S/MIME" >}}

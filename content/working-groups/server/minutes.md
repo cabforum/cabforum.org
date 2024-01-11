@@ -7,4 +7,4 @@ linkTitle: Minutes
 title: Server Certificate WG Minutes
 ---
 
-{{< pages-with-tags tags="Minutes,Server Certificates" >}}
+{{< list-pages summary=false tags="Minutes,Server Certificates" >}}

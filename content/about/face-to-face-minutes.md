@@ -7,4 +7,4 @@ title: Face-to-Face Minutes
 type: page
 ---
 
-{{< pages-with-tags tags="Minutes,Face-to-Face" >}}
+{{< list-pages summary=false tags="Minutes,Face-to-Face" >}}

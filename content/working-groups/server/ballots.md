@@ -17,4 +17,4 @@ title: Server Certificate Ballots
 
 ## Passed Ballots
 
-{{< pages-with-tags tags="Ballot,Server Certificates" >}}
+{{< list-pages summary=false tags="Ballot,Server Certificates" >}}

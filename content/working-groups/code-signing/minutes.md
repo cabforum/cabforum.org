@@ -7,4 +7,4 @@ linkTitle: Minutes
 title: Code Signing Certificate WG Minutes
 ---
 
-{{< pages-with-tags tags="Minutes,Code Signing" >}}
+{{< list-pages summary=false tags="Minutes,Code Signing" >}}

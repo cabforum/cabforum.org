@@ -7,4 +7,4 @@ linkTitle: Minutes
 title: NetSec WG Minutes
 ---
 
-{{< pages-with-tags tags="Minutes,Network Security" >}}
+{{< list-pages summary=false tags="Minutes,Network Security" >}}

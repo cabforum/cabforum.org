@@ -7,4 +7,4 @@ title: Forum Minutes
 type: page
 ---
 
-{{< pages-with-tags tags="Minutes,Forum" >}}
+{{< list-pages summary=false tags="Minutes,Forum" >}}

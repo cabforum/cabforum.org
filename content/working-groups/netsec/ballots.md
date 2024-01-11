@@ -17,4 +17,4 @@ title: Network Security WG Ballots
 
 ## Passed Ballots
 
-{{< pages-with-tags tags="Ballot,Network Security" >}}
+{{< list-pages summary=false tags="Ballot,Network Security" >}}

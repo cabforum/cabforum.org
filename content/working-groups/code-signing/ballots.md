@@ -17,4 +17,4 @@ title: Code Signing Ballots
 
 ## Passed Ballots
 
-{{< pages-with-tags tags="Ballot,Code Signing" >}}
+{{< list-pages summary=false tags="Ballot,Code Signing" >}}

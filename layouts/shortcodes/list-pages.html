@@ -1,0 +1,29 @@
+{{- $p := site.RegularPages -}}
+
+{{- $limit := 250 -}}
+{{- with (.Get `limit`) -}}
+    {{- $limit = . -}}
+{{- end -}}
+
+{{- with (.Get `type`) -}}
+    {{- $p = where $p "Type" . -}}
+{{- end -}}
+
+{{- with (.Get `tags`) -}}
+    {{- $tags := split . "," -}}
+    {{- range $tags -}}
+        {{ $p = where $p "Params.tags" "intersect" (slice .) }}
+    {{- end -}}
+{{- end -}}
+
+{{- range first $limit $p -}}
+    {{- with (eq ($.Get `summary`) false ) -}}
+        <ul>
+        {{- range first 250 $p -}}
+            <li><a href="{{ .Permalink }}" title="{{ .Title }}" class="fw-bold">{{ .Title }}</a></li>
+        {{- end -}}
+        </ul>
+    {{- else -}}
+        {{- partial "pagelisting.html" . -}}
+    {{- end -}}
+{{- end -}}

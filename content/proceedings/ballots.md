@@ -19,4 +19,4 @@ Beginning with the adoption of the Extended Validation Guidelines in June 2007, 
 
 ## Passed Ballots
 
-{{< pages-with-tags tags="Ballot,Forum" >}}
+{{< list-pages summary=false tags="Ballot,Forum" >}}

@@ -7,4 +7,4 @@ linkTitle: Minutes
 title: S/MIME WG Minutes
 ---
 
-{{< pages-with-tags tags="Minutes,S/MIME" >}}
+{{< list-pages summary=false tags="Minutes,S/MIME" >}}

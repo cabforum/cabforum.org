@@ -1,11 +1,13 @@
-<div class="row gx-0 gx-lg-4 p-0 mx-0 my-1">
+<div class="row gx-0 gx-lg-4 p-0 mx-0 my-2">
 
     <div class="col-12 col-lg-9">
+        {{- if (not .IsHome) -}}
         <div class="border-bottom p-1 mb-2 fw-light">
             <small>
                 {{ partial "breadcrumbs.html" . }}
             </small>
         </div>
+        {{- end -}}
 
         <div class="overflow-hidden text-wrap bg-white shadow-sm border-bottom border-primary border-4">
             <div id="content" class="p-2 p-lg-4 border-top-lg border-start-lg border-end-lg" data-pagefind-body>
@@ -18,7 +20,7 @@
     </div>
     
     <div class="col">
-        {{- if ne .Type "post" -}}
+        {{- if and (ne .Type "post") (not .IsHome) -}}
             <div class="mb-4 mt-2">{{- partial "menu.html" . -}}</div>
         {{- end -}}
         <div class="mb-4 d-none d-lg-block">{{- partialCached "search.html" . -}}</div>
