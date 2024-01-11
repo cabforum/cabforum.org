@@ -36,7 +36,7 @@
     {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 
-    {{ $js := resources.Get "js/main.js" }}
+    {{ $js := resources.Get "js/main.js" | resources.ExecuteAsTemplate "main.js" . }}
     {{ $params := dict }}
     {{ $sourceMap := cond hugo.IsProduction "" "inline" }}
     {{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2018" "params" $params }}
@@ -45,3 +45,4 @@
     {{ $js = $js | fingerprint }}
     {{ end }} 
     <script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }} defer></script>
+    

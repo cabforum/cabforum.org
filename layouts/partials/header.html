@@ -2,8 +2,6 @@
 
     <title>{{ .Title }}{{ if eq .IsHome false }} | {{ .Site.Title }}{{ end }}</title>
 
-    <base href="{{ .Site.BaseURL}}" target="_self">
-
     {{- with $.Param "robots" -}}
     <meta name="robots" content="{{.}}">
     {{- end -}}
@@ -18,12 +16,9 @@
     {{ template "_internal/opengraph.html" . }}
 
     <link rel="canonical" href="{{ .Permalink }}">
-    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL}}/posts/feed/" title="Subscribe to updates from the CA/Browser Forum" />
+    <link rel="alternate" type="application/rss+xml" href="{{ relURL "/" }}posts/feed/" title="Subscribe to updates from the CA/Browser Forum" />
 
-    <!-- Favicon -->
-    <link rel="icon" href="{{ .Site.BaseURL }}/favicon.svg">
-	<!--<link rel="shortcut icon" href="/img/favicon.ico">{{ template "_internal/twitter_cards.html" . }}
+    <link rel="icon" href="{{ relURL "/" }}favicon.svg">
 
-    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">-->
-    <meta name="theme-color" content="#212528">
+    <meta name="theme-color" content="#37B8EB">
     
