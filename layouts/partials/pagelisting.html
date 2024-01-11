@@ -4,7 +4,7 @@
     {{ with $.Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
     <br>
     <small class="d-inline-block mw-100 text-truncate overflow-hidden pe-1">
-        {{ $.PublishDate.Format $customDateFormat }} by <a href="{{ relURL "/" }}author/{{ urlize .Params.Author }}/">{{ .Params.Author }}</a>
+        {{ $.PublishDate.Format $customDateFormat }} by <a href="{{ relURL "" }}author/{{ urlize .Params.Author }}/">{{ .Params.Author }}</a>
     </small>
     <div class="d-inline-block mw-100 text-truncate overflow-hidden">
         {{ partial "tags" $.Params.tags }}
