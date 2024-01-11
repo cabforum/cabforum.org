@@ -41,3 +41,78 @@ All [Bootstrap](https://getbootstrap.com/docs/) styles are available, to change 
 | second row   |        |
 {.table .table-bordered .table-striped .table-hover}
 ```
+
+### HTML Content
+
+Inclusion of HTML content within Markdown is not allowed for security and consistency reasons. If you need to include HTML content to enforce an particular formatting you can use a shortcode or create a custom shortcode.
+
+## Shortcodes
+
+Shorcodes are short tags that can be used in Markdown to render content. Hugo comes with a set of built-in shortcodes, see https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes. In additon to the built-in shortcodes we have added a few custom shortcodes which can be found in `layouts/shortcodes/` and are described below.
+
+In general we try to only use shortcodes for content that is used in multiple places or that is too complex to write in Markdown.
+
+### Listing pages
+
+To query a list of pages you can use the `list-pages` shortcode. This shortcode supports the following parameters:
+
+```md
+{{< list-pages summary=false limit=10 type="post" tags="Ballot,Code Signing" >}}
+```
+
+- summary: true/false (default: true)
+- limit: number (default: 250)
+- tags: comma separated list of tags (default: all tags)
+- type: 'page' or 'post' (default: all pages)
+
+### Load external markdown content
+
+For loading content from external sources you can use the `markdown` shortcode. This shortcode supports the following parameters:
+
+```md
+{{< markdown url="https://example.com/page.md" >}}
+```
+
+- url: URL to the markdown file
+
+### List GitHub pull requests
+
+To list GitHub pull requests you can use the `github-prs` shortcode. 
+
+```md
+{{< pull-requests repository="code-signing" state="open" labels="ballot" >}}
+```
+
+This shortcode supports the following parameters:
+
+- repository: GitHub repository name
+- state: 'open' or 'closed' (default: open)
+- labels: comma separated list of labels (default: all labels)
+
+### Button
+
+To create a button you can use the `button` shortcode.
+
+```md
+{{< button link="posts/" target="_blank" type="primary" label="More posts of the CA/Browser Forum" >}}
+```
+
+This shortcode supports the following parameters:
+
+- link: URL to the page
+- target: '_blank' or '_self' (default: _self)
+- type: 'primary', 'secondary', 'success', 'danger', 'warning', 'info', 'light', 'dark' (default: primary)
+- label: button label
+
+### Sub (Subscript)
+
+To create a subscript you can use the `sub` shortcode.
+
+```md
+{{< sub >}}Some text to subscript{{< /sub >}}
+```
+
+This shortcode supports the following parameters:
+
+- class: any additional class to add to the element
+
