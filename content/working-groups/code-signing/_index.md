@@ -15,8 +15,8 @@ The CA/Browser Forum’s Code Signing Certificate Working Group was chartered to
 
 ## Officers
 
-**Chair – Dean Coclin ([Digicert](https://www.digicert.com))**  
-**Vice-Chair – Bruce Morton ([Entrust](https://www.entrust.com))**  
+**Chair**: Dean Coclin ([Digicert](https://www.digicert.com))
+**Vice-Chair**: Bruce Morton ([Entrust](https://www.entrust.com)) 
 
 ## Charter
 

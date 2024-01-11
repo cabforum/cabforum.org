@@ -26,9 +26,9 @@ The primary deliverable of the NetSec WG is the NCSSRs. Other work includes perf
 
 ## Officers 
 
-Chair: Clint Wilson ([Apple](https://www.apple.com/))
+**Chair**: Clint Wilson ([Apple](https://www.apple.com/))
 
-Vice Chair: David Kluge ([Google Trust Services](https://pki.goog/))
+**Vice Chair**: David Kluge ([Google Trust Services](https://pki.goog/))
 
 ## Ballots 
 

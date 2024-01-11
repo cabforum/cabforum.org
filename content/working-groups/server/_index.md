@@ -12,9 +12,9 @@ title: Server Certificate Working Group
 
 ## Officers
 
-Chairperson: Iñigo Barreira ([Sectigo](https://sectigo.com/))
+**Chair**: Iñigo Barreira ([Sectigo](https://sectigo.com/))
 
-Vice-Chairperson: Kiran Tummala ([Microsoft](https://www.microsoft.com))
+**Vice Chair**: Kiran Tummala ([Microsoft](https://www.microsoft.com))
 
 ## Charter
 

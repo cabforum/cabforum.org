@@ -25,9 +25,9 @@ The goal of the SMCWG is to provide a framework where “reasonable assurance”
 
 ## Officers 
 
-**Chair**: Stephen Davidson ([DigiCert](http://www.digicert.com))  
-**Vice Chair**: Martijn Katerbarg ([Sectigo](http://www.sectigo.com))  
-**Past officers**: Mads Egil Henriksveen ([Buypass](http://www.buypass.no), Vice Chair 2020-2022)  
+**Chair**: Stephen Davidson ([DigiCert](https://www.digicert.com))  
+**Vice Chair**: Martijn Katerbarg ([Sectigo](https://www.sectigo.com))  
+**Past officers**: Mads Egil Henriksveen ([Buypass](https://www.buypass.no), Vice Chair 2020-2022)  
 
 ## Charter 
 
