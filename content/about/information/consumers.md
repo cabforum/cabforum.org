@@ -54,7 +54,7 @@ An OV or EV certificate has undergone checks to insure that the business owns th
 If the certificate error indicates a “name mismatch”, it could indicate that the certificate is being used in a “phishing site” to defraud consumers. Do not proceed if this warning is present on e-commerce sites.
 If the certificate error indicates the certificate authority is “not trusted”, this means the browser has not approved the certificate authority that issued the certificate. Do not proceed if this warning is present on e-commerce sites.
 
-It does not however indicate that the organization is reputable or worthy of your business. Nor does the presence of an SSL certificate guarantee that the web site is correctly implemented and free from malware. When shopping at an unknown, online merchant site, in addition to looking at the certificate details, consumers should check the reputation of that business via third party review sites such as the Better Business Bureau, Yelp, Dunn and Bradstreet, or other reliable consumer information web sites (i.e. ).
+It does not however indicate that the organization is reputable or worthy of your business. Nor does the presence of an SSL certificate guarantee that the web site is correctly implemented and free from malware. When shopping at an unknown, online merchant site, in addition to looking at the certificate details, consumers should check the reputation of that business via third party review sites such as the Better Business Bureau, Yelp, Dunn and Bradstreet, or other reliable consumer information web sites (i.e. http://www.consumer.ago.mo.gov/Know_MO/).
 
 **I’m getting a certificate error message when I go to a certain e-commerce website. What should I do?**
 

@@ -13,8 +13,7 @@ This page assumes that developers are familiar with the basics of the X509 certi
 Here are some useful documents to help developers understand aspects of certificate use:
 
 - [Recommendations for the Processing of EV SSL Certificates.v.2.0][4]
-- **Mozilla’s List of Included Root CAs** –   (a detailed spreadsheet of this table is also available here: )
-
+- [Mozilla’s List of Included Root CAs](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/included/) – (a detailed spreadsheet of this table is also available [here](https://docs.google.com/spreadsheet/pub?key=0Ah-tHXMAwqU3dGx0cGFObG9QM192NFM4UWNBMlBaekE&amp;single=true&amp;gid=1&amp;output=html))
 - [Department of Defense (DOD) Class 3 Public Key Infrastructure (PKI) Public Key-Enabled Application Requirements][5]
 - [W3C’s Web Security Context: User Interface Guidelines][6]
 - [FIPS 186-4, the Digital Signature Standard][7]

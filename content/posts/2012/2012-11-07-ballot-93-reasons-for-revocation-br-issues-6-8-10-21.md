@@ -16,7 +16,7 @@ Motion
 
 Effective immediately, except as to Part E below.
 
-Erratum begins:
+### Erratum begins
 
 ## A. (Issue #8)
 
@@ -66,7 +66,7 @@ The Issuing CA SHALL revoke a Subordinate CA Certificate within seven (7) days i
 
 •Replace the definition of Key Compromise with the following:
 
-“Key Compromise: A Private Key is said to be compromised if its value has been disclosed to an unauthorized person, an unauthorized person has had access to it, or there exists a practical technique by which an unauthorized person may discover its value. A Private Key is also considered compromised if methods have been developed that can easily calculate it based on the Public Key (such as a Debian weak key, see ) or if there is clear evidence that the specific method used to generate the Private Key was flawed.”
+“Key Compromise: A Private Key is said to be compromised if its value has been disclosed to an unauthorized person, an unauthorized person has had access to it, or there exists a practical technique by which an unauthorized person may discover its value. A Private Key is also considered compromised if methods have been developed that can easily calculate it based on the Public Key (such as a Debian weak key, see http://wiki.debian.org/SSLkeys) or if there is clear evidence that the specific method used to generate the Private Key was flawed.”
 
 ## D. (Issue #21)
 
@@ -78,7 +78,7 @@ The Repository MUST NOT include entries that indicate that a Certificate is susp
 
 1. Add the following to Section 3. References
 
-“NIST SP 800-89, Recommendation for Obtaining Assurances for Digital Signature Applications, ”
+“NIST SP 800-89, Recommendation for Obtaining Assurances for Digital Signature Applications, http://csrc.nist.gov/publications/nistpubs/800-89/SP-800-89_November2006.pdf”
 
 2. Add the following after Appendix A, table (3):
 
@@ -86,11 +86,11 @@ The Repository MUST NOT include entries that indicate that a Certificate is susp
 
 Erratum ends
 
-… Motion ends …
+## Motion ends
 
 The review period for this ballot commenced at 21:00 UTC on 17 October 2012. A voting period of seven days began and was suspended on 31 October 2012 at which time the tally was cleared and the review-and-comment period continued. The ballot has been amended and voting will begin again at 21:00 UTC on 2 November 2012. Voting will close at 21:00 UTC on Wednesday, 7 November 2012. Votes must be cast by posting an on-list reply to this thread.
 
-… Motions ends …
+## Motions ends
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response.
 

@@ -20,7 +20,7 @@ Tim Moses made the following motion, and Inigo Barreira and Ben Wilson endorsed 
 
 Effective 1 Jan 2013:
 
-Erratum begins …
+### Erratum begins
 
 In the Baseline requirements v1.0
 
@@ -30,7 +30,7 @@ ETSI Electronic Signatures and Infrastructures (ESI); Trust Service Provider Con
 
 Change the [WebTrust][2] reference to:
 
-[WebTrust][2] for Certification Authorities Version 2.0, available at
+[WebTrust][2] for Certification Authorities Version 2.0, available at http://www.webtrust.org/homepage-documents/item27839.aspx
 
 B. In Section 17.3, add a new first paragraph:
 
@@ -74,13 +74,13 @@ The CA’s audit SHALL be performed by a Qualified Auditor. A Qualified Auditor 
 
 1. Except in the case of an Internal Government Auditing Agency, maintains Professional Liability/Errors & Omissions insurance with policy limits of at least one million US dollars in coverage.
 
-… Erratum ends …
+### Erratum ends
 
 The ballot review period comes into effect at 21:00 UTC on April 24, 2012 and will close at 21:00 UTC on May 1, 2012. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 21:00 UTC on May 8, 2012. Votes must be cast by “reply all” to this email.
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-… Motion ends …
+## Motion ends
 
 [1]: http://www.etsi.org/deliver/etsi_ts/119400_119499/119403/01.01.01_60/ts_119403v010101p.pdf
 [2]: /wiki/WebTrust

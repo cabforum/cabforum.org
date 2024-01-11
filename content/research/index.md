@@ -8,8 +8,8 @@ title: Research
 ## Relevant Research on SSL
 
 - https://www.eff.org/observatory
-- http://news.netcraft.com/ssl-survey/
-- http://notary.icsi.berkeley.edu/trust-tree/
+- https://news.netcraft.com/ssl-survey/
+- https://notary.icsi.berkeley.edu/trust-tree/
 - https://www.ssllabs.com/projects/ssl-survey/index.html
 
 ## Browser and OS Security Warnings
