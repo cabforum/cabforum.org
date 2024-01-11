@@ -5,7 +5,7 @@ date: 2013-10-16 02:58:44
 title: Object Registry
 ---
 
-# Object Registry of the CA / Browser Forum {#Object_Registry_of_the_CA\_.2BAC8_Browser_Forum}
+# Object Registry of the CA / Browser Forum
 
 The CA/Browser Forum node (assigned organization identifier) is: **2.23.140**
 
@@ -16,11 +16,9 @@ Here are the CA/B Forum-assigned Object Identifiers (OIDs):
 - certificate-policies(1)
 - extended-validation(1) — **2.23.140.1.1**  (Certificate issued in compliance with the Extended Validation Guidelines)
 - baseline-requirements(2) — **2.23.140.1.2** (TLS Baseline Requirements)
-- domain-validated(1) — **2.23.140.1.2.1 ** (Certificate issued in compliance with the TLS Baseline Requirements – No entity identity asserted)**
-**
-- organization-validated(2) — **2.23.140.1.2.2** (Certificate issued in compliance with the TLS Baseline Requirements – Organization identity asserted)**
-**
-- individual-validated(3) — **2.23.140.1.2.3) ** (Certificate issued in compliance with the TLS Baseline Requirements – Individual identity asserted)
+- domain-validated(1) — **2.23.140.1.2.1** (Certificate issued in compliance with the TLS Baseline Requirements – No entity identity asserted)
+- organization-validated(2) — **2.23.140.1.2.2** (Certificate issued in compliance with the TLS Baseline Requirements – Organization identity asserted)
+- individual-validated(3) — **2.23.140.1.2.3** (Certificate issued in compliance with the TLS Baseline Requirements – Individual identity asserted)
 - extended-validation-codesigning(3) — **2.23.140.1.3** (EV Code Signing Certificate issued in compliance with the Code Signing Baseline Requirements)
 - codesigning-requirements(4) codesigning(1) — **2.23.140.1.4.1** (Code Signing Certificate issued in compliance with the Code Signing Baseline Requirements)
 - codesigning-requirements(4) timestamping(2) — **2.23.140.1.4.2** (Timestamp Certificate issued in compliance with the Code Signing Baseline Requirements)
