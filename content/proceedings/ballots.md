@@ -1,6 +1,7 @@
 ---
 aliases:
 - /ballots/
+- /forum-ballots/
 date: 2013-09-04 01:25:52
 title: Ballots
 ---

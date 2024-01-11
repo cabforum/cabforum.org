@@ -1,6 +1,7 @@
 ---
 aliases:
 - /validation-subcommittee/
+- /working-groups/scwg/validation-subcommittee/
 date: 2018-10-06 22:36:48
 title: Validation Subcommittee
 ---

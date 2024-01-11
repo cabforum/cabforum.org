@@ -1,6 +1,7 @@
 ---
 aliases:
 - /s-mime-ballots/
+- /ballots/s-mime-ballots/
 date: 2023-01-03 17:54:54
 linkTitle: Ballots
 title: S/MIME Ballots

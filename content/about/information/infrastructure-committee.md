@@ -1,6 +1,7 @@
 ---
 aliases:
 - /forum-infrastructure-wg/
+- /working-groups/forum-infrastructure-wg/
 date: 2018-10-06 22:48:57
 title: Forum Infrastructure Committee
 ---

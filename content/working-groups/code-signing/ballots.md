@@ -1,6 +1,7 @@
 ---
 aliases:
 - /code-signing-ballots/
+- /ballots/code-signing-ballots/
 date: 2021-09-04 00:52:03
 linkTitle: Ballots
 title: Code Signing Ballots

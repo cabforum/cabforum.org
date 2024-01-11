@@ -1,6 +1,7 @@
 ---
 aliases:
 - /scwg/
+- /working-groups/scwg/
 date: 2018-07-12 16:39:37
 linkTitle: Server Cert WG
 menu:
