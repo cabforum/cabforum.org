@@ -30,7 +30,7 @@ Minutes were approved.
 ### Future face to face meeting schedule
 
 **Leader:** Dimitris Zacharopoulos (HARICA)
-**Presentation link:** [/wp-content/uploads/1-CABF_Future-meetings.pdf](/uploads/1-CABF_Future-meetings.pdf)
+**Presentation link:** [/uploads/1-CABF_Future-meetings.pdf](/uploads/1-CABF_Future-meetings.pdf)
 
 - Spring 2024 meeting will be hosted by eMudhra in New Delhi, India
 - Summer 2024 meeting will be hosted by Actalis in Bergamo, Italy
@@ -212,7 +212,7 @@ Guest Speaker
 **Presenter:** Rob Brand – Ministry of Economic Affairs and climate Policy (NL)
 
 - *Title:*\* Building Trust, Empowering the Digital Economy – eIDAS Trust Services
-- *Presentation link:*\* [/wp-content/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf](/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf)
+- *Presentation link:*\* [/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf](/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf)
 - *Minutes:*\* Kiran Tummala (Microsoft)
 
 Presentation Notes:
@@ -299,7 +299,7 @@ Presentation Notes:
 **Leader:** Ben Wilson (Mozilla)
 
 - *Minutes:*\* Doug Beattie (Globalsign)
-- *Presentation link:*\* [/wp-content/uploads/2023-October-Mozilla-Browser-News.pdf](/uploads/2023-October-Mozilla-Browser-News.pdf)
+- *Presentation link:*\* [/uploads/2023-October-Mozilla-Browser-News.pdf](/uploads/2023-October-Mozilla-Browser-News.pdf)
 
 ## Discussion outside the presentation
 
@@ -310,7 +310,7 @@ There were no material discussion beyond what was presented.
 **Leader:** Chris Clements & Ryan Dickson (Google Chrome)
 
 - *Minutes:*\* Stephen Davidson (DigiCert)
-- *Presentation link:*\* [/wp-content/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf](/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf)
+- *Presentation link:*\* [/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf](/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf)
 
 ## Discussion outside the presentation
 
@@ -480,7 +480,7 @@ There were no material discussion beyond what was presented.
 **Leader:** Clint Wilson (Apple)
 
 - *Minutes:*\* Corey Bonnel (Digicert)
-- *Presentation link:*\* [/wp-content/uploads/6-2023-October-Apple.pdf](/uploads/6-2023-October-Apple.pdf)
+- *Presentation link:*\* [/uploads/6-2023-October-Apple.pdf](/uploads/6-2023-October-Apple.pdf)
 
 ## Discussion outside the presentation
 
@@ -541,7 +541,7 @@ Clint said that in Q1 or Q2 2024, a preview of an upcoming policy update in Q3 o
 **Leader:** Hannah Sokol and Nitesh Bakliwal (Microsoft)
 
 - *Minutes:*\* Dean Coclin (Digicert)
-- *Presentation link:*\* [/wp-content/uploads/7-Microsoft_F2F60_Presentation.pdf](/uploads/7-Microsoft_F2F60_Presentation.pdf)
+- *Presentation link:*\* [/uploads/7-Microsoft_F2F60_Presentation.pdf](/uploads/7-Microsoft_F2F60_Presentation.pdf)
 
 ## Discussion outside the presentation
 
@@ -564,7 +564,7 @@ They looked at ECDSA but the ROI to implement that isn’t there at this time. M
 **Leader:** Ben Wilson (Mozilla, on behalf of the CCADB Steering Committee)
 
 - *Minutes:*\* Hannah Sokol (Microsoft)
-- *Presentation link:*\* [/wp-content/uploads/8-CAB-F2F-60-CCADB-Update.pdf](/uploads/8-CAB-F2F-60-CCADB-Update.pdf)
+- *Presentation link:*\* [/uploads/8-CAB-F2F-60-CCADB-Update.pdf](/uploads/8-CAB-F2F-60-CCADB-Update.pdf)
 
 ## Discussion outside the presentation
 
@@ -675,7 +675,7 @@ Chrome: no intent to prohibit it from private PKI / other uses cases, only to re
 **Leader:** Nick Pope and Arno Fiedler (Chairs ETSI ESI)
 
 - *Minutes:*\* Clemens Wanko (TUV AUSTRIA)
-- \*Presentation link:\*\*[/wp-content/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf](/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf)
+- \*Presentation link:\*\*[/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf](/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf)
 
 ## ETSI summary of most important news (see slides for details)
 
@@ -694,7 +694,7 @@ See slides for further details.
 **Leader:** Clemens Wanko (TÜV AUSTRIA)
 
 - *Minutes:*\* Arno Fiedler (Vice Chair ETSI ESI)
-- \*Presentation link:\*\*[/wp-content/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf](/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf)
+- \*Presentation link:\*\*[/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf](/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf)
 
 ## ACAB’C summary of most important news (see slides for details)
 
@@ -747,7 +747,7 @@ See slides for further details.
 **Leader:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)
 
 - *Minutes:*\* Bruce Morton (Entrust)
-- *Presentation link:*\* [/wp-content/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf](/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf)
+- *Presentation link:*\* [/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf](/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf)
 
 ## Some notes from the presentation
 
@@ -817,7 +817,7 @@ Proof-of-Concept for BR of BRs with requirements Matrix
 **Leader:** Paul van Brouwershaven (Entrust)
 
 - *Minutes:*\* Tim Callan (Sectigo)
-- *Presentation link:*\* [/wp-content/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf](/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf)Paul van Brouwershaven (Entrust)
+- *Presentation link:*\* [/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf](/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf)Paul van Brouwershaven (Entrust)
 
 ## Discussion outside the presentation
 
