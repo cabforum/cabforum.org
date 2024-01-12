@@ -36,33 +36,37 @@ The minutes of the October 27 teleconference were approved.
 
 ### 5. Discussion
 
-Stephen Davidson emphasized that drafting was underway on the S/MIME BR and encouraged WG members to review the text at
+Stephen Davidson emphasized that drafting was underway on the S/MIME BR and encouraged WG members to review the text at https://github.com/cabforum/smime/tree/preSBR
 
 It was asked if pull requests would be accepted; Stephen confirmed yes but requested that they focus on specific sections rather than broad ranging edits.
 
 Discussion moved to External SubCAs (that is a CA operated by an entity other than the Root):
 
-– Confirmation by the CA of compliance by the External subCA with the S/MIME Baseline Requirements is required before it is allowed to commence issuing. If technically constrained this is internal to the CA, if unconstrained an external audit is required. It was noted that root stores may require their prior approval of External subCAs, and there are moves to require additional reporting of these CAs in CCADB.
+- Confirmation by the CA of compliance by the External subCA with the S/MIME Baseline Requirements is required before it is allowed to commence issuing. If technically constrained this is internal to the CA, if unconstrained an external audit is required. It was noted that root stores may require their prior approval of External subCAs, and there are moves to require additional reporting of these CAs in CCADB.
 
-– Technical constraints – as drafted in section 7.1.2.2 (restricting the allowed EKU) and 7.1.5 (constraints).
+- Technical constraints - as drafted in section 7.1.2.2 (restricting the allowed EKU) and 7.1.5 (constraints).
+    
+    https://github.com/cabforum/smime/blob/preSBR/SBR.md#7122-subordinate-ca-certificate  
+    https://github.com/cabforum/smime/blob/preSBR/SBR.md#715--name-constraints  
 
-[https://github.com/cabforum/smime/blob/preSBR/SBR.md#715–name-constraints][1]
+    Ben Wilson mentioned that discussion is occurring within the Mozilla community on related topics. Dimitris Zacharopoulos noted there was a historical discussion on mdsp whether the constraint on directoryName was required; he agreed to send that to the list.
 
-Ben Wilson mentioned that discussion is occurring within the Mozilla community on related topics. Dimitris Zacharopoulos noted there was a historical discussion on mdsp whether the constraint on directoryName was required; he agreed to send that to the list.
+- Internal audit obligations - it was agreed there will be a quarterly self-audit requirement by the CA which also extends to technically constrained External Sub-CAs (which do not require separate external audit at this time).
 
-– Internal audit obligations – it was agreed there will be a quarterly self-audit requirement by the CA which also extends to technically constrained External Sub-CAs (which do not require separate external audit at this time).
+    There was detailed discussion on the emphasis of internal audit on process/profile vs appropriate sampling of actual certs, it was agreed to stick close to the requirements defined in the TLS BR.
+    
+    https://github.com/cabforum/smime/blob/preSBR/SBR.md#87-self-audits  
+    https://github.com/cabforum/smime/blob/preSBR/SBR.md#88-review-of-enterprise-ra-or-technically-constrained-subordinate-ca  
 
-There was detailed discussion on the emphasis of internal audit on process/profile vs appropriate sampling of actual certs, it was agreed to stick close to the requirements defined in the TLS BR.
+- External audit requirements - following a question from Bruce Morton, it was confirmed that if an External subCA is not technically constrained, it must have full external audit.
 
-– External audit requirements – following a question from Bruce Morton, it was confirmed that if an External subCA is not technically constrained, it must have full external audit.
+    Clint Wilson asked to verify that verification of control of email address is always the responsibility of the CA, not allowed for Enterprise RA. Clint said there should be an approach of maximum transparency surrounding External SubCAs and other Delegated Third Parties.
 
-Clint Wilson asked to verify that verification of control of email address is always the responsibility of the CA, not allowed for Enterprise RA. Clint said there should be an approach of maximum transparency surrounding External SubCAs and other Delegated Third Parties.
+    Dimitris noted that the risks of S/MIME External SubCAs are probably no different than for TLS, so internal audit by the CA of technically constrained External SubCAs should be sufficient. Stephen noted that it is believed there are more S/MIME External SubCAs than existed for TLS. Ben noted that the S/MIME BR are a good opportunity for CAs to contribute to defining this supervision.
 
-Dimitris noted that the risks of S/MIME External SubCAs are probably no different than for TLS, so internal audit by the CA of technically constrained External SubCAs should be sufficient. Stephen noted that it is believed there are more S/MIME External SubCAs than existed for TLS. Ben noted that the S/MIME BR are a good opportunity for CAs to contribute to defining this supervision.
+    Fotis Loukos noted that S/MIME use cases vary from TLS so copying directly from the TLS BR may not always be best recourse to manage risks.
 
-Fotis Loukos noted that S/MIME use cases vary from TLS so copying directly from the TLS BR may not always be best recourse to manage risks.
-
-Future discussion will focus on identity validation for natural persons and legal entities
+    Future discussion will focus on identity validation for natural persons and legal entities
 
 It was agreed to cancel the normal working group conference call scheduled for November 24 due to US holidays.
 

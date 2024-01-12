@@ -64,7 +64,7 @@ Here is a list of major changes:
 
 1. PDF (attached)
 1. DOCX (attached)
-1. GitHub redline available at
+1. GitHub redline available at https://github.com/cabforum/documents/compare/fc63be73323195abc4e462708ca0385e37b7043d..a94d136c6ddbd0024e9bdc70785aa71f1e2f6753#diff-c2f0349076f544cc0e9f059f30f21a85
 
 ## Motion ends
 

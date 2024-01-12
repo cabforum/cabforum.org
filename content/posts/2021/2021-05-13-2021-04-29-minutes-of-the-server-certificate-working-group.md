@@ -36,13 +36,12 @@ Tim Hollebeek said that the subcommittee discussed a number of issues on last we
 
 Jos noted that Ryan Sleevi posted the following links to issues that were discussed in the chat:
 
-https://github.com/cabforum/servercert/issues/267
+- https://github.com/cabforum/servercert/issues/267  
+- https://github.com/cabforum/servercert/issues/268  
 
-https://github.com/cabforum/servercert/issues/268
+Validity periods – https://github.com/cabforum/servercert/issues/266  
 
-Validity periods –
-
-Minutes:
+Minutes: https://archive.cabforum.org/pipermail/validation/2021-April/001658.html  
 
 ## 6. NetSec Subcommittee Update
 
@@ -66,21 +65,23 @@ Voting ends 30-April 2021 at 19:30 UTC
 
 ### Draft Ballots Under Consideration
 
-- **Ballot SC45: Validation methods for Wildcards/ADNs** –
+- **Ballot SC45: Validation methods for Wildcards/ADNs**
+  https://archive.cabforum.org/pipermail/validation/2020-December/001607.html
+  
+  Ryan said that he will update the draft to account for Tor onion services. He has two endorsers, and will confirm that they support the changes. Then he will start the discussion period next week.
 
-Ryan said that he will update the draft to account for Tor onion services. He has two endorsers, and will confirm that they support the changes. Then he will start the discussion period next week.
-
-- **Ballot SC46: Sunset the CAA Exception** –
-
-Ryan said that he has endorsers and will start the discussion period shortly.
+- **Ballot SC46: Sunset the CAA Exception** 
+  https://archive.cabforum.org/pipermail/servercert-wg/2021-April/002617.html
+  
+  Ryan said that he has endorsers and will start the discussion period shortly.
 
 - **Ballot SCXX: Debian Weak Keys** (Chris)
-
-Chris Kemmerer said they are happy with feedback received, and were seeking additional input from stakeholders who maintain external resources. Chris said that he will go ahead and move the ballot into the discussion period.
+  
+  Chris Kemmerer said they are happy with feedback received, and were seeking additional input from stakeholders who maintain external resources. Chris said that he will go ahead and move the ballot into the discussion period.
 
 - **Ballot SC34 Account Management** (Tobi)
-
-Tobi Josefowitz said that he would talk to Jos about updating the pull request.
+  
+  Tobi Josefowitz said that he would talk to Jos about updating the pull request.
 
 ## 8. Any Other Business
 

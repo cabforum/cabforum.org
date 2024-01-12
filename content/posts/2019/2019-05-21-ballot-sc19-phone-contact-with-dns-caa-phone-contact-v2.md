@@ -31,7 +31,8 @@ The voting period for Ballot SC19 has ended and the **Ballot has Passed**. Here 
 - **0 Abstain:**
 
 100% of voting Certificate Consumers voted in favor
-**Relevant Bylaw references **
+
+**Relevant Bylaw references**
 Bylaw 2.3(f) requires:
 
 a “yes” vote by two-thirds of Certificate Issuer votes and 50%-plus-one Certificate Consumer votes for approval. Votes to abstain are not counted for this purpose. This requirement was met for both Certificate Issuers and Certificate Consumers.
@@ -73,21 +74,22 @@ Add appendix section B.1.2 as follows:
 
 B.1.2. CAA contactphone Property
 
-SYNTAX: contactphone
+SYNTAX: contactphone \<rfc3966 Global Number\>
 
 The CAA contactphone property takes a phone number as its parameter. The entire parameter value MUST be a valid Global Number as defined in RFC 3966 section 5.1.4, or it cannot be used. Global Numbers MUST have a preceding + and a country code and MAY contain visual separators.
 
 The following is an example where the holder of the domain specified the contact property using a phone number.
 
-$ORIGIN [example.com](https://clicktime.symantec.com/a/1/RrrP5wlUIQO0UEjES80UukJCFmwihBc7ewjfd-b_CQw=?d=_T97g78l-8OxNi8y9HcnecBd6kOhpD4OMPofFY5ICoU11DJf_5A8WZNy9Ebhlk9EU1493o-cw2ufBrk_KyPjP5jHjWZzBrywM79-63FKXl0bNo6iQsoyJwUlSACCytubGSMK9qpRH2MMU3bDA-kNpoYQInVxfDn3HxqzwxirEY0OaC96e1cfUzdUtTHmBFANU7rJUC6wy8soSb3QC_xlnCShaNi5Dn4rBvui7cTKJNS-Y0rysL60AtYs5PIgO8BiMU9RbE25y_Ub-CWOD0mq6DU2VTir5ewnM5lteZQV7NKGVir566yr6VusFmdDsnGQ7IN04SOYzJHJ0BaQpW1ldsZnIdQMElOtzWgjqhZv1HbbsTJ1GTsBHUaqxrljTvKis2p07PvKBJLDUpH-4i2DTtJHidnrZuTVshduGxPcI5Plt1RPbE73ddIdkv3bT2720-0vs-vGYu5n6XuxDtgIVIor3qxDksjD_3yy38MvvVbzZwqrNPfB5NYZPw%3D%3D&u=http%3A%2F%2Fexample.com).
-
-CAA 0 contactphone “+1 (555) 123-4567”
+```
+$ORIGIN example.com.
+               CAA 0 contactphone "+1 (555) 123-4567"
+```
 
 The contactphone property MAY be critical if the domain owner does not want CAs who do not understand it to issue certificates for the domain.
 
 ## Motion ends
 
-\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+**WARNING**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at (while the link name may be misleading, this is an accurate redline for SC19):
 

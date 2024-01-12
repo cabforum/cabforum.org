@@ -17,8 +17,6 @@ The antitrust statement was read.
 
 Present: Eneli Kirme, Robin Alden, Don Sheehy, Jeremy Rowley, Ben Wilson, Arno Fielder, Doug Beattie, Wayne Thayer, Joanna Fox, Ryan Sleevi, (Ben Laurie and Eran Messeri by phone), Francisco Arias, Tomofumi Okubo, Iñigo Barreira, Tom Albertson, Sid Stamm, Stephen Davidson (by phone), Moudrick Dadashov, Cornelia Enke, Rick Andrews, Dean Coclin, Kirk Hall, Chris Bailey, Imren Altepe, Jeffrey Ward, Richard Wang, Robert Relyea, Brian Smith, (working group meeting – Cecilia Kam, Tony Penta, Wan-Teh Chang)
 
-\[extoc\]
-
 ## Day 1
 
 ## Wednesday, 19 February 2014
@@ -286,7 +284,7 @@ We discussed items to prioritize.
 1. Compression – any use? (Wan Teh, Bob Relyea) There is a notable benefit to the use of compression, especially when a chain of multiple certificates is compressed because there is repeated information. E.g. the Issuer of an end entity certificate is always repeated exactly in the Subject of its issuing CA.
 1. Rick Andrews suggested we get some tools (metrics) to measure performance.
 
-The WG Mailing list exists. If you didn’t get the notes, please let Wayne Thayer know. The issue tracker is on the website at
+The WG Mailing list exists. If you didn’t get the notes, please let Wayne Thayer know. The issue tracker is on the website at </performance-working-group>
 
 ### RFC 3647 Working Group report
 
@@ -322,7 +320,7 @@ The CS BRs also have a concept of three strikes. On each strike, a subscriber’
 
 The current draft requires storage in a separate hardware device, not necessarily a FIPS module. Eventually we might migrate to a requirement for Trusted Platform Module (TPM). Anthony Penta presented what Microsoft is doing with a TPM model. A TPM is cryptographically able to attest that a key has been generated and stored in a TPM, and that might be the gold standard at some point in the future.
 
-Also, Microsoft recently had a Technet blog on fake anti-virus software that was signed with a code signing certificate. ()
+Also, Microsoft recently had a Technet blog on fake anti-virus software that was signed with a code signing certificate. (http://blogs.technet.com/b/mmpc/archive/2013/12/15/be-a-real-security-pro-keep-your-private-keys-private.aspx)
 
 Tom: There is an issue of what the CA should do when the subscriber comes back and says, “my key has been stolen.” After the first time, you would have to make sure it is in FIPS/CC-certified module.
 
@@ -881,11 +879,11 @@ Requirements will be published on April 2014 and take effect at the end of April
 
 There will be discussions between commission parliament and council and then agreement will be done. Final goal is 2017.
 
-Link for TSP standards:
+Link for TSP standards: http://www.etsi.org/index.php/technologies-clusters/technologies/security/certification-authorities-and-other-trust-service-providers
 
-Link for General e-signature
+Link for General e-signature: http://www.e-signatures-standards.eu/
 
-Link for EU Regulation
+Link for EU Regulation: http://ec.europa.eu/digital-agenda/trust-services-and-eid
 
 ### Bylaws Revisions
 

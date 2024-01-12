@@ -36,7 +36,7 @@ The minutes of the February 16 teleconference were approved. The minutes from th
 
 ### 5. Discussion
 
-Clint Wilson raised a question regarding the new “MX record method” described in Section 3.2.2.3 of the draft . Namely that text was proposed with the thought that the Applicant would be an email service provider. Client questioned whether an variant method would be desired or useful if an individual Applicant or even another service provider (rather than an email service provider) might want to use MX records to establish control.
+Clint Wilson raised a question regarding the new “MX record method” described in Section 3.2.2.3 of the draft https://github.com/cabforum/smime/blob/preSBR/SBR.md#3223-validating-applicant-as-operator-of-associated-mail-servers. Namely that text was proposed with the thought that the Applicant would be an email service provider. Client questioned whether an variant method would be desired or useful if an individual Applicant or even another service provider (rather than an email service provider) might want to use MX records to establish control.
 
 Stephen Davidson indicated that the current text was written broadly so that it could apply if the Applicant was a service provider or the domain holder. Clint described a case where an individual might have an internal mechanism to tell a service provider that a certificate would be requested, but to communicate separately with the CA. This might facilitate automation but allow the individual to control the certificate rather than them being managed in bulk by the service provider. Fotis Loukos stated that the existing text would allow that, but it may make sense to separate the methods. Stephen and Clint agreed to bring a further description to the group.
 
@@ -46,17 +46,17 @@ The WG continued discussion from the F2F meeting relating to Enterprise RA, and 
 
 Stephen pointed out that the requirement in the draft was not for FULL LEGAL Name but rather a name that was backed by ID, and furthermore that Enterprise RA records were considered authoritative sources for the Sponsor-validated profile.
 
-Doug Beattie noted that his name was Douglas but he commonly was called Doug. Stephen noted that new details on naming were provided in 3.1.1 and 3.1.4 of the draft .
+Doug Beattie noted that his name was Douglas but he commonly was called Doug. Stephen noted that new details on naming were provided in 3.1.1 and 3.1.4 of the draft https://github.com/cabforum/smime/blob/preSBR/SBR.md#311-types-of-names.
 
-Inigo Barreira noted the ETSI language that requires givenName and surname to be formal names, but allows a “friendly name” use in the CN. Stephen noted that it was difficult to codify rules for converting proper names to nicknames or casual names and that the definition for the CN is currently prescriptive:
+Inigo Barreira noted the ETSI language that requires givenName and surname to be formal names, but allows a “friendly name” use in the CN. Stephen noted that it was difficult to codify rules for converting proper names to nicknames or casual names and that the definition for the CN is currently prescriptive: https://github.com/cabforum/smime/blob/preSBR/SBR.md#71422-subject-distinguished-name-fields
 
 Stephen pointed out that the use of “role” names (like Help Desk) was harder to deal with because of the need to verify Subject info, except in cases with the email was repeated in the CN (“helpdesk@example.com).
 
-Joanna Fox indicated the language that exists in the (EV) vetting for the Principal Individual of a Business Entity, wherein an individual can make a “personal statement” attestation with a notary that allows “names by which a person is or has been known including all other names used” . This might be an option for “supplementary evidence” when people want to use a name that varies from ID. Stephen noted that it was difficult to write rules other than “use common sense” that accommodate Peter wanting to be called Pete without opening the door for him to choose to be called PayPal.
+Joanna Fox indicated the language that exists in the (EV) vetting for the Principal Individual of a Business Entity, wherein an individual can make a “personal statement” attestation with a notary that allows “names by which a person is or has been known including all other names used” https://github.com/cabforum/smime/blob/preSBR/SBR.md#32322-acceptable-methods-of-verification. This might be an option for “supplementary evidence” when people want to use a name that varies from ID. Stephen noted that it was difficult to write rules other than “use common sense” that accommodate Peter wanting to be called Pete without opening the door for him to choose to be called PayPal.
 
 Stephen noted that he believed that certificates issued via an Enterprise RA should include a flag such as an extension or something in the Subject so that relying parties could be made aware of their origin. Running out of time, it was agreed to return to this point.
 
-The draft the S/MIME Baseline Requirements is available at
+The draft the S/MIME Baseline Requirements is available at https://github.com/cabforum/smime/blob/preSBR/SBR.md
 
 ### 6. Any Other Business
 

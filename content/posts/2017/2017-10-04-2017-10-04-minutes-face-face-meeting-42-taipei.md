@@ -43,7 +43,7 @@ Team updates: * Keri Street no longer with Microsoft
 - Karina Sirota hired a few weeks ago
 - should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members
 
-Microsoft Trusted Root Program releases through Windows Update: * Most recent release had 43 changes. Details at . Highlights:
+Microsoft Trusted Root Program releases through Windows Update: * Most recent release had 43 changes. Details at http://aka.ms/rootupdates. Highlights:
 
 - This release will “NotBefore” 6 WoSign/Startcom roots per Windows Security Blog
 - Next release targeted for end of November 2017
@@ -70,7 +70,7 @@ Other areas of recent focus include: * Certificate Transparency (CT)
 - DNS Certification Authority Authorization (CAA) Implementation
 - Given that CAA is now mandatory and ballot 214 is currently in voting period, Microsoft will give immediate dispensation for CAs to issue certificates following the algorithm specified in either RFC 6844 or RFC 6844 as amended by Erratum 5065 when performing the mandatory pre-issuance CAA checks. If Baseline Requirements are updated to require Erratum 5065 algorithm, then CAs will be expected to transition to this updated algorithm within a reasonable amount of time which may be specified by a follow on ballot to 214 in the CAB Forum.
 
-SHA-1 deprecation updates can be found at
+SHA-1 deprecation updates can be found at http://aka.ms/sha1
 
 ### Google Root Program Update – Devon
 
@@ -206,7 +206,7 @@ Others commented on this issue, and expressed the following points of view:
 
 ### ETSI Update
 
-[**https://portal.etsi.org/TBSiteMap/ESI/ESIActivities.aspx**][1]
+[https://portal.etsi.org/TBSiteMap/ESI/ESIActivities.aspx][1]
 
 Notetaker: Enrico
 
@@ -216,7 +216,7 @@ ISO 17065 is one of the foundations of the ETSI Certification Policies based aud
 
 The accreditation scheme is not person-based, it is accreditation of the auditing body – the Conformity Assessment Body (CAB). The CAB is responsible for the quality and skills of the auditor and the quality of their work. In Europe, at the top level, there is the European Accreditation Authority ([http://www.european-accreditation.org][2]). A CAB must conform to the ISO 17065 and must be accredited to audit pursuant to ETSI 319 403. To verify whether the CAB is accredited, you can request its accreditation certificate, and the certificate will need to reference the applicable standards for which the CAB is accredited. The ACAB’C is now an organization that cares about the quality of the auditor. ETSI has created a detailed audit check list for auditors who audit CAs, the check list includes more than 300 specific controls.
 
-Standards are available for download at . The most important standard for this group is EN 319 411-1 . End of October 2017 an actual version will be published.
+Standards are available for download at https://www.etsi.org/standards-search. The most important standard for this group is EN 319 411-1 . End of October 2017 an actual version will be published.
 
 ### Governance Working Group Report
 
@@ -781,5 +781,5 @@ Peter confirmed the next F2F meeting will be hosted by Amazon on March 6-8, 2018
 Kirk said that both Cupertino, CA and London had been suggested for the June 2018 meeting, and asked for a straw poll of preference. Gerv asked where the Fall 2018 meeting would be, and Kirk said China. Gerv said that London seemed the better choice for a June meeting, as that balances meetings among Europe, North America, and Asia, and the group’s consensus was the same. The June 2018 meeting will be hosted by Comodo in London. Kirk asked other members to talk to him if they wanted to host a meeting in 2019.
 
 [1]: https://portal.etsi.org/TBSiteMap/ESI/ESIActivities.aspx
-[2]: https://clicktime.symantec.com/a/1/ajid6GVsviHn14CEJN_0W1r2dPHjUMbT054mgsoVkkw=?d=EOs_Bw21nSXmzxCNmZzWymV0-wtF1jqPOj6QCavTZwx3Rs4TkTC05h5GvKtABG1hpvl4ZTlD2NTCKWM3z0KI6NR-vMDmVQixdROUV6uZGBbC3Myg-6KwKGZs9YwJZTkAOoYRzH6eOsec-kIjseUwSZUKqpY3vd8hq2N-JtpIYYn6MIyYXxXlCtM8ET53l9GXP7vBURZe0FhAGhL6xzShJRXKJuahcIFdXjhnwchEDFxb88epigzJ8Y6fWeCCdgj8x48nkXfk01QMmDuMGf_-L6FQD27yUoYrixRXfUGa2lo7LHlpQoRndfDNOkq-C7jlN1SeZQuKU7ElomdE6XxHF459bgZIoJsjGOndYuEhL7JZEn0QqsO0LmBWscn-ONs16CQMABzJvA-S_bngrWhEjGCmv8bg-aJ6whrS15Q5vSnTcgm-Qt-bbxOvAr8E1DJkiSSiLshFw_4aFTXMs4W0r2cffmEQFXZf0XFabQLtqe2oNWW1Em0P&u=http%3A%2F%2Fwww.european-accreditation.org%2F
+[2]: https://www.european-accreditation.org/
 [3]: /uploads/Determine-Applicability-of-Certificates-by-using-standard-CP-OID.pptx

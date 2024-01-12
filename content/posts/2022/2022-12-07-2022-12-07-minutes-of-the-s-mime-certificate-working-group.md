@@ -50,10 +50,10 @@ One example was raised by Bruce Morton, noting that the SBR require that info in
 
 Noting that he believed there was support for the use of CAA in S/MIME by enterprises, Stephen introduced the subject of CAA for “issuemail”.
 
-- Certification Authority Authorization (CAA) Processing for Email Addresses, Draft-bonnell-caa-issuemail-00 at
-- Draft CAA text for S/MIME BR at
+- Certification Authority Authorization (CAA) Processing for Email Addresses, Draft-bonnell-caa-issuemail-00 at https://datatracker.ietf.org/doc/draft-bonnell-caa-issuemail/
+- Draft CAA text for S/MIME BR at https://github.com/srdavidson/smime/blob/CAA/SBR.m
 
-Tim encouraged parties who support the use of CAA for S/MIME to join the IETF discussion at . He noted that we could also “go it alone” as was done for VMC but that the RFC approach allowed more detail to be provided on security considerations.
+Tim encouraged parties who support the use of CAA for S/MIME to join the IETF discussion at https://mailarchive.ietf.org/arch/msg/spasm/chcrIZEit6HcdGyFGNzyiL7Dg6k/. He noted that we could also “go it alone” as was done for VMC but that the RFC approach allowed more detail to be provided on security considerations.
 
 Stephen noted that CAA if adopted would most likely take effect after the September effective date of the SBR v1.0.0. Dimitris commented that there are CAs that issue S/MIME that do not issue TLS, and for whom CAA may be new, so any deadline should have adequate implementation time.
 

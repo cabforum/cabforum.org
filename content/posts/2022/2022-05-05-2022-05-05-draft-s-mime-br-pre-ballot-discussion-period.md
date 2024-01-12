@@ -16,13 +16,13 @@ The S/MIME BR describes an integrated set of technologies, protocols, identity-p
 
 As agreed by the SMCWG, recognizing that the S/MIME BR will be a new standard, the pre-ballot discussion period allows organizations to complete their internal reviews of the draft before the final ballot is assembled.
 
-Comments may be submitted by SMCWG members to the SMCWG public listserv () or using the Issues functionality on GitHub ().
+Comments may be submitted by SMCWG members to the SMCWG public listserv (https://lists.cabforum.org/mailman/listinfo/smcwg-public) or using the Issues functionality on GitHub (https://github.com/cabforum/smime/issues).
 
 The SMCWG will take advantage of the summer face-to-face meeting of the CABF to discuss and categorize any remaining issues that arise for resolution in this draft or a future version of the standard.
 
 At that time, a roadmap will be set to solicit endorsers and to conduct an adoption ballot for version 1 of the S/MIME BR later in the summer, subject to the voting rules of the SMCWG charter and the CABF bylaws which call for a 7-day review and a 7-day ballot period. A successful ballot will lead to a 60-day IPR review.
 
-The draft of the S/MIME BR may be found at .
+The draft of the S/MIME BR may be found at https://github.com/cabforum/smime/blob/preSBR/SBR.md.
 
 ## Summary
 

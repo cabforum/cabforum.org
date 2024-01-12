@@ -92,9 +92,9 @@ F. In Section 1.6.1 of the Baseline Requirements, REPLACE the definition for
 IANA has “False” for Globally Reachable in either of the IANA
 Special-Purpose IP Address Registries:
 
-l-registry.xhtml or
+https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml or
 
-l-registry.xhtml
+https://www.iana.org/assignments/iana-ipv6-special-registry/iana-ipv6-special-registry.xhtml
 
 G. In Section 1.6.1 of the Baseline Requirements, REPLACE the definition for
 “Wildcard Certificate” with the following: A Certificate containing a
@@ -139,7 +139,7 @@ Namespace. (e.g. CAs MUST NOT issue “\*.co.uk” or “\*.local”, but MAY is
 \[^pubsuffix\] Determination of what is “registry-controlled” versus the
 registerable portion of a Country Code Top-Level Domain Namespace is not
 standardized at the time of writing and is not a property of the DNS itself.
-Current best practice is to consult a “public suffix list” such as
+Current best practice is to consult a “public suffix list” such as http://publicsuffix.org/
 (PSL), and to retrieve a fresh copy regularly. If
 using the PSL, a CA SHOULD consult the “ICANN DOMAINS” section only, not the
 “PRIVATE DOMAINS” section. The PSL is updated regularly to contain new gTLDs

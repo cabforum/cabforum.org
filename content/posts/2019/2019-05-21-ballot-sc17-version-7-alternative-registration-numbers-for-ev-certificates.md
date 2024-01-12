@@ -15,9 +15,7 @@ The voting period for Ballot SC17 has ended and the **Ballot has Passed**. Here 
 **Voting by Certificate Issuers – 24 votes total including abstentions**
 
 - **23 Yes votes:** Actalis, Buypass, Camerfirma, Certigna (DHIMYOTIS), Certum (Asseco), Chunghwa Telecom, Comsign, D-TRUST, DarkMatter, DigiCert, eMudhra, Entrust Datacard, Firmaprofesional, GDCA, GlobalSign, GoDaddy, HARICA, Kamu SM, SHECA, SSC, SecureTrust (former Trustwave), TurkTrust
-
 - **0 No votes:**
-
 - **1 Abstain:** TrustCor
 
 100% of voting Certificate Issuers voted in favor.
@@ -31,7 +29,9 @@ The voting period for Ballot SC17 has ended and the **Ballot has Passed**. Here 
 - **0 Abstain:**
 
 100% of voting Certificate Consumers voted in favor
-**Relevant Bylaw references **
+
+**Relevant Bylaw references**
+
 Bylaw 2.3(f) requires:
 
 a “yes” vote by two-thirds of Certificate Issuer votes and 50%-plus-one Certificate Consumer votes for approval. Votes to abstain are not counted for this purpose. This requirement was met for both Certificate Issuers and Certificate Consumers.
@@ -230,6 +230,8 @@ Changes since version 5:
 1. Fix cross-references in Appendix H.
 
 A comparison of the changes since version 5:
+
+https://github.com/cabforum/documents/compare/28764a1..a29069d
 
 The procedure for approval of this ballot is as follows:
 

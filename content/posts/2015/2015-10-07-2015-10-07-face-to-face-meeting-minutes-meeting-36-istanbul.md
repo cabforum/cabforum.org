@@ -519,7 +519,7 @@ So in order to show users the warning, it wants to reduce the number of false po
 - The initial goal is for Windows 10, but the changes and infrastructure should be viable to backport through to Windows 7
 -
 
-The SHA-1 plan is published, canonically, at \[<http://aka.ms/sha1%5D;> it will be updated as questions come in
+The SHA-1 plan is published, canonically, at http://aka.ms/sha1 it will be updated as questions come in
 
 #### Root Program Requirements Update
 
