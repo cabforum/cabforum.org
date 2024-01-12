@@ -42,10 +42,10 @@ Current Root Store Members of CCADB [2]: Mozilla, Microsoft, Google, Cisco
 
 Info directly published by CCADB to:
 
--
--
+- https://wiki.mozilla.org/CA/Included_CAs
+- http://ccadb.org/resources
 
-Can be updated as part of Audit Case in CCADB. If needs to be updated out of the annual cycle, then send email to .
+Can be updated as part of Audit Case in CCADB. If needs to be updated out of the annual cycle, then send email to support@ccadb.org.
 
 **2.2 Audit Cases [3] and audit archiving:**
 
@@ -105,7 +105,8 @@ We decided to send out a special survey in January to raise awareness of the vul
 
 Thank you to all CAs who completed assessments by the original deadline of January 31st. Extensions until April 15th have been granted to some CAs. We would like to make a review and update of this an annual requirement that each CA submits along with -or perhaps prior to – their annual audit statements.
 
-Google Doc of BR Self Assessment Status: If your CA’s BR Self Assessment status in this document is incorrect, please send email to Kathleen.
+Google Doc of BR Self Assessment Status: https://docs.google.com/spreadsheets/d/1Lmdkl3gTpKyBgZwL_6j5ivClBXiGMUnZyAVJDTHtjO4/edit?usp=sharing
+If your CA’s BR Self Assessment status in this document is incorrect, please send email to Kathleen.
 
 **8 Audit Reporting Requirements**
 
@@ -135,18 +136,22 @@ I am working on a number of updates to our root store program [13]. CAs are enco
 
 ## URLs related to the above
 
-[1] [2] [3] [4] [5] [6] [https://wiki.mozilla.org/CA/Root_Store_Policy_Archive][9]
+1. http://blog.gerv.net/
+1. http://ccadb.org/rootstores/
+1. http://ccadb.org/cas/updates
+1. https://wiki.mozilla.org/CA/Application_Process
+1. https://groups.google.com/d/msg/mozilla.dev.security.policy/Bs3yRryKWFQ/zJkUtz0GBAAJ
+1. https://wiki.mozilla.org/CA/Root_Store_Policy_Archive
 
 #### Microsoft
 
-_\*\*Note Taker: Tim
-\*\*_
+_**Note Taker: Tim**_
 
 ## Talking points from Mike
 
-- should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members. (old will relay mails to msroot but eventually will be decommissioned)
+- msroot@microsoft.com should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members. (old trustcert@microsoft.com will relay mails to msroot but eventually will be decommissioned)
 - We now have the capability to deploy root store changes on a monthly cadence. Root change request review may not move as quickly though depending on complexity, conformance to CABF baseline requirements and/or Microsoft root program requirements/contract
-- January release came out on 30 Jan. For more information, see: . Next release targeted for the end of March. Monthly change capability begins in April
+- January release came out on 30 Jan. For more information, see: http://aka.ms/rootupdates. Next release targeted for the end of March. Monthly change capability begins in April
 - Continuing to conduct end-to-end examination of each root in the root store for EKUs, use, contract compliance and other issues which may represent risk to Microsoft our users. Moving last remaining CAs on 2007 version contracts to updated 2015 version
 - Continued efforts toward automation of program processes to minimize errors and enable increased verification of program compliance
 - Update on our Common CA Data Base CA Audit Letter Validation project (Jixi)
@@ -172,7 +177,7 @@ _Mike:_ No plans to have a collaborative feedback on policy planning, but will s
 
 _**Note Taker: Robin**_
 
-_Ryan:_ Contact information. There is a CCADB blast in your mailbox. The email address to contact us for the root program is Please do not email individuals for root program issues as an email could be missed or the individual may be away from work.
+_Ryan:_ Contact information. There is a CCADB blast in your mailbox. The email address to contact us for the root program is chrome-root-authority-program@google.com. Please do not email individuals for root program issues as an email could be missed or the individual may be away from work.
 
 **Certificate validation:**
 **SYMANTEC** – Chrome 65 is no longer trusting certificates from legacy roots issued after December 2017. Chrome 65 is out today. Chrome 66 will be out Mar 16, removing trust for SYMC certificates issued before June 1, 2016. Common-name matching that was enabling for Enterprise use – this feature is being removed in Chrome 66. 825 days lifetime will be ENFORCED at 825 days (measured in seconds). Chrome 66 also blocks certificates issued with valid_from in the future.
@@ -212,9 +217,9 @@ _**Note Taker: Mike**_
 
 Upcoming distrust of Symantec plan details to be published soon. Apple plans to align distrust with the timeline published by Google and Mozilla. However, what will be distrusted may be different than those root stores which focus only on TLS
 
-**Certificate Transparency (CT) update:** Looking into CT log policy development but most likely the Apple CT policy will align with that of Google. Apple will also use the same list of trusted logs as Google. This list can be found at +/master/net/data/ssl/certificate_transparency/log_list.json
+**Certificate Transparency (CT) update:** Looking into CT log policy development but most likely the Apple CT policy will align with that of Google. Apple will also use the same list of trusted logs as Google. This list can be found at https://chromium.googlesource.com/chromium/src.git/ +/master/net/data/ssl/certificate_transparency/log_list.json
 
-Should a log operator desire to include their log in Apple’s program requests should be sent to certificate-transparency- and include the following:
+Should a log operator desire to include their log in Apple’s program requests should be sent to transparency-program@group.apple.com and include the following:
 
 - Two points of contact (email and phone number)
 - CT logging policy for accepting certificates
@@ -339,11 +344,11 @@ Some doubt remains, given the scope of work and availability of resources to com
 
 Some other work products involve EV improvement and IP validation, but at a lower priority.
 
-### [**WebTrust**][4]\*\* Update\*\*
+### [WebTrust][4] Update
 
 _**Note Taker: Kirk**_
 
-[**WebTrust**][4]\*\* for CA Update\*\*
+[WebTrust][4] for CA Update
 
 Presented by Jeff Ward, Don Sheehy, and Taryn Abate
 
@@ -452,7 +457,7 @@ _**Note Taker: Ken**_
 - Agencies can’t find or use latest security products because they do not pass FIPS 140-2 testing which is a federal security requirement.
 - Another agency challenge is enabling FIPS mode that meets federal security implementation guidance.
 - NIST may adopt ISO 19790 as the next FIPS 140. NIST standards may change, but the mission remains the same. US Government will continue to identify standards, but may get out of creating standards. An industry working group was re-started December 2015 and is open for participation by emailing .
-- Developing a plan to re-organize the CVMP program in a phased approach to meet the industry and agency feedback. Primary update will be to tackle depth and scope of testing and leverage mature industry security development processes including automating and integrating testing into product development. Overall goal is to reduce cost, enable agile testing verification during product development, and reduce validation cycle. Powerful economic incentives for industry participation. NIST wants to move away from a point-in-time validation testing and evolve to a continuous testing approach aligned with product development. Is it possible for industry to cheat automated testing methods (VW problem). NIST has algorithm testing status on [GitHub][10] (). Collaborating with industry partners already including Google Wycheproof. Intend to rollout automated testing platform in 2018 Q3 (April – June). Hope to also integrate with other validation programs such as common criteria which also may include a way to leverage existing validation certifications. NVLAP intend to implement third party or out-of-band audits of the automated testing results. Also collaborating with universities to independently verify validation modules in the field. Module testing status will be updated in a bottom-up approach. FIPS 140 is too big to change at once. Two active pilots with 3+ planned with status update at the October 2018 at the working group. The CVMP will introduce new testing for cloud providers. A draft proposal was released for public comment in February 2018. NIST is working through comments and the approach is to look at toolchain vs individual modules in tandem.
+- Developing a plan to re-organize the CVMP program in a phased approach to meet the industry and agency feedback. Primary update will be to tackle depth and scope of testing and leverage mature industry security development processes including automating and integrating testing into product development. Overall goal is to reduce cost, enable agile testing verification during product development, and reduce validation cycle. Powerful economic incentives for industry participation. NIST wants to move away from a point-in-time validation testing and evolve to a continuous testing approach aligned with product development. Is it possible for industry to cheat automated testing methods (VW problem). NIST has algorithm testing status on [GitHub][10] (https://github.com/usnistgov/ACVP). Collaborating with industry partners already including Google Wycheproof. Intend to rollout automated testing platform in 2018 Q3 (April – June). Hope to also integrate with other validation programs such as common criteria which also may include a way to leverage existing validation certifications. NVLAP intend to implement third party or out-of-band audits of the automated testing results. Also collaborating with universities to independently verify validation modules in the field. Module testing status will be updated in a bottom-up approach. FIPS 140 is too big to change at once. Two active pilots with 3+ planned with status update at the October 2018 at the working group. The CVMP will introduce new testing for cloud providers. A draft proposal was released for public comment in February 2018. NIST is working through comments and the approach is to look at toolchain vs individual modules in tandem.
 - Q & A:
 - _When you do automated testing but the module is still testing, does the module still need to go to the lab?_ When using automated testing it should not have to be redone by the lab. If algorithms change then the report goes back to NIST to confirm update.
 - _Do you expect all FIPS 140-3 modules to be ISO 19790 compliant?_ NIST reserves the right for federal government approval so it’s not a 1-for-1 right now. Testing requirements will be aligned eventually and other countries have adopted the ISO.
@@ -547,9 +552,9 @@ Why not report incident address in the end entity certificate? The was some push
 
 The BRs do not state the place to report is in the CPS. Should BRs specify where? Wayne proposes that a a specific statement must be put in the CPS 1.5.2 and also put place in repository.
 
-Note the CCADB has list for all CA’s but this is best for CA’s, browsers and researchers, but not good for common users. See .
+Note the CCADB has list for all CA’s but this is best for CA’s, browsers and researchers, but not good for common users. See https://ccadb-public.secure.force.com/mozilla/AllProblemReportingMechanismsReport.
 
-Phil states that he is reviewing another standard and would like consistency, see . Phil also stated that we could create an email address similar to mailto from CAA. Phil followed up with a proposal, see .
+Phil states that he is reviewing another standard and would like consistency, see https://tools.ietf.org/html/draft-ietf-uta-smtp-tlsrpt-17. Phil also stated that we could create an email address similar to mailto from CAA. Phil followed up with a proposal, see https://cabforum.org/pipermail/public/2018-March/013073.html.
 
 ### News from the Council of Accredited Conformity Assessment Bodies (ACAB-c) on Harmonized audit attestation
 
@@ -557,7 +562,7 @@ Phil states that he is reviewing another standard and would like consistency, se
 
 _**Note Taker: Arno**_
 
-ACAB-c is a non-profit organisation founded in 2016 for Conformity assessment bodies (CABs) accredited by a EA () according to ISO/IEC 17065 AND eIDAS Art. 3 No. 18 with scope of accreditation in the area of electronic identification and trust services for electronic transactions. Strategic goal is the cooperation with eIDAS relevant Organisations, CA/B-Forum and Browsers. Members are obliged to fulfil an ACAB-c “Code of Conduct”. In Europe 20 accredited Conformity Bodies are active, now seven are in negotiations with ACAB-c
+ACAB-c is a non-profit organisation founded in 2016 for Conformity assessment bodies (CABs) accredited by a EA (http://www.european-accreditation.org/) according to ISO/IEC 17065 AND eIDAS Art. 3 No. 18 with scope of accreditation in the area of electronic identification and trust services for electronic transactions. Strategic goal is the cooperation with eIDAS relevant Organisations, CA/B-Forum and Browsers. Members are obliged to fulfil an ACAB-c “Code of Conduct”. In Europe 20 accredited Conformity Bodies are active, now seven are in negotiations with ACAB-c
 
 At the last Meeting in Paris they agreed about a template for an Audit Attestation Letter containing “Clean audit”, Contact Information identifying TSP ; Root, Audit Type and period. Separate Attestation is needed for each Root CA. Wayne says it seems to be complete, Matthias thanks Kathleen for advice. Arno reports that ETSI plans to updates 319 403 accordingly
 
@@ -569,6 +574,8 @@ Mike says that Microsoft will think about making the ACAB-c Form mandatory
 
 Matthias says that the Audit Attestation Letter SHALL be provided in English language and reminds that CA’s remain responsible for their audits and have to cooperate with and provide the necessary information to the auditors.
 
+https://www.slideshare.net/ArnoFiedler/20180308-cabf-acabcpresentationv2
+
 ### Guest Speaker – Rep. Jim Langevin (D-RI), House Armed Services Committee and Homeland Security Committee (no Minutes)
 
 Note Taker: No notes for this segment
@@ -577,17 +584,17 @@ Note Taker: No notes for this segment
 
 ### Adjourn
 
-[1]: /wiki/GlobalSign
-[2]: /wiki/DigiCert
-[3]: /wiki/GoDaddy
-[4]: /wiki/WebTrust
-[5]: /wiki/TrustCor
-[6]: /wiki/McPherson
-[7]: /wiki/DarkMatter
-[8]: /wiki/ChungHwa
+[1]: https://frozen.cabforum.org/wiki/GlobalSign
+[2]: https://frozen.cabforum.org/wiki/DigiCert
+[3]: https://frozen.cabforum.org/wiki/GoDaddy
+[4]: https://frozen.cabforum.org/wiki/WebTrust
+[5]: https://frozen.cabforum.org/wiki/TrustCor
+[6]: https://frozen.cabforum.org/wiki/McPherson
+[7]: https://frozen.cabforum.org/wiki/DarkMatter
+[8]: https://frozen.cabforum.org/wiki/ChungHwa
 [9]: https://wiki.mozilla.org/CA/Root_Store_Policy_Archive
-[10]: /wiki/GitHub
-[11]: /wiki/SubjectPublicKeyInfo
+[10]: https://frozen.cabforum.org/wiki/GitHub
+[11]: https://frozen.cabforum.org/wiki/SubjectPublicKeyInfo
 [12]: http://caprogram.360.cn
-[13]: /wiki/Meeting%2043%20Minutes?action=AttachFile&do=view%E2%8C%96=CABF_F2Fpreso_030518_vmf.pptx
+[13]: https://frozen.cabforum.org/wiki/Meeting%2043%20Minutes?action=AttachFile&do=view%E2%8C%96=CABF_F2Fpreso_030518_vmf.pptx
 [14]: https://github.com/cabforum/documents/pull/84

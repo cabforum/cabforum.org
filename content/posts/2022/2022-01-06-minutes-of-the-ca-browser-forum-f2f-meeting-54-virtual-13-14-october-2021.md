@@ -98,13 +98,13 @@ Other News
 
 Ryan Dickson was introduced as running Google Root Program. He previously worked in policy with the U.S. DOD and U.S. Federal PKI.
 
-He reviewed the Chrome Root Store Policy – .
+He reviewed the Chrome Root Store Policy – https://g.co/chrome/root-policy.
 
 The Root Store is being enabled across all Chrome platforms. The root program is in the engineering and development phase. (Not able to provide updates on inclusion requests at this time, as the focus is on the remaining engineering work.)
 
-Incident reporting should be sent to the email alias – .
+Incident reporting should be sent to the email alias – chrome-root-authority-program@google.com.
 
-Inclusion requests for Android should be filed within the “Libcore” component ().
+Inclusion requests for Android should be filed within the “Libcore” component (https://issuetracker.google.com/issues?q=componentid:192710%2B).
 
 Dimitris asked about EV treatment. If a CA wants to apply, the current process was to send an email and file it in a bug.
 
@@ -115,7 +115,7 @@ Answer: The process has not changed, so the same process should be followed.
 **Speaker:** Clint Wilson
 **Minute Taker:** Trevoli Ponds-White
 
-**Presentation:**
+**Presentation:** https://www.apple.com/certificateauthority/ca_program.html
 
 Apple is presenting a set of changes to their program. All the changes will have a future effective date. Apple has clarified audit requirements. This shouldn’t be a change just clarifying. If it looks like a change reach out to Apple. They have also clarified compliance requirements related to CP, CPS, and CA/BF standards documents. Previously it was implied but not explicit. Clarified that CAs are expected to maintain up to date contact information in CCADB. CAs are expected to maintain an awareness and accountability related to industry standard development. CAs that pay attention to changes going on in places like the forum tend to be more successful. Introduced a S/MIME Basic Certificate profile. They are interested in beginning technical enforcement or S/MIME certificates. Apple will now require Technically Constrained Certificates be disclosed in CCADB. This is to aid in being able to collect full CRL information for all CAs that chain up to the roots in the program. Added a clarified submission process that now points to the CCADB so that CAs leverage CCADB as the first step. Added incident handling behavior. If CAs are already disclosing this in Mozilla’s Bugzilla then they expect an email to them with a link to that incident at minimum. The effective date overall for the policy is December 1, 2021. April 1, 2022 is the effective date for the S/MIME certificate profile and the date for disclosure of all technically constrained CAs. October 1, 2022 is the effective date for providing the full CRL dataset in CCADB. If a CA has an issue with any of these they should reach out to Apple to discuss concerns so Apple can help them succeed.
 
@@ -142,20 +142,20 @@ The details are in the attached pdf presentation and there were no comments. Top
 
 ## Change Management
 
-Root Store Certificate Trust List package is posted here:
-Release notes here:
+Root Store Certificate Trust List package is posted here: https://aka.ms/CTLDownload
+Release notes here: https://docs.microsoft.com/en-us/security/trusted-root/release-notes
 
 ## Testing
 
 If your CA has changes you will be notified and must test the changes within 5 days
-For instructions on how to test, please go to
+For instructions on how to test, please go to https://docs.microsoft.com/en-us/security/trusted-root/testing
 
 ## Communications links and info
 
-- Use for communications:
-- Program Requirements:
-- Audit requirements:
-- If you have issues or suggestions for Microsoft Trusted Root Program requirements, you can provide them on the GitHub page: and be sure to send an email to for their records.
+- Use for communications: msroot@microsoft.com
+- Program Requirements: https://aka.ms/RootCert
+- Audit requirements: https://aka.ms/auditreqs
+- If you have issues or suggestions for Microsoft Trusted Root Program requirements, you can provide them on the GitHub page: https://github.com/MicrosoftDocs/security/issues and be sure to send an email to msroot@microsoft.com for their records.
 
 ### CCADB Update
 
@@ -170,7 +170,7 @@ Salesforce has updated their messaging for Third Party Cookies, so if you’ve e
 
 Microsoft mentioned their CTL system, and this is used to automate Microsoft’s integration with the CCADB.
 
-A new Case type is being introduced for non-audit updates to CA details. The document “Instructions and Screenshots” is available as a help document for working through this new Case type. Hopefully this change will be in production by the end of October. Kathleen provided a walkthrough of the help document ()
+A new Case type is being introduced for non-audit updates to CA details. The document “Instructions and Screenshots” is available as a help document for working through this new Case type. Hopefully this change will be in production by the end of October. Kathleen provided a walkthrough of the help document (https://docs.google.com/document/d/14znpyOxbMN-itMhTCV5PxbzqmyNlmpqVZvvXjT8exk8)
 
 Q: Are Full CRLs inclusive of Expired and Revoked CAs? A: No
 
@@ -190,7 +190,7 @@ No questions.
 **Speaker:** Matthias Wiedenhorst from TUVIT
 **Minute Taker:** Arno Fiedler
 
-ETSI auditing will switch back to on site as a default, as soon as travel allows for all standard cases (…new CA, new services, full audits) Updated Audit Attestation Letter (AAL) template conformant to… – ETSI TS 119 403-2 – CA/B Forum requirements and – Browser Root Store Programs is available for download here:
+ETSI auditing will switch back to on site as a default, as soon as travel allows for all standard cases (…new CA, new services, full audits) Updated Audit Attestation Letter (AAL) template conformant to… – ETSI TS 119 403-2 – CA/B Forum requirements and – Browser Root Store Programs is available for download here: https://www.acab-c.com/downloads/
 
 The revised EU eIDAS Regulation expected late 2023 brings new services:
 
@@ -223,7 +223,7 @@ Goals and Progress • Merge non-EV and EV requirements – DONE • Rationalize
 
 Subscriber keys Ian McMillan: this is all about getting off of the acceptance of software generated and protected private keys. Pushing the official guidellines and requirements about cloud based solutions. Subscribers are using those solutions, but are they using the software protected versions,. or the hardware backed solutions? Really, that’s what we’re after, if you’re going to have a private key, it has to be generated in a hardware crypto module and remain protected there.
 
-Hang-up is how does the subscriber or the CA gain that verification? Some of the topics are: updated requirement for the CA to ship the hardware crypto module with or without the preinstalled key pair. Optimal position is the subscriber countersigns the request with a manufacturer certificate. Not broadly available yet. Other option is signing services being in this boat. Signing service to countersign the certificate request making an attestation about the usage. Or subscribers can provide a suitable audit – but previously Tim C from BDO indicated that they don’t see that in any of the audits that they do. Other ones discussed: suitable report from cloud key protection solution (for example azure key vault provides log of key creation, and the “vault” will have the label of premium or managed HSM, which means not software key protected. None of the GCP use software protected keys, all of them are hardware backed, same with amazon. But some providers are all software backed. CAs could be witnessing the key creation on a suitable model (via teams or zoom) and recording the key creation with the subscriber.
+Hang-up is how does the subscriber or the CA gain that verification? Some of the topics are: updated requirement for the CA to ship the hardware crypto module with or without the preinstalled key pair. Optimal position is the subscriber countersigns the request with a manufacturer certificate. Not broadly available yet. Other option is signing services being in this boat. Signing service to countersign the certificate request making an attestation about the usage. Or subscribers can provide a suitable audit – but previously Tim C from BDO indicated that they don’t see that in any of the audits that they do. Other ones discussed: suitable report from cloud key protection solution (for example azure key vault provides log of key creation, and the “vault” will have the label of premium or managed HSM, which means not software key protected). None of the GCP use software protected keys, all of them are hardware backed, same with amazon. But some providers are all software backed. CAs could be witnessing the key creation on a suitable model (via teams or zoom) and recording the key creation with the subscriber.
 
 How do we get to a place where everybody is comfortable that we are getting that verification from the Subscriber.
 
@@ -393,7 +393,7 @@ Bruce: This is a difficulty.
 
 Dimitris: We have a consensus that we want an audit. Whether it is audit already performed by cloud providers or a new audit. We can discuss the details. So far everyone has accepted that we need some audit for signing service.
 
-Ian: Right now Tim’s Unaudited Signing Service does exist. (Example: ) They are using a cloud based key protection and generation solution. To Tim’s point, just because they are using that doesn’t mean they are properly controlling access to the private keys depending on who’s the users/subscribers to that signing service. I think there is an audit that is required. I have strong feeling that cloud already has an audit that meet the requirements, we just have to find out what that is.
+Ian: Right now Tim’s Unaudited Signing Service does exist. (Example: https://github.com/dotnet/SignService) They are using a cloud based key protection and generation solution. To Tim’s point, just because they are using that doesn’t mean they are properly controlling access to the private keys depending on who’s the users/subscribers to that signing service. I think there is an audit that is required. I have strong feeling that cloud already has an audit that meet the requirements, we just have to find out what that is.
 
 Bruce: Do we want to definite it separately from signing service? Is that a relationship between a subscriber and a cloud and not a CA. A CAs relationship is to the subscriber and the subscriber has to provide this data. If they are going to use a cloud, then they are going to have to provide that the cloud was audited to whatever the audit requirements are and that the keys were generated in hardware. Is that just a relationship between the CA and the subscriber to take care of cloud requirements. The audit side that is a relationship between signing service and a CA. CA could be doing this or there could be a delegated third party doing the signing service.
 
@@ -443,7 +443,7 @@ Paul: One thing to add is that NetSec is looking at cloud services and have been
 
 Bruce: Thanks for the discussion, we are slowly moving forward.
 
-Parking Lot: Bruce provided a list of open Parking Lot items and indicated that best efforts have been to track open items and have them resolved in ballots. Reference:
+Parking Lot: Bruce provided a list of open Parking Lot items and indicated that best efforts have been to track open items and have them resolved in ballots. Reference: https://docs.google.com/spreadsheets/d/1UID98GQnBNE9dzIkugMlLFF6po8FC5vbcSq0cwMEVqk/edit#gid=0&fvid=1822680629
 
 Other Items: Revocation Date Ballot – Corey has reviewed the changes with Rob Stradling who agrees to the updates. Corey needs a ballot number to proceed. Bruce stated that the new number will be CSC-12, but would assign and confirm.
 

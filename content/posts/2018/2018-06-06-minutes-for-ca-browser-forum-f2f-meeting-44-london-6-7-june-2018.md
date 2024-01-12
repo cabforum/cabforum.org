@@ -37,7 +37,7 @@ type: post
 
 Certificate Transparency
 
-- CT Validation will be enforced in late 2018 for certificates issued after October 15, 2018. Details and the list of trusted logs can be found here:
+- CT Validation will be enforced in late 2018 for certificates issued after October 15, 2018. Details and the list of trusted logs can be found here: https://support.apple.com/en-us/HT205280
 
 Extended Validation
 
@@ -46,7 +46,7 @@ Extended Validation
 
 Symantec Distrust
 
-- See this support article:
+- See this support article: https://support.apple.com/en-us/HT208860
 - Phase 1 is in beta builds and this will distrust Symantec issued TLS server certificates issued before June 1, 2016 and after December 1, 2017.
 - Phase 2 is coming, but no details were provided. Watch the support article for updates.
 
@@ -74,11 +74,9 @@ Cisco Systems: (Had slides for presentation) [Cisco Browser Update.pptx][3]
 - Recently mandated for all Cisco products
 - Product security baseline. Part of Cisco smart licensing program.
 - Three bundles:
-
-1. Original recipe
-1. Extra crispy
-1. Grilled Lite
-
+  1. Original recipe
+  2. Extra crispy
+  3. Grilled Lite
 - CAs need to already be in the Apple, Mozilla or Microsoft root store before being admitted into the Cisco root store
 - Just joined CCADB
 - Expect specialty root stores in the future (i.e. IoT specific)
@@ -120,24 +118,24 @@ Ryan S commented that unclear and undefined rules for distrusting CAs might be p
 - Since Chrome 66+, certificates that are non-compliant with the BRs regarding validity (825-day limit) will display errors on the client side. The algorithm to calculate validity has been updated. The new algorithm is based on the longest possible valid date for that period – for example, 39 months is 366 + 365 + 365 + 31 + 31 + 30 days, or 1188 days.
 - Chrome 68 distrusted the first wave of Symantec certificates according to the announced distrust plan. Chrome 70 will address the following waves.
 - On the research side, Google’s usability and security team continues to explore how to ensure that their products help users make effective and secure decisions. As part of that, studies are being conducted that continue to explore user behavior based on how the security status of the page is presented. The detailed methodology was discussed to solicit feedback from members present, to solicit additional user feedback, but detailed a variety of measures for user behavior and safety. This was asked not to be shared in advance of peer-review and potential publication. Current Public research for usability behavior is at research.google.com
-- Kirk asked if there could be a limited (top 3) set of research documents from research.google.com that the Chrome team based their decision on changing the UI.
-- Ryan responded that there are several public reports for that area and welcomed further discussion on the public list.
+  - Kirk asked if there could be a limited (top 3) set of research documents from research.google.com that the Chrome team based their decision on changing the UI.
+  - Ryan responded that there are several public reports for that area and welcomed further discussion on the public list.
 - As far as the Chrome UI is concerned (in desktop versions),
-- Beginning with Chrome 68, pages with http will be marked as “not secure” –
-- Beginning with Chrome 69, positive indicators will start being removed –
-- Align chrome address bar with all types (unified color scheme for DV/OV/EV)
-- Beginning with Chrome 70, for users entering data on HTTP pages, the negative warning indicators (“not secure”) will be stronger –
+  - Beginning with Chrome 68, pages with http will be marked as “not secure” – https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html
+  - Beginning with Chrome 69, positive indicators will start being removed – https://blog.chromium.org/2018/05/evolving-chromes-security-indicators.html
+    - Align chrome address bar with all types (unified color scheme for DV/OV/EV)
+  - Beginning with Chrome 70, for users entering data on HTTP pages, the negative warning indicators (“not secure”) will be stronger – https://blog.chromium.org/2018/05/evolving-chromes-security-indicators.html
 - Ryan discussed some of the research studies that the Chrome team is conducting around security indicators, including not-yet-published research, to solicit feedback from CAs about possible areas of consideration
 - Certificate Transparency
-- Main stakeholders are CT Log operators, CAs and User Agents
-- Best practices shall be published including results from the “CT Days”. Ryan and Devon welcomed participation in for issues related to CT that are not necessarily “Chrome-specific”. They consider the forum a public forum for the CT ecosystem.
-- Chrome team has contacted CAs that issued certificates with potential problems with the CT enforcement. These problems will appear when Chrome 68 is published as stable.
-- Yeti, Nimbus, Argon are now Qualified, which are definitely usable for Chrome 68 and the CT enforcement. For the future, the Chromium team will be announcing when a log is safely “usable” so that CAs can start logging to these new logs.
-- Full page interstitial for not CT compliance
-- Enterprise administrators can set specific policy and have a couple of options to deviate from the default CT-enforcement Chrome Policy
-- First option domain name and subdomains match filter and the CT compliance is not required
-- Chrome 67 will add 2 more policy options for Enterprise Administrators ()
-- More details in the . Look for the following: CertificateTransparencyEnforcementDisabledForCas CertificateTransparencyEnforcementDisabledForLegacyCas CertificateTransparencyEnforcementDisabledForUrls
+  - Main stakeholders are CT Log operators, CAs and User Agents
+  - Best practices shall be published including results from the “CT Days”. Ryan and Devon welcomed participation in ct-policy@chromium.org for issues related to CT that are not necessarily “Chrome-specific”. They consider the ct-policy@chromium.org forum a public forum for the CT ecosystem.
+  - Chrome team has contacted CAs that issued certificates with potential problems with the CT enforcement. These problems will appear when Chrome 68 is published as stable.
+  - Yeti, Nimbus, Argon are now Qualified, which are definitely usable for Chrome 68 and the CT enforcement. For the future, the Chromium team will be announcing when a log is safely “usable” so that CAs can start logging to these new logs.
+  - Full page interstitial for not CT compliance
+  - Enterprise administrators can set specific policy and have a couple of options to deviate from the default CT-enforcement Chrome Policy
+    - First option domain name and subdomains match filter and the CT compliance is not required
+    - Chrome 67 will add 2 more policy options for Enterprise Administrators (https://chromium.googlesource.com/chromium/src/+/master/net/docs/certificate-transparency.md#Legacy-CAs)
+    - More details in the https://www.chromium.org/administrators/policy-list-3. Look for the following: CertificateTransparencyEnforcementDisabledForCas CertificateTransparencyEnforcementDisabledForLegacyCas CertificateTransparencyEnforcementDisabledForUrls
 
 For the user accessibility study:
 
@@ -149,7 +147,7 @@ For the user accessibility study:
 - Mike: Is there any other list of studies/research related to the issue of user accessibility?
 - Ryan: Several around, will send to the list.
 
-On Thursday, we discussed the W3C WICG’s work on Signed Exchanges (). This allows content to be signed by the operator of example.com, but potentially hosted by any number of CDNs, caches, or even delivered offline such as sharing by users, but be safely and securely loaded by browsers “as if” it came from example.com, and with all the permissions and privileges. A compliant browser will be able to load and authenticate the page, regardless of the transport.
+On Thursday, we discussed the W3C WICG’s work on Signed Exchanges (https://wicg.github.io/webpackage/draft-yasskin-http-origin-signed-responses.html). This allows content to be signed by the operator of example.com, but potentially hosted by any number of CDNs, caches, or even delivered offline such as sharing by users, but be safely and securely loaded by browsers “as if” it came from example.com, and with all the permissions and privileges. A compliant browser will be able to load and authenticate the page, regardless of the transport.
 
 This allows for a number of interesting use cases, ranging from offline sharing of content, to web application bootstrapping, to more reliable hosting and sharing of content. To avoid this feature introducing any additional risk to existing server operators, it’s necessary to obtain a certificate that ‘opts-in’ to this feature.
 
@@ -159,13 +157,13 @@ This is expected to mitigate some potential risks from accidental usage (use a k
 
 **Presenter**: Mike Reilly **Minute Taker**: Tim
 
-- Reminder that should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members.
-- Updated CA application process released on our site’s Certificate Authority Intake Process page (.)
+- Reminder that msroot@microsoft.com should be used for communications to ensure timely response. Communications to CAs will come from this address as well rather than from individual team members.
+- Updated CA application process released on our site’s Certificate Authority Intake Process page (https://aka.ms/rootcertapply).
 - Root Change request form coming for any CA initiated changes. Available for download on our site shortly.
 - Continuing to build out our Crypto Business Intelligence (BI) to manage our root store. This includes use of Windows 10, SmartScreen and CT Monitor telemetry. This capability enables us to better understand the impact of changes to roots, either Microsoft or CA initiated, and how those changes may impact our customers.
 - Continuing to conduct end-to-end examination of each root in the root store for EKUs, use, contract compliance and other issues which may represent risk to Microsoft customers. Moving last remaining CAs on 2007 version contracts to updated 2015 version.
 - Continued efforts toward automation of program processes to minimize errors and enable increased verification of program compliance.
-- We have the capability to deploy root store changes on a monthly cadence. Root change request review may not move as quickly though depending on complexity, conformance to CABF baseline requirements and/or Microsoft root program requirements/contract. Information on our monthly changes can be found at .
+- We have the capability to deploy root store changes on a monthly cadence. Root change request review may not move as quickly though depending on complexity, conformance to CABF baseline requirements and/or Microsoft root program requirements/contract. Information on our monthly changes can be found at http://aka.ms/rootupdates.
 - Microsoft supports the Certificate Transparency initiative, but is not enforcing CT in Edge at this time.
 - Symantec distrust process planning ongoing in coordination with DigiCert. Our main concern is down level OS support for Code Signing and Time Stamping for our customers.
 
@@ -208,67 +206,67 @@ Similar in functionality to Disable, but allowing more granularity, NotBefore 
 ### Current Work
 
 - WebTrust Baseline + NS vs 2.3:
-- Released effective February 1, 2018
-- Updated to conform with Baseline 1.5.4 and NS 1.1
+  - Released effective February 1, 2018
+  - Updated to conform with Baseline 1.5.4 and NS 1.1
 - WebTrust for CA 2.1
-- Released effective September 1, 2017
-- Sections added on key migration, destruction and transport
+  - Released effective September 1, 2017
+  - Sections added on key migration, destruction and transport
 - Publicly Trusted Code Signing Vs 1.0.1
-- Released effective October 1, 2017
-- Modified version released to fix error in material and to remove unauditable criterion
-- Current Status – updated
+  - Released effective October 1, 2017
+  - Modified version released to fix error in material and to remove unauditable criterion
+  - Current Status – updated
 - WebTrust EV SSL
-- Released v 1.6.2 effective October 1, 2017
-- Updated EV SSL Audit Criteria to conform to EV SSL Guidelines v1.6.2 and other clarifications
+  - Released v 1.6.2 effective October 1, 2017
+  - Updated EV SSL Audit Criteria to conform to EV SSL Guidelines v1.6.2 and other clarifications
 - WebTrust EV Code Signing
-- Released vs 1.4.1 effective October 1, 2017
-- Removed Principle 2, Criterion 5.12 as it was not auditable
+  - Released vs 1.4.1 effective October 1, 2017
+  - Removed Principle 2, Criterion 5.12 as it was not auditable
 - Practitioner Audit Report templates
-- Approved by AICPA/CPA Canada
-- Released Sept 1, 2017
-- Covers almost all potential types of reports (about 18 examples in each) and assertions
-- Assertion based examples, as well as direct subject matter
-- Need to be followed to get the seal
+  - Approved by AICPA/CPA Canada
+  - Released Sept 1, 2017
+  - Covers almost all potential types of reports (about 18 examples in each) and assertions
+  - Assertion based examples, as well as direct subject matter
+  - Need to be followed to get the seal
 - Applicability Matrix updated
--
+  - http://www.webtrust.org/principles-and-criteria/docs/item85436.pdf
 
 ### New Work
 
 - WebTrust for RA
-- Third draft version prepared
-- Has main principles similar to WebTrust and additional principles (appendices) for Baseline+NS, EV
-- Strength of controls will be issue – volunteers from CABF for review and comment?
+  - Third draft version prepared
+  - Has main principles similar to WebTrust and additional principles (appendices) for Baseline+NS, EV
+  - Strength of controls will be issue – volunteers from CABF for review and comment?
 - Reporting alternatives being discussed including SOC2 like, public report and impact on CA report
-- Practitioner guidance for auditors under development covering public and private CAs.
-- Will provide examples of tools and approaches as best practices – please share if you have any in mind
-- First draft reviewed May 2018 meeting – expected release 2019
+  - Practitioner guidance for auditors under development covering public and private CAs.
+  - Will provide examples of tools and approaches as best practices – please share if you have any in mind
+  - First draft reviewed May 2018 meeting – expected release 2019
 
 ### New and Old Issues – Terminology
 
 CABF public post from Don and Jeff March 15, 2017 provided definition of:
 
 - Point In Time (Will now be called Type 1)
-- As of a given date
-- Focused on the design and implementation of controls
-- Effectiveness of controls not tested
-- Audit report, example in our reporting guidance
+  - As of a given date
+  - Focused on the design and implementation of controls
+  - Effectiveness of controls not tested
+  - Audit report, example in our reporting guidance
 - Period Of Time (Will now be called Type 2)
-- Minimum 2 months, max of 12 (not just when auditors were there)
-- Includes testing effectiveness of controls
-- Audit report examples in our reporting guidance
+  - Minimum 2 months, max of 12 (not just when auditors were there)
+  - Includes testing effectiveness of controls
+  - Audit report examples in our reporting guidance
 - Readiness Assessment
-- Consulting report – not an audit
-- Report is for management and internal users only
+  - Consulting report – not an audit
+  - Report is for management and internal users only
 
 ### New Issues
 
 - Privacy – impact of GDPR – a regulation in EU law on data protection and privacy for all individuals within the European Union. It also addresses the export of personal data outside the EU. The GDPR replaces the 1995 Data Protection Directive.
 - Additional formalization of CPA Canada processes being undertaken based on perceived risk of service
-- Replacement of Webtrust.org with CPA Canada –
-- More detailed license and process considerations for auditors, including international
+  - Replacement of Webtrust.org with CPA Canada – https://www.cpacanada.ca/en/business-and-accounting-resources/audit-and-assurance/standards-other-than-cas/publications/overview-of-webtrust-services
+  - More detailed license and process considerations for auditors, including international
 - Analysis of new ISO 21188 – recently released
-- Public key infrastructure for financial services - Practices and policy framework
-- Last version was basis for WebTrust for CA vs 2.0
+  - Public key infrastructure for financial services - Practices and policy framework
+  - Last version was basis for WebTrust for CA vs 2.0
 - ISO 21188:2018 sets out a framework of requirements to manage a PKI through certificate policies and certification practice statements and to enable the use of public key certificates in the financial services industry.
 - Defines control objectives and supporting procedures to manage risks.
 - Does not address authentication methods, non-repudiation requirements or key management protocols.
@@ -277,7 +275,7 @@ CABF public post from Don and Jeff March 15, 2017 provided definition of:
 - Facilitates the implementation of operational, baseline PKI control practices
 - While the focus is on the contractual environment, application to other environments is not specifically precluded.
 
-5. CPA Canada: Gord Beal, Kaylynn Pippo (on leave), Janet Treasure, Bryan Walker, Annette DaRocha, Taryn Abate. Consultant to CPA Canada: Don Sheehy (Vice–chair)
+1. CPA Canada: Gord Beal, Kaylynn Pippo (on leave), Janet Treasure, Bryan Walker, Annette DaRocha, Taryn Abate. Consultant to CPA Canada: Don Sheehy (Vice–chair)
 
 Task Force Members and Technical Support Volunteers: Jeff Ward (Chair), BDO; Chris Czajczyc, Deloitte; Reema Anand, KPMG; David Roque, EY; Daniel Adam, Deloitte; Tim Crawford, BDO; Zain Shabbir, KPMG; Donoghue Clarke, EY.
 
@@ -297,10 +295,12 @@ Reporting Structure/Roles:
 
 Nicks presentation was about two main topics:
 
-1. Use of organizationIdentifier in subjectDN of EV Certificates: Nick explained the motivation of the usage of EV certificates in the context of the European Payment Service Directive 2 (PSD 2). The PSD2 requires EU banks to provide open interfaces for third party payment service. PSD 2 mandates qualified Website Certificates (QWACs) for financial institutes within Europe. QWACs could be EV certificates. ETSI and the European Banking Association develop the technical specification for implementing QWACs. ETSI and the European Banking Association propose additional text for EV Guidelines. The specification ETSI TS 119 495 to add a specific PSD2 authorization number was controversial discussed during the meeting. It was suggested by members of the auditorium that the additional organizationIdentifier attribute doesn’t require any specific processing by the browsers. For more details see Nicks presentation.
+1. Use of organizationIdentifier in subjectDN of EV Certificates: Nick explained the motivation of the usage of EV certificates in the context of the European Payment Service Directive 2 (PSD 2). The PSD2 requires EU banks to provide open interfaces for third party payment service. PSD 2 mandates qualified Website Certificates (QWACs) for financial institutes within Europe. QWACs could be EV certificates. ETSI and the European Banking Association develop the technical specification for implementing QWACs. ETSI and the European Banking Association propose additional text for EV Guidelines. The specification ETSI TS 119 495 to add a specific PSD2 authorization number was controversial discussed during the meeting. It was suggested by members of the auditorium that the additional organizationIdentifier attribute doesn’t require any specific processing by the browsers. For more details see Nicks presentation. https://de.slideshare.net/ArnoFiedler/etsi-cabf-plenary-20180607-org-identification
 1. Introduction of TS 119 403-2 (Audit Attestation Letter) About 2. The meeting discussed the proposed specification for “Conformity Assessment Bodies auditing Trust Service Providers that issue Publicly-Trusted Certificates” TS 119 403-2. The meeting encouraged ETSI to go ahead and publish TS 119 403-2. A few detailed comments were raised during discussion which will take into account in an update to the draft document. The resulting revised draft is planned be tabled at the upcoming ETSI ESI meeting in a couple of weeks with the aim of publication in July. The meeting welcomed further exchange of audit requirements between CAB Forum and ETSI that might be taken into account in future revisions.
 
 Monika from TÜVIT gave an update on the ACAB´c activities:
+
+https://de.slideshare.net/ArnoFiedler/20180607-cabf-acabcpresentationlondonv03
 
 ## Announcement of “London Protocol”; Invitation to Participate
 
@@ -325,22 +325,22 @@ Monika from TÜVIT gave an update on the ACAB´c activities:
 ### Q&A
 
 - Ryan Sleevi: From the slides presented, it appears to be attempting to exclude certain users from certain products. How does this discussion comply with the antitrust statement?
-- Kirk Hall: It is purely informational sharing, it does not deny certificates. It gathers information about trends about malware and misissuance. For example, “bad actors” going from one CA to another CA, share information about that customers.
+  - Kirk Hall: It is purely informational sharing, it does not deny certificates. It gathers information about trends about malware and misissuance. For example, “bad actors” going from one CA to another CA, share information about that customers.
 - Mark Goodwin: Do you have data about whether this reduces the customer exposure to attack or helps users in any way?
-- We currently use antiphishing lists like Phishlabs as the basis for denying certificates. Do you think those have any effect?
-- Follow-up: From working in banking previously, takedowns were not effective if completed after a few hours.
-- Response: You were working with URLs. With this, it’s possible a particular organization will go on a flag list, such that certificates for that organization also go onto a flag list.
+  - We currently use antiphishing lists like Phishlabs as the basis for denying certificates. Do you think those have any effect?
+  - Follow-up: From working in banking previously, takedowns were not effective if completed after a few hours.
+    - Response: You were working with URLs. With this, it’s possible a particular organization will go on a flag list, such that certificates for that organization also go onto a flag list.
 - Devon O’Brien: One of the slides mentioned “Monitor for the reports for DV/OV/EV for phishing, and the CAs will contribute to a database that can be consulted by CAs as a gate to no OV and EV issuance”
-- Kirk Hall: It is not a gate to issuance
-- Follow-up: How will the process change, then?
-- Kirk Hall: It is still being developed. It may simply result in a statement about the information.
-- Follow-up: What will you do with that information?
-- Dimitris: This is similar to using blacklists or high risk lists, but also checks the organization for additional information
-- Kirk: Just because a customer with an OV or EV certificate has phishing content doesn’t mean they’ll go on a flag list. We have not to date been helping customers clean up their site once phishing is detected, it would only go on such a list if the customer was uncooperative and not doing anything with it
+  - Kirk Hall: It is not a gate to issuance
+  - Follow-up: How will the process change, then?
+    - Kirk Hall: It is still being developed. It may simply result in a statement about the information.
+  - Follow-up: What will you do with that information?
+    - Dimitris: This is similar to using blacklists or high risk lists, but also checks the organization for additional information
+    - Kirk: Just because a customer with an OV or EV certificate has phishing content doesn’t mean they’ll go on a flag list. We have not to date been helping customers clean up their site once phishing is detected, it would only go on such a list if the customer was uncooperative and not doing anything with it
 - Dimitris: Wasn’t there an information sharing WG to examine this?
-- Ben Wilson: Yes, we eventually lost interest, especially after going through the analysis of the antitrust. Various groups establish ISACs that can operate without violating anti-trust laws
+  - Ben Wilson: Yes, we eventually lost interest, especially after going through the analysis of the antitrust. Various groups establish ISACs that can operate without violating anti-trust laws
 - Ryan Hurst: The slides presented says voluntary protocol is open to all CAs. Other organizations, such as Netcraft, are active in this space. Will they be able to participate?
-- Kirk Hall: It includes, but is not limited to, CAs
+  - Kirk Hall: It includes, but is not limited to, CAs
 
 Organizations interested in participating, e-mail Chris Bailey, project will start up over the next few years.
 
@@ -351,11 +351,11 @@ Organizations interested in participating, e-mail Chris Bailey, project will sta
 The name collision service will be mechanism for CA’s to query if an organization name is already in use. The first steps will be to backfill the service using organization information within the CT logs. Members who wish to participate will be able to query, and add new certificates in real time. Once the dataset is collected to see how often name collisions exist within the ecosystem we will report collision types and frequency. The service will be available in July, with a follow up report planned for September.
 
 - Do the planned changes to the browser UI solve this problem already?
-- No.
+  - No.
 - Will we there be fuzzy matching on this dataset?
-- The first step will be character equivalency matching with follow up to fuzzy matching after the data has been analyzed.
+  - The first step will be character equivalency matching with follow up to fuzzy matching after the data has been analyzed.
 - Will Uniform Name Dispute will be followed, if a conflict is found?
-- Currently this tool is just being used to gather the data, and do the initial investigation. This will not be used for any issuance gating.
+  - Currently this tool is just being used to gather the data, and do the initial investigation. This will not be used for any issuance gating.
 - Problem statement needs to be updated to reflect organizational names are not globally unique and not EV names
 
 ## Validation Working Group Update
@@ -406,20 +406,20 @@ Also, the WG discussed the effort to convert the EV Guidelines to RFC 3647 forma
 The charter of the group was to take a look at the Networking Security Requirements and come back with a recommendation to keep, amend, replace, or repeal them. Informally the group decided to amend them. Once the group recognized this they began working on trying to improve them by amending them. However the group still needs to create the core deliverable which is a document that is a summary of the work done, learnings acquired, and the recommendation.
 
 - Question: Kirk Hall, Entrust Datacard – What is the feeling of the people working on this on how quickly we can make changes?
-- Answer: Ben, Dimitris, Tim – The work will continue in the server certificate working group. Originally the group proposed a 3 month plan, but after discussion they are going in a different direction. First, start with improving the definitions. Then look at other standards, look at a threat model, and rework the requirements. Additionally the group needs a plan to maintain the networking security requirements going forward, should it rely on another standard or group? However there has already been research that shows there isn’t another standard that can easily be used. The group also encourages more people to join to drive requirements there are only 7 or 8 people participating in the group currently.
-- Follow-up Question: Ryan Sleevi, Google – People likely don’t participate because the group feels like it has a high bar of entry due to the undocumented knowledge that has been gained by the participants in the group. So the report will be critical. Also for figuring out what should change it’s recommended that the group should start with what are the potential threats that are not yet covered in the baseline requirements and target improvements there. When we do look at other standards and documentation they should be as an input to the identified threats in the threat model. The threat model approach will allow the group to prioritize and focus.
+  - Answer: Ben, Dimitris, Tim – The work will continue in the server certificate working group. Originally the group proposed a 3 month plan, but after discussion they are going in a different direction. First, start with improving the definitions. Then look at other standards, look at a threat model, and rework the requirements. Additionally the group needs a plan to maintain the networking security requirements going forward, should it rely on another standard or group? However there has already been research that shows there isn’t another standard that can easily be used. The group also encourages more people to join to drive requirements there are only 7 or 8 people participating in the group currently.
+  - Follow-up Question: Ryan Sleevi, Google – People likely don’t participate because the group feels like it has a high bar of entry due to the undocumented knowledge that has been gained by the participants in the group. So the report will be critical. Also for figuring out what should change it’s recommended that the group should start with what are the potential threats that are not yet covered in the baseline requirements and target improvements there. When we do look at other standards and documentation they should be as an input to the identified threats in the threat model. The threat model approach will allow the group to prioritize and focus.
 - Question: Kirk – Does the group have a large portion of members that don’t participate and what can be done to engage more participation?
-- Answer: Tim – The group uses multiple forms of communication, please participate.
-- Follow Up Comment: Kirk – Send out an email to the list to encourage people to be vocal about they are interested in working on.
-- Follow Up Comment: People can do ballots if they have targeted things they are interested in.
+  - Answer: Tim – The group uses multiple forms of communication, please participate.
+  - Follow Up Comment: Kirk – Send out an email to the list to encourage people to be vocal about they are interested in working on.
+  - Follow Up Comment: People can do ballots if they have targeted things they are interested in.
 - Question: Kurt – Is ballot 221 on 2FA and passwords coming back?
-- Answer: Tim – Yes, it will be reworked to be more clear and have a redline. Members please read the draft before voting.
+  - Answer: Tim – Yes, it will be reworked to be more clear and have a redline. Members please read the draft before voting.
 
 ## Discussion of Relevance of the European GDPR to Trust Services
 
 **Presenter**: (Arno) **Minute Taker**: Tony
 
-Arno introduced the discussion on the GDPR indication that the regulations had been in the public domain since 2016. AF presented Sections 30/32 highlighting the TSP’s duty with respect to records; the data subject’s right to assert claim over their data and the requirement on the TSP to maintain a risk management program as regards data. AF described the requirement of “Controllers” and “Processors” not in the EU to appoint representative in the EU as regards data protection. This services are available from third parties in the event that the TSP does not appoint internally but, details of the representative must be prominently displayed on the TSP’s website. Best practise is available by BITKOM Germany:
+Arno introduced the discussion on the GDPR indication that the regulations had been in the public domain since 2016. AF presented Sections 30/32 highlighting the TSP’s duty with respect to records; the data subject’s right to assert claim over their data and the requirement on the TSP to maintain a risk management program as regards data. AF described the requirement of “Controllers” and “Processors” not in the EU to appoint representative in the EU as regards data protection. This services are available from third parties in the event that the TSP does not appoint internally but, details of the representative must be prominently displayed on the TSP’s website. Best practise is available by BITKOM Germany: https://www.bitkom.org/Bitkom/Publikationen/The-Processing-Records-Records-of-Processing-Activities-according-to-Art-30-General-Data-Protection-Regulation-GDPR.html
 
 General Discussion of the GDPR
 
@@ -484,25 +484,25 @@ Kirk-we passed the new bylaws because we had a large number of CAs that know cod
 - Must revoke within 5 days
 - should revoke within 24 hours
 - 4 cases where must revoke in 24 hours:
-- subscriber requests revocation in writing
-- compromised private key
-- CA determines cert is not authorized to be issued
-- (**new** ) CA determines faulty validation was used (whether validation method or problematic cctld for example)
+  - subscriber requests revocation in writing
+  - compromised private key
+  - CA determines cert is not authorized to be issued
+- (**new**) CA determines faulty validation was used (whether validation method or problematic cctld for example)
 - proposed – CA shall support all the validation methods to verify “owner” can request revocation, but getting pushback because not all CAs support all validation methods
 - slippery slope on revoking certs on sites with “misleading” information
 - remove subsection 13, doesn’t makes sense as it applies to intermediate certs
 - 4.9.5 amendment
-- require acknowledgment and preliminary investgaion and report back to person that reported the problem within 24 hours
+  - require acknowledgment and preliminary investgaion and report back to person that reported the problem within 24 hours
 - “Misuse” Definition and Usage Debate
-- Ryan S – dropping ambiguous definition of “misuse” since it’s not “crisp” enough on clarity
-- Kirk and Dimitris – debated philisophically about defining “misuse” to include sites distributing “malware”, phishing, etc
-- Ryan S – legacy vs modern CAs differ on what “misuse” means
-- Kirk – auditors never complained about this, proposed that this definition has worked fine thus far. Objects to the definition change.
-- Wayne – disagrees with Kirk, asking for better definition
-- Ryan S – this definition change does not impact current CA operations, but the says current definition is causing problems. People on msdp have posted questions on “what is misuse”? (see )
-- Geoff – sounds familiar, this was debated last year
-- Wayne – will put something forth that hopefully most everyone can agree on
-- lively debate, discussion will continue
+  - Ryan S – dropping ambiguous definition of “misuse” since it’s not “crisp” enough on clarity
+  - Kirk and Dimitris – debated philisophically about defining “misuse” to include sites distributing “malware”, phishing, etc
+  - Ryan S – legacy vs modern CAs differ on what “misuse” means
+  - Kirk – auditors never complained about this, proposed that this definition has worked fine thus far. Objects to the definition change.
+  - Wayne – disagrees with Kirk, asking for better definition
+  - Ryan S – this definition change does not impact current CA operations, but the says current definition is causing problems. People on msdp have posted questions on “what is misuse”? (see https://cabforum.org/pipermail/public/2018-June/013547.html)
+  - Geoff – sounds familiar, this was debated last year
+  - Wayne – will put something forth that hopefully most everyone can agree on
+  - lively debate, discussion will continue
 
 ## Requiring IPR Agreements from Associate Member Representatives; attendance at Forum meetings of representative of separate CA manager
 
@@ -527,35 +527,22 @@ Kirk requested that Governance Reform Working Group provide clarifications on th
 **Presenter**: (Nick) **Minute Taker**: Tim
 
 - Discussed on call about a month ago and passed on to VWG
-
 - Ryan S asked if Nick got notes, and Nick confirmed
-
 - Main requirement: to open up EU banks to provide services
-
 - Issued as a directive; up to each country on whether or not it adopts
-
 - One of the rules is that you have to use qualified certificates for SSL and digital signatures (electronic seal)
-
 - Allows banks to authenticate and exchange data
-
 - Includes requirement to include unique identifier in certificate alongside the name
-
 - Banks must provide test interface by March 14, 2019 and be operational by September 14, 2019.
-
 - Have developed standard for satisfying the requirement, by using the organizationIdentifier attribute of the Subject DN
-
 - Defined Format: identifier of value type, country code, dash, identifier number
-
 - Highest priority was to secure connection between the third party processor and the bank, which isn’t in scope for CA/B Forum. But it is expected that those parties would like to provide the same authorization identifier to their customers. This provides a hook into ascertaining if this is a bona fide service provider. Is what we’re doing going to work in the public domain?
-
 - Proposal to extend EV guidelines to explicitly list organizationIdentifier in 9.2.x.
-
 - Specific exclusion of NTR as an option since that value should go in serialNumber. Open to removing this if desired.
 
 - Questions
-
-- - Is the text appropriate or reasonable?
-    - How do we handle semantics indicating how you interpret it?
+  - Is the text appropriate or reasonable?
+  - How do we handle semantics indicating how you interpret it?
 
 Ryan S: How and Why. First part of why is understandable (TPP [-](-) Bank). Doesn’t need to be in publicly-trusted certificates. Second part is crux of question: should this overlap public PKI? Are you describing bank to browser experience? (Yes, but would like client assistance) Would this provide value? No, without changes to browsers. Sounds unlikely. Would browsers expose additional information to extensions to allow them to show this? Unknown. How well does this align with security models? (There are people who have the ability to get the information even if it’s not shown in the browser. Banking community is asking how can we do this.)
 
@@ -598,14 +585,14 @@ Wayne: Needs a champion to make it happen.
 [Process for Election of CABF Officers – 2018.pdf][8]
 
 - Kirk – Table parses the bylaws
-- October 22 is the date for the new officers.
+  - October 22 is the date for the new officers.
 - Kirk went over the timelines for elections based off the process document he distributed
-- In 2016, the process took longer than expected
+  - In 2016, the process took longer than expected
 - Dimitris – Elections to happen after July 3rd, do we need separate elections? Kirk was not sure and will need to look into it.
 - Dimitris – suggested we do not have voting rules at this time
 - Tim H. – Working group chair would be forum chair. The group would decide at another time. Forum level is unchanged.
-- Server group is different based on the Ballot
-- There are no rules currently for elections for the server group.
+  - Server group is different based on the Ballot
+  - There are no rules currently for elections for the server group.
 - Ryan – Suggested we have 6 months to establish a charter.
 - Kirk – The server group will need to create a process for elections for that group.
 

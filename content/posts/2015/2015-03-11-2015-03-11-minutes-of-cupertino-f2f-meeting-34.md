@@ -20,49 +20,49 @@ Attending at various times over 3 days: Dean Coclin (Symantec), Kirk Hall (Trend
 
 ## Mozilla
 
-Mozilla disabled SSL 3.0 in Firefox 34, which was released on Dec 10, 2014. See SSL 3 disablement bug:
+Mozilla disabled SSL 3.0 in Firefox 34, which was released on Dec 10, 2014. See SSL 3 disablement bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1076983
 
-EV key sizes \<2048 bits were disabled in Firefox 36, which released on Feb 24th, 2015. See small EV keys disablement bug:
+EV key sizes \<2048 bits were disabled in Firefox 36, which released on Feb 24th, 2015. See small EV keys disablement bug: https://bugzilla.mozilla.org/show_bug.cgi?id=622859
 
 Mozilla does not have plans to do anything in the user UI regarding SHA-1 until Jan 2016. At that point SHA-1 certificates issued after Jan 1 will be untrusted. All SHA-1 certs (except roots) will be untrusted as of Jan 2017. There is a security warning in the developer for SHA-1 certs already.
 
 RC4 is broken. As of Firefox 36, RC4 is only available as a fallback SSL handshake. If negotiated, UI indicators are degraded, meaning a yellow triangle warning will be displayed in the location bar along with a warning message in the web console. This also removes EV treatment. If you have a customer using RC4, please reach out to them and get them upgraded.
 
-RC4 weakness at Black Hat:
+RC4 weakness at Black Hat: https://www.blackhat.com/asia-15/briefings.html#bar-mitzva-attack-breaking-ssl-with-13-year-old-rc4-weakness
 
-List of RC4-only sites:
+List of RC4-only sites: https://bugzilla.mozilla.org/showdependencytree.cgi?id=1138101&hide_resolved=1
 
 The remaining 1024 bit roots are Equifax roots, which will have their website and code singing trust bits removed. The root will continue to be trusted for email. Removal has been delayed because telemetry shows significant usage still. The plan is remove in Firefox 38, scheduled for release on May 12th 2015.
 
-Final 1024-bit root removal bug:
+Final 1024-bit root removal bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1132496
 
 Mozilla is recommending the Lenovo removal tool for Superfish. However, some tools fix Windows but not Firefox so they are shipping a hotfix which removes the root from the root store if the app is gone. You can’t remove the root if the app is still present as it would block people from reaching the Internet.
 
-Superfish blog post:
+Superfish blog post: https://blog.mozilla.org/security/2015/02/27/getting-superfish-out-of-firefox/
 
 OneCRL is Mozilla’s mechanism for pushing revocation to Firefox. Initially, it will only cover intermediate certificates. End-entity certs may be included in a high profile breach. OneCRL shipped in Firefox Desktop 27, on March 31, 2015. It may be included in Firefox OS. OneCRL piggybacks on the existing blacklist. OneCRL calls home for updates every 24 hours and is downloaded over HTTPS using a pinned CA. Mozilla plans to disable OCSP for certificates covered by OneCRL once Mozilla is sure OneCRL is providing equivalent information to OCSP. This only impacts EV. Currently, OneCRL is not automatically picking up CRLs. Instead, CAs must manually notify Kathleen of revoked intermediates.
 
-Revocation plan:
+Revocation plan: https://wiki.mozilla.org/CA:RevocationPlan
 
-OneCRL implementation bug:
+OneCRL implementation bug: https://bugzilla.mozilla.org/show_bug.cgi?id=onecrl
 
-Intermediate revocation notification procedure: [https://wiki.mozilla.org/CA:ImprovingRevocation#Preload_Revocations_of_Intermediate_CA_Certificates][1]
+Intermediate revocation notification procedure: https://wiki.mozilla.org/CA:ImprovingRevocation#Preload_Revocations_of_Intermediate_CA_Certificates
 
 HPKP shipped in Firefox Desktop 35, released on Jan 13, 2015.
 
-Mozilla is planning to make an exception to revocation checking for short lived certs. Short lived is still undefined. Short-lived certs bug:
+Mozilla is planning to make an exception to revocation checking for short lived certs. Short lived is still undefined. Short-lived certs bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1141189
 
 Mozilla is supportive of marking HTTP as insecure by default but 70% of page loads are HTTP. Mozilla is working on nudging more sites to HTTPS so that it can be deployed. Mozilla is looking for ideas on how to move the number of HTTP page loads downwards.
 
 OCSP must-staple is about to go to IESG for approval. Once approved and IANA has assigned the code point, Mozilla will begin implementation.
 
-Mozilla has started a discussion on deployment of name constraints to roots. Everyone is encouraged to contribute, and there isn’t consensus in Mozilla on the policy yet. Name constraints proposal:
+Mozilla has started a discussion on deployment of name constraints to roots. Everyone is encouraged to contribute, and there isn’t consensus in Mozilla on the policy yet. Name constraints proposal: https://wiki.mozilla.org/CA:NameConstraints
 
 Mozilla is using Salesforce to manage root program information. Reminders about the annual audit statement will automatically be sent by Salesforce starting next week.
 
 The next CA communication is expected in Q2. Topics may include the items discussed at the face to face, login details for Salesforce responses, and IPv6.
 
-Mozilla plans to discuss CA policy 2.3 in Q2. CA Policy 2.3 potential items: [https://wiki.mozilla.org/CA:CertPolicyUpdates#Consider_for_Version_2.3][2]
+Mozilla plans to discuss CA policy 2.3 in Q2. CA Policy 2.3 potential items: https://wiki.mozilla.org/CA:CertPolicyUpdates#Consider_for_Version_2.3
 
 ## Google
 
@@ -94,7 +94,7 @@ Certificates
 
 **Apple**: Matt Caughron:
 
-The email address for CAs to contact Apple is
+The email address for CAs to contact Apple is certificate-authority-program@apple.com
 
 Apple are asking for:
 
@@ -159,13 +159,13 @@ Microsoft will be collecting telemetry data in Windows 10 related to certificate
 
 Using Windows 10 information of SSL certificates will be gathered for those certificates which chain to trusted roots. Administrators will be able to access the information through Bing Web Master tools. The Administrator must go through a process to confirm they have control of the domain names. Through Messages > Security > Certificates, the Administrator can track certificates and report issues for invalid certificates. In the future features will be added to allow certificates to be analyzed and provide automatic reports back. Microsoft cannot map the information to any users, so there is no privacy issue.
 
-More information can be found here, [Certificate Reputation for website owners][3].
+More information can be found here, [Certificate Reputation for website owners][http://blogs.msdn.com/b/ie/archive/2015/03/10/certificate-reputation-for-website-owners.aspx].
 
 ## Microsoft Presentation on Code Integrity
 
 Drivers submitted for Windows 10 must be kernel mode signed using an EV Code Signing certificate. The drivers must then be submitted through a Microsoft portal to be verified and signed. Microsoft will sign with SHA-1 and SHA-2 to ensure that Vista and Windows 7 will be supported. New drivers which do not meet the new signing requirements will have a failure.
 
-Post meeting note. Windows 7 will support SHA-2 per [Availability of SHA-2 Code Signing Support for Windows 7 and Windows Server 2008 R2][4].
+Post meeting note. Windows 7 will support SHA-2 per [Availability of SHA-2 Code Signing Support for Windows 7 and Windows Server 2008 R2][https://technet.microsoft.com/en-us/library/security/3033929.aspx].
 
 ## Working Group Updates
 
@@ -329,9 +329,11 @@ Ben will move forward with a ballot on the clean reformat.
 
 **Presentation on SSL Warnings** – Adrienne Porter-Felt of Google
 
-PDF version – [Improving-SSL-Warnings][5]
+https://docs.google.com/presentation/d/1TNFx6eaQVfe83PV80-FZ39QY1dSLGCWW8f2i5-NeJ48/edit#slide=id.p
 
-PDF of Research Paper presented – [Improving SSL Warnings: Comprehension and Adherence][6]
+PDF version – [Improving-SSL-Warnings][/uploads/Improving-SSL-Warnings.pdf]
+
+PDF of Research Paper presented – [Improving SSL Warnings: Comprehension and Adherence][/uploads/sslinterstitial-chi.pdf]
 
 **WebTrust – review current status of Web Trust audit criteria for CAs** Don Sheehy
 
@@ -345,9 +347,9 @@ WebTrust for Certification Authorities – Extended Validation Audit Criteria Ve
 
 Guidelines for the Issuance And Management Of Extended Validation Code Signing Certificates Version 1.1
 
-The audit criteria can be found at
+The audit criteria can be found at http://www.webtrust.org/homepage-documents/item27839.aspx
 
-Don then displayed a matrix showing which WebTrust audits are required for different kinds of CAs (public, government, etc.) who provide different kinds of certificates (SSL, code signing, etc.) See table attached as pdf titled “Audit Matrix.” [Audit-Matrix][7]
+Don then displayed a matrix showing which WebTrust audits are required for different kinds of CAs (public, government, etc.) who provide different kinds of certificates (SSL, code signing, etc.) See table attached as pdf titled “Audit Matrix.” [Audit-Matrix][https://cabforum.org/wp-content/uploads/Audit-Matrix.pdf]
 
 This table is based both on WebTrust’s recommendations and the requirements of the browser root programs.
 
@@ -387,15 +389,18 @@ Jeremy explained that EV re-validations normally lead to all the same info; it�
 
 **Behaviors of web servers and browsers if a PKI follows RFC 4210 & RFC 5280 6.1 for Root CA key Update** Li-Chun Chen
 
-Li-Chun CHEN of Chunghwa Telecom presented a discussion on Roll Over Certificate Issues – [Chunghwatelecom201503cabforumV4][8]
+Li-Chun CHEN of Chunghwa Telecom presented a discussion on Roll Over Certificate Issues – [Chunghwatelecom201503cabforumV4][/uploads/Chunghwatelecom201503cabforumV4.pdf]
 
 He explained the rollover certificate process outlined in RFC 4210 by signing the old public key with the new private key and the new public key with the old private key. He also gave the definition of Self-issued certificates and Self signed certificates as RFC 5280. Following RFC 5280 6.1, a certificate is self-issued if the same DN appears in the subject and issuer fields. The Taiwanese Government Root CA (GRCA) has switched over from SHA1 to SHA256 (in 2012), but he has encountered IIS issues following the processes found in the RFCs. See Slide pp.8-pp.13. IIS 7 falsely treated GRCA’s Self-Issued certificate (new with old) as a Self-Signed certificate, because it has the same issuer and subject name. He found SSL Cert –> GCA Cert –> new-with-old GRCA Cert –> old GRCA cert in IIS side, but IIS only sends SSL Cert –> GCA Cert to client. For Mozilla Firefox, it uses its own trust list and it only trusts old GRCA and new GRCA is waiting to be built in NSS. So there are lots of complaints of Firefox users connected to IIS sites. He noted that because Windows clients support AIA chasing there are less chaining problems.
 
-Sites powered by IIS such as &
+Sites powered by IIS such as https://gcaweb.nat.gov.tw/ & https://www.hrd.gov.tw/
 
-Site powered by Apache, which will send the entire Certificate Chain:
+Site powered by Apache, which will send the entire Certificate Chain: https://www.ncert.nat.gov.tw/
 
 Users could use below pages to test the behavior of webserver and browser:
+
+- https://www.sslshopper.com/ssl-checker.html
+- https://certlogik.com/ssl-checker/
 
 Chunghwa Telecom finds there is a bug the same as IIS that Qualys SSL Labs tool can’t distinguish self-issued certificate with self-signed certificate.
 
@@ -431,11 +436,11 @@ Kathleen stressed that this is not ready yet, and that CAs should continue to us
 
 Kathleen hopes to send the upcoming CA Communication email out through SalesForce and collect responses in the SalesForce tool. Next week she hopes to use SalesForce to send out audit reminder emails. SalesForce will let her easily see whose audit info is missing or out of date.
 
-Rick asked if this is intended to be used to see which roots will be in a certain version of NSS? No, Ryan explained that it’s hard to predict what version of NSS a particular root will be included in. The NSS team has their own process for deciding when to include new roots. SalesForce cases have fields to hold data on when a root is first included in NSS. All currently-included roots have that information, and new roots, as they are included, will have the information. See - Columns: “NSS Release When First Included” and “Firefox Release When First Included”.
+Rick asked if this is intended to be used to see which roots will be in a certain version of NSS? No, Ryan explained that it’s hard to predict what version of NSS a particular root will be included in. The NSS team has their own process for deciding when to include new roots. SalesForce cases have fields to hold data on when a root is first included in NSS. All currently-included roots have that information, and new roots, as they are included, will have the information. See https://wiki.mozilla.org/CA:IncludedCAs - Columns: “NSS Release When First Included” and “Firefox Release When First Included”.
 
 We got into a separate discussion about who was responsible if a CA sold a root to another company. Mozilla policy says CAs need to publish on their web page the audit info for all roots and non-constrained intermediate certs. Even if a root is sold off, the seller is responsible for getting audit info submitted to Mozilla. Kirk asked if action would be taken against the CA if the Root CA couldn’t get a new root owner to respond; Ryan said it would be discussed on the policy group. Jeremy would like to see more enforcement for non-disclosure, because he’s lost customers who didn’t want their intermediates disclosed, and they went to other CAs. Ryan said that in the worst case, intermediate CAs could be revoked via OneCRL and CRLSets if they are not disclosed. Or, he said maybe disclosed intermediate CA certs would become a whitelist. Kathleen and Ryan indicated that they do want to improve compliance.
 
-How much will be publicly visible to the general public, not just the CAs? Right now, Kathleen runs reports, exports data into a Google spreadsheet and then publishes it. She said that the reports of Included Roots and Pending Roots will continue to be publicly visible at and .
+How much will be publicly visible to the general public, not just the CAs? Right now, Kathleen runs reports, exports data into a Google spreadsheet and then publishes it. She said that the reports of Included Roots and Pending Roots will continue to be publicly visible at https://wiki.mozilla.org/CA:IncludedCAs and https://wiki.mozilla.org/CA:PendingCAs.
 
 We discussed SalesForce licenses. They are based on email address and password, and SalesForce says that licenses can’t be shared. In Q2, Kathleen will work out how licenses will be handled. She emphasized that licenses are unrelated to CA’s contact info.
 
@@ -463,7 +468,7 @@ Izenpe mentioned other CA’s using them would be free, but nobody has requested
 
 **ETSI Presentation – Status of ETSI’s TSP assessment criteria and proposed European regulation** – Iñigo Barreira and Arno Fiedler
 
-[ETSI-Presentation-2015-Mar][9] Iñigo – My goal today is to explain how ETSI standards are attended to and how auditor qualification occurs, and ETSI would like to know how browsers will treat qualified web site certificates.
+[ETSI-Presentation-2015-Mar][/uploads/ETSI-Presentation-2015-Mar.pdf] Iñigo – My goal today is to explain how ETSI standards are attended to and how auditor qualification occurs, and ETSI would like to know how browsers will treat qualified web site certificates.
 
 Currently we have TS 102 042 v. 2.4.1, which is used for SSL/TLS certificate compliance that includes all of the CA requirements. TS 102 042 includes DV, OV and EV certificates, referred to as PTC – “Publicly Trusted Certificates.” Eventually the TS will be co for converted to an EN.
 
@@ -505,7 +510,7 @@ Iñigo – A goal of section 403 is to come forward with a common format of audi
 
 ## ETSI Audits
 
-Iñigo showed the website and the list, provided only for information, of CABs (Conformity Assessment Bodies) under TS 102 042 Annex E, provided by NABs (National Accreditation Bodies), which specify the requirements for CABs. NABs are listed by the EA – European Accreditation –
+Iñigo showed the website and the list, provided only for information, of CABs (Conformity Assessment Bodies) under TS 102 042 Annex E, provided by NABs (National Accreditation Bodies), which specify the requirements for CABs. NABs are listed by the EA – European Accreditation – http://www.european-accreditation.org/ea-members
 
 Dean – What if it is a Hungarian CA?
 
@@ -565,93 +570,49 @@ Fails among CAs, passes among browsers
 - Eliminate current EV insurance requirements (EVGL Sec. 18), have no insurance requirements • Modify/improve current insurance requirements, maybe extend to DV and OV certs. In the alternative, just require CAs to disclose what insurance they have • Add financial responsibility requirements (All certs? Only EV certs? o Require that CAs retain some liability (i.e., can’t disclaim 100% of legal responsibility). Actual liability (if any) for misissuance would still be determined by applicable national law o Require that CAs maintain some minimum capital o In the alternative, just require that CAs disclose if they have disclaimed liability, what their asset level is (this would require standardized language, location in CPS) • Some combination of the above • Take no action (leave current EV insurance requirements in place)
 
 - Dean asked if we should take a straw poll
-
 - Jeremy said that he is against debating this again because it doesn’t make much difference to CAs
-
 - Dean – thinks every CA should simply be forced to disclose insurance coverage in CPS
-
 - Tim – insurance disclosure could be long – would it be a summary? Dean – yes
-
 - Bruce – can I say I’m self-insured? Dean – yes. Kirk – self insurance is the same as no insurance. Ben – then do you have to disclose the amount of your liquid assets?
-
 - Moudrick supported Dean’s proposal for disclosure. The problem is that our standard says “how” not just what. Would like to see some provision that requires insurance without specific numbers.
-
 - Jeremy – lots of standards include specific requirements. Kirk – some things are specific, some things aren’t.
-
 - Dean – not important to browsers since their root programs don’t call it out
-
 - Arno – we should revisit in June?
-
 - Ryan – would it help if browsers stated that a qualification on the audit won’t be considered a problem by root programs?
-
 - Dean asked Richard how much insurance cost him. Richard – about $30,000 with Canada and US excluded. Insurance broker said that the terms are so narrow that they would never pay out. China doesn’t have this type of insurance so they have to buy from a UK company.
-
 - Gerv – if insurance companies are saying that this insurance will never pay out, this is a strong argument for getting rid of it
-
 - Gerv – if we can’t drop this requirement, let’s change it to something of value
-
 - Jeremy – Cyber-liability insurance is intended to cover the types of risks we have
-
 - Kirk – Cyber-liability insurance doesn’t cover 3rd parties making claims. Jeremy – yes, it does cover 3rd parties and allow them to make claims directly to the insurance company
-
 - Kirk – Should the current EV insurance requirement be moved to the BRs to cover all types of certs?
-
 - Inigo – In EU, all Trust Service Providers (TSPs) are required to have insurance
-
 - Gerv – extending it to all certs before we determine its value to EV is premature
-
 - Ryan – Doesn’t think insurance is meaningful, so not supportive of adding it to DV/OV
-
 - Ben – who would support $100K insurance policy requirement for forensic response in wake of an incident? Tim – so this is for a fly-by-night CA? Ben – worst case, yes. Tim – would disclosure of the results be required?
-
 - Ryan – forensic analysis won’t change how root programs respond Gerv – agreed
-
 - Kirk – should we set minimum required liability for DV & OV?
-
 - Ryan – most CAs do this, but they’re often limited to financial transactions or otherwise limit liability so that claims would not prevail
-
 - Kirk – in theory EV requires $2000/cert/subscriber or relying party, but not all CAs observe this.
-
 - Ben – this would be a good step
-
 - Ryan – If I got an EV cert for www.google.com and used it to MITM a user for www.facebook.com, would the user who clicked-through the warning have a claim? What if the user didn’t check revocation?
-
 - Kirk – thinks the only case a relying party has a chance of making a claim if in the case of mis-issuance like DigiNotar Ryan – OCSP was blocked so that users couldn’t check revocation in the DigiNotar case
-
 - Kirk – maybe we should require a CA to show a minimum level of assets that scale according to the number of certs issued. Ben – EU has that
-
 - Arno – yes, but there is no quantity defined
-
 - Robin – what does that guard against?
-
 - Jeremy – bankruptcy
-
 - Bruce – is disclosure a problem for private companies? Kirk said disclosure to the public isn’t necessary, only to the auditor
-
 - Ben – don’t know how we’d figure out what the required assets are or how to measure them
-
 - Moudrick – there is direct harm if CA goes out of business and stops issuing CRLs, etc.
-
 - Jeremy – there is a requirement for business continuity and cessation of operation plans, but not financial plans
-
 - Kirk – the idea here is to have your auditor look at your financials every year and confirm that you have enough assets to continue operations
-
 - Ryan – no interest here. CA financial stability is not his concern
-
 - Ryan – if a CA does something bad, root programs don’t need financial requirements to act. If CA stops issuing revocation info, CT logs could be used to determine which certs to whitelist to reduce impact on the CA’s customers.
-
 - Steven – should CAs be required to disclose CT compliance in their CPS.
-
 - Kirk – should we just require CA disclosure of liability, insurance, or assets? Put it in a standard place and format in the CPS
-
 - Ben -favors this “policy disclosure statement” (PDS)
-
 - Ryan & Mat are all for having more info in CAs CPS’
-
 - Dean – Symantec would also support removing current requirements and replacing them with disclosure requirement in a standard format
-
 - Tim – would there need to be rules that limit “fine print” disclaimers? Kirk – that would be tough, as insurance policies always have complex conditions for coverage
-
 - Kirk – has anyone who voted against dropping the EV insurance requirement on Ballot 142 changed their minds? Trustwave & DigiCert said no.
 
 Kirk said the discussion had been useful, but it did not look like there was enough support for any of his proposals to proceed.
@@ -666,7 +627,6 @@ There is no mention of the BRs in the bylaws.
 If we want to update the bylaws to reflect what we all need to operate in browser root programs – we need language to include BR audit.
 
 - language to say if not actively issuing then granted observer status.
-
 - Links or references to issued certificates that demonstrate compliance with all applicable certificate, CRL, or OCSP.
 
 Jeremy – only applies for issuing CA or root CA.
@@ -764,13 +724,3 @@ There did not seem a lot of support to pursue this issue at this time, but Dean 
 ## Discuss F2F Meeting 35 in Zurich June 23-25 and F2F Meeting 36 in Istanbul Week of October 5
 
 ## Meeting adjourned
-
-[1]: https://wiki.mozilla.org/CA:ImprovingRevocation#Preload_Revocations_of_Intermediate_CA_Certificates
-[2]: https://wiki.mozilla.org/CA:CertPolicyUpdates#Consider_for_Version_2.3
-[3]: http://blogs.msdn.com/b/ie/archive/2015/03/10/certificate-reputation-for-website-owners.aspx
-[4]: https://technet.microsoft.com/en-us/library/security/3033929.aspx
-[5]: /uploads/Improving-SSL-Warnings.pdf
-[6]: /uploads/sslinterstitial-chi.pdf
-[7]: /uploads/Audit-Matrix.pdf
-[8]: /uploads/Chunghwatelecom201503cabforumV4.pdf
-[9]: /uploads/ETSI-Presentation-2015-Mar.pdf

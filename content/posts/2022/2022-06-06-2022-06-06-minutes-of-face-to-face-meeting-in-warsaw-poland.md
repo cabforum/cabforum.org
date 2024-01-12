@@ -59,7 +59,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 - Although, today, Chrome integrates with platform root stores and certificate validation processes, there is a collection of CAs that are planned for the initial release of and transition to the Chrome Root Store taking place later this year.
 - Until very recently, the Root Store was managed by a policy published in 2020 that outlined the set of ongoing requirements and commitments for the CA operators included in the initial store. The initial policy also outlined how the initial set of roots targeted for the Chrome Root Store would be maintained and updated until Chrome’s CA application process opened.
-- An updated version of the Chrome Root Program Policy was recently published at
+- An updated version of the Chrome Root Program Policy was recently published at https://g.co/chrome/root-policy
 - The updated policy immediately replaces the original version from December 2020, but many requirements are future dated.
 - Ryan requested CA operators review the updated policy, and to reach out to chrome-root-program@google.com with questions.
 - Ryan reviewed the Chrome Root Program’s priorities, originally shared at the February F2F, and discussed how several updated policy requirements aligned with those goals.
@@ -76,16 +76,16 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 ## Detailed Updates
 
-- Technical enforcement of Chrome’s updated CT policy began in Chrome 100. This includes removal of the “One Google Log” requirement, and aligns SCT expectations with Apple’s policy. Dropped the 1-Google log requirement earlier this year. See more at .
-- CT Log Policy has been updated to allow log operators to enforce acceptance of certificates based on EKU (id-kp-serverAuth). See more at .
+- Technical enforcement of Chrome’s updated CT policy began in Chrome 100. This includes removal of the “One Google Log” requirement, and aligns SCT expectations with Apple’s policy. Dropped the 1-Google log requirement earlier this year. See more at https://goo.gl/chrome/ct-policy.
+- CT Log Policy has been updated to allow log operators to enforce acceptance of certificates based on EKU (id-kp-serverAuth). See more at https://goo.gl/chrome/ct-log-policy.
 - CT enforcement in Chrome on Android landed in Chrome 101
 - Google is still working to turn-down its legacy, non-shared Logs. Advance notice will be shared when these efforts restart.
 
 #### 3. General Browser Updates
 
 - Ryan detailed the planned deployment schedule for features related to the Chrome Root Program Launch. He indicated that a “backup“ slide included in the presentation discusses testing procedures using Chrome Canary.
-- Updated contact email:
-- Policy page reminder:
+- Updated contact email: chrome-root-program@google.com
+- Policy page reminder: https://g.co/chrome/root-policy
 
 ### Apple Root Program Update
 
@@ -104,10 +104,10 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 ## Dates
 
 - 2022-04-01
-- S/MIME Certificate Profile Requirements
-- CA Disclosure in CCADB
+  - S/MIME Certificate Profile Requirements
+  - CA Disclosure in CCADB
 - 2022-10-01
-- Full CRL disclosure
+  - Full CRL disclosure
 
 ## Technical Enforcement
 
@@ -147,21 +147,21 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 ## Program Requirements Reminders
 
-- Current requirements are posted at
+- Current requirements are posted at https://aka.ms/rootcert
 - Any question regarding the current requirements can be sent to msroot@microsoft.com
-- For any issues or suggestions for the Microsoft Trusted Root Program they can now be provided on the GitHub page: . Microsoft has requested to also send an email to simultaneously.
+- For any issues or suggestions for the Microsoft Trusted Root Program they can now be provided on the GitHub page: https://github.com/MicrosoftDocs/security/issues. Microsoft has requested to also send an email to msroot@microsoft.com simultaneously.
 - Testing will occur for up to 2 months before release date. Changes for specific release months should be requested no later than 3 months in advance of the release
 
 ## Testing
 
 - Root Store Certificate Trust List is updated monthly, except for December
-- Update packages are available for download and testing at
+- Update packages are available for download and testing at https://aka.ms/CTLDownload
 - Please confirm testing has been completed when asked by Microsoft!
 - Notifications will be sent out if to any CA that has changes in an upcoming release once the test changes are live. CAs should test within 5 minutes days of this notification
-- Testing instructions are available at
+- Testing instructions are available at https://docs.microsoft.com/en-us/security/trusted-root/testing
 - Any changes for the end of August release need to be in by email no later than June 17th
 
-**Communications Reminder:** Program audit requirements can be found at .
+**Communications Reminder:** Program audit requirements can be found at https://aka.ms/auditreqs.
 
 ## Guest Speaker: Quantum Cryptography
 
@@ -298,7 +298,7 @@ See Day 1 list with the addition of the following: Nick Pope,
 
 ### ETSI Update
 
-**Leader:** Nick Pope (Vice Chair ETSI ESI))
+**Leader:** Nick Pope (Vice Chair ETSI ESI)
 **Minutes:** Clemens Wanko (TUV AUSTRIA)
 
 ## Presentation link
@@ -340,7 +340,7 @@ Dimitris – there will be a two year transition from the date the directive com
 
 **Leader:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Minutes:** Ben Wilson
-\*\*Presentation link: \*\* [Webtrust for CA Update][5]
+**Presentation link:** [Webtrust for CA Update][5]
 
 Jeff: Reviewed Slide 2 – Outline of Discussion Topics
 
@@ -428,7 +428,7 @@ Now that the format ballot is done, we will move ahead with ballots to address t
 **Leader:** Mads Henriksveen (BuyPass)
 **Minutes:** Stephen Davidson (DigiCert)
 
-Draft is complete!
+Draft is complete! https://github.com/cabforum/smime/blob/preSBR/SBR.md
 
 Since last F2F, discussions to resolve outstanding issues such as:
 
@@ -458,8 +458,8 @@ Target to move to ballot at end of summer!
 - Presentation around risk assessments
 - Reoriented engagement
 - Looking to provide example to forum for how CAs can perform these risk assessments
-- One scenario
-- Narrative
+  - One scenario
+  - Narrative
 - NSR definitions updates
 - Raised topic around universal definition working group
 - Formal understanding of network security requirements for individual components of CA infrastructure
@@ -546,7 +546,7 @@ The agenda is presented by Doug
 
 **Leaders:** Corey Bonnell (DigiCert)
 **Minutes:** Martijn Katerbarg (Sectigo)
-**Presentation link:**
+**Presentation link:** http://lists.cabforum.org/pipermail/validation/attachments/20220608/ea4bb526/attachment-0001.pdf
 
 #### Agenda
 
@@ -570,7 +570,7 @@ Progress since Spring F2F
 
 Major reformat and changes in BR section 7.1. Getting close to a formal discussion and voting period. A few normative changes are introduced and every CA should start analyzing the draft ballot to determine the impact for them
 
-URL:
+URL: https://github.com/sleevi/cabforum-docs/pull/36
 
 Corey has performed an Impact Analysis of most items introduced by this change. The overview may not be exactly accurate since Censys.io is not fully up to date on the trustlist. Pre/Leaf certificates were also not de-duplicated and some expired certificates are still flagged as valid.
 
@@ -608,16 +608,16 @@ _MUST (NOT) level changes for the KeyUsage extension_
 All bits must be unset except:
 
 - For RSA keys:
-- digitalSignature (SHOULD)
-- keyEncipherment (MAY)
-- 1.4 million certificates have dataEncipherment which would no longer be allowed
+  - digitalSignature (SHOULD)
+  - keyEncipherment (MAY)
+  - 1.4 million certificates have dataEncipherment which would no longer be allowed
 - For ECDSA:
-- digitalSignature (SHOULD)
-- 14K have keyAgreement which would no longer be allowed
-- Dustin mentioned there doesn’t seem to be an effective date for this change. There’s general agreement that this change should be moved to the Version 2 ballot instead
+  - digitalSignature (SHOULD)
+  - 14K have keyAgreement which would no longer be allowed
+  - Dustin mentioned there doesn’t seem to be an effective date for this change. There’s general agreement that this change should be moved to the Version 2 ballot instead
 - For OCSP Responders:
-- All bits must be unset except for digitalSignature
-- 396 certificates have contentCommitment
+  - All bits must be unset except for digitalSignature
+  - 396 certificates have contentCommitment
 
 _MUST (NOT) level changes for certPolicies_
 
@@ -680,7 +680,7 @@ In part of establishing the broader assessment framework, we wanted to work thro
 
 We’ll work through a thought exercise, focusing on process and approach, not outcome, specifically related to an example risk assessment related to OCSP Responders.
 
-Clint offered background on the upcoming exercise and corresponding \[doc\] [Threat Model for Publicly Trusted CAs][8] ()
+Clint offered background on the upcoming exercise and corresponding \[doc\] [Threat Model for Publicly Trusted CAs][8] (https://docs.google.com/document/d/1cmKs-H5mMg2cVHiDG6NUFzBvYJH3OwiIgKROXTUG5bU/edit?resourcekey=0-dlLWckJvTVZ6i8Kn7YerUA#heading=h.uqq521al3wq2)
 
 One of the key recommendations from the Amazon security engineer was to come up with a functional model to perform a threat model against
 
