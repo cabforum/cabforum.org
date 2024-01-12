@@ -42,4 +42,4 @@ Voting members are listed here:
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and one half or more of the votes cast by members in the browser category must be in favour. Also, at least six members must participate in the ballot, either by voting in favour, voting against or abstaining.
 
-[1]: /wiki/WebTrust
+[1]: https://frozen.cabforum.org/WebTrust

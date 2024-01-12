@@ -108,7 +108,7 @@ The review period for this ballot shall commence on July 15th, 2013 and will clo
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-[1]: /wiki/KeyPurposeId
-[2]: /wiki/DirectoryName
-[3]: /wiki/GeneralName
-[4]: /wiki/DirName
+[1]: https://frozen.cabforum.org/KeyPurposeId
+[2]: https://frozen.cabforum.org/DirectoryName
+[3]: https://frozen.cabforum.org/GeneralName
+[4]: https://frozen.cabforum.org/DirName

@@ -1248,4 +1248,4 @@ The Minutes of the CSCWG have already been approved and by the WG and distribute
 ## Adjourn Code Signing Certificate Working Group Meeting
 
 [1]: https://docs.google.com/document/d/1aJiOzYVTpoAPVWDucnp20cTO2PR_cRsHncvkhlrcR10/edit#
-[2]: /wiki/WebTrust
+[2]: https://frozen.cabforum.org/WebTrust

@@ -48,11 +48,11 @@ In ballot 144, later clarified by ballots 198/201, the Forum created rules for i
 The Tor Service Descriptor Hash extension required in the EV Guidelines to contain the full hash of the keys related to the .onion address is no longer needed as this hash is part of the version 3 address.
 
 Older version 2 onion addresses are still in use, so this ballot does not remove the existing EV Guidelines requirements for onion names.
-Reference to discussion of EV onion certificates: [/pipermail/public/2014-November/004569.html](/pipermail/public/2014-November/004569.html)
+Reference to discussion of EV onion certificates: [https://lists.cabforum.org/pipermail/public/2014-November/004569.html](https://lists.cabforum.org/pipermail/public/2014-November/004569.html)
 
-Reference to reasons we required EV in the past: [/pipermail/public/2015-November/006213.html](/pipermail/public/2015-November/006213.html)
+Reference to reasons we required EV in the past: [https://lists.cabforum.org/pipermail/public/2015-November/006213.html](https://lists.cabforum.org/pipermail/public/2015-November/006213.html)
 
-Reference to prior discussion of this topic: [/pipermail/public/2017-November/012451.html](/pipermail/public/2017-November/012451.html)
+Reference to prior discussion of this topic: [https://lists.cabforum.org/pipermail/public/2017-November/012451.html](https://lists.cabforum.org/pipermail/public/2017-November/012451.html)
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Roland Shoemaker of Let’s Encrypt and Dimitris Zacharopoulos of HARICA.
 

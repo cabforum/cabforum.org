@@ -83,4 +83,4 @@ A vote in favor of the motion must indicate a clear ‘yes’ in the response. A
 ## Motion ends
 
 [1]: http://www.etsi.org/deliver/etsi_ts/119400_119499/119403/01.01.01_60/ts_119403v010101p.pdf
-[2]: /wiki/WebTrust
+[2]: https://frozen.cabforum.org/WebTrust

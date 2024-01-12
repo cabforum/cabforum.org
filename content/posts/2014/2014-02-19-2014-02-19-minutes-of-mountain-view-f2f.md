@@ -1021,5 +1021,5 @@ Regarding private enterprise PKI… If you have an enterprise, you can force har
 
 The group acknowledged Google for its generosity in hosting Meeting 31 of the CA/Browser Forum.
 
-[1]: /wiki/WhoIs
+[1]: https://frozen.cabforum.org/WhoIs
 [2]: http://www.etsi.org/deliver/etsi_ts/102000_102099/102042/02.01.01_60/ts_102042v020101p.pdf

@@ -499,7 +499,7 @@ Dimitris said that the TSL does not “remove” a TSP from the List but merely 
 1. The TSP issues a Qualified Certificate for digital signatures in June 2017
 1. The Subscriber uses this Certificate and signs a document in June 2017 (signature A)
 1. The TSP fails to deliver a Conformance Assessment Report (CAR) by July 1st 2017 (as required by the eIDAS regulation) and removes the “granted” status from the TSP on July 10th 2017
-1. The Subscriber, using the same Certificate, signs a document July 15 2017, when the TSP does not have the “granted” status (signature ![B)](/wiki/moin_static199/modernized/img/smile2.png "B)")
+1. The Subscriber, using the same Certificate, signs a document July 15 2017, when the TSP does not have the “granted” status (signature ![B)](https://frozen.cabforum.org/moin_static199/modernized/img/smile2.png "B)")
 1. The TSP submits a “clean” CAR to the Supervisory Body in August 2017 and the Supervisory Body updates the TSL by **adding** a new entry for the TSP, which marks the new date after which the TSP has the “granted” status again.
 1. The Subscriber, using the same Certificate, signs a new document on September 2017, (signature C)
 

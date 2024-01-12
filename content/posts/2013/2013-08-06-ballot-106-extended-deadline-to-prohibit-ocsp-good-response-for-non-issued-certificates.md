@@ -37,5 +37,5 @@ A vote in favor of the ballot must indicate a clear ‘yes’ in the response.
 
 A vote against the ballot must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-[1]: /wiki/StartCom
-[2]: /wiki/GlobalSign
+[1]: https://frozen.cabforum.org/StartCom
+[2]: https://frozen.cabforum.org/GlobalSign

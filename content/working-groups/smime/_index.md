@@ -128,4 +128,4 @@ In addition, the S/MIME Certificate Working Group provides a public mailing list
 - Zone Media OÜ
 
 [5]: /about/membership/associate-members/
-[7]: /mailman/listinfo/smcwg-public
+[7]:https://lists.cabforum.org/mailman/listinfo/smcwg-public

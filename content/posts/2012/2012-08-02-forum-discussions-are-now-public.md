@@ -9,4 +9,4 @@ type: post
 
 The CA/Browser Forum has created a public mailing list, intended to be used for normal CA/Browser Forum discussions, which can be read (but not posted to) by interested parties. Visit the list’s [web page to sign up][1].
 
-[1]: /mailman/listinfo/public
+[1]:https://lists.cabforum.org/mailman/listinfo/public

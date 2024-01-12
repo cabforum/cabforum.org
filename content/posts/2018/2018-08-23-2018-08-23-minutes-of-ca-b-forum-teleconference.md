@@ -24,13 +24,13 @@ Attendees: Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Bruce Morton (Entr
 
 1. Nomination Period for CABF Chair has closed. Discussion period runs through Aug. 30. Voting runs Aug. 30 to Sept. 6.
 
-1. Nomination Period for CABF Vice Chair has opened and runs through Sept. 6. Nominees can be listed at /wiki/Officer%20Elections.
+1. Nomination Period for CABF Vice Chair has opened and runs through Sept. 6. Nominees can be listed athttps://frozen.cabforum.org/Officer%20Elections.
 
 1. Admission of Sony. Discussion postponed until full application packet has been received.
 
 1. Governance Change WG. A ballot will be introduced to extend term of Chair and Vice Chair to November 1.
 
-1. Ballot Discussion. Voting period for ballot FORUM-1 to establish Infrastructure WG is underway. There have been problems with the listserv. Members are advised to check the archives at /pipermail/public/2018-August/thread.html to confirm that vote has been received.
+1. Ballot Discussion. Voting period for ballot FORUM-1 to establish Infrastructure WG is underway. There have been problems with the listserv. Members are advised to check the archives athttps://lists.cabforum.org/pipermail/public/2018-August/thread.html to confirm that vote has been received.
 
 1. Any Other Business. None.
 

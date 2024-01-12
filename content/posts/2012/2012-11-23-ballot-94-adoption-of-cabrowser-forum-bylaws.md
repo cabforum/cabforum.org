@@ -257,7 +257,7 @@ The Forum procedure for dealing with questions and comments sent to the Question
 
 - *Public Mail List:*\* The public email list-serv currently located at maintained by the Forum for communications by and among Members and Interested Parties. The Public Mail List may be read by Other Parties, but Other Parties may not post to the Public Mail List.
 
-**Public Web Site:** The web site available only to Members, Interested Parties, and Other Parties (currently located at [cabforum.org][4]). A Forum Member will be appointed as Webmaster and will control all postings to the Public Web Site.
+**Public Web Site:** The web site available only to Members, Interested Parties, and Other Parties (currently located at cabforum.org). A Forum Member will be appointed as Webmaster and will control all postings to the Public Web Site.
 
 **Questions Mail List**: The email list-serv currently located at maintained by the Forum for communications from the public to the Forum.
 
@@ -269,7 +269,7 @@ The Forum procedure for dealing with questions and comments sent to the Question
 
 **Exhibit C – Project Lifecycle**
 
-- \*\[![](/wiki/moin_static193/modern/img/attach.png)\]\[5\]
+- \*\[![](https://frozen.cabforum.org/moin_static193/modern/img/attach.png)\]\[5\]
   \*\*
 
 **Exhibit D – Interested Parties Participation Agreement**
@@ -288,9 +288,8 @@ Votes must be cast by posting an on-list reply to this thread.
 
 A vote in favor of the ballot must indicate a clear ‘yes’ in the response.
 
-\[5\]: /wiki/94%20-%20Governance%20Adoption?action=AttachFile&do=upload_form&ticket=0052277a22.c0b8fad709d91f61cede329c40ca3709c2dfcda7⌖=fig01.png "Upload new attachment "fig01.png""
+\[5\]: https://frozen.cabforum.org/94%20-%20Governance%20Adoption?action=AttachFile&do=upload_form&ticket=0052277a22.c0b8fad709d91f61cede329c40ca3709c2dfcda7⌖=fig01.png "Upload new attachment "fig01.png""
 
-[1]: /wiki/94%20-%20Governance%20Adoption?action=AttachFile&do=view%E2%8C%96=Proposed+CA-Browser+Forum+Bylaws_%28v4%29+Trend+Micro+8+Nov+2012.doc
-[2]: /wiki/94%20-%20Governance%20Adoption?action=AttachFile&do=view%E2%8C%96=Proposed+CA-Browser+Forum+Bylaws_%28v4%29+Trend+Micro+8+Nov+2012.pdf
-[3]: /wiki/WebTrust
-[4]: /
+[1]: https://frozen.cabforum.org/94%20-%20Governance%20Adoption?action=AttachFile&do=view%E2%8C%96=Proposed+CA-Browser+Forum+Bylaws_%28v4%29+Trend+Micro+8+Nov+2012.doc
+[2]: https://frozen.cabforum.org/94%20-%20Governance%20Adoption?action=AttachFile&do=view%E2%8C%96=Proposed+CA-Browser+Forum+Bylaws_%28v4%29+Trend+Micro+8+Nov+2012.pdf
+[3]: https://frozen.cabforum.org/WebTrust

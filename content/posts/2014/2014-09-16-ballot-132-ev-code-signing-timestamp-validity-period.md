@@ -40,7 +40,7 @@ Each Issuer MUST develop, implement, enforce, display prominently on its Web sit
 
 (A) Implement the requirements of these Guidelines as they are revised from time-to-time;
 
-(B) Implement the requirements of (i) the then-current [WebTrust](/wiki/WebTrust) Program for CAs, and (ii) the then-current [WebTrust](/wiki/WebTrust) EV Program or ETSI TS 102 042 V2.1.1; and
+(B) Implement the requirements of (i) the then-current [WebTrust](https://frozen.cabforum.org/WebTrust) Program for CAs, and (ii) the then-current [WebTrust](https://frozen.cabforum.org/WebTrust) EV Program or ETSI TS 102 042 V2.1.1; and
 
 (C) Specify the Issuer’s (and applicable Root CA’s) entire root certificate hierarchy including all roots that its EV Code Signing Certificates depend on for proof of those EV Code Signing Certificates’ authenticity. With the exception of revocation checking for time-stamped and expired certificates, platforms are expected to validate signed code in accordance with RFC 5280.
 

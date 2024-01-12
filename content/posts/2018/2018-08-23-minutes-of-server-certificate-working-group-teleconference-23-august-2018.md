@@ -17,8 +17,8 @@ Attendees: Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Bruce Morton (Entr
 1. Review Agenda. Agenda was approved.
 1. Approval of Minutes of teleconference of August 9, 2018. The Minutes were approved and will be posted to the Public list.
 1. Members and Associate Members are reminded to list all representatives (names and email addresses) on wiki or access and email posting privileges will be removed.
-1. Close of nomination period for SCWG Chair. Nominees are listed here – /wiki/Officer%20Elections. Discussion period runs through August 30 and then the voting period is August 30 through Sept. 6.
-1. Start of nomination period for SCWG Vice Chair. Period runs through Sept. 6. Nominees can be submitted here – /wiki/Officer%20Elections.
+1. Close of nomination period for SCWG Chair. Nominees are listed here –https://frozen.cabforum.org/Officer%20Elections. Discussion period runs through August 30 and then the voting period is August 30 through Sept. 6.
+1. Start of nomination period for SCWG Vice Chair. Period runs through Sept. 6. Nominees can be submitted here –https://frozen.cabforum.org/Officer%20Elections.
 1. Admission of Sony. Discussion postponed until full application packet has been received.
 1. Status of SCWG Ballots to create Subcommittees (Validation, NetSec, Certificate Policy/Policy Review). Dimitris said that status hasn’t really changed since our last call. Notes about the Validation and Network Security committees have been circulated in the past. There was some discussion on a previous call and on the list to add more concrete information about the proposed groups’ deliverables. However, we haven’t focused on describing those future efforts very well yet.
 1. Creation of New Working Groups. It was pointed out that this was not a Server Certificate WG issue. This item was tabled for Forum members to work on and discuss at large (and to be added as a topic to the Forum’s agenda in two weeks).

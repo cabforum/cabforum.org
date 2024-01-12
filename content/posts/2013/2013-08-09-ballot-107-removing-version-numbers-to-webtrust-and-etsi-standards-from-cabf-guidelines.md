@@ -66,4 +66,4 @@ The review period for this ballot shall commence on July 24th, 2013 and will clo
 
 [1]: http://www.etsi.org/deliver/etsi_ts/102000_102099/102042/02.03.01_60/ts_102042v020301p.pdf
 [2]: http://www.etsi.org/deliver/etsi_ts/119400_119499/119403/01.01.01_60/ts_119403v010101p.pdf
-[3]: /wiki/WebTrust
+[3]: https://frozen.cabforum.org/WebTrust

@@ -50,4 +50,4 @@ The latest vote received from any representative of a voting member before the c
 
 ## Motion ends
 
-[1]: /wiki/WebTrust
+[1]: https://frozen.cabforum.org/WebTrust

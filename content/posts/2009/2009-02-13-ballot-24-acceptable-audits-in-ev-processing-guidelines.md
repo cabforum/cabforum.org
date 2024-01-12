@@ -50,5 +50,5 @@ Votes must be cast by ‘reply all’ to this email.
 
 A vote in favour of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted.
 
-[1]: /wiki/WebTrust
+[1]: https://frozen.cabforum.org/WebTrust
 [2]: http://www.webtrust.org/index.cfm/ci_id/43988/la_id/1.htm%E2%80%9D
