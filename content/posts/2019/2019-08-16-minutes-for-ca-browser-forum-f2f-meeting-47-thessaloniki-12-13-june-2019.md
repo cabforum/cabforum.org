@@ -441,7 +441,7 @@ Core Bundle – added AWS Root CAs, in conversations w/Google to add Google’s 
 _Presenter:_ Devon O’ Brian (Google Chrome)
 _Note Taker:_ Robin Alden (Sectigo)
 
-Devon’s presentation is at
+Devon’s presentation is at https://drive.google.com/open?id=1TcLbJlbHhe0Mff57TaZXsghtXdFb5mGB
 
 A reminder about TLS 1.0 and 1.1 deprecation. We discussed this at Cupertino.
 will hit in early 2020.
@@ -452,9 +452,9 @@ We Have removed all of the 2018 shards.
 
 Published UI and UX research
 by Chrome UI security team
-Fixing HTTPS Misconfigurations at Scale: An Experiment with Security Notifications
+Fixing HTTPS Misconfigurations at Scale: An Experiment with Security Notifications https://ai.google/research/pubs/pub48162
 
-The Web’s Identity Crisis: Understanding the Effectiveness of Website Identity Indicators
+The Web’s Identity Crisis: Understanding the Effectiveness of Website Identity Indicators https://ai.google/research/pubs/pub48199
 
 EV UI may be moving to page info in Chrome 77. The Canary (alpha) release shows the experience, although this may change before release.
 
@@ -500,7 +500,7 @@ CAs are responsible for the audits of their subordinate CAs.
 
 ##### Audits
 
-Audit Case Workflow:
+Audit Case Workflow: https://ccadb.org/cas/updates#audit-case-workflow
 
 - WebTrust: Enter the WebTrust Seal URL into the audit statement link field, and CCADB will automatically map it to the report URL.
 - ETSI: Provide the URLs to the audit statements on your auditor’s website.
@@ -627,8 +627,8 @@ There were updates in the following areas:
 - ETSI has set up a new work item on updating EN 319411-1 (Certification Policy) update on BR/EVG Links.
 - New ETSI secretariat eMail-Adress to communicate with CA/B-Forum will be defined.
 - Information on available standards and current activities:
-
-[/20190613_presentation_a-fiedler_etsi_standards_suporting_eidas/][21]
+    - https://portal.etsi.org/TBSiteMap/ESI/ESIActivities.aspx
+    - [/20190613_presentation_a-fiedler_etsi_standards_suporting_eidas/][21]
 
 ### ACAB’c Update
 
@@ -780,17 +780,18 @@ _Minute Taker:_ Kirk Hall (Entrust Datacard)
 
 1. “WETSI” – WebTrust and ETSI are working together on common issues Continuing discussions following the Berlin meeting: WebTrust Seal vs ETSI certification understanding Terminology – moving to common language Continuing issues faced Potential for working together
 
-1. Current Status of Updated WebTrust Documents: a) WebTrust Baseline + NS vs 2.4 Effective for periods beginning on or after June 1, 2019 Updated SSL Baseline Audit Criteria to conform to SSL Baseline Requirements v1.6.2 and Network and Certificate System Security Requirements v1.2 Principle 1, Criterion 5 – The CA’s CP and CPS must now follow RFC 3647 format. RFC 2527 has been sunset. Principle 2, Criterion 2.14 – new criterion added to address certificates with underscore characters. Criteria 2.14-2.16 renumbered to 2.15-2.17. Principle 2, Criterion 4.6 – Re-validations cannot use methods 3.2.2.4.1 and 3.2.2.4.5 as of 1 August 2018 Principle 2, Criteria 5.2, 5.3 and 5.4 – Updated revocation criteria and timelines Principle 4 – Updates made to conform to CA/B Forum Ballot SC3
+1. Current Status of Updated WebTrust Documents: 
+    - a) WebTrust Baseline + NS vs 2.4 Effective for periods beginning on or after June 1, 2019 Updated SSL Baseline Audit Criteria to conform to SSL Baseline Requirements v1.6.2 and Network and Certificate System Security Requirements v1.2 Principle 1, Criterion 5 – The CA’s CP and CPS must now follow RFC 3647 format. RFC 2527 has been sunset. Principle 2, Criterion 2.14 – new criterion added to address certificates with underscore characters. Criteria 2.14-2.16 renumbered to 2.15-2.17. Principle 2, Criterion 4.6 – Re-validations cannot use methods 3.2.2.4.1 and 3.2.2.4.5 as of 1 August 2018 Principle 2, Criteria 5.2, 5.3 and 5.4 – Updated revocation criteria and timelines Principle 4 – Updates made to conform to CA/B Forum Ballot SC3
 
-b) WebTrust for CA 2.2 Effective for periods beginning on or after June 1, 2019 Minor updates made to conform to ISO 21188:2018 Edition
+    - b) WebTrust for CA 2.2 Effective for periods beginning on or after June 1, 2019 Minor updates made to conform to ISO 21188:2018 Edition
 
-c) WebTrust for Extended Validation vs 1.6.8 Effective for periods beginning on or after June 1, 2019 Principle 1, Criteria 4 – RFC 3647 requirement with the sunsetting of 2527 Principle 2, Criteria 5.2-5.4 – updated revocation requirements based on changes to BRs
+    - c) WebTrust for Extended Validation vs 1.6.8 Effective for periods beginning on or after June 1, 2019 Principle 1, Criteria 4 – RFC 3647 requirement with the sunsetting of 2527 Principle 2, Criteria 5.2-5.4 – updated revocation requirements based on changes to BRs
 
-No changes made to WebTrust for Extended Validation Code Signing, or Publicly Trusted Code Signing
+        No changes made to WebTrust for Extended Validation Code Signing, or Publicly Trusted Code Signing
 
-d) WebTrust for RA vs 1.0 Effective for periods beginning on or after April 30, 2019 Provides a framework for third party assurance providers to assess the adequacy and effectiveness of the controls employed by a Registration Authority (RA) that performs either a portion or all of the registration related functions for a Certification Authority (CA) on an outsourced basis. Audit guidance for registration functions that are conducted directly by the CAs entirely are covered in the document, WebTrustSM/TM Principles and Criteria for Certification Authorities.
+    - d) WebTrust for RA vs 1.0 Effective for periods beginning on or after April 30, 2019 Provides a framework for third party assurance providers to assess the adequacy and effectiveness of the controls employed by a Registration Authority (RA) that performs either a portion or all of the registration related functions for a Certification Authority (CA) on an outsourced basis. Audit guidance for registration functions that are conducted directly by the CAs entirely are covered in the document, WebTrustSM/TM Principles and Criteria for Certification Authorities.
 
-3. Reporting Requirements and Sample Reports a) Reporting requirements are illustrated on matrix at b) Sample reports have been developed under each standard since W4CA program began – current ones are at
+1. Reporting Requirements and Sample Reports a) Reporting requirements are illustrated on matrix at https://www.cpacanada.ca/en/business-and-accounting-resources/audit-and-assurance/overview-of-webtrust-services/principles-and-criteria b) Sample reports have been developed under each standard since W4CA program began – current ones are at https://www.cpacanada.ca/en/business-and-accounting-resources/audit-and-assurance/overview-of-webtrust-services/practitioner-qualification-and-guidance
 
 1. WebTrust Reports Available – Full Lifecycle a) Rootkey Generation Ceremony Report (Birth Certificate) b) New – Key Protection (Provides assurance that once a key is created and up to the point it is moved into production, it was properly safeguarded. c) Point In Time (As of date for testing the design and implementation of controls) d) Period of Time (Same as Point in Time, but also tests transactions over a period between 2-12 months to ensure they are operating effectively) e) New – Key Transportation, Migration & Destruction (under development)
 
@@ -802,7 +803,7 @@ d) WebTrust for RA vs 1.0 Effective for periods beginning on or after April 30, 
 
 1. Other Event Reports a) Event reports – completed: key generation, key protection. b) Event reports – in process ( being reviewed) transport, migration destruction to cover all expected events cradle to grave
 
-1. Enhancement of CPA Canada Processes a) CPA Canada is revamping processes with an aim to strengthen the program and add more rigor. Included in the changes are: Replacement of Webtrust.org with CPA Canada – Webtrust.org no longer supports current security protocols New pages reside in CPA Canada secure website – newer, modern look and feel Redirection of old webpages to corresponding new pages – mapping complete enabling all traffic to be directed to new webpages automatically New link will be [www.cpacanada.ca/webtrust][26] Can also go to CABF’s website and follow the link to WebTrust information b) More detailed application and process considerations for auditors, including international – Separation of practitioner enrollment application from trademark agreement sets stage for process automation c) Seal management: New Seal Deployment document is under development Improved rigor on expired seals – new seal expiration document under development d) Collaboration with Browsers: CPA Canada and browsers are working together to establish an automated process to feed seal and audit report IDs to browsers CPA Canada will notify browsers in the event a seal expires or is revoked. e) CPA Canada Reporting Structure/Roles Gord Beal – WebTrust falls into Guidance and Support activities of CPA Canada Janet Treasure – Seal system and licensing responsibility Bryan Walker –Licensing advisor Don Sheehy – Task Force and CABF liaison Jeff Ward – Chair of the WebTrust Task Force and primary contact All Task Force members provide WebTrust services to clients Volunteers are supported by additional technical associates and CPA Canada liaison but report to CPA Canada
+1. Enhancement of CPA Canada Processes a) CPA Canada is revamping processes with an aim to strengthen the program and add more rigor. Included in the changes are: Replacement of Webtrust.org with CPA Canada – https://www.cpacanada.ca/en/business-and-accounting-resources/audit-and-assurance/standards-other-than-cas/publications/overview-of-webtrust-services Webtrust.org no longer supports current security protocols New pages reside in CPA Canada secure website – newer, modern look and feel Redirection of old webpages to corresponding new pages – mapping complete enabling all traffic to be directed to new webpages automatically New link will be [www.cpacanada.ca/webtrust][26] Can also go to CABF’s website and follow the link to WebTrust information b) More detailed application and process considerations for auditors, including international – Separation of practitioner enrollment application from trademark agreement sets stage for process automation c) Seal management: New Seal Deployment document is under development Improved rigor on expired seals – new seal expiration document under development d) Collaboration with Browsers: CPA Canada and browsers are working together to establish an automated process to feed seal and audit report IDs to browsers CPA Canada will notify browsers in the event a seal expires or is revoked. e) CPA Canada Reporting Structure/Roles Gord Beal – WebTrust falls into Guidance and Support activities of CPA Canada Janet Treasure – Seal system and licensing responsibility Bryan Walker –Licensing advisor Don Sheehy – Task Force and CABF liaison Jeff Ward – Chair of the WebTrust Task Force and primary contact All Task Force members provide WebTrust services to clients Volunteers are supported by additional technical associates and CPA Canada liaison but report to CPA Canada
 
 ### Update on London Protocol
 
