@@ -51,7 +51,7 @@ The Subcommittee also discussed about the conditional cases where the countryNam
 
 Wayne added that they also touched upon issues discussed in the past, like allowing the countryName field in DV Certificates and whether that’s a necessary thing, as well as cases where there are Countries with no localityName or StateOrProvince and how to handle those.
 
-Subcommittee minutes:
+Subcommittee minutes: https://lists.cabforum.org/pipermail/validation/2020-September/001548.html
 
 ### 6. NetSec Subcommittee Update
 
@@ -71,7 +71,7 @@ Jos mentioned that NCSSRs contributes mainly on things related to server certifi
 
 Ryan prefers the current NetSec Subcommittee to focus on Server Certificates and other Working Groups should probably create their own NetSec Subcommittees.
 
-Subcommittee minutes:
+Subcommittee minutes: https://lists.cabforum.org/pipermail/netsec/2020-September/000398.html
 
 ### 7. Ballot Status
 

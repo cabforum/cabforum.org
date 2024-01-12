@@ -36,7 +36,7 @@ The minutes of the March 16 teleconference were approved. The minutes from the F
 
 ### 5. Discussion
 
-The draft the S/MIME Baseline Requirements is available at
+The draft the S/MIME Baseline Requirements is available at https://github.com/cabforum/smime/blob/preSBR/SBR.md
 
 The WG discuss the organizationalIdentifer as described in Appendix A. This text was adopted from the EVG. One of the registration schemes is called VAT, after its origin in ETSI EN 319 412-1 section 5.1.4. A PR to the SBR draft was submitted to create new schemes for tax systems that are not VAT (for example in Japan). Stephen Davidson pointed out that the draft (as does the EVG) expands from the ETSI text to allow any “identifier allocated by the national tax authorities to a Legal Entity”. Dimitris Zacharopoulos provided background that the ETSI prefix used to be TAX but was divided in ETSI 319 412-1 to VAT for legal entities and TIN for natural persons. Following discussion, it was agreed this was acceptable. Therefore, the PR can be closed.
 
@@ -46,9 +46,9 @@ It was raised that the definition in Appendix A required the LEI to be FULLY-COR
 
 The WG had extensive discussion on the commonName field, providing flexibility for the use of personal name style in that field versus the formality of the givenName and surname fields. Comments for clarity and corrections on the text were suggested by Wendy Brown and Bruce Morton. Clint Wilson wanted to ensure that the name in the commonName must be linked to the verified ID – giving the example of how to deal with nicknames like Sasha for Alexander in Bulgaria. Corey Bonnell suggested picking up the language from the Org name which states that common variations should be allowed.
 
-Stephen noted that titles (such as Dr) if included in the commonNane are intended to be verified. Stephen agreed to make edits to the draft based on the discussion; see
+Stephen noted that titles (such as Dr) if included in the commonNane are intended to be verified. Stephen agreed to make edits to the draft based on the discussion; see https://github.com/cabforum/smime/blob/preSBR/SBR.md#311-types-of-names
 
-The WG moved on to discuss the Pseudonym attribute. The draft currently ties use of the Pseudonym to a government ID – but Germany’s national ID is the only known ID with that attribute. It was suggested that this was not adequately flexible for many use cases, such as government officials whose role is more important than their name. It was suggested that additional flexibility could be created in the sponsor-validated profile. It was emphasized that Pseudonym certs are not intended to be anonymous. Dimitris said the most secure way to handle Pseudonym would be for the CA to insert a random value. Eusebio Herrera said that account number or employee numbers were often used. He offered to provide additional input in the form of a PR. This is now drafted at
+The WG moved on to discuss the Pseudonym attribute. The draft currently ties use of the Pseudonym to a government ID – but Germany’s national ID is the only known ID with that attribute. It was suggested that this was not adequately flexible for many use cases, such as government officials whose role is more important than their name. It was suggested that additional flexibility could be created in the sponsor-validated profile. It was emphasized that Pseudonym certs are not intended to be anonymous. Dimitris said the most secure way to handle Pseudonym would be for the CA to insert a random value. Eusebio Herrera said that account number or employee numbers were often used. He offered to provide additional input in the form of a PR. This is now drafted at https://github.com/cabforum/smime/blob/preSBR/SBR.md#313-anonymity-or-pseudonymity-of-subscribers
 
 Stephen emphasized that the document is close to ready for the “preballot review” discussed in previous calls, so members should begin alerting their internal organisation contacts that will need to be involved.
 

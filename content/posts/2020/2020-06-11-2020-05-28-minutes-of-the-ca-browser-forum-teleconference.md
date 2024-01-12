@@ -56,7 +56,7 @@ Dean: They will be forwarded to the management list as soon as it works. There i
 
 The draft minutes of that particular Subcommittee meeting are available at the following URL:
 
--
+- https://lists.cabforum.org/pipermail/infrastructure/2020-May/000240.html
 
 ### 6. Code Signing Working Group update
 
@@ -66,7 +66,7 @@ The last item concerned precisely the continuous improvement of doing changes. T
 
 The draft minutes of that particular Subcommittee meeting are available at the following URL:
 
--
+- https://lists.cabforum.org/pipermail/infrastructure/2020-May/000229.html
 
 ### 7. New S/MIME WG Charter
 

@@ -22,7 +22,7 @@ Meeting minutes for 2022-08-11 were approved.
 
 ### Malware revocation ballot
 
-Martijn said there were updates in Github (). Christophe and Corey have been providing feedback.
+Martijn said there were updates in Github (https://github.com/cabforum/code-signing/pull/10). Christophe and Corey have been providing feedback.
 
 There was a discussion on the existing sentence “The CA SHOULD indicate whether its investigation found that the Suspect Code was a false positive or an inadvertent signing”. Tim and Ian agreed that the sentence is redundant and can be removed.
 
@@ -36,7 +36,7 @@ Christophe and Tim discussed whether the requirements should dictate how proof o
 
 ### Signing Service Ballot
 
-Bruce provided the ballot text to Corey, who added it to Github (). There is an open item for someone with ETSI expertise to evaluate the audit scheme requirements for Signing Services. Bruce asked the group to review the PR.
+Bruce provided the ballot text to Corey, who added it to Github (https://github.com/cabforum/code-signing/pull/12). There is an open item for someone with ETSI expertise to evaluate the audit scheme requirements for Signing Services. Bruce asked the group to review the PR.
 
 ### Timestamping
 

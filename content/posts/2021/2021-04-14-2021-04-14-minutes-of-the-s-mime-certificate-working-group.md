@@ -36,10 +36,10 @@ The minutes of the March 31 teleconference were approved.
 
 ### 5. Discussion of certificate profile
 
-A review was made of the current state of the draft S/MIME Baseline Requirements (SBR), which have now been pulled into the CABF Repository at: in the pre-SBR branch.
+A review was made of the current state of the draft S/MIME Baseline Requirements (SBR), which have now been pulled into the CABF Repository at: https://github.com/cabforum/smime/ in the pre-SBR branch.
 
 A discussion took place on proposed language for 8. Compliance audit and other assessments.
-See
+See https://github.com/cabforum/smime/blob/preSBR/SBR.md#8-compliance-audit-and-other-assessments
 
 Following discussion it was agreed that, for example in the case of WebTrust seals, the S/MIME Baseline Requirements (SBR) audit would be a standalone set of criteria audit. Bruce Morton raised possible complications in the case of the NetSec which may be referenced by the SBR. Although this is a standalone document from the perspective of the CABF, its coverage is integrated with the WebTrust TLS BR audit criteria. However, it was indicated that the NetSec criteria were a separate section of WebTrust TLS BR – and that this issue already exists for the Code Signing BR.
 
@@ -51,7 +51,7 @@ There were questions regarding the continuing applicability of the references to
 
 It was proposed that additional comments from members on this Section 8 should be shared the SMCWG public list. As the audit discussion had been so active, the intended discussion on the Mailbox-validation profile was deferred until a later call.
 
-It was noted that proposed text for algorithms has been added to the draft in
+It was noted that proposed text for algorithms has been added to the draft in https://github.com/cabforum/smime/blob/preSBR/SBR.md#713-algorithm-object-identifiers
 
 ### 6. Any Other Business
 

@@ -16,8 +16,9 @@ Purpose of Ballot: Increasingly, contact information is not available in WHOIS d
 
 The following motion has been proposed by Tim Hollebeek of DigiCert and endorsed by Bruce Morton of Entrust and Doug Beattie of GlobalSign.
 
-- MOTION BEGINS
-  This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.0:
+## Motion begins
+
+This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as follows, based on Version 1.6.0:
 
 Add Section 3.2.2.4.13: Email to DNS CAA Contact
 
@@ -41,16 +42,15 @@ The contactemail property takes an email address as its parameter. The entire pa
 
 The following is an example where the holder of the domain specified the contact property using an email address.
 
+```
 $ORIGIN example.com
-
 . CAA 0 issue “ca.example.net”
+. CAA 0 contactemail “domainowner@example.com”
+```
 
-. CAA 0 contactemail [“domainowner@example.com”][1]
+## Motion ends
 
-- MOTION ENDS
-  A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4-CAA-CONTACT-email?diff=unified&expand=1][2]
-
-[][2]
+A comparison of the changes can be found at: https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1
 
 The procedure for approval of this ballot is as follows:
 **Discussion (7+ days):**
@@ -59,6 +59,3 @@ End Time: Not before 2018-10-17 3:50pm Eastern
 **Vote for approval (7 days):**
 Start Time: TBD
 End Time: TBD
-
-[1]: mailto:domainowner@example.com
-[2]: https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1

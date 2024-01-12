@@ -188,7 +188,7 @@ _Presentation:_ [Apple Root Program Update][3]
 ## Notes other than presentation
 
 - Reduced Certificate Lifetimes: Effective date Sept. 1st, 2020, enforcement will be later in 2020
--
+- https://support.apple.com/en-us/HT211025
 - New member of Apple Root Programm: Rebecca Kelley
 - Reduction of validation data reuse related to reduced certificate lifetime as ongoing discussion
 
@@ -226,8 +226,8 @@ Presentation: [Chrome Root Program Update][4]
 
 _Links from Presentation:_
 
--
--
+- https://blog.chromium.org/2020/02/protecting-users-from-insecure.html
+- https://blog.chromium.org/2020/05/chrome-84-beta-web-otp-web-animations.html
 
 Dean: Devon, when you mentioned that a communication was sent out, where was it sent out?
 Devon: To the Primary POC and I believe the secondary POC entered within CCADB. It would have appeared as a CCADB communication.

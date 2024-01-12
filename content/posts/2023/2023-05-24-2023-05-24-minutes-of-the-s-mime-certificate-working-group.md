@@ -87,7 +87,7 @@ A last call for the erratum ballot will be done during the F2F.
 - orgIdentifier discussion
 - Root Store updates. A discussion broke out on where and when root store updates need to happen, during the Forum call or if each WG should get its own section of root store updates. Tim has asked for a discussion to be added to the Forum call during the F2F.
 
-**Current erratum text at**
+Current erratum text at https://github.com/srdavidson/smime/blob/Ballot-SMC03/SBR.md
 
 ### 6. Any Other Business
 

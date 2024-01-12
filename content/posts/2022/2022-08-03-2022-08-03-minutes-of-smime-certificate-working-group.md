@@ -40,9 +40,9 @@ The WG discussed the expression of interest of Zone Media OÜ to join the SMCWG 
 
 Zone Media provides email hosting services, which includes a webmail mail user agent. The mail servers process S/MIME messages, but the mail user agent does not currently support the use of S/MIME certificates to sign/encrypt. It was agreed to extend Associate Membership to Zone Media, with the acknowledgement that if their MUA is extended to support the use of S/MIME certificates, they will be eligible to change to the Certificate Consumer category.
 
-The WG returned to the discussion of the draft S/MIME Baseline Requirements available at .
+The WG returned to the discussion of the draft S/MIME Baseline Requirements available at https://github.com/cabforum/smime/blob/preSBR/SBR.md.
 
-The WG discussed a PR proposed by Judith Spencer found at which seeks to exclude “certificates by enterprises that interoperate via a Bridge CA environment” from the SBR scope, and to clarify that the SBR apply to all CAs within a Publicly-Trusted chain of trust. It was agreed to accept the change and to add “Bridge CA” to the definitions.
+The WG discussed a PR proposed by Judith Spencer found at https://github.com/cabforum/smime/pull/153/files which seeks to exclude “certificates by enterprises that interoperate via a Bridge CA environment” from the SBR scope, and to clarify that the SBR apply to all CAs within a Publicly-Trusted chain of trust. It was agreed to accept the change and to add “Bridge CA” to the definitions.
 
 (Note: after the teleconference, these changes were made to the draft and a discussion occurred on the mailing list, which concluded that these changes were not necessary with the clarifications made that the SBR apply to all Publicly-Trusted CAs. The changes were subsequently withdrawn).
 
@@ -50,7 +50,7 @@ The group returned to the prior discussion of the validation method which allow 
 
 The WG discussed draft text provided by Eva Van Steenberge. Wendy Brown noted that the listing of the NIST and Kantara assurance levels should be specified as IAL2 or higher, and that the FBCA mention is not appropriate in current form. Judith Spencer noted that self-assessment of the schemes was not appropriate and the WG needed to be able to review and update the list of approved schemes.
 
-(Note: Following the teleconference, based on the discussion Stephen Davidson proposed a new PR at and a further discussion occurred on the mailing list).
+(Note: Following the teleconference, based on the discussion Stephen Davidson proposed a new PR at https://github.com/cabforum/smime/commit/33ce560204eaed4162cb70c919bf9f86ffac90cc and a further discussion occurred on the mailing list).
 
 The WG returned to the topic of the use of geographic attributes in the Subject DN. Stephen noted that conflicting text on the use of the L and ST attributes that had been copied from the TLS BR has now been removed. He noted that the attributes are not allowed in Mailbox-validated profiles, and that the WG had previously agreed to allow significant flexibility in the Legacy generation profiles. As it stands, the SBR stipulates MAY for the attributes in the Organization-, Sponsored-, and Individual-validated profiles.
 

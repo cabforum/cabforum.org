@@ -18,16 +18,16 @@ Doug Beattie, Don Sheehy, Ryan Sleevi, Dean Coclin, Atsushi Inaba, Nick France (
 
 ## Network Security Subcommittee
 
-_Presenter:_ Neil Dunbar (Trustcor)
-_Note Taker:_ Ben Wilson (Mozilla)
-_Presentation:_ [Network Subcommittee Update (Summary)][1]
-_Presentation:_ [Network Subcommittee Update (Main)][2]
+_Presenter:_ Neil Dunbar (Trustcor)  
+_Note Taker:_ Ben Wilson (Mozilla)  
+_Presentation:_ [Network Subcommittee Update (Summary)][1]  
+_Presentation:_ [Network Subcommittee Update (Main)][2]  
 
 Neil presented slides showing the focus of the Subcommittee.
 
-Slide 3- problem statement and objectives – the NCSSRs are some times hard to interpret and were written with older technologies in mind. New technologies, however, also bring in new complexities. We want to allow new technologies and remove ambiguities.
+Slide 3 - problem statement and objectives – the NCSSRs are some times hard to interpret and were written with older technologies in mind. New technologies, however, also bring in new complexities. We want to allow new technologies and remove ambiguities.
 
-Slide 4- E.g. multi-spectrum DNS. – perform multiple CAA verfications geographically dispersed. How do different data centers or cloud providers affect audits? How are the NCSSRs 2. (m)(n)(o) measured in a shared responsibility model?
+Slide 4 - E.g. multi-spectrum DNS. – perform multiple CAA verifications geographically dispersed. How do different data centers or cloud providers affect audits? How are the NCSSRs 2. (m)(n)(o) measured in a shared responsibility model?
 
 Slide 5 – We would like the NCSSRs to get to how you deploy. We need to get to a point where everybody agrees on what a term means. E.g. what does “system account” mean?
 
@@ -59,7 +59,7 @@ Slide 14 – To summarize, SC28, SC32, Offline CAs ballot, and SC34.
 
 Comments/Questions: (Comment related to discussion of Slide 4, “Low value FQDN” – there is no such thing.)
 
-Ryan: Looking at the Diginotar/Black Tulip report, now here in 2020, to what extent has this group looked at it? What are the practices that the network security group is looking at?
+Ryan: Looking at the Diginotar/Black Tulip report, now here in 2020, to what extent has this group looked at it? https://www.cs.ru.nl/E.Verheul/SIO2019/black-tulip-update.pdf What are the practices that the network security group is looking at?
 
 Neil: With the zones ballot, nothing was intended to weaken the security. Compensating controls including authentication, encryption, etc. A reason we took it back for re-drafting is in response to comments.
 
@@ -71,8 +71,8 @@ Don: Comment on the use of cloud providers-there is a significant audit impact, 
 
 ## Validation Subcommittee
 
-_Presenters:_ Tim Hollebeek (Digicert), Wayne Thayer (Mozilla)
-_Note Taker:_ Rich Smith (Sectigo)
+_Presenters:_ Tim Hollebeek (Digicert), Wayne Thayer (Mozilla)  
+_Note Taker:_ Rich Smith (Sectigo)  
 
 Tim opened with agenda for the meeting.
 
@@ -112,12 +112,12 @@ Entrust has presented a proposal for Option 1
 
 Paul stated that there is strong interest from large enterprises and governments to continue to allow the OU field. That these companies require the field as a subscriber to identify the owner (especially when a certificate is not ordered though the normal channels or commonly used CA). And that we should not forget that the relying party most likely will have the same identification challenge for these type of organizations. With this proposal we try to align the subject:organizationalUnitName with the purpose as described by the ITU-T X.520 section 6.4.2 Organizational Unit Name.
 
-The proposal ():
+The proposal (https://github.com/cabforum/documents/pull/225):
 
 - introduces a requirement to verify the existence and affiliation of the unit with the Applicant
 - requires self-reported values to be preceded or followed by a whitespace and the well-known words “department”, “division”, “unit” or …
 - supports automation by linking to a directory system of the applicant and by allowing well-known pre-approved values such as “information technology”, “marketing” or “sales” without the requirement to verify the existence of and affiliation
-- supports manual validation using existing methods listed in 3.2.2.1/3.2.2.2, an organization charts or public directory (e.g. )
+- supports manual validation using existing methods listed in 3.2.2.1/3.2.2.2, an organization charts or public directory (e.g. https://www.gov.ie/en/help/departments/)
 - allows values or series as defined by a government, standard, or regulatory body
 - allows certificate tracking using numerals which can be preceded or followed by two alphabetical characters for easier identification.
 
