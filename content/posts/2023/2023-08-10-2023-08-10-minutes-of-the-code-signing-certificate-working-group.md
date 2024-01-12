@@ -10,7 +10,7 @@ title: 2023-08-10 Minutes of the Code Signing Certificate Working Group
 type: post
 ---
 
-**Attendees:** Abhishek Bhat (eMudhra), Andrea Holland (VikingCloud), Ben Dewberry (Keyfactor), Brianca Martin (Amazon), Corey Bonnell (DigiCert), Dean Coclin (DigiCert), Ian McMillan (Microsoft), Inaba Atsushi (GlobalSign), Martijn Katerbarg (Sectigo), Mohit Kumar (GlobalSign), Rollin Yu (TrustAsia Technologies, Inc.), Scott Rea (eMudhra), Tim Hollebeek (DigiCert), Tomas Gustavsson (PrimeKey)
+**Attendees:** Abhishek Bhat (eMudhra), Andrea Holland (VikingCloud), Ben Dewberry (Keyfactor), Brianca Martin (Amazon), Corey Bonnell (DigiCert), Dean Coclin (DigiCert), Ian McMillan (Microsoft), Inaba Atsushi (GlobalSign), Martijn Katerbarg (Sectigo), Mohit Kumar (GlobalSign), Rollin Yu (TrustAsia Technologies, Inc.), Scott Rea (eMudhra), Tim Hollebeek (DigiCert), Tomas Gustavsson (PrimeKey)  
 
 **Note Well:** The Note Well was read.
 

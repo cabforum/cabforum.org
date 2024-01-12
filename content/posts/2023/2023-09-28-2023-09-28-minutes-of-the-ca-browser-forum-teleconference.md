@@ -18,7 +18,7 @@ Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon), Abhishek Bhat (eMudhra), 
 
 \*\*Note-well: \*\*Paul read the note-well.
 
-**Agenda:** There were no changes to the agenda.
+**Agenda:** There were no changes to the agenda.  
 
 **Approval of minutes**:
 

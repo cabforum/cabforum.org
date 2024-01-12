@@ -30,9 +30,9 @@ During face-to-face Meeting 33, and on previous occasions, there were discussion
 
 The CA-Browser Forum shall create a Working Group, to be known as the Security Information Sharing Working Group.
 
-**Scope:** the Working Group shall consider all matters relating to voluntary information sharing among Forum Members relating to possible enhanced risk from identified individuals, entities, identities, locations, domains, IP addresses, and other data to be determined in order to allow Members to determine, in their own judgment, whether to undertake additional authentication or other steps before providing products or services to customers. The Working Group will consider such issues as legal limitations, privacy concerns, methods for updating or correcting information, and other factors that may arise from such information sharing.
+**Scope:** the Working Group shall consider all matters relating to voluntary information sharing among Forum Members relating to possible enhanced risk from identified individuals, entities, identities, locations, domains, IP addresses, and other data to be determined in order to allow Members to determine, in their own judgment, whether to undertake additional authentication or other steps before providing products or services to customers. The Working Group will consider such issues as legal limitations, privacy concerns, methods for updating or correcting information, and other factors that may arise from such information sharing.  
 
-**Deliverables:** The Working Group shall produce one or more documents offering options to the Forum for voluntary information sharing within the scope defined above.
+**Deliverables:** The Working Group shall produce one or more documents offering options to the Forum for voluntary information sharing within the scope defined above.  
 
 **Expiration Date:** The Working Group’s mandate shall expire twenty-four months from the date this resolution passes, unless extended by a further ballot of the Members, such a ballot to specify the extension period and any necessarily modifications of the scope and deliverables.
 

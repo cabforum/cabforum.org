@@ -95,7 +95,7 @@ Only one vote per Member company shall be accepted; representatives of corporate
 
 Add to the Definitions section:
 
-**Affiliate:** an entity that directly or indirectly controls, is controlled by or is under common control with, a Member. Control for the purposes of this Agreement shall mean direct or indirect beneficial ownership of more than fifty percent of the voting stock, or decision-making authority in the event that there is no voting stock, in an entity.
+**Affiliate:** an entity that directly or indirectly controls, is controlled by or is under common control with, a Member. Control for the purposes of this Agreement shall mean direct or indirect beneficial ownership of more than fifty percent of the voting stock, or decision-making authority in the event that there is no voting stock, in an entity.  
 
 ## Motion ends
 

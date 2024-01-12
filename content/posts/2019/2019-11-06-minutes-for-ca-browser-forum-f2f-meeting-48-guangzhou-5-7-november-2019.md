@@ -22,8 +22,8 @@ The minutes were approved.
 
 ### Report from Code Signing WG
 
-_Presenter:_ Dean Coclin (Digicert) Bruce Morton (Entrust Datacard)
-_Note Taker:_ Dustin Hollenback (Microsoft)
+_Presenter:_ Dean Coclin (Digicert) Bruce Morton (Entrust Datacard)    
+_Note Taker:_ Dustin Hollenback (Microsoft)    
 
 There was a working group meeting yesterday, 5-November-2019. The highlights from the meeting were:
 
@@ -36,8 +36,8 @@ There were no questions for the Code Signing Certificate Working Group.
 
 ### Report from Forum Infrastructure subcommittee
 
-_Presenter:_ Jos Purvis (Cisco)
-_Note Taker:_ Andreas Henschel (D-Trust)
+_Presenter:_ Jos Purvis (Cisco)    
+_Note Taker:_ Andreas Henschel (D-Trust)    
 
 The existing WG is now turned into a Forum subcommittee. An invitation for additional participation to the subcommittee has already been sent
 
@@ -52,8 +52,8 @@ The existing WG is now turned into a Forum subcommittee. An invitation for addit
 
 ### Creation of Additional Groups – Secure Mail
 
-_Presenters:_ Tim Hollebeek (Digicert)
-_Note Taker:_ Leo Grove (SSL.com)
+_Presenters:_ Tim Hollebeek (Digicert)    
+_Note Taker:_ Leo Grove (SSL.com)    
 
 Topic: SMIME Charter Scope, Identity, and Google Participation
 
@@ -111,8 +111,8 @@ Tim H: Just like we did with the CodeSigning WG we will specify how to get the r
 
 ### CA/B Forum Photo Policy
 
-_Presenters:_ Dimitris Zacharopoulos (HARICA)
-_Note Taker:_ Kirk Hall (Entrust Datacard)
+_Presenters:_ Dimitris Zacharopoulos (HARICA)    
+_Note Taker:_ Kirk Hall (Entrust Datacard)    
 
 Dimitris noted that the Forum had a discussion in Thessaloniki on this policy and how it would work. He wrote the draft photo policy shown here and also pasted in below:
 https://docs.google.com/document/d/1JQ6F40biDjitCyyR3WPSOciJyLRvZRK7mNPcL4UZz4U/edit?usp=sharing
@@ -135,8 +135,8 @@ Ryan will also try to get an answer for the “attribution” question.
 
 #### Bylaws open issues
 
-_Presenters:_ Dimitris Zacharopoulos (HARICA)
-_Note Taker:_ Robin Alden (Sectigo)
+_Presenters:_ Dimitris Zacharopoulos (HARICA)    
+_Note Taker:_ Robin Alden (Sectigo)    
 
 We have been collecting issues over the years. We have them in a [goodle doc][1]. Dimitris has sent the list a couple of times to the management list, but has had no feedback. Hopes to get opinions and comments from participants for each topic here.
 
@@ -300,15 +300,15 @@ Attendees: Aleksandra Kapinos (Asseco Data Systems S.A.), An Yin (iTrusChina), A
 
 ### 360 Root Program Update
 
-_Presenter:_ Huo Haitao (Halton) (360)
-_Note Taker:_ Enrico Entschew (D-Trust)
+_Presenter:_ Huo Haitao (Halton) (360)    
+_Note Taker:_ Enrico Entschew (D-Trust)    
 
 - Presentation: [360 Browser Update][2]
 
 ### Google Root Program Update
 
-_Presenter:_ Ryan Sleevi (Google Chrome)
-_Note Taker:_ Timo Schmitt (SwissSign)
+_Presenter:_ Ryan Sleevi (Google Chrome)    
+_Note Taker:_ Timo Schmitt (SwissSign)    
 
 - New set of logs are Usable since our last meeting 
 - Additional logs have been added as Qualified. They are not yet usable, but will be announced to ct-policy@ 
@@ -316,8 +316,8 @@ _Note Taker:_ Timo Schmitt (SwissSign)
 
 ### Microsoft Root Program Update
 
-_Presenter:_ Mike Reilly (Microsoft)
-_Note Taker:_ Tim Hollebeek (Digicert)
+_Presenter:_ Mike Reilly (Microsoft)    
+_Note Taker:_ Tim Hollebeek (Digicert)    
 
 - Presentation: [Microsoft Browser Update][3]
 
@@ -325,8 +325,8 @@ No questions.
 
 ### Mozilla Root Program Update
 
-_Presenter:_ Wayne Thayer (Mozilla)
-_Note Taker:_ Scott Rea (DarkMatter)
+_Presenter:_ Wayne Thayer (Mozilla)    
+_Note Taker:_ Scott Rea (DarkMatter)    
 
 Mozilla Update: https://cabforum.org/wp-content/uploads/9-Mozilla-Browser-News.pdf
 
@@ -408,8 +408,8 @@ Wayne T: Yes, this is the process, but it doesn’t necessarily lead to revocati
 
 ### CCADB Update
 
-_Presenter:_ Wayne Thayer (Mozilla)
-_Note Taker:_ Scott Rea (DarkMatter)
+_Presenter:_ Wayne Thayer (Mozilla)    
+_Note Taker:_ Scott Rea (DarkMatter)    
 
 CCADB Update: https://cabforum.org/wp-content/uploads/10-CCADB-News-CABF-F2F-November-2019.pdf
 
@@ -457,8 +457,8 @@ No further discussion.
 
 ### Report from Network Security Subcommittee
 
-_Presenter:_ Ben Wilson (Digicert)
-_Minute Taker:_ Nick France (Sectigo)
+_Presenter:_ Ben Wilson (Digicert)    
+_Minute Taker:_ Nick France (Sectigo)    
 
 Ben: The subcommittee looked at SC20 – network security requirements. Talked about the purpose of SC20 – distinction between change control and after the fact changes. What kind of review is done before config change, what review is done after? Are you monitoring the config baseline/approved config for changes?
 
@@ -498,8 +498,8 @@ Ben: On list received from Tim, that was the basis for the to-do used by the “
 
 ### Report from Validation Subcommittee
 
-_Presenter:_ Tim Hollebeek (Digicert)
-_Minute Taker:_ Xiu Lei (GDCA)
+_Presenter:_ Tim Hollebeek (Digicert)    
+_Minute Taker:_ Xiu Lei (GDCA)    
 
 - Spring Cleanup Ballot has started voting
 - Validation Summit work is ongoing, 18 months in. Two items left
@@ -520,8 +520,8 @@ Aleksandra Kapinos (Asseco Data Systems S.A.), An Yin (iTrusChina), Andreas Hens
 
 ### Recap of CA/B Forum discussions related to Quantum Cryptography
 
-_Presenter:_ Tim Hollebeek (Digicert), Tadahiko Ito (Secom)
-_Note Taker:_ Zhang Yi (CFCA)
+_Presenter:_ Tim Hollebeek (Digicert), Tadahiko Ito (Secom)    
+_Note Taker:_ Zhang Yi (CFCA)    
 
 Quantum computing is being discussed for the 3rd CABF Face to Face in a row.
 
@@ -551,14 +551,14 @@ One of the problems we had with the SHA-1 to SHA-256 transition was that many sy
 
 ### Guest Speaker – Quantum Safe Cryptography
 
-_Presenter:_ Mike Brown (ISARA)
+_Presenter:_ Mike Brown (ISARA)    
 
 - Presentation: [Quantum Safe Cryptography][4]
 
 ### ETSI Update
 
-_Presenter:_ Arno Fiedler (ETSI ESI)
-_Note Taker:_ Clemens Wanko (ACAB’c / TUV Austria)
+_Presenter:_ Arno Fiedler (ETSI ESI)    
+_Note Taker:_ Clemens Wanko (ACAB’c / TUV Austria)    
 
 - Presentation: [ETSI Update][5]
 
@@ -635,8 +635,8 @@ The next TSP/CA Day in Berlin is planed for September 22 and 23.
 
 ### ACAB’c Update
 
-_Presenter:_ Clemens Wanko (ACAB’c / TUV Austria)
-_Note Taker:_ Arno Fiedler (ETSI ESI)
+_Presenter:_ Clemens Wanko (ACAB’c / TUV Austria)    
+_Note Taker:_ Arno Fiedler (ETSI ESI)    
 
 Clemens Wanko and Philippe from ACAB’c provided an update on the status and the ongoing work of the council:
 
@@ -652,8 +652,8 @@ Presentation: [ACAB’c Update][6]
 
 ### WebTrust Update
 
-_Presenters:_ Jeff Ward (BDO)
-_Minute Taker:_ Chris Bailey (Entrust Datacard)
+_Presenters:_ Jeff Ward (BDO)    
+_Minute Taker:_ Chris Bailey (Entrust Datacard)    
 
 - Presentation: [WebTrust Update][7]
 
@@ -665,8 +665,8 @@ _Minute Taker:_ Chris Bailey (Entrust Datacard)
 
 ### Creating a more intuitive method of displaying secure sites to internet users
 
-_Presenter:_ Chris Bailey (Entrust Datacard)
-_Note Taker:_ Trevoli Ponds-White (Amazon)
+_Presenter:_ Chris Bailey (Entrust Datacard)    
+_Note Taker:_ Trevoli Ponds-White (Amazon)    
 
 - Presentation: [Creating a more intuitive method of displaying secure sites to internet users][8]
 
@@ -698,8 +698,8 @@ Follow up, Ryan provided resources: https://lists.cabforum.org/pipermail/serverc
 
 ### Special Challenges and concerns for Certification Authorities located in Asia
 
-_Presenter:_ Xiu Lei (GDCA)
-_Minute Taker:_ Xiu Lei (GDCA)
+_Presenter:_ Xiu Lei (GDCA)    
+_Minute Taker:_ Xiu Lei (GDCA)    
 
 **A total of 20 attendees participated in the discussions, and the following topics were covered:**
 
@@ -716,8 +716,8 @@ _Minute Taker:_ Xiu Lei (GDCA)
 
 ### Special Challenges and concerns for Certification Authorities located in Europe
 
-_Presenters:_ Enrico Entschew (D-Trust)
-_Minute Taker:_ Aleksandra Kapinos (Asseco Data Systems)
+_Presenters:_ Enrico Entschew (D-Trust)    
+_Minute Taker:_ Aleksandra Kapinos (Asseco Data Systems)    
 
 - Presentation: [Special Challenges and concerns for Certification Authorities located in Europe][9]
 
@@ -737,8 +737,8 @@ Dimitris: We agree that QWACs are described in the ETSI documents, include parts
 
 ### Update on London Protocol
 
-_Presenters:_ Kirk Hall (Entrust Datacard)
-_Minute Taker:_ Dimitris Zacharopoulos (HARICA)
+_Presenters:_ Kirk Hall (Entrust Datacard)    
+_Minute Taker:_ Dimitris Zacharopoulos (HARICA)    
 
 Presentation: Update on London Protocol (to be uploaded)
 
@@ -777,7 +777,7 @@ According to APWG contributing member Agari, 40 percent of BEC attacks use a dom
 
 ### Guest Speaker – Research Status of the ECDLP
 
-_Presenter:_ Prof. Fangguo Zhang (Cyberspace Security Department, School of Data and Computer Science, Sun Yat-Sen University)
+_Presenter:_ Prof. Fangguo Zhang (Cyberspace Security Department, School of Data and Computer Science, Sun Yat-Sen University)    
 
 - Presentation: [Research Status of the ECDLP][10]
 

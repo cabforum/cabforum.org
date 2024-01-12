@@ -53,7 +53,7 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 **Speaker**: Ben Wilson (Mozilla)  
 **Minutes**: Ryan Sleevi  
 
-**Presentation:** https://docs.google.com/document/d/1RFAsizaxCYQCgjXGcLXzwlyT_4veXuic59jK1fhcOz0/preview
+**Presentation:** https://docs.google.com/document/d/1RFAsizaxCYQCgjXGcLXzwlyT_4veXuic59jK1fhcOz0/preview  
 
 #### Q & A
 
@@ -75,7 +75,7 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 
 **Speaker**: J.P. Hamilton, Jos Purvis (Cisco)  
 **Minutes**: Karina Sirota  
-**Presentation:** </uploads/Cisco-TRSUpdate-F2F53.pdf>
+**Presentation:** </uploads/Cisco-TRSUpdate-F2F53.pdf>  
 
 ### Microsoft Root Program Update
 

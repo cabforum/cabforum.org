@@ -23,13 +23,13 @@ Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microso
 
 ### Approval of CABF Minutes from last teleconference
 
-**Leader:** Paul van Brouwershaven (Entrust)
+**Leader:** Paul van Brouwershaven (Entrust)  
 
 Minutes were approved.
 
 ### Future face to face meeting schedule
 
-**Leader:** Dimitris Zacharopoulos (HARICA)
+**Leader:** Dimitris Zacharopoulos (HARICA)  
 
 - *Presentation link:*\* [/uploads/2-CABF_Future-meetings-1.pdf](/uploads/2-CABF_Future-meetings-1.pdf)
 
@@ -43,7 +43,7 @@ Minutes were approved.
 
 ### Bylaws updates part 1
 
-**Leader:** Dimitris Zacharopoulos (HARICA)
+**Leader:** Dimitris Zacharopoulos (HARICA)  
 
 - *Presentation link:*\* [/uploads/4-CABF_Bylaws-Updates-part-1.pdf](/uploads/4-CABF_Bylaws-Updates-part-1.pdf) **Minutes:** Ben Wilson (Mozilla)
 
@@ -74,7 +74,7 @@ Specific topics from the slides were reviewed.
 
 ### Governance recap and IPR
 
-**Leader:** Tim Hollebeek (Digicert)
+**Leader:** Tim Hollebeek (Digicert)  
 
 - *Presentation link:*\* No presentation \*\*Minutes:\*\*Tim Callan (Sectigo)
 
@@ -102,7 +102,7 @@ Specific topics from the slides were reviewed.
 
 ### Mozilla Root Program Update
 
-**Leader:** Ben Wilson (Mozilla)
+**Leader:** Ben Wilson (Mozilla)  
 
 - *Minutes:*\* Corey Bonnel (Digicert)
 - \*Presentation link:\*\*[/uploads/6-2023-May-Mozilla-Update-for-CABF-Redmond-F2F.pdf](/uploads/6-2023-May-Mozilla-Update-for-CABF-Redmond-F2F.pdf)
@@ -127,7 +127,7 @@ Specific topics from the slides were reviewed.
 
 ### Google Root Program Update
 
-**Leader:** Ryan Dickson (Google)
+**Leader:** Ryan Dickson (Google)  
 
 - *Minutes:*\* Stephen Davidson (Digicert)
 - \*Presentation link:\*\*[/uploads/7-CABF-F2F-59-Chrome-Browser-Update-PUBLIC.pdf](/uploads/7-CABF-F2F-59-Chrome-Browser-Update-PUBLIC.pdf)
@@ -172,7 +172,7 @@ Wayne Thayer asked a question about the versions of Android in which the certifi
 
 ### Apple Root Program Update
 
-**Leader:** Clint Wilson (Apple)
+**Leader:** Clint Wilson (Apple)  
 
 - *Minutes:*\* Dyan Dickson Google)
 - *Presentation link:*\* [/uploads/8-2023-June-CABFWiki-Apple.pdf](/uploads/8-2023-June-CABFWiki-Apple.pdf)
@@ -208,7 +208,7 @@ No questions or added discussion.
 
 ### Microsoft Root Program Update
 
-**Leader:** Karina Sirota (Microsoft)
+**Leader:** Karina Sirota (Microsoft)  
 
 - *Minutes:*\* Dustin Holleback (Microsoft)
 - *Presentation link:*\* [/uploads/9-Microsoft-CABF-59-Update.pdf](/uploads/9-Microsoft-CABF-59-Update.pdf)
@@ -219,7 +219,7 @@ Blake from Amazon asked why Microsoft Trusted Root Program are not supporting EC
 
 ### Cisco Update
 
-**Leader:** J-P Hamilton (Cisco)
+**Leader:** J-P Hamilton (Cisco)  
 
 - *Minutes:*\* Dean Coclin (Digicert)
 - *Presentation link:*\* [/uploads/10-CABF-Face-to-Fave-Jun-6-2020-Cisco.pdf](/uploads/10-CABF-Face-to-Fave-Jun-6-2020-Cisco.pdf)
@@ -230,7 +230,7 @@ Various bundles of root certs in Cisco products (see slide). Cisco.com/security/
 
 ### CCADB Update
 
-**Leader:** Clint Wilson (Apple, on behalf of the CCADB Steering Committee)
+**Leader:** Clint Wilson (Apple, on behalf of the CCADB Steering Committee)  
 
 - *Minutes:*\* Chris Clements (Google)
 - \*Presentation link:\*\*[/uploads/11-CAB-F2F-59-CCADB-Update-PUBLIC.pdf](/uploads/11-CAB-F2F-59-CCADB-Update-PUBLIC.pdf)
@@ -249,7 +249,7 @@ Aaron Poulsen – (Amazon), Abhishek Bhat – (eMudhra), Adam Jones – (Microso
 
 ### Bylaws updates part 2
 
-**Leader:** Dimitris Zacharopoulos (HARICA)
+**Leader:** Dimitris Zacharopoulos (HARICA)  
 
 - *Presentation link:*\* [/uploads/12-CABF_Bylaws-Updates-part-2.pdf](/uploads/12-CABF_Bylaws-Updates-part-2.pdf) **Minutes:** Ben Wilson (Mozilla)
 
@@ -296,7 +296,7 @@ need for a formal vote.
 
 ### Proposed Changes to Server Cert WG Charter
 
-**Leader:** Ben Wilson (Mozilla)
+**Leader:** Ben Wilson (Mozilla)  
 
 - *Presentation link:*\* [/uploads/12-Proposed-Changes-to-Server-Cert-WG-Charter.pdf](/uploads/12-Proposed-Changes-to-Server-Cert-WG-Charter.pdf) \*\*Minutes:\*\*Dimitris Zacharopoulos (HARICA)
 
@@ -322,7 +322,7 @@ Ben replied that perhaps we can carve out certain things but he still things we 
 
 ### Definitions and Glossary WG
 
-**Leader:** Clint Wilson (Apple)
+**Leader:** Clint Wilson (Apple)  
 
 - *Minutes:*\* Clint Wilson (Apple)
 - *Presentation link:*\* No presentation
@@ -335,7 +335,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### ATS Presentation on ICA rotation
 
-**Leader:** Michael Slaughter (ATS) Trevoli Ponds-White (ATS)
+**Leader:** Michael Slaughter (ATS) Trevoli Ponds-White (ATS)  
 
 - *Presentation link:*\* [/uploads/14-Amazon_Trust_Services_F2F_59_final.pdf](/uploads/14-Amazon_Trust_Services_F2F_59_final.pdf)
 
@@ -349,7 +349,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### ETSI Update
 
-**Leader:** Arno Fiedler (Vice Chair ETSI ESI)
+**Leader:** Arno Fiedler (Vice Chair ETSI ESI)  
 
 - *Minutes:*\* Clemens Wanko (TUV AUSTRIA)
 - \*Presentation link:\*\*[/uploads/16-ETSI-ESI_Standardisation_Update_for_CAB-Forum-06-2023.pdf](/uploads/16-ETSI-ESI_Standardisation_Update_for_CAB-Forum-06-2023.pdf)
@@ -362,7 +362,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### ACAB’C Update
 
-**Leader:** Clemens Wanko (TÜV AUSTRIA)
+**Leader:** Clemens Wanko (TÜV AUSTRIA)  
 
 - *Minutes:*\* Arno Fiedler (Vice Chair ETSI ESI)
 - \*Presentation link:\*\*[/uploads/17-20230606_CAB-Forum_59_ACABc_presentation_V1.1.pdf](/uploads/17-20230606_CAB-Forum_59_ACABc_presentation_V1.1.pdf)
@@ -371,7 +371,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### WebTrust Update
 
-**Leader:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)
+**Leader:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)  
 
 - *Minutes:*\* Bruce Morton (Entrust)
 - \*Presentation link:\*\*[/uploads/18-WebTrust-CABF-update-June-2023.pdf](/uploads/18-WebTrust-CABF-update-June-2023.pdf)
@@ -389,7 +389,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### Server Certificate Working Group (SCWG)
 
-**Leader:** Inigo Barreira (Sectigo)
+**Leader:** Inigo Barreira (Sectigo)  
 
 - *Minutes:*\* Martijn Katerbarg (Sectigo)
 - \*Presentation link:\*\*[/uploads/19-F2F-59-SCWG-presentation.pdf](/uploads/19-F2F-59-SCWG-presentation.pdf)
@@ -398,7 +398,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### Code-Signing Certificate Working Group (CSCWG)
 
-**Leader:** Bruce Morton (Entrust)
+**Leader:** Bruce Morton (Entrust)  
 
 - *Minutes:*\* Brianca Martin (Amazon)
 - \*Presentation link:\*\*[/uploads/20-F2F-59-CSWG-202306.pdf](/uploads/20-F2F-59-CSWG-202306.pdf)
@@ -407,7 +407,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### S/MIME Certificate Working Group (SMCWG)
 
-**Leader:** Stephen Davidson (DigiCert)
+**Leader:** Stephen Davidson (DigiCert)  
 
 - *Minutes:*\* Ben Wilson (Mozilla)
 - \*Presentation link:\*\*[/uploads/21-SMCWG-\_20230605_F2F-Intro.pdf](/uploads/21-SMCWG-\_20230605_F2F-Intro.pdf)
@@ -424,7 +424,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### Network Security Working Group
 
-**Leader:** Clint Wilson (Apple)
+**Leader:** Clint Wilson (Apple)  
 
 - *Minutes:*\* Rebecca Kelley (Apple)
 - \*Presentation link:\*\*[/uploads/22-2023-June-CABFWiki-NetSec.pdf](/uploads/22-2023-June-CABFWiki-NetSec.pdf)
@@ -439,7 +439,7 @@ Brianca Martin and Tim Callan volunteered to vice-chair.
 
 ### Forum Infrastructure Subcommittee
 
-**Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
+**Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)  
 
 - *Minutes:*\* Wayne Thayer (Fastly)
 - *Presentation link:*\* No presentation

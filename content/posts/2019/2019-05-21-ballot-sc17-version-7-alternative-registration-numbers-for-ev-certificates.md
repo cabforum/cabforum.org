@@ -22,7 +22,7 @@ The voting period for Ballot SC17 has ended and the **Ballot has Passed**. Here 
 
 100% of voting Certificate Issuers voted in favor.
 
-**Note:** Disig sent a vote in reply to ballot SC17 in an email titled “Ballot SC19 version 7” stating “Disig votes “YES” on Ballot SC19.” This vote was NOT counted.
+**Note:** Disig sent a vote in reply to ballot SC17 in an email titled “Ballot SC19 version 7” stating “Disig votes “YES” on Ballot SC19.” This vote was NOT counted.  
 
 **Voting by Certificate Consumers – 6 votes total including abstentions**
 

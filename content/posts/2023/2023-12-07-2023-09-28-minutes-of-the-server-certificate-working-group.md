@@ -14,7 +14,7 @@ type: post
 
 Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon), Abhishek Bhat (eMudhra), Adam Clark (Visa), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Andrea Holland (VikingCloud), Ben Wilson (Mozilla), Bilal Ashraf (SSL.com), Brianca Martin (Amazon), Bruce Morton (Entrust), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen (OATI), Daryn Wright (GoDaddy), Dean Coclin (DigiCert), Dustin Hollenback (Microsoft), Fumi Yoneda (Japan Registry Services), Hannah Sokol (Microsoft), Inaba Atsushi (GlobalSign), Inigo Barreira (Sectigo), Jos Purvis (Fastly), Jozef Nigut (Disig), Keshava Nagaraju (eMudhra), Li-Chun Chen (Chunghwa Telecom), Lynn Jeun (Visa), Mads Henriksveen (Buypass AS), Martijn Katerbarg (Sectigo), Michelle Coon (OATI), Nargis Mannan (VikingCloud), Nate Smith (GoDaddy), Nicol So (CommScope), Paul van Brouwershaven (Entrust), Pedro Fuentes (OISTE Foundation), Rebecca Kelley (Apple), RIch Smith (DigiCert), Roman Fischer (SwissSign), Scott Rea (eMudhra), Tadahiko Ito (SECOM Trust Systems), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority), Yoshihiko Matsuo (Japan Registry Services)
 
-**Agenda:** There were no changes to the agenda.
+**Agenda:** There were no changes to the agenda.  
 
 ## Minutes
 

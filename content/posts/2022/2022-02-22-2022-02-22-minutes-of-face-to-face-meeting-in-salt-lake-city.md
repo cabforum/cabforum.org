@@ -29,9 +29,9 @@ Poland meeting is on for June, Berlin meeting is on for October. More details to
 
 ### Mozilla Root Program Update
 
-**Leader:** Ben Wilson (Mozilla)
-**Minutes:** Ryan Dickson (Google Chrome)
-**Presentation:** [/uploads/CABForum-February2022-Mozilla-Update.pdf](/uploads/CABForum-February2022-Mozilla-Update.pdf)
+**Leader:** Ben Wilson (Mozilla)  
+**Minutes:** Ryan Dickson (Google Chrome)  
+**Presentation:** [/uploads/CABForum-February2022-Mozilla-Update.pdf](/uploads/CABForum-February2022-Mozilla-Update.pdf)  
 
 - Today’s update will focus on a review of planned changes that will take effect in Mozilla Root Store Policy (MRSP) v. 2.8 (May 1, 2022)
 - Reminders:
@@ -73,9 +73,9 @@ Poland meeting is on for June, Berlin meeting is on for October. More details to
 
 ### Google Root Program Update
 
-**Leader:** Ryan Dickson (Google Chrome)
-**Minutes:** Ben Wilson (Mozilla)
-**Presentation:** [/uploads/Chrome-Browser-Update-Feb-2022.pdf](/uploads/Chrome-Browser-Update-Feb-2022.pdf)
+**Leader:** Ryan Dickson (Google Chrome)  
+**Minutes:** Ben Wilson (Mozilla)  
+**Presentation:** [/uploads/Chrome-Browser-Update-Feb-2022.pdf](/uploads/Chrome-Browser-Update-Feb-2022.pdf)  
 
 Google is working on the Chrome Root Program with another launch planned for later this summer. The Program is going through iterations and growth, before then and after, too. With regard to Governance Aspects, Google is updating the root program policy and currently clarifying the policy details. With regard to Technical Aspects, Google is working in the CCADB to streamline processes. Incident management processes are being developed. Also working on optimization, which is a long term goal.
 
@@ -108,8 +108,8 @@ Certificate Transparency – Chrome 100 – new policy on number of logs and SCT
 
 ### Apple Root Program Update
 
-**Leader:** Clint Wilson (Apple)
-**Minutes:** Jos Purvis
+**Leader:** Clint Wilson (Apple)  
+**Minutes:** Jos Purvis  
 
 #### Updated Root Program Policy
 
@@ -134,8 +134,8 @@ _No questions_
 
 ### Microsoft Root Program Update
 
-**Leader:** Karina Sirota (Microsoft)
-**Minutes:** Tim Hollebeek (DigiCert)
+**Leader:** Karina Sirota (Microsoft)  
+**Minutes:** Tim Hollebeek (DigiCert)  
 
 Microsoft is doing an end-to-end process review of every way CAs interact with their system and program.
 
@@ -147,14 +147,14 @@ No questions.
 
 ### Guest Speaker
 
-**Presenter:** Dr. Peter Thomassen, SSE / deSEC
-**Presentation:** [PSL Access as a Service](/uploads/2022-02-22_ca_b_forum_psl_access_as_a_service.pdf)
+**Presenter:** Dr. Peter Thomassen, SSE / deSEC  
+**Presentation:** [PSL Access as a Service](/uploads/2022-02-22_ca_b_forum_psl_access_as_a_service.pdf)  
 
 ### CCADB Update
 
-**Leader:** Kathleen Wilson (Mozilla)
-**Minutes:** Corey Bonnell
-**Presentation:** [/uploads/2022-February-CCADB-News-for-CABF-F2F.pdf](/uploads/2022-February-CCADB-News-for-CABF-F2F.pdf)
+**Leader:** Kathleen Wilson (Mozilla)  
+**Minutes:** Corey Bonnell  
+**Presentation:** [/uploads/2022-February-CCADB-News-for-CABF-F2F.pdf](/uploads/2022-February-CCADB-News-for-CABF-F2F.pdf)  
 
 CCADB Policy Updates
 
@@ -186,8 +186,8 @@ There were no additional questions.
 
 ### ETSI Update
 
-**Leader:** Arno Fiedler (Vice Chair ETSI ESI)
-**Minutes:** Clemens Wanko
+**Leader:** Arno Fiedler (Vice Chair ETSI ESI)  
+**Minutes:** Clemens Wanko  
 
 ETSI standards adopt other standards that have been internationally supported wherever possible, this includes alignment of ETSI standards for website authentication certificates (QWACs) with CAB Forum guidelines
 
@@ -201,8 +201,8 @@ Update on TS 119 403-2 V1.2.4 (2020-11): Part 2: Additional requirements for Con
 
 ### ACAB’c Update
 
-**Leader:** Clemens Wanko (TÜV AUSTRIA)
-**Minutes:** Arno Fiedler
+**Leader:** Clemens Wanko (TÜV AUSTRIA)  
+**Minutes:** Arno Fiedler  
 
 ## Council Membership
 
@@ -240,7 +240,7 @@ Additional new rules are expected to become mandatory for CA/TSP under eIDAS 2.0
 
 – technical/process trustworthy systems and products (eIDAS Article 24 No. 5)
 
-**Note:** there are no news so far with regard to further treatment of QWACS (acceptance mandatory for operators/Browsers in the EU?)
+**Note:** there are no news so far with regard to further treatment of QWACS (acceptance mandatory for operators/Browsers in the EU?)  
 
 For further information or in order to register, please contact us at: [www.acab-c.com](http://www.acab-c.com)
 
@@ -461,8 +461,8 @@ People are thinking about COVID going away, but CPA Canada has built the new aud
 
 ### SCWG Review and Plans
 
-**Leader:** Jos Purvis (Cisco)
-**Minutes:** Kati Davids (GoDaddy)
+**Leader:** Jos Purvis (Cisco)  
+**Minutes:** Kati Davids (GoDaddy)  
 
 #### 2021 work
 
@@ -488,8 +488,8 @@ People are thinking about COVID going away, but CPA Canada has built the new aud
 
 ### CSCWG Review and Plans
 
-**Leader:** Bruce Morton (Entrust)
-**Minutes:** Bruce Morton (Entrust)
+**Leader:** Bruce Morton (Entrust)  
+**Minutes:** Bruce Morton (Entrust)  
 
 2021 Progress
 
@@ -511,8 +511,8 @@ People are thinking about COVID going away, but CPA Canada has built the new aud
 
 ### SMCWG Review and Plans
 
-**Leader:** Stephen Davidson (DigiCert)
-**Minutes:** Renee Rodriguez (Apple)
+**Leader:** Stephen Davidson (DigiCert)  
+**Minutes:** Renee Rodriguez (Apple)  
 
 Stephen presented the group accomplishments for 2021 and the goals for 2022. The group did not ask questions or discuss any topics.
 
@@ -538,7 +538,7 @@ While the group charter is similar to other working groups, there are three net 
 
 1. **Learned that an important goal is to prevent negatively affecting other uses cases.** For example, document signing certificates may be affected since the majority of document signing certificates also include the email protection EKU. This is being considered when creating stricter profiles. As a result, the S/MIME group supports creating a draft-ito-documentsigning-eku-00 for eventual separation of S/MIME from document signing (medium to long-term goal)
 
-**NOTE:** Tim H. noted the a draft proposal for the document signing EKU is being discussed in IETF and CAs should participate. As IETF is a consensus body, at a minimum, CAs expressing base support would be helpful.
+**NOTE:** Tim H. noted the a draft proposal for the document signing EKU is being discussed in IETF and CAs should participate. As IETF is a consensus body, at a minimum, CAs expressing base support would be helpful.  
 
 6. **Time was invested on validation methods.** Significant time went to discussion of suitable methods for:
 
@@ -589,8 +589,8 @@ There are also some administrative aspects to consider:
 
 ### NetSec WG Review and Plans
 
-**Leader:** Clint Wilson (Apple)
-**Minutes:** Daniel Jeffery (Fastly)
+**Leader:** Clint Wilson (Apple)  
+**Minutes:** Daniel Jeffery (Fastly)  
 
 - Clint Wilson presented
 - No longer a subcommittee
@@ -623,8 +623,8 @@ There are also some administrative aspects to consider:
 
 ### Infrastructure Subcommittee Review and Plans
 
-**Leader:** Jos Purvis (Cisco)
-**Minutes:** Dustin Hollenback (Microsoft)
+**Leader:** Jos Purvis (Cisco)  
+**Minutes:** Dustin Hollenback (Microsoft)  
 
 #### 2021 Review
 

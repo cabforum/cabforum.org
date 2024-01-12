@@ -36,6 +36,6 @@ with the addition of TrendMicro.
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and one half or more of the votes cast by members in the browser category must be in favour. Also, at least seven members must participate in the ballot, either by voting in favour, voting against or abstaining.
 
-**See:** [Network_Security_Controls_V1][1]
+**See:** [Network_Security_Controls_V1][1]  
 
 [1]: /uploads/Network_Security_Controls_V1.pdf

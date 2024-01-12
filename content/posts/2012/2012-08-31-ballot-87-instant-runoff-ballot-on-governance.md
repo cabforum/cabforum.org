@@ -20,7 +20,7 @@ Ballot 87 – Instant Runoff Ballot on Governance
 
 **Mozilla**: PayPal,DigiCert, Trend, No Change, Microsoft
 
-**StartCom:** TrendMicro, No Change
+**StartCom:** TrendMicro, No Change  
 
 **Trustwave**: PayPal, DigiCert
 

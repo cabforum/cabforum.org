@@ -68,7 +68,7 @@ The Antitrust statement was read. Membership in the SMCWG has grown to 27 certif
 
 **Presenter:** Neil Dunbar (Trustcor)  
 **Note Taker:** Dustin Hollenback (Microsoft)  
-**Presentation:** [/uploads/f2f_52_summary_presentation.pdf][1]  
+**Presentation:** [/uploads/f2f_52_summary_presentation.pdf][1]    
 
 - Near Term Objectives
 - NCSSR language and patching rules are vague
@@ -169,7 +169,7 @@ Jos Purvis: Revocation has been an issue in the industry for a while. Lots of di
 
 **Presenters:** Ryan Sleevi, Devon O’Brien (Google)  
 **Note Taker:** Neil Dunbar (TrustCor)  
-**Presentation:** (note: Green arrows added post-meeting for clarification of the discussion)  
+**Presentation:** (note: Green arrows added post-meeting for clarification of the discussion)    
 
 #### Devon’s update on CT Plans shared to ct-policy@chromium.org Key Points
 
@@ -259,18 +259,18 @@ Mike Reilly (Microsoft): To the testing point, we really want to encourage CAs t
 
 ### Mozilla Root Program Update
 
-**Presenter:** Ben Wilson (Mozilla)  
+**Presenter:** Ben Wilson (Mozilla)    
 **Note Taker:** Clint Wilson (Apple)  
-**Presentation:** https://docs.google.com/document/d/1PLTai4NQuucRvEIRxoV0gK4G5JXh7CbyqJMSO9tZmKw  
+**Presentation:** https://docs.google.com/document/d/1PLTai4NQuucRvEIRxoV0gK4G5JXh7CbyqJMSO9tZmKw    
 **Uploaded as PDF:** </uploads/mozillaupdate-march2021.pdf>  
 
 (No questions were asked following the presentation)
 
 ### CCADB Update
 
-**Presenter:** Kathleen Wilson (Mozilla)  
+**Presenter:** Kathleen Wilson (Mozilla)    
 **Note Taker:** Dimitris Zacharopoulos (HARICA)  
-**Presentation:**  https://docs.google.com/document/d/1wWmhVdVKf7Dflau4ka3_VUo-X8U6mAQgAxVExb9rZxY  
+**Presentation:**  https://docs.google.com/document/d/1wWmhVdVKf7Dflau4ka3_VUo-X8U6mAQgAxVExb9rZxY    
 **Uploaded as PDF:** </uploads/ccadb-news-march2021.pdf>  
 
 - CCADB release notes, includes a summary of updates from November 2020 and on
@@ -284,7 +284,7 @@ Ben: Some audit reports include CA certificate SHA256 hashes on a table which wr
 
 ### Discussion of cabforum.org Website
 
-**Presenter:**  Ben Wilson (Mozilla)  
+**Presenter:**  Ben Wilson (Mozilla)    
 **Note Taker**:  
 
 ## The Server Certificate Working Group was adjourned
@@ -306,7 +306,7 @@ The Antitrust statement was read.
 
 **Presenter:** Arno Fiedler (Vice Chair ETSI ESI) and Nick Pope (Vice Chair ETSI ESI)  
 **Note Taker:** Sebastian Schulz (GlobalSign)  
-**Presentation:** https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:08fa88f2-d955-447e-9233-4bca7dcd75a9
+**Presentation:** https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:08fa88f2-d955-447e-9233-4bca7dcd75a9  
 
 Arno Fiedler makes introduces himself and Nick Pope; Nick Pope begins on the presentation.
 
@@ -341,7 +341,7 @@ In addition to the information in the slides, the following was reported by Clem
 
 **Presenter:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Note Taker:** Andrea Holland (SecureTrust)
-**Presentation:** </uploads/F2F52-WebTrust-Update-March-2021.pdf>
+**Presentation:** </uploads/F2F52-WebTrust-Update-March-2021.pdf>  
 
 #### Items mentioned in addition to slides
 

@@ -12,7 +12,7 @@ type: post
 
 **Antitrust statement** was read by Clint Wilson
 
-**Attendance:** Clint Wilson, Ben Wilson, Dustin Hollenback, Rollin Yu, Tim Crawford, Adam Jones, Corey Rasmussen, Josef Nigut, Wendy Brown, Prachi Jain, Jamie Mackey, and Rebecca Kelley
+**Attendance:** Clint Wilson, Ben Wilson, Dustin Hollenback, Rollin Yu, Tim Crawford, Adam Jones, Corey Rasmussen, Josef Nigut, Wendy Brown, Prachi Jain, Jamie Mackey, and Rebecca Kelley  
 
 1. **Straw Poll** – The straw poll to determine a better meeting time closed on Jan. 2 with 17 votes. Twelve voted against changing the time (only five said that they could still consistently attend the meeting if the time were changed). Clint asked whether the polling period should be extended. Ben suggested that we close the poll and base it on the current information available. Clint will send out the results and see if there are any further discussion on the list.
 

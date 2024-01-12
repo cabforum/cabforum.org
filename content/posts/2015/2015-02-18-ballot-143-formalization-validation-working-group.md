@@ -23,9 +23,9 @@ Jeremy Rowley of DigiCert made the following motion, which was endorsed by Rich 
 
 The CA-Browser Forum formally establishes the Validation Working Group as an official working group of the CAB Forum, replacing the previous informal EV working group. The scope of this working group is to address issues arising under adopted CAB Forum standards related to the validation of certificate information and the inclusion of information in certificates.
 
-**Scope:** The Validation Working Group will consider all matters relating to the validation and inclusion of information in certificates under adopted CAB Forum guidelines.
+**Scope:** The Validation Working Group will consider all matters relating to the validation and inclusion of information in certificates under adopted CAB Forum guidelines.  
 
-**Deliverables:** The Working Group shall produce one or more documents offering options to the Forum for validation within the scope defined above.
+**Deliverables:** The Working Group shall produce one or more documents offering options to the Forum for validation within the scope defined above.  
 
 **Motion Ends**
 

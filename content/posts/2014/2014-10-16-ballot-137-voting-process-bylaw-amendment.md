@@ -22,7 +22,7 @@ Therefore, Ballot 137 passed.
 
 Ben Wilson proposed the following ballot and Moudrick Dadashov of SSC and Dean Coclin of Symantec have endorsed it.
 
-**Reason:** The reason for this ballot is to clarify the election process followed by the Forum in selecting new officers.
+**Reason:** The reason for this ballot is to clarify the election process followed by the Forum in selecting new officers.  
 
 ## - Motion Begins –
 

@@ -30,7 +30,7 @@ The proponents of this ballot believe that this proposed modification to the Bas
 
 **Add to Section 4 Definitions, new item:**
 
-**CAA:** From RFC 6844 (<http:tools.ietf.org/html/rfc6844>): “The Certification Authority Authorization (CAA) DNS Resource Record allows a DNS domain name holder to specify the Certification Authorities (CAs) authorized to issue certificates for that domain. Publication of CAA Resource Records allows a public Certification Authority to implement additional controls to reduce the risk of unintended certificate mis-issue.”
+**CAA:** From RFC 6844 (<http:tools.ietf.org/html/rfc6844>): “The Certification Authority Authorization (CAA) DNS Resource Record allows a DNS domain name holder to specify the Certification Authorities (CAs) authorized to issue certificates for that domain. Publication of CAA Resource Records allows a public Certification Authority to implement additional controls to reduce the risk of unintended certificate mis-issue.”  
 
 **Add the following to the end of Section 8.2.2, Disclosure:**
 

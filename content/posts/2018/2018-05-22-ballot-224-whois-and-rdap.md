@@ -50,7 +50,7 @@ This ballot modifies the “Baseline Requirements for the Issuance and Managemen
 
 In section 1.6.1, add the following definition:
 
-**WHOIS:** information retrieved directly from the Domain Name Registrar or registry operator via the protocol defined in RFC 3912, the Registry Data Access Protocol defined in RFC 7482, or an HTTPS website.
+**WHOIS:** information retrieved directly from the Domain Name Registrar or registry operator via the protocol defined in RFC 3912, the Registry Data Access Protocol defined in RFC 7482, or an HTTPS website.  
 
 In section 1.6.3, add the following references:
 

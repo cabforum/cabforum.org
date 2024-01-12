@@ -60,7 +60,7 @@ Here is a list of major changes:
 
 **Amendment to the Bylaws:** Replace the entire text of the Bylaws of the CA/Browser Forum with the attached version (CA-Browser Forum Bylaws v2.3.pdf).
 
-**NOTE:** There are three redlines
+**NOTE:** There are three redlines  
 
 1. PDF (attached)
 1. DOCX (attached)

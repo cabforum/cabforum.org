@@ -41,7 +41,7 @@ Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones
 
 **Discussion leaders:** Dimitris Zacharopoulos (HARICA), Tim Hollebeek (Digicert)
 
-**Minutes:** Ben Wilson (Mozilla)
+**Minutes:** Ben Wilson (Mozilla)  
 
 \*\*Presentation link: \*\*
 
@@ -63,7 +63,7 @@ Dimitris reviewed proposed bylaw changes.
 
 **Discussion leader:** Ben Wilson (Mozilla)
 
-**Minutes:** Martijn Katerbarg (Sectigo)
+**Minutes:** Martijn Katerbarg (Sectigo)  
 
 \*\*Presentation link: \*\* No presentation
 
@@ -87,7 +87,7 @@ There is consensus on looking into that, but not as a high priority item.
 
 **Presentation by:** Ben Wilson (Mozilla)
 
-**Minutes:** Corey Bonnell (Digicert)
+**Minutes:** Corey Bonnell (Digicert)  
 
 \*\*Presentation link: \*\*
 
@@ -117,7 +117,7 @@ Ben: There is a brief breakdown on the Wiki, but also there is documentation on 
 
 **Presentation by:** Ryan Dickson (Google Chrome)
 
-**Minutes:** Trevoli Ponds-White (Amazon)
+**Minutes:** Trevoli Ponds-White (Amazon)  
 
 **Presentation link:**
 
@@ -129,7 +129,7 @@ THERE WAS ADDITIONAL CONTEXT FROM THE PRESENTATION THAT WAS NOT ON THE SLIDES\_\
 
 **Presentation by:** Clint Wilson (Apple)
 
-**Minutes:** Wayne Thayer (Fastly)
+**Minutes:** Wayne Thayer (Fastly)  
 
 \*\*Presentation link: \*\*
 
@@ -243,7 +243,7 @@ Summary of Clint’s presentation:
 
 **Presentation by:** Karina Sirota (Microsoft)
 
-**Minutes:** Ryan Dickson (Google Chrome)
+**Minutes:** Ryan Dickson (Google Chrome)  
 
 ## Presentation link
 
@@ -295,7 +295,7 @@ Summary of Clint’s presentation:
 
 **Presentation by:** Chris Clements (Google Chrome, on behalf of the CCADB Steering Committee)
 
-**Minutes:** Daryn Wright (GoDaddy)
+**Minutes:** Daryn Wright (GoDaddy)  
 
 **Presentation link:**
 
@@ -338,7 +338,7 @@ No additional discussion.
 
 **Discussion leaders:** Dimitris Zacharopoulos (HARICA), Paul van Brouwershaven (Entrust), Inigo Barreira (Sectigo)
 
-**Minutes:** Ben Wilson (Mozilla)
+**Minutes:** Ben Wilson (Mozilla)  
 
 \*\*Presentation link: \*\*
 
@@ -382,7 +382,7 @@ Inigo said, also, in the case of a “no” decision, we need clear direction on
 
 **Discussion leader:** Clint Wilson (Apple)
 
-**Minutes:** Daryn Wright (GoDaddy)
+**Minutes:** Daryn Wright (GoDaddy)  
 
 ## Presentation link:
 
@@ -408,7 +408,7 @@ _@Others, feel free to chime in if you took personal notes for this section_
 
 **Presentation by:** Nick Pope and Arno Fiedler (Chairs ETSI ESI)
 
-**Minutes:** Clemens Wanko (TÜV AUSTRIA)
+**Minutes:** Clemens Wanko (TÜV AUSTRIA)  
 
 \*\*Presentation link: \*\* [/uploads/14-ETSI-ESI_Standardisation_Update_for_CAB-Forum-03-2023_1.2.pdf][1]
 
@@ -426,7 +426,7 @@ Kathleen Wilson (Mozilla) asked about the timely integration of BRG into ETSI ap
 
 **Presentation by:** Clemens Wanko (TÜV AUSTRIA)
 
-**Minutes:** Nikolaos Soumelidis (QMSCert)
+**Minutes:** Nikolaos Soumelidis (QMSCert)  
 
 **Presentation link:** [https://][2][cabforum.org/uploads/15-CAB-Forum_58_ACAB][2][c_presentation.pdf][2]
 
@@ -458,7 +458,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Presentation by:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)
 
-**Minutes:** Bruce Morton (Entrust)
+**Minutes:** Bruce Morton (Entrust)  
 
 **Presentation link:**
 
@@ -710,7 +710,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Presentation by:** Inigo Barreira (Sectigo)
 
-**Minutes:** Martijn Katerbarg (Sectigo)
+**Minutes:** Martijn Katerbarg (Sectigo)  
 
 \*\*Presentation link: \*\*
 
@@ -736,7 +736,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Presentation by:** Bruce Morton (Entrust)
 
-**Minutes:** Bruce Morton (Entrust)
+**Minutes:** Bruce Morton (Entrust)  
 
 \*\*Presentation link: \*\*
 
@@ -770,7 +770,7 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 **Presentation by:** Stephen Davidson (DigiCert)
 
-**Minutes:** Martijn Katerbarg (Sectigo)
+**Minutes:** Martijn Katerbarg (Sectigo)  
 
 **Presentation link:** [/uploads/19-SMCWG-\_20230101_F2F-Intro.pdf][3]
 
@@ -782,7 +782,7 @@ No discussion outside of presentation bullet points
 
 **Presentation by:** Clint Wilson (Apple)
 
-**Minutes:** Corey Bonnel (Digicert)
+**Minutes:** Corey Bonnel (Digicert)  
 
 \*\*Presentation link: \*\*
 
@@ -814,7 +814,7 @@ Clint: The closest term output is adding the high-level goal descriptions to the
 
 **Presentation by:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
 
-**Minutes:** Wayne Thayer (Fastly)
+**Minutes:** Wayne Thayer (Fastly)  
 
 **Presentation link:** No presentation
 

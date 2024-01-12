@@ -10,7 +10,7 @@ title: 2018-09-06 Minutes of CA/Browser Forum
 type: post
 ---
 
-**Attendees:** Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Bruce Morton (Entrust), Christopher Kemmerer (SSL.com), Corey Bonnell (Trustwave),Daymion Reynolds (GoDaddy), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Geoff Keating (Apple), Jeannie Rissman (Network Solutions), Joanna Fox (GoDaddy), Jos Purvis (Cisco), Ken Myers (Federal PKI), Kirk Hall (Entrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Marcelo Silva (Visa), Michele Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (Trustcor), Peter Miscovic (Disig), Robin Alden (ComodoCA), Ryan Sleevi (Google), Shelley Brewer (DigiCert),Tim Shirley (Trustwave), Tomasz Nowak (Opera),Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (Federal PKI).
+**Attendees:** Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Bruce Morton (Entrust), Christopher Kemmerer (SSL.com), Corey Bonnell (Trustwave),Daymion Reynolds (GoDaddy), Dimitris Zacharopoulos (HARICA), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Geoff Keating (Apple), Jeannie Rissman (Network Solutions), Joanna Fox (GoDaddy), Jos Purvis (Cisco), Ken Myers (Federal PKI), Kirk Hall (Entrust), Li-Chun Chen (Chunghwa Telecom), Mads Henriksveen (BuyPass), Marcelo Silva (Visa), Michele Coon (OATI), Mike Reilly (Microsoft), Neil Dunbar (Trustcor), Peter Miscovic (Disig), Robin Alden (ComodoCA), Ryan Sleevi (Google), Shelley Brewer (DigiCert),Tim Shirley (Trustwave), Tomasz Nowak (Opera),Trevoli Ponds-White (Amazon), Wayne Thayer (Mozilla), Wendy Brown (Federal PKI).  
 
 1. **Roll Call**
 

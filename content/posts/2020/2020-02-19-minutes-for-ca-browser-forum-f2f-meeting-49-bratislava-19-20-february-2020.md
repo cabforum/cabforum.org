@@ -14,7 +14,7 @@ Minutes of the F2F 49 Meeting in Bratislava, Slovakia, 19-20 February 2020
 
 ## CA/B Forum Plenary
 
-**Attendees:** Peter Miškovič, Dean Coclin, Nick France, Arvid Vermote, Dimitris Zacharopoulos, Jeff Ward, Don Sheehy, Clemens Wanko, Ryan Sleevi, Tadahiko Ito, Trevoli Ponds-White, Atsushi Inaba, Chris Bailey, Kirk Hall, Jos Purvis, Clint Wilson, Mike Reilly, Karina Sirota, Arno Fiedler, Mads Henriksveen, Sissel Hoel, Vijay Kumar M, Srinivasan V, Tomas Gustavsson, Mike Kushner, Matthias Wiedenhorst, Dustin Hollenback, Doug Beattie, Wayne Thayer, Corey Bonnell, Joris Minolla, Enrico Entschew, Tobias Josefowitz, Robin Alden, Mariusz Kondratowicz, Neil Dunbar, Jeremy Rowley, Tim Callan, Leo Grove, Thanos Vrachnos, Pedro Fuentes, Anna Sikorska, Paulina Karwowska, Devon O’Brien, Eva Van Steenberge, Nikolaos Soumelidis, J.P. Hamilton, Arnold Essing, Derek Bronson
+**Attendees:** Peter Miškovič, Dean Coclin, Nick France, Arvid Vermote, Dimitris Zacharopoulos, Jeff Ward, Don Sheehy, Clemens Wanko, Ryan Sleevi, Tadahiko Ito, Trevoli Ponds-White, Atsushi Inaba, Chris Bailey, Kirk Hall, Jos Purvis, Clint Wilson, Mike Reilly, Karina Sirota, Arno Fiedler, Mads Henriksveen, Sissel Hoel, Vijay Kumar M, Srinivasan V, Tomas Gustavsson, Mike Kushner, Matthias Wiedenhorst, Dustin Hollenback, Doug Beattie, Wayne Thayer, Corey Bonnell, Joris Minolla, Enrico Entschew, Tobias Josefowitz, Robin Alden, Mariusz Kondratowicz, Neil Dunbar, Jeremy Rowley, Tim Callan, Leo Grove, Thanos Vrachnos, Pedro Fuentes, Anna Sikorska, Paulina Karwowska, Devon O’Brien, Eva Van Steenberge, Nikolaos Soumelidis, J.P. Hamilton, Arnold Essing, Derek Bronson  
 
 ### Approval of Minutes from previous teleconference
 
@@ -252,7 +252,7 @@ _Presentation:_ [Code Signing Formats][2]
 
 ## Server Certificate WG Plenary
 
-**Attendees:** _List identical to CA/B Forum Plenary above_
+**Attendees:** _List identical to CA/B Forum Plenary above_  
 
 ### Approval of SCWG Minutes from last teleconference
 
@@ -591,7 +591,7 @@ _Presentation:_ [Validation Subcommittee Update][10]
 
 # Thursday, 20 February 2020 – Plenary Meeting (Day 2)
 
-**Attendees:** Peter Miškovič, Dean Coclin, Nick France, Arvid Vermote, Dimitris Zacharopoulos, Jeff Ward, Don Sheehy, Clemens Wanko, Tadahiko Ito, Trevoli Ponds-White, Atsushi Inaba, Chris Bailey, Kirk Hall, Jos Purvis, Clint Wilson, Mike Reilly, Karina Sirota, Arno Fiedler, Mads Henriksveen, Sissel Hoel, Vijay Kumar M, Srinivasan V, Tomas Gustavsson, Mike Kushner, Matthias Wiedenhorst, Dustin Hollenback, Doug Beattie, Wayne Thayer, Corey Bonnell, Enrico Entschew, Tobias Josefowitz, Robin Alden Mariusz Kondratowicz, Neil Dunbar, Jeremy Rowley, Tim Callan, Leo Grove, Thanos Vrachnos, Pedro Fuentes, Anna Sikorska, Paulina Karwowska, Eva Van Steenberge, Nikolaos Soumelidis, J.P. Hamilton, Arnold Essing, Derek Bronson, Alesandra Kapinos
+**Attendees:** Peter Miškovič, Dean Coclin, Nick France, Arvid Vermote, Dimitris Zacharopoulos, Jeff Ward, Don Sheehy, Clemens Wanko, Tadahiko Ito, Trevoli Ponds-White, Atsushi Inaba, Chris Bailey, Kirk Hall, Jos Purvis, Clint Wilson, Mike Reilly, Karina Sirota, Arno Fiedler, Mads Henriksveen, Sissel Hoel, Vijay Kumar M, Srinivasan V, Tomas Gustavsson, Mike Kushner, Matthias Wiedenhorst, Dustin Hollenback, Doug Beattie, Wayne Thayer, Corey Bonnell, Enrico Entschew, Tobias Josefowitz, Robin Alden Mariusz Kondratowicz, Neil Dunbar, Jeremy Rowley, Tim Callan, Leo Grove, Thanos Vrachnos, Pedro Fuentes, Anna Sikorska, Paulina Karwowska, Eva Van Steenberge, Nikolaos Soumelidis, J.P. Hamilton, Arnold Essing, Derek Bronson, Alesandra Kapinos  
 
 ## Server Certificate Working Group
 
@@ -845,7 +845,7 @@ We expect that it’s a feature and not a problem. Even it’s a problem we shal
 
 **Dean:** They can not be an OV certificate? It’s interesting because I seen some there are.
 
-**Dimitris:** But not is a QWAC.
+**Dimitris:** But not is a QWAC.  
 
 ### WebTrust Update
 

@@ -23,13 +23,13 @@ Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat –
 
 ### Approval of CABF Minutes from last teleconference
 
-**Leader:** Dimitris Zacharopoulos (HARICA)
+**Leader:** Dimitris Zacharopoulos (HARICA)  
 
 Minutes were approved.
 
 ### Future face to face meeting schedule
 
-**Leader:** Dimitris Zacharopoulos (HARICA)
+**Leader:** Dimitris Zacharopoulos (HARICA)  
 **Presentation link:** [/uploads/1-CABF_Future-meetings.pdf](/uploads/1-CABF_Future-meetings.pdf)
 
 - Spring 2024 meeting will be hosted by eMudhra in New Delhi, India
@@ -40,7 +40,7 @@ Minutes were approved.
 
 ### Forum Infrastructure Subcommittee
 
-**Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
+**Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)  
 
 - *Minutes:*\* Tim Callan (Sectigo)
 - *Presentation link:*\* No presentation
@@ -167,7 +167,7 @@ Open Mic
 
 **Discussion leader:** Dimitris Zacharopoulos (HARICA)
 
-**Minutes:** Dimitris Zacharopoulos (HARICA) & Kiran Tummala (Microsoft)
+**Minutes:** Dimitris Zacharopoulos (HARICA) & Kiran Tummala (Microsoft)  
 
 (Paul): The CABF is usually re-active. We are missing the pro-active work. We usually do not engage in controversial topics where we should be discussing what is making a topic controversial. Try to set goals and what needs to be accomplished. Make documents more readable.
 
@@ -209,7 +209,7 @@ Put on the Agenda at the next F2F Teleconferences for action items.
 
 Guest Speaker
 
-**Presenter:** Rob Brand – Ministry of Economic Affairs and climate Policy (NL)
+**Presenter:** Rob Brand – Ministry of Economic Affairs and climate Policy (NL)  
 
 - *Title:*\* Building Trust, Empowering the Digital Economy – eIDAS Trust Services
 - *Presentation link:*\* [/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf](/uploads/2-Guest-Speaker-231003CABForum-Presentation-NL-v1.0.pdf)
@@ -296,7 +296,7 @@ Presentation Notes:
 
 ### Mozilla Root Program Update
 
-**Leader:** Ben Wilson (Mozilla)
+**Leader:** Ben Wilson (Mozilla)  
 
 - *Minutes:*\* Doug Beattie (Globalsign)
 - *Presentation link:*\* [/uploads/2023-October-Mozilla-Browser-News.pdf](/uploads/2023-October-Mozilla-Browser-News.pdf)
@@ -307,7 +307,7 @@ There were no material discussion beyond what was presented.
 
 ### Google Root Program Update
 
-**Leader:** Chris Clements & Ryan Dickson (Google Chrome)
+**Leader:** Chris Clements & Ryan Dickson (Google Chrome)  
 
 - *Minutes:*\* Stephen Davidson (DigiCert)
 - *Presentation link:*\* [/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf](/uploads/5-CABF-F2F-60-Chrome-Browser-Update.pdf)
@@ -477,7 +477,7 @@ There were no material discussion beyond what was presented.
 
 ### Apple Root Program Update
 
-**Leader:** Clint Wilson (Apple)
+**Leader:** Clint Wilson (Apple)  
 
 - *Minutes:*\* Corey Bonnel (Digicert)
 - *Presentation link:*\* [/uploads/6-2023-October-Apple.pdf](/uploads/6-2023-October-Apple.pdf)
@@ -538,7 +538,7 @@ Clint said that in Q1 or Q2 2024, a preview of an upcoming policy update in Q3 o
 
 ### Microsoft Root Program Update
 
-**Leader:** Hannah Sokol and Nitesh Bakliwal (Microsoft)
+**Leader:** Hannah Sokol and Nitesh Bakliwal (Microsoft)  
 
 - *Minutes:*\* Dean Coclin (Digicert)
 - *Presentation link:*\* [/uploads/7-Microsoft_F2F60_Presentation.pdf](/uploads/7-Microsoft_F2F60_Presentation.pdf)
@@ -561,7 +561,7 @@ They looked at ECDSA but the ROI to implement that isn’t there at this time. M
 
 ### CCADB Update
 
-**Leader:** Ben Wilson (Mozilla, on behalf of the CCADB Steering Committee)
+**Leader:** Ben Wilson (Mozilla, on behalf of the CCADB Steering Committee)  
 
 - *Minutes:*\* Hannah Sokol (Microsoft)
 - *Presentation link:*\* [/uploads/8-CAB-F2F-60-CCADB-Update.pdf](/uploads/8-CAB-F2F-60-CCADB-Update.pdf)
@@ -636,7 +636,7 @@ Clint: More conversation around timing around separation of the root reports. Th
 
 Q&A Root program discussions
 
-**Minutes:** Arvid Vermote (GlobalSign)
+**Minutes:** Arvid Vermote (GlobalSign)  
 
 Question: Are root programs open for CT harmonization?
 
@@ -672,7 +672,7 @@ Chrome: no intent to prohibit it from private PKI / other uses cases, only to re
 
 ### ETSI Update
 
-**Leader:** Nick Pope and Arno Fiedler (Chairs ETSI ESI)
+**Leader:** Nick Pope and Arno Fiedler (Chairs ETSI ESI)  
 
 - *Minutes:*\* Clemens Wanko (TUV AUSTRIA)
 - \*Presentation link:\*\*[/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf](/uploads/10-ETSI-ESI-Activities-CABFORUM2023-10.pdf)
@@ -691,7 +691,7 @@ See slides for further details.
 
 ### ACAB’C Update
 
-**Leader:** Clemens Wanko (TÜV AUSTRIA)
+**Leader:** Clemens Wanko (TÜV AUSTRIA)  
 
 - *Minutes:*\* Arno Fiedler (Vice Chair ETSI ESI)
 - \*Presentation link:\*\*[/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf](/uploads/11-20231003_CAB-Forum_60_ACABc_presentation_V1.4.pdf)
@@ -744,7 +744,7 @@ See slides for further details.
 
 ### WebTrust Update
 
-**Leader:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)
+**Leader:** Tim Crawford, Don Sheehy, Dave Chin, (CPA Canada)  
 
 - *Minutes:*\* Bruce Morton (Entrust)
 - *Presentation link:*\* [/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf](/uploads/12-Webtrust-CABF-update-Oct-2023-New-Format-v4.pdf)
@@ -779,7 +779,7 @@ See slides for further details.
 
 Q&A Audits and Standards
 
-**Minutes:** Kiran Tummala (Microsoft)
+**Minutes:** Kiran Tummala (Microsoft)  
 
 ## ADJURNED Forum Plenary Meeting for Day 1
 
@@ -793,7 +793,7 @@ Aaron Gable – (Let’s Encrypt), Aaron Poulsen – (Amazon), Abhishek Bhat –
 
 ### Definitions and Glossary WG
 
-**Leader:** Tim Hollebeek (DigiCert)
+**Leader:** Tim Hollebeek (DigiCert)  
 
 - *Minutes:*\* Stephen Davidson (DigiCert)
 - *Presentation link:*\* No presentation
@@ -814,7 +814,7 @@ Next steps are to get the charter letter finalized and out for vote. The goal wo
 
 Proof-of-Concept for BR of BRs with requirements Matrix
 
-**Leader:** Paul van Brouwershaven (Entrust)
+**Leader:** Paul van Brouwershaven (Entrust)  
 
 - *Minutes:*\* Tim Callan (Sectigo)
 - *Presentation link:*\* [/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf](/uploads/15-20231004-Proof-of-concept-for-BR-of-BRs.pdf)Paul van Brouwershaven (Entrust)

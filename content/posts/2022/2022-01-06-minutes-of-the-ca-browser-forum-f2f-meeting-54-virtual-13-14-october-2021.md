@@ -27,14 +27,14 @@ No minutes to approve. Dean/Karina will look for the prior meeting minutes and p
 
 ### Future face to face meeting schedule
 
-**Speaker:** Dean Coclin
+**Speaker:** Dean Coclin  
 **Minute Taker:** Dean Coclin
 
 Cisco is unable to host the spring meeting. DigiCert has volunteered to host in March in Salt Lake City, Utah. More details forthcoming as we get closer to the date.
 
 ### Infrastructure WG Recap
 
-**Speaker:** Jos Purvis
+**Speaker:** Jos Purvis  
 **Minute Taker:** Tim Callan
 
 Jos Purvis (Cisco): Ben went through the ballots wiki page He’s created links to process instruction documents. He has worked on and released a couple of flow charts to illustrate the ballot process. This is important to make sure we don’t miss steps. He’s also created swim lanes to identify where we could have someone else take over certain responsibilities. We were waiting for access to route 53 for our DNS cutover. We will be fixing our DNS settings to migrate CABForum over there. GoDaddy has been wonderful in how they have helped CABF in this regard. Adding these setting to AWS is helpful because more people will be able to make changes. This gives us more control and spreads the work better. We also can update the DMARC settings on our email lists to start quarantining email.
@@ -47,7 +47,7 @@ Questions: No questions
 
 **Guest Speaker:** Zane Ma
 
-**Slides:** [cabrowser_forum\_-\_ca_transparency.pdf][1]
+**Slides:** [cabrowser_forum\_-\_ca_transparency.pdf][1]  
 
 ## Wednesday, 13 October 2021 – Server Certificate Working Group Meeting
 
@@ -57,10 +57,10 @@ As marked for the Wednesday meeting session above
 
 ### Mozilla Root Program Update
 
-**Speaker:** Ben Wilson
+**Speaker:** Ben Wilson  
 **Minute Taker:** Devon O’Brien
 
-**Handout:** [cab_forum_october_2021\_-\_mozilla_update.pdf][2]
+**Handout:** [cab_forum_october_2021\_-\_mozilla_update.pdf][2]  
 
 Starting to work through 63 open issues on GitHub concerning the Mozilla Root Store Policy
 
@@ -91,10 +91,10 @@ Other News
 
 ### Google Root Program Update
 
-**Speaker:** Ryan Dickson, Ryan Sleevi
+**Speaker:** Ryan Dickson, Ryan Sleevi  
 **Minute Taker:** Ben Wilson
 
-**Slides:** [cabf_f2f_54_chrome_update.pdf][3]
+**Slides:** [cabf_f2f_54_chrome_update.pdf][3]  
 
 Ryan Dickson was introduced as running Google Root Program. He previously worked in policy with the U.S. DOD and U.S. Federal PKI.
 
@@ -112,10 +112,10 @@ Answer: The process has not changed, so the same process should be followed.
 
 ### Apple Root Program Update
 
-**Speaker:** Clint Wilson
+**Speaker:** Clint Wilson  
 **Minute Taker:** Trevoli Ponds-White
 
-**Presentation:** https://www.apple.com/certificateauthority/ca_program.html
+**Presentation:** https://www.apple.com/certificateauthority/ca_program.html  
 
 Apple is presenting a set of changes to their program. All the changes will have a future effective date. Apple has clarified audit requirements. This shouldn’t be a change just clarifying. If it looks like a change reach out to Apple. They have also clarified compliance requirements related to CP, CPS, and CA/BF standards documents. Previously it was implied but not explicit. Clarified that CAs are expected to maintain up to date contact information in CCADB. CAs are expected to maintain an awareness and accountability related to industry standard development. CAs that pay attention to changes going on in places like the forum tend to be more successful. Introduced a S/MIME Basic Certificate profile. They are interested in beginning technical enforcement or S/MIME certificates. Apple will now require Technically Constrained Certificates be disclosed in CCADB. This is to aid in being able to collect full CRL information for all CAs that chain up to the roots in the program. Added a clarified submission process that now points to the CCADB so that CAs leverage CCADB as the first step. Added incident handling behavior. If CAs are already disclosing this in Mozilla’s Bugzilla then they expect an email to them with a link to that incident at minimum. The effective date overall for the policy is December 1, 2021. April 1, 2022 is the effective date for the S/MIME certificate profile and the date for disclosure of all technically constrained CAs. October 1, 2022 is the effective date for providing the full CRL dataset in CCADB. If a CA has an issue with any of these they should reach out to Apple to discuss concerns so Apple can help them succeed.
 
@@ -133,7 +133,7 @@ Sebastian: As per the recording, I also pointed out that changes to the Root Sto
 
 ### Microsoft Root Program Update
 
-**Speaker:** Karina Sirota
+**Speaker:** Karina Sirota  
 **Minute Taker:** Doug Beattie
 
 _Presentation unavailable_
@@ -159,7 +159,7 @@ For instructions on how to test, please go to https://docs.microsoft.com/en-us/s
 
 ### CCADB Update
 
-**Speaker:** Kathleen Wilson
+**Speaker:** Kathleen Wilson  
 **Minute Taker:** Clint Wilson
 
 CCADB Homepage now includes the CCADB Release Notes. Please use the Root Store email addresses when you have a root store program question. CCADB Support email is specific only to CCADB. CCADB Dashboard is a Bugzilla representation of the full roadmap, bugs, and enhancement requests for CCADB. Use this to track what’s actively being worked on and what’s coming up.
@@ -176,10 +176,10 @@ Q: Are Full CRLs inclusive of Expired and Revoked CAs? A: No
 
 ### ETSI Program Update
 
-**Speaker:** Arno Fiedler
+**Speaker:** Arno Fiedler  
 **Minute Taker:** Matthias Wiedenhorst
 
-**Slides:** [ETSI-ESI_Standardisation_Update_for_CAB-Forum-10-2021.pptx][4]
+**Slides:** [ETSI-ESI_Standardisation_Update_for_CAB-Forum-10-2021.pptx][4]  
 
 ETSI TS 119 461 as a standard on identity proofing has been published. Updated versions of ETSI EN 319 401, 319 411-1, 319 411-2 have been published during summer. Further updates on ETSI EN 319 401 / 411-x / 412-x / 421 are on the agenda. eIDAS 2 ⇒ ETSI has identified the standards that need to be updated or newly created in order to align with the new regulation.
 
@@ -187,7 +187,7 @@ No questions.
 
 ### Acab’c Update
 
-**Speaker:** Matthias Wiedenhorst from TUVIT
+**Speaker:** Matthias Wiedenhorst from TUVIT  
 **Minute Taker:** Arno Fiedler
 
 ETSI auditing will switch back to on site as a default, as soon as travel allows for all standard cases (…new CA, new services, full audits) Updated Audit Attestation Letter (AAL) template conformant to… – ETSI TS 119 403-2 – CA/B Forum requirements and – Browser Root Store Programs is available for download here: https://www.acab-c.com/downloads/
@@ -208,7 +208,7 @@ New Qualified Trust Services
 
 ## Code Signing Certificate Working Group Meeting
 
-**Speaker:** Ian McMillan
+**Speaker:** Ian McMillan  
 **Minute Taker:** Eva Van Steenberge
 
 **Slides and Agenda:** [f2f_54\_-\_cswg_202110_v1.pdf][5]
@@ -459,7 +459,7 @@ SwissSign (Adrian Mueller), Telia Company (Ali Gholami), SecureTrust (Andrea Hol
 
 ### WebTrust Update
 
-**Speaker:** Don Sheehy, Jeff Ward
+**Speaker:** Don Sheehy, Jeff Ward  
 **Minute Taker:** Wayne Thayer
 Don and Jeff presented these slides: [Webtrust-CABF-update-Oct-2021.pdf][6]
 
@@ -469,7 +469,7 @@ There were no additional questions.
 
 ### Guest topic: News about qualified certificates for website authentication
 
-**Speaker:** Enrico Entschew
+**Speaker:** Enrico Entschew  
 
 _MINUTES NOTE: The CA/Browser Forum does not take any official position on the adoption or use of QWACs, which are an EU-specific project. This presentation is given as an informative update on TLS developments for CABF members, and does not represent an endorsement or position on the part of the CA/Browser Forum._
 
@@ -477,7 +477,7 @@ Enrico presented these slides: [20211014-ca-b-forum-entschew.pdf][7]
 
 ### Guest presentation: Designing the new eIDAS 2 browser UI
 
-**Speaker:** Chris Bailey
+**Speaker:** Chris Bailey  
 
 _MINUTES NOTE: The CA/Browser Forum does not take any official position on the presentation of QWACs for the eIDAS project, as QWACs and eIDAS are EU-specific projects. This presentation is given as an informative update on TLS developments for CABF members, and does not represent an endorsement or position on the part of the CA/Browser Forum._
 
@@ -485,7 +485,7 @@ Chris presented these slides: [05_chris-bailey_20210900-ca-day-designing-the-new
 
 ### Understanding Requirements for Legacy CA Certificates
 
-**Speaker:** Tim Callan
+**Speaker:** Tim Callan  
 **Minute Taker:** Clint Wilson
 
 A recent bug resulted in a conclusion regarding treatment of Legacy CA Certificates that was surprising, so wanted to discuss with the group what the potential implications are.

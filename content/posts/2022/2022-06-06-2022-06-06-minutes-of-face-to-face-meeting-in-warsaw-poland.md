@@ -22,31 +22,31 @@ Dean Coclin, Corey Bonnell, Aleksandra Kurosz, Dustin Hollenback, Ben Wilson, Cl
 
 ## Approval of CABF Minutes from last teleconference
 
-**Leader:** Dean Coclin (Digicert)
-**Minutes:** Approval was postponed so members can have time to review the minutes which were posted late.
+**Leader:** Dean Coclin (Digicert)  
+**Minutes:** Approval was postponed so members can have time to review the minutes which were posted late.  
 
 ## Future face to face meeting schedule, fall election discussion, working group chairs
 
-**Leader:** Dean Coclin (Chair)
+**Leader:** Dean Coclin (Chair)  
 
 Presentation: [Forum Election Summary][1]
 
-**Minutes:** Volunteers were requested for 2023 meeting hosts. Interested parties should contact Dean. A discussion around the fall election and the allowance of WG chairs to be re-elected as the WG charter is vague in that regard. Tim and Dimitris believe the Forum charter should be revised to specifically allow this. Tim to draft revised language.
+**Minutes:** Volunteers were requested for 2023 meeting hosts. Interested parties should contact Dean. A discussion around the fall election and the allowance of WG chairs to be re-elected as the WG charter is vague in that regard. Tim and Dimitris believe the Forum charter should be revised to specifically allow this. Tim to draft revised language.  
 
 ## Browser Updates
 
 ### Mozilla Root Program Update
 
-**Leader:** Ben Wilson (Mozilla)
-**Minutes:** Dimitris Zacharopoulos (HARICA)
+**Leader:** Ben Wilson (Mozilla)  
+**Minutes:** Dimitris Zacharopoulos (HARICA)  
 **Presentation link:** [Browser News – Mozilla][2]
 
 **Discussion outside the presentation:** No additional discussion or questions.
 
 ### Google Root Program Update
 
-**Leader:** Ryan Dickson (Google)
-**Minutes:** Doug Beattie (Globalsign)
+**Leader:** Ryan Dickson (Google)  
+**Minutes:** Doug Beattie (Globalsign)  
 **Presentation link:** [Chrome Browser Update][3]
 
 Ryan’s presentation had these 3 main agenda items; please see the presentation for details.
@@ -89,8 +89,8 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 ### Apple Root Program Update
 
-**Leader:** Clint Wilson (Apple)
-**Minutes:** Dustin Hollenback (Microsoft)
+**Leader:** Clint Wilson (Apple)  
+**Minutes:** Dustin Hollenback (Microsoft)  
 
 ## Presentation link
 
@@ -136,8 +136,8 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 ### Microsoft Root Program Update
 
-**Leader:** Karina Sirota (Microsoft)
-**Minutes:** Martijn Katerbarg (Sectigo)
+**Leader:** Karina Sirota (Microsoft)  
+**Minutes:** Martijn Katerbarg (Sectigo)  
 
 ## Presentation link
 
@@ -165,7 +165,7 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 ## Guest Speaker: Quantum Cryptography
 
-**Presenter:** Robert Poznański (Certum)
+**Presenter:** Robert Poznański (Certum)  
 
 ## Presentation Links
 
@@ -173,8 +173,8 @@ Ryan’s presentation had these 3 main agenda items; please see the presentation
 
 ## Potential Working Group on standardizing terms across the Forum
 
-**Leader:** Clint Wilson (Apple)/Trevoli Ponds-White (Amazon)
-**Minutes:** Stephen Davidson (Digicert)
+**Leader:** Clint Wilson (Apple)/Trevoli Ponds-White (Amazon)  
+**Minutes:** Stephen Davidson (Digicert)  
 
 Defined terms are important. In CABF there are now multiple stds – but sometimes the definitions for the same items are not totally consistent across the stds.
 
@@ -288,18 +288,18 @@ See Day 1 list with the addition of the following: Nick Pope,
 
 ## Continued discussion of Fall elections
 
-**Leader:** Dean Coclin (DigiCert)
+**Leader:** Dean Coclin (DigiCert)  
 
-**Presentation:** [Forum Election Summary][1]
+**Presentation:** [Forum Election Summary][1]  
 
-**Minutes:** Tim to propose a ballot and will decide if re-elections will be allowed for Forum Chairs.
+**Minutes:** Tim to propose a ballot and will decide if re-elections will be allowed for Forum Chairs.  
 
 ## Audit Updates
 
 ### ETSI Update
 
-**Leader:** Nick Pope (Vice Chair ETSI ESI)
-**Minutes:** Clemens Wanko (TUV AUSTRIA)
+**Leader:** Nick Pope (Vice Chair ETSI ESI)  
+**Minutes:** Clemens Wanko (TUV AUSTRIA)  
 
 ## Presentation link
 
@@ -319,8 +319,8 @@ ETSI already identified 40 requirements resulting from eIDAS 2 which are covered
 
 ### ACAB’C Update
 
-**Leader:** Clemens Wanko (TÜV AUSTRIA)
-**Minutes:** Andreas Henschel (D-TRUST)
+**Leader:** Clemens Wanko (TÜV AUSTRIA)  
+**Minutes:** Andreas Henschel (D-TRUST)  
 
 ## Presentation link
 
@@ -338,8 +338,8 @@ Dimitris – there will be a two year transition from the date the directive com
 
 ### WebTrust Update
 
-**Leader:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
-**Minutes:** Ben Wilson
+**Leader:** Jeff Ward (BDO), Don Sheehy (CPA Canada)  
+**Minutes:** Ben Wilson  
 **Presentation link:** [Webtrust for CA Update][5]
 
 Jeff: Reviewed Slide 2 – Outline of Discussion Topics
@@ -380,8 +380,8 @@ Leader: Dean Coclin (DigiCert) Minutes: [See attached presentation][1]
 
 ### Server Certificate Working Group (SCWG)
 
-**Leader:** Doug Beattie (GlobalSign), Vice-Chair, SCWG
-**Minutes:** Aneta Wojtczak (Microsoft)
+**Leader:** Doug Beattie (GlobalSign), Vice-Chair, SCWG  
+**Minutes:** Aneta Wojtczak (Microsoft)  
 
 Accomplishments since last F2F:
 
@@ -407,8 +407,8 @@ There was some discussion about EV guidelines regarding “3-second rule” for 
 
 ### Code-Signing Certificate Working Group (CSCWG)
 
-**Leader:** Bruce Morton (Entrust)
-**Minutes:** Bruce Morton
+**Leader:** Bruce Morton (Entrust)  
+**Minutes:** Bruce Morton  
 
 Since the last F2F meeting in February 2022, we have passed two ballots to cover the following:
 
@@ -425,8 +425,8 @@ Now that the format ballot is done, we will move ahead with ballots to address t
 
 ### S/MIME Certificate Working Group (SMCWG)
 
-**Leader:** Mads Henriksveen (BuyPass)
-**Minutes:** Stephen Davidson (DigiCert)
+**Leader:** Mads Henriksveen (BuyPass)  
+**Minutes:** Stephen Davidson (DigiCert)  
 
 Draft is complete! https://github.com/cabforum/smime/blob/preSBR/SBR.md
 
@@ -447,8 +447,8 @@ Target to move to ballot at end of summer!
 
 ### Network Security Working Group (NETSECWG)
 
-**Leader:** Clint Wilson (Apple)
-**Minutes:** Adam Jones (Microsoft)
+**Leader:** Clint Wilson (Apple)  
+**Minutes:** Adam Jones (Microsoft)  
 
 - Focus and Simplify NSRs – Targeting requirements unique to Web PKI
 - GitHub for issue tracking
@@ -468,8 +468,8 @@ Target to move to ballot at end of summer!
 
 ### Infrastructure Subcommittee
 
-**Leader:** Ben Wilson (Mozilla), Vice-Chair, Infrastructure Subcommittee
-**Minutes:** Martijn Katerbarg
+**Leader:** Ben Wilson (Mozilla), Vice-Chair, Infrastructure Subcommittee  
+**Minutes:** Martijn Katerbarg  
 
 Quick demo of the new member application was given. Forum hosts and WG Chairs have been asked to register meetings and attendees in the new system for testing. The hope is to get this towards production use by the next F2F.
 
@@ -515,7 +515,7 @@ See Day 1 with the addition of the following: Attila Rozgonyi (Guest)
 
 ## Approval of CABF Minutes from last teleconference
 
-**Leader:** Dean Coclin (Digicert)
+**Leader:** Dean Coclin (Digicert)  
 
 ## Minutes
 
@@ -525,8 +525,8 @@ Minutes approved from last 2 teleconferences
 
 ## Antitrust Statement, Assign Minute Taking, Approval of SCWG Minutes from last teleconference
 
-**Leader:** Doug Beattie (GlobalSign)
-**Minutes:** Martijn Katerbarg (Sectigo)
+**Leader:** Doug Beattie (GlobalSign)  
+**Minutes:** Martijn Katerbarg (Sectigo)  
 
 Antitrust statement was read
 
@@ -544,8 +544,8 @@ The agenda is presented by Doug
 
 ### Validation subcommittee
 
-**Leaders:** Corey Bonnell (DigiCert)
-**Minutes:** Martijn Katerbarg (Sectigo)
+**Leaders:** Corey Bonnell (DigiCert)  
+**Minutes:** Martijn Katerbarg (Sectigo)  
 **Presentation link:** http://lists.cabforum.org/pipermail/validation/attachments/20220608/ea4bb526/attachment-0001.pdf
 
 #### Agenda

@@ -163,21 +163,21 @@ Gordon and Karina from Microsoft are here so people can meet them.
 
 Doing an end-to-end scrub of all roots including EKUs, risk ranking, contract requirements, and so on. Will be reaching out with questions and concerns.
 
-_Chris:_ How are risk rankings determined? Audit status, on latest contract, ability to meet requirements, discussions in public forums, unresponsiveness.
+_Chris:_ How are risk rankings determined? Audit status, on latest contract, ability to meet requirements, discussions in public forums, unresponsiveness.    
 
-_Mike:_ Still have ~24 people on the 2007 contract, everyone needs to move to 2015 contract.
+_Mike:_ Still have ~24 people on the 2007 contract, everyone needs to move to 2015 contract.    
 
 Continuing to try to increased use of automation, driven by Gordon.
 
-_Doug:_ Mozilla has a pretty open process for policy development, does Microsoft have any such plans? Also, some terms in the Microsoft policy are confusing, how to get updates?
+_Doug:_ Mozilla has a pretty open process for policy development, does Microsoft have any such plans? Also, some terms in the Microsoft policy are confusing, how to get updates?    
 
-_Mike:_ No plans to have a collaborative feedback on policy planning, but will share through CABF what changes might be coming. Send a note to MSROOT about things you find confusing, and if there are common misunderstandings or things that are unclear, they will be fixed.
+_Mike:_ No plans to have a collaborative feedback on policy planning, but will share through CABF what changes might be coming. Send a note to MSROOT about things you find confusing, and if there are common misunderstandings or things that are unclear, they will be fixed.    
 
 #### Google
 
 _**Note Taker: Robin**_
 
-_Ryan:_ Contact information. There is a CCADB blast in your mailbox. The email address to contact us for the root program is chrome-root-authority-program@google.com. Please do not email individuals for root program issues as an email could be missed or the individual may be away from work.
+_Ryan:_ Contact information. There is a CCADB blast in your mailbox. The email address to contact us for the root program is chrome-root-authority-program@google.com. Please do not email individuals for root program issues as an email could be missed or the individual may be away from work.    
 
 **Certificate validation:**
 **SYMANTEC** – Chrome 65 is no longer trusting certificates from legacy roots issued after December 2017. Chrome 65 is out today. Chrome 66 will be out Mar 16, removing trust for SYMC certificates issued before June 1, 2016. Common-name matching that was enabling for Enterprise use – this feature is being removed in Chrome 66. 825 days lifetime will be ENFORCED at 825 days (measured in seconds). Chrome 66 also blocks certificates issued with valid_from in the future.
@@ -199,16 +199,16 @@ Since we added sharded logs for CT, operators have asked for shard groups. We ar
 
 Finally, the last CT policy day was in November 2017. Followup will be summer/fall 2018, after the 2018 CT enforcement date so we can tweak policy from lessons learned. Attend if you have things to say!
 
-_Q:_ Roots removed from chrome store – what does that mean?
-_A:_ If a root is removed from public trust, but added back as an enterprise root, (e.g. Equifax root) if we encounter a chain that has been buit in that way, we will treat it as if it were publicly trusted.
+_Q:_ Roots removed from chrome store – what does that mean?    
+_A:_ If a root is removed from public trust, but added back as an enterprise root, (e.g. Equifax root) if we encounter a chain that has been buit in that way, we will treat it as if it were publicly trusted.    
 Chrome used to have an issue where an enterprise root signed a publicly trusted root, (J&J do this), we used to treat it as an enterprise root.
 
 1024 bit is a special case, because some users in (e.g.) India struggle to get authroot updates.SHA-1 – we have an enterprise policy which enables it. – but if it transits a public trust anchor (identified by SPKI) then we apply rules as if public.
 
-_Q:_ Where is there a list of public trust SPKIs.
-_A:_ I have a lovely json doc in the Chrome source tree.
-_Q:_ There is a single unified set across all platforms?
-_A:_ Correct, in Chrome 65 and earlier it was based on local config & platform.
+_Q:_ Where is there a list of public trust SPKIs.    
+_A:_ I have a lovely json doc in the Chrome source tree.    
+_Q:_ There is a single unified set across all platforms?    
+_A:_ Correct, in Chrome 65 and earlier it was based on local config & platform.    
 from Chrome 66 it is based on a single list. (with meta-data relating to platforms)
 
 #### Apple
@@ -282,7 +282,7 @@ Dimitris said that we need this information from all the browsers in the Forum.
 
 _**Note Taker: Cecilia**_
 
-**History:** Governance Change Working Group was formed after Ballot 165 passed. The goal of this group was to:
+**History:** Governance Change Working Group was formed after Ballot 165 passed. The goal of this group was to:  
 
 1. Revise the scope of what the forum should work on.
 1. Change IPR policy
@@ -308,7 +308,7 @@ They are trying to address the critical ones first. If categorized as important 
 
 _**Note Taker: Chris K.**_
 
-**Presenters:** Ben Wilson, Dimitris Zacharopoulos
+**Presenters:** Ben Wilson, Dimitris Zacharopoulos  
 
 The group’s primary focus to date has been to review and disambiguate use of the phrase “Certificate Authority” and where required replace this with “Trust Service Provider” (where “CA” refers to a certificate authority’s people and/or processes and “TSP” to the legal entity that operates the CA (“a distinction that is needed”).
 
@@ -320,7 +320,7 @@ The latest email from the WG (of Feb 23d) includes a RFC and a link to the [Git
 
 _**Note Taker: Tim Shirley**_
 
-**Presenters:** Ben Wilson, Dimitris Zacharopoulos
+**Presenters:** Ben Wilson, Dimitris Zacharopoulos  
 
 Good progress from the morning discussion; discussed where we are and how we got here. A sub-group is doing thread analysis of root CA systems and identifying compensating controls. Seeking feedback from forum if thread analysis process is a good one to use in the future.
 
@@ -332,7 +332,7 @@ Kirk asked what the plan is to do next, after completing these “bites”. Ben 
 
 _**Note Taker: Neil Dunbar**_
 
-**Speaker:** Tim Hollenbeek
+**Speaker:** Tim Hollenbeek  
 
 Validation WG Summit yesterday. Surprised, and pleased, to see many of the methods coming under scrutiny, hence a desire to critically appraise the validation methods, towards improvement, or removal.
 
@@ -415,21 +415,21 @@ _**Note Taker: Robin**_
 **219** now in discussion period
 tried to make change with IETF but heard nothing back
 
-_Ryan Sleevi:_ IETF 6844 issues will be addressed at the IETF meet in the next months. We got to 5 different errata last time around to get it right.
+_Ryan Sleevi:_ IETF 6844 issues will be addressed at the IETF meet in the next months. We got to 5 different errata last time around to get it right.    
 
-_Tim Holbeek:_ 6844bis specifically excludes this errata.
+_Tim Holbeek:_ 6844bis specifically excludes this errata.    
 
-_Ryan:_ Is the process of understanding of 6844 ..
+_Ryan:_ Is the process of understanding of 6844 ..    
 
-_Tim:_ I would like them to understand their process is a bit broken.
-_Ryan:_ worth poking the chair.
-_Tim:_ I want to get to know them and let them know there is an entire industry waiting on this.
+_Tim:_ I would like them to understand their process is a bit broken.    
+_Ryan:_ worth poking the chair.    
+_Tim:_ I want to get to know them and let them know there is an entire industry waiting on this.    
 
-_Kirk:_ Is that ballot in the 7 day discussion period?
+_Kirk:_ Is that ballot in the 7 day discussion period?    
 
-_Tim:_ Ballot 216 exists. Maybe we leave the discussion period open until after IETF.
+_Tim:_ Ballot 216 exists. Maybe we leave the discussion period open until after IETF.    
 
-_Ryan:_ Yes, lets talk to the chairs. If we extend a week, let’s Tim and I follow-up.
+_Ryan:_ Yes, lets talk to the chairs. If we extend a week, let’s Tim and I follow-up.    
 
 ### CT implementation issues
 
@@ -475,7 +475,7 @@ _**Note Taker: Ken**_
 
 _**Note Taker: Wayne Thayer**_
 
-**Presenter:** Dimitris
+**Presenter:** Dimitris  
 
 _(Presentation)_
 
@@ -492,35 +492,35 @@ Who is interested in the site / Who is the targeted audience?
 
 _(Discussion)_
 
-_Kirk:_ trying to be topical will result in news that’s always out of date
+_Kirk:_ trying to be topical will result in news that’s always out of date    
 
-_Ryan:_ Given current structure of the CAB Forum, CA information will always be out of date. CCADB provides better incentives for keeping this type of information up to date.
+_Ryan:_ Given current structure of the CAB Forum, CA information will always be out of date. CCADB provides better incentives for keeping this type of information up to date.    
 
-_Tim:_ the website is for participants – CAs, Auditors, and Interested Parties
+_Tim:_ the website is for participants – CAs, Auditors, and Interested Parties    
 
-_Frazier:_ Provide link to CCADB
+_Frazier:_ Provide link to CCADB    
 
-_Ryan:_ Disagree
+_Ryan:_ Disagree    
 
-_Robin:_ Providing links to authoritative sources is fine
+_Robin:_ Providing links to authoritative sources is fine    
 
-_Ryan:_ The link to CCADB isn’t authoritative for all root stores. If you give some information, people expect you to give all information. “Useful links” will grow to be unmanageable.
+_Ryan:_ The link to CCADB isn’t authoritative for all root stores. If you give some information, people expect you to give all information. “Useful links” will grow to be unmanageable.    
 
-_Dimitris:_ Website should contain static information except for primary activities of guidelines, ballots, and minutes.
+_Dimitris:_ Website should contain static information except for primary activities of guidelines, ballots, and minutes.    
 
-_Ryan:_ Suggest allowing members to share whatever information they choose, maintained by the member.
+_Ryan:_ Suggest allowing members to share whatever information they choose, maintained by the member.    
 
-_Dimitris:_ Don’t want to give update access to every member
+_Dimitris:_ Don’t want to give update access to every member    
 
-_Ryan:_ Okay, just give every member a link
+_Ryan:_ Okay, just give every member a link    
 
-_Dimitris:_ Who is the audience? Not auditors.
+_Dimitris:_ Who is the audience? Not auditors.    
 
-_Tim:_ “Participants” are the audience
+_Tim:_ “Participants” are the audience    
 
-_Ryan H:_ Recommend moving from WordPress to [GitHub][10]
+_Ryan H:_ Recommend moving from WordPress to [GitHub][10]    
 
-_Ryan:_ There is an upfront investment that will pay dividends over time
+_Ryan:_ There is an upfront investment that will pay dividends over time    
 
 ## Next steps
 
@@ -529,7 +529,7 @@ _Ryan:_ There is an upfront investment that will pay dividends over time
 - Automate maintenance tasks
 - etc.
 
-**Conclusion:** work toward moving website to [GitHub][10]. Ryan H., Tim, and Wayne offered to help.
+**Conclusion:** work toward moving website to [GitHub][10]. Ryan H., Tim, and Wayne offered to help.  
 
 ### CCADB Update
 

@@ -22,22 +22,22 @@ The Antitrust Statement was read.
 
 #### 1. Approval of CABF Minutes from Oct. 4 call (emailed Oct. 5)
 
-**Presenter:** Kirk Hall, Entrust Datacard
-**Notetaker:** Kirk.
+**Presenter:** Kirk Hall, Entrust Datacard  
+**Notetaker:** Kirk.  
 The draft Minutes were approved, and will be posted to the Public list.
 
 #### 2. Report from Forum Infrastructure Working Group
 
-**Presenter:** Jos Purvis, Cisco
-**Notetaker:** Robin
+**Presenter:** Jos Purvis, Cisco  
+**Notetaker:** Robin  
 The first item discussed by the Forum Infrastructure Working Group was website content management. The website is going to be reconfigured to add sections for each of the working groups. The chair of each working group is going to be responsible for maintaining their own content. The sections will be divided to indicate subcommittees of working groups. We will be adding minutes and ballots for each of the working groups.
 The second item discussed was the wiki. We have an offer from Microsoft to test out SharePoint. We also have a couple of open-source, self-hosted options we can test, so the idea was to test the options. When we have something set up, we’ll migrate over a little bit of data and test and then make a recommendation to the Forum as a whole.
 The third item was document management. We felt there were several different problems. One was identifying the canonical version of the Baseline Requirements. The EV Guidelines and the Network Security document already have defined GitHub as the canonical version. We discussed how to improve the document management workflow for ballots. Tim volunteered to put together a set of instructions on how to get a ballot from idea into GitHub and to the Forum vote. Hopefully in working on the process we’ll identify where we have problems, such as identifying the canonical version of the Baseline Requirements. We discussed whether to use GitHub or Word, but before deciding on a process, we felt that we needed to identify the canonical version first. We also decided that we need to identify the what – “I need a red-line version, I don’t care what format it’s in”, etc.
 
 #### 3. Report on Governance Change, Bylaws Issues: (1) Governance WG or Subcommittee, (2) Review Bylaws Change List
 
-**Presenter:** Jos Purvis, Cisco
-**Notetaker:** Bruce
+**Presenter:** Jos Purvis, Cisco  
+**Notetaker:** Bruce  
 _**Allow the formation of a Bylaws Subcommittee**_
 Ben pointed out that the work of the Forum was compartmentalized into working groups in order to section off IPR scope. In keeping with that, using a Working Group for Governance seems the only way to go. Others agreed after some discussion that IPR is bound at the Working Group level, so there’s minimal IPR coverage for work done purely at the Forum level. This is one objection to subcommittees at the Forum level: that there is minimal IPR coverage for their work, which could expose IP conflicts.
 The group then discussed whether a sub-committee or a Working Group was the right model for this. The concern with a Working Group was two-fold: the additional overhead from the establishment and operation of a Working Group, and the concern with pushing work on Forum-wide issues of the Forum-level Bylaws to a Working Group operating as a peer of the other WGs. There was some debate over whether the Bylaws permit for subcommittees at the Forum level; the result of the discussion was that work would begin on a ballot to clarify the Bylaws to permit subcommittees with specific requirements.
@@ -50,22 +50,22 @@ Tim indicated that a major problem with the Bylaws was a lack of guidance over w
 
 #### 4. Potential Amendments to SCWG Charter
 
-**Presenter:** Tim Hollebeek, DigiCert
-**Notetaker:** Dimitris
+**Presenter:** Tim Hollebeek, DigiCert  
+**Notetaker:** Dimitris  
 This topic was covered by the previous (slot #3) discussion. There was consensus that the current SCWG Charter should be amended to reflect the changes that we would like to see in a CWG template. This review needs to take place along with the review of the Bylaws.
 
 #### 5. Creation of additional Working Groups – Code Signing
 
-**Presenter:** Ben Wilson, DigiCert
-**Notetaker:** Arno
+**Presenter:** Ben Wilson, DigiCert  
+**Notetaker:** Arno  
 Tim had sent the draft charter on 24.04.2018 to the Mailinglist. Previously there were a set of CS guidelines developed, but not adopted by the Forum. Governance reform gives the ability to create a new, chartered working group.
 Ryan S – Regarding scope, it would be good to identify the work in detail and then define the working group.
 Discussion followed on who should participate in a working group and what user agents would be involved.
 
 #### 6. Creation of additional Working Groups – Secure Mail; Other
 
-**Presenter:** Ben Wilson, DigiCert
-**Notetaker:** Kenneth Myers, Protiviti supporting the US Federal PKI
+**Presenter:** Ben Wilson, DigiCert  
+**Notetaker:** Kenneth Myers, Protiviti supporting the US Federal PKI  
 A Secure Email Working Group was first brought up at the London meeting. We understand the multiple types of email clients and the differing types of certificates. It might be a good idea to have it scoped toward a specific application such as a desktop mail client vs a web-based mail client.
 
 - Ryan Sleevi, Google – This has the same pitfalls as the code signing discussion. Secure Mail can also be regionally specific such as a Euro profile based on specific crypto algorithms and extensions. There could be multiple owners of a Secure Email certificate private key such as a person, an organization, or even an application. What is the most pressing issue with Secure Email and I would suggest focus on that. Maybe start with a certificate profile as a first work product and then work on a baseline requirement after that. In addition to specific EKUs and key sizes, what should be the identity validation properties?. In an enterprise RA model, maybe the user doesn’t manage or protect their private key and they are stored in a cloud or a multi-tenant environment.
@@ -97,21 +97,21 @@ The Antitrust Statement was read.
 
 #### 7. Approval of SCWG Minutes from Oct. 4 call (emailed Oct. 5)
 
-**Presenter:** Kirk Hall, Entrust Datacard
-**Notetaker:** Kirk.
+**Presenter:** Kirk Hall, Entrust Datacard  
+**Notetaker:** Kirk.  
 The draft Minutes were approved, and will be posted to the Public list.
 
 #### 8. Opera Root Program Update
 
-**Presenter:** Tomasz Nowak, Opera
-**Notetaker:** Doug
+**Presenter:** Tomasz Nowak, Opera  
+**Notetaker:** Doug  
 
 [CAB Forum 2018-10-17 Opera Root Program Update](/uploads/CAB-Forum-2018-10-17-Opera-Root-Program-Update.pdf)[Download](/uploads/CAB-Forum-2018-10-17-Opera-Root-Program-Update.pdf)
 
 #### 9. Mozilla Root Program Update
 
-**Presenter:** Wayne Thayer, Mozilla
-**Notetaker:** Jos Purvis, Cisco
+**Presenter:** Wayne Thayer, Mozilla  
+**Notetaker:** Jos Purvis, Cisco  
 _The following is the update from Mozilla provided by Wayne Thayer; annotations based on the discussion at the Forum are indicated in italics here._
 
 _**CA Communication**_
@@ -152,27 +152,27 @@ Kathleen recently began a discussion on the mozilla.dev.security.policy list abo
 
 #### 10. Microsoft Root Program Update
 
-**Presenter:** Mike Reilly, Microsoft
-**Notetaker:** Tim
+**Presenter:** Mike Reilly, Microsoft  
+**Notetaker:** Tim  
 
 [Microsoft_CABF_45_Update](/uploads/Microsoft_CABF_45_Update.pdf)[Download](/uploads/Microsoft_CABF_45_Update.pdf)
 
 #### 11. International Adoption of Chinese Cryptography Algorithms – Implementation and Standardization Progress
 
-**Presenter:** Paul Yang, BaishanCloud / Open SSL
+**Presenter:** Paul Yang, BaishanCloud / Open SSL  
 
 [CABTalks](/uploads/CABTalks.pdf)[Download](/uploads/CABTalks.pdf)
 
 #### 12. Introduction and Expectations for Standards and Restrictions for Browsers and Government Websites in China
 
-**Presenter:** Quan Liu, China Electronic Authorization Industry Alliance
+**Presenter:** Quan Liu, China Electronic Authorization Industry Alliance  
 
 [Browser-Support-for-SM2](/uploads/Browser-Support-for-SM2.pdf)[Download](/uploads/Browser-Support-for-SM2.pdf)
 
 #### 13. Google Root Program Update
 
-**Presenter:** Devon O’Brien, Google
-**Notetaker:** Trevoli Ponds-White, Amazon Trust Services
+**Presenter:** Devon O’Brien, Google  
+**Notetaker:** Trevoli Ponds-White, Amazon Trust Services  
 Chrome Security UI – Chrome 70 – will add a Danger icon to HTTP pages Chrome 70 stable will roll out full Symantec distrust over the next few weeks Chrome will deprecate TLS 1.0 and 1.1 in early 2020
 Google intentionally hasn’t made any changes to the policy immediately following the rollout. However, they are now looking at some potential upcoming changes such as:
 
@@ -182,8 +182,8 @@ Google intentionally hasn’t made any changes to the policy immediately followi
 
 #### 14. Cisco Systems Root Program Update
 
-**Presenter:** Jos Purvis, Cisco
-**Notetaker:** JP Hamilton, Cisco
+**Presenter:** Jos Purvis, Cisco  
+**Notetaker:** JP Hamilton, Cisco  
 Jos gave an overview of Cisco’s Root Store Trust-bundles. The slides presented can be found in the attached presentation (Cisco CABF Trust Store Update – October 2019.pdf). In short, Cisco presented on the following updates:
 
 - They are continuing their work on converting their current Intersect and Union bundles to CCADB compatibility;
@@ -195,8 +195,8 @@ Jos gave an overview of Cisco’s Root Store Trust-bundles. The slides presented
 
 #### 15. Apple Root Program Update
 
-**Presenter:** Geoff Keating, Apple
-**Notetaker:** Mike
+**Presenter:** Geoff Keating, Apple  
+**Notetaker:** Mike  
 _**CT**_
 
 - TLS certificates issued after Oct 15 must be CT qualified. Needs to have two or more SCTs included in the certificate – Applies to Safari and API endpoints used by Apps
@@ -212,8 +212,8 @@ _**Other Changes**_
 
 #### 16. 360 Root Program Update
 
-**Presenter:** Iñigo Barreira, 360 Group
-**Notetaker:** Ben
+**Presenter:** Iñigo Barreira, 360 Group  
+**Notetaker:** Ben  
 New Policy 1.2 modified the procedure for inclusion and more specific requirements for descriptions of validation methods in a CA’s CP/CPS. This is published by the end of October. There is a new CA applications form.
 New UIs – there is a green lock icon for CAs that are included in the 360 root store. An expired certificate or other error will show a greyed lock icon with a red X. For CAs not included, there is a yellow warning triangle. For poor security there is a red warning triangle.
 Accepted CAs are listed at caprogram.360.cn. A preliminary list is published in October. In November a definitive list will be published.
@@ -224,8 +224,8 @@ A discussion followed about whether a CP/CPS could be updated during an audit. T
 
 #### 17. ETSI Update
 
-**Presenter:** Arno Fiedler, D-Trust; Phillipe Bouchet, ACAB’c
-**Notetaker:** Enrico
+**Presenter:** Arno Fiedler, D-Trust; Phillipe Bouchet, ACAB’c  
+**Notetaker:** Enrico  
 Arno presented an Update on the ETSI Working Group ESI: (Electronic Signatures and Infrastructures)
 ISO 17065 is one of the foundations of the ETSI Certification Policies based audit scheme. Caused by the eIDAS Regulation an European accreditation system is incorporated into the audit scheme. There has been the need over the past few years for a better way to know who is accredited as an auditor for ETSI CP, because ETSI is an official standardization organization that does not oversee audits.
 The accreditation scheme is not person-based, it is accreditation of the auditing body – the Conformity Assessment Body (CAB). The CAB is responsible for the quality and skills of the auditor and the quality of their work. In Europe, at the top level, there is the European Accreditation Authority (http://www.european-accreditation.org). A CAB must conform to the ISO 17065 and must be accredited to audit pursuant to ETSI 319 403. To verify whether the CAB is accredited, you can request its accreditation certificate, and the certificate will need to reference the applicable standards for which the CAB is accredited. ETSI has created a detailed audit check list for auditors who audit CAs, the check list includes more than 300 specific controls. As already reported in London ETSI ESI has created TS 119 403-2 “CABs auditing TSPs that issue PTC, a document that provides additional requirements for CABs auditing TSPs that issue PTC, most of the requirements are based on recommendations by the Browsers. Standards are available for download at http://www.etsi.org/standards-search. The most important standard for this group is EN 319 411-1 . Phillipe reported about the actual tasks of ACAB’C , now an organization that cares about the quality of the auditor, please see the slides for details.
@@ -234,8 +234,8 @@ The accreditation scheme is not person-based, it is accreditation of the auditin
 
 #### 18. WebTrust Update
 
-**Presenter:** Jeff Ward and Don Sheehy, CPA Canada
-**Notetaker:** Kirk
+**Presenter:** Jeff Ward and Don Sheehy, CPA Canada  
+**Notetaker:** Kirk  
 Jeff Ward and Don Sheehy presented an update on the WebTrust for CA’s program
 
 1. **Update covers” Reminder:** History of WebTrust products and the standards / Current status of WebTrust products / reporting / New products – status / New “Lifecycle” reports under development / ISO 21188 analysis/impact / CPA Canada.
@@ -257,8 +257,8 @@ Jeff Ward and Don Sheehy presented an update on the WebTrust for CA’s program
 
 #### 19. Report from SCWG Validation Subcommittee
 
-**Presenter:** Tim Hollebeek, DigiCert
-**Notetaker:** Leo
+**Presenter:** Tim Hollebeek, DigiCert  
+**Notetaker:** Leo  
 
 - Interest has cooled
 - Wait until more concrete interest
@@ -274,8 +274,8 @@ Jeff Ward and Don Sheehy presented an update on the WebTrust for CA’s program
 
 #### 20. Improving validation for identity certificates
 
-**Presenter:** Tim Hollebeek, DigiCert
-**Notetaker:** Daymion
+**Presenter:** Tim Hollebeek, DigiCert  
+**Notetaker:** Daymion  
 
 - Some of the current information sources used for validation are understood to not be reliable.
 - Proposed First Ballot: What can we do to make the CA procedures more transparent?
@@ -293,8 +293,8 @@ Jeff Ward and Don Sheehy presented an update on the WebTrust for CA’s program
 
 #### 21. Report from SCWG Network Security Subcommittee
 
-**Presenter:** Ben Wilson, DigiCert
-**Notetaker:** Robin Alden, Comodo CA
+**Presenter:** Ben Wilson, DigiCert  
+**Notetaker:** Robin Alden, Comodo CA  
 We’ve created a web page for the group on which may be found the charter, and the listserv is the same one we had for the netsec requirements. There are about 9 people on the list and we have marked as moderated anyone who has not signed an IPR agreement. Subscribe on the listserv if you got unsubscribed.
 I sent an email to the SCWG and to the NetSec email list asking them to express their interest if they wanted to participate.
 Also sent instructions on how to subscribe themselves.
@@ -311,8 +311,8 @@ We will have a doodle pool to have the best meeting time, every two weeks. Have 
 
 #### 22. Update on London Protocol
 
-**Presenter:** Chris Bailey, Entrust Datacard
-**Notetaker:** Bruce
+**Presenter:** Chris Bailey, Entrust Datacard  
+**Notetaker:** Bruce  
 Objective of London Protocol is to improve assurance on websites with identity certificates. It is a framework to test new ideas to improve identity and share results with the larger community. Today we are working on 1) Anti-phishing system and 2) Identity collision system.
 Reinforces the distinction between identity websites (OV and EV) and by making them more secure for users than websites encrypted DV certificates.
 Reviewed growth in sites which are deemed dangerous by Google Safe Browsing. Created a table of phishing sites per certificate type based on a total number of certificates (based on Netcraft dataset) of 43 million.
@@ -331,8 +331,8 @@ Ryan asked why there was focus on OV and EV certificates? Specifically, the slid
 
 #### 23. Report on Name Clash Service
 
-**Presenter:** Daymion Reynolds, GoDaddy
-**Notetaker:** Jos
+**Presenter:** Daymion Reynolds, GoDaddy  
+**Notetaker:** Jos  
 In London, Daymion and others had announced a project to analyze CT log data to look for naming collisions in certificates. In this presentation, Daymion described his process for analysis and the conclusions from his research. A collision, for the purpose of his research, was primarily defined as a case where two or more certificates were issued for two completely different identities (that is, two separate organizations) but with matching or confusing certificate values.
 Since the concern in name collisions is particularly significant in EV certificates due to UI issues, he started with EV certificates and focused on the Organization (O), Country (C), State/Region (ST), and serialNumber (SN) fields, initially using data purely from CT logs. To begin, he gathered the entire raw CT log dataset from ten different CT logs, and then parsed the O/C/ST/SN and also the Subject Alternative Name (SAN) fields from each certificate in the log.
 For the O field, he found a great deal of inconsistent formatting such as quotation-mark differences (Deutsche Bank vs “Deutsche Bank”, e.g.) and case differences (INC vs Inc vs inc, e.g.) that required some data normalization to parse. The C and ST field, similarly, were very inconsistent in casing, but were also different in standard abbreviations-for example, the use of gb, GB, and UK all to represent the United Kingdom, or the use of Zurich vs Zürich to represent the same city. A member asked whether Daymion reported errors he found; he replied that the dataset naturally includes both misissuances and revoked certificates, which contained the oddest errors in formatting and content. The serialNumber field has no guidance on content in the EV guidelines, so there were a wide variety of different formats for content. He did find a number of certificates (largely revoked or expired) that showed wide inconsistency in value strings even for the same country’s serialNumber values.
@@ -364,13 +364,13 @@ Ryan asked about the core problem these proposals were trying to solve and wheth
 
 #### 24. Potential changes to server certificate issuance processes for increased transparency
 
-**Presenter:** Daymion Reynolds, GoDaddy
-**Notetaker:** Gordon
+**Presenter:** Daymion Reynolds, GoDaddy  
+**Notetaker:** Gordon  
 
 #### 25. Types of audits/reports under WebTrust and their terminology
 
-**Presenter:** Jeff Ward, Don Sheehy
-**Notetaker:** Kirk
+**Presenter:** Jeff Ward, Don Sheehy  
+**Notetaker:** Kirk  
 Jeff Ward presented a summary of the types of audits/reports under WebTrust and their terminology, starting with the reporting lifecycle and finishing with proposals for new detailed reporting.
 
 _**1. WebTrust Reports Available – Full Lifecycle**_
@@ -492,8 +492,8 @@ The path forward:
 
 #### 26. Types of audits/reports under ETSI and their terminology
 
-**Presenter:** Clemens Wanko, ACAB’c
-**Notetaker:** Phillipe
+**Presenter:** Clemens Wanko, ACAB’c  
+**Notetaker:** Phillipe  
 
 [Presentation of ETSI Life Cycle Coverage](/uploads/2018-10-17-CABFORUM_Shanghai_Thursday_ETSI_Clemens_Wanko.pdf)[Download](/uploads/2018-10-17-CABFORUM_Shanghai_Thursday_ETSI_Clemens_Wanko.pdf)
 
@@ -501,8 +501,8 @@ The path forward:
 
 #### 27. Discussion of current state of audits and membership requirements
 
-**Presenter:** Ryan Sleevi, Google
-**Notetaker:** Ben
+**Presenter:** Ryan Sleevi, Google  
+**Notetaker:** Ben  
 _**Audit Requirements**_
 What’s wrong with audit requirements, the bylaws, etc.
 _**28. Background**_
@@ -535,8 +535,8 @@ Ryan: do we have as a priority specificity or transparency? Which of the SOC-typ
 
 #### 28. Audit requirements over the lifecycle of a root
 
-**Presenter:** Wayne Thayer, Mozilla
-**Notetaker:** Ryan
+**Presenter:** Wayne Thayer, Mozilla  
+**Notetaker:** Ryan  
 Wayne described the problem as one where both new and existing CAs are having trouble finding the right documentation to provide. Examples include preparing a new root certificate for an inclusion request or ‘retiring’ a root in which no new certificates are being issued, but the CA desires the existing roots to be remain functional.
 He then presented (Slide 3) a host of events that can occur during a CA’s operational cycle and which may have influence on the audits and reports in the BRs (slide 4), and different Root Programs requirements around those roots (Slide 5, 6).
 This led to various questions for the attendees (Slide 7). The discussion of “Publicly Trusted” circled around two options – one in which it was when it’s included in at least one root program member, the other by virtue of it being issued by that root. The CA has to provide the sample certificates for compatibility testing before they can be in any program, so do they count or not? Ryan suggested that they should count, since the other definition creates a post-dating issue. Anything issued

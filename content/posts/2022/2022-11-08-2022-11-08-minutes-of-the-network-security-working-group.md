@@ -11,7 +11,7 @@ type: post
 ---
 
 CA/Browser Forum NetSec Meeting
-**Attendance:** Adam Jones – Microsoft; Aaron Poulsen – Amazon Trust Services; Ben Wilson – Mozilla; Clint Wilson – Apple; Corey Rasmussen – OATI; David Kluge – Google; Joanna Fox – TrustCor; Marcelo Silva – Visa; Paul van Brouwershaven – Entrust; Pedro Fuentes – OISTE; Prachi Jain – Fastly; Rebecca Kelley – Apple; Ruben Annemans – GlobalSign; Tim Crawford – BDO; Tobias Josefowitz – Opera
+**Attendance:** Adam Jones – Microsoft; Aaron Poulsen – Amazon Trust Services; Ben Wilson – Mozilla; Clint Wilson – Apple; Corey Rasmussen – OATI; David Kluge – Google; Joanna Fox – TrustCor; Marcelo Silva – Visa; Paul van Brouwershaven – Entrust; Pedro Fuentes – OISTE; Prachi Jain – Fastly; Rebecca Kelley – Apple; Ruben Annemans – GlobalSign; Tim Crawford – BDO; Tobias Josefowitz – Opera  
 
 ## Minutes
 

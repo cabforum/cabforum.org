@@ -20,13 +20,13 @@ Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Adri
 
 ### Approval of CABF Minutes from last teleconference
 
-**Leader:** Dean Coclin (Digicert)
+**Leader:** Dean Coclin (Digicert)  
 
 Prior minutes were not prepared and will be sent to the list for approval at the next meeting.
 
 ### Future face to face meeting schedule, fall election results, new working group chairs/vice chairs
 
-**Leader:** Dean Coclin (Digicert)
+**Leader:** Dean Coclin (Digicert)  
 
 - *Presentation link:*\*
 
@@ -42,7 +42,7 @@ A chart with all the new chairs/vice chairs was presented. The only unknown is t
 
 #### Mozilla Root Program Update
 
-**Leader:** Ben Wilson (Mozilla)
+**Leader:** Ben Wilson (Mozilla)  
 
 - *Minutes:*\* Dimitris Zacharopoulos (HARICA)
 - *Presentation link: [Mozilla Root Program Update](/uploads/1-3-2022-October-Mozilla-Update-for-CABF-Berlin-F2F.pdf)*\*
@@ -71,7 +71,7 @@ A chart with all the new chairs/vice chairs was presented. The only unknown is t
 
 #### Google Root Program Update
 
-**Leader:** Ryan Dickson (Google)
+**Leader:** Ryan Dickson (Google)  
 
 - *Minutes:*\* Doug Beattie (Globalsign)
 - *Presentation link: [Chrome Browser Update](/uploads/1-4-CABF-F2F-57-Chrome-Browser-Update.pdf)*\*
@@ -114,7 +114,7 @@ Ryan: Chrome will be asking what automation methods CAs use today. At least 90% 
 
 #### Apple Root Program Update
 
-**Leader:** Clint Wilson (Apple)
+**Leader:** Clint Wilson (Apple)  
 
 - *Minutes:*\* Marcelo Silva (VISA)
 - *Presentation link: [Apple Root Program Update October 2022](/uploads/1-5-2022-october-cabf_wiki-apple.pdf)*\*
@@ -123,7 +123,7 @@ Ryan: Chrome will be asking what automation methods CAs use today. At least 90% 
 
 #### Microsoft Root Program Update
 
-**Leader:** Karina Sirota (Microsoft)
+**Leader:** Karina Sirota (Microsoft)  
 
 - *Minutes:*\* Bruce Morton (Entrust)
 - *Presentation link: [Microsoft Trusted Root Program Update](/uploads/1-6-Microsoft-CABF-57-Update.pdf)*\*
@@ -157,7 +157,7 @@ Ryan: Chrome will be asking what automation methods CAs use today. At least 90% 
 
 ### CCADB Update
 
-**Leader:** Chris Clements and Ryan Dickson (Google)
+**Leader:** Chris Clements and Ryan Dickson (Google)  
 
 - *Minutes:*\* Martijn Katerbarg (Sectigo)
 - *Presentation link: [Common CA Database Update](/uploads/1-7-CAB-F2F-57-CCADB-Update.pdf)*\*
@@ -241,7 +241,7 @@ Ryan: Chrome will be asking what automation methods CAs use today. At least 90% 
 
 ### Updates to Forum web pages
 
-**Leader:** Ben Wilson (Mozilla)
+**Leader:** Ben Wilson (Mozilla)  
 
 - *Minutes:*\* Ryan Dickson (Google)
 - *Presentation link: [CA/Browser Forum Web Pages](/uploads/CABF_WebPages-2022-10.pdf)*\*
@@ -314,7 +314,7 @@ Ryan: Chrome will be asking what automation methods CAs use today. At least 90% 
 
 ## S/MIME Certificate Working Group Meeting
 
-**Leader:** Stephen Davidson (DigiCert)
+**Leader:** Stephen Davidson (DigiCert)  
 
 - *Minutes:*\* Martijn Katerbarg (Sectigo)
 - *Presentation link: [S/MIME Certificate Working Group](/uploads/1-11-smcwg_202201024f2f.pdf)*\*
@@ -331,7 +331,7 @@ Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Adri
 
 ### Potential bylaws changes to election process
 
-**Leader:** Tim Hollebeek (DigiCert)
+**Leader:** Tim Hollebeek (DigiCert)  
 
 - *Minutes:*\* Stephen Davidson (DigiCert)
 - *Presentation: [Election Issues](/uploads/2-1-CABF-Election-Issues.pdf)*\*
@@ -387,7 +387,7 @@ Straw poll – in favor that a WG chair that has hit term limit can run as Vice 
 
 ### Forum use cases for PQC?
 
-**Leader:** Bruce Morton (Entrust)
+**Leader:** Bruce Morton (Entrust)  
 
 - *Minutes:*\* Paul van Brouwershaven (Entrust)
 - *Presentation:*\*
@@ -410,7 +410,7 @@ Straw poll – in favor that a WG chair that has hit term limit can run as Vice 
 
 ### Guest Speaker: “Quantum Cryptography topic”
 
-**Leader:** Dr Manfred Lochter (BSI)
+**Leader:** Dr Manfred Lochter (BSI)  
 
 - *Presentation: [Quantum Safe Cryptography](/uploads/2-3-Browser_Lochter.pdf)*\*
 
@@ -420,7 +420,7 @@ Straw poll – in favor that a WG chair that has hit term limit can run as Vice 
 
 #### ETSI Update
 
-**Leader:** Arno Fiedler (Vice Chair ETSI ESI)
+**Leader:** Arno Fiedler (Vice Chair ETSI ESI)  
 
 - *Minutes:*\* Clemens Wanko (TUV AUSTRIA)
 - *Presentation link: [Update on ETSI ESI standardisation related to Publicly Trusted Certificates](/uploads/2-4-ETSI-ESI_Standardisation_Update_for_CAB-Forum-10-2022.pdf)*\*
@@ -451,7 +451,7 @@ Apart from that ETSI focuses on international alignment of ETSI standards.
 
 #### ACAB’C Update
 
-**Leader:** Clemens Wanko (TÜV AUSTRIA)
+**Leader:** Clemens Wanko (TÜV AUSTRIA)  
 
 - *Minutes:*\* Andreas Henschel (D-TRUST)
 - *Presentation link: [Accredited Conformity Assessment Bodies Council](/uploads/2-5-20221025_ACABc_presentation_1.0.pdf)*\*
@@ -479,7 +479,7 @@ Apart from that ETSI focuses on international alignment of ETSI standards.
 
 #### WebTrust Update
 
-**Leader:** Don Sheehy (CPA Canada)
+**Leader:** Don Sheehy (CPA Canada)  
 
 - *Minutes:*\* Ben Wilson (Mozilla
 - *Presentation link: [Webtrust for CA Update – Berlin](/uploads/2-6-Webtrust-CABFupdate-Oct2022.pdf)*\*
@@ -513,7 +513,7 @@ Slides 24-28 cover CPA Canada’s Webtrust Program. Dave Chin said they are work
 
 #### Server Certificate Working Group (SCWG)
 
-**Leader:** Jos Purvis (Fastly) Chair, SCWG
+**Leader:** Jos Purvis (Fastly) Chair, SCWG  
 
 - *Minutes:*\* Corey Bonnell (Digicert)
 - *Presentation link: [Server Certificate Working Group, 2020-2022 Summary](/uploads/2-8-scwgupdate.pdf)*\*
@@ -522,7 +522,7 @@ Slides 24-28 cover CPA Canada’s Webtrust Program. Dave Chin said they are work
 
 #### Code-Signing Certificate Working Group (CSCWG)
 
-**Leader:** Bruce Morton (Entrust)
+**Leader:** Bruce Morton (Entrust)  
 
 - *Minutes:*\* Dean Coclin (Digicert)
 - *Presentation link: [Code Signing Certificate Working Group, F2F 57](/uploads/2-9-F2F-57-CSWG-202210.pdf)*\*
@@ -541,7 +541,7 @@ Slides 24-28 cover CPA Canada’s Webtrust Program. Dave Chin said they are work
 
 #### S/MIME Certificate Working Group (SMCWG)
 
-**Leader:** Stephen Davidson (DigiCert)
+**Leader:** Stephen Davidson (DigiCert)  
 
 - *Minutes:*\* Mads Henriksveen (BuyPass)
 - *Presentation link: [S/MIME Certificate Working Group, Berlin F2F](/uploads/2-10-smcwg_202201025f2f.pdf)*\*
@@ -550,7 +550,7 @@ Slides 24-28 cover CPA Canada’s Webtrust Program. Dave Chin said they are work
 
 #### Network Security Working Group
 
-**Leader:** Clint Wilson (Apple)
+**Leader:** Clint Wilson (Apple)  
 
 - *Minutes:*\* Chris Kemmerrer (SSL.com)
 - *Presentation link: [Network Security Working Group, October 2022](/uploads/2-11-2022-october-cabf-netsec.pdf)*\*
@@ -559,7 +559,7 @@ Slides 24-28 cover CPA Canada’s Webtrust Program. Dave Chin said they are work
 
 #### Infrastructure Subcommittee
 
-**Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)
+**Leader:** Jos Purvis (Fastly), Ben Wilson (Mozilla)  
 
 - *Minutes:*\* Martijn Katerbarg (Sectigo)
 - *Presentation link: [Infrastructure Subcommittee: F2F Meeting 57 Update](/uploads/2-12-cabf57-infraupdate.pdf)*\*
@@ -568,7 +568,7 @@ Slides 24-28 cover CPA Canada’s Webtrust Program. Dave Chin said they are work
 
 ## CSCWG Meeting
 
-**Leader:** Dean Coclin (DigiCert)
+**Leader:** Dean Coclin (DigiCert)  
 
 - *Minutes:*\* Tim Callan (Sectigo)
 - *Presentation link:*\*
@@ -713,7 +713,7 @@ Aaron Poulsen (Amazon), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Adri
 
 ### Antitrust Statement, Assign Minute Taking, Approval of SCWG Minutes from last teleconference
 
-**Leader:** Jos Purvis (Fastly)
+**Leader:** Jos Purvis (Fastly)  
 
 - *Minutes:*\*
 
@@ -721,7 +721,7 @@ Antitrust statement was read. …
 
 ### Validation Subcommittee
 
-**Leaders:** Corey Bonnell (DigiCert)
+**Leaders:** Corey Bonnell (DigiCert)  
 
 - *Minutes:*\* Chris Clements (Google Chrome)
 - *Presentation link:*\*
@@ -730,7 +730,7 @@ Antitrust statement was read. …
 
 ## Network Security Working Group Meeting
 
-**Presenter:** Clint Wilson (Apple)
+**Presenter:** Clint Wilson (Apple)  
 
 - *Minutes:*\* Ben Wilson (Mozilla) & Rebecca Kelley (Apple)
 - *Presentation link:*\*

@@ -12,7 +12,7 @@ type: post
 
 # Plenary Meeting – Day 1 (Wednesday, 12 June)
 
-**Attendees:** Agnieszka Strelcow (Certum), Aleksandra Kapinos (Certum), Alex Wight (Cisco), Anna Evlogimenou (Athens Stock Exchange), Antonios Eleftheriadis (HARICA), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust), Chen Xiaotong (SHECA), Clemens Wanko (ACAB’c), David Hsiu (KPMG Taiwan), Dean Coclin (DigiCert), Derek Bronson (Amazon Trust Services), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), George Fergadis (HARICA), Huo Haitao (360), Ioannis Kostopoulos (HARICA), Irina Hedea (Deloitte), J.P. Hamilton (Cisco), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), John Balafas (Athens Stock Exchange), Jos Purvis (Cisco), Karina Sirota (Microsoft), Katerina Tsagkalidou (HARICA), Khalid Nasser Bin Kleab (NCDC), Kirk Hall (Entrust Datacard), Leo Grove (SSL.co m), Mariusz Kondratowicz (Opera), Meshal Mohammad Alshahrani (NCDC), Michael Markevich (Opera), Michael Slaughter (Amazon Trust Services), Michal Malinowski (Certum), Mike Agrenius Kushner (PrimeKey), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nathalie Weiler (SwissSign), Nick Naziridis (SSL.com), Nikolaos Soumelidis (QMSCert), Peter Miskovic (Disig), PinJung Chiang (ChungHwa Telecom) , Richard Wang (360 Group), Robin Alden (Sectigo), Ryan Hurst (Google Trust Services), Ryan Sleevi (Google), Scott Rea (DarkMatter), Sissel Hoel (Buypass), Stefan Lautenschlager (D-TRUST), Stephan Wolf (GLEIF), Steve Roylance (Ubisecure Oy), Tadahiko Ito (SECOM), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera), Tom Zermeno (SSL.com), Tomas Gustavsson (PrimeKey), Tony Perez (GoDaddy), Trevoli Ponds-White (Amazon Trust Services), Vijay Kumar (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Xiu Lei (GDCA), Xue Yingjun (State Cryptography Administration).
+**Attendees:** Agnieszka Strelcow (Certum), Aleksandra Kapinos (Certum), Alex Wight (Cisco), Anna Evlogimenou (Athens Stock Exchange), Antonios Eleftheriadis (HARICA), Arno Fiedler (D-TRUST), Atsushi Inaba (GlobalSign), Ben Wilson (DigiCert), Benjamin Gabriel (DarkMatter), Bruce Morton (Entrust), Chen Xiaotong (SHECA), Clemens Wanko (ACAB’c), David Hsiu (KPMG Taiwan), Dean Coclin (DigiCert), Derek Bronson (Amazon Trust Services), Devon O’Brien (Google), Dimitris Zacharopoulos (HARICA), Don Sheehy (WebTrust), Doug Beattie (GlobalSign), Enrico Entschew (D-TRUST), Eva Van Steenberge (GlobalSign), Fotis Loukos (SSL.com), Frank Corday (SecureTrust), Geoff Keating (Apple), George Fergadis (HARICA), Huo Haitao (360), Ioannis Kostopoulos (HARICA), Irina Hedea (Deloitte), J.P. Hamilton (Cisco), Jeff Ward (WebTrust/BDO), Jeremy Rowley (DigiCert), John Balafas (Athens Stock Exchange), Jos Purvis (Cisco), Karina Sirota (Microsoft), Katerina Tsagkalidou (HARICA), Khalid Nasser Bin Kleab (NCDC), Kirk Hall (Entrust Datacard), Leo Grove (SSL.co m), Mariusz Kondratowicz (Opera), Meshal Mohammad Alshahrani (NCDC), Michael Markevich (Opera), Michael Slaughter (Amazon Trust Services), Michal Malinowski (Certum), Mike Agrenius Kushner (PrimeKey), Mike Guenther (SwissSign), Mike Reilly (Microsoft), Nathalie Weiler (SwissSign), Nick Naziridis (SSL.com), Nikolaos Soumelidis (QMSCert), Peter Miskovic (Disig), PinJung Chiang (ChungHwa Telecom) , Richard Wang (360 Group), Robin Alden (Sectigo), Ryan Hurst (Google Trust Services), Ryan Sleevi (Google), Scott Rea (DarkMatter), Sissel Hoel (Buypass), Stefan Lautenschlager (D-TRUST), Stephan Wolf (GLEIF), Steve Roylance (Ubisecure Oy), Tadahiko Ito (SECOM), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tim Shirley (SecureTrust), Timo Schmitt (SwissSign), Tobias Josefowitz (Opera), Tom Zermeno (SSL.com), Tomas Gustavsson (PrimeKey), Tony Perez (GoDaddy), Trevoli Ponds-White (Amazon Trust Services), Vijay Kumar (eMudhra), Wayne Thayer (Mozilla), Wei Yicai (GDCA), Xiu Lei (GDCA), Xue Yingjun (State Cryptography Administration).  
 
 ## Approval of Minutes from previous teleconference
 
@@ -20,8 +20,8 @@ The minutes of the previous teleconference were not distributed for review.
 
 ## The purpose of minutes and expectations from minute-takers
 
-_Presenter:_ Dimitris Zacharopoulos (HARICA)
-_Note Taker:_ Bruce Morton (Entrust Datacard)
+_Presenter:_ Dimitris Zacharopoulos (HARICA)    
+_Note Taker:_ Bruce Morton (Entrust Datacard)    
 
 - Presentation [The purpose of minutes and expectations from minute-takers][1]
 
@@ -54,8 +54,8 @@ Discussion:
 
 ## How to improve F2F minute review and publication timeline
 
-_Presenter:_ Dimitris Zacharopoulos (HARICA)
-_Note Taker:_ Doug Beattie (GlobalSign)
+_Presenter:_ Dimitris Zacharopoulos (HARICA)    
+_Note Taker:_ Doug Beattie (GlobalSign)    
 
 - Presentation: [How to improve F2F minutes review and publication timeline][2]
 
@@ -94,8 +94,8 @@ Ben Wilson (DigiCert): In the event that there are missing sections, we could al
 
 ## Report from Code Signing WG
 
-_Presenter:_ Dean Coclin (Digicert)
-_Note Taker:_ Robin Alden (Sectigo)
+_Presenter:_ Dean Coclin (Digicert)    
+_Note Taker:_ Robin Alden (Sectigo)    
 
 We held a Code Signing Working Group meeting yesterday afternoon.
 The ballot for inclusion of the Code Signing Guidelines has passed.
@@ -107,8 +107,8 @@ We hope this Code Signing document will be adopted as a CABF doc.
 
 ## Report from Forum Infrastructure WG
 
-_Presenter:_ Jos Purvis (Cisco)
-_Note Taker:_ Wayne Thayer (Mozilla)
+_Presenter:_ Jos Purvis (Cisco)    
+_Note Taker:_ Wayne Thayer (Mozilla)    
 
 Jos Purvis of Cisco summarized the Infrastructure WG meeting:
 
@@ -122,8 +122,8 @@ Jos Purvis of Cisco summarized the Infrastructure WG meeting:
 
 ## Creation of Additional Groups – Secure Mail
 
-_Presenters:_ Tim Hollebeek (Digicert), Ben Wilson (Digicert)
-_Note Taker:_ Tom Zermeno (SSL.com)
+_Presenters:_ Tim Hollebeek (Digicert), Ben Wilson (Digicert)    
+_Note Taker:_ Tom Zermeno (SSL.com)    
 
 Presentation: Tim initially reported that there had not been much progress on the S/MIME working group, but that it would be his #1 priority now that SC17 was complete. He then opened the floor for questions.
 
@@ -156,8 +156,8 @@ A quick summary:
 
 ## Report from Quantum Cryptography liason(s)
 
-_Presenters:_ Tim Hollebeek (Digicert), Tadahiko Ito (Secom)
-_Note Taker:_ Jos Purvis (Cisco)
+_Presenters:_ Tim Hollebeek (Digicert), Tadahiko Ito (Secom)    
+_Note Taker:_ Jos Purvis (Cisco)    
 
 Tim presented the updates from various outside bodies on quantum crypto work.
 
@@ -186,26 +186,26 @@ _Three takeaways:_
 ## END PRESENTATION
 
 **Alex Wight, Cisco:** Are there front-runners right now?
-**Tim:** It’s still a very crowded pool; NIST keeps saying this won’t be like AES or SHA-3 with a single winner, they’ll pick multiple in different areas. There are some emerging _back_-runners, but anyone without a weakness is pretty much tied for first.
-**Alex:** The ones I’ve looked at create a state machine to track usage of the private key.
-**Tim:** Some do and some don’t. Most of the NIST ones are stateless; most of the hash-based ones are stateful (which are the simpler ones, better understood, and more usable today).
+**Tim:** It’s still a very crowded pool; NIST keeps saying this won’t be like AES or SHA-3 with a single winner, they’ll pick multiple in different areas. There are some emerging _back_-runners, but anyone without a weakness is pretty much tied for first.  
+**Alex:** The ones I’ve looked at create a state machine to track usage of the private key.  
+**Tim:** Some do and some don’t. Most of the NIST ones are stateless; most of the hash-based ones are stateful (which are the simpler ones, better understood, and more usable today).  
 
 **Dean Coclin, DigiCert:** How many algorithms are there competing?
-**Tim:** Still in the 30s. The number of fatal flaws pointed out is somewhere in the double-digits. We’re starting to see dropouts, but it’s probably another year or two before the big horse race.
+**Tim:** Still in the 30s. The number of fatal flaws pointed out is somewhere in the double-digits. We’re starting to see dropouts, but it’s probably another year or two before the big horse race.  
 
-**Alex:** Will you be creating a mailer on this?
-**Tim:** Unless anyone has a good reason not to, it seems like a good idea.
-**Alex:** Agreed.
+**Alex:** Will you be creating a mailer on this?  
+**Tim:** Unless anyone has a good reason not to, it seems like a good idea.  
+**Alex:** Agreed.  
 
-**Tim:** Is there a precedent for a mailer without a subcommittee?
+**Tim:** Is there a precedent for a mailer without a subcommittee?  
 **Ryan Sleevi, Google:** The suggestion would be to create a subcommittee to cover this, to prevent IPR confusion. We can create it at the Forum level or below (probably doesn’t matter too much), but I suspect the problems in this space may be specific to consuming apps. The trade-offs will be different depending on the usage–e.g., an email message can be larger than a web cert. **Tim:** I think we’ll need a subcommittee at some point, but let’s create a Forum-level for now to avoid fracturing. Create a subcommittee at Forum with disclaimer of no Forum-level IPRs or docs.
 **Ryan Sleevi:** Our new bylaws don’t require that disclosure for Forum-level ones.
-**Tim:** Sounds good! Yay!
+**Tim:** Sounds good! Yay!  
 
 ## Instructions for creating ballots and challenges for moving canonical versions of all Guidelines to GitHub
 
-_Presenter:_ Dimitris Zacharopoulos (HARICA)
-_Note Taker:_ Peter Miskovic (Disig)
+_Presenter:_ Dimitris Zacharopoulos (HARICA)    
+_Note Taker:_ Peter Miskovic (Disig)    
 
 - Presentation: [Instructions for creating ballots and challenges for moving canonical versions of all Guidelines to GitHub][4]
 
@@ -286,8 +286,8 @@ Attendees: Adriano Santoni (Actalis), Agnieszka Strelcow (Certum), Aleksandra Ka
 
 ### 360 Root Program Update
 
-_Presenter:_ Huo Haitao (Halton) (360)
-_Note Taker:_ Enrico Entschew (D-Trust)
+_Presenter:_ Huo Haitao (Halton) (360)    
+_Note Taker:_ Enrico Entschew (D-Trust)    
 
 - Presentation: [360 Root Program Update][5]
 
@@ -378,8 +378,8 @@ Q Wayne has a question about the CA which was rejected due to the RSA 2048 data 
 
 ### Apple Root Program Update
 
-_Presenter:_ Geoff Keating (Apple)
-_Note Taker:_ Mike Reilly (Microsoft)
+_Presenter:_ Geoff Keating (Apple)    
+_Note Taker:_ Mike Reilly (Microsoft)    
 
 - New major OSs
 - iOS 13 (and iPadOS 13)
@@ -426,7 +426,7 @@ _Note Taker:_ Mike Reilly (Microsoft)
 
 ### Cisco Root Program Update
 
-_Presenter:_ Jos Purvis (Cisco)
+_Presenter:_ Jos Purvis (Cisco)    
 _Note taker_: Alex Wight (Cisco)
 
 Presentation: [Cisco CABF 47 Update][9]
@@ -438,8 +438,8 @@ Core Bundle – added AWS Root CAs, in conversations w/Google to add Google’s 
 
 ### Google Root Program Update
 
-_Presenter:_ Devon O’ Brian (Google Chrome)
-_Note Taker:_ Robin Alden (Sectigo)
+_Presenter:_ Devon O’ Brian (Google Chrome)    
+_Note Taker:_ Robin Alden (Sectigo)    
 
 Devon’s presentation is at https://drive.google.com/open?id=1TcLbJlbHhe0Mff57TaZXsghtXdFb5mGB
 
@@ -460,8 +460,8 @@ EV UI may be moving to page info in Chrome 77. The Canary (alpha) release shows 
 
 ### Microsoft Root Program Update
 
-_Presenter:_ Mike Reilly (Microsoft)
-_Note Taker:_ Tim Hollebeek (Digicert)
+_Presenter:_ Mike Reilly (Microsoft)    
+_Note Taker:_ Tim Hollebeek (Digicert)    
 
 - Presentation: [Microsoft Root Program Update][10]
 
@@ -481,8 +481,8 @@ Mike: I run the root store, not Edge. We’re working with that team; those thin
 
 ### Mozilla Root Program Update
 
-_Presenter:_ Wayne Thayer (Mozilla)
-_Note Taker:_ Ryan Sleevi (Google Chrome)
+_Presenter:_ Wayne Thayer (Mozilla)    
+_Note Taker:_ Ryan Sleevi (Google Chrome)    
 
 #### CCADB News
 
@@ -602,7 +602,7 @@ Wayne Thayer: That goes to the third option – post the attachment to the Bugzi
 
 ### Guest Speaker – Use cases for digital certificates with embedded LEIs – current state and potential next steps
 
-_Presenter:_ Stephan Wolf (GLEIF)
+_Presenter:_ Stephan Wolf (GLEIF)    
 
 - Presentation: [Use cases for digital certificates with embedded LEIs – current state and potential next steps][18]
 
@@ -612,8 +612,8 @@ _Presenter:_ Stephan Wolf (GLEIF)
 
 ### ETSI Update
 
-_Presenter:_ Arno Fiedler (ETSI)
-_Note Taker:_ Clemens Wanko (ACAB’c / TUV Austria)
+_Presenter:_ Arno Fiedler (ETSI)    
+_Note Taker:_ Clemens Wanko (ACAB’c / TUV Austria)    
 
 - Presentation: [ETSI Update][19]
 
@@ -632,8 +632,8 @@ There were updates in the following areas:
 
 ### ACAB’c Update
 
-_Presenter:_ Clemens Wanko (ACAB’c / TUV Austria)
-_Note Taker:_ Arno Fiedler (ETSI)
+_Presenter:_ Clemens Wanko (ACAB’c / TUV Austria)    
+_Note Taker:_ Arno Fiedler (ETSI)    
 
 Presentation: [ACAB’c Update][22]
 
@@ -668,8 +668,8 @@ New secretary: Camille Gerbert; camille.gerbert@lsti.eu; +353 (0) 876748511; sec
 
 ### Special Challenges and concerns for Certification Authorities located in Asia
 
-_Presenter:_ Vijay Kumar (eMudhra)
-_Minute Taker:_ Stefan Lautenschlager (D-TRUST)
+_Presenter:_ Vijay Kumar (eMudhra)    
+_Minute Taker:_ Stefan Lautenschlager (D-TRUST)    
 
 _Initial Contributors:_
 
@@ -741,8 +741,8 @@ Then take the code and record its use, otherwise only XX
 
 ### Report from Network Security Subcommittee
 
-_Presenter:_ Ben Wilson (Digicert)
-_Minute Taker:_ Robin Alden (Sectigo)
+_Presenter:_ Ben Wilson (Digicert)    
+_Minute Taker:_ Robin Alden (Sectigo)    
 
 Ben recapped that on Tuesday he had given an introduction of the sub groups of the Network Security Subcommittee.
 
@@ -753,8 +753,8 @@ Ben recapped that on Tuesday he had given an introduction of the sub groups of t
 
 ### Report from Validation Subcommittee
 
-_Presenter:_ Tim Hollebeek (Digicert)
-_Minute Taker:_ Wayne Thayer (Mozilla)
+_Presenter:_ Tim Hollebeek (Digicert)    
+_Minute Taker:_ Wayne Thayer (Mozilla)    
 
 Tim Hollebeek summarized the Validation Subcommittee meeting:
 
@@ -773,8 +773,8 @@ Received feedback on these ideas, and the next step is to take it to the subcomm
 
 ### WebTrust Update
 
-_Presenters:_ Jeff Ward (BDO) & Don Sheehy (CPA Canada)
-_Minute Taker:_ Kirk Hall (Entrust Datacard)
+_Presenters:_ Jeff Ward (BDO) & Don Sheehy (CPA Canada)    
+_Minute Taker:_ Kirk Hall (Entrust Datacard)    
 
 - Presentation: [WebTrust Update][25]
 
@@ -807,8 +807,8 @@ _Minute Taker:_ Kirk Hall (Entrust Datacard)
 
 ### Update on London Protocol
 
-_Presenters:_ Kirk Hall (Entrust Datacard)
-_Minute Taker:_ Kirk Hall (Entrust Datacard)
+_Presenters:_ Kirk Hall (Entrust Datacard)    
+_Minute Taker:_ Kirk Hall (Entrust Datacard)    
 
 Presentation: [Update on London Protocol][27]
 
@@ -846,8 +846,8 @@ Certificate Authority reported issue. Alexa top 100 (updated monthly) Certificat
 
 ### Special Challenges and concerns for Certification Authorities located in Europe
 
-_Presenters:_ Enrico Entschew (D-Trust)
-_Minute Taker:_ Peter Miscovic (Disig)
+_Presenters:_ Enrico Entschew (D-Trust)    
+_Minute Taker:_ Peter Miscovic (Disig)    
 
 - Presentation: [Special Challenges and concerns for Certification Authorities located in Europe][28]
 
@@ -918,8 +918,8 @@ Discussion:
 
 #### Demo of dokuwiki
 
-_Presenters:_ Jos Purvis (Cisco)
-_Minute Taker:_ Dimitris Zacharopoulos (Harica)
+_Presenters:_ Jos Purvis (Cisco)    
+_Minute Taker:_ Dimitris Zacharopoulos (Harica)    
 
 Jos did a quick demo on how to handle attachments and media files in the new dokuwiki. He also presented how users have different access privileges based on access “tags”, depending on their WG membership. For example, only members that have declared participation in the Code Signing Working Group have access to the pages of that Working Group.
 
@@ -937,7 +937,7 @@ Dimitris suggested that there might be an upload limit -say- 2MBs which might pr
 
 #### Formation of Governance Subcommittee
 
-_Minute Taker:_ Jos Purvis (Cisco)
+_Minute Taker:_ Jos Purvis (Cisco)    
 
 Dimitris introduced the concept of creating a Governance subcommittee. Now that the Forum permits subcommittees at the Forum level, it would be good to have a committee focused on the maintenance of the Bylaws, IPR requirements, and other Forum-level documents.
 
