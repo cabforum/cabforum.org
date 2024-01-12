@@ -66,7 +66,7 @@ Ryan said it doesn’t have to be official ballots yet, but draft concrete langu
 
 Tim added that if Entrust wants to propose something it should be soon before the F2F so people can review it and make intelligent comments next week.
 
-Subcommittee minutes:
+Subcommittee minutes: https://lists.cabforum.org/pipermail/validation/2020-October/001570.html
 
 ### 6. NetSec Subcommittee Update
 
@@ -76,7 +76,7 @@ There will be a list of problem statements and approaches to next ballots.
 
 Pain points group concluded most of the immediate pain points that were highlighted into ballot form. They will present more at the F2F meeting.
 
-Subcommittee minutes:
+Subcommittee minutes: https://lists.cabforum.org/pipermail/netsec/2020-October/000407.html
 
 ### 7. Ballot Status
 

@@ -52,9 +52,13 @@ This ballot modifies the “Baseline Requirements for the Issuance and Managemen
 
 MODIFY the Baseline Requirements as defined in the following redline:
 
+https://github.com/cabforum/documents/compare/6b870f92d4788a52c2bbc9d96a1db17751e906b1..884eef6eb4bd96aa41d3380c1450ee0801be2f33
+
 This ballot modifies the “Guidelines for the Issuance and Management of Extended Validation Certificates” (“EV Guidelines”) as follows, based on Version 1.7.3:
 
 MODIFY the EV Guidelines as defined in the following redline:
+
+https://github.com/cabforum/documents/compare/6b870f92d4788a52c2bbc9d96a1db17751e906b1..884eef6eb4bd96aa41d3380c1450ee0801be2f33
 
 ## Motion ends
 
