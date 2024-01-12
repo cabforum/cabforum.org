@@ -20,8 +20,8 @@ The Antitrust statement was read.
 
 ### Report from Code Signing Certificate Working Group
 
-**Presenter:** Bruce Morton (Entrust)
-**Note Taker:** Bruce Morton (Entrust)
+**Presenter:** Bruce Morton (Entrust)  
+**Note Taker:** Bruce Morton (Entrust)  
 
 Moving forward, the CSWG plans to ballot more urgent items, migrate the CSBRs to RFC 3647 format, migrate to CA/Browser Forum new Pandoc version format, and then update CSBRs to reduce confusing requirements. Some issues have been found with references to SSL BRs and SSL EV Guidelines.
 
@@ -41,15 +41,15 @@ Based on ballot CSC-4, there have been a few items to clarify regarding 3072 and
 
 ### Report from S/MIME Certificate Working Group
 
-**Presenter:** Stephen Davidson (Digicert)
-**Note Taker:** Stephen Davidson (Digicert)
+**Presenter:** Stephen Davidson (Digicert)  
+**Note Taker:** Stephen Davidson (Digicert)  
 
 The Antitrust statement was read. Membership in the SMCWG has grown to 27 certificate issuers, 6 certificate consumers, 3 associate members, and 6 interested parties. Since last CABF virtual F2F, the SMCWG has conducted a discussion of leaf certificate profiles, noting existing relevant standards and requirements. This has lead to creation of certificate policy framework that both brings current acceptable practice into an auditable state, and sets longer terms goals such as dedicated S/MIME certs. S/MIME types (mailbox, organization, sponsored, individual) will exist in these grades (legacy, multipurpose, strict). Discussion has also progressed on email verification methods, with a goal of adopting BR methods now but considering additionl automated methods (such as acme-email-smime and acme-sso) in future. The draft of the SMIME BR has been moved to CABF SMIME GitHub, currently as a working draft in a fork of the “PreSBR” branch. As with other CABF standards, we plan on creating new branches for each ballot, and only moving to the “Main” branch upon successful passage of a ballot. Thank you to the Infrastructure Committee! In coming months the SMCWG will seek to finalise the draft leaf certificate profiles and begin documenting the ICA and root CA requirements. Further discussion is required on validity and verification reuse periods.
 
 ### Report from Forum Infrastructure Subcommittee
 
-**Presenter:** Jos Purvis (Cisco)
-**Note Taker:** Ryan Sleevi (Google)
+**Presenter:** Jos Purvis (Cisco)  
+**Note Taker:** Ryan Sleevi (Google)  
 
 - Brief discussion about GitHub and table-based content
 - Lots of discussion on membership management
@@ -66,9 +66,9 @@ The Antitrust statement was read. Membership in the SMCWG has grown to 27 certif
 
 ### Report from SCWG Network Security Subcommittee
 
-**Presenter:** Neil Dunbar (Trustcor)
-**Note Taker:** Dustin Hollenback (Microsoft)
-**Presentation:** [/uploads/f2f_52_summary_presentation.pdf][1]
+**Presenter:** Neil Dunbar (Trustcor)  
+**Note Taker:** Dustin Hollenback (Microsoft)  
+**Presentation:** [/uploads/f2f_52_summary_presentation.pdf][1]  
 
 - Near Term Objectives
 - NCSSR language and patching rules are vague
@@ -106,15 +106,15 @@ No questions were asked.
 
 ### Future face to face meeting schedule
 
-**Presenter:** Dean Coclin (Digicert)
-**Note Taker:** Dean Coclin (Digicert)
+**Presenter:** Dean Coclin (Digicert)  
+**Note Taker:** Dean Coclin (Digicert)  
 
 Future meetings were discussed. Dean said the summer 2021 meeting would be virtual, unless others objected, and he would send out a Doodle poll for the dates. The Fall meeting is proposed to be hosted by OATI and we will have to wait a bit to see if that’s going to be possible. Nick France said many countries are on lockdown and are prohibiting international travel, hence it’s hard to predict when that would be relaxed. Given the uncertainty and the timelines, no decisions beyond summer 2021 were made at this time. We will revisit this at the next F2F.
 
 ### Apple Root Program Update
 
-**Presenter:** Clint Wilson (Apple)
-**Note Taker:** Enrico Entschew (D-TRUST)
+**Presenter:** Clint Wilson (Apple)  
+**Note Taker:** Enrico Entschew (D-TRUST)  
 
 #### CT Policy Reminder
 
@@ -162,14 +162,14 @@ Jos Purvis: Revocation has been an issue in the industry for a while. Lots of di
 
 ### Cisco Root Program Update
 
-**Presenter:** J.P. Hamilton, Jos Purvis (Cisco)
-**Note Taker:** No update was presented.
+**Presenter:** J.P. Hamilton, Jos Purvis (Cisco)  
+**Note Taker:** No update was presented.  
 
 ### Google Root Program Update
 
-**Presenters:** Ryan Sleevi, Devon O’Brien (Google)
-**Note Taker:** Neil Dunbar (TrustCor)
-**Presentation:** (note: Green arrows added post-meeting for clarification of the discussion)
+**Presenters:** Ryan Sleevi, Devon O’Brien (Google)  
+**Note Taker:** Neil Dunbar (TrustCor)  
+**Presentation:** (note: Green arrows added post-meeting for clarification of the discussion)  
 
 #### Devon’s update on CT Plans shared to ct-policy@chromium.org Key Points
 
@@ -249,9 +249,9 @@ Google recognize that root programs may have different requirements on size of h
 
 ### Microsoft Root Program Update
 
-**Presenter:** Karina Sirota (Microsoft)
-**Note Taker:** Ryan Sleevi (Google)
-**Presentation:** [/uploads/microsoft_cabf_52_update.pdf][2]
+**Presenter:** Karina Sirota (Microsoft)  
+**Note Taker:** Ryan Sleevi (Google)  
+**Presentation:** [/uploads/microsoft_cabf_52_update.pdf][2]  
 
 Sebastian (GlobalSign): When you say you require testing, what e-mail do you use to notify the CA?
 Karina: We use the alias for the CA from CCADB to communicate with the CA that may need to be impacted by testing.
@@ -259,17 +259,19 @@ Mike Reilly (Microsoft): To the testing point, we really want to encourage CAs t
 
 ### Mozilla Root Program Update
 
-Presenter: Ben Wilson (Mozilla)
-Note Taker: Clint Wilson (Apple)
-Presentation:
-Uploaded as PDF: (No questions were asked following the presentation)
+**Presenter:** Ben Wilson (Mozilla)  
+**Note Taker:** Clint Wilson (Apple)  
+**Presentation:** https://docs.google.com/document/d/1PLTai4NQuucRvEIRxoV0gK4G5JXh7CbyqJMSO9tZmKw  
+**Uploaded as PDF:** </uploads/mozillaupdate-march2021.pdf>  
+
+(No questions were asked following the presentation)
 
 ### CCADB Update
 
-Presenter: Kathleen Wilson (Mozilla)
-Note Taker: Dimitris Zacharopoulos (HARICA)
-Presentation:
-Uploaded as PDF:
+**Presenter:** Kathleen Wilson (Mozilla)  
+**Note Taker:** Dimitris Zacharopoulos (HARICA)  
+**Presentation:**  https://docs.google.com/document/d/1wWmhVdVKf7Dflau4ka3_VUo-X8U6mAQgAxVExb9rZxY  
+**Uploaded as PDF:** </uploads/ccadb-news-march2021.pdf>  
 
 - CCADB release notes, includes a summary of updates from November 2020 and on
 - CCADB API has a sandbox for CAs to test before switching to production. Contact Kathleen for access.
@@ -282,7 +284,8 @@ Ben: Some audit reports include CA certificate SHA256 hashes on a table which wr
 
 ### Discussion of cabforum.org Website
 
-## Presenter:\*\* Ben Wilson (Mozilla) \*\*Note Taker
+**Presenter:**  Ben Wilson (Mozilla)  
+**Note Taker**:  
 
 ## The Server Certificate Working Group was adjourned
 
@@ -296,14 +299,14 @@ The Antitrust statement was read.
 
 ### Guest Speaker: “Cryptography in a post quantum world”
 
-_Presenter:_ Dustin Moody, NIST
-_Presentation:_ [/uploads/nist_pqc\_-\_30.pptx][3]
+**Presenter:** Dustin Moody, NIST  
+**Presentation:** [/uploads/nist_pqc\_-\_30.pptx][3]  
 
 ### ETSI Update
 
-**Presenter:** Arno Fiedler (Vice Chair ETSI ESI) and Nick Pope (Vice Chair ETSI ESI)
-**Note Taker:** Sebastian Schulz (GlobalSign)
-_Presentation:_
+**Presenter:** Arno Fiedler (Vice Chair ETSI ESI) and Nick Pope (Vice Chair ETSI ESI)  
+**Note Taker:** Sebastian Schulz (GlobalSign)  
+**Presentation:** https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:08fa88f2-d955-447e-9233-4bca7dcd75a9
 
 Arno Fiedler makes introduces himself and Nick Pope; Nick Pope begins on the presentation.
 
@@ -317,15 +320,14 @@ Arno Fiedler closes with the announcement of TSP Forum and CA Day
 - There is some disagreement whether an in-person event scheduled for September is already achievable
 - The “hybrid” approach is being called “the worst of two worlds”
 
-ETSI TR-119460:
-ETSI Audit Attestation Letter Templates for download, Version 2.7 here:
+ETSI TR-119460: https://www.etsi.org/standards-search#search=TR119460
+ETSI Audit Attestation Letter Templates for download, Version 2.7 here: https://www.acab-c.com/downloads/
 
 ### Acab’c Update
 
 **Presenter:** Clemens Wanko (TÜV AUSTRIA)
 **Note Taker:** Enrico Entschew (D-TRUST)
-
-## Presentation
+**Presentation:**
 
 In addition to the information in the slides, the following was reported by Clemens Wanko:
 
@@ -339,7 +341,7 @@ In addition to the information in the slides, the following was reported by Clem
 
 **Presenter:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Note Taker:** Andrea Holland (SecureTrust)
-**Presentation:**
+**Presentation:** </uploads/F2F52-WebTrust-Update-March-2021.pdf>
 
 #### Items mentioned in addition to slides
 

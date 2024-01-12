@@ -115,6 +115,7 @@ _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Kirk Hall (Entrust Datacard)
 
 Dimitris noted that the Forum had a discussion in Thessaloniki on this policy and how it would work. He wrote the draft photo policy shown here and also pasted in below:
+https://docs.google.com/document/d/1JQ6F40biDjitCyyR3WPSOciJyLRvZRK7mNPcL4UZz4U/edit?usp=sharing
 
 Much of the draft is based on the existing IETF photo policy.
 
@@ -309,7 +310,9 @@ _Note Taker:_ Enrico Entschew (D-Trust)
 _Presenter:_ Ryan Sleevi (Google Chrome)
 _Note Taker:_ Timo Schmitt (SwissSign)
 
-\* New set of logs are Usable since our last meeting * Additional logs have been added as Qualified. They are not yet usable, but will be announced to ct-policy@ * Details:
+- New set of logs are Usable since our last meeting 
+- Additional logs have been added as Qualified. They are not yet usable, but will be announced to ct-policy@ 
+- Details: https://github.com/chromium/ct-policy#qualified-logs
 
 ### Microsoft Root Program Update
 
@@ -325,7 +328,7 @@ No questions.
 _Presenter:_ Wayne Thayer (Mozilla)
 _Note Taker:_ Scott Rea (DarkMatter)
 
-Mozilla Update:
+Mozilla Update: https://cabforum.org/wp-content/uploads/9-Mozilla-Browser-News.pdf
 
 **Wayne T:** Nothing terribly new here, just run of the mill stuff for folks who are familiar with the list topics…
 
@@ -408,7 +411,7 @@ Wayne T: Yes, this is the process, but it doesn’t necessarily lead to revocati
 _Presenter:_ Wayne Thayer (Mozilla)
 _Note Taker:_ Scott Rea (DarkMatter)
 
-CCADB Update:
+CCADB Update: https://cabforum.org/wp-content/uploads/10-CCADB-News-CABF-F2F-November-2019.pdf
 
 **Wayne T:** I am reporting for Kathleen here
 
@@ -620,7 +623,7 @@ New Document TS 119 403-3 (2019-4): Part 3: Additional requirements for Conformi
 
 The Study “Report on Global acceptance of European Trust Services” an Executive summary (TR 103 684) will be published soon.
 
-All final ETSI Standards are for free, please see Information on available standards and current activities: ETSI standards: available for free download
+All final ETSI Standards are for free, please see Information on available standards and current activities: https://portal.etsi.org/TBSiteMap/ESI/ESIActivities.aspx ETSI standards: available for free download http://www.etsi.org/standards-search
 
 The next TSP/CA Day in Berlin is planed for September 22 and 23.
 
@@ -677,25 +680,21 @@ Fortunately there has been research on challenges to creating indicators. Additi
 
 For example Apple has a method of displaying that is consistent on the platforms and easy to distinguish and Firefox has a very clear way of displaying the details of a certificate.
 
-Primary source for security indicator info:
+Primary source for security indicator info:  
+https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-porter-felt.pdf
 
 Comment: In addition to browsers perhaps these common elements can be incorporated into other platforms like mail clients.
 
-Q) Are there IP concerns for browsers?
-
-A) Not sure, the browsers would need to provide this answer
-
-Q) Would the browsers be required to implement this in an all or nothing manner?
-
-A) No
-
-Q) Why is the CA/B Forum a better place to do this than the current standards development organizations that the browsers are already collaborating on common UI elements work in?
-
-A) This is a key part of the bylaws that the group decided to put into the bylaws in the past because of the recognized importance. Counter point: Ryan pointed out our Bylaws were descriptive, not prescriptive: what we had done, not what we must do. At some point the forum voted to not adopt a document related to standards for certificate consumers. Ryan will provide the link to the mail thread when this was previously discussed. Currently, the Bylaws do not agree with this point of view.
+- Q) Are there IP concerns for browsers?
+  - A) Not sure, the browsers would need to provide this answer
+- Q) Would the browsers be required to implement this in an all or nothing manner?
+  - A) No
+- Q) Why is the CA/B Forum a better place to do this than the current standards development organizations that the browsers are already collaborating on common UI elements work in?
+  - A) This is a key part of the bylaws that the group decided to put into the bylaws in the past because of the recognized importance. Counter point: Ryan pointed out our Bylaws were descriptive, not prescriptive: what we had done, not what we must do. At some point the forum voted to not adopt a document related to standards for certificate consumers. Ryan will provide the link to the mail thread when this was previously discussed. Currently, the Bylaws do not agree with this point of view.
 
 There are standards development organizations that are already actively working on common browser ui elements so perhaps parties that are the most invested in contributing should join those SDOs to contribute there. Ryan will provide details on which SDO are working on organization identity and organization identity presentation issues.
 
-Follow up, Ryan provided resources:
+Follow up, Ryan provided resources: https://lists.cabforum.org/pipermail/servercert-wg/2019-November/001440.html
 
 ### Special Challenges and concerns for Certification Authorities located in Asia
 
@@ -756,7 +755,8 @@ Chris said the latest numbers he had indicated again there were zero instances o
 
 Kirk invited all CAs in the Forum to participate – there is no charge, and no need to join the CA Security Council. CASC will add the CA’s roots to the anti-phishing engine, and will start sending notice of any OV or EV sites that are flagged for phishing across multiple anti-phishing services.
 
-Finally, Chris provided some new statistics from the Anti-Phishing Working Group that shows just how much encrypted phishing has increased in the past quarter, and said more needed to be done to protect users.
+Finally, Chris provided some new statistics from the Anti-Phishing Working Group that shows just how much encrypted phishing has increased in the past quarter, and said more needed to be done to protect users.  
+https://www.businesswire.com/news/home/20191105005324/en/APWG-Q3-Report-Phishing-Attacks-Highest-Level
 
 Statistics for phishing for the past 30 days.
 

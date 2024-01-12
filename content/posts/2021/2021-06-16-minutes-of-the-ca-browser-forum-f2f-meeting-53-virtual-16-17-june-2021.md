@@ -50,10 +50,10 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 
 ### Mozilla Root Program Update
 
-**Speaker**: Ben Wilson (Mozilla)
-**Minutes**: Ryan Sleevi
+**Speaker**: Ben Wilson (Mozilla)  
+**Minutes**: Ryan Sleevi  
 
-**Presentation:**
+**Presentation:** https://docs.google.com/document/d/1RFAsizaxCYQCgjXGcLXzwlyT_4veXuic59jK1fhcOz0/preview
 
 #### Q & A
 
@@ -73,9 +73,9 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 
 ### Cisco Root Program Update
 
-**Speaker**: J.P. Hamilton, Jos Purvis (Cisco)
-**Minutes**: Karina Sirota
-**Presentation:**
+**Speaker**: J.P. Hamilton, Jos Purvis (Cisco)  
+**Minutes**: Karina Sirota  
+**Presentation:** </uploads/Cisco-TRSUpdate-F2F53.pdf>
 
 ### Microsoft Root Program Update
 
@@ -143,7 +143,7 @@ _Karina_: Yes, that was recently provided. I’m looking in to a way to provide 
 **Speaker**: Kathleen Wilson (Mozilla)
 **Minutes**: Ben Wilson
 
-Presentation:
+Presentation: https://docs.google.com/document/d/1o50G0o57P4p4_3GyXxlUmHN2nZKcrj3EAmMSTd86Yxo/edit?usp=sharing
 
 #### JSON Array of Partitioned CRLs
 
@@ -163,7 +163,7 @@ CCADB enhancements and bugs are now being tracked in Bugzilla –
 
 #### Other Uses of Root Stores
 
-Lists of curated roots are available in the CCADB – – subject to license appearing there.
+Lists of curated roots are available in the CCADB – https://www.ccadb.org/resources – subject to license appearing there.
 
 #### CCADB Enhancements
 
@@ -175,8 +175,8 @@ Clemens asked if auditors could get access to do ALV pre-checking of their audit
 
 ### Q&A discussion
 
-**Speaker**: Jos Purvis \[lead\]
-**Minutes**: Neil Dunbar
+**Speaker**: Jos Purvis \[lead\]  
+**Minutes**: Neil Dunbar  
 
 Jos: List contains form for Q&A, anonymous submission allowed, in order to foster discussion without personally attached to the question.
 
@@ -230,7 +230,7 @@ Regarding unfairness – that’s a value judgment which is hard to comment on.
 
 Kathleen W: Posted [https://wiki.mozilla.org/CA/Required_or_Recommended_Practices#CP.2FCPS_Documents_will_be_Reviewed.21][1]
 
-Ryan S: (in chat) – Note that Google Chrome has its own set of prioritization policies as well – – prioritized based on our user security needs
+Ryan S: (in chat) – Note that Google Chrome has its own set of prioritization policies as well – https://g.co/chrome/root-policy – prioritized based on our user security needs
 
 Kathleen W: It is the readiness in publishing to CCADB which helps prioritize a CA inclusion request. If a CA is prepared, it does not usually take 2 years.
 
@@ -300,7 +300,7 @@ ACABc the Accredited Conformity Assessment Bodies – Council (association) has 
 1. Audit Attestation Letter template for ETSI auditors → AAL was updated to Mozilla Root Store Policy 2.7.1. Please require ETSI auditors to use this new template.
 1. Revised EU eIDAS Regulation (draft)
 
-Please download AAL Version 2.8 (or later) here:
+Please download AAL Version 2.8 (or later) here: https://www.acab-c.com/downloads
 
 ### WebTrust Update
 
