@@ -26,7 +26,7 @@ Dimitris mentioned that one of the takeaways from the F2F was that there is ETSI
 
 Bruce proposed that we look at that guidance after the initial ballot is pushed out. There was agreement that the remote QSCD standards should be looked at further by the group.
 
-Bruce said he will circulate the current PR () for this ballot for review and call for endorsers.
+Bruce said he will circulate the current PR ([https://github.com/cabforum/code-signing/pull/12](https://github.com/cabforum/code-signing/pull/12)) for this ballot for review and call for endorsers.
 
 Bruce said that the NetSec requirements document describes requirements for CAs but is silent on Signing Services, and so we may want to consider removing the NetSec requirement for Signing Services. Tim said that while some things are CA-specific, there are many requirements which cover good security practices that would be applicable to Signing Services. Tim also agreed with Bruce that the NetSec requirements solely address CA keys, which is not useful for Signing Services.
 
@@ -36,7 +36,7 @@ Ian asked if there are any ISO standards for cloud services. Tim said that there
 
 ### Importing TLS BR text into CSBRs
 
-Dimitris created a branch on GitHub() to copy the TLS BR text to the CSBRs. He mentioned that there have been no significant issues thus far besides the references to the EV Guidelines, which will be handled in a second pass. He asked for volunteers for this effort.
+Dimitris created a branch on GitHub([https://github.com/cabforum/code-signing/tree/importTLSBRrefs](https://github.com/cabforum/code-signing/tree/importTLSBRrefs)) to copy the TLS BR text to the CSBRs. He mentioned that there have been no significant issues thus far besides the references to the EV Guidelines, which will be handled in a second pass. He asked for volunteers for this effort.
 
 Next meeting is November 17th.
 

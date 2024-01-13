@@ -48,13 +48,13 @@ a. We currently don’t have any ballots in discussion.
 
 b. David Kluge gave an update regarding ongoing risk assessment work. He mentioned that we have finalized the assets section and are at a place where we can start assessing but are struggling with the methodology for documenting the assessment. In the last cloud sub-group call it was proposed that we use Microsoft’s STRIDE model. Trev offered to bring in a threat modeling expert. Trev is still following-up with them.
 
-c. David, Trev and Clint also discussed about the OCSP SLA changes (https://docs.google.com/document/d/1hKSbbCXQbAxIX2MesHEoAS6q2PRQsbdCXXcwMx7fDQU/edit?usp=sharing&resourcekey=0-r6eCPgEcBHRhFd5iG0Y1Vw) There were some discussion around preference between global SLOs in the BRs or SLO/SLA publications in the CPSs. There were no strong preferences or reservations expressed by anyone. David will draft something and this will be taken back to other WGs. Bruce Morton expressed that this will involve changes in not only TLS BRs but other WG BRs as well.
+c. David, Trev and Clint also discussed about the OCSP SLA changes ([OCSP SLA Document](https://docs.google.com/document/d/1hKSbbCXQbAxIX2MesHEoAS6q2PRQsbdCXXcwMx7fDQU/edit?usp=sharing&resourcekey=0-r6eCPgEcBHRhFd5iG0Y1Vw)). There were some discussions around preference between global SLOs in the BRs or SLO/SLA publications in the CPSs. There were no strong preferences or reservations expressed by anyone. David will draft something and this will be taken back to other WGs. Bruce Morton expressed that this will involve changes in not only TLS BRs but other WG BRs as well.
 
 d. No updates on zones ballot
 
-e. Ben spent some time talking through all the issues that he has created in Github: https://github.com/cabforum/netsec/issues Ben collected all the WebTrust Task Force’s comments and put all the pending issues in Github.
+e. Ben spent some time talking through all the issues that he has created in Github: [NetSec Issues on Github](https://github.com/cabforum/netsec/issues). Ben collected all the WebTrust Task Force’s comments and put all the pending issues in Github.
 
-4.. Any Other Business
+4. Any Other Business
 
 None
 

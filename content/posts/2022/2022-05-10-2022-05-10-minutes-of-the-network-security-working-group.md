@@ -61,7 +61,9 @@ a\*\*. \*\*Define risk scenarios of threat, and consider other scenarios that a
 
 **5. Ballots (Ben Wilson)**
 
-a\*\*. \*\*Previous work on two ballots. 1) Zone Ballot, 2) Offline or Gap Ballot that need more definitions to help clarify certain topics.b. {.}
+a. Previous work on two ballots. 1) Zone Ballot, 2) Offline or Gap Ballot that need more definitions to help clarify certain topics.
+
+b. [https://docs.google.com/document/d/1c4_4axIV34pXWsb0BBjGaI7NLJ-PQcq1/edit](https://docs.google.com/document/d/1c4_4axIV34pXWsb0BBjGaI7NLJ-PQcq1/edit)
 
 c. Definitions and language was last updated awhile ago, and should there be a separate meeting, like a structure group, to update and bring ballots up to date.
 

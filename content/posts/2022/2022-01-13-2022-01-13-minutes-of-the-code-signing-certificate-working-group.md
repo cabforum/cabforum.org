@@ -30,7 +30,7 @@ Corey gave the attached presentation. The plan is to move the CSBRs as is and ma
 
 A discussion about having multiple ballots in flight took place but it was decided to have CSC-6 move forward first, followed by this one.
 
-Corey provided this link for the CS GitHub repository:
+Corey provided this link for the CS GitHub repository: [https://github.com/cabforum/code-signing/pull/6](https://github.com/cabforum/code-signing/pull/6)
 
 Dimitris presented a demo of GitHub and how to propose changes.
 

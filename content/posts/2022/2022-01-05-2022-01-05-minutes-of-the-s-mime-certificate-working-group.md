@@ -52,7 +52,7 @@ Russ Housely noted that we needed to verify that the Org that is vetted is the O
 
 The information relating to roles and validation of authority – which is intermingled with the Org vetting in the EVG – will most likely be pulled into a separate subsection per RFC 3647.
 
-Stephen noted that he would start pushing some of the draft text up to the github repository at which should make it easier for members to review in context.
+Stephen noted that he would start pushing some of the draft text up to the [github repository](https://github.com/cabforum/smime/blob/preSBR/SBR.md) which should make it easier for members to review in context.
 
 ### 6. Any Other Business
 

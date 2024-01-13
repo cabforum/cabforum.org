@@ -34,7 +34,7 @@ Corey mentioned that we should be doing a cleanup ballot and then work on a ball
 
 ### Proposal to revocation based on malware
 
-Martijn sent out an email on Monday with a proposal to change the language related to malware revocation. As of yesterday, there is also a draft pull request available on Github ()
+Martijn sent out an email on Monday with a proposal to change the language related to malware revocation. As of yesterday, there is also a draft pull request available on Github ([https://github.com/cabforum/code-signing/pull/10](https://github.com/cabforum/code-signing/pull/10))
 
 There were no direct comments to the proposal
 

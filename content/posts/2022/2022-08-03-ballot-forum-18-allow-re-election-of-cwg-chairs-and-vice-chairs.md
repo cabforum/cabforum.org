@@ -53,7 +53,7 @@ This ballot retains the existing prohibition on re-election for Forum Chairs and
 
 ## Motion begins
 
-The Bylaws of the CA/Browser Forum are amended as described in the following redline:
+The Bylaws of the CA/Browser Forum are amended as described in the following [redline link](https://github.com/cabforum/forum/compare/fa1a5cb37a452e53d769ed759c06f05d21b1cb4b..f197d28fac92c807896d55b6ef43b776b6264aca).
 
 ## Motion ends
 
