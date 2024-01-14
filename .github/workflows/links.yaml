@@ -23,7 +23,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          args: --base https://cabforum.github.io/cabforum.org/ --cache --max-cache-age 1d --verbose --no-progress ./content
+          args: --base https://cabforum.github.io/cabforum.org/ --cache --max-cache-age 1d --no-progress ./content
 
       - name: Find Link Checker Issue
         if: env.lychee_exit_code != 0
