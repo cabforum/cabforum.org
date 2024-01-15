@@ -46,7 +46,7 @@ The following motion has been proposed by Gervase Markham of Mozilla and endorse
 
 ## Statement of Intent
 
-Certificate Authority Authorization (CAA) is a DNS Resource Record defined in RFC 6844 – , published in January 2013. It allows a DNS domain name holder to specify one or more Certification Authorities (CAs) authorized to issue certificates for that domain and, by implication, that no other CAs are authorized.
+Certificate Authority Authorization (CAA) is a DNS Resource Record defined in [RFC 6844][2] – , published in January 2013. It allows a DNS domain name holder to specify one or more Certification Authorities (CAs) authorized to issue certificates for that domain and, by implication, that no other CAs are authorized.
 
 The intent of this motion is to make it mandatory for CAs to check CAA records at issuance time for all certificates issued (except in a few special cases), and to prevent issuance if a CAA record is found which does not permit issuance by that CA. This therefore allows domain owners to set an issuance policy which will be respected by all publicly-trusted CAs, and allows them to mitigate the problem that the public CA trust system is only as strong as its weakest CA.
 
@@ -58,13 +58,13 @@ Add the following text as a new section 3.2.2.8 (titled “CAA Records”) of th
 
 This section is effective as of 8 September 2017.
 
-As part of the issuance process, the CA must check for a CAA record for each dNSName in the subjectAltName extension of the certificate to be issued, according to the procedure in RFC 6844, following the processing instructions set down in RFC 6844 for any records found. If the CA issues, they must do so within the TTL of the CAA record, or 8 hours, whichever is greater.
+As part of the issuance process, the CA must check for a CAA record for each dNSName in the subjectAltName extension of the certificate to be issued, according to the procedure in [RFC 6844][2], following the processing instructions set down in [RFC 6844][2] for any records found. If the CA issues, they must do so within the TTL of the CAA record, or 8 hours, whichever is greater.
 
 This stipulation does not prevent the CA from checking CAA records at any other time.
 
-When processing CAA records, CAs MUST process the issue, issuewild, and iodef property tags as specified in RFC 6844. Additional property tags MAY be supported, but MUST NOT conflict with or supersede the mandatory property tags set out in this document. CAs MUST respect the critical flag and reject any unrecognized properties with this flag set.
+When processing CAA records, CAs MUST process the issue, issuewild, and iodef property tags as specified in [RFC 6844][2]. Additional property tags MAY be supported, but MUST NOT conflict with or supersede the mandatory property tags set out in this document. CAs MUST respect the critical flag and reject any unrecognized properties with this flag set.
 
-RFC 6844 requires that CAs “MUST NOT issue a certificate unless either (1) the certificate request is consistent with the applicable CAA Resource Record set or (2) an exception specified in the relevant Certificate Policy or Certification Practices Statement applies.” For issuances conforming to these Baseline Requirements, CAs MUST NOT rely on any exceptions specified in their CP or CPS unless they are one of the following:
+[RFC 6844][2] requires that CAs “MUST NOT issue a certificate unless either (1) the certificate request is consistent with the applicable CAA Resource Record set or (2) an exception specified in the relevant Certificate Policy or Certification Practices Statement applies.” For issuances conforming to these Baseline Requirements, CAs MUST NOT rely on any exceptions specified in their CP or CPS unless they are one of the following:
 
 - CAA checking is optional for certificates for which a Certificate Transparency pre-certificate was created and logged in at least two public logs, and for which CAA was checked.
 - CAA checking is optional for certificates issued by a Technically Constrained Subordinate CA Certificate as set out in Baseline Requirements section 7.1.5, where the lack of CAA checking is an explicit contractual provision in the contract with the Applicant.
@@ -80,13 +80,13 @@ CAs MUST document potential issuances that were prevented by a CAA record in suf
 
 Update section 2.2 (“Publication of Information”) of the Baseline Requirements, to remove the following text:
 
-Effective as of 15 April 2015, section 4.2 of a CA’s Certificate Policy and/or Certification Practice Statement (section 4.1 for CAs still conforming to RFC 2527) SHALL state whether the CA reviews CAA Records, and if so, the CA’s policy or practice on processing CAA Records for Fully Qualified Domain Names. The CA SHALL log all actions taken, if any, consistent with its processing practice.
+Effective as of 15 April 2015, section 4.2 of a CA’s Certificate Policy and/or Certification Practice Statement (section 4.1 for CAs still conforming to [RFC 2527][3]) SHALL state whether the CA reviews CAA Records, and if so, the CA’s policy or practice on processing CAA Records for Fully Qualified Domain Names. The CA SHALL log all actions taken, if any, consistent with its processing practice.
 
 and replace it with:
 
-Effective as of 8 September 2017, section 4.2 of a CA’s Certificate Policy and/or Certification Practice Statement (section 4.1 for CAs still conforming to RFC 2527) SHALL state the CA’s policy or practice on processing CAA Records for Fully Qualified Domain Names; that policy shall be consistent with these Requirements. It shall clearly specify the set of Issuer Domain Names that the CA recognises in CAA “issue” or “issuewild” records as permitting it to issue. The CA SHALL log all actions taken, if any, consistent with its processing practice. Add the following text to the appropriate place in section 1.6.3 (“References”):
+Effective as of 8 September 2017, section 4.2 of a CA’s Certificate Policy and/or Certification Practice Statement (section 4.1 for CAs still conforming to [RFC 2527][3]) SHALL state the CA’s policy or practice on processing CAA Records for Fully Qualified Domain Names; that policy shall be consistent with these Requirements. It shall clearly specify the set of Issuer Domain Names that the CA recognises in CAA “issue” or “issuewild” records as permitting it to issue. The CA SHALL log all actions taken, if any, consistent with its processing practice. Add the following text to the appropriate place in section 1.6.3 (“References”):
 
-RFC6844, Request for Comments: 6844, DNS Certification Authority Authorization (CAA) Resource Record, Hallam-Baker, Stradling, January 2013.
+[RFC6844][2], Request for Comments: 6844, DNS Certification Authority Authorization (CAA) Resource Record, Hallam-Baker, Stradling, January 2013.
 
 **- MOTION ENDS -**
 
@@ -107,3 +107,5 @@ Votes must be cast by posting an on-list reply to this thread on the Public Mail
 In order for the motion to be adopted, two thirds (2/3) or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must vote “yes”. Quorum is shown on CA/Browser Forum wiki. Under Section 2.2(g) of the Bylaws, at least the required quorum number of voting members must participate in the ballot for the ballot to be valid, either by voting in favor, voting against, or abstaining.
 
 [1]: https://tools.ietf.org/html/rfc7719
+[2]: https://datatracker.ietf.org/doc/rfc6844/
+[3]: https://www.ietf.org/rfc/rfc2527.txt

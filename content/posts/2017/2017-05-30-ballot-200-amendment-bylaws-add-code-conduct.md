@@ -73,8 +73,8 @@ I. Conduct. The Forum is committed to providing a friendly, safe, and welcoming 
 (a) In connection with official Forum activities, all Forum participants shall:
 
 - Be polite, kind, and courteous to other participants, refraining from insulting remarks on the perceived intelligence or ability of others.
-- Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.\*\* \*\*
-- Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single “correct” answer. Be willing to compromise and agree to disagree.\*\* \*\*
+- Treat fellow Forum participants with respect, professionalism, courtesy, and reasonableness.
+- Respect that people have differences of opinion, and that there is seldom unanimous agreement on a single “correct” answer. Be willing to compromise and agree to disagree.
 
 (b) In connection with official Forum activities, all Forum participants shall refrain from conduct such as:
 
@@ -98,11 +98,11 @@ I. Conduct. The Forum is committed to providing a friendly, safe, and welcoming 
 
 (b) Participants should inform the Chair, Vice Chair, and/or a Working Group Chair immediately if they feel they have been, or are being, harassed or made uncomfortable by a Forum member. Intimidation, personal attacks, and retaliation of any kind will not be tolerated.
 
-(c) Any Forum participant may report, in good faith, a perceived violation of the Code to the Forum Chair or Vice Chair, or to a Working Group Chair (each, a “Code Liaison”). One or more Code Liaison(s) will work with the reported Forum participant to determine whether a violation of the Code has occurred and, if so, how to resolve it. Resolution may also include appropriate executives from the Forum participant’s Member company, as appropriate. If the reported Forum participant, Member executives, and the Code Liaison(s) are unable to resolve the issue, any of the foregoing may request the assistance of a reasonably acceptable independent third party (such as an Interested Party or WebTrust) to assist with the resolution.\*\* \*\*
+(c) Any Forum participant may report, in good faith, a perceived violation of the Code to the Forum Chair or Vice Chair, or to a Working Group Chair (each, a “Code Liaison”). One or more Code Liaison(s) will work with the reported Forum participant to determine whether a violation of the Code has occurred and, if so, how to resolve it. Resolution may also include appropriate executives from the Forum participant’s Member company, as appropriate. If the reported Forum participant, Member executives, and the Code Liaison(s) are unable to resolve the issue, any of the foregoing may request the assistance of a reasonably acceptable independent third party (such as an Interested Party or WebTrust) to assist with the resolution.
 
 (d) Members agree to take appropriate action in the event any of their Member representatives violate the Code. Such action could include warning, reprimanding, suspending, removing or replacing the Member representative who has violated the Code, depending on the severity of the violation. Depending on the number and severity of violations, the Forum may impose consequences such as excluding a Member representative from certain meetings, removing a Member representative from a mailing list, and suspending a Member representative from certain Forum activities.
 
-Adapted from the WHATWG Code of Conduct \[[https://wiki.whatwg.org/wiki/Code_of_Conduct][1]\], the W3C Code of Ethics and Professional Conduct \[\], and the Citizen Code of Conduct \[[citizencodeofconduct.org][2]\].”
+Adapted from the WHATWG Code of Conduct [https://wiki.whatwg.org/wiki/Code_of_Conduct][1], the W3C Code of Ethics and Professional Conduct [https://www.w3c.org/Consortium/cepc/][2], and the Citizen Code of Conduct [http://citizencodeofconduct.org/][3].”
 
 -END OF MOTION
 The procedure for approval of this ballot is as follows (exact start and end times may be adjusted to comply with applicable sections of the Bylaws and IPR Agreement):
@@ -136,4 +136,5 @@ In order for the motion to be adopted, two thirds or more of the votes cast by m
 # =================== END OF DRAFT BALLOT
 
 [1]: https://wiki.whatwg.org/wiki/Code_of_Conduct
-[2]: http://citizencodeofconduct.org/
+[2]: https://www.w3c.org/Consortium/cepc/
+[3]: http://citizencodeofconduct.org/

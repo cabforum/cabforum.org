@@ -18,7 +18,7 @@ From the Browsers, we received 2 YES votes, 0 NO votes and 1 Abstention
 
 Therefore the ballot passes.
 
-Full ballot results can be found here:
+Full ballot results can be found here: [https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI/edit#gid=4](https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI/edit#gid=4)
 
 Thanks,
 
@@ -89,6 +89,6 @@ If the Certificate asserts the policy identifier of 2.23.140.1.2.1, then it MUST
 
 The review period for this ballot shall commence at 2200 UTC on 24 August 2016, and will close at 2200 UTC on 31 August 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 7 September 2016. Votes must be cast by posting an on-list reply to this thread.
 
-A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about-members/](/about-members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is currently ten (10) members– at least ten members must participate in the ballot, either by voting in favor, voting against, or abstaining.

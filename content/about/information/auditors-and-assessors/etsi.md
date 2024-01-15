@@ -132,4 +132,4 @@ CEN is also working on a security Protection Profile  (PP) for time-stamping s
 [12]: http://portal.etsi.org/stfs/STF_HomePages/STF458/STF458.asp
 [13]: http://portal.etsi.org/TBSiteMap/esi/ActivityReport.aspx
 [14]: http://www.etsi.org/deliver/etsi_tr/101500_101599/101564/01.01.01_60/tr_101564v010101p.pdf
-[15]: https://ec.europa.eu/information_society/policy/esignature/trusted-list/tl-hr.pdf
+[15]: https://eidas.ec.europa.eu/efda/tl-browser/

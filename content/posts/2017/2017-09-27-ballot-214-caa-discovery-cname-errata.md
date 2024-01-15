@@ -65,11 +65,14 @@ The following errata report has been held for document update for RFC6844, “DN
 ------------–
 You may review the report below and at:
 
+[http://www.rfc-editor.org/errata/eid5065](http://www.rfc-editor.org/errata/eid5065)
+
 ------------–
 Status: Held for Document Update
 Type: Technical
 
-Reported by: Phillip Hallam-Baker \<> Date Reported: 2017-07-10 Held by: EKR (IESG)
+Reported by: Phillip Hallam-Baker [philliph@comodo.com](mailto:philliph@comodo.com)  
+Date Reported: 2017-07-10 Held by: EKR (IESG)  
 
 Section: 4
 
@@ -133,6 +136,6 @@ If vote approves ballot: Review Period (Chair to send Review Notice) (30 days). 
 
 > From Bylaw 2.3: If the Draft Guideline Ballot is proposing a Final Maintenance Guideline, such ballot will include a redline or comparison showing the set of changes from the Final Guideline section(s) intended to become a Final Maintenance Guideline, and need not include a copy of the full set of guidelines. Such redline or comparison shall be made against the Final Guideline section(s) as they exist at the time a ballot is proposed, and need not take into consideration other ballots that may be proposed subsequently, except as provided in Bylaw Section 2.3(j).
 
-Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+Votes must be cast by posting an on-list reply to this thread on the Public list. A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about//members/](/about/members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is shown on CA/Browser Forum wiki. Under Bylaw 2.2(g), at least the required quorum number must participate in the ballot for the ballot to be valid, either by voting in favor, voting against, or abstaining.

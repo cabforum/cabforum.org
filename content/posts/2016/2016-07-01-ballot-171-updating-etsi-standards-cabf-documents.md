@@ -17,7 +17,7 @@ From the CAs, we received 13 YES votes, 0 NO votes and 3 Abstentions
 From the Browsers, we received 1 YES vote, 0 NO votes and 0 Abstentions.
 
 Therefore the ballot passes.
-Full voting results can be found here:
+Full voting results can be found here: [https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI/edit?pref=2&pli=1#gid=4](https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI/edit?pref=2&pli=1#gid=4)
 
 Dean Coclin
 CA/B Forum Chair
@@ -114,6 +114,6 @@ With
 
 The review period for this ballot shall commence at 2200 UTC on 17 June 2016, and will close at 2200 UTC on 24 June 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 1 July 2016. Votes must be cast by posting an on-list reply to this thread.
 
-A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about-members/](/about-members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is currently ten (10) members– at least ten members must participate in the ballot, either by voting in favor, voting against, or abstaining.
