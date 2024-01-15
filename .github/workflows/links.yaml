@@ -12,10 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Symlink uploads
+      - name: Create local symbolic links
         run: |
           ln -s ./static/uploads ./content/uploads
-          ln -s ./content ./cabforum.org
+          ln -s ./static/uploads ./cabforum.org/uploads
+          ln -s ./content/ ./cabforum.org/content
 
       - name: Restore lychee cache
         uses: actions/cache@v3
