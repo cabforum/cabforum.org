@@ -12,6 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Symlink uploads
+        run: |
+          ln -s ./static/uploads ./content/uploads
+
       - name: Restore lychee cache
         uses: actions/cache@v3
         with:
@@ -23,7 +27,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.9.1
         with:
-          args: --base https://cabforum.github.io/cabforum.org/ --cache --max-cache-age 1d --no-progress ./content
+          args: --base . --cache --max-cache-age 1d --no-progress ./content
 
       - name: Find Link Checker Issue
         if: env.lychee_exit_code != 0
