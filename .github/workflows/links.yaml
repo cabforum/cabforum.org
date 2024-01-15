@@ -15,6 +15,7 @@ jobs:
       - name: Symlink uploads
         run: |
           ln -s ./static/uploads ./content/uploads
+          ln -s ./content ./cabforum.org
 
       - name: Restore lychee cache
         uses: actions/cache@v3
