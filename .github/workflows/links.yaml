@@ -18,7 +18,8 @@ jobs:
           ln -s ./content ./content/cabforum.org
           echo Debugging here
           pwd 
-          ls -lah ~/work/cabforum.org/
+          ls -lah ~/work/cabforum.org/cabforum.org/
+          ls -lah ~/work/cabforum.org/cabforum.org/content/
           ls -lah /home/runner/work/cabforum.org/cabforum.org/content/proceedings/minutes
           ls -lah /home/runner/work/cabforum.org/cabforum.org/content/uploads/CA-Browser-Forum-Bylaws-v.-1.5.pdf
 
