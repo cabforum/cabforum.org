@@ -50,7 +50,7 @@ Stephen then reviewed the issues at [https://github.com/cabforum/smime/issues][2
 
 Stephen noted several new issues filed by Rob Lee and suggested to WG members that this was a good place to file questions that may be raised in the course of operating under the SBR.
 
-The WG discussed the revocation backdating topic seen at [https://github.com/cabforum/smime/issues/221][4]. It was agreed to park the topic for now given the doubts that backdating had a use in the S/MIME protocol as it stands. Stephen said the WG would return to the topic in future if it simplified implementations for CA operators.
+The WG discussed the revocation backdating topic seen at [https://github.com/cabforum/smime/issues/221](https://github.com/cabforum/smime/issues/221). It was agreed to park the topic for now, given the doubts that backdating had a use in the S/MIME protocol as it stands. Stephen said the WG would return to the topic in future if it simplified implementations for CA operators.
 
 The WG discussed the topic of the SV Legacy Subject which had arisen in several teleconferences; Stephen noted that the group would return to it in December. One consideration was whether to tweak the Legacy profile, or to focus on the date upon which the Legacy profiles might be reasonably retired. Stephen again asked CAs to consider if there were elements missing from the Multipurpose or Strict profiles that might complicate this migration.
 
@@ -67,4 +67,3 @@ Next call: Wednesday, December 6, 2023 at 11:00 am Eastern Time
 [1]: https://github.com/srdavidson/smime/compare/241e92cde85c25d7e0d4a5c70118ecadacd4d72b...29f73eb50573bf3e04cb417aaf67be1c209f066b
 [2]: https://github.com/cabforum/smime/issues
 [3]: https://github.com/srdavidson/smime/commits/Ballot-SMC05/SBR.md
-[4]: https://github.com/cabforum/smime/issues/221

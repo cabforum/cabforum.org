@@ -38,13 +38,11 @@ The minutes of the January 4 teleconference were approved.
 
 Martijn Katerbarg chaired the meeting.
 
-The WG discussed the proposed text written by Stephen Davidson to add CAA to the S/MIME BR. See [https://github.com/cabforum/smime/compare/main…srdavidson:smime:CAA][1]
+The WG discussed the proposed text written by Stephen Davidson to add CAA to the S/MIME BR. See [this GitHub comparison](https://github.com/cabforum/smime/compare/main...srdavidson:smime:CAA).
 
 Martijn noted that the text was quite complete other than the effective date. It was discussed that an effective date should be considered for 2024, in other words after the first effective date for the S/MIME BR v1.0.0. This would allow time for Certificate Issuers with no previous CAA experience adequate time to implement the standard.
 
-WG members were invited to consider the text and to contribute to the IETF discussion regarding the CAA Internet-draft at [https://mailarchive.ietf.org/arch/msg/spasm/Z8mRKrHgV2hfXY21Sa-6EPL-h9E/][2]
-
-Ben Wilson noted that a discussion was being started to propose the addition of the S/MIME BR to Sections 2.3 and 3.1.2 of the Mozilla Root Store Policy. This would need to go through community discussion and review to talk about the Sept 1, 2023 adoption date and potentially a Sept 1, 2024 date by which all CAs would require eligible audits reported in CCADB.
+WG members were invited to consider the text and to contribute to the IETF discussion regarding the CAA Internet-draft at Ben Wilson noted that a discussion was being started to propose the addition of the S/MIME BR to Sections 2.3 and 3.1.2 of the Mozilla Root Store Policy. This would need to go through community discussion and review to talk about the Sept 1, 2023 adoption date and potentially a Sept 1, 2024 date by which all CAs would require eligible audits reported in [CCADB](https://ccadb.org/).
 
 Wendy Brown noted that the timetables described in the S/MIME BR may be sufficiently clear as it described audits being required “For Audit Periods starting after the Effective Date” for v.1.0.0.
 
@@ -63,6 +61,3 @@ None
 Next call: tentative Wednesday, February 1, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-[1]: https://github.com/cabforum/smime/compare/main...srdavidson:smime:CAA
-[2]: https://mailarchive.ietf.org/arch/msg/spasm/Z8mRKrHgV2hfXY21Sa-6EPL-h9E/

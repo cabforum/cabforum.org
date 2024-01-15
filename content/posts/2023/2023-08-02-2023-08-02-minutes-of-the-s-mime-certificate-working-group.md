@@ -44,7 +44,7 @@ Stephen opened the floor for discussion of implementation issues. Enrico Entsche
 
 Renne Rodriguez asked about cert attribute ordering and questioned whether the SBR should consider moving towards the table format recently adopted in the TL BR Ballot SC62. Stephen said this could be added to the Fall F2F agenda where the WG will discuss our next priorities.
 
-Stephen reviewed the issues list on GitHub at [https://github.com/cabforum/smime/issues][1] (noting that some items currently on the list will be closed off due to SMC03). He encouraged members to make use of the list as it was a useful input for the WG priorities.
+Stephen reviewed the issues list on GitHub at [https://github.com/cabforum/smime/issues](https://github.com/cabforum/smime/issues) (noting that some items currently on the list will be closed off due to SMC03). He encouraged members to make use of the list as it was a useful input for the WG priorities.
 
 Stephen asked members to consider in particular if the Section 3.2.2 methods for email domain/mailbox control were sufficient, and if it would be desirable to define additional automation friendly methods. It was likely that additional development might be desired in the area of Enterprise RAs.
 
@@ -61,5 +61,3 @@ None
 Next call: tentative Wednesday, August 30, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-[1]: https://github.com/cabforum/smime/issues

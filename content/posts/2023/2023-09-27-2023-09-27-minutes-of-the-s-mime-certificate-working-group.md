@@ -44,7 +44,7 @@ Russ Housley noted that the draft RFC for CAA for S/MIME was approaching conclus
 
 Russ also noted that a new RFC was underway that would replace the one referenced for otherName of type id-on-SmtpUTF8Mailbox.
 
-Stephen again noted the issues list is being actively updated at [https://github.com/cabforum/smime/issues][1] and encouraged SMCWG members to comment there. He is working on a draft SM04 ballot of further corrections which may be seen at [https://github.com/srdavidson/smime/blob/Ballot-SMC04/SBR.md][2].
+Stephen again noted the issues list is being actively updated at [GitHub issues list][1] and encouraged SMCWG members to comment there. He is working on a draft SM04 ballot of further corrections which may be seen at [Ballot SM04 draft][2].
 
 The WG discussed proposed text to incorporate intermediate CAs in the definition of Extant S/MIME CA.
 

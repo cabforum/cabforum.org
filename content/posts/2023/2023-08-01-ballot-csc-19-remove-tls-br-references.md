@@ -26,7 +26,7 @@ Start of Review Period: August 1, 2023 at 11:00am Eastern Time
 
 End of Review Period: September 1, 2023 at 11:00am Eastern Time
 
-Please forward a written notice to exclude Essential Claims to the Forum and Working Group Chair by email to and a copy to the CA/B Forum CSCWG public mailing list before the end of the Review Period. See current version of CA/Browser Forum Intellectual Property Rights Policy for details.
+Please forward a written notice to exclude Essential Claims to the Forum and Working Group Chair by email to [dean.coclin@digicert.com](mailto:dean.coclin@digicert.com) and a copy to the CA/B Forum CSCWG public mailing list [cscwg-public@cabforum.org](mailto:cscwg-public@cabforum.org) before the end of the Review Period. See current version of CA/Browser Forum Intellectual Property Rights Policy for details.
 
 ## Results of Voting
 
@@ -48,7 +48,7 @@ The following motion has been proposed by Dimitris Zacharopoulos of HARICA and e
 
 ## Motion
 
-This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” (“Code Signing Baseline Requirements”) based on version 3.3. MODIFY the Code Signing Baseline Requirements as specified in the following redline: [https://github.com/cabforum/code-signing/pull/16/files#diff-51665fed103b76d89fc3da15cf88817d58602089][4]
+This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” (“Code Signing Baseline Requirements”) based on version 3.3. MODIFY the Code Signing Baseline Requirements as specified in the following redline: [here][4]
 
 [1]: https://lists.cabforum.org/pipermail/cscwg-public/2023-September/001051.html
 [2]: /working-groups/code-signing/documents/

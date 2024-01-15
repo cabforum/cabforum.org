@@ -40,9 +40,9 @@ The minutes were approved from the following SMCWG meetings: March 29.
 
 Stephen Davidson reminded the SMCWG of Clint Wilson’s request for leaf certificate examples that are compliant with the S/MIME BR.
 
-Stephen reviewed the potential correction at [https://github.com/srdavidson/smime/commit/67ba77c6728543469683f4f8e50573d2b61621cc][1] to address the comment raised by Bruce Morton at [https://lists.cabforum.org/pipermail/smcwg-public/2023-March/000646.html][2] and separately by DigiCert.
+Stephen reviewed the potential correction at [this GitHub commit](https://github.com/srdavidson/smime/commit/67ba77c6728543469683f4f8e50573d2b61621cc) to address the comment raised by Bruce Morton at [this mailing list message](https://lists.cabforum.org/pipermail/smcwg-public/2023-March/000646.html) and separately by DigiCert.
 
-It was noted that the text was derived from the EVG so a similar edit will be required there. Corey has submitted an issue at [https://github.com/cabforum/servercert/issues/428][3].
+It was noted that the text was derived from the EVG so a similar edit will be required there. Corey has submitted an issue at [CAB Forum Server Certificate WG GitHub Issue #428](https://github.com/cabforum/servercert/issues/428).
 
 Corey suggested that the text could simply refer to ISO 3166-2 (without the 3 character cap) to make the text less sensitive to changes in that external document.
 
@@ -61,7 +61,3 @@ None
 Next call: tentative Wednesday, April 26, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-[1]: https://github.com/srdavidson/smime/commit/67ba77c6728543469683f4f8e50573d2b61621cc
-[2]: https://lists.cabforum.org/pipermail/smcwg-public/2023-March/000646.html
-[3]: https://github.com/cabforum/servercert/issues/428

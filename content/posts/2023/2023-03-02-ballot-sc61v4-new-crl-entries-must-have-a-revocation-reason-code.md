@@ -41,11 +41,13 @@ type: post
 
 **Purpose of Ballot SC-061 v.4** The purpose of this ballot is to modify sections 4.9.1.1 and 7.2.2 of the Baseline Requirements to incorporate the CRL reason codes that Mozilla has adopted in section 6.1.1 of the Mozilla Root Store Policy. The following motion has been proposed by Ben Wilson of Mozilla and endorsed by David Kluge of Google Trust Services and Kiran Tummala of Microsoft.
 
-# Motion Begins
+### Motion Begins
 
-This ballot modifies sections 4.9.1.1 and 7.2.2 of the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as defined in the following redline, based on Version 1.8.6: [https://github.com/cabforum/servercert/compare/e87bc5fcf35f533e58899311e538e6ffe959102e][1]
+This ballot modifies sections 4.9.1.1 and 7.2.2 of the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as defined in the following redline, based on Version 1.8.6: 
 
-# Motion Ends
+https://github.com/cabforum/servercert/compare/e87bc5fcf35f533e58899311e538e6ffe959102e
+
+### Motion Ends
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
@@ -64,5 +66,3 @@ End Time: February 22, 2023 04:00 UTC
 ## Ballot Status
 
 This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.
-
-[1]: https://github.com/cabforum/servercert/compare/e87bc5fcf35f533e58899311e538e6ffe959102e

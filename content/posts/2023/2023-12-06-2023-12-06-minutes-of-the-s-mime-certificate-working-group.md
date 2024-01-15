@@ -40,7 +40,7 @@ The minutes for the teleconference of November 15 were approved.
 
 Stephen Davidson confirmed that Ballot SMC04 was scheduled to conclude IPR review on December 8 and no comments had so far been received.
 
-Stephen walked through the draft text of a ballot to introduce CAA for SMIME, which may be seen at [https://github.com/srdavidson/smime/compare/241e92cde85c25d7e0d4a5c70118ecadacd4d72b…c432153a4375fbfa59bd3a75fd55e915b2f31938][1]
+Stephen walked through the draft text of a ballot to introduce CAA for SMIME, which may be seen at [https://github.com/srdavidson/smime/compare/241e92cde85c25d7e0d4a5c70118ecadacd4d72b...c432153a4375fbfa59bd3a75fd55e915b2f31938][1]
 
 He noted that he’d received good feedback from Cade Cairns and others, and welcomed comments on the text as the plan is to move to ballot in January. The ballot will be proposed by Corey Bonnell. Ben Wilson offered to be an endorser.
 

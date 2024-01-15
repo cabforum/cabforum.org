@@ -38,19 +38,19 @@ The minutes from the March 1 F2F are to be distributed.
 
 ### 5. Discussion
 
-Martijn Katerbarg noted a question raised by Christophe Bonjean relating to the use of the Pseudonym in the Legacy profile as described at [https://lists.cabforum.org/pipermail/smcwg-public/2023-February/000634.html][1]
+Martijn Katerbarg noted a question raised by Christophe Bonjean relating to the use of the Pseudonym in the Legacy profile as described at [SMCWG public archive](https://lists.cabforum.org/pipermail/smcwg-public/2023-February/000634.html).
 
-Corey Bonnell clarified that the note 7.1.4.2.6 allowed that CAs could omit the specific attributes in the Subject but to include the same content that would otherwise have been used in those attributes in the subject:commonName alone. In other words, a Pseudonym may be used in the CN but only if verified in accordance with the requirements of Section 3.1.3 [https://github.com/cabforum/smime/blob/main/SBR.md#313-anonymity-or-pseudonymity-of-subscribers][2]
+Corey Bonnell clarified that the note 7.1.4.2.6 allowed that CAs could omit the specific attributes in the Subject but to include the same content that would otherwise have been used in those attributes in the subject:commonName alone. In other words, a Pseudonym may be used in the CN but only if verified in accordance with the requirements of Section 3.1.3 [SBR 3.1.3 Anonymity or pseudonymity of subscribers](https://github.com/cabforum/smime/blob/main/SBR.md#313-anonymity-or-pseudonymity-of-subscribers).
 
 1. Legacy Generation profiles MAY omit the subject:givenName, subject:surname, and subject:pseudonym attributes and include only the subject:commonName as described in Section 7.1.4.2.2(a).
 
-Adrian Mueller commented that a Pseudonym used in the CN without the corresponding subject:pseudonym attribute could be confused as being a real name. He noted that in some Swiss profiles Pseudonyms in the commonName would be prefixed by a “PSEUDO:” tag.
+Adrian Mueller commented that a Pseudonym used in the CN without the corresponding subject:pseudonym attribute could be confused as being a real name. He noted that in some Swiss profiles, Pseudonyms in the commonName would be prefixed by a “PSEUDO:” tag.
 
-The discussion of the use of QIIS posed by [https://lists.cabforum.org/pipermail/smcwg-public/2022-November/000581.html][3] was tabled for a future discussion.
+The discussion of the use of QIIS posed by [SMCWG public archive](https://lists.cabforum.org/pipermail/smcwg-public/2022-November/000581.html) was tabled for a future discussion.
 
 Dimitris Zacharopoulos provided an update that the ETSI ESI group is working on a proposed ETSI TS 119 411-6 to make the SMIME BR auditable under the etsi regime. He noted that the intent was to have a 1-to-1 mapping of the cert policy OIDs.
 
-Martijn raised the discussion that the WG would seek to move an erratum ballot in the near future and sought feedback from members on other items that might be included, and possible endorsers. A draft of the changes may be seen at [https://github.com/srdavidson/smime/compare/ba234cef9a443716e09d2fd2dcb715b8b709dd61…7ba22046e1f13b2e45b0837725e42f2b75e3874a][4]
+Martijn raised the discussion that the WG would seek to move an erratum ballot in the near future and sought feedback from members on other items that might be included, and possible endorsers. A draft of the changes may be seen at [SMIME Erratum Ballot Draft Changes](https://github.com/srdavidson/smime/compare/ba234cef9a443716e09d2fd2dcb715b8b709dd61...7ba22046e1f13b2e45b0837725e42f2b75e3874a).
 
 Corey subsequently noted that the subsection numbering in section 4.9.1.1 might be aligned with the TLS BR. (This is, in effect, a style change. There are currently several sets of numbered bullets that restart at 1 in the SBR while the TLS BR continues the numbering across the sets).
 
@@ -63,8 +63,3 @@ None
 Next call: Wednesday, March 29, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-[1]: https://lists.cabforum.org/pipermail/smcwg-public/2023-February/000634.html
-[2]: https://github.com/cabforum/smime/blob/main/SBR.md#313-anonymity-or-pseudonymity-of-subscribers
-[3]: https://lists.cabforum.org/pipermail/smcwg-public/2022-November/000581.html
-[4]: https://github.com/srdavidson/smime/compare/ba234cef9a443716e09d2fd2dcb715b8b709dd61...7ba22046e1f13b2e45b0837725e42f2b75e3874a

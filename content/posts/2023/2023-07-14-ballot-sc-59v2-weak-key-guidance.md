@@ -55,13 +55,13 @@ Notes:
 
 The following motion has been proposed by Thomas Zermeno of SSL.com and has been endorsed by Martijn Katerbarg of Sectigo and Ben Wilson of Mozilla.
 
-## ## Motion begins
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” (“Baseline Requirements”), based on Version 2.0.0.
 
-MODIFY the Baseline Requirements as specified in the following Redline: [https://github.com/cabforum/servercert/compare/a0360b61e73476959220dc328e3b68d0224fa0b3…SSLcom:servercert:958e6ccac857b826fead6e4bd06d58f4fdd7fa7a][1]
+MODIFY the Baseline Requirements as specified in the following Redline: [Redline Proposal](https://github.com/cabforum/servercert/compare/a0360b61e73476959220dc328e3b68d0224fa0b3...SSLcom:servercert:958e6ccac857b826fead6e4bd06d58f4fdd7fa7a)
 
-## ## Motion ends
+## Motion ends
 
 The procedure for approval of this ballot is as follows:
 
@@ -70,9 +70,7 @@ The procedure for approval of this ballot is as follows:
 - Start time: 2023-06-26 22:00:00 UTC
 - End time: 2023-07-03 21:59:59 UTC
 
-# Vote for approval (7 days)\*\* \*\*
+# Vote for approval (7 days)
 
 - Start Time: 2023-07-06 17:00:00
 - End Time: 2023-07-13 16:59:59
-
-[1]: https://github.com/cabforum/servercert/compare/a0360b61e73476959220dc328e3b68d0224fa0b3...SSLcom:servercert:958e6ccac857b826fead6e4bd06d58f4fdd7fa7a

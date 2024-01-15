@@ -50,7 +50,7 @@ Tim Hollebeek requested that the CABF host a high level discussion on the use of
 
 Stephen noted that questions had arisen relating to finding phone numbers, which may not always be provided in government data sources. He said he believed that the existing text allowed the use of “QIIS” type resources for phone numbers but that this may be an area that the WG may wish to improve. Bruce and Tim supported this. Stephen noted that even the phone book would be a QIIS. Tim asked if any Cert Consumers had issues with this: no issues were raised.
 
-Ben Wilson noted that Mozilla had distributed guidance points on the lists and at [https://wiki.mozilla.org/CA/Transition_SMIME_BRs][1]. This includes some guardrails for the acceptable reissuance of Issuing CAs.
+Ben Wilson noted that Mozilla had distributed guidance points on the lists and at [wiki.mozilla.org](https://wiki.mozilla.org/CA/Transition_SMIME_BRs). This includes some guardrails for the acceptable reissuance of Issuing CAs.
 
 Stephen asked if Certificate Issuers were having issues with finding organizationIdentifiers for Orgs. None were raised. He noted that the SBR text included the prefix “GOV” which at the time of writing was in a draft being discussed at ETSI for 319 412-1 but appears to not have moved ahead.
 
@@ -58,9 +58,9 @@ Tim provided an update on the CAA RFC at the IETF. It has cleared final call and
 
 Stephen commented that ETSI TS 119 411-6 (overlaying the SBR on ETSI requirements) was going through remote consensus and was expected to become final around the time of the SBRv1. In the meantime, the text in SMC03 is adequate for Certificate Issuers who use ETSI audits.
 
-Stephen asked if any Certificate Issuers would be interested in working on a ballot to include a signature scheme (such as eIDAS) as a vetting option. See [https://github.com/cabforum/smime/blob/main/SBR.md#3241-attribute-collection-of-individual-identity][2] item 4.
+Stephen asked if any Certificate Issuers would be interested in working on a ballot to include a signature scheme (such as eIDAS) as a vetting option. See the relevant section in the SBR [cabforum/smime](https://github.com/cabforum/smime/blob/main/SBR.md#3241-attribute-collection-of-individual-identity) item 4.
 
-Stephen encouraged members to use the issues list on GitHub at [https://github.com/cabforum/smime/issues][3]. Pedro Fuentes asked if the group could do a routine review of those issues in a call.
+Stephen encouraged members to use the issues list on GitHub at [cabforum/smime](https://github.com/cabforum/smime/issues). Pedro Fuentes asked if the group could do a routine review of those issues in a call.
 
 ### 6. Any Other Business
 
@@ -71,7 +71,3 @@ None
 Next call: tentative Wednesday, August 2, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-[1]: https://wiki.mozilla.org/CA/Transition_SMIME_BRs
-[2]: https://github.com/cabforum/smime/blob/main/SBR.md#3241-attribute-collection-of-individual-identity
-[3]: https://github.com/cabforum/smime/issues

@@ -73,11 +73,11 @@ Attendance: IN THE ROOM (FROM SIGN UP SHEET) Ben Wilson (Mozilla), Dean Coclin (
 
 - EV certificates removal or merging EV/OV into one policy (Ian/Bruce)
 
-- Ian – normal OV cert works just fine , no different that EV cert. no difference in smart screen or defender
+- Ian – normal OV cert works just fine, no different that EV cert. no difference in smart screen or defender
 
 - Nick – Microsoft documentation states that there was a difference between EV and OV.
 
-- [https://learn.microsoft.com/en-gb/archive/blogs/ie/microsoft-smartscreen-extended-validation-ev-code-signing-certificates][1]
+- [Microsoft SmartScreen & Extended Validation (EV) Code Signing Certificates][1]
 
 - can we move OV to EV
 
