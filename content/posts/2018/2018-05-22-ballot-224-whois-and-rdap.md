@@ -62,6 +62,8 @@ RFC7482, Request for Comments: 7482, Registration Data Access Protocol (RDAP) Qu
 
 A comparison of the changes can be found at [https://github.com/cabforum/documents/compare/Ballot220…wthayer:Ballot224](https://github.com/cabforum/documents/compare/Ballot220...wthayer:Ballot224)
 
+[https://github.com/cabforum/documents/commit/941f21dbc3e55aef9f7ce76f4d141c7f891ce5de](https://github.com/cabforum/documents/commit/941f21dbc3e55aef9f7ce76f4d141c7f891ce5de)
+
 The procedure for approval of this ballot is as follows:
 
 _**Discussion (7+ days)**_

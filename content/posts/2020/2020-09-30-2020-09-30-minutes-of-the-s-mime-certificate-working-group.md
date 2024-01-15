@@ -38,6 +38,8 @@ The minutes of the September 16 teleconference were approved.
 
 The discussion continued regarding the fields in S/MIME leaf certificates.
 
+https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing
+
 Validity period: confirming that initial version will seek a maximum validity SHOULD of 27 months and a MUST of 5 years rather than seek to vary by use of tokens or other variables.
 
 Subject DN: will be addressed later in our work, with the exception of noting that all email addresses in an S/MIME certificate must be verified whether in Subject DN or SAN. There was a preference towards adopting the BR and Gmail requirement for an email address in the Subject to be repeated in the SAN).

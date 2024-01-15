@@ -16,7 +16,7 @@ Motion
 
 Tim Moses made the following motion, and Eddy Nigg and Gerv Markham endorsed it:
 
-… Motion begins …
+## Motion begins
 
 The Forum requests the list manager to establish a new Forum mail list called . Current subscribers to the “management” mail list should be subscribed to the list with no action required on their part. Forum members (both voting and observing) should be allowed to post to the list. Anyone else should be allowed to subscribe and receive posted messages. But, until a mechanism for obtaining their agreement to the IPR policy has been implemented, they should not be allowed to post messages to the list.
 
@@ -28,4 +28,4 @@ The ballot review period comes into effect at 21:00 UTC on April 27, 2012 and wi
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-… Motion ends …
+## Motion ends

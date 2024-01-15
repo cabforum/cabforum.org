@@ -31,9 +31,9 @@ The voting period for Ballot Forum-9 has ended and the **Ballot has Passed**.
 
 **3 votes total including abstentions**
 
-- \*\*3 Yes votes: \*\*Cisco, Microsoft, Mozilla
+- **3 Yes votes:** Cisco, Microsoft, Mozilla
 - **0 No votes:**
-- \*\*0 Abstain: \*\*
+- **0 Abstain:**
 
 100% of voting Certificate Consumers voted in favor.
 
@@ -43,9 +43,8 @@ Bylaw 2.3(f) requires:
 
 - A “yes” vote by two-thirds of Certificate Issuer votes and 50%-plus-one Certificate Consumer votes for approval. Votes to abstain are not counted for this purpose. _This requirement was met_ for both Certificate Issuers and Certificate Consumers.
 - At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. _This requirement was also met._
--
 - Under Bylaw 2.3(g), “a ballot result will be considered valid only when more than half of the number of currently active Members has participated”. Votes to abstain are counted in determining a quorum.
-- 21 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **10**, so quorum was\*\* 11 votes\*\* –\_ quorum was met\_.
+- 21 member companies attended the last teleconference, and quorum was updated accordingly. Half of currently active Members as of the start of voting was **10**, so quorum was **11 votes** – _quorum was met_.
 
 ## Ballot FORUM-9
 
@@ -56,20 +55,21 @@ Bylaw 2.3(f) requires:
 - Move Forum membership requirements to the SCWG Charter and clarify them
 - Clarify CWG voting rules
 - Clarify process for CWG officer elections
--
 
 The following motion has been proposed by Wayne Thayer of Mozilla and endorsed by Dimitris Zacharopoulos of HARICA and Tim Hollebeek of DigiCert to amend the Bylaws of the CA/Browser Forum and the Server Certificate Working Group Charter.
 
-### - MOTION BEGINS –
+### Motion Begins
 
 1. Amendment to the Bylaws: replace the entire text of the Bylaws of the CA/Browser Forum with the following:
 
-1. Amendment to the SCWG Charter: replace the entire text of the Server Certificate Working Group Charter with the following:
+   [https://github.com/cabforum/documents/blob/f749189752994b378fae2ca9b8f22f51fcc2e204/docs/Bylaws.md](https://github.com/cabforum/documents/blob/f749189752994b378fae2ca9b8f22f51fcc2e204/docs/Bylaws.md)
 
-<https://github.com/cabforum/documents/blob/f749189752994b378fae2ca9b8f22f51fcc2e204/docs/SCWG-charter.md>
+2. Amendment to the SCWG Charter: replace the entire text of the Server Certificate Working Group Charter with the following:
 
-### ## Motion ends
+   [https://github.com/cabforum/documents/blob/f749189752994b378fae2ca9b8f22f51fcc2e204/docs/SCWG-charter.md](https://github.com/cabforum/documents/blob/f749189752994b378fae2ca9b8f22f51fcc2e204/docs/SCWG-charter.md)
 
-\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+### Motion ends
 
-A comparison of the changes can be found at: <https://github.com/cabforum/documents/compare/0616216..f749189?diff=split>
+**WARNING**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+
+A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/0616216..f749189?diff=split](https://github.com/cabforum/documents/compare/0616216..f749189?diff=split)

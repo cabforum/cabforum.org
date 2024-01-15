@@ -21,7 +21,7 @@ Jeremy Rowley made the following motion, and Dean Coclin and Richard Smith endor
 
 Effective immediately.
 
-… Erratum begins …
+### Erratum begins
 
 _A. Replace the definition of “Domain Authorization” in Section 4 of the Baseline Requirements with the following:_
 
@@ -165,10 +165,10 @@ The CA SHALL verify the Applicant’s address using a form of identification tha
 
 The CA SHALL verify the certificate request with the Applicant using a Reliable Method of Communication.”
 
-… Erratum ends …
+### Erratum ends
 
 The ballot review period comes into effect at 21:00 UTC on 17 May 2012 and will close at 21:00 UTC on 24 May 2012. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 21:00 UTC on 31 May 2012. Votes must be cast by “reply all” to this email.
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-… Motion ends …
+## Motion ends

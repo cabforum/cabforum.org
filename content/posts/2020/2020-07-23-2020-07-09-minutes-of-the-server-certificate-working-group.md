@@ -40,7 +40,7 @@ Minutes were approved
 
 The draft minutes of that particular Subcommittee meeting are available at the following thread:
 
--
+- [https://lists.cabforum.org/pipermail/validation/2020-July/001500.html](https://lists.cabforum.org/pipermail/validation/2020-July/001500.html)
 
 ### 6. NetSec Subcommittee Update
 

@@ -16,9 +16,9 @@ Motion
 
 Jeremy Rowley made the following motion, and Ryan Hurst and Robin Alden endorsed it:
 
-… Motion Begins …
+## Motion begins
 
-… Erratum Begins …
+### Erratum begins
 
 A. In Section 10.2.3, after the first paragraph, insert: “The CA SHALL establish and follow a documented procedure for verifying all data requested for inclusion in the Certificate by the Applicant.”
 
@@ -42,7 +42,7 @@ ii. the Applicant can otherwise demonstrate the right to assert the data in a pu
 
 b) semantics that, if included, will mislead a Relying Party about the certificate information verified by the CA (such as including extendedKeyUsage value for a smart card, where the CA is not able to verify that the corresponding Private Key is confined to such hardware due to remote issuance).
 
-… Erratum ends …
+### Erratum ends
 
 The review period for this ballot shall commence at 21:00 UTC on 7 February 2013 and will close at 21:00 UTC on 14 February 2013. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 21:00 UTC on 21 February 2013. Votes must be cast by posting an on-list reply to this thread.
 

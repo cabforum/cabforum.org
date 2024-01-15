@@ -16,7 +16,7 @@ Motion
 
 Jeremy Rowley made the following motion, and Simon Labram and Rich Smith endorsed it:
 
-… Motion begins …
+## Motion begins
 
 The Forum adopts, with immediate effect, the document entitled “Guidelines For The Issuance And Management Of Extended Validation Certificates, Version 1.4, Draft 04” as Version 1.4 of the EV Guidelines. The Forum also adopts, with immediate effect, the document entitled “Guidelines for the Issuance and Management of Extended Validation Code Signing Certificates” as Version 1.1 of the EV Code Signing Guidelines. The documents were circulated for review on 22 Mar 2012 and discussed during the telephone conference on 5 Apr 2012.
 
@@ -30,4 +30,4 @@ A vote in favor of the motion must indicate a clear ‘yes’ in the response. A
 
 The latest vote received from any representative of a voting member before the close of the voting period will be counted.
 
-… Motion ends …
+## Motion ends

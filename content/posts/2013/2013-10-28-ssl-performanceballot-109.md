@@ -26,7 +26,7 @@ Deliverables: the Working Group shall produce one or more documents giving best 
 
 Expiration Date: the Working Group shall expire twenty-seven months (“one EV”) from the passing of this resolution, unless extended by a further ballot of the Members, such a ballot to specify the extension period and any necessarily modifications of the scope and deliverables.
 
-… Motion ends …
+## Motion ends
 
 Voting starts at 2200 UTC on Monday, October 21, 2013. The voting period will close at 2200 UTC on Monday, October 28, 2013. During this period, if the ballot is modified for reasons other than to correct minor typographical errors, then the ballot will be deemed to have been withdrawn.
 

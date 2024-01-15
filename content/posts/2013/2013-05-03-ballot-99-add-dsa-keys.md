@@ -12,15 +12,15 @@ type: post
 
 Ballot 99 – Add DSA Keys (Passed)
 
-… Motion Begins …
+## Motion begins
 
-… Erratum Begins …
+### Erratum begins
 
 In the Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates, Appendix A, add to each of the tables (1) Root CA Certificates, (2) Subordinate CA Certificates, and (3) Subscriber Certificates a new row with these three column entries (comma-separated): Minimum DSA modulus and divisor size (bits) \*\*\*, L= 2048, N= 224 or L= 2048, N= 256, L= 2048, N= 224 or L= 2048, N= 256
 
 Following Table 3, change the first sentence to read (++added language++): * SHA-1 MAY be used ++with RSA keys++ until SHA-256 is supported widely by browsers used by a substantial portion of relying-parties worldwide.
 
-After “\*\* A Root CA Certificate issued…”, add: \*\*\* L and N (the bit lengths of modulus p and divisor q, respectively) are described in the Digital Signature Standard, FIPS 186-3 ().
+After “\*\* A Root CA Certificate issued…”, add: \*\*\* L and N (the bit lengths of modulus p and divisor q, respectively) are described in the Digital Signature Standard, FIPS 186-3 ([http://csrc.nist.gov/publications/fips/fips186-3/fips_186-3.pdf](http://csrc.nist.gov/publications/fips/fips186-3/fips_186-3.pdf)).
 
 To Section “(4) General requirements for public keys”, add:
 
@@ -28,7 +28,7 @@ DSA: Although FIPS 800-57 says that domain parameters may be made available at s
 
 ECC: The CA SHOULD confirm the validity of all keys using either the ECC Full Public Key Validation Routine or the ECC Partial Public Key Validation Routine. \[Source: Sections 5.6.2.5 and 5.6.2.6, respectively, NIST SP 800-56A\].
 
-… Erratum Ends …
+### Erratum ends
 
 The review period for this ballot shall commence at 21:00 UTC on 19 April 2013 and will close at 21:00 UTC on 26 April 2013. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 21:00 UTC on 3 May 2013. Votes must be cast by posting an on-list reply to this thread.
 

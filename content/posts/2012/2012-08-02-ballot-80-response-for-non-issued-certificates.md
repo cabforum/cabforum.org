@@ -20,7 +20,7 @@ Yngve Pettersen made the following motion and Ben Wilson and Carsten Dahlenkamp 
 
 Effective 1 Feb 2013
 
-… Erratum begins …
+### Erratum begins
 
 Insert a new section at the end of section 13.2 of the Baseline Requirements with the following heading and text:
 
@@ -30,7 +30,7 @@ If the OCSP responder receives a request for status of a certificate that has no
 
 Effective 1 August 2013, OCSP responders MUST NOT respond with a “good” status for such certificates.”
 
-… Erratum ends …
+### Erratum ends
 
 The ballot review period comes into effect at 21:00 UTC on 19 July 2012 and will close at 21:00 UTC on 26 July 2012. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 21:00 UTC on 2 August 2012. Votes must be cast by posting an on-list reply to this thread.
 

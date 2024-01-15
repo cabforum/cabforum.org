@@ -41,7 +41,7 @@ Scope: The CP Review Working Group will (i) consider existing and proposed stand
 
 Deliverables: The Working Group will produce topics of discussion and proposed ballots that improve the CA infrastructure based on existing standards and documents. The Working Group will also make a recommendation on whether to finish the 3647 conversion. Of course, all work product produced by the Working Group is non-binding on the forum until officially adopted by ballot.
 
-## … MOTION ENDS …
+## Motion ends
 
 The review period starts on Wednesday, June 25, 2014 and ends on July 2, 2014. Voting starts at 2200 UTC on Wednesday, July 2, 2014. The voting period will close at 2200 UTC on Wednesday, July 9, 2014.
 

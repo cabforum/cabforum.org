@@ -77,6 +77,8 @@ The discussion continued to continue reviewing known example requirements that a
 
 There was a discussion regarding gateway certs (if they adhere to RFC 3183/domain Security Services for S/MIME) or if they were standard certs. It appears there is variation in practice with some being issued to a group email address while others apply to an entire domain. Many are used for gateway-to-gateway authentication. Further investigation is required into standardization of these domain certs. Ben Wilson raised the Direct profile which includes a domain cert that appears to match that description – and offered to add it to the standards sheet:
 
+https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing
+
 The Chair suggested setting up a separate sheet to gather different CA profiles, given the wide apparent practice in S/MIME.
 
 ### 6. Any Other Business

@@ -64,7 +64,7 @@ Here is a list of major changes:
 
 1. PDF (attached)
 1. DOCX (attached)
-1. GitHub redline available at https://github.com/cabforum/documents/compare/fc63be73323195abc4e462708ca0385e37b7043d..a94d136c6ddbd0024e9bdc70785aa71f1e2f6753#diff-c2f0349076f544cc0e9f059f30f21a85
+1. GitHub redline available at [https://github.com/cabforum/documents/compare/fc63be73323195abc4e462708ca0385e37b7043d..a94d136c6ddbd0024e9bdc70785aa71f1e2f6753#diff-c2f0349076f544cc0e9f059f30f21a85][3]
 
 ## Motion ends
 
@@ -79,3 +79,4 @@ Forum-12 – Update CA/B Forum Bylaws
 
 [1]: https://wiki.cabforum.org/forum-12_-_update_cab_forum_bylaws_to_version_2.3#purpose_of_ballot
 [2]: https://docs.google.com/document/d/1EtrIy3F5cPge0_M-C8J6fe72KcVI8H5Q_2S6S31ynU0
+[3]: https://github.com/cabforum/documents/compare/fc63be73323195abc4e462708ca0385e37b7043d..a94d136c6ddbd0024e9bdc70785aa71f1e2f6753#diff-c2f0349076f544cc0e9f059f30f21a85

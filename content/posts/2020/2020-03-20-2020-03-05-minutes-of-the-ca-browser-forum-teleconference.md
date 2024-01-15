@@ -52,7 +52,7 @@ Dimitris updated the wiki page ([https://wiki.cabforum.org/meeting_action_items]
 
 ### 8. Preparation for the next update to Bylaws
 
-Dimitris went over the latest proposed changes as documented in .
+Dimitris went over the latest proposed changes as documented in [https://docs.google.com/document/d/1i-stbEb7de6yL6tGg2NWqGnCCgBg9Y8P][2].
 
 He mentioned that this ballot will allow a minimum discussion period of 14 days, giving time for extended review by some Member’s legal teams.
 
@@ -69,3 +69,4 @@ March 19, 2020 at 11:00 am Eastern Time.
 ### Adjourned
 
 [1]: https://wiki.cabforum.org/meeting_action_items
+[2]: https://docs.google.com/document/d/1i-stbEb7de6yL6tGg2NWqGnCCgBg9Y8P

@@ -21,7 +21,7 @@ _Baseline Requirements (BR)_
 
 Document History
 
-Implementers’ Note: Version 1.1 of these SSL Baseline Requirements was published on September 14, 2012. Version 1.1 of WebTrust’s SSL Baseline Audit Criteria and ETSI Technical Standard Electronic Signatures and Infrastructures (ESI) 102 042 version 2.3.1 incorporate version 1.1 of these Baseline Requirements and are currently in effect. See and also [http://www.etsi.org/deliver/etsi_ts/102000_102099/102042/02.03.01_60/ts_102042v020301p.pdf][1] .
+Implementers’ Note: Version 1.1 of these SSL Baseline Requirements was published on September 14, 2012. Version 1.1 of WebTrust’s SSL Baseline Audit Criteria and ETSI Technical Standard Electronic Signatures and Infrastructures (ESI) 102 042 version 2.3.1 incorporate version 1.1 of these Baseline Requirements and are currently in effect. See [http://www.webtrust.org/homepage-documents/item27839.aspx](http://www.webtrust.org/homepage-documents/item27839.aspx) and also [http://www.etsi.org/deliver/etsi_ts/102000_102099/102042/02.03.01_60/ts_102042v020301p.pdf][1] .
 
 Section 3. References
 
@@ -29,7 +29,7 @@ ETSI TS 119 403 Electronic Signatures and Infrastructures (ESI); Trust Service P
 
 ETSI TS 102 042 V2.1.1, Electronic Signatures and Infrastructures (ESI); Policy requirements for certification authorities issuing public key certificates.
 
-WebTrust Program for Certification Authorities Version 2.0, available at .
+WebTrust Program for Certification Authorities Version 2.0, available at [http://www.webtrust.org/homepage-documents/item27839.aspx](http://www.webtrust.org/homepage-documents/item27839.aspx).
 
 Section 17.1 Eligible Audit Schemes
 

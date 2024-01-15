@@ -50,7 +50,7 @@ $ORIGIN example.com
 
 ## Motion ends
 
-A comparison of the changes can be found at: https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1
+A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1](https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1)
 
 The procedure for approval of this ballot is as follows:
 **Discussion (7+ days):**

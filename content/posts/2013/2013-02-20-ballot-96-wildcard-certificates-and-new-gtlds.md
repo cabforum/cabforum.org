@@ -16,9 +16,9 @@ Motion
 
 Jeremy Rowley made the following motion, and Rick Andrews and Steve Roylance endorsed it:
 
-… Motion Begins …
+## Motion Begins
 
-… Erratum Begins …
+### Erratum Begins
 
 Add the following as new Section 11.1.3:
 
@@ -32,7 +32,7 @@ If a wildcard would fall within the label immediately to the left of a registry-
 
 Prior to September 1, 2013, each CA MUST revoke any valid certificate that does not comply with this section of the Requirements.
 
-†Determination of what is “registry-controlled” versus the registerable portion of a Country Code Top-Level Domain Namespace is not standardized at the time of writing and is not a property of the DNS itself. Current best practice is to consult a “public suffix list” such as . If the process for making this determination is standardized by an RFC, then such a procedure SHOULD be preferred.
+†Determination of what is “registry-controlled” versus the registerable portion of a Country Code Top-Level Domain Namespace is not standardized at the time of writing and is not a property of the DNS itself. Current best practice is to consult a “public suffix list” such as [http://publicsuffix.org/](http://publicsuffix.org/). If the process for making this determination is standardized by an RFC, then such a procedure SHOULD be preferred.
 
 Add the following as new Section 11.1.4:
 
@@ -44,11 +44,11 @@ Within 30 days after ICANN has approved a new gTLD for operation, as evidenced b
 
 Within 120 days after the publication of a contract for a new gTLD is published on \[www.icann.org\], CAs MUST revoke each Certificate containing a Domain Name that includes the new gTLD unless the Subscriber is either the Domain Name Registrant or can demonstrate control over the Domain Name.
 
-… Erratum Ends …
+### Erratum Ends
 
 The review period for this ballot shall commence at 21:00 UTC on 6 February 2013 and will close at 21:00 UTC on 13 February 2013. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 21:00 UTC on 20 February 2013. Votes must be cast by posting an on-list reply to this thread.
 
-… Motions ends …
+## Motions ends
 
 A vote in favor of the motion must indicate a clear ‘yes’ in the response.
 

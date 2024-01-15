@@ -24,7 +24,7 @@ Update section 9.4.1 to change both occurrences of “1 April 2015” to “1 Ap
 
 Update the Relevant Compliance Dates table on page ii to change 2015-04-01 to 2014-04-01 in the appropriate line.
 
-… Motion ends …
+## Motion ends
 
 The ballot review period comes into effect immediately upon posting today (Tuesday 26 November 2013) and will close at 2200 UTC on Tuesday 5 December 2013. Unless the ballot is withdrawn or modified during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on Tuesday, 12 December 2013. If the ballot is modified during such voting period for reasons other than to correct minor typographical errors, then the ballot will be deemed to have been withdrawn.
 

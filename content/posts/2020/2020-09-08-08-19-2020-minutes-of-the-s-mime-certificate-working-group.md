@@ -54,6 +54,8 @@ Their membership in the SMCWG was accepted by consensus. In addition, Dean Cocli
 
 It was agreed to begin a discussion of certificate profiles starting at the S/MIME end entity, working up the chain, in comparison to major requirements and standards. The worksheet currently includes aspects of standards from Mozilla, Gmail and the US Federal PKI (thanks for Wendy Brown’s assistance):
 
+https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing
+
 Certificate Issuers were asked to review their profiles for variance from these settings for discussion, with feedback preferred on the public list.
 
 Certificate Consumers were requested if there are technical requirements (must have/can’t have) imposed by their products or services on certificates.

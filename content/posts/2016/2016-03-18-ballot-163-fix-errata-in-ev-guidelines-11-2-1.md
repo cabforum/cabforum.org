@@ -18,7 +18,7 @@ From the CAs, we received 18 YES votes, zero NO votes and 1 Abstention
 
 From the Browsers, we received 2 YES votes, zero NO votes and zero Abstentions
 
-Therefore the ballot passes. Detailed results are posted here:
+Therefore the ballot passes. Detailed results are posted here: [https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI/edit#gid=4](https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI/edit#gid=4)
 
 ## Ballot 163 – Fix Errata in EV Guidelines 11.2.1
 
@@ -32,6 +32,6 @@ In Section 11.2.1(3)(B) of the Extended Validation Guidelines, REPLACE “Regist
 
 The review period for this ballot shall commence at 2200 UTC on 4 March 2016, and will close at 2200 UTC on 11 March 2016. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2200 UTC on 18 March 2016. Votes must be cast by posting an on-list reply to this thread.
 
-A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here: [/about/members/](/about/members/)
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is currently nine (9) members– at least nine members must participate in the ballot, either by voting in favor, voting against, or abstaining.

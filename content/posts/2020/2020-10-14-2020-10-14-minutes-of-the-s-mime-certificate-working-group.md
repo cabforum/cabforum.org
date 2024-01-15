@@ -38,6 +38,8 @@ The minutes of the September 30 teleconference were approved.
 
 The discussion continued regarding the fields in S/MIME leaf certificates.
 
+https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing
+
 keyUsage: there was discussion relating to the encipherOnly and decipherOnly keyUsages that may accompany keyAgreement for ECDH, which were noted as being part of a key escrow scheme that is not known to be in common use. Following discussion, it was proposed these might be marked as “MAY but not recommended”. It was agreed that there is great variety in deployment for split vs dual use keys: settings will need to be specified for split vs dual use keys.
 
 extendedKeyUsage: It was agreed that emailProtection MUST be present and serverAuth, codesigning, timestamping, anyExtendedKeyUsage, and ocspSigning MUST NOT be present.

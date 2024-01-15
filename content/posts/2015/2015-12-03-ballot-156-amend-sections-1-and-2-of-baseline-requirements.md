@@ -16,7 +16,7 @@ In the CA category, we received 19 YES votes, 0 NO votes and 1 Abstention
 
 In the browser category, we received 1 YES vote, 0 NO votes and 0 Abstention
 
-Therefore, the ballot passes. Full ballot results can be found here:
+Therefore, the ballot passes. Full ballot results can be found [here](https://docs.google.com/spreadsheets/d/1FBsMZjlzyvK3mFR1u4qMqvZwlI86yJ-v0am1pCBo8uI/edit#gid=4).
 
 The Policy Review Working Group has reviewed Sections 1 and 2 of the Baseline Requirements and, as a result, suggests that certain changes be made to them. Based on the lack of urgency for these changes and other considerations, the Working Group recommends that Certification Authorities be given one year from the effective date of this amendment before they are required to comply. Therefore, the following motion has been proposed by Ben Wilson of DigiCert and endorsed by Tim Hollebeek of Trustwave and Robin Alden of Comodo:
 
@@ -26,7 +26,7 @@ The Policy Review Working Group has reviewed Sections 1 and 2 of the Baseline Re
 
 1. In Section 1.4.2 add “No stipulation.”
 
-1. In Section 1.5.2 add “Contact information for the CA/Browser Forum is available here: . In this section of a CA’s CPS, the CA shall provide a link to a web page or an email address for contacting the person or persons responsible for operation of the CA.”
+1. In Section 1.5.2 add “Contact information for the CA/Browser Forum is available here: https://cabforum.org/leadership/. In this section of a CA’s CPS, the CA shall provide a link to a web page or an email address for contacting the person or persons responsible for operation of the CA.”
 
 1. In Section 1.5.3 add “No stipulation.”
 
@@ -42,6 +42,6 @@ The Policy Review Working Group has reviewed Sections 1 and 2 of the Baseline Re
 
 The review period for this ballot shall commence at 2100 UTC on Thursday, 19 November 2015, and will close at 2100 UTC on Thursday, 26 November 2015. Unless the motion is withdrawn during the review period, the voting period will start immediately thereafter and will close at 2100 UTC on Thursday, 3 December 2015. Votes must be cast by posting an on-list reply to this thread.
 
-A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed here:
+A vote in favor of the motion must indicate a clear ‘yes’ in the response. A vote against must indicate a clear ‘no’ in the response. A vote to abstain must indicate a clear ‘abstain’ in the response. Unclear responses will not be counted. The latest vote received from any representative of a voting member before the close of the voting period will be counted. Voting members are listed [here](/about/members/).
 
 In order for the motion to be adopted, two thirds or more of the votes cast by members in the CA category and greater than 50% of the votes cast by members in the browser category must be in favor. Quorum is currently nine (9) members– at least nine members must participate in the ballot, either by voting in favor, voting against, or abstaining.

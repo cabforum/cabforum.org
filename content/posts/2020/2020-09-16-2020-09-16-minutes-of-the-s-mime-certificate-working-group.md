@@ -42,6 +42,8 @@ SECOM Trust Systems was accepted as a Certificate Issuer member of the SMCWG by 
 
 A discussion was held of major use cases for S/MIME certificates:
 
+https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing
+
 There was a continued discussion about suitable validity periods for S/MIME certificates. It was noted that S/MIME had more diverse use cases than TLS, and perhaps the best approach initially was to propose a SHOULD at a shorter span (such as 27 months) and a MUST at a maximum (such as 5 years). Gmail enforces a maximum of 27 months; Federal PKI PIV cards of 36 months; several CAs expressed 36 months. Greater variety may be seen in private trust S/MIME.
 
 This lead to a discussion of the goals of setting validity period. Shorter validity periods may increase policy agility to allow reliable aging out the certificates in case of changes to policies or crypto standards. However, they may create challenges to other practices like the use of cryptotokens, and frequent certificate rotation may place a burden on users to maintain an archive of past keys/certificates in order to access past emails.
