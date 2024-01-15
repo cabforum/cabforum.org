@@ -16,7 +16,9 @@ jobs:
         run: |
           ln -s ./static/uploads ./content/uploads
           ln -s ./content ./content/cabforum.org
-          echo Do these exist?
+          echo Debugging here
+          pwd 
+          ls -lah ~/work/cabforum.org/cabforum.org/content/proceedings/minutes
           ls -lah /home/runner/work/cabforum.org/cabforum.org/content/proceedings/minutes
           ls -lah /home/runner/work/cabforum.org/cabforum.org/content/uploads/CA-Browser-Forum-Bylaws-v.-1.5.pdf
 
