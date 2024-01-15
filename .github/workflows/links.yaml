@@ -49,7 +49,8 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.1
         with:
           args: --base ./public --cache --max-cache-age 1d --no-progress ./public
-
+          token: ${{ secrets.CUSTOM_TOKEN }}
+          
       - name: Find Link Checker Issue
         if: env.lychee_exit_code != 0
         uses: micalevisk/last-issue-action@v2
