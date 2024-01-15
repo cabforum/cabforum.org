@@ -36,11 +36,11 @@ The minutes of the March 30 teleconference were approved. The minutes from the l
 
 ### 5. Discussion
 
-The draft the S/MIME Baseline Requirements is available at
+The draft the S/MIME Baseline Requirements is available at [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md)
 
 The working group discussed functional role mailboxes like Help Desk (i.e., not directly associated with a person). These vary from the Pseudonym (i.e., directly associated with a person).
 
-Stephen Davidson walked through new Pseudonym text that was drafted following the last WG session, incorporating ideas and text proposed by Dimitris Zacharopoulos:
+Stephen Davidson walked through new Pseudonym text that was drafted following the last WG session, incorporating ideas and text proposed by Dimitris Zacharopoulos at [https://github.com/cabforum/smime/blob/preSBR/SBR.md#313-anonymity-or-pseudonymity-of-subscribers](https://github.com/cabforum/smime/blob/preSBR/SBR.md#313-anonymity-or-pseudonymity-of-subscribers)
 
 Stephen Davidson questioned whether the functional role type cert would be best handled under the Sponsor-validated or Organization-validated profile. It was suggested the Organization-validated profile might be more appropriate given that the functional role-type mailbox could be a machine or a list of people rather than an individual.
 

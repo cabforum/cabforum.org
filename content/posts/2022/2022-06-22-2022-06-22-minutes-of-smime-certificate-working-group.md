@@ -42,7 +42,7 @@ It was noted that there was lack of clarity in the CABF bye-laws (which describe
 
 It was agreed to drop the call for the normally planned call for July 6 due to the unavailability of various coordinating members of the WG, returning to the normal schedule on July 20.
 
-The WG returned to the discussion of the draft S/MIME Baseline Requirements available at . Stephen Davidson noted that edits are being checked in with noncontroversial updates and corrections based upon feedback.
+The WG returned to the discussion of the draft S/MIME Baseline Requirements available at [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md). Stephen Davidson noted that edits are being checked in with noncontroversial updates and corrections based upon feedback.
 
 Stephen noted a proposed Pull Request created by Martijn on the topic of Subject address fields. Stephen summarized that in our earlier conversations, it was agreed that Subject address fields may all be optional providing flexibility to CAs to include the info or not. Martijn Katerbarg noted that the text in the draft appears to be from the TLS BR whereas the tables showed the May usage. Martijn’s proposal reverted to the TLS BR use in both the text and table.
 

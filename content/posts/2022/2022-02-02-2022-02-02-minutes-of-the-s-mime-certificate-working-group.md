@@ -36,16 +36,16 @@ The minutes of the January 19 teleconference were approved.
 
 ### 5. Discussion
 
-Stephen Davidson and Clint Wilson noted the update to the Apple root certificate program at which includes some points dealing specifically with S/MIME.
+Stephen Davidson and Clint Wilson noted the update to the Apple root certificate program at [https://www.apple.com/certificateauthority/ca_program.html](https://www.apple.com/certificateauthority/ca_program.html) which includes some points dealing specifically with S/MIME.
 
 - Effective April 1, 2022, S/MIME certificates must:
-- include the emailProtection EKU
-- include at least one subjectAlternativeName rFC822Name value containing an email address
-- not have a validity period greater than 1185 days
-- use a signature hash algorithm of greater than or equal strength to SHA-256 (see section 7.1.3.1 and 7.1.3.2 of the CA/B Forum’s Baseline Requirements).
-- meet the following key size requirements:
-- For RSA key pairs, the modulus size must be at least 2048 bits when encoded and its size in bits must be evenly divisible by 8.
-- For ECDSA key pairs, the key must represent a valid point on the NIST P‐256, NIST P‐384 or NIST P‐521 named elliptic curve.
+  - include the emailProtection EKU
+  - include at least one subjectAlternativeName rFC822Name value containing an email address
+  - not have a validity period greater than 1185 days
+  - use a signature hash algorithm of greater than or equal strength to SHA-256 (see section 7.1.3.1 and 7.1.3.2 of the CA/B Forum’s Baseline Requirements).
+  - meet the following key size requirements:
+    - For RSA key pairs, the modulus size must be at least 2048 bits when encoded and its size in bits must be evenly divisible by 8.
+    - For ECDSA key pairs, the key must represent a valid point on the NIST P‐256, NIST P‐384 or NIST P‐521 named elliptic curve.
 
 (Note – this provides clarity on a question Stephen send to the list asking about the use of otherName of type id-on-SmtpUTF8Mailbox in the SAN; under the Apple policy there must always be at least one rfc822Name in the SAN.)
 

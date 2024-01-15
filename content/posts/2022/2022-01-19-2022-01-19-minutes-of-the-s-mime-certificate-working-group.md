@@ -56,7 +56,7 @@ Fotis reminded that there would be interest in accommodating the ACME method des
 
 The group also discussed a proposed new 3.2.2.3 method proposed by Fotis of Google for “Validating applicant as operator of associated mail server”:
 
-The method relies upon checking the domain following the selection process in RFC 5321 Section 5.1 at . Under this method, the Applicant is the email service provider who can be validated using TLS BR methods as controlling the target email domain.
+[The method](https://github.com/cabforum/smime/pull/34/files) relies upon checking the domain following the selection process in [RFC 5321 Section 5.1](https://datatracker.ietf.org/doc/html/rfc5321#section-5.1). Under this method, the Applicant is the email service provider who can be validated using TLS BR methods as controlling the target email domain.
 
 It was agreed that use of this method may require adjustments to other sections such as Enterprise RA, subscriber issuers (such as private key archive or escrow, revocation).
 

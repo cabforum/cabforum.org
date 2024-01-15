@@ -38,7 +38,7 @@ Changes were requested to the June 22 minutes by Dimitris Zacharopoulos relating
 
 The WG discussed the expression of interest of Visa to join the SMCWG. It was agreed to welcome Visa as a Certificate Issuer. It was agreed to distribute information about new membership requests to the Management listserv.
 
-The WG returned to the discussion of the draft S/MIME Baseline Requirements available at .
+The WG returned to the discussion of the draft S/MIME Baseline Requirements available at [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md).
 
 The WG discussed a concern raised by Eva Van Steenberge that the content described in section 3.2.41 subsection 4 relating to vetting based on a “certificate supporting a digital signature applied by the Applicant”. Eva noted that there were many national signature schemes similar to eIDAS that should be allowed, either by name or that a set of eligibility criteria should be described. Clint Wilson noted a preference to describe a set of criteria. Dimitris noted that having both the criteria and a list would be best. Stephen Davidson noted that this list could become quite long as many countries have regulatory regimes for certificate issuers enabling legally valid signatures, which include identity validation requirements.
 
