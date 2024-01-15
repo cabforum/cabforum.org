@@ -18,6 +18,11 @@ jobs:
           mkdir ./cabforum.org
           ln -s ./static/uploads ./cabforum.org/uploads
           ln -s ./content/ ./cabforum.org/content
+          pwd
+          ls -lah
+          ls -lah ./cabforum.org
+          ls -lah ./cabforum.org/content
+          ls -lah ./cabforum.org/uploads
 
       - name: Restore lychee cache
         uses: actions/cache@v3
