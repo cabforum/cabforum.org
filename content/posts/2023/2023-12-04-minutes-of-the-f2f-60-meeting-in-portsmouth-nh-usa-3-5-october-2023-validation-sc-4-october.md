@@ -66,7 +66,7 @@ Slides:
 
 Aaron G: 2 small things.
 
-1. There’s parallel work in DNSOP WG of IETF, draft around domain verification techniques. While it’s likely not going to be a normative RFC, it does call out that if you’re doing domain control verification via CNAME records, then the value you’re delegating to should be a random value. This guarantees that the subdomains used by the CA are unique to each Applicant/Subscriber.
+1. There’s parallel work in DNSOP WG of IETF, draft around domain verification techniques. While it’s likely not going to be a normative RFC, it does call out that if you’re doing domain control verification via CNAME records, then the value you’re delegating to should be a random value. This guarantees that the subdomains used by the CA are unique to each Applicant/Subscriber. 
 
 Slaughter: Is the important attribute the randomness or the uniqueness?
 
@@ -132,7 +132,7 @@ Corey: Next steps will be producing ballot text for updating method 7 and then s
 
 ## Presentation on MPDV/MPIC
 
-Slides:
+Slides: [https://drive.google.com/file/d/1LTwtAwHXcSaPVSsqKQztNJrV2ozHJ7ZL/view?usp=drive_link](https://drive.google.com/file/d/1LTwtAwHXcSaPVSsqKQztNJrV2ozHJ7ZL/view?usp=drive_link)
 
 (Regarding slide around RPKI’s ability to impact equally-specific prefix attack)
 
@@ -142,7 +142,7 @@ Tobias: No, this is not correct. This is the understood state of RPKI, you can a
 
 Paul V: You can’t announce someone else’s AS.
 
-Tobias: You can. It was intented to catch misconfigurations more than provide security, though it has security properties because if you inject a path this way it’ll basically always be longer since there’s at least one additional element.
+Tobias: You can. It was intended to catch misconfigurations more than provide security, though it has security properties because if you inject a path this way it’ll basically always be longer since there’s at least one additional element.
 
 Paul V: It’s not important. It was just a comment that it might be a more detailed scenario, but what you’re saying might be true.
 

@@ -36,7 +36,7 @@ The minutes of the March 2 teleconference were approved. The minutes from the F2
 
 ### 5. Discussion
 
-The draft S/MIME Baseline Requirements is available at
+The draft S/MIME Baseline Requirements is available at [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md)
 
 The WG discussed the path to ballot. Stephen Davidson described the rules for ballots under the WG Charter and the CABF Byelaws. He noted that the draft was essentially “content complete” barring resolution of some minor questions, and cleanup for consistency and section titles. He noted that some participants like Joanna Fox and Martijn Katerbarg were already providing feedback for which he was grateful.
 

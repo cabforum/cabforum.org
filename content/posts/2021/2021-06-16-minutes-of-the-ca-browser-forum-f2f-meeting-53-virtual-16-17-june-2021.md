@@ -52,8 +52,7 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 
 **Speaker**: Ben Wilson (Mozilla)  
 **Minutes**: Ryan Sleevi  
-
-**Presentation:** https://docs.google.com/document/d/1RFAsizaxCYQCgjXGcLXzwlyT_4veXuic59jK1fhcOz0/preview  
+**Presentation:** [https://docs.google.com/document/d/1RFAsizaxCYQCgjXGcLXzwlyT_4veXuic59jK1fhcOz0/preview](https://docs.google.com/document/d/1RFAsizaxCYQCgjXGcLXzwlyT_4veXuic59jK1fhcOz0/preview)
 
 #### Q & A
 
@@ -75,7 +74,7 @@ The minutes for the 27 May and 13 May meetings were approved by general acclamat
 
 **Speaker**: J.P. Hamilton, Jos Purvis (Cisco)  
 **Minutes**: Karina Sirota  
-**Presentation:** </uploads/Cisco-TRSUpdate-F2F53.pdf>  
+**Presentation:** <[https://cabforum.org/uploads/Cisco-TRSUpdate-F2F53.pdf](https://cabforum.org/uploads/Cisco-TRSUpdate-F2F53.pdf)>  
 
 ### Microsoft Root Program Update
 
@@ -142,8 +141,7 @@ _Karina_: Yes, that was recently provided. I’m looking in to a way to provide 
 
 **Speaker**: Kathleen Wilson (Mozilla)
 **Minutes**: Ben Wilson
-
-Presentation: https://docs.google.com/document/d/1o50G0o57P4p4_3GyXxlUmHN2nZKcrj3EAmMSTd86Yxo/edit?usp=sharing
+**Presentation**: [https://docs.google.com/document/d/1o50G0o57P4p4_3GyXxlUmHN2nZKcrj3EAmMSTd86Yxo/edit?usp=sharing](https://docs.google.com/document/d/1o50G0o57P4p4_3GyXxlUmHN2nZKcrj3EAmMSTd86Yxo/edit?usp=sharing)
 
 #### JSON Array of Partitioned CRLs
 
@@ -159,11 +157,11 @@ When a CA opens up the CCADB, they will get a report and if any of the Task List
 
 #### CCADB Enhancements Now Tracked in Bugzilla
 
-CCADB enhancements and bugs are now being tracked in Bugzilla –
+CCADB enhancements and bugs are now being tracked in Bugzilla – [https://wiki.mozilla.org/CA/CCADB_Dashboard](https://wiki.mozilla.org/CA/CCADB_Dashboard)
 
 #### Other Uses of Root Stores
 
-Lists of curated roots are available in the CCADB – https://www.ccadb.org/resources – subject to license appearing there.
+Lists of curated roots are available in the CCADB – [https://www.ccadb.org/resources](https://www.ccadb.org/resources) – subject to license appearing there.
 
 #### CCADB Enhancements
 
@@ -192,7 +190,7 @@ From RFC 3647,S 4.6.5
 
 > This subcomponent is used to describe computer security controls such as: use of the trusted computing base concept, discretionary access control, labels, mandatory access controls, object re-use, audit, identification and authentication, trusted path, security testing, and penetration testing. Product assurance may also be addressed. A computer security rating for computer systems may be required. The rating could be based, for example, on the Trusted System Evaluation Criteria (TCSEC), Canadian Trusted Products Evaluation Criteria, European Information Technology Security Evaluation Criteria (ITSEC), or the Common Criteria for Information Technology Security Evaluation, ISO/IEC 15408:1999. This subcomponent can also address requirements for product evaluation analysis, testing, profiling, product certification, and/or product accreditation related activity undertaken.
 >
-> From [<https://www.ietf.org/rfc/rfc3647](<https://www.ietf.org/rfc/rfc3647)>
+> From [<https://www.ietf.org/rfc/rfc3647](https://www.ietf.org/rfc/rfc3647)>
 
 Dean: NIST IR also says “No Stipulation”
 

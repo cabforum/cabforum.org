@@ -88,7 +88,7 @@ The Random Value SHALL be unique in each email. The email MAY be re-sent in its 
 
 Note: Once the FQDN has been validated using this method, the CA MAY also issue Certificates for other FQDNs that end with all the labels of the validated FQDN. This method is suitable for validating Wildcard Domain Names.
 
-\##### 3.2.2.4.16 Domain Owner Phone published in TXT record
+#### 3.2.2.4.16 Domain Owner Phone published in TXT record
 
 Confirm the Applicant’s control over the FQDN by calling the DNS domain name holder phone number and obtaining a response confirming the Applicant’s request for validation of the FQDN. The CA MUST place the call to a phone number identified in the DNS TXT record defined in Appendix B.
 
@@ -116,15 +116,14 @@ Schemes other than “mailto:” or “tel:” MUST NOT be used. Telephone numbe
 
 The following is an example where the holder of the domain specified the contact property using both an email address and a phone number.
 
+```
 $ORIGIN example.com
+.    CAA 0 issue “ca.example.net”
+.    CAA 0 contact “mailto:domainowner@example.com”
+.    CAA 0 contact “tel:+1-310-555-1212”
+```
 
-. CAA 0 issue “ca.example.net”
-
-. CAA 0 contact “”
-
-. CAA 0 contact “”
-
-\## Support for Legacy Systems
+## Support for Legacy Systems
 
 Some systems still do not have sufficient support for CAA records. To allow users of those systems to specify contact information, a legacy format using text records is allowed. The CAA contact property SHOULD be used instead of TXT records, where feasible.
 
@@ -132,7 +131,7 @@ The DNS TXT record MUST be placed on the “\_caa_contact” subdomain of the do
 
 ## Motion ends
 
-A comparison of the changes can be found at:
+A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/SC2-CAA-Contact?expand=1](https://github.com/cabforum/documents/compare/SC2-CAA-Contact?expand=1)
 
 The procedure for approval of this ballot is as follows:
 

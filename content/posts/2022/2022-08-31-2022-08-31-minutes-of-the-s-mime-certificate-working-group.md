@@ -40,7 +40,7 @@ Wendy Brown asked why the requirement in 7.1 for “non-sequential Certificate s
 
 Stephen Davidson noted that the text was carried over from the Mozilla and Gmail requirements and TLS BR for consistency, particularly as many CAs used the same CA software for different certificate types. Dimitris Zacharopoulos noted that the Mozilla requirement was specific to SHA1.
 
-Stephen reviewed the changes to the draft at that had been made in the past weeks.
+Stephen reviewed the changes to the draft at [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md) that had been made in the past weeks.
 
 Christophe Bonjean asked if changes such as described for Suspension would apply with all existing S/MIME certificates after the effective date, or only new certificates issued after the date. Stephen said that in his opinion the effective date applied to new in-scope certificates issued after the effective date.
 

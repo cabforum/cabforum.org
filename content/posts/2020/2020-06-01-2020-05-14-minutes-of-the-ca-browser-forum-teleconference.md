@@ -45,7 +45,7 @@ Tim asked about the calendar invites on the old system. Jos replied that the old
 
 The draft minutes of that particular Subcommittee meeting are available at the following URL:
 
--
+- [https://lists.cabforum.org/pipermail/infrastructure/2020-May/000229.html](https://lists.cabforum.org/pipermail/infrastructure/2020-May/000229.html)
 
 ### 6. Code Signing Working Group update
 

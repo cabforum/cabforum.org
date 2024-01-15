@@ -40,7 +40,7 @@ More discussion on how to present the Certificate Profiles. The best approach th
 
 The draft minutes of that particular Subcommittee meeting are available at the following thread:
 
-- (please note that this is a side-effect of the transition to the new portal).
+- [https://lists.cabforum.org/pipermail/validation/2020-May/001477.html](https://lists.cabforum.org/pipermail/validation/2020-May/001477.html) (please note that this is a side-effect of the transition to the new portal).
 
 ### 6. NetSec Subcommittee Update
 
@@ -54,7 +54,7 @@ The subcommittee is also making progress on the remote secure zone terminology a
 
 The draft minutes of that particular Subcommittee meeting are available at the following thread:
 
-- (please note that this is a side-effect of the transition to the new portal).
+- [https://lists.cabforum.org/pipermail/netsec/2020-May/000337.html](https://lists.cabforum.org/pipermail/netsec/2020-May/000337.html) (please note that this is a side-effect of the transition to the new portal).
 
 ### 7. Ballot Status
 
@@ -94,7 +94,7 @@ The second is related to 4.9.1.1 which clarifies that if you can derive a privat
 Tim H. Not the spirit of a cleanup. Ryan responded that this should be a cleanup and clarifications for obviously incorrect language and issues that are already identified.
 
 _Disclosures of data sources (Ryan)_
-Updated the preamble with feedback from Doug explaining motivation, goals and roadmap. The ballot text was updated and will be discussed on the next validation call. The requirement moved to October instead of September. Also the requirement of keeping the disclosure accessible 24×7 raised concerns about 24×7 and that perhaps the use of a document sharing platform would be prohibited. It’s been removed and replaced with “readily accessible and online”.
+Updated the preamble with feedback from Doug explaining motivation, goals and roadmap. The ballot text was updated and will be discussed on the next validation call. The requirement moved to October instead of September. Also, the requirement of keeping the disclosure accessible 24×7 raised concerns about 24×7 and that perhaps the use of a document sharing platform would be prohibited. It’s been removed and replaced with “readily accessible and online”.
 
 Originally the disclosure requirement was added in section 8.2.2 of the EV Guidelines but that section was more about disclosing specific CP/CPS OIDs. So, the proposal is to add a new section, 11.1.3 because 11.1 is about verification and this can be coupled nicely.
 

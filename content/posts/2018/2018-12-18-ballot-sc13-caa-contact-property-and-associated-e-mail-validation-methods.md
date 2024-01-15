@@ -83,9 +83,8 @@ The CAA contactemail property takes an email address as its parameter. The entir
 
 The following is an example where the holder of the domain specified the contact property using an email address.
 
-$ORIGIN [example.com](http://example.com).
-
-CAA 0 contactemail “”
+$ORIGIN example.com.
+.    CAA 0 contactemail "mailto:domainowner@example.com"
 
 The contactemail property MAY be critical, if the domain owner does not want CAs who do not understand it to issue certificates for the domain.
 
@@ -97,13 +96,13 @@ The DNS TXT record MUST be placed on the “\_validation-contactemail” subdoma
 
 ## Motion ends
 
-\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+**WARNING**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
-A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4-CAA-CONTACT-email?diff=unified&expand=1](https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1)
+A comparison of the changes can be found at: [https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1](https://github.com/cabforum/documents/compare/Ballot-SC4---CAA-CONTACT-email?diff=unified&expand=1)
 
 The changes between version 5 and version 4 are here:
 
-<https://github.com/cabforum/documents/commit/92dd4a3a9afa38e9abf6765eb19e27508663ae61>
+[https://github.com/cabforum/documents/commit/92dd4a3a9afa38e9abf6765eb19e27508663ae61](https://github.com/cabforum/documents/commit/92dd4a3a9afa38e9abf6765eb19e27508663ae61)
 
 The procedure for approval of this ballot is as follows:
 

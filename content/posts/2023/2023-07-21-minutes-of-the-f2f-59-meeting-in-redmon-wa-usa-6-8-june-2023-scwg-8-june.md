@@ -82,7 +82,7 @@ I’m waiting for him to reach out to me. My assistance will mostly be just with
 
 ## Presentation from Entrust regarding ACME certificate management
 
-Paul van Brouwershaven:
+[Paul van Brouwershaven](/uploads/F2F-59-CABF-SCWG-ACME-Automation.pdf):
 
 We identified challenges to users actually using automation.
 

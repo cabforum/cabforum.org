@@ -51,13 +51,13 @@ Additionally, this proposal introduces changes related to CRL requirements inclu
 
 - CRLs must conform with the proposed profile.
 - CAs must generate and publish either:
-- a full and complete, or
-- a set of partitioned CRLs (sometimes called “sharded” CRLs), that when aggregated, represent the equivalent of a full and complete CRL.
+  - a full and complete, or
+  - a set of partitioned CRLs (sometimes called “sharded” CRLs), that when aggregated, represent the equivalent of a full and complete CRL.
 - CAs issuing Subscriber Certificates must update and publish a new CRL…
-- within twenty-four (24) hours after recording a Certificate as revoked; and
-- Otherwise:
-- at least every seven (7) days if all Certificates include an Authority Information Access extension with an id-ad-ocsp accessMethod (“AIA OCSP pointer”), or
-- at least every four (4) days in all other cases.
+  - within twenty-four (24) hours after recording a Certificate as revoked; and
+  - Otherwise:
+    - at least every seven (7) days if all Certificates include an Authority Information Access extension with an id-ad-ocsp accessMethod (“AIA OCSP pointer”), or
+    - at least every four (4) days in all other cases.
 
 Finally, the proposal revisits the concept of a “short-lived” certificate, introduced in [Ballot 153][1]. As described in this ballot, short-lived certificates (sometimes called “short-term certificates” in ETSI [specifications][2]) are:
 
@@ -83,7 +83,7 @@ This ballot modifies the “Baseline Requirements for the Issuance and Managemen
 
 MODIFY the Baseline Requirements as specified in the following Redline:
 
-[https://github.com/cabforum/servercert/compare/a0360b61e73476959220dc328e3b68d0224fa0b3..b8a0453e59ff342779d5083f2f1f8b8b5930a66a][7]
+[View the Redline changes here][7]
 
 ## Motion ends
 

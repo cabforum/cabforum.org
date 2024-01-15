@@ -37,15 +37,15 @@ Minutes were prepared by Ben Wilson.
 - New Certificate Issuer member: Logius PKIoverheid
 - Primary focus has been on answering questions arising from CAs implementing the S/MIME BRs.
 - Clarification-and-correction ballot SMC03 is pending. The group discussed the major changes covered in the ballot.
-- Clarification of Enterprise RA capabilities
-- Clarification of Mailbox Address definition
-- Clarification of Pseudonym references
-- Correction of some numbering and typo issues
-- Correction of missing keyUsages for EdDSA Certificates
-- Correction of LEI roles
-- Correction of ISO code in organizationIdentifier
-- Clarification of ETSI audit requirements to include 411-2
-- Extant CA transition
+    - Clarification of Enterprise RA capabilities
+    - Clarification of Mailbox Address definition
+    - Clarification of Pseudonym references
+    - Correction of some numbering and typo issues
+    - Correction of missing keyUsages for EdDSA Certificates
+    - Correction of LEI roles
+    - Correction of ISO code in organizationIdentifier
+    - Clarification of ETSI audit requirements to include 411-2
+    - Extant CA transition
 - Release by DigiCert of PKILINT as OSS. Includes lints for the S/MIME BRs. [https://github.com/digicert/pkilint][1]
 - Externally: working with ETSI on TS 119 411-6 on implementation standard-mapping ETSI’s CPs with the S/MIME BRs. Draft will be available within 2 weeks. There is a formal liaison between ETSI and the CABF inviting input from SMCWG members.
 - Discussion of ICA transition - existing or new ICA creation before effective date in “Extant SMIME CA” draft at [https://github.com/srdavidson/smime/tree/Ballot-SMC03][2]. This responds to a comment from a Certificate Consumer that it is often preferable, when a new standard sets a new requirement, that the standard includes transition arrangements. As long as developed with consultation, such “baked in” transition arrangements may simplify adoption by root stores.

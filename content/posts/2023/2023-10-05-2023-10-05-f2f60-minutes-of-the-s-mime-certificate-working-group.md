@@ -67,7 +67,7 @@ None
 
 ### 7. Next call
 
-### Next call: Thursday, October 25, 2023 at 11 am Eastern time.
+Next call: Thursday, October 25, 2023 at 11 am Eastern time.
 
 ### Adjourned
 

@@ -65,7 +65,7 @@ However exceptions may still exist in some EU countries like Germany. Stephen no
 
 Stephen noted the language that existed in ETSI 412-2 for an alternate “national scheme” prefix “according to local definition” and questioned whether it should be introduced to the S/MIME BR. Eva and Jochem van den Berge noted that this text was possibly confusing as no definitive list existed of these local registrations and their common syntax. Adrian Mueller believes that ETSI “national scheme” provision was not frequently used. He reminded the group of a previous proposal from a team of German Certificate Issuers regarding the EU ID, which he would distribute again to the group.
 
-Stephen again noted the issues list is being actively updated at [https://github.com/cabforum/smime/issues][1] and encouraged SMCWG members to comment there.
+Stephen again noted the issues list is being actively updated at [https://github.com/cabforum/smime/issues](https://github.com/cabforum/smime/issues) and encouraged SMCWG members to comment there.
 
 ### 6. Any Other Business
 
@@ -76,5 +76,3 @@ None
 Next call: tentative Wednesday, September 27, 2023 at 11:00 am Eastern Time
 
 ### Adjourned
-
-[1]: https://github.com/cabforum/smime/issues

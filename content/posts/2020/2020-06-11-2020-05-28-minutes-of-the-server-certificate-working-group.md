@@ -40,7 +40,7 @@ Tim said that they found it very useful to have a new column Q in the spreadshee
 
 The draft minutes of that particular Subcommittee meeting are available at the following thread:
 
--
+- [https://lists.cabforum.org/pipermail/validation/2020-May/001478.html][2]
 
 ### 6. NetSec Subcommittee Update
 
@@ -56,7 +56,7 @@ The subcommittee had a long discussion on the availability requirements of OCSP.
 
 The draft minutes of that particular Subcommittee meeting are available at the following thread:
 
--
+- [https://lists.cabforum.org/pipermail/netsec/2020-May/000347.html][3]
 
 ### 7. Ballot Status
 
@@ -138,4 +138,6 @@ June 25, 2020 at 11:00 am Eastern Time.
 
 ### Adjourned
 
-[1]: http://ssl.com/
+[1]: https://ssl.com/
+[2]: https://lists.cabforum.org/pipermail/validation/2020-May/001478.html
+[3]: https://lists.cabforum.org/pipermail/netsec/2020-May/000347.html

@@ -36,7 +36,7 @@ Accepted without objections.
 
 Tim Hollebeek presented. The committee continued discussion of the SubjectDN field for various certificate types. They’re most of the way through the field, but more discussion is needed around these DNs and other fields in the certificate profile.
 
-Subcommittee minutes:
+Subcommittee minutes: [https://lists.cabforum.org/pipermail/validation/2020-September/001564.html](https://lists.cabforum.org/pipermail/validation/2020-September/001564.html)
 
 ### 6. NetSec Subcommittee Update
 
@@ -48,7 +48,7 @@ Ryan Sleevi (Google): Google is a bit concerned with some of the directions you 
 
 Neil: Understood! Yes.
 
-Subcommittee minutes:
+Subcommittee minutes: [https://lists.cabforum.org/pipermail/netsec/2020-September/000404.html](https://lists.cabforum.org/pipermail/netsec/2020-September/000404.html)
 
 ### 7. Ballot Status
 
@@ -62,23 +62,23 @@ _None_**.**
 
 #### Ballots in IPR Review Period
 
-\_SC28: Logging and Log Retention \_(Review ends October 14, 2020)
+_SC28: Logging and Log Retention_ (Review ends October 14, 2020)
 
-_SC35: Cleanups and Clarifications_\_ \_(Review ends October 14, 2020)
+_SC35: Cleanups and Clarifications_ (Review ends October 14, 2020)
 
 #### Draft Ballots under Consideration
 
-\_Minimum expectations regarding weak keys \_(Chris)
+_Minimum expectations regarding weak keys_ (Chris)
 
 Chris was not on the call, but Thanos presented updates: We have taken back the community comments thus far and are going to reply with an update/official status very soon. We are not yet ready to provide a final update (need to discuss more with our engineers), but will at least have official update soon.
 
-\_Offline CA Security Requirements \_(Ben)
+_Offline CA Security Requirements_ (Ben)
 No updates
 
-\_Remove “zone” from NCSSRs and add provisions to BR 5.1 \_(Ben)
+_Remove “zone” from NCSSRs and add provisions to BR 5.1_ (Ben)
 No updates
 
-\_SC34 Account Management \_(Tobi)
+_SC34 Account Management_ (Tobi)
 No updates
 
 ### 8. Topics for the next virtual F2F

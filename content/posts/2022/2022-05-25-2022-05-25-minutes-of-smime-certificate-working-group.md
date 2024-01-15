@@ -36,7 +36,7 @@ The minutes of the May 11 teleconference were approved.
 
 ### 5. Discussion
 
-Stephen Davidson noted that draft the S/MIME Baseline Requirements is available at . This call is open for comments that members may have on the draft. Edits are being checked in with noncontroversial updates and corrections based upon feedback.
+Stephen Davidson noted that draft the S/MIME Baseline Requirements is available at [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md). This call is open for comments that members may have on the draft. Edits are being checked in with noncontroversial updates and corrections based upon feedback.
 
 The group is in the midst of the previously agreed 30-day pre-ballot discussion period, with a goal to sorting out comments at the upcoming F2F meeting in Warsaw. The goal remains to move towards a formal ballot by the end of the summer.
 

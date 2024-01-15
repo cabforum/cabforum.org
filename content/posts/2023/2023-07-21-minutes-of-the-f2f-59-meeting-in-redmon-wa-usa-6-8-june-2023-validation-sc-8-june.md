@@ -41,16 +41,16 @@ Validation WG Chair: Corey Bonnell (DigiCert)
 - Jeremy replied that if you make the terms enforceable then you are basically stating that CAs can’t issue their own certs. Jeremy continued to explain that the Terms of Use was added historically to support Wells Fargo and suggested that the terms can be consolidated to make them clearer.
 - Ben suggested that you could phrase it as the subscriber has accepted or acknowledged the terms of use which Dimitris agreed with.
 - Ben explained that historically, Wells Fargo couldn’t sign a legally enforceable agreement within an organization so the Wells Fargo legal department suggested introducing a concept called the Terms of Use as a path forward.
-- Dustin suggested that we consolidate and have some language around enforcement and acceptance . Dustin presented some example language and asked for comment.
+- Dustin suggested that we consolidate and have some language around enforcement and acceptance. Dustin presented some example language and asked for comment.
 - Martijn read the definition of Subscriber Agreement aloud and asked if that definition already describes the terms of use.
 - Ben replied that yes cleaning up the definition of Subscriber Agreement may have been missed when Terms of Use was added which has led to the current state.
-- Ben provided more examples and suggested that the word “executed” should be replaced with the world “accepted”.. This change in terminology originates with the Validation Working Group discussion on how to better integrate the subscriber agreement into various certificate issuance flow.
+- Ben provided more examples and suggested that the word “executed” should be replaced with the word “accepted”. This change in terminology originates with the Validation Working Group discussion on how to better integrate the subscriber agreement into various certificate issuance flow.
 - Dustin explained various forms of acceptance with different degrees of automation.
-- Ben proposed that “if Terms of “Use aren’t ”legally enforceable“ what do we gain/lose from acceptance via a flag set on an automated certificate request?”
+- Ben proposed that “if Terms of Use aren’t “legally enforceable” what do we gain/lose from acceptance via a flag set on an automated certificate request?”
 - Dimitris replied that I think we had a very nice discussion about one of these issues and restated that nothing is configured out of thin air and scripts are executed, configured and/or created by humans.
 - David agreed and added that someone must have configured the system. David went on to say that is the nature of how software works on the modern web. There is very clear consensus that implicit agreements are legally enforceable as long as someone configures the system and would take the logged consent as valid.
 - Dustin replied that if you have automation via a true or false flag, there is no mechanism to force the user to actually read or view the agreement as they would have with a click-through on a website
-- David replied that it would depend on if the ACME workflow. was the only place that a subscriber or applicant can view the Subscriber Agreement. As an example, his CA hosts the document on the website.
+- David replied that it would depend on if the ACME workflow was the only place that a subscriber or applicant can view the Subscriber Agreement. As an example, his CA hosts the document on the website.
 - Dustin asked if the Subscriber agreement is on a website could the user accept it once when registering an account or is it something that must be done with each request.
 - Martijn commented that if it’s done automatically by script then someone has written the script. We have to be careful about accepting the agreement since a developer might say “yes” without understanding what exactly they are agreeing to.
 - Tobias added that this sounds like a legal question and we should ask an expert. What we need it is to be binding and whether a human is required is a secondary question
@@ -70,10 +70,10 @@ Validation WG Chair: Corey Bonnell (DigiCert)
 - Corey introduced the topic of application delegation of domain validation. This specifically describes when an applicant wants to assert control of a domain name on a certificate, they have to use an underscore prefixed domain name called an authorization domain name that is delegated to another domain name where the controller has added a TXT record that contains the random token used for domain validation.
 - Corey noted that this could be done for HTTP validation using HTTP Redirects but most often applies to DNS validation. The domain owner has a mechanism to opt-out by removing the CNAME record.
 - Corey then recapped the history of the topic. (Links are in slides)
-- Jeremy added that it looks likes the customer has put the order in. If you go too far in enforcing who is taking an action then the validation action resembles OV more so than DV.
+- Jeremy added that it looks like the customer has put the order in. If you go too far in enforcing who is taking an action then the validation action resembles OV more so than DV.
 - Corey reviewed the conclusions from the discussion within the Validation Working Group. 1) Clarity is needed. 2) Applicants generally delegate the performance of many aspects of operating a website. 3) If done correctly, delegation of domain validation boosts agility and automation. 4) There are reasonable interpretations of the BRs that such delegation is allowed today.
-- Clint suggested that based on the fact that clarity is still need and that there are differing interpretations of the BRs on whether or not the practice is allowed, we should first establish that clarity before implementing an interpretation of the current BRs.
-- Tim responded that the ship has sailed on that as there is already wide spread interpretation that the practice of delegating domain validation is allowed and has been adopted by some parties.
+- Clint suggested that based on the fact that clarity is still needed and that there are differing interpretations of the BRs on whether or not the practice is allowed, we should first establish that clarity before implementing an interpretation of the current BRs.
+- Tim responded that the ship has sailed on that as there is already widespread interpretation that the practice of delegating domain validation is allowed and has been adopted by some parties.
 - Paul asked if this would allow for a CA to allow applicants to add a record and continuously issue certificates until the record is removed and wondered if that is indeed the case then are we doing any validation at all?
 - Corey responded that one thing that was raised in the context of these discussions is that there are numerous service providers that already provide this service for ACME.
 - Jeremy added that the problem already exists for dangling CNAMEs and having a fictitious legal entity doesn’t alter that. Unless you are paying very close attention to the Mozilla discussions you would not have thought this was prohibited which is why we need to get it fixed.
@@ -104,7 +104,7 @@ Validation WG Chair: Corey Bonnell (DigiCert)
 - Michael agreed with Dimitris and added that he thinks a two-track approach makes the most sense.
 - Clint added that if we get to the point where we have a well-defined validation method for DNS delegation then we should look at deprecating or removing the less defined mechanism. Clint also asked for more clarity and examples on what CAs are actually doing with the goal of better understanding the risk these third-parties pose to the eco-system.
 - Wayne answered that the core risk that is currently unaddressed is if you do the CNAME delegation without binding it to an account then you’ve created a very insecure validation system and the need for that account binding isn’t currently specified.
-- Corey concluded the meeting by recapping the next steps. We will be taking a two prong approach by leveraging Tim’s language as the starting point for a short term ballot to clarify the current system. Longer term the group will be exploring different validation methods to further enhance automation capability.
+- Corey concluded the meeting by recapping the next steps. We will be taking a two-prong approach by leveraging Tim’s language as the starting point for a short-term ballot to clarify the current system. Longer term the group will be exploring different validation methods to further enhance automation capability.
 - Tim will be leading the next validation working group call on 6/15.
 
 ## Meeting adjourned.

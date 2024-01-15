@@ -46,7 +46,7 @@ Dimitris asked if there was any discussion on the definition of audit logging, a
 
 #### Ballots in Discussion Period
 
-- Ballot SC45: Validation methods for Wildcards/ADNs –
+- Ballot SC45: Validation methods for Wildcards/ADNs – [https://archive.cabforum.org/pipermail/validation/2020-December/001607.html](https://archive.cabforum.org/pipermail/validation/2020-December/001607.html)
 
 #### Ballots in Voting Period
 

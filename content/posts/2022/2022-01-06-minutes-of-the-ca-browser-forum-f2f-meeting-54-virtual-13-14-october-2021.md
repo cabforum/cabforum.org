@@ -47,7 +47,7 @@ Questions: No questions
 
 **Guest Speaker:** Zane Ma
 
-**Slides:** [cabrowser_forum\_-\_ca_transparency.pdf][1]  
+**Slides:** [cabrowser_forum_-_ca_transparency.pdf][1]  
 
 ## Wednesday, 13 October 2021 – Server Certificate Working Group Meeting
 
@@ -60,7 +60,7 @@ As marked for the Wednesday meeting session above
 **Speaker:** Ben Wilson  
 **Minute Taker:** Devon O’Brien
 
-**Handout:** [cab_forum_october_2021\_-\_mozilla_update.pdf][2]  
+**Handout:** [cab_forum_october_2021_-_mozilla_update.pdf][2]  
 
 Starting to work through 63 open issues on GitHub concerning the Mozilla Root Store Policy
 
@@ -211,7 +211,7 @@ New Qualified Trust Services
 **Speaker:** Ian McMillan  
 **Minute Taker:** Eva Van Steenberge
 
-**Slides and Agenda:** [f2f_54\_-\_cswg_202110_v1.pdf][5]
+**Slides and Agenda:** [f2f_54_-_cswg_202110_v1.pdf][5]
 
 ### Roll Call
 

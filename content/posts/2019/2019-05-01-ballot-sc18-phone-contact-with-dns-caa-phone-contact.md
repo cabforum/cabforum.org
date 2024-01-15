@@ -93,7 +93,7 @@ The contactphone property MAY be critical if the domain owner does not want CAs 
 
 A comparison of the changes can be found at:
 
-https://github.com/dougbeattie/documents/compare/master…dougbeattie:SC18-v1-CAA-Phone-Validation
+https://github.com/dougbeattie/documents/compare/master...dougbeattie:SC18-v1-CAA-Phone-Validation
 
 The procedure for approval of this ballot is as follows:
 

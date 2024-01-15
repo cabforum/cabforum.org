@@ -23,7 +23,7 @@ Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones
 
 ## Minutes
 
-\*\*Presentation link: \*\*
+**Presentation link:** [/uploads/2-CABF_Future-meetings.pdf](/uploads/2-CABF_Future-meetings.pdf)
 
 ## Discussion outside the presentation
 
@@ -43,21 +43,21 @@ Aaron Gable (Let’s Encrypt), Aaron Poulsen (Amazon Trust Services), Adam Jones
 
 **Minutes:** Ben Wilson (Mozilla)  
 
-\*\*Presentation link: \*\*
+**Presentation link:** [/uploads/3-CABF_Bylaws-2.5-updates.pdf](/uploads/3-CABF_Bylaws-2.5-updates.pdf)
 
 ## Discussion outside the presentation
 
 Dimitris reviewed proposed bylaw changes.
 
 1. The first topic was who must sign the IPR Agreement? If there is a legal entity that is the owner of the CA that is different than the actual operator of the CA, then both entities should sign the IPR Agreement.
-1. The reading of the Antitrust Statement should not be required for every meeting. There will be Notewell read at the beginning of teleconferences. The full antitrust statement will be read at the beginning of the face-to-face meetings.
-1. The Associate Member Category currently includes “probational” CAs, so a new category of “Probational Certificate Issuers” will be created. Wayne said that the category is rare and wondered whether it was needed. Dimitris said it is better to have more inclusive rules. Wayne said that the current proposal is too vague. Wayne suggested that a qualifying audit (including a point-in-time) should be the threshold. Dimitris will consider Wayne’s suggestion further.
-1. We will remove “Root Certificate Issuer” from the bylaws and merge it with “Certificate Issuer”.
-1. Publication of Subcommittee Minutes. There will be a clarification that they do not need to be published/maintained on the public website. Minutes should be published to the group’s public list. However, there needs to be a process where draft minutes are first sent to the group’s management list, not the public list.
-1. We discussed what it means to be “actively” issuing certificates. In past discussions, there was not a compelling argument for requiring the applicant to demonstrate that they were “actively” issuing certificates. This is also related to the requirement that they issue certificates to “third party” websites. So “actively” would be removed from the requirement. The requirement for “third party” website will also be removed. Any website would do.
-1. We discussed the minimum number of days for review of minutes to prevent minutes from being circulated within the day before the meeting in which they are approved. It was suggested that a week be provided for review of minutes. Based on previous conversations, Dimitris recommended setting a minimum threshold of 3 or 5 calendar days for the draft minutes to be distributed before being considered ready for approval, giving some minimum reasonable time for Members to review. There was a quick straw poll if there was a preference between 3 or 5 calendar days and the results were inconclusive so Dimitris will proceed with a doodle poll.
-1. Review and alignment of WG Charters – we should take a look at the S/MIME WG charter and harmonize charters and revise the template. Dimitris recommended that we do this with a single ballot. Dimitris asked how we should go about adopting the charter template in the Bylaws. There was no objection to moving forward with his plan.
-1. Ballot quorum. We need to clarify the voting rules on what takes precedence, the Bylaws or the Charter. Martijn said it is slightly unclear and needs work. Further work on this topic is needed.
+2. The reading of the Antitrust Statement should not be required for every meeting. There will be Notewell read at the beginning of teleconferences. The full antitrust statement will be read at the beginning of the face-to-face meetings.
+3. The Associate Member Category currently includes “probational” CAs, so a new category of “Probational Certificate Issuers” will be created. Wayne said that the category is rare and wondered whether it was needed. Dimitris said it is better to have more inclusive rules. Wayne said that the current proposal is too vague. Wayne suggested that a qualifying audit (including a point-in-time) should be the threshold. Dimitris will consider Wayne’s suggestion further.
+4. We will remove “Root Certificate Issuer” from the bylaws and merge it with “Certificate Issuer”.
+5. Publication of Subcommittee Minutes.  There will be a clarification that they do not need to be published/maintained on the public website. Minutes should be published to the group’s public list. However, there needs to be a process where draft minutes are first sent to the group’s management list, not the public list.
+6. We discussed what it means to be “actively” issuing certificates. In past discussions, there was not a compelling argument for requiring the applicant to demonstrate that they were “actively” issuing certificates. This is also related to the requirement that they issue certificates to “third party” websites. So “actively” would be removed from the requirement.  The requirement for “third party” website will also be removed. Any website would do.
+7. We discussed the minimum number of days for review of minutes to prevent minutes from being circulated within the day before the meeting in which they are approved.  It was suggested that a week be provided for review of minutes. Based on previous conversations, Dimitris recommended setting a minimum threshold of 3 or 5 calendar days for the draft minutes to be distributed before being considered ready for approval, giving some minimum reasonable time for Members to review. There was a quick straw poll if there was a preference between 3 or 5 calendar days and the results were inconclusive so Dimitris will proceed with a doodle poll.
+8. Review and alignment of WG Charters – we should take a look at the S/MIME WG charter and harmonize charters and revise the template. Dimitris recommended that we do this with a single ballot.  Dimitris asked how we should go about adopting the charter template in the Bylaws. There was no objection to moving forward with his plan.
+9. Ballot quorum. We need to clarify the voting rules on what takes precedence, the Bylaws or the Charter.  Martijn said it is slightly unclear and needs work. Further work on this topic is needed.
 
 ## Updates to Forum public website
 
@@ -65,7 +65,7 @@ Dimitris reviewed proposed bylaw changes.
 
 **Minutes:** Martijn Katerbarg (Sectigo)  
 
-\*\*Presentation link: \*\* No presentation
+**Presentation link:** No presentation
 
 ## Discussion outside the presentation
 
@@ -89,7 +89,7 @@ There is consensus on looking into that, but not as a high priority item.
 
 **Minutes:** Corey Bonnell (Digicert)  
 
-\*\*Presentation link: \*\*
+**Presentation link:** [/uploads/5-2023-February-Mozilla-Update-CABF-Ottawa-F2F.pdf](/uploads/5-2023-February-Mozilla-Update-CABF-Ottawa-F2F.pdf)
 
 ## Discussion outside the presentation
 
@@ -119,11 +119,11 @@ Ben: There is a brief breakdown on the Wiki, but also there is documentation on 
 
 **Minutes:** Trevoli Ponds-White (Amazon)  
 
-**Presentation link:**
+**Presentation link:** [/uploads/6-CABF-F2F-58-Chrome-Browser-Update-PUBLIC.pdf](/uploads/6-CABF-F2F-58-Chrome-Browser-Update-PUBLIC.pdf)
 
 ## Discussion outside the presentation
 
-THERE WAS ADDITIONAL CONTEXT FROM THE PRESENTATION THAT WAS NOT ON THE SLIDES\_\_\_
+___THERE WAS ADDITIONAL CONTEXT FROM THE PRESENTATION THAT WAS NOT ON THE SLIDES___
 
 ### Apple Root Program Update
 
@@ -131,7 +131,7 @@ THERE WAS ADDITIONAL CONTEXT FROM THE PRESENTATION THAT WAS NOT ON THE SLIDES\_\
 
 **Minutes:** Wayne Thayer (Fastly)  
 
-\*\*Presentation link: \*\*
+**Presentation link:** [/uploads/7-2023-February-CABFwiki-Apple.pdf](/uploads/7-2023-February-CABFwiki-Apple.pdf)
 
 Summary of Clint’s presentation:
 
@@ -233,7 +233,7 @@ Summary of Clint’s presentation:
 
 - Wayne Thayer: In working with the same auditor for a long period of time, they consistently found new areas for improvement each year.
 
-- Aaron Gable: The crux of the issue is that it depends on the auditor. In the past year we”ve seen examples of auditors not identifying issues. Changing auditors provides an opportunity to obtain a different perspective.
+- Aaron Gable: The crux of the issue is that it depends on the auditor. In the past year we’ve seen examples of auditors not identifying issues. Changing auditors provides an opportunity to obtain a different perspective.
 
 - Daryn Wright: Most people in the room are CAs. None would choose an auditor that is not experienced. There is a limited number of auditors, and they may not be willing to continue to perform these audits if they can’t keep their clients.
 
@@ -734,11 +734,9 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 ### Code Signing Certificate Working Group Update
 
-**Presentation by:** Bruce Morton (Entrust)
-
+**Presentation by:** Bruce Morton (Entrust)  
 **Minutes:** Bruce Morton (Entrust)  
-
-\*\*Presentation link: \*\*
+**Presentation link:**  
 
 ## Discussion outside the presentation
 
@@ -768,11 +766,9 @@ Dimitris highlighted that under NIS2 Directive, TSPs will be treated as what is 
 
 ### S/MIME Certificate Working Group Update
 
-**Presentation by:** Stephen Davidson (DigiCert)
-
+**Presentation by:** Stephen Davidson (DigiCert)  
 **Minutes:** Martijn Katerbarg (Sectigo)  
-
-**Presentation link:** [/uploads/19-SMCWG-\_20230101_F2F-Intro.pdf][3]
+**Presentation link:** [/uploads/19-SMCWG-\_20230101_F2F-Intro.pdf][3]  
 
 ## Discussion outside the presentation
 
@@ -781,10 +777,8 @@ No discussion outside of presentation bullet points
 ### Network Security Working Group Update
 
 **Presentation by:** Clint Wilson (Apple)
-
 **Minutes:** Corey Bonnel (Digicert)  
-
-\*\*Presentation link: \*\*
+**Presentation link:**  
 
 ## Discussion outside the presentation
 

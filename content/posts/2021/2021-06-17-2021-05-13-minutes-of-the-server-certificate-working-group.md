@@ -67,7 +67,7 @@ None
 
 ##### Ballot SCXX: Debian Weak Keys (Chris)
 
-Chris Kemmerer said that the language was re-posted to the list () and there has been some discussion. Please review and contribute to the discussion.
+Chris Kemmerer said that the language was re-posted to the list ([https://lists.cabforum.org/pipermail/servercert-wg/2021-May/002718.html](https://lists.cabforum.org/pipermail/servercert-wg/2021-May/002718.html)) and there has been some discussion. Please review and contribute to the discussion.
 
 ##### Ballot SC34 Account Management (Tobi)
 

@@ -38,7 +38,7 @@ The minutes of the September 29 teleconference were approved with corrections.
 
 Minutes were taken by Mads Henriksveen, summarized as follows.
 
-Stephen Davidson introduced topic of ‘What’s an S/MIME cert’ from the perspective of the draft S/MIME BRs. Calling attention to the updated Apple CA Policy (see ) Clint Wilson said the EKU and SAN were the main focus. Effective April 1, 2022 Apple will considered a cert with emailProtection EKU and an active email address in the SAN to be S/MIME. He noted that the Subject is used for UI processing, not for trusted processing. Therefore, Apple are explicitly looking for email addresses in the SAN. After the effective date, newly issued S/MIME certs without SAN will not work in Apple email software. Excerpt:
+Stephen Davidson introduced topic of ‘What’s an S/MIME cert’ from the perspective of the draft S/MIME BRs. Calling attention to the updated Apple CA Policy (see [https://www.apple.com/certificateauthority/ca_program.html](https://www.apple.com/certificateauthority/ca_program.html)) Clint Wilson said the EKU and SAN were the main focus. Effective April 1, 2022 Apple will considered a cert with emailProtection EKU and an active email address in the SAN to be S/MIME. He noted that the Subject is used for UI processing, not for trusted processing. Therefore, Apple are explicitly looking for email addresses in the SAN. After the effective date, newly issued S/MIME certs without SAN will not work in Apple email software. Excerpt:
 
 Effective April 1, 2022, S/MIME certificates must:
 
@@ -47,13 +47,13 @@ Effective April 1, 2022, S/MIME certificates must:
 - not have a validity period greater than 825 days
 - use a signature hash algorithm of greater than or equal strength to SHA-256 (see section 7.1.3.1 and 7.1.3.2 of the CA/B Forum’s Baseline Requirements).
 - meet the following key size requirements:
-- For RSA key pairs, the modulus size must be at least 2048 bits when encoded and its size in bits must be evenly divisible by 8.
-- For ECDSA key pairs, the key must represent a valid point on the NIST P‐256, NIST P‐384 or NIST P‐521 named elliptic curve.
+  - For RSA key pairs, the modulus size must be at least 2048 bits when encoded and its size in bits must be evenly divisible by 8.
+  - For ECDSA key pairs, the key must represent a valid point on the NIST P‐256, NIST P‐384 or NIST P‐521 named elliptic curve.
 
 Effective October 1, 2022, CA providers must populate the “Pertaining to Certificates Issued by this CA” section of the CCADB for each included CA Certificate and each CA Certificate chaining up to an included CA Certificate in the Apple Root Program.
 
 - The CRL URLs provided by CAs in this section must be available for successful retrieval by Apple systems a minimum of once every 4 hours.
-- In order to populate this section for Root CA Certificates, please email the Apple Root Program () with the desired details and associated CCADB records.
+- In order to populate this section for Root CA Certificates, please email the Apple Root Program ([certificate-authority-program@apple.com](mailto:certificate-authority-program@apple.com)) with the desired details and associated CCADB records.
 
 Clint also indicated that all CAs are now required to follow the work of this SMCWG with the intent of being well informed of pending changes in the S/MIME standards. It was noted that there are many S/MIME issuers who are not participating in the SMCWG so Apple wished to focus attention on the draft standard.
 
@@ -69,7 +69,7 @@ Dimitris Zacharopoulos asked if there were restrictions on reusing keys. Clint n
 
 Sebastian Schulz pointed out that some of the changes can be done via technical enforcement rather than policy enforcement. Client said it was preferable that the two were aligned. Clint and Tim said it was important to get email clients to adopt the S/MIME BR. It was asked of the other cert clients (including Google, Microsoft, Mozilla) if they had comment on validity periods.
 
-Stephen noted that changes are underway to the draft S/MIME BR in Github:
+Stephen noted that changes are underway to the draft S/MIME BR in Github: [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md)
 
 ### 6. Any Other Business
 

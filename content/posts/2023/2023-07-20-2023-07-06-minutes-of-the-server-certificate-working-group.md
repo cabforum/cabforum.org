@@ -34,7 +34,7 @@ Iñigo: Minutes approved.
 
 - - F2F: not ready yet
 
-Iñigo: Sent out this morning. The validation SC minutes were also sent out this week. Will be approved in 2 weeks during the next call. And then published in the website.
+Iñigo: Sent out this morning. The validation SC minutes were also sent out this week. Will be approved in 2 weeks during the next call. And then published on the website.
 
 ## Membership
 
@@ -76,7 +76,7 @@ Iñigo: the owners of the open issues need to check their own issues and label a
 
 Trev: so owners like Ryan, Clint, Tim, Dimitris, Aaron, Stephen, … are you going to email people or are you just telling them in this call?
 
-Iñigo: I emailed some of this people time ago to review their open tickets, open issues because some were fixed and need to be removed, etc. For example, Tim told me that he was going to review his open tickets
+Iñigo: I emailed some of these people some time ago to review their open tickets, open issues because some were fixed and need to be removed, etc. For example, Tim told me that he was going to review his open tickets
 
 Trev: Are you giving a due date to do this?
 
@@ -84,7 +84,7 @@ Iñigo: No, I´d like to have this done asap and to have it ready for the fall t
 
 Trev: are you taking ownership of those? Items that were opened in the past by people that are not in the group. Are you going to assign them into someone else? How about those belonging to Ryan Sleevi?
 
-Iñigo: I asked Ryan Dickson to take the ownership as they are from Google.
+Iñigo: I asked Ryan Dickson to take ownership as they are from Google.
 
 Trev: Thanks Ryan. Ok, if that´s enough of a label, then that´s great. I don´t think I have any other question, that was ok. Thank you.
 
@@ -92,15 +92,15 @@ Trev: Thanks Ryan. Ok, if that´s enough of a label, then that´s great. I don´
 
 Iñigo: Regarding ballots, both ongoing have finished the discussion period. I´d like to ask the promoters what´s next step.
 
-Tom: yes, we´ve discussed and put a lot of effort in the ballot and want to wrap it up. If changes come later that may be something we can further discuss. So, yes, we´re moving to voting
+Tom: yes, we´ve discussed and put a lot of effort into the ballot and want to wrap it up. If changes come later that may be something we can further discuss. So, yes, we´re moving to voting
 
 Ryan: Yes, the voting period will begin in 15 minutes. I´ll send out an email.
 
 ## Any Other Business
 
-Iñigo: Paul sent a link with the presentation gave in the F2F that have gone to the IETF for discussion.
+Iñigo: Paul sent a link with the presentation given in the F2F that has gone to the IETF for discussion.
 
-[draft-vanbrouwershaven-acme-auto-discovery-00 – Auto-discovery mechanism for ACME client configuration (ietf.org)][1]
+[draft-vanbrouwershaven-acme-auto-discovery-00 – Auto-discovery mechanism for ACME client configuration (ietf.org)](https://datatracker.ietf.org/doc/draft-vanbrouwershaven-acme-auto-discovery/)
 
 Paul: Review the proposal, provide feedback and maybe express your support if you like the idea. I think this is key for an opportunity to move to shorter certificates validity. The proposal is based on the CAA record, and also contains some guidance for establishing an account binding, etc. I just wanted to share with the working group because I think it´s important for everyone here on the call. Your feedback is really appreciated. Thank you.
 
@@ -124,5 +124,3 @@ Paul: Review the proposal, provide feedback and maybe express your support if yo
 - Draft / Under Consideration
 - SCXX – SLO/Response for CRL & OCSP Responses – David Kluge (Google) / Clint Wilson (Apple): on hold
 - SCXX – Clean-up ballot
-
-[1]: https://datatracker.ietf.org/doc/draft-vanbrouwershaven-acme-auto-discovery/

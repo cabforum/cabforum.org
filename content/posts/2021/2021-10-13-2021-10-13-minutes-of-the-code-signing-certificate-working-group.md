@@ -18,21 +18,14 @@ SwissSign (Adrian Mueller), Telia Company (Ali Gholami), SecureTrust (Andrea Hol
 
 ### Goals and Progress
 
-• Merge non-EV and EV requirements – DONE
-
-• Rationalize EV requirements – DONE
-
-• Address move to 4096-bit RSA – DONE
-
-• Cleanup and clarify requirements – DONE
-
-• Update Subscriber Private Key Protection requirements
-
-• Update Signing Service requirements
-
-• Move CSBR to Pandoc/RFC 3647 format – Update in draft
-
-• CSBR less dependent on SSL BRs and SSL EVGs
+- Merge non-EV and EV requirements – DONE
+- Rationalize EV requirements – DONE
+- Address move to 4096-bit RSA – DONE
+- Cleanup and clarify requirements – DONE
+- Update Subscriber Private Key Protection requirements
+- Update Signing Service requirements
+- Move CSBR to Pandoc/RFC 3647 format – Update in draft
+- CSBR less dependent on SSL BRs and SSL EVGs
 
 ### Subscriber Keys
 

@@ -83,7 +83,7 @@ vii. There is interest by some CA/B Forum members in carrying LEIs within CA/B F
 
 viii. Some CA/B Forum members have indicated the possible need for multiple identifiers in the subject name. This, however, cannot be achieved using X.520 organizationIdentifier which defined this attribute as being “SINGLE VALUE”. The use of a single value has the advantage is it is clear what is the registration, in addition to the company registration, which identifies the subject.
 
-## -MOTION BEGINS
+## Motion begins
 
 Purpose of Ballot: Update to CAB Forum EV Guidelines to allow alternative registration numbers
 
@@ -105,11 +105,11 @@ Insert new section 9.2.8:
 
 “9.2.8. Subject Organization Identifier Field
 
-\*\*Certificate field\*\*: organizationIdentifier (OID: 2.5.4.97)
+**Certificate field**: organizationIdentifier (OID: 2.5.4.97)
 
-\*\*Required/Optional\*\*: Optional
+**Required/Optional**: Optional
 
-\*\*Contents\*\*: If present, this field MUST contain a Registration Reference for a Legal Entity assigned in accordance to the identified Registration Scheme.
+**Contents**: If present, this field MUST contain a Registration Reference for a Legal Entity assigned in accordance to the identified Registration Scheme.
 
 The organizationIdentifier MUST be encoded as a PrintableString or UTF8String (see RFC 5280).
 
@@ -145,11 +145,11 @@ The CA SHALL:
 
 1. confirm that the organization represented by the Registration Reference is the same as the organization named in the organizationName field as specified in Section 9.2.1 within the context of the subject’s jurisdiction as specified in Section 9.2.4;
 
-1. further verify the Registration Reference matches other information verified in accordance with section 11;
+2. further verify the Registration Reference matches other information verified in accordance with section 11;
 
-1. take appropriate measures to disambiguate between different organizations as described in Appendix H for each Registration Scheme;
+3. take appropriate measures to disambiguate between different organizations as described in Appendix H for each Registration Scheme;
 
-1. Apply the validation rules relevant to the Registration Scheme as specified in Appendix H.”
+4. Apply the validation rules relevant to the Registration Scheme as specified in Appendix H.”
 
 Insert new section 9.8 (renumbering following sections as necessary):
 
@@ -161,21 +161,21 @@ If a CA includes an extension in a certificate that has a Certificate field whic
 
 9.8.1. Subject Alternative Name Extension
 
-\*\*Certificate field:\*\* \_subjectAltName:dNSName\_
+**Certificate field:** \_subjectAltName:dNSName\_
 
-\*\*Required/Optional:\*\* Required
+**Required/Optional:** Required
 
-\*\*Contents:\*\* This extension MUST contain one or more host Domain Name(s) owned or controlled by the Subject and to be associated with the Subject’s server. Such server MAY be owned and operated by the Subject or another entity (e.g., a hosting service). Wildcard certificates are not allowed for EV Certificates.
+**Contents:** This extension MUST contain one or more host Domain Name(s) owned or controlled by the Subject and to be associated with the Subject’s server. Such server MAY be owned and operated by the Subject or another entity (e.g., a hosting service). Wildcard certificates are not allowed for EV Certificates.
 
 9.8.2. CA/Browser Forum Organization Identifier Field
 
-\*\*Extension Name\*\*: \_cabfOrganizationIdentifier\_ (OID: 2.23.140.3.1)
+**Extension Name**: \_cabfOrganizationIdentifier\_ (OID: 2.23.140.3.1)
 
-\*\*Verbose OID\*\*: {joint-iso-itu-t(2) international-organizations(23) ca-browser-forum(140) certificate-extensions(3) cabf-organization-identifier(1) }
+**Verbose OID**: {joint-iso-itu-t(2) international-organizations(23) ca-browser-forum(140) certificate-extensions(3) cabf-organization-identifier(1) }
 
-\*\*Required/Optional\*\*: Optional (but see below)
+**Required/Optional**: Optional (but see below)
 
-\*\*Contents\*\*: If the subject:organizationIdentifier is present, this field SHOULD be present.
+**Contents**: If the subject:organizationIdentifier is present, this field SHOULD be present.
 
 Effective January 31, 2020, if the subject:organizationIdentifier field is present, this field MUST be present.
 
@@ -205,17 +205,17 @@ Add new Appendix H – Registration Schemes
 
 “The following Registration Schemes are currently recognised as valid under these guidelines:
 
-\*\*NTR\*\*: The information carried in this field shall be the same as held in Subject Registration Number Field as specified in 9.2.5 and the country code used in the Registration Scheme identifier shall match that of the subject’s jurisdiction as specified in Section 9.2.4.
+**NTR**: The information carried in this field shall be the same as held in Subject Registration Number Field as specified in 9.2.5 and the country code used in the Registration Scheme identifier shall match that of the subject’s jurisdiction as specified in Section 9.2.4.
 
 Where the Subject Jurisdiction of Incorporation or Registration Field in 9.2.4 includes more than the country code, the additional locality information shall be included as specified in sections 9.2.8 and/or 9.8.1.
 
-\*\*VAT\*\*: Reference allocated by the national tax authorities to a Legal Entity. This information shall be validated using information provided by the national tax authority against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4.
+**VAT**: Reference allocated by the national tax authorities to a Legal Entity. This information shall be validated using information provided by the national tax authority against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4.
 
-\*\*PSD\*\*: Authorization number as specified in ETSI TS 119 495 clause 4.4 allocated to a payment service provider and containing the information as specified in ETSI TS 119 495 clause 5.2.1. This information SHALL be obtained directly from the national competent authority register for payment services or from an information source approved by a government agency, regulatory body, or legislation for this purpose. This information SHALL be validated by being matched directly or indirectly (for example, by matching a globally unique registration number) against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4. The stated address of the organisation combined with the organization name SHALL NOT be the only information used to disambiguate the organisation.”
+**PSD**: Authorization number as specified in ETSI TS 119 495 clause 4.4 allocated to a payment service provider and containing the information as specified in ETSI TS 119 495 clause 5.2.1. This information SHALL be obtained directly from the national competent authority register for payment services or from an information source approved by a government agency, regulatory body, or legislation for this purpose. This information SHALL be validated by being matched directly or indirectly (for example, by matching a globally unique registration number) against the organisation as identified by the Subject Organization Name Field (see 9.2.1) and Subject Registration Number Field (see 9.2.5) within the context of the subject’s jurisdiction as specified in Section 9.2.4. The stated address of the organisation combined with the organization name SHALL NOT be the only information used to disambiguate the organisation.”
 
-## -MOTION ENDS
+## Motion ends
 
-\*\\*\* WARNING \*\**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
+**WARNING**: USE AT YOUR OWN RISK. THE REDLINE BELOW IS NOT THE OFFICIAL VERSION OF THE CHANGES (CABF Bylaws, Section 2.4(a)):
 
 A comparison of the changes can be found at:
 
@@ -225,13 +225,13 @@ Changes since version 5:
 
 1. Remove Registration Reference Provider.
 
-1. Note that Registration References MAY contain hyphens, and clarify that the first hyphen is the separator.
+2. Note that Registration References MAY contain hyphens, and clarify that the first hyphen is the separator.
 
-1. Fix cross-references in Appendix H.
+3. Fix cross-references in Appendix H.
 
 A comparison of the changes since version 5:
 
-https://github.com/cabforum/documents/compare/28764a1..a29069d
+[https://github.com/cabforum/documents/compare/28764a1..a29069d][2]
 
 The procedure for approval of this ballot is as follows:
 
@@ -248,3 +248,4 @@ Start Time: May 13, 2019 4:15pm Eastern
 End Time: May 20, 2019 4:15pm Eastern
 
 [1]: https://github.com/cabforum/documents/compare/Ballot-SC17---Alternative-registration-numbers-for-EV-certificates?diff=unified&expand=1
+[2]: https://github.com/cabforum/documents/compare/28764a1..a29069d

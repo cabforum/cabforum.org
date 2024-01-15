@@ -125,7 +125,7 @@ Next steps: Clint will send out an email, Tim will send around another draft.
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Wayne Thayer (Mozilla)
 
-Dimitris – we discussed issues related to the Bylaws at a previous meeting. Took that feedback and proposed changes. Circulated proposal on mailing list a few weeks ago[1].
+Dimitris – we discussed issues related to the Bylaws at a previous meeting. Took that feedback and proposed changes. Circulated proposal on mailing list a few weeks ago https://docs.google.com/document/d/1EtrIy3F5cPge0_M-C8J6fe72KcVI8H5Q_2S6S31ynU0/edit#heading=h.3mspyi76isma.
 
 The proposed changes are:
 
@@ -155,16 +155,14 @@ Robin – Assuming “default deny”, the implication is that no other informat
 
 Dimitris – should we make it clear that this is not an all-inclusive list of informative sections?
 
-Robin – yes [1]
-
-[2]
+Robin – yes
 
 ### Bylaws open issues
 
 _Presenters:_ Dimitris Zacharopoulos (HARICA)
 _Note Taker:_ Wayne Thayer (Mozilla)
 
-We have a [doc listing open Bylaws issues][1]
+We have a [doc listing open Bylaws issues](https://docs.google.com/document/d/1EtrIy3F5cPge0_M-C8J6fe72KcVI8H5Q_2S6S31ynU0/edit#heading=h.3mspyi76isma)
 
 - Organizations that qualify as Certificate Issuer and Certificate Consumer
 - Who must sign the IPR agreement if a CA delegates operations to another organization? We have addressed this issue – both operator and owner should sign.
@@ -248,7 +246,7 @@ Wayne – sounds like this is an acceptable idea and we just need to work out th
 ### Code Signing Formats – an overview of some of the different code signing formats used in the wild
 
 _Presenters:_ Tomas Gustavsson (PrimeKey)
-_Presentation:_ [Code Signing Formats][2]
+_Presentation:_ [Code Signing Formats](/uploads/7-code-signing-formats.pdf)
 
 ## Server Certificate WG Plenary
 

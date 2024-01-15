@@ -36,7 +36,7 @@ The minutes of the August 3, 2022 teleconference were approved.
 
 ### 5. Discussion
 
-The WG resumed discussion of the draft SBR at .
+The WG resumed discussion of the draft SBR at [https://github.com/cabforum/smime/blob/preSBR/SBR.md](https://github.com/cabforum/smime/blob/preSBR/SBR.md).
 
 Stephen Davidson showed the WG updated text to Section 3.2.4.1 (4), which allows Certificate Issuers to rely upon certain digital signature schemes as evidence of personal identity validation. Changes had been made to 1) provide additional schemes and 2) to layout criteria by which additional schemes might be considered in future to be added to the SBR by subsequent ballot. Clint Wilson noted two concerns he had with the method as described. First, he noted that any additional schemes should be formally reviewed before being added. Second, he is wary of relying upon standards that are not actively tracked by the SMCWG, and that additional tightening of the eligibility criteria might be required. For example, he preferred that the standard identify the specific version of the underlying standard.
 
@@ -50,7 +50,7 @@ Stephen walked through the mandated time frames for the ballot: a minimum 7 day 
 
 He noted that the SMCWG seek to avoid a divergence of adoption by Certificate Consumers, and asked root distribution members to confirm this was an acceptable approach and timeline. Stephen noted that the intent, following some minor text updates, will be to move to ballot in the next call. Stephen read out a rough draft of the ballot text.
 
-Bruce Morton asked if it was possible to provide a redline of changes that have been made since the pre-ballot discussion period began, which Stephen subsequently provided to the list at [https://github.com/cabforum/smime/compare/bc6881a6d6bbff1b6793a17a6b737c1b9480146b…1dc71b4a72ea93fbed010640f37bdbabe88c2591][1]
+Bruce Morton asked if it was possible to provide a redline of changes that have been made since the pre-ballot discussion period began, which Stephen subsequently provided to the list at [https://github.com/cabforum/smime/compare/bc6881a6d6bbff1b6793a17a6b737c1b9480146b...1dc71b4a72ea93fbed010640f37bdbabe88c2591][1]
 
 ### 6. Any Other Business
 
