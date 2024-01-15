@@ -20,9 +20,9 @@ Here are the results:
 
 23 votes total including abstentions
 
-**11 Yes votes:** CFCA, eMudhra, Entrust, Fastly, GDCA, GoDaddy, HARICA, IdenTrust, Sectigo, SSL.com, Viking Cloud
-**1 No votes:** DigiCert
-**0 Abstain:**
+- **11 Yes votes:** CFCA, eMudhra, Entrust, Fastly, GDCA, GoDaddy, HARICA, IdenTrust, Sectigo, SSL.com, Viking Cloud  
+- **1 No votes:** DigiCert  
+- **0 Abstain:**  
 
 92% of voting Certificate Issuers voted in favor
 
@@ -30,9 +30,9 @@ Here are the results:
 
 1 votes total including abstentions
 
-**1 Yes votes:** Mozilla
-**0 No votes:**
-**0 Abstain:**
+- **1 Yes votes:** Mozilla  
+- **0 No votes:**  
+- **0 Abstain:**  
 
 100% of voting Certificate Consumers voted in favor
 
