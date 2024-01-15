@@ -49,11 +49,13 @@ While reviewing the intent, purpose, and real-world usage around section 4.1.1, 
 
 The following motion has been proposed by Clint Wilson of Apple and endorsed by Trevoli Ponds-White of Amazon and Dustin Hollenback of Microsoft.
 
-## -–Motion Begins-–
+## Motion begins
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as defined in the following redline, based on Version 1.8.0:
 
-## -–Motion Ends-–
+[https://github.com/cabforum/servercert/compare/cda0f92ee70121fd5d692685b97ebb6669c74fb7..8b2681c3f93bbc9fbe83ab9d67999629db630e94](https://github.com/cabforum/servercert/compare/cda0f92ee70121fd5d692685b97ebb6669c74fb7..8b2681c3f93bbc9fbe83ab9d67999629db630e94)
+
+## Motion ends
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 

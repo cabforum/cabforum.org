@@ -38,7 +38,7 @@ The minutes of the August 4 teleconference were approved.
 
 The eligibility and declaration from IdenTrust to participate as a Certificate Issuer was confirmed by consensus.
 
-Discussion returned to the Organisation-validation profile at . This is the profile that is used to issue certificates naming a legal entity in the subject.
+Discussion returned to the Organisation-validation profile at [https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit#gid=0](https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit#gid=0). This is the profile that is used to issue certificates naming a legal entity in the subject.
 
 Following discussion, it was agreed that for cert profiles that include organisation information, the existing verification procedures of either the EVG or TLS BR should be used – and that an identifier should be included in the cert that results from that vetting. It was discussed that there should be options for the identifier; options are:
 

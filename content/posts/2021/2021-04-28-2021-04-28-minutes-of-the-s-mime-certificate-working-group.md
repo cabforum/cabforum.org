@@ -36,7 +36,7 @@ The minutes of the April 14 teleconference were approved.
 
 ### 5. Discussion of certificate profile
 
-A discussion occurred regarding content of the draft S/MIME Baseline Requirements (SBR) at: . It was decided the group would target to have a rough draft of the Mailbox-validation profiles for the CABF summer virtual F2F in mid June.
+A discussion occurred regarding content of the draft S/MIME Baseline Requirements (SBR) at: [https://github.com/cabforum/smime/](https://github.com/cabforum/smime/). It was decided the group would target to have a rough draft of the Mailbox-validation profiles for the CABF summer virtual F2F in mid June.
 
 The discussion moved to the Mailbox-validation legacy profile. Stefan Selbitschka and Stephen Davidson noted the language in section 4.2.1.6 of RFC 5280 regarding criticality of the SAN:
 

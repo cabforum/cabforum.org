@@ -60,7 +60,7 @@ No changes were made to the agenda.
 
 Yoshiro Yoneya asked if anyone had attended the IETF meetings last week. Any updates?
 
-Ryan stated that Google, DigiCert (Tim Hollebeek) were involved in the LAMPS discussion. ACME was covered. DigiCert is working in the LAMPS group. Document signing EKU creation was discussed. Google is not supportive for many reasons. Long discussions on this topic in the IETF meeting and best to review the minutes: ()
+Ryan stated that Google, DigiCert (Tim Hollebeek) were involved in the LAMPS discussion. ACME was covered. DigiCert is working in the LAMPS group. Document signing EKU creation was discussed. Google is not supportive for many reasons. Long discussions on this topic in the IETF meeting and best to review the minutes: [https://datatracker.ietf.org/doc/minutes-111-acme/](https://datatracker.ietf.org/doc/minutes-111-acme/)
 
 Where CABF comes in? Ryan doesn’t think this EKU makes sense and he’s advocated that if this is important for the CABF (e.g. SMIME Working Group) then there is an opportunity for orgs (e.g. ETSI) or CABF to charter a work group to define what a document signing cert would look like and how would it be used. IETF has not adopted anything at this point so the question is if the CABF needs to adopt a position.
 

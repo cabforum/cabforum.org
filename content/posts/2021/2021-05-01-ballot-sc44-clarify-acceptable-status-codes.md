@@ -61,6 +61,8 @@ The following motion has been proposed by Niko Carpenter of SecureTrust and endo
 
 This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted Certificates” as defined in the following redline, based on Version 1.7.4:
 
+[https://github.com/cabforum/servercert/compare/9672b03bec91ad9a80f826e928e47f5c1f82964b..bf726440a1da70262f1cf51c9d88d9dd0e903bf5](https://github.com/cabforum/servercert/compare/9672b03bec91ad9a80f826e928e47f5c1f82964b..bf726440a1da70262f1cf51c9d88d9dd0e903bf5)
+
 –MOTION ENDS–
 
 This ballot proposes a Final Maintenance Guideline.

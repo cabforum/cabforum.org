@@ -36,7 +36,7 @@ The minutes of the May 26 teleconference were approved.
 
 Discussion of the Mailbox-validation profile has concluded with a few exceptions, including validity period, use of LDAP, and additional extensions.
 
-Stephen noted that changes have been made to the draft S/MIME BR in GitHub to reflect the use of Edwards Curve, as previously discussed. Corey Bonnell has also provided there the scripts that he used to derive the hex-encoded bytes.
+Stephen noted that changes have been made to the draft S/MIME BR in GitHub to reflect the use of Edwards Curve, as previously discussed. Corey Bonnell has also provided there the scripts that he used to derive the hex-encoded bytes. [https://github.com/cabforum/smime/commit/03ea4d19370cb01ea8aeb0d4c1a7fba97542f25c](https://github.com/cabforum/smime/commit/03ea4d19370cb01ea8aeb0d4c1a7fba97542f25c)
 
 The WG began to discuss contents of the [Organisation-validation Legacy profile][1]. This profile is intended for use where the Subject information describes a Legal Person/Legal Entity.
 

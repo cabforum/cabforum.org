@@ -36,17 +36,17 @@ The minutes of the March 17 teleconference were approved.
 
 ### 6. Discussion of certificate profile
 
-A review was made of the current state of the draft S/MIME Baseline Requirements (SBR), which have now been pulled into the CABF Repository at: .
+A review was made of the current state of the draft S/MIME Baseline Requirements (SBR), which have now been pulled into the CABF Repository at: [https://github.com/cabforum/smime/blob/PreSBR/SBR.md](https://github.com/cabforum/smime/blob/PreSBR/SBR.md).
 
 The working draft will continue using Stephen Davidson’s srdavidson fork but will be periodically pulled into the CABF Repository, so members may choose to fork that CABF version. The preSBR branch will be used as the document is in early editing. Later well adopt the “branch per ballot” approach used by other CABF WG. Members can also use the Issues function in the CABF Repository.
 
 The SMCWG charter notes the SBR are “subject to coordination with other Forum CWGs to ensure consistency and avoid redundancy.” It was agreed that for the sake of simple reference, most sections will be reproduced in their entirety in the SBR because the text in the BR sometimes required minor revision for suitability in the SBR. However, certain BR sections prone to change such as the BR 3.2.2 will be incorporated by reference to a specific version of the BR. In both cases, when ballots change the BR our group will need to conduct a review of the SBR.
 
-A review was made of the draft text for 3.2.2.2 on validation of domain authorization or mailbox control at [https://github.com/cabforum/smime/blob/PreSBR/SBR.md#3222–validation-of-domain-authorization-or-control][1]. The BR methods will be adopted for domain authorization, and the SBR describes the requirements for verification of mailbox control.
+A review was made of the draft text for 3.2.2.2 on validation of domain authorization or mailbox control at [https://github.com/cabforum/smime/blob/PreSBR/SBR.md#3222--validation-of-domain-authorization-or-control](https://github.com/cabforum/smime/blob/PreSBR/SBR.md#3222--validation-of-domain-authorization-or-control). The BR methods will be adopted for domain authorization, and the SBR describes the requirements for verification of mailbox control.
 
 It was agreed that the SBR would maintain its own schedule for verified information reuse in Section 4.2.1. It was agreed that new methods such as acme-smime, acme-sso, or the use of MX records are of interest, but will be considered after v1 of the SBR. It was suggested that members review the text and provide further feedback regarding the SMCWG public list.
 
-A discussion took place regarding the proposed profile for Mailbox-validation certificates at . Comments may be left on that sheet, but will have greater prominence on the SMCWG public list. Curt Spann enquired why, in addition to the Strict profile, we also provided Multipurpose and Legacy profiles.
+A discussion took place regarding the proposed profile for Mailbox-validation certificates at [https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit#gid=718518913](https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit#gid=718518913). Comments may be left on that sheet, but will have greater prominence on the SMCWG public list. Curt Spann enquired why, in addition to the Strict profile, we also provided Multipurpose and Legacy profiles.
 
 Stephen Davidson provided a summary of previous discussions on that point, including the current popular issuance of “signing certs” that had S/MIME as just one use and the charter which admonishes “care will be exercised by the SMCWG to avoid unintended adverse effects” to other use cases. As the charter is to write a standard for certs that include the emailProtection EKU, we need to accommodate different use cases.
 
@@ -63,5 +63,3 @@ None
 ### Next call: Wednesday, April 14, 2021 at 11:00 am Eastern Time
 
 ### Adjourned
-
-[1]: https://github.com/cabforum/smime/blob/PreSBR/SBR.md#3222--validation-of-domain-authorization-or-control

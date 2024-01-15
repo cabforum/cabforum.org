@@ -56,8 +56,8 @@ Verification of control over email addresses
 
 Stephen Davidson emphasized that drafting was underway on the S/MIME BR and encouraged WG members to review the text as coverage for some topics that have not been specifically discussed in the WG have been carried over from the TLS BR.
 
-- Draft S/MIME Baseline Requirements
-- Draft S/MIME Profiles
+- [Draft S/MIME Baseline Requirements](https://github.com/cabforum/smime/tree/preSBR)
+- [Draft S/MIME Profiles](https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit?usp=sharing)
 
 Comments and contributions are welcomed, particularly on methods relating to mailbox verification. We are generally taking the approach of “incorporating in” relevant text from other CABF documents rather than “referring out”. Future discussion will focus on:
 

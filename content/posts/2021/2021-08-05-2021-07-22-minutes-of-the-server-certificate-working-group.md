@@ -32,7 +32,7 @@ The minutes from the last call were approved.
 
 ## 5. Validation Subcommittee Update
 
-Doug Beattie said that last week’s call was short. Ryan Sleevi said that SC48 was mentioned, and members were requested to review and comment on the new certificate profiles (which can be found at )
+Doug Beattie said that last week’s call was short. Ryan Sleevi said that SC48 was mentioned, and members were requested to review and comment on the new certificate profiles (which can be found at [https://github.com/sleevi/cabforum-docs/pull/36](https://github.com/sleevi/cabforum-docs/pull/36))
 
 ## 6. NetSec Subcommittee Update
 

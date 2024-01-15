@@ -55,7 +55,7 @@ For each grade:
 
 Clint Wilson asked what minimum fields a Certificate Consumer (client software) might expect to see in an S/MIME certificate as this was relevant to any discussion of the Subject. Curt Spann expanded upon that to ask what is the absolute baseline for all cert fields. It was noted that in previous discussions the WG had worked through requirements known to us including those from Mozilla and gmail.
 
-It was noted that following recent discussion in the IETF, would likely not seek to ban the use of CN and Subject Email in S/MIME certs. Corey Bonnell noted that rfc822 SAN was required by RFC 5280 if Subject Email was used.
+It was noted that following recent discussion in the IETF, [https://tools.ietf.org/html/draft-rsalz-use-san-00](https://tools.ietf.org/html/draft-rsalz-use-san-00) would likely not seek to ban the use of CN and Subject Email in S/MIME certs. Corey Bonnell noted that rfc822 SAN was required by RFC 5280 if Subject Email was used.
 
 Wendy Brown raised that multiple emails should be allowed in SAN, assuming that the issuer has verified mailbox control/authorization for each address before issuance. All email addresses in the Subject should be in the SAN. Morad Abou Nasser questioned if encryption certificates should be allowed to have multiple mail boxes (vs aliases).
 
@@ -65,8 +65,8 @@ It was noted that Outlook has provided some information on S/MIME cert processin
 - What certificate contents (or absence of contents) would cause S/MIME to fail?
 - Are there failure messages related to certificate configuration?
 - What certificate information is used for display to the mailbox owner by default?
-- In other words, in what order does the software look through cert contents for display?
-- Is this configurable?
+  - In other words, in what order does the software look through cert contents for display?
+  - Is this configurable?
 - Does the mail client software have issues processing certificates with more than one rfc822 in the SAN?
 - Does the email software have ability to act upon S/MIME messages based upon information in the certificate? (ie to trigger processing rules)
 - Are there S/MIME certificate current practices that are known to be problematic for mail clients?

@@ -42,7 +42,7 @@ Stephen Davidson noted an issue that the WG had ruled out the use of dataEnciphe
 
 Stephen raised that an alternative suggestion had been made for the certificate profile OIDs. The current proposal is that each certificate type (mailbox, org, etc) each of whose arcs would be expanded for the validation (strict, multipurpose, etc). This creates 12 OIDs at this time. Another approach would have two types of OIDs: one for certificate type (mailbox, org, etc) and one for validation (strict, multipurpose, etc). This would create 7 OIDs, and leaf certs would express the relevant two OIDs. Clint Wilson and Ben Wilson expressed support for the current “single OID” proposal, using a single OID in the cert. Stefan Selbitschka did not note any obvious benefit to software. Corey Bonnell noted that the “two OID” option might lead to confusion when defining policy qualifiers specific to OIDs.
 
-Discussion moved to the Individual Personal-validation profile.
+Discussion moved to the [Individual Personal-validation profile](https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit#gid=0).
 
 There was discussion relating to the commonName being programmatically created from givenName+surname versus email. Clint Wilson voiced support for there being one option rather than choices. Stephen noted that the WG had feedback that enterprise users in particular preferred having options for display name in the CN, and the proposal was already a significant reform of existing practice.
 

@@ -38,9 +38,9 @@ The minutes of the July 23 teleconference were approved.
 
 Clint Wilson asked about the status of the OIDs for the S/MIME BR certificate profiles, and whether they are firm enough for CAs to start considering to use them. Stephen Davidson noted the OIDs and their order have already shuffled several times in our proceedings. When the certificate profiles are considered sufficiently firm, a ballot will be held to finalize those OIDs.
 
-Corey Bonnell gave an overview of discussion at the recent IETF 111 – LAMPS WG meeting relating to the proposal for a general purpose EKU for Document Signing at . Russ Housley said that opposition was mainly in wishing more granularity in the EKU for signing in different formats (PAdES, XAdES, etc).
+Corey Bonnell gave an overview of discussion at the recent IETF 111 – LAMPS WG meeting relating to the proposal for a general purpose EKU for Document Signing at [https://datatracker.ietf.org/doc/draft-ito-documentsigning-eku/](https://datatracker.ietf.org/doc/draft-ito-documentsigning-eku/). Russ Housley said that opposition was mainly in wishing more granularity in the EKU for signing in different formats (PAdES, XAdES, etc).
 
-Additional information on that discussion may be found at
+Additional information on that discussion may be found at [https://mailarchive.ietf.org/arch/msg/spasm/Ix2QfVLyWDBLtph4XLXVRuC-Mes/](https://mailarchive.ietf.org/arch/msg/spasm/Ix2QfVLyWDBLtph4XLXVRuC-Mes/)
 
 The relevance is having a long term “escape path” for other cert use cases that overlap with our emailProtection standards.
 

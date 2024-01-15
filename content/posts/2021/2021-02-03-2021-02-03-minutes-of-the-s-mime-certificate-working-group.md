@@ -52,7 +52,7 @@ A review was commenced of proposed/draft certificate profiles derived from the p
 
 Each policy will have a Multipurpose/Legacy and Strict variant:
 
-- **Multipurpose/Legacy**: The Multipurpose profiles create a formal profile and practices for dominant legacy S/MIME types, including multipurpose certficates, and include more flexibility in Subject information and extensions.
+- **Multipurpose/Legacy**: The Multipurpose profiles create a formal profile and practices for dominant legacy S/MIME types, including multipurpose certificates, and include more flexibility in Subject information and extensions.
 
 - **Strict**: The Strict profiles provide a more streamlined certificate profile dedicated to S/MIME use. This is in line with the growing use of specialised Root hierarchies by certificate type (eku).
 
@@ -65,6 +65,8 @@ A lengthy discussion occurred regarding validity. It was agreed that the Strict 
 Bruce Morton proposed that the Multipurpose should allow a longer (ie 39 month) validity, while Dimitris Zacharopoulos proposed the same validity should apply across all types. It was suggested this be tabled for feedback on public list or at the CABF Virtual F2F. Dimitris and Sebastian Schulz agreed to help draft that proposal.
 
 Stephen Davidson reminded that at this stage our concern is defining the core certificate profiles and to defer detailed discussion of field formats and validation until later. It was agreed in our next meeting to discuss what would be presented to the Virtual F2F and what areas of feedback would be sought at that meeting.
+
+[View the draft profiles](https://docs.google.com/spreadsheets/d/1gEq-o4jU1FWvKBeMoncfmhAUemAgGuvVRSLQb7PedLU/edit#gid=1891546205)
 
 ### 6. Any Other Business
 
