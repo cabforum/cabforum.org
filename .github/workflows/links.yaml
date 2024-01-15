@@ -20,6 +20,9 @@ jobs:
           pwd 
           ls -lah ~/work/cabforum.org/cabforum.org/
           ls -lah ~/work/cabforum.org/cabforum.org/content/
+          ls -lah ~/work/cabforum.org/cabforum.org/content/proceedings/
+          ls -lah ~/work/cabforum.org/cabforum.org/content/proceedings/minutes/
+        
           ls -lah /home/runner/work/cabforum.org/cabforum.org/content/proceedings/minutes
           ls -lah /home/runner/work/cabforum.org/cabforum.org/content/uploads/CA-Browser-Forum-Bylaws-v.-1.5.pdf
 
