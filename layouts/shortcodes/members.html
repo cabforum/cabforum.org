@@ -1,0 +1,26 @@
+{{- $url := (printf "https://member-tools.cabforum.org/api/getMemberOrgsForWG?wg=" (.Get `wg`)) -}}
+{{- $opts := dict
+    "headers" (dict "X-API-KEY" (getenv "CABF_API_TOKEN"))
+-}}
+
+{{- with resources.GetRemote $url $opts -}}
+    {{- with .Err -}}
+        {{- warnf "%s - %s" . $url -}}
+        Unable to retrieve members of working-group {{ $.Get `wg` }} from the membership tools.
+    {{- else -}}
+        {{- with .Content | transform.Unmarshal -}}
+            {{- range .forumGroups -}}
+                {{ if eq .name ($.Get `wg`) }}
+                    {{- range .participantTypes -}}
+                    <p><strong>{{ .participantType }}</strong></p>
+                    <ul>
+                        {{- range .members -}}        
+                            <li>{{ .memberOrganization }}</li>
+                        {{- end -}}
+                    </ul>
+                    {{- end -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}

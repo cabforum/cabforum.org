@@ -68,64 +68,7 @@ In addition, the S/MIME Certificate Working Group provides a public mailing list
 
 ## Members 
 
-**Certificate Issuers:**
-- AC Camerfirma SA
-- AC Firmaprofessional SA
-- Actalis S.p.A.
-- Asseco Data Systems SA (Certum)
-- Buypass AS
-- CFCA
-- Chunghwa Telecom
-- Comsign
-- DigiCert
-- D-TRUST
-- eMudhra
-- Entrust
-- GDCA
-- GlobalSign
-- GlobalTrust
-- HARICA
-- IdenTrust
-- iTrusChina
-- Logius PKIoverheid
-- MSC Trustgate Sdn Bhd
-- OISTE Foundation
-- SECOM Trust Systems
-- Sectigo
-- SecureTrust
-- SHECA
-- SSC
-- SSL.com
-- SwissSign
-- Telia Company
-- TWCA
-- Visa
-
-**Certificate Consumer:**
-- Apple
-- Google
-- Microsoft
-- Mozilla/Thunderbird
-- runQuadrat
-- Zertificon
-
-**Interested Parties:**
-- Arno Fiedler
-- KPMG Korea
-- PrimeKey
-- PSW
-- TeleTrusT
-- Vigil Security
-- Nathalie Weiler
-
-**Associate Members:**
-- ACAB Council
-- CertiPath
-- CPA Canada/WebTrust
-- TrustAsia
-- tScheme
-- US Federal PKI Management Authority
-- Zone Media OÜ
+{{< members wg="S/MIME Certificate Working Group" >}}
 
 [5]: /about/membership/associate-members/
 [7]:https://lists.cabforum.org/mailman/listinfo/smcwg-public

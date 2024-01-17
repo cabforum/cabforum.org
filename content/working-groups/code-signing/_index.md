@@ -51,47 +51,6 @@ Questions or comments should be sent to questions@cabforum.org.
 
 ## Members 
 
-**Certificate Issuers**:
-- AC Camerfirma
-- Actalis S.p.A
-- Asseco Data Systems SA (Certum)
-- Buypass AS
-- Chungwa Telecom
-- Comsign
-- DigiCert
-- Entrust
-- E-Muhdra
-- E-Tugra
-- GDCA
-- GlobalSign
-- GoDaddy
-- Harica
-- Sectigo
-- SecureTrust
-- SHECA
-- SSC
-- SSL.com
-- TWCA
-
-**Certificate Consumers**:
-- Microsoft
-
-**Interested Parties**:
-- 360 Browser
-- AGMS Information Technology
-- Ben Wilson
-- DigitalTrust
-- ETSI
-- Intel
-- KeyFactor
-- Leader Telecom BV
-- PrimeKey
-- PSW Group
-- Russ Housley
-- Trustcor Systems
-
-**Associate Members**:
-- ACAB Council
-- CPA Canada/WebTrust
+{{< members wg="Code Signing Certificate Working Group" >}}
 
 [1]: /2019/03/09/ballot-forum-8-establishment-of-a-code-signing-working-group/#Code-Signing-Certificate-Working-Group-Charter

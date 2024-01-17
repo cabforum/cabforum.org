@@ -130,6 +130,7 @@ security:
     getenv:
     - ^HUGO_
     - ^GITHUB_
+    - ^CABF_
     - ^RUNNER_
     - ^CI$
     - ^USER$

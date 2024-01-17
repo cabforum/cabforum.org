@@ -50,46 +50,6 @@ The NetSec WG provides a public mailing list. See https://lists.cabforum.org/pip
 
 ## Members 
 
-**Certificate Issuers:**
-- Amazon
-- Asseco Data Systems SA (Certum)
-- Buypass AS
-- Chunghwa Telecom
-- Comsign
-- Digicert
-- Disig
-- eMudhra
-- Entrust
-- GDCA
-- GlobalSign
-- GoDaddy
-- HARICA
-- Kamu SM
-- Let’s Encrypt
-- OATI
-- OISTE Foundation
-- Sectigo
-- SecureTrust
-- SSL.com
-- SwissSign
-- Taiwan CA
-- Telia Company
-- TrustCor Systems
-- Visa
-
-**Certificate Consumers:**
-- Apple
-- Google
-- Microsoft
-- Mozilla
-- Opera Software AS
-
-**Interested Parties:**
-- Fastly
-- PrimeKey
-
-**Associate Members:**
-- CPA Canada/WebTrust
-- US Federal PKI Management Authority
+{{< members wg="Network Security Working Group" >}}
 
 [1]: /working-groups/smime-certificate-wg/
