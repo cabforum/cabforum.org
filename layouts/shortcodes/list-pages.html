@@ -16,14 +16,14 @@
     {{- end -}}
 {{- end -}}
 
-{{- range first $limit $p -}}
-    {{- with (eq ($.Get `summary`) false ) -}}
-        <ul>
-        {{- range first 250 $p -}}
-            <li><a href="{{ .Permalink }}" title="{{ .Title }}" class="fw-bold">{{ .Title }}</a></li>
-        {{- end -}}
-        </ul>
-    {{- else -}}
+{{- with (eq ($.Get `summary`) false ) -}}
+    <ul>
+    {{- range first $limit $p -}}
+        <li><a href="{{ .Permalink }}" title="{{ .Title }}" class="fw-bold">{{ .Title }}</a></li>
+    {{- end -}}
+    </ul>
+{{- else -}}
+    {{- range first $limit $p -}}
         {{- partial "pagelisting.html" . -}}
     {{- end -}}
 {{- end -}}
