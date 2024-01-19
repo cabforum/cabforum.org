@@ -45,7 +45,7 @@ params:
   email: questions@cabforum.org
   website: https//cabforum.org
   about: The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of Certificate Issuers and suppliers of Internet browser software and other applications that use certificates (Certificate Consumers).
-  siteSource: https://github.dev/cabforum/cabforum.org/edit/main
+  siteSource: https://github.dev/cabforum/cabforum.org/blob/main
 
   social:
     github: https://github.com/cabforum
