@@ -1,20 +1,31 @@
 # cabforum.org website
 
-## Make and preview changes
-You can make simple changes in the GitHub editor. For more advanced changes you might want to run a local copy of the website.
+## Adding new post such as ballots and minutes
 
-Some basic git knowledge is required, please check https://guides.github.com/ to get started from scratch. An editor such as [Visual Studio Code](https://code.visualstudio.com/) can help you to [simplify most of these tasks](https://code.visualstudio.com/docs/editor/github) and help you with editing the content.
+It's easy to add pages, posts or upload files video the online editor provided by GitHub. 
 
-1. [Install hugo](https://gohugo.io/getting-started/installing/#quick-install)
-2. [Create a fork](https://guides.github.com/activities/forking/#fork) of this repository
-3. [Clone your fork](https://guides.github.com/activities/forking/#clone)
-2. Run `hugo server -D` in the root directory of your fork
-3. Open the shown URL `http://localhost:xxxx/` in your browser to preview your local version
-4. Make changes until you are satisfied; the preview will update automatically
-5. [Commit and push your changes](https://guides.github.com/activities/forking/#making-changes)
-6. [Create a pull request](https://guides.github.com/activities/forking/#making-a-pull-request)
+The editor is located at github.dev, this links brings you directly in the directory to create posts such as for ballots and minutes:  
+https://github.dev/cabforum/cabforum.org/blob/main/content/posts/
+
+Navigate to the appropiate folder or file using the Explorer. Right click on or in the folder and choose `New file...` or `New folder...` if you post will also includes new attachments. 
+
+Name the file or directory so that it's easy to identify, for example `2024-01-01-ballot-smc00-subject`, use the extention `.md` for files. If you created a directory for your post call the file `index.md`.
+
+> [!IMPORTANT] 
+> Always use lowercase filenames and don't include andy spaces or other special characters.
+
+### Preview
+
+To preview your changes right click the filename in the tabs on the top of your screen and click `Open Preview`. You can also press the `CRTL`+`SHIFT`+`V`.
+
+You can drag the tab to the side of your screen to get a live preview, showing the changes directly when working in the document.
+
+### Ensuring well formatted content
+
+To ensure well formatted markdown you can ask the editor to format your document, to do this you press `F1` and select `Format Document`. You can also press `SHIFT`+`ALT`+`F`.
 
 ## Formatting content
+
 The content lives in `content/` and is written as markdown because of it's simple content format. We do not allow the usage of HTML, this to enforce uniform and structured content, but there are times when Markdown falls short. For some of these reusable cases you can use built-in [shortcodes](https://gohugo.io/content-management/shortcodes/) or use/create a custom [shortcode](https://gohugo.io/templates/shortcode-templates/).
 
 - [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
@@ -26,7 +37,7 @@ You can add attributes (e.g. CSS classes) to Markdown blocks, e.g. tables, lists
 
 A blockquote with a CSS class:
 
-```md 
+```md
 > **Warning**
 > This is an important message
 {.callout-warning}
@@ -34,7 +45,7 @@ A blockquote with a CSS class:
 
 All [Bootstrap](https://getbootstrap.com/docs/) styles are available, to change the default table style you can use for example the following attributes:
 
-```md 
+```md
 | table header | column |
 | ------------ | ------ |
 | first row    |        |
@@ -46,9 +57,69 @@ All [Bootstrap](https://getbootstrap.com/docs/) styles are available, to change 
 
 Inclusion of HTML content within Markdown is not allowed for security and consistency reasons. If you need to include HTML content to enforce an particular formatting you can use a shortcode or create a custom shortcode.
 
+### Templates
+
+Some tempaltes can be found in the [archetypes](tree/main/archetypes) folder.
+
+```md
+---
+author: Your name
+date: 2024-01-01 00:00:00
+tags:
+# Remove this comment and the lines/tags below that are not applicable
+- Code Signing
+- Forum
+- Network Security
+- Server Certificates
+- S/MIME
+- Ballot
+- Minutes
+- Face-to-Face
+title: Some title
+summary: |
+  A good summary helps site visitors to find the right content. This could for example state the purpose of the ballot, and is shown in the preview when listing multiple pages. 
+type: post
+---
+
+## Section title
+
+The page title is included by default, this is the title of the section.
+
+
+## Formatting
+
+Try to use lists such as:
+
+- One
+- Two
+    - Sub of two
+- Three
+
+Or 
+
+1. One
+1. Two
+    1. Sub of two
+1. Three
+
+Not everything needs to be **bold** or _italic_, but you can use Markdown formatting.
+
+### Links
+
+To create a link you can use the following format [Link title](https://cabforum.org)
+
+### Images
+
+Images can like any other file be uploaded in the same folder (or subfolder) of your post. If your post is not in it's own folder create a folder 'name-of-your-post' and name the post file index.md inside that folder.
+
+Now load images like:
+
+![Example image](image.png)
+```
+
 ## Shortcodes
 
-Shorcodes are short tags that can be used in Markdown to render content. Hugo comes with a set of built-in shortcodes, see https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes. In additon to the built-in shortcodes we have added a few custom shortcodes which can be found in `layouts/shortcodes/` and are described below.
+Shorcodes are short tags that can be used in Markdown to render content. Hugo comes with a set of built-in shortcodes, see <https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes>. In additon to the built-in shortcodes we have added a few custom shortcodes which can be found in `layouts/shortcodes/` and are described below.
 
 In general we try to only use shortcodes for content that is used in multiple places or that is too complex to write in Markdown.
 
@@ -77,7 +148,7 @@ For loading content from external sources you can use the `markdown` shortcode. 
 
 ### List GitHub pull requests
 
-To list GitHub pull requests you can use the `github-prs` shortcode. 
+To list GitHub pull requests you can use the `github-prs` shortcode.
 
 ```md
 {{< pull-requests repository="code-signing" state="open" labels="ballot" >}}
@@ -116,3 +187,17 @@ This shortcode supports the following parameters:
 
 - class: any additional class to add to the element
 
+## Advanched changes
+
+You can make simple changes in the GitHub editor as described above. For more advanced changes you might want to run a local copy of the website.
+
+Some basic git knowledge is required, please check <https://guides.github.com/> to get started from scratch. An editor such as [Visual Studio Code](https://code.visualstudio.com/) can help you to [simplify most of these tasks](https://code.visualstudio.com/docs/editor/github) and help you with editing the content.
+
+1. [Install hugo](https://gohugo.io/getting-started/installing/#quick-install)
+2. [Create a fork](https://guides.github.com/activities/forking/#fork) of this repository
+3. [Clone your fork](https://guides.github.com/activities/forking/#clone)
+2. Run `hugo server -D` in the root directory of your fork
+3. Open the shown URL `http://localhost:xxxx/` in your browser to preview your local version
+4. Make changes until you are satisfied; the preview will update automatically
+5. [Commit and push your changes](https://guides.github.com/activities/forking/#making-changes)
+6. [Create a pull request](https://guides.github.com/activities/forking/#making-a-pull-request)
