@@ -2,7 +2,7 @@
     <footer class="bg-dark" data-bs-theme="dark">
         <div class="container-lg fw-light text-light opacity-50">
             {{ with .File }}
-                <a href="{{$.Site.Params.siteSource}}/content/{{ .File.Path }}" class="btn btn-sm btn-outline-light align-top float-end m-3">Edit this page</a>
+                <a href="{{$.Site.Params.siteSource}}/content/{{ .File.Path }}" target="_blank" class="btn btn-sm btn-outline-light align-top float-end m-3">Edit this page</a>
             {{ end }}
             <div class="pt-3 pb-5">
                 {{ partial "social.html" .Site.Params.social }}
