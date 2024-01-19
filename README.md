@@ -59,7 +59,7 @@ Inclusion of HTML content within Markdown is not allowed for security and consis
 
 ### Templates
 
-Some tempaltes can be found in the [archetypes](tree/main/archetypes) folder.
+Some tempaltes can be found in the [archetypes](archetypes) folder.
 
 ```md
 ---
