@@ -16,8 +16,6 @@ The CA/Browser Forum strives to be a consensus-driven organization. There is no 
 
 _Term begins Nov 1, 2022 and ends Oct 31, 2024._
 
-### 
-
 ## Server Certificate Working Group
 
 - Chairperson: Iñigo Barreira ([Sectigo][5])
