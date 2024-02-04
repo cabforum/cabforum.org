@@ -1,0 +1,124 @@
+name: Review pull request
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  check_and_format:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18
+
+    - name: Install dependencies
+      run: npm install diff js-yaml remark remark-preset-lint-recommended remark-frontmatter
+
+    - name: Run checks and formatting
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          const remark = require('remark');
+          const recommended = require('remark-preset-lint-recommended');
+          const frontmatter = require('remark-frontmatter');
+          const diff = require('diff');
+          const yaml = require('js-yaml');
+
+          const processor = remark().use(frontmatter, ['yaml']).use(recommended);
+
+          const prNumber = context.issue.number;
+
+          // Get the list of files changed in the pull request
+          const { data: files } = await github.pulls.listFiles({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            pull_number: prNumber
+          });
+
+          let comments = [];
+          let event = 'APPROVE';
+
+          // Check each file
+          for (const file of files) {
+
+            // Check if the filename is lowercase (except for PDF, ZIP, and DOCX files)
+            if (!file.filename.match(/\.(pdf|zip|docx)$/i)) {
+              if (file.filename !== file.filename.toLowerCase()) {
+                comments.push({
+                  path: file.filename,
+                  body: `Please change filename \`${file.filename}\` to lowercase.`
+                });
+                event = 'REQUEST_CHANGES';
+              }
+            }
+
+            // Check markdown files for formatting and style
+            if (file.filename.endsWith('.md')) {
+              const { data: content } = await github.repos.getContent({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: file.filename,
+                ref: context.sha
+              });
+
+              const original = Buffer.from(content.content, 'base64').toString('utf-8');
+              const ast = processor.parse(original);
+
+              // Check if the frontmatter is well formatted
+              const frontmatterNode = ast.children.find(node => node.type === 'yaml');
+              if (frontmatterNode) {
+                try {
+                  yaml.safeLoad(frontmatterNode.value);
+                } catch (err) {
+                  comments.push({
+                    path: file.filename,
+                    position: 1,
+                    body: `The YAML frontmatter is not well formatted:\n\`\`\`\n${err.message}\n\`\`\``
+                  });
+                  return;
+                }
+              }
+
+              const formatted = processor.processSync(original).toString();
+
+              // If the file was changed, add a comment with the changes as a suggestion
+              if (formatted !== original) {
+                const changes = diff.diffLines(original, formatted);
+                let position = 1;
+
+                changes.forEach((change) => {
+                  if (change.added) {
+                    comments.push({
+                      path: file.filename,
+                      position: position,
+                      body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
+                    });
+                  } else if (change.removed) {
+                    comments.push({
+                      path: file.filename,
+                      position: position,
+                      body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
+                    });
+                  }
+
+                  position += change.count;
+                });
+              }
+            }
+          }
+
+          // Create a review with the comments or approve the pull request
+          await github.pulls.createReview({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            pull_number: prNumber,
+            event: event,
+            comments: comments
+          });
