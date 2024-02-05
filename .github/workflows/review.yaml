@@ -81,9 +81,6 @@ jobs:
                     }
                   }
 
-                  console.log(`Hunk start: ${hunkStart}`);
-                  console.log(`Hunk end: ${hunkEnd}`);
-
                   console.log(`Original:\n ${original}`);
 
                   const formatted = await prettier.format(original, { filepath: file.filename });
