@@ -59,7 +59,7 @@ jobs:
             if (file.filename.match(/\.(md|yaml|json|svg|xml|yml|yaml|css)$/i)) {
               try {
                 const original = fs.readFileSync(file.filename, 'utf8');
-                const formatted = prettier.formatWithCursor(fileContent, { filepath: file.filename }).formatted;
+                const formatted = prettier.formatWithCursor(original, { filepath: file.filename }).formatted;
               
                 // If the file was changed, add a comment with the changes as a suggestion
                 if (formatted !== original) {
@@ -86,6 +86,10 @@ jobs:
                 }
 
               } catch (err) {
+                if (evet === 'APPROVE') {
+                  event = 'COMMENT';
+                }
+                
                 comments.push({
                   path: file.filename,
                   position: 1,
