@@ -59,6 +59,7 @@ The SMCWG Chair or Vice-Chair is permitted to update the Relevant Dates and Vers
 
 #### Motion ends
 
+
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
 Discussion (7 days)
