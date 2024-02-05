@@ -33,7 +33,7 @@ The voting period for Ballot SMC05: Adoption of CAA for S/MIME has completed, an
 
 ## Bylaws Requirements
 
-1. Bylaw 2.3(f) requires:
+1. Bylaw 2.3(f) requires: 
     1. A “yes” vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose. This requirement was **MET** for Certificate Issuers and\*\* MET\*\* for Certificate Consumers.
     1. At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was **MET**.
 1. Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three meetings. Votes to abstain are counted in determining quorum. The quorum was 10 for this ballot. This requirement was **MET**.
