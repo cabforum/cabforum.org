@@ -73,9 +73,7 @@ jobs:
                 const changes = diff.diffLines(original, formatted);
                 let position = 1;
 
-                const original = fs.readFileSync(file.filename, 'utf8');
-                const formatted = await prettier.format(original, { filepath: file.filename });
-
+                // Add one suggestion for the entire file
                 comments.push({
                   path: file.filename,
                   position: position,
@@ -85,23 +83,24 @@ jobs:
                   body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                 });
 
-                //changes.forEach((change) => {
-                //  if (change.added) {
-                //    comments.push({
-                //      path: file.filename,
-                //      position: position,
-                //      body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
-                //    });
-                // } else if (change.removed) {
-                //    comments.push({
-                //      path: file.filename,
-                //      position: position,
-                //      body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
-                //    });
-                //  }
-                //
-                //  position += change.count;
-                //});
+                // Add a suggestion for each change
+                changes.forEach((change) => {
+                  if (change.added) {
+                    comments.push({
+                      path: file.filename,
+                      position: position,
+                      body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
+                    });
+                 } else if (change.removed) {
+                    comments.push({
+                      path: file.filename,
+                      position: position,
+                      body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
+                    });
+                  }
+                
+                  position += change.count;
+                });
               }
             }
             console.log("::endgroup::")
