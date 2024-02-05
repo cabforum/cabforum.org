@@ -86,7 +86,7 @@ jobs:
                 }
 
               } catch (err) {
-                if (evet === 'APPROVE') {
+                if (event === 'APPROVE') {
                   event = 'COMMENT';
                 }
                 
