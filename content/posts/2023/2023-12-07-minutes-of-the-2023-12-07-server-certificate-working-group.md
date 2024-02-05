@@ -1,8 +1,8 @@
 ---
 aliases:
-- /2024/01/18/2023-12-7-minutes-of-the-server-certificate-working-group/
+- /2023/12/07/2023-12-07-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
-date: 2024-01-18 00:00:00
+date: 2023-12-07
 tags:
 - Minutes
 - Server Certificates
