@@ -84,7 +84,10 @@ jobs:
                   for (const line of hunk.lines) {
                     lineNr++;
                     hunkEnd++;
-                    if (!line.startsWith('-')) {
+                    if (line.startsWith('-')) {
+                      lineNr--;
+                      hunkEnd--;
+                    } else {
                       original += line.slice(1) + '\n';
                     }
                   }
