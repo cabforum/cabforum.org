@@ -82,6 +82,7 @@ jobs:
                       // Iterate over each line in the hunk
                       let original = '';
                       hunk.lines.forEach((line) => {
+                        line++;
                         hunkEnd++;
                         if (!line.startsWith('-')) {
                           original += line.slice(1) + '\n';
