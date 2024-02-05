@@ -43,6 +43,7 @@ jobs:
 
           // Check each file
           for (const file of files) {
+            console.log(`Checking file ${file.filename}`)
 
             // Check if the filename is lowercase (except for PDF, ZIP, and DOCX files)
             if (!file.filename.match(/\.(pdf|zip|docx)$/i)) {
@@ -57,43 +58,34 @@ jobs:
 
             // Check supported files types for formatting and style
             if (file.filename.match(/\.(md|yaml|json|svg|xml|yml|yaml|css)$/i)) {
-              try {
-                const original = fs.readFileSync(file.filename, 'utf8');
-                const formatted = prettier.formatWithCursor(original, { filepath: file.filename }).formatted;
-              
-                // If the file was changed, add a comment with the changes as a suggestion
-                if (formatted !== original) {
-                  const changes = diff.diffLines(original, formatted);
-                  let position = 1;
-  
-                  changes.forEach((change) => {
-                    if (change.added) {
-                      comments.push({
-                        path: file.filename,
-                        position: position,
-                        body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
-                      });
-                    } else if (change.removed) {
-                      comments.push({
-                        path: file.filename,
-                        position: position,
-                        body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
-                      });
-                    }
-  
-                    position += change.count;
-                  });
-                }
+              console.log(`Formatting file ${file.filename}`)
 
-              } catch (err) {
-                if (event === 'APPROVE') {
-                  event = 'COMMENT';
-                }
-                
-                comments.push({
-                  path: file.filename,
-                  position: 1,
-                  body: `The file could not be formatted:\n\`\`\`\n${err.message}\n\`\`\``
+              const original = fs.readFileSync(file.filename, 'utf8');
+              const formatted = prettier.formatWithCursor(original, { filepath: file.filename }).formatted;
+            
+              // If the file was changed, add a comment with the changes as a suggestion
+              if (formatted !== original) {
+                console.log(`Format of ${file.filename} changed, adding suggestion(s).`)
+
+                const changes = diff.diffLines(original, formatted);
+                let position = 1;
+
+                changes.forEach((change) => {
+                  if (change.added) {
+                    comments.push({
+                      path: file.filename,
+                      position: position,
+                      body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
+                    });
+                  } else if (change.removed) {
+                    comments.push({
+                      path: file.filename,
+                      position: position,
+                      body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
+                    });
+                  }
+
+                  position += change.count;
                 });
               }
             }
