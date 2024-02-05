@@ -43,7 +43,7 @@ jobs:
 
           // Check each file
           for (const file of files) {
-            console.log(`Checking file ${file.filename}`)
+            console.log(`::group::${file.filename}`)
 
             // Check if the filename is lowercase (except for PDF, ZIP, and DOCX files)
             if (!file.filename.match(/\.(pdf|zip|docx)$/i)) {
@@ -58,14 +58,17 @@ jobs:
 
             // Check supported files types for formatting and style
             if (file.filename.match(/\.(md|yaml|json|svg|xml|yml|yaml|css)$/i)) {
-              console.log(`Formatting file ${file.filename}`)
+              console.log("Checking format")
 
               const original = fs.readFileSync(file.filename, 'utf8');
               const formatted = prettier.formatWithCursor(original, { filepath: file.filename }).formatted;
+
+              console.debug("Original", original);
+              console.debug("Formatted", formatted);
             
               // If the file was changed, add a comment with the changes as a suggestion
-              if (formatted !== original) {
-                console.log(`Format of ${file.filename} changed, adding suggestion(s).`)
+              if (original && formatted && formatted !== original) {
+                console.log("Format changed, adding suggestion(s)")
 
                 const changes = diff.diffLines(original, formatted);
                 let position = 1;
@@ -89,6 +92,7 @@ jobs:
                 });
               }
             }
+            console.log(`::endgroup::`)
           }
 
           // Create a review with the comments or approve the pull request
