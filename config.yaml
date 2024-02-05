@@ -126,6 +126,13 @@ caches:
     maxAge: 28800
 
 security:
+  exec:
+    allow: 
+    - '^(dart-)?sass(-embedded)?$'
+    - '^go$'
+    - '^npx$'
+    - '^postcss$'
+    - '^pandoc$'
   funcs:
     getenv:
     - ^HUGO_

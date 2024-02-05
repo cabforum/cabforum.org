@@ -1,0 +1,14 @@
+{{- $url := (.Get `url`) -}}
+{{- with resources.GetRemote $url -}}
+    {{- with .Err -}}
+        {{- warnf "%s - %s" . $url -}}
+    {{ else }}
+        {{ $opts := dict "markup" "markdown" }}
+        {{ if os.Getenv "CABF_PANDOC_ENABLED" }}
+            {{ $opts = dict "markup" "pandoc" }}
+        {{ end }}
+        {{ .Content | $.Page.RenderString $opts }}
+    {{- end -}}
+{{- else -}}
+    Unable to retrieve markdown from {{ $url }}.
+{{- end -}}

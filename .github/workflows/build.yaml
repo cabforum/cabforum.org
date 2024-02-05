@@ -4,10 +4,13 @@ on:
   push:
     branches: ["main"]
     paths-ignore:
-      - 'README.md'
-      - '.github/**'
+      - "README.md"
+      - ".github/**"
   pull_request:
     types: [opened, synchronize]
+    paths-ignore:
+      - "README.md"
+      - ".github/**"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -19,10 +22,10 @@ permissions:
   id-token: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# If a deployment is cancelled midway, it could potentially leave the website in an unstable state, this is not an issue for pull requests that do not get deployed.
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: ${{ github.ref == 'refs/heads/main' && 'deployment' || github.run_id }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 # Default to bash
 defaults:
@@ -43,6 +46,10 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+      - name: Install Pandoc
+        uses: pandoc/actions/setup@v1
+        with:
+          version: 3.1.11.1
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -59,6 +66,7 @@ jobs:
           HUGO_ENV: production
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CABF_API_TOKEN: ${{ secrets.CABF_API_TOKEN }}
+          CABF_PANDOC_ENABLED: true
         run: |
           hugo \
             --minify \

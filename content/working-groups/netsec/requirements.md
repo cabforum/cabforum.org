@@ -4,4 +4,4 @@ linkTitle: Requirements
 title: Latest Network and Certificate System Security Requirements
 ---
 
-{{< markdown url="https://github.com/cabforum/netsec/raw/main/docs/NSR.md" >}}
+{{< pandoc url="https://github.com/cabforum/netsec/raw/main/docs/NSR.md" >}}

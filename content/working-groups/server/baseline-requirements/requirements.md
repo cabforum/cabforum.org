@@ -4,4 +4,4 @@ linkTitle: Requirements
 title: Latest Baseline Requirements
 ---
 
-{{< markdown url="https://raw.githubusercontent.com/cabforum/servercert/main/docs/BR.md" >}}
+{{< pandoc url="https://raw.githubusercontent.com/cabforum/servercert/main/docs/BR.md" >}}
