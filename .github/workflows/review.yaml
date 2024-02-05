@@ -77,7 +77,7 @@ jobs:
                   path: file.filename,
                   line: original.split('\n').length - 1,
                   start_line: 1,
-                  start_side: 'LEFT',
+                  start_side: 'RIGHT',
                   body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                 });
 
