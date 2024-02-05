@@ -108,6 +108,8 @@ jobs:
                       start_side: 'RIGHT',
                       body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                     });
+
+                    break; // test only the first hunk for now
                   }
                 }
               }
