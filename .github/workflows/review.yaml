@@ -70,24 +70,13 @@ jobs:
               for (const patch of parsedPatch) {
 
                 // Iterate over each hunk in the file
-                let lineNr = 0;
                 for (const hunk of patch.hunks) {
-                  lineNr++; // line number based of the first hunk
-
-                  let hunkStart = lineNr;
-                  let hunkEnd = hunkStart;
-
                   console.log('Hunk:', hunk);
           
                   // Iterate over each line in the hunk
                   let original = '';
                   for (const line of hunk.lines) {
-                    lineNr++;
-                    hunkEnd++;
-                    if (line.startsWith('-')) {
-                      lineNr--;
-                      hunkEnd--;
-                    } else {
+                    if (!line.startsWith('-')) {
                       original += line.slice(1) + '\n';
                     }
                   }
@@ -106,13 +95,11 @@ jobs:
     
                     comments.push({
                       path: file.filename,
-                      line: hunkEnd - 1,
-                      start_line: hunkStart,
+                      line: hunk.newLines,
+                      start_line: hunk.newStart,
                       start_side: 'RIGHT',
                       body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                     });
-
-                    break; // test only the first hunk for now
                   }
                 }
               }
