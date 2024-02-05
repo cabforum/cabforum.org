@@ -32,7 +32,7 @@ jobs:
           const prNumber = context.issue.number;
 
           // Get the list of files changed in the pull request
-          const { data: files } = await github.pulls.listFiles({
+          const { data: files } = await github.rest.pulls.listFiles({
             owner: context.repo.owner,
             repo: context.repo.repo,
             pull_number: prNumber
@@ -96,7 +96,7 @@ jobs:
           }
 
           // Create a review with the comments or approve the pull request
-          await github.pulls.createReview({
+          await github.rest.pulls.createReview({
             owner: context.repo.owner,
             repo: context.repo.repo,
             pull_number: prNumber,
