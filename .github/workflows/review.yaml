@@ -61,7 +61,7 @@ jobs:
               console.log("Checking format")
 
               const original = fs.readFileSync(file.filename, 'utf8');
-              const formatted = prettier.format(original, { filepath: file.filename });
+              const formatted = await prettier.format(original, { filepath: file.filename });
 
               console.debug("Formatted", formatted);
             
