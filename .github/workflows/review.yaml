@@ -83,24 +83,7 @@ jobs:
                   body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                 });
 
-                // Add a suggestion for each change
-                changes.forEach((change) => {
-                  if (change.added) {
-                    comments.push({
-                      path: file.filename,
-                      position: position,
-                      body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
-                    });
-                 } else if (change.removed) {
-                    comments.push({
-                      path: file.filename,
-                      position: position,
-                      body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
-                    });
-                  }
-                
-                  position += change.count;
-                });
+
               }
             }
             console.log("::endgroup::")
