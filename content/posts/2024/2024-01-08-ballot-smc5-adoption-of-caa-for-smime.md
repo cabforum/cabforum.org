@@ -49,7 +49,7 @@ The ballot proposes changes to the S/MIME Baseline Requirements to introduce the
 
 The following motion has been proposed by Corey Bonnell of DigiCert and endorsed by Dimitris Zacharopoulos of HARICA and Ben Wilson of Mozilla.
 
-#### Motion begins
+#### Motion begins  
 
 This ballot modifies Version 1.0.2 of the “Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates” (“S/MIME Baseline Requirements”) resulting in Version 1.0.3.
 
