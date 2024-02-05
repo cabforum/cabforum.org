@@ -5,7 +5,7 @@ aliases:
 author: Stephen Davidson
 date: 2024-01-17 00:00:00
 tags:
-- S/MIME
+- S/MIME 
 - Ballot
 title: 'Ballot SMC05: Adoption of CAA for S/MIME'
  type: post
