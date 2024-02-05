@@ -1,4 +1,5 @@
 ---
+
 aliases:
 - /2024/01/17/ballot-smc05-adoption-of-caa-for-s-mime/
 author: Stephen Davidson
