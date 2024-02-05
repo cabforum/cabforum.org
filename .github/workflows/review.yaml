@@ -64,7 +64,7 @@ jobs:
               console.log("Checking format")
 
               // Parse the patch value
-              const parsedPatch = diff.parsePatch(patch);
+              const parsedPatch = diff.parsePatch(file.patch);
 
               // Iterate over each file in the patch
               parsedPatch.forEach((file) => {
