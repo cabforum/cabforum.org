@@ -67,17 +67,17 @@ jobs:
               const parsedPatch = diff.parsePatch(file.patch);
 
               // Iterate over each file in the patch
-              parsedPatch.forEach((file) => {
+              parsedPatch.forEach((patch) => {
 
                   // Iterate over each hunk in the file
                   let line = 0;
-                  file.hunks.forEach((hunk) => {
+                  patch.hunks.forEach((hunk) => {
                       line++; // line number based of the first hunk
 
                       let hunkStart = line;
                       let hunkEnd = hunkStart;
 
-                      console.log(`Hunk:\n ${hunk}`);
+                      console.log('Hunk:', hunk);
               
                       // Iterate over each line in the hunk
                       let original = '';
@@ -93,8 +93,15 @@ jobs:
 
                       console.log(`Original:\n ${original}`);
 
-                      const formatted = prettier.format(original, { filepath: file.filename });
-                      
+                      let formatted = '';
+                      prettier.format(original, { filepath: file.filename })
+                        .then((data) => {
+                          formatted = data;
+                        })
+                        .catch(error => {
+                          console.error('Error:', error);
+                        });
+
                       // If the file was changed, add a comment with the changes as a suggestion
                       if (formatted !== original) {
                         console.log("Format of hunk changed, adding suggestion(s)")
@@ -110,6 +117,7 @@ jobs:
                       }
                   });
               });
+              })();
             }
 
             console.log("::endgroup::")
