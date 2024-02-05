@@ -106,7 +106,7 @@ jobs:
     
                     comments.push({
                       path: file.filename,
-                      line: hunkEnd,
+                      line: hunkEnd - 1,
                       start_line: hunkStart,
                       start_side: 'RIGHT',
                       body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
