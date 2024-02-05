@@ -43,7 +43,7 @@ This ballot now enters the 30-day IP Rights Review Period to permit members to r
 ## Ballot SMC05: Adoption of CAA for S/MIME
 
 
-### Purpose of Ballot
+ ### Purpose of Ballot
 
 The ballot proposes changes to the S/MIME Baseline Requirements to introduce the use of Certification Authority Authorization (CAA) Processing for Email Addresses as defined in RFC 9495. It also includes minor typographic corrections.
 
