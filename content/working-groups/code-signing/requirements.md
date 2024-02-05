@@ -6,4 +6,4 @@ summary: Latest baseline Requirements for the Issuance and Management of Publicl
 title: Latest Code Signing Baseline Requirements
 ---
 
-{{< markdown url="https://github.com/cabforum/code-signing/raw/main/docs/CSBR.md" >}}
+{{< pandoc url="https://github.com/cabforum/code-signing/raw/main/docs/CSBR.md" >}}

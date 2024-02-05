@@ -6,4 +6,4 @@ summary: Latest guidelines for the Issuance and Management of Extended Validatio
 title: Latest Extended Validation Guidelines
 ---
 
-{{< markdown url="https://raw.githubusercontent.com/cabforum/servercert/main/docs/EVG.md" >}}
+{{< pandoc url="https://raw.githubusercontent.com/cabforum/servercert/main/docs/EVG.md" >}}

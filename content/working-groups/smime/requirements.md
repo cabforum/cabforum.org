@@ -6,4 +6,4 @@ summary: Latest baseline Requirements for the Issuance and Management of Publicl
 title: Latest S/MIME Baseline Requirements
 ---
 
-{{< markdown url="https://github.com/cabforum/smime/raw/main/SBR.md" >}}
+{{< pandoc url="https://github.com/cabforum/smime/raw/main/SBR.md" >}}
