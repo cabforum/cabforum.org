@@ -15,7 +15,7 @@ The voting period for Ballot SMC05: Adoption of CAA for S/MIME has completed, an
 
 
 ##  Voting Results   
-
+ 
 ### Certificate Issuers   
 
 19 votes total, with no abstentions:
