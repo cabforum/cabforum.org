@@ -83,9 +83,9 @@ jobs:
                       let original = '';
                       hunk.lines.forEach((line) => {
                         hunkEnd++;
-                          if (line.startsWith('+')) {
-                            original += line.slice(1) + '\n';
-                          }
+                        if (!line.startsWith('-')) {
+                          original += line.slice(1) + '\n';
+                        }
                       });
 
                       console.log(`Hunk start: ${hunkStart}`);
@@ -93,7 +93,7 @@ jobs:
 
                       console.log(`Original:\n ${original}`);
 
-                      const formatted = await prettier.format(original, { filepath: file.filename });
+                      const formatted = prettier.format(original, { filepath: file.filename });
                       
                       // If the file was changed, add a comment with the changes as a suggestion
                       if (formatted !== original) {
