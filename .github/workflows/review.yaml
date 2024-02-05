@@ -71,12 +71,11 @@ jobs:
                 event = 'REQUEST_CHANGES';
 
                 const changes = diff.diffLines(original, formatted);
-                let position = 1;
 
                 // Add one suggestion for the entire file
                 comments.push({
                   path: file.filename,
-                  line: original.split('\n').length,
+                  line: original.split('\n').length - 1,
                   start_line: 1,
                   start_side: 'LEFT',
                   body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
