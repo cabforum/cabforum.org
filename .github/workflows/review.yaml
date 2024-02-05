@@ -76,13 +76,11 @@ jobs:
                 // Add one suggestion for the entire file
                 comments.push({
                   path: file.filename,
-                  position: position,
                   line: original.split('\n').length,
                   start_line: 1,
                   start_side: 'LEFT',
                   body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                 });
-
 
               }
             }
