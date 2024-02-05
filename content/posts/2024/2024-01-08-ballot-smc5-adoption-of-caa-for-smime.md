@@ -64,7 +64,7 @@ The SMCWG Chair or Vice-Chair is permitted to update the Relevant Dates and Vers
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-Discussion (7 days)
+Discussion (7 days )
 
 - Start Time: Wednesday January 3, 2024 18:00 UTC
 - End Time: Wednesday January 10, 2024 23:30 UTC
