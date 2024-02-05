@@ -67,27 +67,34 @@ jobs:
               // If the file was changed, add a comment with the changes as a suggestion
               if (original && formatted && formatted !== original) {
                 console.log("Format changed, adding suggestion(s)")
+                event = 'REQUEST_CHANGES';
 
                 const changes = diff.diffLines(original, formatted);
                 let position = 1;
 
-                changes.forEach((change) => {
-                  if (change.added) {
-                    comments.push({
-                      path: file.filename,
-                      position: position,
-                      body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
-                    });
-                  } else if (change.removed) {
-                    //comments.push({
-                    //  path: file.filename,
-                    //  position: position,
-                    //  body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
-                    //});
-                  }
-
-                  position += change.count;
+                comments.push({
+                  path: file.filename,
+                  position: position,
+                  body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                 });
+
+                //changes.forEach((change) => {
+                //  if (change.added) {
+                //    comments.push({
+                //      path: file.filename,
+                //      position: position,
+                //      body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
+                //    });
+                // } else if (change.removed) {
+                //    comments.push({
+                //      path: file.filename,
+                //      position: position,
+                //      body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
+                //    });
+                //  }
+                //
+                //  position += change.count;
+                //});
               }
             }
             console.log("::endgroup::")
