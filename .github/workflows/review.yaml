@@ -51,6 +51,7 @@ jobs:
               if (file.filename !== file.filename.toLowerCase()) {
                 comments.push({
                   path: file.filename,
+                  subject_type : "file",
                   body: `Please change filename \`${file.filename}\` to lowercase.`
                 });
                 event = 'REQUEST_CHANGES';
@@ -72,9 +73,15 @@ jobs:
                 const changes = diff.diffLines(original, formatted);
                 let position = 1;
 
+                const original = fs.readFileSync(file.filename, 'utf8');
+                const formatted = await prettier.format(original, { filepath: file.filename });
+
                 comments.push({
                   path: file.filename,
                   position: position,
+                  line: original.split('\n').length,
+                  start_line: 1,
+                  start_side: 'LEFT',
                   body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
                 });
 
