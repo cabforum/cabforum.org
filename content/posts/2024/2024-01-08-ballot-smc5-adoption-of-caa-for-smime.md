@@ -48,7 +48,7 @@ This ballot now enters the 30-day IP Rights Review Period to permit members to r
 
 The ballot proposes changes to the S/MIME Baseline Requirements to introduce the use of Certification Authority Authorization (CAA) Processing for Email Addresses as defined in RFC 9495. It also includes minor typographic corrections.
 
-The following motion has been proposed by Corey Bonnell of DigiCert and endorsed by Dimitris Zacharopoulos of HARICA and Ben Wilson of Mozilla.
+ The following motion has been proposed by Corey Bonnell of DigiCert and endorsed by Dimitris Zacharopoulos of HARICA and Ben Wilson of Mozilla.
 
 #### Motion begins  
 
