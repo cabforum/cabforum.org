@@ -9,6 +9,7 @@ tags:
 - Ballot
 title: 'Ballot SMC05: Adoption of CAA for S/MIME'
 type: post
+
 ---
 The voting period for Ballot SMC05: Adoption of CAA for S/MIME has completed, and the ballot has **passed**.
 
