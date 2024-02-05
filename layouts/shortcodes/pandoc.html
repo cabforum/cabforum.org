@@ -7,7 +7,7 @@
         {{ if os.Getenv "CABF_PANDOC_ENABLED" }}
             {{ $opts = dict "markup" "pandoc" }}
         {{ end }}
-        {{ .Content | .RenderString $opts }}
+        {{ .Content | $.RenderString $opts }}
     {{- end -}}
 {{- else -}}
     Unable to retrieve markdown from {{ $url }}.
