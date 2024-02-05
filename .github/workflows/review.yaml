@@ -92,7 +92,7 @@ jobs:
     
                     comments.push({
                       path: file.filename,
-                      line: hunk.newLines,
+                      line: (hunk.newStart + hunk.newLines) - 1,
                       start_line: hunk.newStart,
                       start_side: 'RIGHT',
                       body: `Suggestion:\n\`\`\`suggestion\n${formatted}\`\`\``
