@@ -6,6 +6,7 @@ on:
 
 jobs:
   check_and_format:
+    name: Check and format files
     runs-on: ubuntu-latest
 
     steps:
@@ -62,8 +63,6 @@ jobs:
 
               const original = fs.readFileSync(file.filename, 'utf8');
               const formatted = await prettier.format(original, { filepath: file.filename });
-
-              console.debug("Formatted", formatted);
             
               // If the file was changed, add a comment with the changes as a suggestion
               if (original && formatted && formatted !== original) {
@@ -80,21 +79,22 @@ jobs:
                       body: `Suggestion:\n\`\`\`suggestion\n${change.value}\`\`\``
                     });
                   } else if (change.removed) {
-                    comments.push({
-                      path: file.filename,
-                      position: position,
-                      body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
-                    });
+                    //comments.push({
+                    //  path: file.filename,
+                    //  position: position,
+                    //  body: `Suggestion:\n\`\`\`suggestion\n\`\`\``
+                    //});
                   }
 
                   position += change.count;
                 });
               }
             }
-            console.log(`::endgroup::`)
+            console.log("::endgroup::")
           }
 
           // Create a review with the comments or approve the pull request
+          console.log("::group::Creating pull request review")
           await github.rest.pulls.createReview({
             owner: context.repo.owner,
             repo: context.repo.repo,
@@ -102,3 +102,4 @@ jobs:
             event: event,
             comments: comments
           });
+          console.log("::endgroup::")
