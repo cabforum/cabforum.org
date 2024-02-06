@@ -53,7 +53,7 @@ The following motion has been proposed by Corey Bonnell of DigiCert and endorsed
 
 This ballot modifies Version 1.0.2 of the “Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates” (“S/MIME Baseline Requirements”) resulting in Version 1.0.3.
 
-The proposed modifications to the S/MIME Baseline Requirements may be found at https://github.com/cabforum/smime/compare/5fb2a7ee94d1c5684d5f32af11572e8c10cd2f8c…1fbbdc8f908e6eba779b4ea0de1cbfd20e156c3a
+The proposed modifications to the S/MIME Baseline Requirements may be found at https://github.com/cabforum/smime/compare/5fb2a7ee94d1c5684d5f32af11572e8c10cd2f8c...1fbbdc8f908e6eba779b4ea0de1cbfd20e156c3a
 
 The SMCWG Chair or Vice-Chair is permitted to update the Relevant Dates and Version Number of the S/MIME Baseline Requirements to reflect final dates.
 
