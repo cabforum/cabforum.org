@@ -53,7 +53,7 @@ This [pull request](https://github.com/cabforum/servercert/pull/473) proposes up
 
 The following motion has been proposed by Dimitris Zacharopoulos of HARICA and endorsed by Ben Wilson of Mozilla and Corey Bonnell of Digicert.
 
-### MOTION BEGINS
+### Motion begins
 
 This ballot modifies the “Guidelines for the Issuance and Management of Extended Validation Certificates” (“EV Guidelines”), based on Version 1.8.0.
 
@@ -61,7 +61,7 @@ MODIFY the EV Guidelines as specified in the following Redline:
 
 [https://github.com/cabforum/servercert/compare/da89d0e9700c6dd89a8263526addc39f472bf54c](https://github.com/cabforum/servercert/compare/da89d0e9700c6dd89a8263526addc39f472bf54c).
 
-### MOTION ENDS
+### Motion ends
 
 The procedure for this ballot is as follows:
 
