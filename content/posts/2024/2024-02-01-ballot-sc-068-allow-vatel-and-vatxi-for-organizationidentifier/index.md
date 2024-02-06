@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2024/02/01/ballot-sc-008-allow-vatel-and-vatxi-for-organizationidentifier/
+- /2024/02/01/ballot-sc-68-allow-vatel-and-vatxi-for-organizationidentifier/
 author: Dimitris Zacharopoulos
 date: 2024-02-01
 tags:
@@ -11,17 +11,17 @@ type: post
 ---
 ## Voting Results
 
-## Certificate Issuers
+### Certificate Issuers
 
 23 votes total, with no abstentions:
-- 23 Issuers voting YES: Actalis, Buypass, CFCA, CommScope, D-TRUST, DigiCert, Disig, eMudhra, Entrust, Fastly, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, OISTE, SECOM, Sectigo, SSL.com, SwissSign, Telia Company and Viking Cloud
+- **23 Issuers voting YES**: Actalis, Buypass, CFCA, CommScope, D-TRUST, DigiCert, Disig, eMudhra, Entrust, Fastly, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, OISTE, SECOM, Sectigo, SSL.com, SwissSign, Telia Company and Viking Cloud
 - 0 Issuers voting NO
 - 0 Issuers ABSTAIN
 
-## Certificate Consumers
+### Certificate Consumers
 
 4 votes total, with no abstentions:
-- 4 Consumers voting YES: Apple, Google, Microsoft, Mozilla
+- **4 Consumers voting YES**: Apple, Google, Microsoft, Mozilla
 - 0 Consumers voting NO
 - 0 Consumers ABSTAIN
 
