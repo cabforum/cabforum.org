@@ -14,28 +14,29 @@ type: post
 ## Certificate Issuers
 
 23 votes total, with no abstentions:
-
-    23 Issuers voting YES: Actalis, Buypass, CFCA, CommScope, D-TRUST, DigiCert, Disig, eMudhra, Entrust, Fastly, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, OISTE, SECOM, Sectigo, SSL.com, SwissSign, Telia Company and Viking Cloud
-    0 Issuers voting NO
-    0 Issuers ABSTAIN
+- 23 Issuers voting YES: Actalis, Buypass, CFCA, CommScope, D-TRUST, DigiCert, Disig, eMudhra, Entrust, Fastly, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, OISTE, SECOM, Sectigo, SSL.com, SwissSign, Telia Company and Viking Cloud
+- 0 Issuers voting NO
+- 0 Issuers ABSTAIN
 
 ## Certificate Consumers
 
 4 votes total, with no abstentions:
-
-    4 Consumers voting YES: Apple, Google, Microsoft, Mozilla
-    0 Consumers voting NO
-    0 Consumers ABSTAIN
+- 4 Consumers voting YES: Apple, Google, Microsoft, Mozilla
+- 0 Consumers voting NO
+- 0 Consumers ABSTAIN
 
 ## Bylaws Requirements
 
-    Bylaw 2.3(6) requires:
-        In order for a ballot to be adopted by the Forum, two‐thirds (2/3) or more of the votes cast by the Voting Members in the Certificate Issuer category must be in favour of the ballot. This requirement was MET.
-        at least fifty percent (50%) plus one (1) of the votes cast by the Voting Members in the Certificate Consumer category must be in favour of the ballot. This requirement was MET.
-        At least one (1) Voting Member in each category must vote in favour of a ballot for the ballot to be adopted. This requirement was MET.
-    Bylaw 2.3(7) requires:
-        A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
-            the quorum was 11 for this ballot. This requirement was MET.
+Bylaw 2.3(6) requires:
+
+In order for a ballot to be adopted by the Forum, two‐thirds (2/3) or more of the votes cast by the Voting Members in the Certificate Issuer category must be in favour of the ballot. This requirement was MET.
+at least fifty percent (50%) plus one (1) of the votes cast by the Voting Members in the Certificate Consumer category must be in favour of the ballot. This requirement was MET.
+At least one (1) Voting Member in each category must vote in favour of a ballot for the ballot to be adopted. This requirement was MET.
+
+Bylaw 2.3(7) requires:
+
+A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
+the quorum was 11 for this ballot. This requirement was MET.
 
  
 ## Ballot Contents
@@ -58,11 +59,14 @@ This ballot modifies the “Guidelines for the Issuance and Management of Extend
 
 MODIFY the EV Guidelines as specified in the following Redline:
 
-    https://github.com/cabforum/servercert/compare/da89d0e9700c6dd89a8263526addc39f472bf54c.
+[https://github.com/cabforum/servercert/compare/da89d0e9700c6dd89a8263526addc39f472bf54c](https://github.com/cabforum/servercert/compare/da89d0e9700c6dd89a8263526addc39f472bf54c).
 
 ### MOTION ENDS
 
 The procedure for this ballot is as follows:
+
 Start time (8:00 UTC) 	End time (8:00 UTC)
+
 Discussion (at least 7 days) 	2024-01-16 	2024-01-23
+
 Expected Vote for approval (7 days) 	2024-01-23 	2024-01-30
