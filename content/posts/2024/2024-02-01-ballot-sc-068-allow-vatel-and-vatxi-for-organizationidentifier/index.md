@@ -10,31 +10,6 @@ title: 'Ballot SC-68: Allow VATEL and VATXI for organizationIdentifier'
 type: post
 ---
 
-**NOTICE OF REVIEW PERIOD**
-
-This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email, both in red-line and changes-accepted draft format, in Word and PDF versions.
-
-**Summary of Review**
-
-**Ballot for Review**: Ballot SC-68: Allow VATEL and VATXI for organizationIdentifier – CAB Forum
-
-[EVG-SC68.pdf](https://cabforum.org/content/posts/2024/2024-02-01-ballot-sc-068-allow-vatel-and-vatxi-for-organizationidentifier/EVG-SC68.pdf)
-
-[EVG-SC68-reline.pdf](https://cabforum.org/content/posts/2024/2024-02-01-ballot-sc-068-allow-vatel-and-vatxi-for-organizationidentifier/EVG-SC68-redline.pdf)
-
-[EVG-SC68.docx](https://cabforum.org/content/posts/2024/2024-02-01-ballot-sc-068-allow-vatel-and-vatxi-for-organizationidentifier/EVG-SC68.docx)
-
-Start of Review Period: 1 February 2024 at 17:00 Eastern Time
-
-End of Review Period: 1 March 2024 at 17:00 Eastern Time
-
-Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair, Iñigo Barreira, inigo.barreira at sectigo.com, and also must submit a copy to the CA/B Forum public mailing list, (public at cabforum.org) before the end of the Review Period.
-
-For details, please see the current version of the [CA/Browser Forum Intellectual Property Rights Policy](https://cabforum.org/static/uploads/CABF-IPR-Policy-v.1.3_4APR18.pdf).
-
-(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/static/uploads/Template-for-Exclusion-Notice.pdf)
-
-
 ## Voting Results
 
 ### Certificate Issuers
@@ -64,6 +39,29 @@ Bylaw 2.3(7) requires:
 A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
 the quorum was 11 for this ballot. This requirement was **MET**.
 
+## Notice of Review Period
+
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email, both in red-line and changes-accepted draft format, in Word and PDF versions.
+
+### Summary of Review
+
+**Ballot for Review**: Ballot SC-68: Allow VATEL and VATXI for organizationIdentifier – CAB Forum
+
+[EVG-SC68.pdf](EVG-SC68.pdf)
+
+[EVG-SC68-reline.pdf](EVG-SC68-redline.pdf)
+
+[EVG-SC68.docx](EVG-SC68.docx)
+
+**Start of Review Period**: 1 February 2024 at 17:00 Eastern Time
+
+**End of Review Period**: 1 March 2024 at 17:00 Eastern Time
+
+Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair, Iñigo Barreira, inigo.barreira at sectigo.com, and also must submit a copy to the CA/B Forum public mailing list, (public at cabforum.org) before the end of the Review Period.
+
+For details, please see the current version of the [CA/Browser Forum Intellectual Property Rights Policy](https://cabforum.org/static/uploads/CABF-IPR-Policy-v.1.3_4APR18.pdf).
+
+(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/static/uploads/Template-for-Exclusion-Notice.pdf)
  
 ## Ballot Contents
 
