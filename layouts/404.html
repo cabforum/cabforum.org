@@ -8,7 +8,14 @@
     </div>
 </section>
 
-<script>
-    setTimeout("location.href = '{{ relURL "" }}';", 20000);
-</script>
+{{ $js := resources.Get "js/redirects.js" | resources.ExecuteAsTemplate "redirects.js" . }}
+{{ $params := dict }}
+{{ $sourceMap := cond hugo.IsProduction "" "inline" }}
+{{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2018" "params" $params }}
+{{ $js = $js | js.Build $opts }}
+{{ if hugo.IsProduction }}
+{{ $js = $js | fingerprint }}
+{{ end }} 
+<script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }} defer></script>
+
 {{ end }}
