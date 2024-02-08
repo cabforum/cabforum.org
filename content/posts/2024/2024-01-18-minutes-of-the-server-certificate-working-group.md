@@ -78,26 +78,26 @@ type: post
 - Zhang Xiao – SHECA
 
  
- ## Minutes:
-    Roll Call
-    No new members
+## Minutes:
+Roll Call  
+No new members  
 
 
 ## Membership
-    Sun ShengNan: as interested party
-    Dean Coclin asked questions and waiting a response
+Sun ShengNan: as interested party  
+Dean Coclin asked questions and waiting a response  
 
-    CommScope: move from associate to full membership
+CommScope: move from associate to full membership  
 
 ## Review Agenda
-    SC65: EVGs as per RFC 3647 (update)
-    Clarification on organization in EVGs, I.e., VATEL for Greece. (See ballots)
-    Use of DTPs: Definition clarification, uses,…
-    Reversing “whichever is greater” CAA language (Issue #474)
+- SC65: EVGs as per RFC 3647 (update)  
+- Clarification on organization in EVGs, I.e., VATEL for Greece. (See ballots)
+- Use of DTPs: Definition clarification, uses,…
+- Reversing “whichever is greater” CAA language (Issue #474)
 
 ## Previous Minutes
-    7 December: Circulated on 11 January
-    4 January – Minutes have not been circulated yet
+- 7 December: Circulated on 11 January
+- 4 January – Minutes have not been circulated yet
 
 ## Read Antitrust Statement
 
