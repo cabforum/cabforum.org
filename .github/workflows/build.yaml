@@ -59,6 +59,13 @@ jobs:
         uses: pandoc/actions/setup@v1
         with:
           version: 3.1.11.1
+      - name: Install Pandoc Wrapper
+        run: |
+          PANDOC_PATH=$(which pandoc)
+          mv $PANDOC_PATH ${PANDOC_PATH}-original
+          echo -e '#!/bin/bash\n'${PANDOC_PATH}'-original -f markdown+gfm_auto_identifiers --table-of-contents "$@"' > $PANDOC_PATH
+          chmod +x $PANDOC_PATH
+        
       - name: Checkout
         uses: actions/checkout@v4
         with:
