@@ -65,7 +65,7 @@ jobs:
           NEW_PATH="${HOME}/.local/bin"
           mkdir -p $NEW_PATH
 
-          echo -e '#!/bin/bash\n'${PANDOC_PATH}' -f markdown+gfm_auto_identifiers --table-of-contents "$@"' > "${NEW_PATH}/pandoc"
+          echo -e '#!/bin/bash\n'${PANDOC_PATH}' -f markdown+gfm_auto_identifiers --table-of-contents --lua-filter=pandoc/filters/headers.lua "$@"' > "${NEW_PATH}/pandoc"
           chmod +x "${NEW_PATH}/pandoc"
 
           echo "$HOME/.local/bin" >> $GITHUB_PATH
