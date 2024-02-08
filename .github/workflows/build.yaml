@@ -58,7 +58,17 @@ jobs:
       - name: Install Pandoc
         uses: pandoc/actions/setup@v1
         with:
-          version: 3.1.11.1
+          version: 3.1.11.1       
+      - name: Install Pandoc Wrapper
+        run: |
+          PANDOC_PATH=$(which pandoc)
+          NEW_PATH="${HOME}/.local/bin"
+          mkdir -p $NEW_PATH
+
+          echo -e '#!/bin/bash\n'${PANDOC_PATH}' -f markdown+gfm_auto_identifiers --table-of-contents "$@"' > "${NEW_PATH}/pandoc"
+          chmod +x "${NEW_PATH}/pandoc"
+
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
       - name: Checkout
         uses: actions/checkout@v4
         with:
