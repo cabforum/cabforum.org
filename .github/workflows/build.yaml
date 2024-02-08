@@ -12,6 +12,15 @@ on:
       - "README.md"
       - ".github/**"
 
+  # Rebuild the website daily using a cron job. Alternatively, we could use a 
+  # repository_dispatch event and a workflow on the working group repositories that \
+  # triggers this webhook whenever there is a push to the main branch, a pull request
+  # (with labels) is created or updated, and so on. This would allow changes to be 
+  # visible faster. However, this also requires taking into account the frequency of 
+  # pull request updates and avoiding excessive rebuilds.
+  schedule:
+    - cron: "30 05 * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
