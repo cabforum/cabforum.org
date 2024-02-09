@@ -406,4 +406,4 @@ title: Baseline Requirements for TLS Server Certificates
 [225]: /uploads/Baseline_Requirements_Draft_35.pdf
 [226]: /uploads/Baseline_Requirements_Draft_34.pdf
 [227]: /uploads/Baseline_Requirements_Draft_30b.pdf
-[228]: /uploads/CA-Browser-Forum-TLS-BRs-v2.0.2.pdf
+[228]: /static/uploads/CA-Browser-Forum-TLS-BRs-v2.0.2.pdf
