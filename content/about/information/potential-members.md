@@ -22,10 +22,9 @@ The CA/Browser Forum conducts business primarily at the working group level, alt
 - Certificate Consumer: The member organization produces a software product, such as a browser, intended for use by the general public for relying upon certificates and is a member of one of the CWGs ([Server Certificate WG][2], [Code Signing Certificate Working Group][3], or [S/MIME Certificate Working Group][4]).
 - Six-month Probationary Period: For the Server Certificate WG, there is a six-month probationary period for new members. During the probationary period, the applicant organization must attend at least 30% of the Server Certificate WG teleconferences (not counting subcommittee meetings) and at least one face-to-face meeting of the working group (either physically or virtually).
 
-**Additional membership criteria are stated in each CWG’s charter.**
+### Additional membership criteria are stated in each CWG’s charter.**
 
-**Any individual or organization that does not qualify for voting membership in a chartered working group may participate as an [Interested Party][5].
-**
+**Any individual or organization that does not qualify for voting membership in a chartered working group may participate as an [Interested Party][5].**
 
 In addition, the CA/Browser Forum may enter into associate member relationships with other organizations when the Forum determines that maintaining such a relationship will be of benefit to the work of the Forum. Associate membership is defined in section 3.1 of the Forum [Bylaws][1].
 
@@ -33,7 +32,7 @@ In addition, the CA/Browser Forum may enter into associate member relationships 
 
 ### For all Membership Applications:
 
-Please email ” ” with “Membership Application of \[Name of Your Organization\]” in the Subject line.
+Please email "questions@cabforum.org" with “Membership Application of \[Name of Your Organization\]” in the Subject line.
 
 Here are the items that should be provided in all applications:
 
