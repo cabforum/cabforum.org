@@ -4,13 +4,13 @@ author: Author name
 summary: 
 date: {{ .Date }}
 tags:
-- Code Signing
-- Forum
-- Network Security
-- Server Certificates
-- S/MIME
-- Face-to-Face
-- Minutes
+  - Code Signing
+  - Forum
+  - Network Security
+  - Server Certificates
+  - S/MIME
+  - Face-to-Face
+  - Minutes
 type: post
 ---
 

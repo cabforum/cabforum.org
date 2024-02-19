@@ -4,12 +4,12 @@ author: Author name
 summary: 
 date: {{ .Date }}
 tags:
-- Code Signing
-- Forum
-- Network Security
-- Server Certificates
-- S/MIME
-- Ballot
+  - Code Signing
+  - Forum
+  - Network Security
+  - Server Certificates
+  - S/MIME
+  - Ballot
 type: post
 ---
 
