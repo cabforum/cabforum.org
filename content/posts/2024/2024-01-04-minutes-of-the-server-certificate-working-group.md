@@ -1,11 +1,11 @@
 ---
 aliases:
-- /2024/01/04/2024-01-04-minutes-of-the-server-certificate-working-group/
+  - /2024/01/04/2024-01-04-minutes-of-the-server-certificate-working-group/
 author: Iñigo Barreira
 date: 2024-01-04 00:00:00
 tags:
-- Minutes
-- Server Certificates
+  - Minutes
+  - Server Certificates
 title: 2024-01-04 Minutes of the Server Certificate Working Group
 type: post
 ---
