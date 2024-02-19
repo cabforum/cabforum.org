@@ -15,7 +15,7 @@ type: post
 
 ## Voting Results
 
-The voting period for Ballot XXXXX - SUBJECT has ended and the Ballot has **Passed**. 
+The voting period for Ballot XXXXX - SUBJECT has ended and the Ballot has **Passed**.
 
 ### Voting by Certificate Issuers
 

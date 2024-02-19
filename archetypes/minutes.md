@@ -34,7 +34,7 @@ Minutes were prepared by XXX.
 
 The minutes for the teleconference of XXX were approved.
 
-## Discussion 
+## Discussion
 
 XXX
 
