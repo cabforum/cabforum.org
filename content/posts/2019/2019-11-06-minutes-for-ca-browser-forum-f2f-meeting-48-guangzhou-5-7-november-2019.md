@@ -328,7 +328,7 @@ No questions.
 _Presenter:_ Wayne Thayer (Mozilla)    
 _Note Taker:_ Scott Rea (DarkMatter)    
 
-Mozilla Update: https://cabforum.org/wp-content/uploads/9-Mozilla-Browser-News.pdf
+Mozilla Update: https://cabforum.org/uploads/9-Mozilla-Browser-News.pdf
 
 **Wayne T:** Nothing terribly new here, just run of the mill stuff for folks who are familiar with the list topics…
 
@@ -411,7 +411,7 @@ Wayne T: Yes, this is the process, but it doesn’t necessarily lead to revocati
 _Presenter:_ Wayne Thayer (Mozilla)    
 _Note Taker:_ Scott Rea (DarkMatter)    
 
-CCADB Update: https://cabforum.org/wp-content/uploads/10-CCADB-News-CABF-F2F-November-2019.pdf
+CCADB Update: https://cabforum.org/uploads/10-CCADB-News-CABF-F2F-November-2019.pdf
 
 **Wayne T:** I am reporting for Kathleen here
 

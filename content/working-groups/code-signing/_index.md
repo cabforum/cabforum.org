@@ -9,14 +9,12 @@ menu:
 title: Code Signing Certificate Working Group
 ---
 
-**Code Signing Certificate Working Group**
-
 The CA/Browser Forum’s Code Signing Certificate Working Group was chartered to work on requirements applicable to Certification Authorities that issue code signing certificates.
 
 ## Officers
 
-**Chair**: Dean Coclin ([Digicert](https://www.digicert.com))
-**Vice-Chair**: Bruce Morton ([Entrust](https://www.entrust.com)) 
+- **Chair**: Dean Coclin ([Digicert](https://www.digicert.com))
+- **Vice-Chair**: Bruce Morton ([Entrust](https://www.entrust.com))
 
 ## Charter
 
@@ -43,9 +41,7 @@ If interested in joining the Working Group, please submit an email to and includ
 
 ## Mailing List
 
-To subscribe to the public mailing list, click here: 
-
-https://cabforum.org/mailman/listinfo/cscwg-public
+To subscribe to the public mailing list, click here: https://lists.cabforum.org/mailman/listinfo/cscwg-public
 
 Questions or comments should be sent to questions@cabforum.org.
 

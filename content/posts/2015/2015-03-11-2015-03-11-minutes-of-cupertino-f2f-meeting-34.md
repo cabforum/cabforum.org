@@ -349,7 +349,7 @@ Guidelines for the Issuance And Management Of Extended Validation Code Signing C
 
 The audit criteria can be found at http://www.webtrust.org/homepage-documents/item27839.aspx
 
-Don then displayed a matrix showing which WebTrust audits are required for different kinds of CAs (public, government, etc.) who provide different kinds of certificates (SSL, code signing, etc.) See table attached as pdf titled “Audit Matrix.” [Audit-Matrix][https://cabforum.org/wp-content/uploads/Audit-Matrix.pdf]
+Don then displayed a matrix showing which WebTrust audits are required for different kinds of CAs (public, government, etc.) who provide different kinds of certificates (SSL, code signing, etc.) See table attached as pdf titled “Audit Matrix.” [Audit-Matrix][https://cabforum.org/uploads/Audit-Matrix.pdf]
 
 This table is based both on WebTrust’s recommendations and the requirements of the browser root programs.
 

@@ -12,4 +12,4 @@ type: post
 
 On June 7, 2007, the draft [CA/Browser Forum’s Guidelines for the Issuance and Management of Extended Validation Certificates Version 1.0][1] passed unanimously pursuant to Ballot 1.
 
-[1]: /EV_Certificate_Guidelines.pdf
+[1]: /uploads/EV_Certificate_Guidelines.pdf
