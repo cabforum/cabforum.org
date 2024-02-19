@@ -1,5 +1,8 @@
 # cabforum.org website
 
+> [!TIP] 
+> For more detailed instructions please see the wiki: https://wiki.cabforum.org/books/forum/chapter/website
+
 ## Adding new post such as ballots and minutes
 
 It's easy to add pages, posts or upload files video the online editor provided by GitHub. 
@@ -187,7 +190,7 @@ This shortcode supports the following parameters:
 
 - class: any additional class to add to the element
 
-## Advanched changes
+## Advanced changes
 
 You can make simple changes in the GitHub editor as described above. For more advanced changes you might want to run a local copy of the website.
 
