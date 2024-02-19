@@ -1,7 +1,7 @@
 # cabforum.org website
 
 > [!TIP] 
-> For more detailled instructions please see the wiki: https://wiki.cabforum.org/books/forum/chapter/website
+> For more detailed instructions please see the wiki: https://wiki.cabforum.org/books/forum/chapter/website
 
 ## Adding new post such as ballots and minutes
 
