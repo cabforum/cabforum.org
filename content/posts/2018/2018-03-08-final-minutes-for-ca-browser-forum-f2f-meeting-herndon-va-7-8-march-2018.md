@@ -554,7 +554,7 @@ The BRs do not state the place to report is in the CPS. Should BRs specify where
 
 Note the CCADB has list for all CA’s but this is best for CA’s, browsers and researchers, but not good for common users. See https://ccadb-public.secure.force.com/mozilla/AllProblemReportingMechanismsReport.
 
-Phil states that he is reviewing another standard and would like consistency, see https://tools.ietf.org/html/draft-ietf-uta-smtp-tlsrpt-17. Phil also stated that we could create an email address similar to mailto from CAA. Phil followed up with a proposal, see https://cabforum.org/pipermail/public/2018-March/013073.html.
+Phil states that he is reviewing another standard and would like consistency, see https://tools.ietf.org/html/draft-ietf-uta-smtp-tlsrpt-17. Phil also stated that we could create an email address similar to mailto from CAA. Phil followed up with a proposal, see https://lists.cabforum.org/pipermail/public/2018-March/013073.html.
 
 ### News from the Council of Accredited Conformity Assessment Bodies (ACAB-c) on Harmonized audit attestation
 

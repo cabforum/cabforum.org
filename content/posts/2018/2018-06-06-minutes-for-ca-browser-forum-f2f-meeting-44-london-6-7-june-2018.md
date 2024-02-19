@@ -499,7 +499,7 @@ Kirk-we passed the new bylaws because we had a large number of CAs that know cod
   - Ryan S – legacy vs modern CAs differ on what “misuse” means
   - Kirk – auditors never complained about this, proposed that this definition has worked fine thus far. Objects to the definition change.
   - Wayne – disagrees with Kirk, asking for better definition
-  - Ryan S – this definition change does not impact current CA operations, but the says current definition is causing problems. People on msdp have posted questions on “what is misuse”? (see https://cabforum.org/pipermail/public/2018-June/013547.html)
+  - Ryan S – this definition change does not impact current CA operations, but the says current definition is causing problems. People on msdp have posted questions on “what is misuse”? (see https://lists.cabforum.org/pipermail/public/2018-June/013547.html)
   - Geoff – sounds familiar, this was debated last year
   - Wayne – will put something forth that hopefully most everyone can agree on
   - lively debate, discussion will continue

@@ -15,6 +15,7 @@ type: post
 ### Certificate Issuers
 
 23 votes total, with no abstentions:
+
 - **23 Issuers voting YES**: Actalis, Buypass, CFCA, CommScope, D-TRUST, DigiCert, Disig, eMudhra, Entrust, Fastly, GDCA, GlobalSign, GoDaddy, HARICA, iTrusChina, Izenpe, OISTE, SECOM, Sectigo, SSL.com, SwissSign, Telia Company and Viking Cloud
 - 0 Issuers voting NO
 - 0 Issuers ABSTAIN
@@ -22,6 +23,7 @@ type: post
 ### Certificate Consumers
 
 4 votes total, with no abstentions:
+
 - **4 Consumers voting YES**: Apple, Google, Microsoft, Mozilla
 - 0 Consumers voting NO
 - 0 Consumers ABSTAIN
@@ -59,10 +61,10 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair, Iñigo Barreira, inigo.barreira at sectigo.com, and also must submit a copy to the CA/B Forum public mailing list, (public at cabforum.org) before the end of the Review Period.
 
-For details, please see the current version of the [CA/Browser Forum Intellectual Property Rights Policy](https://cabforum.org/static/uploads/CABF-IPR-Policy-v.1.3_4APR18.pdf).
+For details, please see the current version of the [CA/Browser Forum Intellectual Property Rights Policy](/uploads/CABF-IPR-Policy-v.1.3_4APR18.pdf).
 
-(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/static/uploads/Template-for-Exclusion-Notice.pdf)
- 
+(An optional template for submitting an Exclusion Notice is available [here](/uploads/Template-for-Exclusion-Notice.pdf))
+
 ## Ballot Contents
 
 ### Purpose of the Ballot
@@ -89,7 +91,7 @@ MODIFY the EV Guidelines as specified in the following Redline:
 
 The procedure for this ballot is as follows:
 
-||Start time (8:00 UTC) |	End time (8:00 UTC)|
-|------|------|------|
-|Discussion (at least 7 days)| 	2024-01-16 |	2024-01-23|
-|Expected Vote for approval (7 days)| 	2024-01-23 |	2024-01-30|-
+|                                     | Start time (8:00 UTC) | End time (8:00 UTC) |
+| ----------------------------------- | --------------------- | ------------------- |
+| Discussion (at least 7 days)        | 2024-01-16            | 2024-01-23          |
+| Expected Vote for approval (7 days) | 2024-01-23            | 2024-01-30          |

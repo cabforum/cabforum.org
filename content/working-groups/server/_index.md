@@ -30,9 +30,9 @@ Instructions are [here](/about/information/potential-members/).
 
 ## Server Certificate WG Mailing List
 
-Subscribe – https://cabforum.org/mailman/listinfo/servercert-wg
+Subscribe – https://lists.cabforum.org/mailman/listinfo/servercert-wg
 
-Archives – https://cabforum.org/pipermail/servercert-wg/
+Archives – https://lists.cabforum.org/pipermail/servercert-wg/
 
 ## Subcommittees
 
