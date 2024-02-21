@@ -14,9 +14,11 @@ NA
 
 ### Current Version 
 
-[S/MIME Baseline Requirements v. 1.0.2][1] – adopted by Ballot [SMC04][2]
+[S/MIME Baseline Requirements v. 1.0.3][6] – adopted by Ballot [SMC05][7]
 
 ### Previous Versions 
+
+[S/MIME Baseline Requirements v. 1.0.2][1] – adopted by Ballot [SMC04][2]
 
 [S/MIME Baseline Requirements v. 1.0.1][3] – adopted by Ballot SMC03
 
@@ -27,3 +29,5 @@ NA
 [3]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.1.pdf
 [4]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.0.pdf
 [5]: /2023/01/01/smc-001-adopt-s-mime-baseline-requirements-v1-0-0/
+[6]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.3.pdf
+[7]: content/posts/2024/2024-01-08-ballot-smc5-adoption-of-caa-for-smime.md
