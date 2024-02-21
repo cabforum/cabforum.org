@@ -1,8 +1,8 @@
 ---
 aliases:
-- /2024/01/17/ballot-smc05-adoption-of-caa-for-s-mime/
+- /2024/01/08/ballot-smc05-adoption-of-caa-for-s-mime/
 author: Stephen Davidson
-date: 2024-01-17 00:00:00
+date: 2024-01-08 00:00:00
 tags:
 - S/MIME
 - Ballot

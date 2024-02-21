@@ -30,4 +30,4 @@ NA
 [4]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.0.pdf
 [5]: /2023/01/01/smc-001-adopt-s-mime-baseline-requirements-v1-0-0/
 [6]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.3.pdf
-[7]: content/posts/2024/2024-01-08-ballot-smc5-adoption-of-caa-for-smime.md
+[7]: /2024/01/08/ballot-smc05-adoption-of-caa-for-s-mime/
