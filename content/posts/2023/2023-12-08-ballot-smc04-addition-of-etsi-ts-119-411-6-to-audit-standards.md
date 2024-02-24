@@ -8,6 +8,7 @@ tags:
 - Ballot
 title: 'Ballot SMC04: Addition of ETSI TS 119 411-6 to audit standards'
 type: post
+slug: ballot-smc04-addition-of-etsi-ts-119-411-6-to-audit-standards
 ---
 
 The Intellectual Property Review (IPR) period for Ballot SMC04 (Addition of ETSI TS 119 411-6 to audit standards) has completed. No IPR Exclusion Notices were filed, and the ballot is adopted as of December 8, 2023.
