@@ -89,4 +89,4 @@ The procedure for this ballot is as follows:
 |                                     | Start time (22:30 UTC) | End time (22:30 UTC) |
 | ----------------------------------- | --------------------- | ------------------- |
 | Discussion (at least 7 days)        | 2024-02-02            | 2024-02-12          |
-| Expected Vote for approval (7 days) | 2024-01-12            | 2024-01-19          |
+| Expected Vote for approval (7 days) | 2024-02-12            | 2024-02-19          |
