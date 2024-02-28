@@ -1,0 +1,31 @@
+# Infrastructure Subcommittee is responsible for the website
+
+*                                    @cabforum/infrastructure-subcommittee
+
+# Content and static resources (legacy) are managed by the Forum
+# static resources can also be managed by the infrastructure team
+
+/content/                            @cabforum/forum-chairs
+/static/                             @cabforum/forum-chairs @cabforum/infrastructure-subcommittee
+
+# Server Certificate Working Group (SCWG)
+
+/content/**server-certificate**      @cabforum/servercert-chairs
+/content/**scwg**                    @cabforum/servercert-chairs
+/content/**sc-**                     @cabforum/servercert-chairs
+
+# Code-Signing Working Group
+
+/content/**codesigning**             @cabforum/codesigning-chairs
+/content/**cscwg**                   @cabforum/codesigning-chairs
+/content/**csc-**                    @cabforum/codesigning-chairs
+
+# S/MIME Certificate Working Group (SMCWG)
+
+/content/**smime**                   @cabforum/smime-chairs
+/content/**smcwg**                   @cabforum/smime-chairs
+/content/**smc-**                    @cabforum/smime-chairs
+
+# Network Security Working Group (NetSec WG)
+
+/content/**netsec**                  @cabforum/netsec-chairs
