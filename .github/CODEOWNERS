@@ -10,22 +10,22 @@
 
 # Server Certificate Working Group
 
-/content/**/*server-certificate*      @cabforum/servercert-chairs
-/content/**/*scwg*                    @cabforum/servercert-chairs
-/content/**/*sc-*                     @cabforum/servercert-chairs
+/content/**server-certificate**      @cabforum/servercert-chairs
+/content/**scwg**                    @cabforum/servercert-chairs
+/content/**sc-**                     @cabforum/servercert-chairs
 
 # Server Certificate Working Group
 
-/content/**/*codesigning*             @cabforum/codesigning-chairs
-/content/**/*cscwg*                   @cabforum/codesigning-chairs
-/content/**/*csc-*                    @cabforum/codesigning-chairs
+/content/**codesigning**             @cabforum/codesigning-chairs
+/content/**cscwg**                   @cabforum/codesigning-chairs
+/content/**csc-**                    @cabforum/codesigning-chairs
 
 # Server Certificate Working Group
 
-/content/**/*smime*                   @cabforum/smime-chairs
-/content/**/*smcwg*                   @cabforum/smime-chairs
-/content/**/*smc-*                    @cabforum/smime-chairs
+/content/**smime**                   @cabforum/smime-chairs
+/content/**smcwg**                   @cabforum/smime-chairs
+/content/**smc-**                    @cabforum/smime-chairs
 
 # Server Certificate Working Group
 
-/content/**/*netsec*                  @cabforum/netsec-chairs
+/content/**netsec**                  @cabforum/netsec-chairs
