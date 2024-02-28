@@ -25,7 +25,7 @@ NA
 [S/MIME Baseline Requirements v1.0.0][4] – adopted by Ballot [SMC01][5]
 
 [1]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.2.pdf
-[2]: /2023/11/09/ballot-smc04-addition-of-etsi-ts-119-411-6-to-audit-standards/
+[2]: /2023/12/08/ballot-smc04-addition-of-etsi-ts-119-411-6-to-audit-standards/
 [3]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.1.pdf
 [4]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.0.pdf
 [5]: /2023/01/01/smc-001-adopt-s-mime-baseline-requirements-v1-0-0/
