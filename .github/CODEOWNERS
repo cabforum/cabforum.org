@@ -8,24 +8,24 @@
 /content/                            @cabforum/forum-chairs
 /static/                             @cabforum/forum-chairs @cabforum/infrastructure-subcommittee
 
-# Server Certificate Working Group
+# Server Certificate Working Group (SCWG)
 
 /content/**server-certificate**      @cabforum/servercert-chairs
 /content/**scwg**                    @cabforum/servercert-chairs
 /content/**sc-**                     @cabforum/servercert-chairs
 
-# Server Certificate Working Group
+# Code-Signing Working Group
 
 /content/**codesigning**             @cabforum/codesigning-chairs
 /content/**cscwg**                   @cabforum/codesigning-chairs
 /content/**csc-**                    @cabforum/codesigning-chairs
 
-# Server Certificate Working Group
+# S/MIME Certificate Working Group (SMCWG)
 
 /content/**smime**                   @cabforum/smime-chairs
 /content/**smcwg**                   @cabforum/smime-chairs
 /content/**smc-**                    @cabforum/smime-chairs
 
-# Server Certificate Working Group
+# Network Security Working Group (NetSec WG)
 
 /content/**netsec**                  @cabforum/netsec-chairs
