@@ -10,7 +10,11 @@ title: Ballots CSC-21 and CSC-22
 type: post
 ---
 
-## NOTICE OF REVIEW PERIOD
+## RESULTS OF REVIEW PERIOD
+
+The IPR review period ended on February 28, 2024 and no exclusion notices were filed.
+
+The final documents, with the effective date being 2024-02-28, are available [here][1].
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice are available [here](Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.6_redline.pdf) for CSC-21 and [here](Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.7_redline.pdf) for CSC-22, in red-line draft format.
 
@@ -76,3 +80,5 @@ The following motion has been proposed by Bruce Morton of Entrust and endorsed b
 ### Motion
 
 This ballot updates the “Baseline Requirements for the Issuance and Management of Publicly‐Trusted Code Signing Certificates” (“Code Signing Baseline Requirements”) based on version 3.4. MODIFY the Code Signing Baseline Requirements as specified in the following redline: <https://github.com/cabforum/code-signing/compare/e0da5532ab81e35e2e92536c1bc9ea3c36765b26…50871dc08d39102daf6c93fa556a869790643fb6>
+
+[1]: /working-groups/code-signing/documents/
