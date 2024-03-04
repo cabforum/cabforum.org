@@ -10,17 +10,21 @@ title: Baseline Requirements (Code Signing)
 
 ### Current Version 
 
-[Baseline Requirements for Code-Signing Certificates, v.3.5][1] ([redline][2]) adopted by [ballot CSCWG-20][3].
+[Baseline Requirements for Code-Signing Certificates, v.3.7][46] ([redline][47]) adopted by [ballot CSCWG-22][45].
 
 ### Previous Versions 
+
+[Baseline Requirements for Code-Signing Certificates, v.3.6][43] ([redline][44]) adopted by [ballot CSCWG-21][45].
+
+[Baseline Requirements for Code-Signing Certificates, v.3.5][1] ([redline][2]) adopted by [ballot CSCWG-20][3].
 
 [Baseline Requirements for Code-Signing Certificates, v.3.4][4] ([redline][5]) adopted by [ballot CSCWG-19][6].
 
 [Baseline Requirements for Code-Signing Certificates, v.3.3][7] ([redline][8]) adopted by [ballot CSCWG-18][9].
 
-[Baseline Requirements for Code-Signing Certificates, v.3.2][10] ([redli][11][ne][12]) adopted by [ballot CSCWG-17][13].
+[Baseline Requirements for Code-Signing Certificates, v.3.2][10] ([redline][11][ne][12]) adopted by [ballot CSCWG-17][13].
 
-[Baseline Requirements for Code-Signing Certificates, v.3.1][14] ([redli][15][ne][12]) adopted by [ballot CSCWG-15][16].
+[Baseline Requirements for Code-Signing Certificates, v.3.1][14] ([redline][15][ne][12]) adopted by [ballot CSCWG-15][16].
 
 [Baseline Requirements for Code-Signing Certificates, v.3.0][17] ([redline][12]) adopted by [ballot CSCWG-14][18].
 
@@ -86,3 +90,8 @@ title: Baseline Requirements (Code Signing)
 [40]: /uploads/baseline_requirements_for_the_issuance_and_management_of_code_signing.v.2.0_redline.pdf
 [41]: /2020/07/21/ballot-cscwg-2-combine-baseline-and-ev-code-signing-documents/
 [42]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing-Certificates.v.1.2.pdf
+[43]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.6.pdf
+[44]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.6_redline.pdf
+[45]: /2024/01/18/ballots-csc-21-and-csc-22/
+[46]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.7.pdf
+[47]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.7_redline.pdf
