@@ -113,9 +113,9 @@ EV SSL Certificate Guidelines 1.4.1 – None (see [version 1.1 of the Baseline R
 [Erratum to Guidelines 1][123]
 [EV SSL Certificate Guidelines Draft 11][124] – valid through June 11, 2007
 
-[181]: cabforum/cabforum.org/content/working-groups/server/extended-validation/documents/EVG-1.8.1.pdf
-[181r]:cabforum/cabforum.org/content/working-groups/server/extended-validation/documents/EVG-1.8.1-redlined.pdf
-[sc68]: cabforum/cabforum.org/content/posts/2024/2024-02-01-ballot-sc-068-allow-vatel-and-vatxi-for-organizationidentifier
+[181]: EVG-1.8.1.pdf
+[181r]: EVG-1.8.1-redlined.pdf
+[sc68]: /2024/02/01/ballot-sc-68-allow-vatel-and-vatxi-for-organizationidentifier/
 [1]: /uploads/CA-Browser-Forum-EV-Guidelines-1.8.0.pdf
 [2]: /uploads/EVG-1.8.0_redlined.pdf
 [3]: /2022/10/25/ballot-sc56-2022-cleanup/
