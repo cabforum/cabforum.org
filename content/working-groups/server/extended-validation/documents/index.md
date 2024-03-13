@@ -5,10 +5,6 @@ date: 2013-08-31 00:36:51
 title: EV Guidelines for TLS Server Certificates
 ---
 
-## **EV Guidelines for TLS Server Certificates
-
-**
-
 ### Current Version
 
 [EV TLS Server Certificate Guidelines 1.8.1][181] – ([redlined][181r]) – adopted by Ballot [SC68][sc68]
