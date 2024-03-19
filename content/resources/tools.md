@@ -31,6 +31,8 @@ TestSSL – https://testssl.sh/
 
 Wormly – https://www.wormly.com/test_ssl
 
+Actalis - https://extwebra.actalis.com/portal/uapub/tools/sslchecker
+
 ## Browser / Client Testing
 
 BadSSL – https://badssl.com/  (numerous scenarios to use to test how your browser reacts)
