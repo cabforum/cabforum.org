@@ -3,14 +3,8 @@ name: Build website
 on:
   push:
     branches: ["main"]
-    paths-ignore:
-      - "README.md"
-      - ".github/**"
   pull_request:
     types: [opened, synchronize]
-    paths-ignore:
-      - "README.md"
-      - ".github/**"
 
   # Rebuild the website daily using a cron job. Alternatively, we could use a 
   # repository_dispatch event and a workflow on the working group repositories that \
