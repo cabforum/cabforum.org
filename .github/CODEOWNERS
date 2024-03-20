@@ -5,7 +5,7 @@
 # Content and static resources (legacy) are managed by the Forum
 # static resources can also be managed by the infrastructure team
 
-/content/                            @cabforum/forum-chairs
+/content/                            @cabforum/forum-chairs @cabforum/infrastructure-subcommittee
 /content/posts/                      @cabforum/forum-chairs @cabforum/infrastructure-subcommittee
 /static/                             @cabforum/forum-chairs @cabforum/infrastructure-subcommittee
 
