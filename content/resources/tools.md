@@ -87,6 +87,8 @@ OCSP Watch – https://sslmate.com/labs/ocsp_watch/
 
 ## Offline, Downloadable Tools
 
+pkilint - opensource linting framework for documents that are encoded using ASN.1 (coverage includes PKIX, S/MIME BR, TLS BR, CRL and OCSP response, etc.) - https://github.com/digicert/pkilint 
+
 OpenSSL – https://www.openssl.org/
 
 How to check OCSP using OpenSSL – https://unmitigatedrisk.com/?p=42
