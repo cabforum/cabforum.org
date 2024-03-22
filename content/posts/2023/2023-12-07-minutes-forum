@@ -1,0 +1,87 @@
+---
+aliases:
+- /2023/12/07/2023-12-07-minutes-of-the-ca-browser-forum-teleconference/
+author: Ben Wilson
+date: 2023-12-07 00:00:00
+tags:
+- Forum
+- Minutes
+title: 2023-12-07 Minutes of the CA/Browser Forum Teleconference
+type: post
+---
+
+## Meeting of the CA/Browser Forum
+
+## December 7, 2023
+
+### Forum Session Attendees 
+
+Aaron Gable - (Let's Encrypt), Aaron Poulsen - (Amazon), Adam Jones - (Microsoft), Alison Wang - (TrustAsia), Andrea Holland - (VikingCloud), Ben Wilson - (Mozilla), Brianca Martin - (Amazon), Brittany Randall - (GoDaddy), Chris Clements - (Google), Corey Bonnell - (DigiCert), Dean Coclin - (DigiCert), Dimitris Zacharopoulos - (HARICA), Enrico Entschew - (D-TRUST), Inigo Barreira - (Sectigo), Kiran Tummala - (Microsoft), Lynn Jeun - (Visa), Mads Henriksveen - (Buypass AS), Marcelo Silva - (Visa), Marco Schambach - (IdenTrust), Martijn Katerbarg - (Sectigo), Michelle Coon - (OATI), Mrugesh Chandarana - (IdenTrust), Nargis Mannan - (VikingCloud), Nate Smith - (GoDaddy), Nicol So - (CommScope), Nome Huang - (TrustAsia), Paul van Brouwershaven - (Entrust), Pedro Fuentes - (OISTE Foundation), Peter Miskovic - (Disig), Rebecca Kelley - (Apple), Rollin Yu - (TrustAsia), Scott Rea - (eMudhra), Stephen Davidson - (DigiCert), Steven Deitte - (GoDaddy), Tadahiko Ito - (SECOM Trust Systems), Tobias Josefowitz - (Opera Software AS), Trevoli Ponds-White - (Amazon), Wayne Thayer - (Fastly), Yoshihiko Matsuo - (Japan Registry Services)
+
+### Meeting Notes:
+
+* Approved for minutes from October 26th teleconference
+
+Working Group Updates:
+
+### 1. SCWG update:
+
+* Ballot SC-066: Fall 2023 Clean-up v2 approved.
+* Update on Amended Server Certificate Working Group Charter.
+
+### 2. Validation Subcommittee update:
+
+#### Topic 1:
+
+* Michael Slaughter presented improvements on BR, specifically DNS-based validation.
+* Discussion focused on explicit requirements for delegation to a domain name controlled by the allowed, with added security measures.
+* No objections to fundamental ideas; in the wordsmithing phase.
+
+#### Topic 2:
+
+* Global signing presented language improvements in EV guidelines.
+* Next meeting to explore proposed approaches further.
+
+#### Topic 3:
+
+* Chris from Chrome team provided an update on the IPR situation with multi-perspective domain validation.
+* Meeting on the 28th canceled.
+
+### 3. Code Signing Working Group update:
+
+* Mike Ounsworth presented on Key Attestation.
+* Discussion on importing EV guideline references.
+* Exploring sections to move within the code signing.
+
+### 4. S/MIME update:
+
+* New version SMC 04 BR Ballot for CAs audited under ETSI standard.
+* Draft CAA for S/MIME with ballot text; intending to move to ballot early next year.
+* Discussion on sponsor legacy profile.
+
+### 5. Infrastructure Subcommittee update:
+
+* Demo of election system "Zeus" for surveys.
+* Open-source project; positive feedback from trial survey.
+
+### 6. NetSec update:
+
+* No update; meeting canceled.
+
+### 7. Code Signing Charter Update:
+
+* Code Signing charter version 2 update to be sent out.
+
+### 8.Separation of forum and the service security group:
+
+* Survey for the separation through weekly teleconferences.
+* Involves voting members and associate member representatives.
+* Martin and Dimitris identified as trustees.
+* Emails to be sent to all member representatives, with the expectation of one response as the final one received.
+
+### 9. Next Face-to-Face Meeting in New Delhi:
+
+* 24 people registered for the face-to-face meeting.
+* 2 people plan to attend remotely.
+* Visa challenges for those traveling from Canada resolved.
+* Participants urged to add their names on meeting 61 page on the wiki.
