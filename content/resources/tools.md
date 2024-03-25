@@ -103,4 +103,4 @@ Mozilla SSL/TLS Configuration Generator for Servers (Apache, nginx, etc.) – ht
 
 SSL Labs: SSL and TLS Deployment Best Practices – https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
 
-OWASP TLS Cheat Sheet – https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html
+OWASP TLS Cheat Sheet – https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Security_Cheat_Sheet.html
