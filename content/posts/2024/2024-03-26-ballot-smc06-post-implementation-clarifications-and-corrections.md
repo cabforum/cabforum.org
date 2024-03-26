@@ -1,3 +1,14 @@
+---
+author: Stephen Davidson
+date: 2024-03-26 00:00:00
+tags:
+- S/MIME
+- Ballot
+title: 'Ballot SMC06: Post implementation clarification and corrections'
+type: post
+slug: ballot-smc06-post-implementation-clarification-and-corrections
+---
+
 ## Ballot SMC06: Post implementation clarification and corrections
 
 ### Purpose of Ballot:
