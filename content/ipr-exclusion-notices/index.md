@@ -7,6 +7,10 @@ title: IPR Exclusion Notices
 
 ## IPR Exclusion Notices
 
+### _2024_
+
+[Ballot SC70 - Exclusion Notice - GoDaddy (2024-03-25)][12]
+
 ### _2016_
 
 #### Ballot 182
@@ -134,3 +138,4 @@ title: IPR Exclusion Notices
 [9]: /uploads/GoDaddy-Patent-Exclusion-Notice.pdf
 [10]: /uploads/PayPal-Patent-Exclusion-Notice.pdf
 [11]: /uploads/Symantec-Patent-Exclusion-Notice.pdf
+[12]: /uploads/Exclusion-Notice-BallotSC-70(GoDaddy.com).pdf
