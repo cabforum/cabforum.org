@@ -8,7 +8,7 @@ title: Forum Infrastructure Subcommittee
 
 ## Charter 
 
-Forum ballot [FORUM-010-](https://cabforum.org/2019/10/08/ballot-forum-10-re-charter-forum-infrastructure-working-group/) was reformed from the Forum Infrastructure Working Group (“FIWG”) to the Forum Infrastructure Subcommittee (FIS).
+Forum ballot [FORUM-010-](https://cabforum.org/2019/10/08/ballot-forum-10-re-charter-forum-infrastructure-working-group/) reformed from the Forum Infrastructure Working Group (“FIWG”) to the Forum Infrastructure Subcommittee (FIS).
 
 ### Scope 
 
