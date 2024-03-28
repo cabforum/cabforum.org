@@ -9,6 +9,8 @@ title: CA/Browser Forum adopts Intellectual Property Rights (IPR) policy
 type: post
 ---
 
-In order to protect the Intellectual Property of its members, the CA/Browser forum has adopted an [IPR policy](/IPR_Policy_V1.pdf) which has been signed by over 30 companies including the biggest names in the technology industry.
-The complete list of current members is here: .
-The policy can be found on the IPR Policy page: IPR Policy
+In order to protect the Intellectual Property of its members, the CA/Browser forum has adopted a [IPR policy V1](/uploads/IPR_Policy_V1.pdf) which has been signed by over 30 companies including the biggest names in the technology industry.
+
+The complete list of current members is here: https://cabforum.org/about/membership/members/.
+
+The policy and future updates can be found on the [IPR Policy page](https://cabforum.org/about/ipr-policy/).
