@@ -1,12 +1,11 @@
 ---
-aliases:
-- /2024/03/13/2024-03-13-minutes-of-the-s-mime-certificate-working-group/
 author: Stephen Davidson
 date: 2024-03-13 00:00:00
 tags:
 - Minutes
 - S/MIME
 title: 2024-03-13 Minutes of the S/MIME Certificate Working Group
+slug: minutes-of-the-s-mime-certificate-working-group
 type: post
 ---
 
