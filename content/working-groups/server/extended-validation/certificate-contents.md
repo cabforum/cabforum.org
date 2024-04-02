@@ -11,11 +11,11 @@ An EV TLS Certificate authenticates a web site (by domain name) and the entity c
 
 1. **Subject Organization name** (Old EVG 9.2.1 - New EVG 7.1.4.2.1) – The “O” field must contain the full legal name of the entity controlling the web site as listed in the official records in the Subject’s Jurisdiction or as otherwise verified by the CA according to the EV Guidelines (EVG).
 
-A CA may abbreviate prefixes or suffixes in the organization name provided that such abbreviations are not misleading in that jurisdiction. For example, “Incorporated” may be abbreviated to “Inc.”
+* A CA may abbreviate prefixes or suffixes in the organization name provided that such abbreviations are not misleading in that jurisdiction. For example, “Incorporated” may be abbreviated to “Inc.”
 
-An assumed name or DBA (doing business as) may be included at the beginning of this field, provided that it is followed by the organization’s legal name in parenthesis.
+* An assumed name or DBA (doing business as) may be included at the beginning of this field, provided that it is followed by the organization’s legal name in parenthesis.
 
-If any combination of names exceeds 64 characters, then other parts of the organization name may be abbreviated or non-material words omitted so that the field does not exceed the 64-character limit; provided that the CA reviews the abbreviation and determines Relying Parties will not be misled into thinking that they are dealing with a different organization.
+* If any combination of names exceeds 64 characters, then other parts of the organization name may be abbreviated or non-material words omitted so that the field does not exceed the 64-character limit; provided that the CA reviews the abbreviation and determines Relying Parties will not be misled into thinking that they are dealing with a different organization.
 
 2. **Registration Number** (Old EVG 9.2.6 - New EVG 7.1.4.2.5) – This field must contain the unique Registration Number assigned by the Incorporating Agency / Registration Agency in the Jurisdiction of Incorporation / Registration.
 
