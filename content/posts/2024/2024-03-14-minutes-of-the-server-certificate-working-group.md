@@ -30,9 +30,9 @@ Inigo said that the F2F minutes were distributed on 6-March. Dimitris Zacharopou
 
 ## Membership
 
-•	Keyfactor would like to upgrade from Interested Party to Associate Member, as discussed at the F2F. Dean asked if this was done individually by each working group. Inigo said yes. There were no objections, so Associate Member status in the SCWG was approved.
+Keyfactor would like to upgrade from Interested Party to Associate Member, as discussed at the F2F. Dean asked if this was done individually by each working group. Inigo said yes. There were no objections, so Associate Member status in the SCWG was approved.
 
-•	George Palmer applied as an Interested Party to the SCWG. There were no objections, so this application was approved.
+George Palmer applied as an Interested Party to the SCWG. There were no objections, so this application was approved.
 
 ## Discussion 
 
