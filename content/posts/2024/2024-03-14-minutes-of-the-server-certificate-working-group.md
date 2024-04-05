@@ -34,7 +34,7 @@ Keyfactor would like to upgrade from Interested Party to Associate Member, as di
 
 George Palmer applied as an Interested Party to the SCWG. There were no objections, so this application was approved.
 
-## Discussion 
+## Discussion
 
 ### GitHub procedure for open issues
 
@@ -52,7 +52,7 @@ Clint WIlson said that this issue isn’t urgent. Adding automated comments as a
 
 Paul said that it’s okay to have many issues as long as they are all things we want to work on. Automated reminders to comment or an issue will be closed addresses those issues that are no longer of interest.
 
-Inigo asked about the automation and Paul posted a link to a possible solution in the chat: https://github.com/marketplace/actions/close-stale-issues
+Inigo asked about the automation and Paul posted a link to a possible solution in the chat: <https://github.com/marketplace/actions/close-stale-issues>s>
 
 ### Feedback from F2F in New Delhi
 
@@ -110,7 +110,7 @@ Trev said that we should consider letting CAs generate their own keys. It’s ra
 
 None
 
-## Next call 
+## Next call
 
 Next call: 28 March at 11:00 am Eastern Time
 
