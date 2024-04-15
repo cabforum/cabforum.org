@@ -32,12 +32,12 @@
         {{- end -}}
     {{- end -}}
     
-    {{- $robotoBlack := resources.GetRemote "https://github.com/google/fonts/raw/113bac0943d5b85dcc6c2c01b48fae88d4b5c52a/ofl/roboto/static/Roboto-Black.ttf" -}}
+    {{- $robotoBlack := resources.Get "/fonts/Roboto-Black.ttf" -}}
     {{- with $robotoBlack.Err -}}
         {{- errorf "Failed to load font: %s" . -}}
     {{- end -}}
 
-    {{- $robotoLight := resources.GetRemote "https://github.com/google/fonts/raw/113bac0943d5b85dcc6c2c01b48fae88d4b5c52a/ofl/roboto/static/Roboto-Light.ttf" -}}
+    {{- $robotoLight := resources.Get "/fonts/Roboto-Light.ttf" -}}
     {{- with $robotoLight.Err -}}
         {{- errorf "Failed to load font: %s" . -}}
     {{- end -}}
