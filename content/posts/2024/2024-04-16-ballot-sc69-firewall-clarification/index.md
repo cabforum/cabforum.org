@@ -24,7 +24,7 @@ type: post
 
 2 votes total, with no abstentions:
 
-- 4 Consumers voting YES: Google, Mozilla
+- 2 Consumers voting YES: Google, Mozilla
 - 0 Consumers voting NO
 - 0 Consumers ABSTAIN
 
