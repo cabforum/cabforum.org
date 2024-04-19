@@ -7,9 +7,11 @@ title: EV Guidelines for TLS Server Certificates
 
 ### Current Version
 
-[EV TLS Server Certificate Guidelines 1.8.1][181] – ([redlined][181r]) – adopted by Ballot [SC68][sc68]
+[EV TLS Server Certificate Guidelines 2.0.0][200] – adopted by Ballot [SC65][sc65]
 
 ### Previous Versions
+
+[EV TLS Server Certificate Guidelines 1.8.1][181] – ([redlined][181r]) – adopted by Ballot [SC68][sc68]
 
 [EV TLS Server Certificate Guidelines 1.8.0][1] – ([redlined][2]) – adopted by Ballot [SC56][3]
 
@@ -109,6 +111,8 @@ EV SSL Certificate Guidelines 1.4.1 – None (see [version 1.1 of the Baseline R
 [Erratum to Guidelines 1][123]
 [EV SSL Certificate Guidelines Draft 11][124] – valid through June 11, 2007
 
+[200]: EVGv2.0.0.pdf
+[sc65]: /2024/03/15/ballot-sc-65v2-convert-evgs-into-rfc-3647-format/
 [181]: EVG-1.8.1.pdf
 [181r]: EVG-1.8.1-redlined.pdf
 [sc68]: /2024/02/01/ballot-sc-68-allow-vatel-and-vatxi-for-organizationidentifier/
