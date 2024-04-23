@@ -7,7 +7,7 @@ title: EV Guidelines for TLS Server Certificates
 
 ### Current Version
 
-[EV TLS Server Certificate Guidelines 2.0.0][200] – adopted by Ballot [SC65][sc65]
+[EV TLS Server Certificate Guidelines 2.0.0][200] – ([redlined][200r]) - adopted by Ballot [SC65][sc65]
 
 ### Previous Versions
 
@@ -112,6 +112,7 @@ EV SSL Certificate Guidelines 1.4.1 – None (see [version 1.1 of the Baseline R
 [EV SSL Certificate Guidelines Draft 11][124] – valid through June 11, 2007
 
 [200]: EVGv2.0.0.pdf
+[200r]: EVGv2.0.0-redlined.pdf
 [sc65]: /2024/03/15/ballot-sc-65v2-convert-evgs-into-rfc-3647-format/
 [181]: EVG-1.8.1.pdf
 [181r]: EVG-1.8.1-redlined.pdf
