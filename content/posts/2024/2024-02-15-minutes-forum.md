@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2024/02/15/2024-02-15-minutes-forum/
-author: Dimitris Zacharopoulos (HARICA)
+author: Dimitris Zacharopoulos
 date: 2024-02-15 00:00:00
 tags:
 - Forum
