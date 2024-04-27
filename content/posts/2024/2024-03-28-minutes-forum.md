@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2024/03/28/2024-03-28-minutes-forum/
-author: Lynn Jeun - (Visa)
+author: Lynn Jeun
 date: 2024-03-28 00:00:00
 tags:
 - Forum
