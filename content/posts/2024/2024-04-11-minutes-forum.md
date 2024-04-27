@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2024/04/11/2024-04-11-minutes-forum/
-author: Scott Rea (eMudhra)
+author: Scott Rea
 date: 2024-04-11 00:00:00
 tags:
 - Forum
