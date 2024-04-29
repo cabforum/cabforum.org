@@ -42,7 +42,7 @@ Discussion outside the presentation: No further discussion.
 
 * **Presenter:** Balaji Rajendran - Associate Director at CDAC (Centre for Development of Advanced Computing) India
 * **Title:** Strengthening the Ecosystem of Digital Trust
-* **Presentation link:** [Strengthening the Ecosystem of Digital Trust](2024-02-f2f61-new-delhi/1-Strengthening the Ecosystem of Digital Trust-CAB Forum-2024.pdf)
+* **Presentation link:** [Strengthening the Ecosystem of Digital Trust](./2024-02-f2f61-new-delhi/1-Strengthening the Ecosystem of Digital Trust-CAB Forum-2024.pdf)
 
 * **Presentation Notes:** 
 
