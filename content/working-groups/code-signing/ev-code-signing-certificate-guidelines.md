@@ -8,11 +8,15 @@ title: EV Code Signing Certificate Guidelines
 
 ## EV Code Signing Certificate Guidelines
 
+**[EV Code Signing Guidelines v. 1.5][10]** (as of 26 March 2024 with adoption of **[CSC-023][11]**)
+
+**[EV Code Signing Guidelines v. 1.5 – redlined][12]**
+
+## Previous Versions
+
 **[EV Code Signing Guidelines v. 1.4][1]** (as of 5 July 2016 with adoption of **[Ballot 172][2]**)
 
 **[EV Code Signing Guidelines v. 1.4 – redlined][3]**
-
-## Previous Versions
 
 **[EV Code Signing v.1.3][4] (as of 16 Sept. 2014 with adoption of [Ballot 132][5])
 **
@@ -34,3 +38,6 @@ title: EV Code Signing Certificate Guidelines
 [7]: /uploads/EV-Code-Signing-v.1.2.pdf
 [8]: /uploads/EV-Code-Signing-v.1.2-Redlined1.pdf
 [9]: /uploads/EV_Code_Signing_Guidelines_v1_1.pdf
+[10]: /uploads/EV-Code-Signing-v.1.5.pdf
+[11]: /2024/03/26/ballot/ballot-csc-23-marking-the-ev-code-signing-guidelines-superceded
+[12]: /uploads/EV-Code-Signing-v.1.5-Redlined.pdf
