@@ -87,9 +87,11 @@ Certificate Tools OCSP Checker – https://certificatetools.com/ocsp-checker
 
 OCSP Watch – https://sslmate.com/labs/ocsp_watch/
 
-## Offline, Downloadable Tools
+## Linting Software
+- pkilint - Opensource linting framework for documents that are encoded using ASN.1 (coverage includes PKIX, S/MIME BR, TLS BR, CRL and OCSP response, etc.) - https://github.com/digicert/pkilint 
+- ZLint - Opensource X.509 certificate linter written in Go that checks for consistency with standards (e.g. RFC 5280) and other relevant PKI requirements (e.g. CA/Browser Forum Baseline Requirements) - https://github.com/zmap/zlint
 
-pkilint - opensource linting framework for documents that are encoded using ASN.1 (coverage includes PKIX, S/MIME BR, TLS BR, CRL and OCSP response, etc.) - https://github.com/digicert/pkilint 
+## Offline, Downloadable Tools
 
 OpenSSL – https://www.openssl.org/
 
