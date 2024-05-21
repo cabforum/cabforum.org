@@ -42,7 +42,7 @@ Discussion outside the presentation: No further discussion.
 
 * **Presenter:** Balaji Rajendran - Associate Director at CDAC (Centre for Development of Advanced Computing) India
 * **Title:** Strengthening the Ecosystem of Digital Trust
-* **Presentation link:** [Strengthening the Ecosystem of Digital Trust](./2024-02-f2f61-new-delhi/1-Strengthening%20the%20Ecosystem%20of%20Digital%20Trust-CAB%20Forum-2024.pdf)
+* **Presentation link:** [Strengthening the Ecosystem of Digital Trust](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/1-Strengthening%20the%20Ecosystem%20of%20Digital%20Trust-CAB%20Forum-2024.pdf)
 
 * **Presentation Notes:** 
 
@@ -271,7 +271,7 @@ I agree with Tim. We need to stick to the scope of what we were organized for. B
 
 * **Leader:** Ben Wilson (Mozilla)
 * Minutes:** Arvid Vermote (GlobalSign)
-* Presentation link:** [Mozilla Browser Update](../2024/2024-02-f2f61-new-delhi/2-February-2024-Mozilla%20Browser%20News.pdf)
+* Presentation link:** [Mozilla Browser Update](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/2-February-2024-Mozilla%20Browser%20News.pdf)
 
 Discussion outside the presentation:
 
@@ -308,7 +308,7 @@ There was a question on CA inclusion request timelines and transparency thereof,
 
 * **Leader:** Clint Wilson (Apple)
 * **Minutes:** Corey Bonnel (Digicert)
-* **Presentation link:** [Apple Update](../2024/2024-02-f2f61-new-delhi/3-2024-February-Apple.pdf)
+* **Presentation link:** [Apple Update](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/3-2024-February-Apple.pdf)
 
 Discussion outside the presentation:
 
@@ -350,7 +350,7 @@ Clint: We can consider modifying the language to make this more clear
 
 * **Leader:** Nitesh Bakliwal (Microsoft)
 * **Minutes:** Dustin Hollenback (Microsoft)
-* **Presentation link:** [Microsoft Update](../2024/2024-02-f2f61-new-delhi/4-Microsoft_F2F_61_FINAL.pdf)
+* **Presentation link:** [Microsoft Update](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/4-Microsoft_F2F_61_FINAL.pdf)
 
 Discussion outside the presentation:
 
@@ -358,7 +358,7 @@ Discussion outside the presentation:
 
 * **Leader:** Nitesh Bakliwal (Microsoft) and Ben Wilson (Mozilla)
 * **Minutes:** Tim Callan (Sectigo)
-* **Presentation link:** [CCADB Update](../2024/2024-02-f2f61-new-delhi/5-CAB%20F2F%2061%20CCADB%20Update%20FINAL.pdf)
+* **Presentation link:** [CCADB Update](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/5-CAB%20F2F%2061%20CCADB%20Update%20FINAL.pdf)
 
 Discussion outside the presentation:
 
@@ -500,7 +500,7 @@ It's news to me and will follow up with the team and provide better details.Audi
 
 * **Leader:** Arno Fiedler (Vice Chair ETSI ESI)
 * **Minutes:** Clemens Wanko (TUV AUSTRIA)
-* **Presentation link:** [ETSI Update](../2024/2024-02-f2f61-new-delhi/6-ETSI%20ESI%20Activities-CABFORUM-2024-02-New-Dehli.pdf)
+* **Presentation link:** [ETSI Update](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/6-ETSI%20ESI%20Activities-CABFORUM-2024-02-New-Dehli.pdf)
 
 ETSI summary of most important news (see slides for details):
 Arno explains recent updates in ETSI standards
@@ -516,7 +516,7 @@ Discussion outside the presentation: No additional discussion.
 
 * **Leader:** Clemens Wanko (TÜV AUSTRIA)
 * **Minutes:** Arno Fiedler (Vice Chair ETSI ESI)
-* **Presentation link:** [ACAB'c Update](../2024/2024-02-f2f61-new-delhi/7-CAB-Forum_61_ACAB'c_presentation_V1.0.pdf)
+* **Presentation link:** [ACAB'c Update](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/7-CAB-Forum_61_ACAB'c_presentation_V1.0.pdf)
 
 ACAB'C summary of most important news (see slides for details):
 Clemens Wanko and Matthias Wiedenhorst report on the on the very pleasing growth in ACABc membership and the update on Audit Attestation Letters, now with a PKI usage specific amendment.
@@ -533,7 +533,7 @@ Question can not answered right away. Clemens will take that into the meeting wi
 
 * **Leader:** Dave Chin, (CPA Canada)
 * **Minutes:** Arvid Vermote (GlobalSign)
-* **Presentation link:** [Webtrust Update](../2024/2024-02-f2f61-new-delhi/8-Webtrust%20-%20CABF%20India%2061%20WTCA%20Update%20Feb%2024%20-%20FINAL.pdf)
+* **Presentation link:** [Webtrust Update](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/8-Webtrust%20-%20CABF%20India%2061%20WTCA%20Update%20Feb%2024%20-%20FINAL.pdf)
 
 Discussion outside the presentation:
 
@@ -576,7 +576,7 @@ Aaron Poulsen (Amazon), Aashish Banati (Office of CCA, MEITY, Govt of India), Ab
 
 * **Leader:** Ben Wilson (Mozilla)
 * **Minutes:** Tim Callan (Sectigo)
-* **Presentation link:** [Addressing IPR issues](../2024/2024-02-f2f61-new-delhi/9-Addressing%20IPR%20Issues.pdf)
+* **Presentation link:** [Addressing IPR issues](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/9-Addressing%20IPR%20Issues.pdf)
 
 Discussion outside the presentation:
 
@@ -728,7 +728,7 @@ If we're talking bout revising the policy, we need a subcommittee.  Let's try to
 
 * **Leader:** Paul van Brouwershaven (Entrust)
 * **Minutes:** Ben Wilson (Mozilla)
-* **Presentation link:** [BR of BRs](../2024/2024-02-f2f61-new-delhi/10-20240227%20BR%20of%20BRs.pdf)
+* **Presentation link:** [BR of BRs](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/10-20240227%20BR%20of%20BRs.pdf)
 
 Discussion outside the presentation:
 
@@ -801,7 +801,7 @@ Dimitris – no, we don’t need a WG, we can proceed as currently structured.
 
 * **Leader:** Dimitris Zacharopoulos (HARICA), Paul van Brouwershaven (Entrust)
 * **Minutes:** Arvid Vermote (GlobalSign)
-* **Presentation link:** [CA/B Forum 2022-2024 (update)](../2024/2024-02-f2f61-new-delhi/11-CA_B%20Forum%202022-2024%20%28Update%29.pdf)
+* **Presentation link:** [CA/B Forum 2022-2024 (update)](https://cabforum.org/posts/2024/2024-02-f2f61-new-delhi/11-CA_B%20Forum%202022-2024%20%28Update%29.pdf)
 
 Discussion outside the presentation:
 
