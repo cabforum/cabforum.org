@@ -93,7 +93,10 @@ markup:
     parser:
       attribute:
         block: true
-
+    renderHooks:
+      link:
+        enableDefault: true
+        
 module:
   imports:
   - path: github.com/gohugoio/hugo-mod-bootstrap-scss/v5
