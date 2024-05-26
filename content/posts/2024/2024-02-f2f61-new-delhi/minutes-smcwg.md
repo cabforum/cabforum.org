@@ -42,17 +42,17 @@ The membership of DiSig in the SMCWG was confirmed.
 
 Stephen Davidson provided an overview of recent activity at the SMCWG, which included passage of Ballot SMC04 (ETSI audit criteria) and Ballot SMC05 (CAA).  The group has also expended considerable effort on a draft Ballot SMC06 which is largely comprised of clarifications based on feedback from implementers, auditors, and users of the open source pkilint linter for the S/MIME BR, see https://github.com/digicert/pkilint.
 
-Key Transparency Workshop
+### Key Transparency Workshop
 
 Stephen proposed holding a workshop at #62 F2F to discuss Key Transparency (KT).  KT addresses key discovery and key history, two of the biggest issues in S/MIME deployments.  See https://github.com/google/keytransparency/blob/master/docs/overview.md.  Large examples exist in messaging such as by Whatsapp, Signal, KeyBase, and Apple.  ProtonMail has a pilot for webmail:  https://proton.me/support/key-transparency 
 
 As cloud service providers are now the dominant mode for email services, both personal and enterprise, Key Transparency becomes a possible enhancement for S/MIME certificates providing better discovery and lifecycle support.  Paul van Brouwershaven asked if this was within scope of the WG; Stephen argued that it fit within the charter focus on key management and certificate lifecycle; Clint Wilson agreed. Stephen said we had an opportunity to have “right people in the room” to advance the topic.  Tim Hollebeek noted that in the past invited guests were required to sign the IP agreement.  It was agreed to move ahead, with Stephen to request a suitable time bloc on the agenda.
 
-Draft Ballot SMC06
+### Draft Ballot SMC06
 
-Stephen walked through the text changes of Draft Ballot SMC06 which will be taken to vote soon.  The text is can be reviewed at https://github.com/srdavidson/smime/compare/ed36440d7c967732aa08739b14cc29bed257a67d...345a2358e1c6960bf3dcfc0ca5d400096ba59267.  He encouraged members to use the Issues list at https://github.com/cabforum/smime/issues to submit topics for consideration.
+Stephen walked through the text changes of Draft Ballot SMC06 which will be taken to vote soon.  The text is can be reviewed on [GitHub](https://github.com/srdavidson/smime/compare/ed36440d7c967732aa08739b14cc29bed257a67d...345a2358e1c6960bf3dcfc0ca5d400096ba59267).  He encouraged members to use the Issues list at https://github.com/cabforum/smime/issues to submit topics for consideration.
 
-Roadmap
+### Roadmap
 
 The WG reviewed topics for consideration in the coming months.  He noted there was an outstanding question regarding allowing the subject:country to differ from the country in the organizationIdentifier, which is not allowed in the S/MIME BR but is allowed in the EVG.  Stephen noted, and Clint concurred, that the WG needed to address the deprecation of Legacy profiles, identifying (and fixing where possible) obstacles to migration and setting a deprecation date, even it was a distance into the future.  The issue of polling WG members of their profile use, within the byelaws, was raised.  
 
