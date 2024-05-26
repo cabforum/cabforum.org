@@ -38,8 +38,8 @@ Discussion outside the presentation: No further discussion.
 
 * **Presenter:** Balaji Rajendran - Associate Director at CDAC (Centre for Development of Advanced Computing) India
 * **Title:** Strengthening the Ecosystem of Digital Trust
-* **Presentation link:** [Strengthening the Ecosystem of Digital Trust](1-Strengthening%20the%20Ecosystem%20of%20Digital%20Trust-CAB%20Forum-2024.pdf)
-* **Presentation Notes:** 
+* **Presentation link:** [Strengthening the Ecosystem of Digital Trust](1-Strengthening-the-Ecosystem-of-Digital-Trust-CAB-Forum-2024.pdf)
+* **Presentation Notes:**
 
 Digital Trust requires assurance of all entities and corresponding informational flows within an ecosystem. Users navigate the Internet primarily through the domain names that they could put it on the address bar of the browsers, which could be from their memory or from other applications. In this talk, we look at ways that could help the users with a reputation of the domain names that they are accessing, and in a way protecting them from malicious domains and websites. We specifically look at DANE, and AI enabled techniques that could help in creating an environment of trust for the users. In the end, we also discuss about India's effort for developing a Web Browser catering to indigenous requirements
 

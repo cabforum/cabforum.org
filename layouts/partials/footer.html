@@ -2,7 +2,7 @@
     <footer class="bg-dark" data-bs-theme="dark">
         <div class="container-lg fw-light text-light opacity-50">
             {{ with .File }}
-                <a href="{{$.Site.Params.siteSource}}/content/{{ .File.Path }}" target="_blank" class="btn btn-sm btn-outline-light align-top float-end m-3">Edit this page</a>
+                <a href="{{$.Site.Params.siteSource}}/content/{{ .Path }}" target="_blank" class="btn btn-sm btn-outline-light align-top float-end m-3">Edit this page</a>
             {{ end }}
             <div class="pt-3 pb-5">
                 {{ partial "social.html" .Site.Params.social }}
@@ -31,10 +31,6 @@
 
         </div>
     </footer>
-
-    {{ if .Site.GoogleAnalytics }}
-    {{ template "_internal/google_analytics_async.html" . }}
-    {{ end }}
 
     {{ $js := resources.Get "js/main.js" | resources.ExecuteAsTemplate "main.js" . }}
     {{ $params := dict }}

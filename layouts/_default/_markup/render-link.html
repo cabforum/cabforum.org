@@ -1,6 +1,29 @@
-{{- $url := .Destination -}}
-{{- if ( hasPrefix $url "/" ) -}}
-    {{- $u := urls.Parse site.BaseURL -}}
-    {{- $url = path.Join $u.Path (strings.TrimLeft "/" $url) -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+{{- if strings.HasPrefix $u.String "#" }}
+  {{- $href = printf "%s#%s" .PageInner.RelPermalink $u.Fragment }}
+{{- else if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path }}
+  {{- with or
+    ($.PageInner.GetPage $path)
+    ($.PageInner.Resources.Get $path)
+    (resources.Get $path)
+  -}}
+    {{- $href = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $href = printf "%s?%s" $href . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $href = printf "%s#%s" $href . -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
-<a href="{{ $url | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix $url "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- $attributes := dict "href" $href "title" (.Title | transform.HTMLEscape) -}}
+<a
+  {{- range $k, $v := $attributes -}}
+    {{- if $v -}}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+    {{- end -}}
+  {{- end -}}
+  {{ if strings.HasPrefix $u "http" }} target="_blank" rel="noopener"{{ end }}
+  >{{ .Text | safeHTML }}</a>

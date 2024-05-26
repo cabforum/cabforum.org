@@ -2,9 +2,10 @@
 author: Iñigo Barreira
 date: 2024-04-05 00:00:00
 tags:
-  - Minutes
-  - Server Certificates
-title: 2024-02-27 Minutes of F2F meeting in Delhi - SCWG
+- Minutes
+- Server Certificates
+- Face-to-Face
+title: 2024-02-27 Minutes of the F2F 61 Meeting in Delhi - SCWG
 type: post
 ---
 
@@ -21,11 +22,11 @@ Aaron Poulsen - (Amazon), Adam Jones - (Microsoft), Adrian Mueller - (SwissSign)
 
 ### Updates since last F2F and ballots update
 
-Inigo presented the updates since the last F2F for the SCWG and the Validation Subcommittee. The updates were presented through the presentation in [F2F61_SCWG-summary.pptx](F2F61_SCWG-summary.pptx).
+Inigo presented the updates since the last F2F for the SCWG and the Validation Subcommittee. The updates were presented through the presentation in [F2F 61 SCG summary](F2F61_SCWG-summary.pdf).
 
 ### Reasons to revoke
 
-Trevoli presented a presentation which can be found in [CABF_F2F61_Reasons_to_Revoke.pptx](CABF_F2F61_Reasons_to_Revoke.pptx). Below are the discussion points coming from this presentation.
+Trevoli presented a presentation which can be found in [CABF F2F 61 Reasons to Revoke](CABF_F2F61_Reasons_to_Revoke.pdf). Below are the discussion points coming from this presentation.
 
 #### Reason 8
 

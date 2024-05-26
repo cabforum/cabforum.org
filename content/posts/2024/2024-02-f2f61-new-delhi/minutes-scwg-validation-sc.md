@@ -2,9 +2,10 @@
 author: Iñigo Barreira
 date: 2024-04-05 00:00:00
 tags:
- - Minutes
- - Server Certificates
-title: 2024-02-28 Minutes of F2F meeting in Delhi - Validation SC
+- Minutes
+- Server Certificates
+- Face-to-Face
+title: 2024-02-28 Minutes of the F2F 61 Meeting in Delhi - Validation SC
 type: post
 ---
 
