@@ -4,19 +4,19 @@ date: 2024-05-24 00:00:00
 tags:
 - S/MIME
 - Ballot
-title: 'Ballot SMC07:Align Logging Requirement and Key Escrow clarification'
+title: 'Ballot SMC07: Align Logging Requirement and Key Escrow clarification'
 type: post
 slug: Ballot-SMC07-Align-Logging-Requirement-and-Key-Escrow-clarification
 ---
 
-## Ballot SMC07:Align Logging Requirement and Key Escrow clarification
+## Ballot SMC07: Align Logging Requirement and Key Escrow clarification
 
 ### Summary: 
 This ballot aims to clarify what data needs to be logged as part of the "Firewall and router activities" logging requirement in the S/MIME Baseline Requirements and align with a recent update within the TLS BRs. 
 
 This ballot additionally aims to clarify that maximum certificate validity periods do not affect maximum key escrow duration periods.
 
-This ballot is proposed by Martijn Katerbarg (Sectigo) and endorsed by Stephen Davidsson (DigiCert) and Tom Zermeno (SSL.com).
+This ballot is proposed by Martijn Katerbarg (Sectigo) and endorsed by Stephen Davidson (DigiCert) and Tom Zermeno (SSL.com).
 
 --- Motion Begins ---
 
@@ -27,8 +27,10 @@ MODIFY the Baseline Requirements as specified in the following Redline: https://
 --- Motion Ends ---
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
-Discussion (at least 7 days)
+
+**Discussion (at least 7 days)**
 
 •	Start time: 2024-05-24 12:30:00 UTC
+
 •	End time: not before 2024-06-05 12:30:00 UTC
 
