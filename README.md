@@ -204,3 +204,7 @@ Some basic git knowledge is required, please check <https://guides.github.com/> 
 4. Make changes until you are satisfied; the preview will update automatically
 5. [Commit and push your changes](https://guides.github.com/activities/forking/#making-changes)
 6. [Create a pull request](https://guides.github.com/activities/forking/#making-a-pull-request)
+
+### Setting the version of Hugo to use
+
+The HUGO_VERSION environment variable in `.github/workflows/.env` controls the version of Hugo used for the various Github Actions workflows.
