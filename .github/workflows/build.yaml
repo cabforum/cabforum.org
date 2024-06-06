@@ -40,9 +40,16 @@ jobs:
   build:
     name: Build with Hugo
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.126.1
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Set environment variables
+        run: |
+          while read line; do
+          echo "$line" >> $GITHUB_ENV
+          done < .github/workflows/.env
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
@@ -63,10 +70,6 @@ jobs:
           chmod +x "${NEW_PATH}/pandoc"
 
           echo "$HOME/.local/bin" >> $GITHUB_PATH
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
