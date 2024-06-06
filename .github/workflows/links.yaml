@@ -9,9 +9,16 @@ on:
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.126.1
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Set environment
+        run: |
+          while read line; do
+          echo "$line" >> $GITHUB_ENV
+          done < .github/workflows/.env
       ## Build website
       - name: Install Hugo CLI
         run: |
@@ -19,10 +26,6 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
