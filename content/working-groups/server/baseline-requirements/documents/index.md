@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.0.4][204] ([redlined][204r]) – adopted by Ballot [SC65][sc65]
+[CA-Browser-Forum TLS BR 2.0.5][205] ([redlined][205r]) – adopted by Ballot [SC73][sc73]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.0.4][204] ([redlined][204r]) – adopted by Ballot [SC65][sc65]
 
 [CA-Browser-Forum TLS BR 2.0.3][203] ([redlined][203r]) – adopted by Ballot [SC69][sc69]
 
@@ -183,6 +185,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[205]: CA-Browser-Forum-TLS-BR-2.0.5.pdf
+[205r]: CA-Browser-Forum-TLS-BR-2.0.5-redlined.pdf
+[sc73]: /2024/06/07/ballot-sc-73-compromised-and-weak-keys/
 [204]: TLSBRv2.0.4.pdf
 [204r]: TLSBRv2.0.4-redlined.pdf
 [sc65]: /2024/03/15/ballot-sc-65v2-convert-evgs-into-rfc-3647-format/
