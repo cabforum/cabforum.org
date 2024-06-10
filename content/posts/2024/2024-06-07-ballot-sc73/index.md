@@ -51,9 +51,9 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 [TBR-SC73.pdf](CA-Browser-Forum-TLS-BR-2.0.5.pdf)
 
-[TBR-SC73-redlined.pdf]()
+[TBR-SC73-redlined.pdf](CA-Browser-Forum-TLS-BR-2.0.5-redlined.pdf)
 
-[TBR-SC73.docx]()
+[TBR-SC73.docx](CA-Browser-Forum-TLS-BR-2.0.5.docx)
 
 **Start of Review Period**: 6 May 2024 at 10:00 UTC
 
@@ -105,3 +105,6 @@ Vote for approval (7 days)
 
 •	End time: 2024-05-03 00:00:00 UTC
 
+
+
+[def]: CA-Browser-Forum-TLS-BR-2.0.5.docx
