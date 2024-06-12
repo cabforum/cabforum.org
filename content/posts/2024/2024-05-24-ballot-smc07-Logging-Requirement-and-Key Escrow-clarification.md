@@ -9,6 +9,32 @@ type: post
 slug: Ballot-SMC07-Align-Logging-Requirement-and-Key-Escrow-clarification
 ---
 
+## Results of Ballot SMC07: Align Logging Requirement and Key Escrow clarification
+ 
+The voting period for “Ballot SMC07: Align Logging Requirement and Key Escrow clarification” has completed, and the ballot has passed.
+ 
+### Voting Results
+
+**Certificate Issuers**
+15 votes total, with no abstentions:
+* 15 Issuers voting YES: Asseco Data Systems SA (Certum), DigiCert, D-TRUST, eMudhra, Entrust, HARICA, IdenTrust, Logius PKIoverheid, OISTE Foundation, Sectigo, SSL.com, SwissSign, Telia Company, TWCA, VikingCloud
+* 0 Issuers voting NO
+* 0 Issuers ABSTAIN
+
+**Certificate Consumers**
+2 votes total, with no abstentions:
+* 2 Consumers voting YES: Mozilla, rundQuadrat
+* 0 Consumers voting NO
+* 0 Consumers ABSTAIN
+
+**Bylaws Requirements**
+1.	Bylaw 2.3(f) requires:
+  * A "yes" vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose. This requirement was MET for Certificate Issuers and MET for Certificate Consumers.
+  * At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was MET.
+2.	Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three meetings. Votes to abstain are counted in determining quorum. The quorum was 7 for this ballot. This requirement was MET.
+
+This ballot now enters the 30-day IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.  The IP Rights Review Period ends at 2359 UTC on July 12, 2024. 
+
 ## Ballot SMC07: Align Logging Requirement and Key Escrow clarification
 
 ### Summary: 
