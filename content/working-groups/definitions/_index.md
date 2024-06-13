@@ -6,7 +6,7 @@ date: 2020-06-23 04:38:00
 linkTitle: Definitions WG
 menu:
   main:
-    weight: 4
+    weight: 6
 title: Definitions and Glossary WG
 ---
 
