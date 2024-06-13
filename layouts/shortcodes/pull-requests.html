@@ -12,10 +12,22 @@
             {{- with .Content | transform.Unmarshal -}}
             <ul>
                 {{- range . -}}
-                    <li>
-                        <strong><a href="{{ .html_url }}" target="_blank" title="Open issue on GitHub">{{ .title }}</a></strong><br />
-                        <small>{{ .created_at | time.Format ":date_medium" }}</small><br />
-                        <p>{{ .body | markdownify }}</p>
+                    <li class="mt-4">
+                        <div><strong><a href="{{ .html_url }}" target="_blank" title="Open issue on GitHub">{{ .title }}</a></strong></div>
+                        <div><span class="text-body-secondary">Created at {{ .created_at | time.Format ":date_medium" }}
+                            {{- if .pull_request.merged_at -}}
+                                , merged on {{ .pull_request.merged_at | time.Format ":date_medium" }}
+                            {{- else if eq .state "closed" -}}
+                                , <strong>not merged</strong>
+                            {{- end -}}
+                            </span>
+                            {{- range .labels -}}
+                                {{- if ne .name ($.Get `labels`) -}}
+                                    <span class="badge text-bg-secondary mx-1 align-middle" title="{{ .description }}">{{ .name }}</span>
+                                {{- end -}}
+                            {{- end -}}
+                        </div>
+                        <div class="my-2 ms-4">{{ .body | markdownify }}</div>
                     </li>
                 {{- end -}}
             </ul>
