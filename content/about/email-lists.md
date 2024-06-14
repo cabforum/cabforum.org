@@ -24,10 +24,12 @@ We also maintain other email lists, including the following:
 
 - A management listserv for communications member-to-member and with official liaisons;
 - A [**Validation** mailing list][3] for members of the Validation Working Group and those working on improvements to validation processes in CA/B Forum Guidelines – [click here to subscribe][3]; and
-- A [**Network Security subgroup** mailing list][4] for members of the Validation Working Group and those working on improvements to Forum’s [Network and Certificate System Security Requirements][5].
+- A [**Network Security subgroup** mailing list][4] for members of the Validation Working Group and those working on improvements to Forum’s [Network and Certificate System Security Requirements][5]; and
+- An [**Infrastructure subgroup** mailing list][6] for members of the Infrastructure Working Group.
 
 [1]: /about/ipr-policy/ "IPR Policy"
 [2]: /uploads/CAB-Forum-Agreement-for-IPR-Policy_20FEB18.pdf
 [3]: https://lists.cabforum.org/mailman/listinfo/validation/
 [4]: https://lists.cabforum.org/mailman/listinfo/netsec
 [5]: /working-groups/netsec/documents/
+[6]: https://groups.google.com/a/groups.cabforum.org/g/infrastructure
