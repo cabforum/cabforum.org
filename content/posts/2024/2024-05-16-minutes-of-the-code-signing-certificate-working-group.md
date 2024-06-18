@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2024/05/16/2024-05-16-minutes-of-the-code-signing-certificate-working-group/
 author: Corey Bonnell
 date: 2024-05-16 00:00:00
 tags:
