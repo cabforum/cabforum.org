@@ -14,7 +14,7 @@ They are:
 - the **Public** list, which is for general Forum business, https://lists.cabforum.org/mailman/listinfo/public,
 - the **Server Certificate Working Group** list, https://lists.cabforum.org/mailman/listinfo/servercert-wg,
 - the **Code Signing Certificate Working Group** list, https://lists.cabforum.org/mailman/listinfo/cscwg-public/, and
-- the **SMIME Certificate Working Group** list, https://lists.cabforum.org/mailman/listinfo/smcwg-public/.
+- the **SMIME Certificate Working Group** list, https://groups.google.com/u/6/a/groups.cabforum.org/g/smcwg-public.
 
 The activity on these lists can be followed by the public, but not posted to, unless they are an Interested Party. An Interested Party must review and accept the [Forum’s IPR Policy][1] and submit the signed IPR Policy Agreement ([CAB Forum Agreement for IPR Policy v.1.3][2]) to the CA/Browser Forum Chair.
 
