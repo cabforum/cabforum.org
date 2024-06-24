@@ -11,7 +11,7 @@ The CA/Browser Forum has several public mailing lists, intended to be used for n
 
 They are:
 
-- the **Public** list, which is for general Forum business, https://lists.cabforum.org/mailman/listinfo/public,
+- the **Public** list, which is for general Forum business, https://groups.google.com/a/groups.cabforum.org/g/public,
 - the **Server Certificate Working Group** list, https://lists.cabforum.org/mailman/listinfo/servercert-wg,
 - the **Code Signing Certificate Working Group** list, https://lists.cabforum.org/mailman/listinfo/cscwg-public/, and
 - the **SMIME Certificate Working Group** list, https://groups.google.com/u/6/a/groups.cabforum.org/g/smcwg-public.
