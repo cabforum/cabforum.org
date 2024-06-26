@@ -56,6 +56,6 @@ On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certifi
 [20]: /uploads/CABForum_Network_Security_Controls_v.1.1-corrected-redlined.pdf
 [21]: /uploads/Network_Security_Controls_V1.pdf
 [22]: /2012/08/03/ballot-83-adopt-network-and-certificate-system-security-requirements/
-[23]: /2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-FG-NCSSR-2.0.pdf
-[24]: /2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-NCSSR-2.0-redline.pdf
+[23]: /posts/2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-FG-NCSSR-2.0.pdf
+[24]: /posts/2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-NCSSR-2.0-redline.pdf
 [25]: /2024/04/09/ballot-ns-003/
