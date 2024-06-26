@@ -3,18 +3,20 @@ aliases:
 - /network-security-requirements/
 date: 2018-11-08 17:25:46
 linkTitle: Documents
-title: Network Security Requirements
+title: Network and Certificate System Security Requirements
 ---
 
-**Network and Certificate System Security Requirements**
+## Network and Certificate System Security Requirements
 
 On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certificate System Security Requirements** with an effective date of 1 January 2013. Since then, the Network Security Requirements have outlined best practices for the general protection of CA networks and supporting systems, including those touching on trusted roles, delegated third parties, system accounts, logging, monitoring, alerting, vulnerability detection and patch management within a CA’s infrastructure.
 
-### Current Version 
+### Current Version
+
+**[Network and Certificate System Security Requirements v2.0][23]** ([redlined][24]) (adopted with [Ballot NS-003][25])
+
+### Previous Versions
 
 **[Network Security Controls v1.7][1]** ([redlined][2]) (adopted with [Ballot SC41][3])
-
-### Previous Versions 
 
 **[Network Security Controls v1.6][4]** ([redlined][5]) (adopted with [Ballot SC39][6])
 
@@ -54,3 +56,6 @@ On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certifi
 [20]: /uploads/CABForum_Network_Security_Controls_v.1.1-corrected-redlined.pdf
 [21]: /uploads/Network_Security_Controls_V1.pdf
 [22]: /2012/08/03/ballot-83-adopt-network-and-certificate-system-security-requirements/
+[23]: /2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-FG-NCSSR-2.0.pdf
+[24]: /2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-NCSSR-2.0-redline.pdf
+[25]: /2024/04/09/ballot-ns-003/
