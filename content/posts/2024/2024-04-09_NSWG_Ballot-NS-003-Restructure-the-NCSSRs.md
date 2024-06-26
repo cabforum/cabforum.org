@@ -1,7 +1,7 @@
 ---
 title: 'Ballot NS-003: Restructure the NCSSRs'
 author: Clint Wilson
-date: 2024-April-09 16:00 UTC
+date: 2024-04-09 16:00:00
 tags:
 - Network Security
 - Ballot
