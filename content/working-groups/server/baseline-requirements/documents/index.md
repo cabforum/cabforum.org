@@ -9,13 +9,13 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.0.5][205] ([redlined][205r]) – adopted by Ballot [SC73][sc73]
+[CA-Browser-Forum TLS BR 2.0.5][TBR205] ([redlined][TBR205r]) – adopted by Ballot [SC73][sc73]
 
 ### Previous Versions
 
-[CA-Browser-Forum TLS BR 2.0.4][204] ([redlined][204r]) – adopted by Ballot [SC65][sc65]
+[CA-Browser-Forum TLS BR 2.0.4][TBR204] ([redlined][TBR204r]) – adopted by Ballot [SC65][sc65]
 
-[CA-Browser-Forum TLS BR 2.0.3][203] ([redlined][203r]) – adopted by Ballot [SC69][sc69]
+[CA-Browser-Forum TLS BR 2.0.3][TBR203] ([redlined][TBR203r]) – adopted by Ballot [SC69][sc69]
 
 [CA-Browser-Forum TLS BR 2.0.2][228] ([redlined][202r]) – adopted by Ballot [SC66][sc66]
 
@@ -185,14 +185,14 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
-[205]: CA-Browser-Forum-TLS-BR-2.0.5.pdf
-[205r]: CA-Browser-Forum-TLS-BR-2.0.5-redlined.pdf
+[TBR205]: CA-Browser-Forum-TLS-BR-2.0.5.pdf
+[TBR205r]: CA-Browser-Forum-TLS-BR-2.0.5-redlined.pdf
 [sc73]: /2024/06/07/ballot-sc-73-compromised-and-weak-keys/
-[204]: TLSBRv2.0.4.pdf
-[204r]: TLSBRv2.0.4-redlined.pdf
+[TBR204]: TLSBRv2.0.4.pdf
+[TBR204r]: TLSBRv2.0.4-redlined.pdf
 [sc65]: /2024/03/15/ballot-sc-65v2-convert-evgs-into-rfc-3647-format/
-[203]: BRv2.0.3.pdf
-[203r]: BR-203-redlined.pdf
+[TBR203]: BRv2.0.3.pdf
+[TBR203r]: BR-203-redlined.pdf
 [sc69]: /2024/03/12/ballot-sc-69-clarify-router-and-firewall-logging-requirements/
 [202r]: CA-Browser-Forum-2.0.2-redlined.pdf
 [sc66]: /2023/11/24/ballot-sc-066-v4-fall-2023-clean-up/
