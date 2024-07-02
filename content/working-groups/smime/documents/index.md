@@ -10,7 +10,7 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 
 ### Draft Version (undergoing IPR Review)
 
-NA
+Ballot SMC06 until May 11 2024, redline at https://cabforum.org/posts/2024/2024-04-11-SMCWG-ballot-SMC06/CA-Browser-Forum-SMIMEBR-1.0.4-redline.pdf
 
 ### Current Version 
 
