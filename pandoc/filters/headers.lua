@@ -13,6 +13,7 @@ function Header(header)
         table.insert(header.content, link)
     end
 
+    local stringifiedHeader = pandoc.utils.stringify(header)
     local match = stringifiedHeader:match("^[%d%.]+")
     if match then
         local section = string.gsub(match, "%.$", "")
