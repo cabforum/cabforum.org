@@ -17,7 +17,7 @@ function Header(header)
     local match = stringifiedHeader:match("^[%d%.]+")
     if match then
         local section = string.gsub(match, "%.$", "")
-        local section_id = pandoc.RawInline('html', '<span id="' .. header.identifier .. '" />')
+        local section_id = pandoc.RawInline('html', '<span id="' .. section .. '" />')
         table.insert(header.content, section_id)
     end
 
