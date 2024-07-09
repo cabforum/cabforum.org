@@ -15,7 +15,7 @@ type: post
 
 ## Attendance
 
-Aaron Poulsen - (Amazon), Abhishek Bhat - (eMudhra), Adrian Mueller - (SwissSign), Adriano Santoni - (Actalis S.p.A.), Andrea Holland - (VikingCloud), Andreas Henschel - (D-TRUST), Antti Backman - (Telia Company), An Yin - (iTrusChina), Arno Fiedler - (ETSI), Arvid Vermote - (GlobalSign), Ben Wilson - (Mozilla), Bruce Morton - (Entrust), Christophe Bonjean - (GlobalSign), Chya-Hung Tsai - (TWCA), Clemens Wanko - (ACAB Council), Clint Wilson - (Apple), Corey Bonnell - (DigiCert), Dave Chin - (CPA Canada/WebTrust), Dean Coclin - (DigiCert), Devon O'Brien - (Google), Dimitris Zacharopoulos - (HARICA), Dong Wha Shin - (MOIS (Ministry of Interior and Safety) of the republic of Korea), Doug Beattie - (GlobalSign), Eva Vansteenberge - (GlobalSign), Hannah Sokol - (Microsoft), Hogeun Yoo - (NAVER Cloud Trust Services), Inaba Atsushi - (GlobalSign), Iñigo Barreira - (Sectigo), Janet Hines - (VikingCloud), Jeremy Rowley - (DigiCert), John Sarapata - (Google), Josselin Allemandou - (Certigna (DHIMYOTIS)), Jozef Nigut - (Disig), Kateryna Aleksieieva - (Asseco Data Systems SA (Certum)), Keshava Nagaraju - (eMudhra), Kiran Tummala - (Microsoft), Leo Grove - (SSL.com), Luis Cervantes - (GoDaddy), Mads Henriksveen - (Buypass AS), Mahua Chaudhuri - (Microsoft), Marco Schambach - (IdenTrust), Martijn Katerbarg - (Sectigo), Mats Rosberg - (Keyfactor), Matthias Wiedenhorst - (ACAB Council), Michal Malinowski - (Asseco Data Systems SA (Certum)), Michelle Coon - (OATI), Miguel Sanchez - (Google), Mohit Kumar - (GlobalSign), Mrugesh Chandarana - (IdenTrust), Nargis Mannan - (VikingCloud), Nate Smith - (GoDaddy), Naveen Kumar - (eMudhra), Nick France - (Sectigo), Nicol So - (CommScope), Paul van Brouwershaven - (Entrust), Pedro Fuentes - (OISTE Foundation), Pekka Lahtiharju - (Telia Company), Peter Miskovic - (Disig), Prachi Jain - (Fastly), Puja Sehgal - (Microsoft), Raffaela Achermann - (SwissSign), Rebecca Kelly - (SSL.com), Rob Stradling - (Sectigo), Romain Delval - (Certigna (DHIMYOTIS)), Roman Fischer - (SwissSign), Ryan Dickson - (Google), Sandy Balzer - (SwissSign), Scott Rea - (eMudhra), Sissel Hoel - (Buypass AS), Stephen Davidson - (DigiCert), Tadahiko Ito - (SECOM Trust Systems), Thomas Zermeno - (SSL.com), Tim Callan - (Sectigo), Tim Crawford - (CPA Canada/WebTrust), Tim Hollebeek - (DigiCert), Tobias Josefowitz - (Opera Software AS), Trevoli Ponds-White - (Amazon), Tsung-Min Kuo - (Chunghwa Telecom), Xiu Lei - (GDCA), Yoshihiko Matsuo - (Japan Registry Services)
+Aaron Poulsen - (Amazon), Abhishek Bhat - (eMudhra), Adrian Mueller - (SwissSign), Adriano Santoni - (Actalis S.p.A.), Andrea Holland - (VikingCloud), Andreas Henschel - (D-TRUST), Antti Backman - (Telia Company), An Yin - (iTrusChina), Arno Fiedler - (ETSI), Arvid Vermote - (GlobalSign), Ben Wilson - (Mozilla), Bruce Morton - (Entrust), Christophe Bonjean - (GlobalSign), Chya-Hung Tsai - (TWCA), Clemens Wanko - (ACAB Council), Clint Wilson - (Apple), Corey Bonnell - (DigiCert), Dave Chin - (CPA Canada/WebTrust), Dean Coclin - (DigiCert), Devon O'Brien - (Google), Dimitris Zacharopoulos - (HARICA), Dong Wha Shin - (MOIS (Ministry of Interior and Safety) of the republic of Korea), Doug Beattie - (GlobalSign), Eva Vansteenberge - (GlobalSign), Hannah Sokol - (Microsoft), Hogeun Yoo - (NAVER Cloud Trust Services), Inaba Atsushi - (GlobalSign), Iñigo Barreira - (Sectigo), Janet Hines - (VikingCloud), Jeremy Rowley - (DigiCert), John Sarapata - (Google), Josselin Allemandou - (Certigna (DHIMYOTIS)), Jozef Nigut - (Disig), Kateryna Aleksieieva - (Asseco Data Systems SA (Certum)), Keshava Nagaraju - (eMudhra), Kiran Tummala - (Microsoft), Leo Grove - (SSL.com), Luis Cervantes - (GoDaddy), Mads Henriksveen - (Buypass AS), Mahua Chaudhuri - (Microsoft), Marco Schambach - (IdenTrust), Martijn Katerbarg - (Sectigo), Mats Rosberg - (Keyfactor), Matthias Wiedenhorst - (ACAB Council), Michal Malinowski - (Asseco Data Systems SA (Certum)), Michelle Coon - (OATI), Miguel Sanchez - (Google), Mohit Kumar - (GlobalSign), Mrugesh Chandarana - (IdenTrust), Nargis Mannan - (VikingCloud), Nate Smith - (GoDaddy), Naveen Kumar - (eMudhra), Nick France - (Sectigo), Nicol So - (CommScope), Paul van Brouwershaven - (Entrust), Pedro Fuentes - (OISTE Foundation), Pekka Lahtiharju - (Telia Company), Peter Miskovic - (Disig), Prachi Jain - (Fastly), Puja Sehgal - (Microsoft), Raffaela Achermann - (SwissSign), Rebecca Kelly - (SSL.com), Rob Stradling - (Sectigo), Romain Delval - (Certigna (DHIMYOTIS)), Roman Fischer - (SwissSign), Ryan Dickson - (Google), Sandy Balzer - (SwissSign), Scott Rea - (eMudhra), Sissel Hoel - (Buypass AS), Stephen Davidson - (DigiCert), Tadahiko Ito - (SECOM Trust Systems), Thomas Zermeno - (SSL.com), Tim Callan - (Sectigo), Tim Crawford - (CPA Canada/WebTrust), Tim Hollebeek - (DigiCert), Tobias Josefowitz - (Opera Software AS), Trevoli Ponds-White - (Amazon), Tsung-Min Kuo - (Chunghwa Telecom), Wei-Hao Tung - (Chunghwa Telecom), Xiu Lei - (GDCA), Yoshihiko Matsuo - (Japan Registry Services).
 
 ## Approval of CABF Minutes from last teleconference
 
@@ -222,7 +222,7 @@ Please reach out to the Apple Root Program with any questions.
 
 * **Leader:** Hanna Sokol (Microsoft)
 * **Minutes:** Mahua Chaudhuri (Microsoft)
-* **Presentation link:** 
+* **Presentation link:** [May Apple](6-Microsoft F2F 62 Presentation.pdf)
 
 Summary of the Q&A after the presentation:
 
@@ -237,6 +237,31 @@ Summary of the Q&A after the presentation:
 * **Leader:** Chris Clements (Google)
 * **Minutes:** Puja Sehgal (Microsoft)
 * **Presentation link:** [CCADB Update](7-CAB-F2F-62-CCADB-Update.pdf)
+
+### Q&A Root Program discussions
+
+* **Leader:** Dimitris Zacharopoulos (HARICA)
+* **Minutes:** Kateryna Aleksieieva (Certum)
+
+Clint Wilson wanted clarification on using email aliases in the CA owner tab of CCADB, noting inconsistencies in contact methods. Suggestions included linking to group lists, using the Point of Contact object, and sending emails to all available contacts for better communication coverage.
+
+Dimitris addressed issues within the CAB/F and its working groups, particularly linting, and encouraged greater participation in ballot initiatives. He noted that newer CAs should take more initiative and share best practices. Dimitris warned that the forum risks failure if members do not propose changes, as most updates currently come from root programs rather than the community.
+
+A question was raised to Microsoft about the status of ECC keys for code signing and their support in Windows. Hannah explained that there are compatibility issues with some Microsoft programs, although it works with most applications. 
+
+Another question was from Martijn and it concerned Microsoft's potential addition of an S/MIME OID requirement in leaf certificates, specifically regarding item 10 in the program requirements (3.8.10), Hannah promised further clarification.
+
+Discussion on anonymizing Bug Reporters:
+
+* Tim Callin raised a concern about the trend of publicly naming bug reporters in incident reports. He encourages Browsers to implement a policy to anonymize third-party reporters, arguing that the identity of the reporter is irrelevant to the validity of the report.
+* Tim Hollebeek acknowledged that while naming reporters can be a form of appreciation, the practice could be discontinued if necessary.
+* Trevoli Ponds-White supported the idea of granting anonymity upon request and suggested obtaining explicit consent before disclosing reporters' identities.
+* Ben Wilson questioned where and how to document this policy, proposing the wiki or CCADB incident reporting guides as potential locations.
+* Trevoli proposed including the anonymity clause in the next policy update.
+* Martijn suggested specific wording for the policy: "CA should not or shall not disclose the name of the reporter unless..." and noted potential GDPR compliance issues.
+* Bruce Morton highlighted the value of knowing how an issue was found for transparency and problem-solving but recognized the challenge in balancing this with reporter anonymity.
+* Tim underlined the difficulty in managing external reporters' reporting preferences, as they are not a part of the community.
+* Trevoli and Tim agreed on the importance of asking reporters for details on how they found the issue, to enhance incident reports. 
 
 ## ETSI Update
 
