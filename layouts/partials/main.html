@@ -19,7 +19,7 @@
         <div class="mb-2"></div>
     </div>
     
-    <div class="col">
+    <div class="col col-lg-3">
         {{- if and (ne .Type "post") (not .IsHome) -}}
             <div class="mb-4 mt-2">{{- partial "menu.html" . -}}</div>
         {{- end -}}
