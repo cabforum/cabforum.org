@@ -117,6 +117,25 @@ Dimitris asked current Chairs and Vice Chairs to review the document. Ben said t
 
 ## Browser Updates
 
+### Mozilla Root Program Update
+
+* **Leader:** Ben Wilson (Mozilla)
+* **Minutes:** Martijn Katerbarg (Sectigo)
+* **Presentation link:** 
+* **Discussion minutes:**
+
+- Question from Paul: Are there any plans to add ACME for S/MIME support to Thunderbird?
+  - It's not currently listed as a feature request for this, but there's nothing that should prevent from a feature request from being opened on this.
+- Are you the goto person for these type of bugs?
+  - Ben: Yes
+- Dimitris: A question about the charts you showed. The way I read it is that more transparancy from CAs shows more incidents now, where previously we may not have heard about it.
+  - Ben: We believe it's attributable to pkilint and the changes after the certificate profiles ballot.
+- Dimitris: It would be helpful to capture more common root cause issues and track them for the CA community to learn from. A lot of us are already reading all bugs, and may be able to assist in tracking this in a shared repository.
+- Rob: Kathleen retired recently. Are there plans on adding someone in her position or are you a one-man team for now? 
+  - Ben: A one man team, however I do work closely with people from the security team where we have a peer review process together with them. We've not really yet discussed who we want on some internal compliance positions.
+- Paul: Could we perhaps tag a bug where a ballot /requirement change was the reason for this?
+  - Ben: Yes this is something we can do with tags.
+
 ### Google Root Program Update
 
 * **Leader:** Chris Clements and Ryan Dickson (Google)
