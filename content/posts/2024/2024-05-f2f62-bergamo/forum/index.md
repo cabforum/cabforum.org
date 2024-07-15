@@ -121,7 +121,7 @@ Dimitris asked current Chairs and Vice Chairs to review the document. Ben said t
 
 * **Leader:** Ben Wilson (Mozilla)
 * **Minutes:** Martijn Katerbarg (Sectigo)
-* **Presentation link:** 
+* **Presentation link:** [Mozilla Update](3-May-2024-Mozilla-News.pdf)
 * **Discussion minutes:**
 
 - Question from Paul: Are there any plans to add ACME for S/MIME support to Thunderbird?
