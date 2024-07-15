@@ -9,7 +9,7 @@ type: post
 slug: Ballot-SMC07-Align-Logging-Requirement-and-Key-Escrow-clarification
 ---
 
-The Intellectual Property Review (IPR) period for Ballot SMC06 (Post implementation clarification and corrections) has completed. No IPR Exclusion Notices were filed, and the ballot is adopted as of July 15, 2024.
+The Intellectual Property Review (IPR) period for Ballot SMC07 (Align Logging Requirement and Key Escrow clarification) has completed. No IPR Exclusion Notices were filed, and the ballot is adopted as of July 15, 2024.
 
 The new S/MIME BR v.1.0.5 have been published to the CABF public website in accordance with the Bylaws: https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.5.pdf
 
