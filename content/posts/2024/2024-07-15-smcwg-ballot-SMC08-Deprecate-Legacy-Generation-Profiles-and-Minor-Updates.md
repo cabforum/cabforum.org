@@ -37,3 +37,8 @@ Discussion (at least 7 days)
 
 * Start time: July 15, 2024 at 16:00:00 UTC
 * End time: July 22, 2024 at 16:00:00 UTC
+
+Vote for approval (7 days)
+
+* Start time: July 22, 2024 at 16:00:00 UTC
+* End time: July 29, 2024 at 16:00:00 UTC
