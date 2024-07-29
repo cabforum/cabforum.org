@@ -9,6 +9,33 @@ type: post
 slug: Ballot-SMC08-Deprecate-Legacy-Generation-Profiles-and-Minor-Updates 
 ---
 
+## Results of Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates 
+
+The voting period for “Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates” has completed, and the ballot has passed.
+
+### Voting Results
+
+**Certificate Issuers**
+19 votes total, with no abstentions:
+* 16 Issuers voting YES: Asseco Data Systems SA (Certum), Chunghwa Telecom, DigiCert, D-TRUST, eMudhra, GlobalSign, HARICA, IdenTrust, Logius PKIoverheid, OISTE Foundation, SECOM Trust Systems, Sectigo, SSL.com, SwissSign, TrustAsia, TWCA
+* 0 Issuers voting NO
+* 0 Issuers ABSTAIN
+
+**Certificate Consumers**
+3 votes total, with no abstentions:
+* 3 Consumers voting YES: Apple, Mozilla, rundQuadrat
+* 0 Consumers voting NO
+* 0 Consumers ABSTAIN
+
+**Bylaws Requirements**
+1.	Bylaw 2.3(f) requires:
+* A "yes" vote by two-thirds of Certificate Issuer votes and by 50%-plus-one of Certificate Consumer votes. Votes to abstain are not counted for this purpose. This requirement was MET for Certificate Issuers and MET for Certificate Consumers.
+* At least one Certificate Issuer and one Certificate Consumer Member must vote in favor of a ballot for the ballot to be adopted. This requirement was MET.
+
+2.	Bylaw 2.3(g) requires that a ballot result only be considered valid when “more than half of the number of currently active Members has participated”. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three meetings. Votes to abstain are counted in determining quorum. The quorum was 8 for this ballot. This requirement was MET.
+
+This ballot now enters the 30-day IP Rights Review Period to permit members to review the ballot for relevant IP rights issues.  The IP Rights Review Period ends at 2359 UTC on August 28, 2024.
+
 ## Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates 
 
 ### Summary: 
