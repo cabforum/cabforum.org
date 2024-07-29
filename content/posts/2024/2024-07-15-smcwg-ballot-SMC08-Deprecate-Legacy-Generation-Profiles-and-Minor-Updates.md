@@ -17,9 +17,9 @@ Ballot for Review: Ballot SMC08, redline at https://cabforum.org/posts/2024/2024
 Start of Review Period: July 29, 2024
 End of Review Period: 2359 UTC on August 28, 2024
 
-Please forward a written notice to exclude Essential Claims by email to smcwg-public@cabforum.org and a copy to the CA/B Forum public mailing list public@cabforum.org before the end of the Review Period.
+Please forward a written notice to exclude Essential Claims by email to smcwg-public@groups.cabforum.org and a copy to the CA/B Forum public mailing list public@groups.cabforum.org before the end of the Review Period.
 
-See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also https://cabforum.org/ipr-policy/. An optional format for an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf.
+See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also https://cabforum.org/about/ipr-policy/. 
 
 ## Results of Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates 
 
