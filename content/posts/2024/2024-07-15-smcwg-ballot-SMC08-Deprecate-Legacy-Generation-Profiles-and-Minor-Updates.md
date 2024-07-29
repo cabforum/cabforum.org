@@ -8,6 +8,18 @@ title: 'Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates'
 type: post
 slug: Ballot-SMC08-Deprecate-Legacy-Generation-Profiles-and-Minor-Updates 
 ---
+## IPR Review of Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates 
+
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This 30-day Review Period is for the Final Maintenance Guideline that is attached to this Review Notice.
+
+Ballot for Review: Ballot SMC08, redline at https://cabforum.org/posts/2024/2024-07-15-SMCWG-ballot-SMC08/CA-Browser-Forum-SMIMEBR-1.0.6-redline.pdf 
+
+Start of Review Period: July 29, 2024
+End of Review Period: 2359 UTC on August 28, 2024
+
+Please forward a written notice to exclude Essential Claims by email to smcwg-public@cabforum.org and a copy to the CA/B Forum public mailing list public@cabforum.org before the end of the Review Period.
+
+See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also https://cabforum.org/ipr-policy/. An optional format for an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf.
 
 ## Results of Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates 
 
