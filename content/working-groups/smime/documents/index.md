@@ -10,7 +10,7 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 
 ### Draft Version (undergoing IPR Review)
 
-[S/MIME Baseline Requirements v. 1.0.6][13] – adopted by Ballot [SMC07][14]
+[S/MIME Baseline Requirements v. 1.0.6][13] – adopted by Ballot [SMC08][14]
 
 ### Current Version 
 
