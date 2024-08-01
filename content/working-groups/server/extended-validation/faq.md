@@ -21,7 +21,11 @@ Most types of organizations can get an EV certificate relatively easily if they 
 
 ## How do I know when I’m visiting a site with an EV certificate?
 
-Most desktop browsers will indicate that you are on an EV website by giving a distinctive indication in the “chrome” of the browser. The chrome is anywhere in the browser that is outside the part in which your website is usually displayed, – e.g. in the colored frame or address bar of the browser. Typically the use of an EV certificate is indicated by a green color – but this varies by browser. If you’re unsure what you’re looking for in the “EV display” for the particular browser that you use most often, then visit https://www.paypal.com/ or https://www.apple.com/. These and other sites have adopted the use of EV certificates with SSL “always on” so you can see how the address-bar or browser chrome looks with an EV certificate. Then compare that with [https://cabforum.org](/) (which isn’t EV!). Try other secure sites. How does your bank’s website look? See if they have an EV certificate.
+Most desktop browsers indicate that you are on a site with an Extended Validation (EV) certificate through a distinctive indication in the browser's interface, outside of the content area where websites are displayed. This area is often referred to as the "chrome" of the browser, which includes the address bar and other elements.
+
+While browsers used to highlight EV certificates with a green color in the address bar, modern browsers have shifted their approach. Most browsers no longer show this information directly in the address bar; you might need to click on an icon like a padlock or a tune icon to see the organization name. Sometimes, users need to click several times, such as accessing a section with connection information after clicking the initial icon.
+
+To familiarize yourself with how EV certificates appear in your preferred browser, you can visit websites known to use them, such as [PayPal](https://www.paypal.com/) or [Apple](https://www.apple.com/). Compare these with a site like that of the [CA/Browser Forum](https://cabforum.org/), which does not use an EV certificate. You can also check your bank's website to see if they use an EV certificate and observe how it is displayed.
 
 ## Does an EV certificate show me that the website is honest and trustworthy?
 
