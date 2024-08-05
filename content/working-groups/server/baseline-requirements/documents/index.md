@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.0.5][TBR205] ([redlined][TBR205r]) – adopted by Ballot [SC73][sc73]
+[CA-Browser-Forum TLS BR 2.0.6][TBR206] ([redlined][TBR206r]) – adopted by Ballot [SC75][sc75]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.0.5][TBR205] ([redlined][TBR205r]) – adopted by Ballot [SC73][sc73]
 
 [CA-Browser-Forum TLS BR 2.0.4][TBR204] ([redlined][TBR204r]) – adopted by Ballot [SC65][sc65]
 
@@ -185,6 +187,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR206]: CA-Browser-Forum-TLS-BR-2.0.6.pdf
+[TBR206r]: CA-Browser-Forum-TLS-BR-2.0.6-redlined.pdf
+[sc75]: /2024/06/27/ballot-sc-75-pre-sign-linting/
 [TBR205]: CA-Browser-Forum-TLS-BR-2.0.5.pdf
 [TBR205r]: CA-Browser-Forum-TLS-BR-2.0.5-redlined.pdf
 [sc73]: /2024/06/07/ballot-sc-73-compromised-and-weak-keys/
