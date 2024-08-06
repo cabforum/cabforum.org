@@ -10,36 +10,23 @@ title: Ballots CSC-25 and CSC-26
 type: post
 ---
 
-## NOTICE OF REVIEW PERIOD
+## RESULTS OF REVIEW PERIOD
 
 ### CSC-25
 
-This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is available [here](Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.8_redline.pdf).
+Ballot CSC 25: Import EV Guidelines into the Code Signing Baseline Requirements
 
-Summary of Review
-Ballot for Review:  Ballot CSC-25
+The Intellectual Property Review (IPR) period for Ballot CSC25: Import EV Guidelines into the Code Signing Baseline Requirements has completed. No IPR Exclusion Notices were filed, and the ballot is adopted as of Aug 1, 2024.
 
-Start of Review Period: July 1st, 2024 at 2:00 PM UTC
-End of Review Period: August 1, 2024 at 2:00 PM UTC
-
-Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to Dean Coclin <dean.coclin@digicert.com>) and also submit a copy to the CA/B Forum CSCWG public mailing list (email to public at cabforum.org <cscwg-public@cabforum.org>) before the end of the Review Period.
-For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
-(An optional template for submitting an Exclusion Notice is available at <https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf>)
+The new Code Signing BRs will be published to the CABF public website in accordance with the Bylaws.
 
 ### CSC-26
 
-NOTICE OF IPR REVIEW PERIOD
-This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is available [here](Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.9_redline).
+Ballot CSC 26: Timestamping Private Key Protection Ballot
 
-Summary of Review
-Ballot for Review:  Ballot CSC-26
+The Intellectual Property Review (IPR) period for Ballot CSC26: Timestamping Private Key Protection Ballot has completed. No IPR Exclusion Notices were filed, and the ballot is adopted as of Aug 1, 2024.
 
-Start of Review Period: July 1st, 2024 at 3:00 PM UTC
-End of Review Period: August 1, 2024 at 3:00 PM UTC
-
-Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to Dean Coclin <dean.coclin@digicert.com>) and also submit a copy to the CA/B Forum CSCWG public mailing list (email to public at cabforum.org <cscwg-public@cabforum.org>) before the end of the Review Period.
-For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
-(An optional template for submitting an Exclusion Notice is available at <https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf>)
+The new Code Signing BRs will be published to the CABF public website in accordance with the Bylaws.
 
 ## CSC-25
 
