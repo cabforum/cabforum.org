@@ -10,9 +10,13 @@ title: Baseline Requirements (Code Signing)
 
 ### Current Version 
 
-[Baseline Requirements for Code-Signing Certificates, v.3.7][46] ([redline][47]) adopted by [ballot CSCWG-22][45].
+[Baseline Requirements for Code-Signing Certificates, v.3.9][51] ([redline][52]) adopted by [ballot CSCWG-26][53].
 
 ### Previous Versions 
+
+[Baseline Requirements for Code-Signing Certificates, v.3.8][48] ([redline][49]) adopted by [ballot CSCWG-25][50].
+
+[Baseline Requirements for Code-Signing Certificates, v.3.7][46] ([redline][47]) adopted by [ballot CSCWG-22][45].
 
 [Baseline Requirements for Code-Signing Certificates, v.3.6][43] ([redline][44]) adopted by [ballot CSCWG-21][45].
 
@@ -95,3 +99,9 @@ title: Baseline Requirements (Code Signing)
 [45]: /2024/01/18/ballots-csc-21-and-csc-22/
 [46]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.7.pdf
 [47]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.7_redline.pdf
+[48]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.8.pdf
+[49]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.8_redline.pdf
+[50]: /2024/07/01/ballots-csc-25-and-csc-26/
+[51]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.9.pdf
+[52]: /uploads/Baseline-Requirements-for-the-Issuance-and-Management-of-Code-Signing.v3.9_redline.pdf
+[53]: /2024/07/01/ballots-csc-25-and-csc-26/
