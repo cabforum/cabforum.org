@@ -73,6 +73,10 @@ Crt.sh – https://crt.sh/test-websites
 
 ### Status of CAs’ CCADB reporting compliance
 
+Crt.sh – https://crt.sh/apple-disclosures
+
+Crt.sh – https://crt.sh/chrome-disclosures
+
 Crt.sh – https://crt.sh/mozilla-disclosures
 
 ### CA Misissuance
@@ -87,9 +91,15 @@ Certificate Tools OCSP Checker – https://certificatetools.com/ocsp-checker
 
 OCSP Watch – https://sslmate.com/labs/ocsp_watch/
 
+CRL Watch – https://sslmate.com/labs/crl_watch/
+
 ## Linting Software
-- pkilint - Opensource linting framework for documents that are encoded using ASN.1 (coverage includes PKIX, S/MIME BR, TLS BR, CRL and OCSP response, etc.) - https://github.com/digicert/pkilint 
-- ZLint - Opensource X.509 certificate linter written in Go that checks for consistency with standards (e.g. RFC 5280) and other relevant PKI requirements (e.g. CA/Browser Forum Baseline Requirements) - https://github.com/zmap/zlint
+
+pkilint - Opensource linting framework for documents that are encoded using ASN.1 (coverage includes PKIX, S/MIME BR, TLS BR, CRL and OCSP response, etc.) - https://github.com/digicert/pkilint 
+
+ZLint - Opensource X.509 certificate linter written in Go that checks for consistency with standards (e.g. RFC 5280) and other relevant PKI requirements (e.g. CA/Browser Forum Baseline Requirements) - https://github.com/zmap/zlint
+
+pkimetal - Opensource PKI "meta linter" that integrates pkilint, Zlint, and several other linters behind a simple REST API, which supports pre-issuance and post-issuance linting of certificates, CRLs, and OCSP responses - https://github.com/pkimetal/pkimetal
 
 ## Offline, Downloadable Tools
 
