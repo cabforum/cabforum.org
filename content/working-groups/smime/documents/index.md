@@ -10,13 +10,16 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 
 ### Draft Version (undergoing IPR Review)
 
-[S/MIME Baseline Requirements v. 1.0.6][13] – adopted by Ballot [SMC08][14]
+N/A
 
 ### Current Version 
 
-[S/MIME Baseline Requirements v. 1.0.5][11] – adopted by Ballot [SMC07][12]
+[S/MIME Baseline Requirements v. 1.0.6][13] – adopted by Ballot [SMC08][14]
+
 
 ### Previous Versions 
+
+[S/MIME Baseline Requirements v. 1.0.5][11] – adopted by Ballot [SMC07][12]
 
 [S/MIME Baseline Requirements v. 1.0.4][9] – adopted by Ballot [SMC06][10]
 
@@ -40,5 +43,5 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 [10]: /2024/03/26/ballot-smc06-post-implementation-clarification-and-corrections/
 [11]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.5.pdf
 [12]: /2024/05/24/ballot-smc07-align-logging-requirement-and-key-escrow-clarification/
-[13]: /posts/2024/2024-07-15-SMCWG-ballot-SMC08/CA-Browser-Forum-SMIMEBR-1.0.6-redline.pdf
+[13]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.6.pdf
 [14]: /2024/07/15/ballot-smc08-deprecate-legacy-generation-profiles-and-minor-updates/
