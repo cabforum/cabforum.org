@@ -13,7 +13,7 @@ The Intellectual Property Review (IPR) period for Ballot SMC08 (Deprecate Legacy
 
 No IPR Exclusion Notices were filed, and the ballot is adopted as of August 29, 2024.
 
-The new S/MIME BR v.1.0.6 have been published to the CABF public website in accordance with the Bylaws: https://cabforum.org/content/posts/2024/2024-07-15-SMCWG-ballot-SMC08/CA-Browser-Forum-SMIMEBR-1.0.6.pdf
+The new S/MIME BR v.1.0.6 have been published to the CABF public website in accordance with the Bylaws: https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.6.pdf
 
 ## IPR Review of Ballot SMC08: Deprecate Legacy Generation Profiles and Minor Updates 
 
