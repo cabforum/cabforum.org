@@ -12,7 +12,7 @@ slug: Ballot-SMC08-Deprecate-Legacy-Generation-Profiles-and-Minor-Updates
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This 30-day Review Period is for the Final Maintenance Guideline that is attached to this Review Notice.
 
-Ballot for Review: Ballot SMC08, redline at https://cabforum.org/posts/2024/2024-07-15-SMCWG-ballot-SMC08/CA-Browser-Forum-SMIMEBR-1.0.6-redline.pdf 
+Ballot for Review: Ballot SMC08, redline at https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.6.pdf
 
 Start of Review Period: July 29, 2024
 End of Review Period: 2359 UTC on August 28, 2024
