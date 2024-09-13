@@ -30,7 +30,7 @@ August 1st meeting minutes were approved.
 
 ## Membership
 
-Reviewed and approved application of SGNR, LLC as an Interested Party. Ben to send email related to closing out GoDaddy IPR claim.
+Reviewed and approved application of SGNR, LLC as an Interested Party. 
 
 ## Discussion
 
@@ -53,7 +53,8 @@ Reviewed and approved application of SGNR, LLC as an Interested Party. Ben to se
 
 ### PAG
 
-Discussed final actions necessary to close out GoDaddy IPR claim.  
+Discussed final actions necessary to close out GoDaddy IPR claim. 
+Ben to send email related to closing out GoDaddy IPR claim. 
 
 ## Current status of ballots
 
