@@ -41,7 +41,7 @@ If interested in joining the Working Group, please submit an email to and includ
 
 ## Mailing List
 
-To subscribe to the public mailing list, click here: https://lists.cabforum.org/mailman/listinfo/cscwg-public
+To subscribe to the public mailing list, click here: https://groups.google.com/u/1/a/groups.cabforum.org/g/cscwg-public
 
 Questions or comments should be sent to questions@cabforum.org.
 
