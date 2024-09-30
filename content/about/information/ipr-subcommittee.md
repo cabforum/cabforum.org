@@ -5,7 +5,7 @@ date: 2024-06-03
 title: Forum IPR Subcommittee
 ---
 
-## Forum IPR Subcommittee Charter**
+## Forum IPR Subcommittee Charter
 
 Upon approval of the CAB Forum by ballot, and in accordance with section 5.6 of the CA/Browser Forum Bylaws, the Forum IPR Subcommittee ("FIPR") is created to perform the activities specified in this Charter, subject to the terms and conditions of the Bylaws, which take precedence over this Charter. 
 
@@ -39,4 +39,4 @@ The FIPR will communicate primarily through listserv-based email and shall condu
 
 **6. End Date**
 
-The FIPR will submit its Deliverables to the Forum prior to October 1, 2024, and upon such date the Subcommittee is deemed dissolved.
+The FIPR will submit its Deliverables to the Forum prior to April 1, 2025, and upon such date the Subcommittee is deemed dissolved.
