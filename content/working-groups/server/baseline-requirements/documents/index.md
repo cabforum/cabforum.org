@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.0.7][TBR207] ([redlined][TBR207r]) – adopted by Ballot [SC67][sc67]
+[CA-Browser-Forum TLS BR 2.0.8][TBR208] ([redlined][TBR208r]) – adopted by Ballot [SC77][sc77]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.0.7][TBR207] ([redlined][TBR207r]) – adopted by Ballot [SC67][sc67]
 
 [CA-Browser-Forum TLS BR 2.0.6][TBR206] ([redlined][TBR206r]) – adopted by Ballot [SC75][sc75]
 
@@ -189,6 +191,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR208]: CA-Browser-Forum-TLS-BR-2.0.8.pdf
+[TBR208r]: CA-Browser-Forum-TLS-BR-2.0.8-redlined.pdf
+[sc77]: /2024/09/02/ballot-sc-77-update-webtrust-audit-name-in-section-8.4-and-references/
 [TBR207]: CA-Browser-Forum-TLS-BR-2.0.7.pdf
 [TBR207r]: CA-Browser-Forum-TLS-BR-2.0.7-redlined.pdf
 [sc67]: /2024/08/05/ballot-sc-67-v3-require-domain-validation-and-caa-checks-to-be-performed-from-multiple-network-perspectives-corroboration/
