@@ -14,11 +14,11 @@ slug: Ballot-SMC09-Pre-Linting-WebTrust-for-NetSec-and-Minor-updates
 ### Summary: 
 
 This ballot includes updates for the following:
-•	Require pre-linting of leaf end entity Certificates starting September 15, 2025
-•	Require WebTrust for Network Security for WebTrust audits starting after April 1, 2025
-•	Clarify that multiple certificatePolicy OIDs are allowed in end entity certificates
-•	Clarify use of organizationIdentifer references
-•	Update of Appendix A.2 Natural Person Identifiers
+*	Require pre-linting of leaf end entity Certificates starting September 15, 2025
+*	Require WebTrust for Network Security for WebTrust audits starting after April 1, 2025
+*	Clarify that multiple certificatePolicy OIDs are allowed in end entity certificates
+*	Clarify use of organizationIdentifer references
+*	Update of Appendix A.2 Natural Person Identifiers
 
 This ballot is proposed by Stephen Davidson (DigiCert) and endorsed by Clint Wilson (Apple) and Martijn Katerbarg (Sectigo).
 
