@@ -6,7 +6,7 @@ tags:
 - Ballot
 title: Ballot SMC09: Pre-Linting, WebTrust for NetSec, and Minor Updates
 type: post
-slug: Ballot-SMC09-Pre-Linting-WebTrust-for-NetSec-and-Minor-updates 
+slug: ballot-smc09-pre-linting-webtrust-for-netsec-and-minor-updates 
 ---
 
 ## Ballot SMC09: Pre-Linting, WebTrust for NetSec, and Minor Updates 
