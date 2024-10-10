@@ -4,9 +4,9 @@ date: 2024-10-09 00:00:00
 tags:
 - S/MIME
 - Ballot
-title: 'Ballot SMC09: Pre-Linting, WebTrust for NetSec, and Minor Updates'
+title: Ballot SMC09: Pre-Linting, WebTrust for NetSec, and Minor Updates
 type: post
-slug: Ballot SMC09: Pre-Linting, WebTrust for NetSec, and Minor Updates 
+slug: Ballot-SMC09-Pre-Linting-WebTrust-for-NetSec-and-Minor-updates 
 ---
 
 ## Ballot SMC09: Pre-Linting, WebTrust for NetSec, and Minor Updates 
