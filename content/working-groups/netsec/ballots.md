@@ -4,17 +4,40 @@ aliases:
 - /ballots/network-security-wg-ballots/
 date: 2022-02-08 22:11:57
 linkTitle: Ballots
-title: Network Security WG Ballots
+title: Network Security Working Group Ballots
 ---
 
-## Open Ballots (GitHub Pull Requests)
+## Ballots by Status
 
-{{< pull-requests repository="netsec" state="open" labels="ballot" >}}
+### Voting Period
 
-## Closed Ballots (GitHub Pull Requests)
+{{< ballots wg="Network Security Working Group" status="Voting Period">}}
 
-{{< pull-requests repository="netsec" state="closed" labels="ballot" >}}
+### Review Period
 
-## Passed Ballots
+{{< ballots wg="Network Security Working Group" status="Review Period">}}
+
+### Discussion Period
+
+{{< ballots wg="Network Security Working Group" status="Discussion Period">}}
+
+### Draft / Under Consideration
+
+{{< ballots wg="Network Security Working Group" status="New">}}  
+{{< ballots wg="Network Security Working Group" status="Pre-Ballot">}}
+
+### Passed
+
+{{< ballots wg="Network Security Working Group" status="Ballot Passed">}}
+
+### Cancelled
+
+{{< ballots wg="Network Security Working Group" status="Cancelled">}}
+
+### Failed
+
+{{< ballots wg="Network Security Working Group" status="Ballot Failed">}}  
+
+## Information about Ballots
 
 {{< list-pages summary=false tags="Ballot,Network Security" >}}

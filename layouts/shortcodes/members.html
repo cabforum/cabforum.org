@@ -1,25 +1,33 @@
-{{- $url := (printf "https://member-tools.cabforum.org/api/getMemberOrgsForWG?wg=" (.Get `wg`)) -}}
+{{- $url := (printf "https://member-tools.cabforum.org/api/getMemberOrgs?forum_group_name=%s&participant_type=%s" (.Get `wg`) (.Get `type`)) -}}
 {{- $opts := dict
-    "headers" (dict "X-API-KEY" (getenv "CABF_API_TOKEN"))
+    "headers" (dict 
+        "X-API-KEY" (getenv "CABF_API_TOKEN")
+        "Accept" "application/json"
+    )
 -}}
 
 {{- with resources.GetRemote $url $opts -}}
     {{- with .Err -}}
         {{- warnf "%s - %s" . $url -}}
-        Unable to retrieve members of working-group {{ $.Get `wg` }} from the membership tools.
+        Unable to retrieve members of working-group {{ $.Get `forum_group_name` }} from the membership tools.
     {{- else -}}
-        {{- with .Content | transform.Unmarshal -}}
-            {{- range .forumGroups -}}
-                {{ if eq .name ($.Get `wg`) }}
-                    {{- range .participantTypes -}}
-                    <p><strong>{{ .participantType }}</strong></p>
-                    <ul>
-                        {{- range .members -}}        
-                            <li>{{ .memberOrganization }}</li>
-                        {{- end -}}
-                    </ul>
+        {{- with . | transform.Unmarshal -}}
+            <ul>
+                {{- range . -}}
+                    <li>
+                    {{- if strings.HasPrefix .web_url "https://" -}}
+                        <a href="{{ .web_url }}" target="_blank" title="Go to the website of {{ .name }}">{{ .name }}</a>
+                    {{- else -}}
+                        {{ .name }}
                     {{- end -}}
+                    </li>
                 {{- end -}}
+            </ul>
+        {{- else -}}
+            {{- if and ($.Get `wg`) ($.Get `type`) -}}
+                <em>There are no "{{ $.Get `type` }}" members in the {{ $.Get `wg` }}</em>
+            {{- else -}}
+                <em>No members in this category</em>
             {{- end -}}
         {{- end -}}
     {{- end -}}

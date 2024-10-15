@@ -18,7 +18,7 @@ The CA/Browser Forum’s Code Signing Certificate Working Group was chartered to
 
 ## Charter
 
-[Code Signing Certificate WG Charter](charter/) ([Ballot][1])
+[Code Signing Certificate WG Charter](charter/) ([Ballot](/2019/03/09/ballot-forum-8-establishment-of-a-code-signing-working-group/#Code-Signing-Certificate-Working-Group-Charter))
 
 ## Ballots
 
@@ -47,6 +47,18 @@ Questions or comments should be sent to questions@cabforum.org.
 
 ## Members 
 
-{{< members wg="Code Signing Certificate Working Group" >}}
+### Certification Authorities
 
-[1]: /2019/03/09/ballot-forum-8-establishment-of-a-code-signing-working-group/#Code-Signing-Certificate-Working-Group-Charter
+{{< members wg="Code Signing Certificate Working Group" type="Issuer" >}}
+
+### Certificate Consumers
+
+{{< members wg="Code Signing Certificate Working Group" type="Consumer" >}}
+
+### Associates
+
+{{< members wg="Code Signing Certificate Working Group" type="Associate" >}}
+
+### Interested Parties
+
+{{< members wg="Code Signing Certificate Working Group" type="Interested Party" >}}

@@ -4,17 +4,40 @@ aliases:
 - /ballots/server-certificate-ballots/
 date: 2021-09-04 00:46:40
 linkTitle: Ballots
-title: Server Certificate Ballots
+title: Server Certificate Working Group Ballots
 ---
 
-## Open Ballots (GitHub Pull Requests)
+## Ballots by Status
 
-{{< pull-requests repository="servercert" state="open" labels="ballot" >}}
+### Voting Period
 
-## Closed Ballots (GitHub Pull Requests)
+{{< ballots wg="Server Certificate Working Group" status="Voting Period">}}
 
-{{< pull-requests repository="servercert" state="closed" labels="ballot" >}}
+### Review Period
 
-## Passed Ballots
+{{< ballots wg="Server Certificate Working Group" status="Review Period">}}
+
+### Discussion Period
+
+{{< ballots wg="Server Certificate Working Group" status="Discussion Period">}}
+
+### Draft / Under Consideration
+
+{{< ballots wg="Server Certificate Working Group" status="New">}}  
+{{< ballots wg="Server Certificate Working Group" status="Pre-Ballot">}}
+
+### Passed
+
+{{< ballots wg="Server Certificate Working Group" status="Ballot Passed">}}
+
+### Cancelled
+
+{{< ballots wg="Server Certificate Working Group" status="Cancelled">}}
+
+### Failed
+
+{{< ballots wg="Server Certificate Working Group" status="Ballot Failed">}}  
+
+## Information about Ballots
 
 {{< list-pages summary=false tags="Ballot,Server Certificates" >}}

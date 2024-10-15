@@ -40,4 +40,18 @@ Archives – https://lists.cabforum.org/pipermail/servercert-wg/
 
 ## Members 
 
-{{< members wg="Server Certificate Working Group" >}}
+### Certification Authorities
+
+{{< members wg="Server Certificate Working Group" type="Issuer" >}}
+
+### Certificate Consumers
+
+{{< members wg="Server Certificate Working Group" type="Consumer" >}}
+
+### Associates
+
+{{< members wg="Server Certificate Working Group" type="Associate" >}}
+
+### Interested Parties
+
+{{< members wg="Server Certificate Working Group" type="Interested Party" >}}

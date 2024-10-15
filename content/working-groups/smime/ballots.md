@@ -4,17 +4,39 @@ aliases:
 - /ballots/s-mime-ballots/
 date: 2023-01-03 17:54:54
 linkTitle: Ballots
-title: S/MIME Ballots
+title: S/MIME Certificate Working Group Ballots
 ---
 
-## Open Ballots (GitHub Pull Requests)
+## Ballots by Status
 
-{{< pull-requests repository="smime" state="open" labels="ballot" >}}
+### Voting Period
 
-## Closed Ballots (GitHub Pull Requests)
+{{< ballots wg="S/MIME Certificate Working Group" status="Voting Period">}}
 
-{{< pull-requests repository="smime" state="closed" labels="ballot" >}}
+### Review Period
 
-## Passed Ballots
+{{< ballots wg="S/MIME Certificate Working Group" status="Review Period">}}
 
+### Discussion Period
+
+{{< ballots wg="S/MIME Certificate Working Group" status="Discussion Period">}}
+
+### Draft / Under Consideration
+
+{{< ballots wg="S/MIME Certificate Working Group" status="New">}}  
+{{< ballots wg="S/MIME Certificate Working Group" status="Pre-Ballot">}}
+
+### Passed
+
+{{< ballots wg="S/MIME Certificate Working Group" status="Ballot Passed">}}
+
+### Cancelled
+
+{{< ballots wg="S/MIME Certificate Working Group" status="Cancelled">}}
+
+### Failed
+
+{{< ballots wg="S/MIME Certificate Working Group" status="Ballot Failed">}}  
+
+## Information about Ballots
 {{< list-pages summary=false tags="Ballot,S/MIME" >}}

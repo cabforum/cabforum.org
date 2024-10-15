@@ -68,6 +68,19 @@ In addition, the S/MIME Certificate Working Group provides a public mailing list
 
 ## Members 
 
-{{< members wg="S/MIME Certificate Working Group" >}}
+### Certification Authorities
 
-[5]: /about/membership/associate-members/
+{{< members wg="S/MIME Certificate Working Group" type="Issuer" >}}
+
+### Certificate Consumers
+
+{{< members wg="S/MIME Certificate Working Group" type="Consumer" >}}
+
+### Associates
+
+{{< members wg="S/MIME Certificate Working Group" type="Associate" >}}
+
+### Interested Parties
+
+{{< members wg="S/MIME Certificate Working Group" type="Interested Party" >}}
+
