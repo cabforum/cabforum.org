@@ -37,3 +37,18 @@ title: Definitions and Glossary WG
 
 ## Members 
 
+### Certification Authorities
+
+{{< members wg="Definitions and Glossary Working Group" type="Issuer" >}}
+
+### Certificate Consumers
+
+{{< members wg="Definitions and Glossary Working Group" type="Consumer" >}}
+
+### Associates
+
+{{< members wg="Definitions and Glossary Working Group" type="Associate" >}}
+
+### Interested Parties
+
+{{< members wg="Definitions and Glossary Working Group" type="Interested Party" >}}

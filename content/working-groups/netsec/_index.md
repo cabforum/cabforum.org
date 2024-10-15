@@ -16,7 +16,7 @@ In January 2013 the CA/Browser Forum’s “[**Network and Certificate System Se
 
 ## Scope of Work
 
-The NetSec WG was chartered to continue work on the NCSSRs, and to conduct any and all business related to improving the security of Certification Authorities. The NetSec WG makes security-related recommendations to other Forum WGs for requirements or guidelines that are within their purview, i.e. the [Baseline Requirements](/working-groups/server/baseline-requirements/about/)/[Extended Validation Guidelines](/working-groups/server/extended-validation/about/) of the [Server Certificate WG](/working-groups/scwg/), the [Baseline Requirements for Code Signing Certificates](/working-groups/code-signing/documents/) of the [Code Signing Certificate Working Group](/working-groups/code-signing/) or guidelines adopted by the [S/MIME Certificate Working Group][1].
+The NetSec WG was chartered to continue work on the NCSSRs, and to conduct any and all business related to improving the security of Certification Authorities. The NetSec WG makes security-related recommendations to other Forum WGs for requirements or guidelines that are within their purview, i.e. the [Baseline Requirements](/working-groups/server/baseline-requirements/about/)/[Extended Validation Guidelines](/working-groups/server/extended-validation/about/) of the [Server Certificate WG](/working-groups/scwg/), the [Baseline Requirements for Code Signing Certificates](/working-groups/code-signing/documents/) of the [Code Signing Certificate Working Group](/working-groups/code-signing/) or guidelines adopted by the [S/MIME Certificate Working Group](/working-groups/smime/).
 
 The primary deliverable of the NetSec WG is the NCSSRs. Other work includes performing risk analyses, security analyses, and other types of reviews of threats and vulnerabilities applicable to CA operations involved in the issuance and maintenance of publicly trusted certificates (e.g. server certificates, code signing certificates, or SMIME certificates).
 
@@ -50,6 +50,19 @@ The NetSec WG provides a public mailing list. See <https://groups.google.com/a/g
 
 ## Members
 
-{{< members wg="Network Security Working Group" >}}
+### Certification Authorities
 
-[1]: /working-groups/smime-certificate-wg/
+{{< members wg="Network Security Working Group" type="Issuer" >}}
+
+### Certificate Consumers
+
+{{< members wg="Network Security Working Group" type="Consumer" >}}
+
+### Associates
+
+{{< members wg="Network Security Working Group" type="Associate" >}}
+
+### Interested Parties
+
+{{< members wg="Network Security Working Group" type="Interested Party" >}}
+
