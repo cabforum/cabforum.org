@@ -30,13 +30,13 @@ Instructions are [here](/about/information/potential-members/).
 
 ## Server Certificate WG Mailing List
 
-Subscribe – https://lists.cabforum.org/mailman/listinfo/servercert-wg
-
-Archives – https://lists.cabforum.org/pipermail/servercert-wg/
+[https://groups.google.com/a/groups.cabforum.org/g/servercert-wg](https://groups.google.com/a/groups.cabforum.org/g/servercert-wg)
 
 ## Subcommittees
 
 [Validation Subcommittee](/working-groups/server/validation-subcommittee/)
+
+Mailing list - [https://groups.google.com/a/groups.cabforum.org/g/validation](https://groups.google.com/a/groups.cabforum.org/g/validation)
 
 ## Members 
 

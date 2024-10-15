@@ -12,7 +12,7 @@ The CA/Browser Forum has several public mailing lists, intended to be used for n
 They are:
 
 - the **Public** list, which is for general Forum business, https://groups.google.com/a/groups.cabforum.org/g/public,
-- the **Server Certificate Working Group** list, https://lists.cabforum.org/mailman/listinfo/servercert-wg,
+- the **Server Certificate Working Group** list, https://groups.google.com/a/groups.cabforum.org/g/servercert-wg,
 - the **Code Signing Certificate Working Group** list, https://groups.google.com/u/1/a/groups.cabforum.org/g/cscwg-public, and
 - the **SMIME Certificate Working Group** list, https://groups.google.com/u/6/a/groups.cabforum.org/g/smcwg-public.
 
@@ -29,7 +29,7 @@ We also maintain other email lists, including the following:
 
 [1]: /about/ipr-policy/ "IPR Policy"
 [2]: /uploads/CAB-Forum-Agreement-for-IPR-Policy_20FEB18.pdf
-[3]: https://lists.cabforum.org/mailman/listinfo/validation/
+[3]: https://groups.google.com/a/groups.cabforum.org/g/validation
 [4]: https://groups.google.com/u/1/a/groups.cabforum.org/g/netsec
 [5]: /working-groups/netsec/documents/
 [6]: https://groups.google.com/a/groups.cabforum.org/g/infrastructure
