@@ -47,7 +47,7 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 ### Summary of Review
 
-**Ballot for Review**: Ballot SC-76: Clarify and improve OCSP requirements
+**Ballot for Review**: Ballot SC-79: Allow more than one Certificate Policy in a Cross-Certified Subordinate CA Certificate
 
 [TBR-SC79.pdf](BR-SC79.pdf)
 
@@ -55,9 +55,9 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 [TBR-SC79.docx](BR-SC79.docx)
 
-**Start of Review Period**: 14 october 2024 at 17:30 UTC
+**Start of Review Period**: 14 october 2024 at 16:00 UTC
 
-**End of Review Period**: 14 November 2024 at 17:30 UTC
+**End of Review Period**: 14 November 2024 at 16:00 UTC
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair, Iñigo Barreira, inigo.barreira at sectigo.com, and also must submit a copy to the CA/B Forum public mailing list, (public at cabforum.org) before the end of the Review Period.
 
