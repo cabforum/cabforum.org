@@ -15,42 +15,9 @@ In order to participate as an Interested Party in the Forum / Working Group, you
 
 1. Send an email to questions@cabforum.org with your name, organization (if applicable), contact details and the signed IPR agreement with the subject: Participation as an Interested Party in the \[Working Group Name\] Working Group.
 
-**Current Interested Parties at the Forum level are:**
+### Current Interested Parties at the Forum level
 
-AGMS Information Technology
-Andrea Fossati
-Andrew Ayer
-Arno Fiedler
-Ben Wilson
-Certizen Limited
-CloudFlare
-Deloitte LLP
-EFF (Electronic Frontier Foundation)
-Envers
-ETSI
-Hydraulic Software AG
-ICANN
-India PKI Forum
-Insta Advance OY
-Intel
-K Software LLC
-KPMG AG
-KPMG Korea
-Keyfactor
-Leader Telecom BV
-Logius PKIoverheid
-MSC Trustgate Sdn Bhd
-Nathalie Weiler
-Peercraft
-PrimeKey
-PSW Group
-Russ Housley
-Schellman and Company LLC
-TeleTrusT
-Trustcor Systems
-TurkTrust
-Vigil Security
-Yahoo Inc
+{{< members wg="Forum" type="Interested Party" >}}
 
 [1]: /bylaws
 [2]: /about/ipr-policy/
