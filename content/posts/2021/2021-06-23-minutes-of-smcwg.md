@@ -6,7 +6,7 @@ date: 2021-06-23 20:51:00
 tags:
 - Minutes
 - S/MIME
-title: Minutes of SMCWG
+title: 2021-06-23 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 
