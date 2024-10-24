@@ -1,12 +1,12 @@
 ---
 aliases:
-- /2022/10/22/smc-002-confirmation-ballot-for-vice-chair/
+- /2022/10/22/ballot-smc02-confirmation-ballot-for-vice-chair/
 author: Ben Wilson
 date: 2022-10-22 18:24:00
 tags:
 - S/MIME
 - Ballot
-title: SMC-002 Confirmation Ballot for Vice Chair
+title: Ballot SMC02 - Confirmation Ballot for Vice Chair
 type: post
 ---
 
