@@ -4,9 +4,12 @@
     {{ partial "header.html" . }}
 
     {{ $sass := resources.Get "scss/main.scss" }}
-    {{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
+    {{ $style := $sass | css.Sass | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
     
+    {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+    {{ end }}
   </head>
   <body>
     <div class="d-none d-lg-block py-2"></div>

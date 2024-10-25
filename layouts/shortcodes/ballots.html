@@ -1,30 +1,16 @@
-{{- $url := (printf "https://member-tools.cabforum.org/api/getBallots?forum_group_name=%s&status=%s" (.Get `wg`) (.Get `status`)) -}}
-{{- $opts := dict
-    "headers" (dict 
-        "X-API-KEY" (getenv "CABF_API_TOKEN")
-        "Accept" "application/json"
-    )
--}}
+{{- $forum_group_name := (or (.Get `forum_group_name`) $.Page.Params.forum_group_name "") -}}
+{{- $status := (or (.Get `status`) $.Page.Params.ballot_status "") -}}
 
-{{- with resources.GetRemote $url $opts -}}
-    {{- with .Err -}}
-        {{- warnf "%s - %s" . $url -}}
-        Unable to retrieve ballots for working-group {{ $.Get `forum_group_name` }} from the membership tools.
-    {{- else -}}
-        {{- with . | transform.Unmarshal -}}
-            <ul>
-                {{- range . -}}
-                <li title='Created at {{ .created_at | time.Format ":date_full" }} in the {{ .forum_group_name }}; current status "{{ .status }}"'>{{ .name }}</li>
-                {{- end -}}
-            </ul>
-        {{- else -}}
-            {{- if and ($.Get `wg`) ($.Get `status`) -}}
-                <em>There are no ballots with the status "{{ $.Get `status` }}" in the {{ $.Get `wg` }}</em>
-            {{- else -}}
-                <em>No ballots in this category</em>
-            {{- end -}}
-        {{- end -}}
+{{- with partial "ballots.html" (dict "forum_group_name" $forum_group_name "status" $status) -}}
+<ul>
+    {{- range . -}}
+    <li id="{{ .name | anchorize }}" title='Created at {{ .created_at | time.Format ":date_full" }} in the {{ .forum_group_name }}; current status "{{ .status }}"'>{{ .name }}</li>
     {{- end -}}
+</ul>
 {{- else -}}
-    {{- warnf "Unable to retrieve the response from %s" $url -}}
+    {{- if and $forum_group_name $status -}}
+        <em>There are no ballots with the status "{{ $status }}" in the {{ $forum_group_name }}</em>
+    {{- else -}}
+        <em>No ballots in this category</em>
+    {{- end -}}
 {{- end -}}

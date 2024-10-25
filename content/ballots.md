@@ -1,7 +1,12 @@
 ---
 date: 2024-10-15 00:00:00
-header: All CA/Browser Forum Ballots 
 title: All CA/Browser Forum Ballots
+
+layout: ballots
+outputs:
+- html
+- ballots-json
+- ballots-rss
 ---
 
 

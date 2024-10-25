@@ -5,38 +5,45 @@ aliases:
 date: 2023-01-03 17:54:54
 linkTitle: Ballots
 title: S/MIME Certificate Working Group Ballots
+
+forum_group_name: S/MIME Certificate Working Group
+layout: ballots
+outputs:
+- html
+- ballots-json
+- ballots-rss
 ---
 
 ## Ballots by Status
 
 ### Voting Period
 
-{{< ballots wg="S/MIME Certificate Working Group" status="Voting Period">}}
+{{< ballots status="Voting Period">}}
 
 ### Review Period
 
-{{< ballots wg="S/MIME Certificate Working Group" status="Review Period">}}
+{{< ballots status="Review Period">}}
 
 ### Discussion Period
 
-{{< ballots wg="S/MIME Certificate Working Group" status="Discussion Period">}}
+{{< ballots status="Discussion Period">}}
 
 ### Draft / Under Consideration
 
-{{< ballots wg="S/MIME Certificate Working Group" status="New">}}  
-{{< ballots wg="S/MIME Certificate Working Group" status="Pre-Ballot">}}
+{{< ballots status="New">}}  
+{{< ballots status="Pre-Ballot">}}
 
 ### Passed
 
-{{< ballots wg="S/MIME Certificate Working Group" status="Ballot Passed">}}
+{{< ballots status="Ballot Passed">}}
 
 ### Cancelled
 
-{{< ballots wg="S/MIME Certificate Working Group" status="Cancelled">}}
+{{< ballots status="Cancelled">}}
 
 ### Failed
 
-{{< ballots wg="S/MIME Certificate Working Group" status="Ballot Failed">}}  
+{{< ballots status="Ballot Failed">}}  
 
 ## Information about Ballots
 {{< list-pages summary=false tags="Ballot,S/MIME" >}}

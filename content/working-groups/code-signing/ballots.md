@@ -5,38 +5,45 @@ aliases:
 date: 2021-09-04 00:52:03
 linkTitle: Ballots
 title: Code Signing Certificate Working Group Ballots
+
+forum_group_name: Code Signing Certificate Working Group
+layout: ballots
+outputs:
+- html
+- ballots-json
+- ballots-rss
 ---
 
 ## Ballots by Status
 
 ### Voting Period
 
-{{< ballots wg="Code Signing Certificate Working Group" status="Voting Period">}}
+{{< ballots status="Voting Period">}}
 
 ### Review Period
 
-{{< ballots wg="Code Signing Certificate Working Group" status="Review Period">}}
+{{< ballots status="Review Period">}}
 
 ### Discussion Period
 
-{{< ballots wg="Code Signing Certificate Working Group" status="Discussion Period">}}
+{{< ballots status="Discussion Period">}}
 
 ### Draft / Under Consideration
 
-{{< ballots wg="Code Signing Certificate Working Group" status="New">}}  
-{{< ballots wg="Code Signing Certificate Working Group" status="Pre-Ballot">}}
+{{< ballots status="New">}}  
+{{< ballots status="Pre-Ballot">}}
 
 ### Passed
 
-{{< ballots wg="Code Signing Certificate Working Group" status="Ballot Passed">}}
+{{< ballots status="Ballot Passed">}}
 
 ### Cancelled
 
-{{< ballots wg="Code Signing Certificate Working Group" status="Cancelled">}}
+{{< ballots status="Cancelled">}}
 
 ### Failed
 
-{{< ballots wg="Code Signing Certificate Working Group" status="Ballot Failed">}}  
+{{< ballots status="Ballot Failed">}}  
 
 ---
 

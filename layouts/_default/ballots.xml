@@ -1,0 +1,19 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ with .Title }}{{.}}{{ else }}CA/Browser Forum Ballots{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ .Description }}</description>
+    <language>en-us</language>
+    {{- with partial "ballots.html" . -}}
+    {{- range . -}}
+    <item>
+      <title>{{ .name }}</title>
+      <link>{{ $.Permalink }}#{{ .name | anchorize }}</link>
+      <pubDate>{{ .created_at | time.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+      <description>{{ .status }} in the {{ .forum_group_name }}</description>
+    </item>
+    {{- end -}}
+    {{- end -}}
+  </channel>
+</rss>

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2024/10/02/ballot-sc-78-Subject organizationName alignment for DBA / Assumed Name
 author: Iñigo Barreira
 date: 2024-10-02
 tags:
