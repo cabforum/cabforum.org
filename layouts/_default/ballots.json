@@ -1,0 +1,3 @@
+{{- with partial "ballots.html" . -}}
+{{- . | jsonify -}}
+{{- end -}}

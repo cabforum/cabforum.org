@@ -5,38 +5,45 @@ aliases:
 date: 2022-02-08 22:11:57
 linkTitle: Ballots
 title: Network Security Working Group Ballots
+
+forum_group_name: Network Security Working Group
+layout: ballots
+outputs:
+- html
+- json
+- rss
 ---
 
 ## Ballots by Status
 
 ### Voting Period
 
-{{< ballots wg="Network Security Working Group" status="Voting Period">}}
+{{< ballots status="Voting Period">}}
 
 ### Review Period
 
-{{< ballots wg="Network Security Working Group" status="Review Period">}}
+{{< ballots status="Review Period">}}
 
 ### Discussion Period
 
-{{< ballots wg="Network Security Working Group" status="Discussion Period">}}
+{{< ballots status="Discussion Period">}}
 
 ### Draft / Under Consideration
 
-{{< ballots wg="Network Security Working Group" status="New">}}  
-{{< ballots wg="Network Security Working Group" status="Pre-Ballot">}}
+{{< ballots status="New">}}  
+{{< ballots status="Pre-Ballot">}}
 
 ### Passed
 
-{{< ballots wg="Network Security Working Group" status="Ballot Passed">}}
+{{< ballots status="Ballot Passed">}}
 
 ### Cancelled
 
-{{< ballots wg="Network Security Working Group" status="Cancelled">}}
+{{< ballots status="Cancelled">}}
 
 ### Failed
 
-{{< ballots wg="Network Security Working Group" status="Ballot Failed">}}  
+{{< ballots status="Ballot Failed">}}  
 
 ## Information about Ballots
 

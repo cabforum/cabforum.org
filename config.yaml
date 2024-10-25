@@ -105,10 +105,19 @@ outputFormats:
   rss:
     mediatype: application/rss
     path: feed
+  ballots-json:
+    mediatype: application/json
+    isPlainText: true
+    baseName: ballots
+  ballots-rss:
+    mediatype: application/rss
+    isPlainText: true
+    baseName: ballots
   redirects:
     baseName: _redirects
     path: /
     isPlainText: true
+    notAlternative: true
 
 outputs:
   home:
@@ -118,7 +127,6 @@ outputs:
   - HTML
   section:
   - HTML
-  - RSS  
 
 caches:
   getjson:

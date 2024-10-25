@@ -1,0 +1,31 @@
+{{- $forum_group_name := (or $.Page.Params.forum_group_name "") -}}
+{{- $status := (or $.Page.Params.ballot_status "") -}}
+
+{{- if and (not .Page) (isset . "forum_group_name") -}}{{- $forum_group_name = .forum_group_name -}}{{- end -}}
+{{- if and (not .Page) (isset . "status") -}}{{- $status = .status -}}{{- end -}}
+
+{{- $url := (printf "https://member-tools.cabforum.org/api/getBallots?forum_group_name=%s&status=%s" $forum_group_name $status) -}}
+{{- $opts := dict
+    "headers" (dict 
+        "X-API-KEY" (getenv "CABF_API_TOKEN")
+        "Accept" "application/json"
+    )
+-}}
+
+{{- $ballots := "" -}}
+{{- with resources.GetRemote $url $opts -}}
+    {{- with .Err -}}
+        {{- warnf "%s - %s" . $url -}}
+        Unable to retrieve ballots for working-group {{ $forum_group_name }} from the membership tools.
+    {{- else -}}
+
+        {{- with . | transform.Unmarshal -}}
+            {{- $ballots = . -}}
+        {{- end -}}
+
+    {{- end -}}
+{{- else -}}
+    {{- warnf "Unable to retrieve the response from %s" $url -}}
+{{- end -}}
+
+{{ return $ballots }}

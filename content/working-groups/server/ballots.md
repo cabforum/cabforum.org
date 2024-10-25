@@ -5,38 +5,47 @@ aliases:
 date: 2021-09-04 00:46:40
 linkTitle: Ballots
 title: Server Certificate Working Group Ballots
+
+params:
+    forum_group_name: Server Certificate Working Group
+
+layout: ballots
+outputs:
+- html
+- ballots-json
+- ballots-rss
 ---
 
 ## Ballots by Status
 
 ### Voting Period
 
-{{< ballots wg="Server Certificate Working Group" status="Voting Period">}}
+{{< ballots status="Voting Period">}}
 
 ### Review Period
 
-{{< ballots wg="Server Certificate Working Group" status="Review Period">}}
+{{< ballots status="Review Period">}}
 
 ### Discussion Period
 
-{{< ballots wg="Server Certificate Working Group" status="Discussion Period">}}
+{{< ballots status="Discussion Period">}}
 
 ### Draft / Under Consideration
 
-{{< ballots wg="Server Certificate Working Group" status="New">}}  
-{{< ballots wg="Server Certificate Working Group" status="Pre-Ballot">}}
+{{< ballots status="New">}}  
+{{< ballots status="Pre-Ballot">}}
 
 ### Passed
 
-{{< ballots wg="Server Certificate Working Group" status="Ballot Passed">}}
+{{< ballots status="Ballot Passed">}}
 
 ### Cancelled
 
-{{< ballots wg="Server Certificate Working Group" status="Cancelled">}}
+{{< ballots status="Cancelled">}}
 
 ### Failed
 
-{{< ballots wg="Server Certificate Working Group" status="Ballot Failed">}}  
+{{< ballots status="Ballot Failed">}}  
 
 ## Information about Ballots
 
