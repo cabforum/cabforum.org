@@ -10,8 +10,8 @@ forum_group_name: Network Security Working Group
 layout: ballots
 outputs:
 - html
-- json
-- rss
+- ballots-json
+- ballots-rss
 ---
 
 ## Ballots by Status

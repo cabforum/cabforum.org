@@ -5,12 +5,14 @@
     <link>{{ .Permalink }}</link>
     <description>{{ .Description }}</description>
     <language>en-us</language>
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- with partial "ballots.html" . -}}
     {{- range . -}}
     <item>
       <title>{{ .name }}</title>
       <link>{{ $.Permalink }}#{{ .name | anchorize }}</link>
-      <pubDate>{{ .created_at | time.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+      <guid>{{ $.Permalink }}#{{ .name | anchorize }}</guid>
+      <pubDate>{{ (time.AsTime .created_at) | time.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <description>{{ .status }} in the {{ .forum_group_name }}</description>
     </item>
     {{- end -}}
