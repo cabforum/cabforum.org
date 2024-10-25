@@ -4,7 +4,7 @@
 {{- with partial "ballots.html" (dict "forum_group_name" $forum_group_name "status" $status) -}}
 <ul>
     {{- range . -}}
-    <li id="{{ .name | anchorize }}" title='Created at {{ .created_at | time.Format ":date_full" }} in the {{ .forum_group_name }}; current status "{{ .status }}"'>{{ .name }}</li>
+    <li id="{{ .name | anchorize }}" title='Created at {{ (time.AsTime .created_at) | time.Format ":date_full" }} in the {{ .forum_group_name }}; current status "{{ .status }}"'>{{ .name }}</li>
     {{- end -}}
 </ul>
 {{- else -}}
