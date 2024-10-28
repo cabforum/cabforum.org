@@ -30,7 +30,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 
 **Guest Speaker:** Cameron Bytheway (Principal Engineer at AWS)  
 **Minutes:**   
-**Presentation link:** [requirements-traceability.pdf](requirements-traceability.pdf)  
+**Presentation link:** [requirements-traceability.pdf](3-Requirements%20Traceability.pdf)  
 **Discussion outside the presentation:**  
 
 * <https://github.com/awslabs/duvet>
@@ -39,7 +39,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 
 **Guest Speaker:** Zane Ma (Oregon State University)  
 **Minutes:**   
-**Presentation link:** [stale-tls-certificates.pdf](stale-tls-certificates.pdf)  
+**Presentation link:** [stale-tls-certificates.pdf](4-2024-10-08-Zane-CAB_Forum.pdf)  
 **Discussion outside the presentation:**  
 
 ### Open Mic  
@@ -117,7 +117,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 
 **Presenter:** Ben Wilson (Mozilla)  
 **Minutes:** Arvid  
-**Presentation link:**    
+**Presentation link:** [Mozilla Root Program update](5-October-2024-Mozilla-News.pdf)  
 **Discussion outside the presentation:**  
       
 * CA Compliance
@@ -157,7 +157,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 
 **Presenter:** Chris Clements and Ryan Dickson (Google)  
 **Minutes:** Martijn  
-**Presentation link:** [chrome-root-program-update.pdf](chrome-root-program-update.pdf)  
+**Presentation link:** [Chrome Root Program update](6-chrome-root-program-update.pdf)  
 **Discussion outside the presentation:**  
 
       
@@ -165,7 +165,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 
 **Presenter:** Clint Wilson (Apple)  
 **Minutes:** Corey  
-**Presentation link:**    
+**Presentation link:** [Apple Root Program update](7-) 
 **Discussion outside the presentation:**  
       
 Policy Updates slide:
@@ -196,7 +196,7 @@ Question from Trev: Is Apple discontinuing OCSP?
 
 **Presenter:** Hannah Sokol (Microsoft Corporation)  
 **Minutes:** Dustin Hollenback (Microsoft Corporation)  
-**Presentation link:**    
+**Presentation link:** [Microsoft Update](8-Microsoft%20F2F%2063%20Presentation.pdf) 
 **Discussion outside the presentation:**
 
 Dimitris Zacharopoulos (HARICA) asked if Microsoft will be introducing a new ballot to support the Microsoft OID referenced in the new recommendations when only using CRLs. Karina Sirota-Goodley (Microsoft) responded that the TLS BRs have list any other policy identifiers as NOT RECOMMENDED, but could be used today. However, there is a plan to draft a ballot to explicitly identify this OID as a "MAY be used".
@@ -209,14 +209,14 @@ Michael Slaughter (Amazon Trust Services) asked about the recommendations. He as
 
 **Presenter:** Eric Hampshire and Chad Dandar (Cisco)  
 **Minutes:** Kiran  
-**Presentation link:**    
+**Presentation link:** [Cisco Root Program Update](9-CISCO%20CABF%20Face%20to%20Face%209OCT2024.pdf)
 **Discussion outside the presentation:**    
 
 ### CCADB Update  
 
 **Presenter:** Clint Wilson (Apple)  
 **Minutes:** Dean Coclin (DigiCert)  
-**Presentation link:** [ccadb-update.pdf](ccadb-update.pdf)
+**Presentation link:** [CCADB Update](10-ccadb-update.pdf)
 **Discussion outside the presentation:**  
 
 - All information was presented in the slides.  
@@ -249,7 +249,7 @@ Dimitris Zacharopoulos suggested CCADB might be expanded to allow CAs to report 
 
 **Presenter:** Arno Fiedler (Vice Chair ETSI ESI)  
 **Minutes:** Arvid  
-**Presentation link:**    
+**Presentation link:**  [ETSI Update](11-ETSI-ESI_Standardisation_Update_for_CAB-Forum-10-2024.pdf)  
 **Discussion outside the presentation:**    
 
 * Changes to trust list models and schemes (119 6xx) - more open for general kind of services   
@@ -266,7 +266,7 @@ Dimitris Zacharopoulos suggested CCADB might be expanded to allow CAs to report 
 
 **Presenter:** Clemens Wanko (ACAB'c Chair)  
 **Minutes:** Ben  
-**Presentation link:**    
+**Presentation link:**  [ACAB'c Update](12-20241008_CAB-Forum_63_ACAB'c_presentation_V0.9.pdf)  
 **Discussion outside the presentation:**  
 
 - Translate normative part of ETSI requirements by the ETSI auditors council. 
@@ -296,7 +296,7 @@ Arno said there are many aspects to discuss, which should be taken offline.
 
 **Presenter:** Tim Crawford (BDO - WebTrust TF), Lilia Dubko (CPA Canada)  
 **Minutes:** Brittany Randall  
-**Presentation link:**    
+**Presentation link:** [WebTrust Update](13-WebTrust%20-%20CABF%20Seattle%2063%20for%20minutes.pdf) 
 **Discussion outside the presentation:**    
 
 ### Q&A Audits and Standards
@@ -312,7 +312,7 @@ Arno said there are many aspects to discuss, which should be taken offline.
 
 **Discussion leader:** Paul van Brouwershaven (Entrust)  
 **Minutes:** Tim Callan  
-**Presentation link:** [brs-of-brs.pdf](brs-of-brs.pdf)  
+**Presentation link:** [BRs of BRs](14-brs-of-brs.pdf)  
 **Discussion outside the presentation:**  
 
 
