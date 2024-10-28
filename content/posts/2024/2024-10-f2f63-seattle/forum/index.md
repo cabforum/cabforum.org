@@ -23,7 +23,14 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 
 **Discussion leader:** Dimitris Zacharopoulos (HARICA),  
 **Minutes:**   
-**Presentation link:**    
+**Presentation link:** [Future F2F meetings](1-CABF_Future%20meetings.pdf)  
+**Discussion outside the presentation:\~**
+
+### CA/B Forum Elections
+
+**Discussion leader:** Dimitris Zacharopoulos (HARICA),  
+**Minutes:**   
+**Presentation link:** [Update on CABF Elections](2-CABF_Elections_2024-status.pdf)  
 **Discussion outside the presentation:\~**
 
 ### Requirement Traceability with RFCs
@@ -45,7 +52,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 ### Open Mic  
 
 **Minutes:** Miguel Sanchez (Google Trust Services)   
-**Discussion outside the presentation:**
+**Discussion outside the presentation:**  
 
 * Trev: NetSec Cloud Meeting and having different versions of the NSRs and how this effects the Webtrust audit criteria   
   * TLS/SMIME BRs adopt NetSec by version   
@@ -158,14 +165,14 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 **Presenter:** Chris Clements and Ryan Dickson (Google)  
 **Minutes:** Martijn  
 **Presentation link:** [Chrome Root Program update](6-chrome-root-program-update.pdf)  
-**Discussion outside the presentation:**  
+**Discussion outside the presentation:**
 
       
 ### Apple Root Program Update
 
 **Presenter:** Clint Wilson (Apple)  
 **Minutes:** Corey  
-**Presentation link:** [Apple Root Program update](7-) 
+**Presentation link:** [Apple Root Program update](7-)  
 **Discussion outside the presentation:**  
       
 Policy Updates slide:
@@ -196,7 +203,7 @@ Question from Trev: Is Apple discontinuing OCSP?
 
 **Presenter:** Hannah Sokol (Microsoft Corporation)  
 **Minutes:** Dustin Hollenback (Microsoft Corporation)  
-**Presentation link:** [Microsoft Update](8-Microsoft%20F2F%2063%20Presentation.pdf) 
+**Presentation link:** [Microsoft Update](8-Microsoft%20F2F%2063%20Presentation.pdf)  
 **Discussion outside the presentation:**
 
 Dimitris Zacharopoulos (HARICA) asked if Microsoft will be introducing a new ballot to support the Microsoft OID referenced in the new recommendations when only using CRLs. Karina Sirota-Goodley (Microsoft) responded that the TLS BRs have list any other policy identifiers as NOT RECOMMENDED, but could be used today. However, there is a plan to draft a ballot to explicitly identify this OID as a "MAY be used".
@@ -209,14 +216,14 @@ Michael Slaughter (Amazon Trust Services) asked about the recommendations. He as
 
 **Presenter:** Eric Hampshire and Chad Dandar (Cisco)  
 **Minutes:** Kiran  
-**Presentation link:** [Cisco Root Program Update](9-CISCO%20CABF%20Face%20to%20Face%209OCT2024.pdf)
+**Presentation link:** [Cisco Root Program Update](9-CISCO%20CABF%20Face%20to%20Face%209OCT2024.pdf)  
 **Discussion outside the presentation:**    
 
 ### CCADB Update  
 
 **Presenter:** Clint Wilson (Apple)  
 **Minutes:** Dean Coclin (DigiCert)  
-**Presentation link:** [CCADB Update](10-ccadb-update.pdf)
+**Presentation link:** [CCADB Update](10-ccadb-update.pdf)  
 **Discussion outside the presentation:**  
 
 - All information was presented in the slides.  
@@ -296,7 +303,7 @@ Arno said there are many aspects to discuss, which should be taken offline.
 
 **Presenter:** Tim Crawford (BDO - WebTrust TF), Lilia Dubko (CPA Canada)  
 **Minutes:** Brittany Randall  
-**Presentation link:** [WebTrust Update](13-WebTrust%20-%20CABF%20Seattle%2063%20for%20minutes.pdf) 
+**Presentation link:** [WebTrust Update](13-WebTrust%20-%20CABF%20Seattle%2063%20for%20minutes.pdf)  
 **Discussion outside the presentation:**    
 
 ### Q&A Audits and Standards
