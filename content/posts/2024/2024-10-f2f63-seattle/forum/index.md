@@ -60,7 +60,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
   * What date should we put on the NSR ballots? Does it matter because the BRs need to adopt the specific NetSec version   
   * What specific version does the Webtrust use? Does it use the version in the TLS BRs or the latest version?   
     * Is this a mismatch of intent?   
-* Dimitris - usually the Webtrust version is 3-6 months behind what the BRs are  
+* Dimitris - usually the Webtrust version is 3-6 months behind the BRs. ETSI had similar issue but it's now aligned with the latest version of the BRs for the CABF Policies
 * Bruce Morton - Dates are really confusing   
   * BRs reference a specific version   
     * You can be audited against the latest version even though the BRs haven't adopted it  
@@ -91,12 +91,12 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
   * Need to answer Tim (BDO) question about the need to have different versions   
 * Ryan - we deeply value predictability   
   * For Chrome - major concern is we don't clearly say whether a new version has been in place for 90 or 180 days that a CA is expected to adhere to that new version   
-* Paul V - One of the reasons that we have different versfion of the NSRs and the need to address it with ballots is the IPR review   
+* Paul V - One of the reasons that we have different version of the NSRs and the need to address it with ballots is the IPR review   
   * One of the fundamental problems with the different dates/versions and is there something that we can to do with the IPR review to address that concern   
 * Dimitris - we are confusing too many things. It's not really an IPR issue   
   * Stuck with IPR review for now  
   * What Stephen states is more a concern: how are we supposed to have two audits, one for NSR 1.7 and another for NSR 2.0   
-    * CAs are required to adhere to the new requirements right away but the Webtrust criteria gets updated much slower. Is this an acceptable risk (i.e. giving the CA 365 days to get audited on the new version of the requirements)  
+    * CAs are required to adhere to the new requirements right away but the Webtrust criteria gets updated much slower. Is this an acceptable risk (i.e. giving the CA 365 days to get audited on the new version of the requirements)? 
 * Brittany - WTCA requires that one gets audited against the CP/CPSes   
   * What about removing the version from those other documents/BRs?   
 * Tobi - Certificate consumers do not expect that CAs should have multi-use environments (i.e. should not use the same infrastructure for TLS and SMIME certificates)   
@@ -104,7 +104,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
   * Not all CAs or Certificate Consumers are members of the NetSec WG   
     * Do they have to be or do they fly blind? Is this acceptable? CAs do need to know when they're going to have to adopt a new set of NSRs   
       * Not having all members in the NetSec WG, miss out on valuable input   
-  * Working critiera for NetSec is that all certificate consumers can participate and this might have implications for participation and voting in ballots  
+  * Working criteria for NetSec is that all certificate consumers can participate and this might have implications for participation and voting in ballots  
 * Tim H - We would have to decide that the NSRs are required for all BRs   
   * CA/BF experts are not NetSec experts   
   * Is this even an IPR issue? We're talking about timelines. This is likely problem of our own creation and does not have IP issues   
@@ -112,11 +112,11 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
   * Specifically to NetSec, simply remove the references of NetSec requirements for all BRs and just have root programs require it   
 * Dimitris - as much as everyone likes that idea, it is against the bylaws and the IPR rules   
   * We have different members in each group that may or not participate in NetSec   
-* Tim (BDO) - CA is not going to get a different report for the same environmnet   
+* Tim (BDO) - CA is not going to get a different report for the same environment   
 * Tim H - does not require all members to participate in NetSec WG since you delegate trust or relying on other WGs to come up with a good set of requirements  
 * Ben W - like the idea of decoupling the NSRs from the BRs and having the root programs say that having an NetSec audit is a requirement  
 * Dimitris - brings up some IPR issues   
-* Trev - can we just have Dimitris take ownershp to review this and figure out the path problem?   
+* Trev - can we just have Dimitris take ownership to review this and figure out the path problem?   
 * Dimitris - default should be version-less and certain WG can carve out exceptions if they need to (e.g. SMIME WG with MPIC)   
 * **Consensus = Dimitris and Ben W will look into this and come up with a proposed solution**
 
@@ -141,17 +141,17 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
     * 283: new inclusion requests need to support automation  
   * CRLite  
     * Currently there are three revocation reasons. The idea is to focus on security-sensitive revocaton reasons instead or ordinary or administrative revocations.   
-    * Mozilla will seek CABF buy in for their reason codes  
-    * Graphs of revocation reasons were presented, most comon reasons are cessation, superseded, key_compromise and unspecified.  
-    * 67% of all revocations is superseded but poisened by a single issuing CA.   
+    * Mozilla will seek CABF buy-in for their reason codes  
+    * Graphs of revocation reasons were presented, most common reasons are cessation, superseded, key_compromise and unspecified.  
+    * 67% of all revocations is superseded but poisoned by a single issuing CA.   
     * Without godaddy 71% unspecified.   
     * Graphs for the issuing CA with largest revocation sets were presented  
     * Conclusion is that there needs to be better guidance and harmonisation on the revocation reason codes. It is suggested the TLS BR need to be modified / improved  
   * Questions / discussion  
     * Revocation reasons  
-      * Somebody asked why reason codes are needed at all: Ben responded they want to segregate security-sensitive from administrative revocations. What when customers submittied the wrong reason?   
-      * Trev mentioned that the only relevant one is key compromise, the others seem to be insignifcant. Key comrpomise seems to be the only one consumers are not confused about.   
-      * Letsencrypt remarked that 99% of revocations are at the request of the ACME client. Their distrubtion has very little to do with their policy, but more with ACME client implementation. For the unspecifieds, a hugh chunk of that is their own testing.   
+      * Somebody asked why reason codes are needed at all: Ben responded they want to segregate security-sensitive from administrative revocations. What when customers submitted the wrong reason?   
+      * Trev mentioned that the only relevant one is key compromise, the others seem to be insignificant. Key compromise seems to be the only one consumers are not confused about.   
+      * LetsEncrypt remarked that 99% of revocations are at the request of the ACME client. Their distribution has very little to do with their policy, but more with ACME client implementation. For the unspecified, a huge chunk of that is their own testing.
       * Trev remarked that CA can't educate users on the reasons.  
       * Ryan Dickinson said if we want to group everything security sensitive under key\_compromise this might unintentionally blacklist certain keys for no further issuance even if that is not required  
       * Trev remarked that key compromise is the only one that consumers seem to be able to properly understand / comprehend  
@@ -179,12 +179,12 @@ Policy Updates slide:
 
 - S/MIME audit reports must be submitted to CCADB prior to 2024-12-01. Some CAs have disclosed reports for other certificate types but have not yet for S/MIME.
 
-Reminders and Genreal Information slide:
+Reminders and General Information slide:
 
 - Qualified audit reports increase the confidence in the auditor and CA, so qualified audits are not solely negative. They also identify opportunities for improvement.  
-- The Apple Root Program is largely satisfied with the state of the ecosystem. There are several areas that can be improved, but there is no fundamental dissatisfaction with the webPKI ecosystem. There is appreciation for individuals, many of whom are not in the Forum, that really demonstrate in an ongoing fashion, their deep commitment to the health and wellbeing of the Web PKI. This does not go unnoticed.   
+- The Apple Root Program is largely satisfied with the state of the ecosystem. There are several areas that can be improved, but there is no fundamental dissatisfaction with the webPKI ecosystem. There is appreciation for individuals, many of whom are not in the Forum, that really demonstrate in an ongoing fashion, their deep commitment to the health and well-being of the Web PKI. This does not go unnoticed.   
 - It's important to send incidents to certificate-authority-program@apple.com. Just this year, over 100 incidents have not been reported to this email address.  
-- Apologies for delays or gaps in communication, especially related to inclusion request cases. These are not being ignored, but the program is working through substaintial resource constraints. Please actively engage and follow-up with your inclusion requests. Overcommunicate whenever possible.
+- Apologies for delays or gaps in communication, especially related to inclusion request cases. These are not being ignored, but the program is working through substantial resource constraints. Please actively engage and follow-up with your inclusion requests. Over-communicate whenever possible.
 
 Policy Matching slide:
 
@@ -210,7 +210,7 @@ Dimitris Zacharopoulos (HARICA) asked if Microsoft will be introducing a new bal
 
 Wayne Thayer (Fastly) asked about Root inclusion status. It has been over 2 years since Fastly submitted a root inclusion request. Karina Sirota-Goodley (Microsoft) responded that new root CAs are still not being approved. This will be announced the moment this becomes available again.
 
-Michael Slaughter (Amazon Trust Services) asked about the recommendations. He asked if there will be an interoperability concnern if the recommendations are not implemented. Karina responded that the recommendations are based on best practices especially with larger CRLs. These are suggestions to reduce potential issues with Windows.  
+Michael Slaughter (Amazon Trust Services) asked about the recommendations. He asked if there will be an interoperability concern if the recommendations are not implemented. Karina responded that the recommendations are based on best practices especially with larger CRLs. These are suggestions to reduce potential issues with Windows.  
     
 ### CISCO Root Program Update  
 
@@ -227,7 +227,7 @@ Michael Slaughter (Amazon Trust Services) asked about the recommendations. He as
 **Discussion outside the presentation:**  
 
 - All information was presented in the slides.  
-- No disussion.
+- No discussion.
       
 ### Q&A Root Program 
 
@@ -250,7 +250,7 @@ Ben noted that the CCADB website included many reports, including derived trust 
 
 Clemens Wanko noted that the ACAB’c guidance for ETSI CABs referred to the CCADB website and guidance. 
 
-Dimitris Zacharopoulos suggested CCADB might be expanded to allow CAs to report their list the registers they use in their EV vetting of corporate entities.  CAs have been disclosing this information for years, but in an inconsistent manner.  Adding this to CCADB would make these lists machine parseable and potentially better auditable.    
+Dimitris Zacharopoulos suggested CCADB might be expanded to allow CAs to report their list Incorporating/Registration Agencies used in their EV vetting. CAs have been disclosing this information for years, but in an inconsistent manner.  Adding this to CCADB would make these lists machine parseable and potentially better auditable.    
         
 ### ETSI Update  
 
@@ -262,7 +262,7 @@ Dimitris Zacharopoulos suggested CCADB might be expanded to allow CAs to report 
 * Changes to trust list models and schemes (119 6xx) - more open for general kind of services   
 * EN 319 401 - New version published, changes upcoming once NIS2 implementing act is available - provides support for a single audit covering NIS2, eIDAS and CABF requirements  
 * TS 119 461: Identity proofing - new level of identity proofing.   
-* EN 319 412-x: updates - NTR trade identified region identifier, last CRL issued, alginment with 319 401 NIS2. Further updates to 319 412-2 to match CABF updates. EN 319 412-5 QC statement: new QC statement on verification method  
+* EN 319 412-x: updates - NTR trade identified region identifier, last CRL issued, alignment with 319 401 NIS2. Further updates to 319 412-2 to match CABF updates. EN 319 412-5 QC statement: new QC statement on verification method  
 * EN 319 102-1: updates to signature creation and validation AdES  
 * EN 119 172-4-1: various updates  
 * EUDI wallet was explained/shown through diagram  
@@ -283,13 +283,13 @@ Three minor changes to AAL templates.
 Version 3.3 released today with reference to the Network Security Audit Statements  
 Matthias is working on  Key Generation Attestation Template.  
 Templates are available at [https://acab-c/downloads](https://acab-c/downloads)  
-CCADB team has published [https://www.ccadb.org/Auditors](https://www.ccadb.org/Auditors) and has recommended that audits identify all relevant SHA256 thunbprints based on CSV file at ccadb.org/resources. Once you filter the CA owner and the applicable policy you have a list of what needs to be covered in the audit.
+CCADB team has published [https://www.ccadb.org/Auditors](https://www.ccadb.org/Auditors) and has recommended that audits identify all relevant SHA256 thumbprints based on CSV file at ccadb.org/resources. Once you filter the CA owner and the applicable policy you have a list of what needs to be covered in the audit.
 
 **European eIDAS2 Revision**  
 There are potentially 450 million wallet users - Wallet solutions will be available by November 2026\. All components of wallet will be subject to conformity assessment.  
 
 **Questions and Answers**  
-Dimitris noted that digital wallets will facilitate identity verifications required by the Forum's Baseline Requirements.
+Dimitris noted that EU Digital Identity Wallets will provide strong identity proofing, facilitating identity verifications required by all Baseline Requirements (TLS, S/MIME, Code Signing).
 
 Clint noted that there is not an explicit incorporation of the Network and Certificate System Security Requirements (NCSSRs) in ETSI criteria. Inigo said that they are already included in ETSI requirements.  
 Dimitris said they are included because 411 part 1 and part 2 list the Baseline Requirements.   
