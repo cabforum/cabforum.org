@@ -295,9 +295,16 @@ Clint noted that there is not an explicit incorporation of the Network and Certi
 Dimitris said they are included because 411 part 1 and part 2 list the Baseline Requirements.   
 It was agreed that the NCSSRs are not explicitly referenced.
 
-Scott Rea asked about inclusion of TSP attribute audits  ...    
-Clemens - an attribute must be linked ...  
-Arno said there are many aspects to discuss, which should be taken offline.
+Scott Rea asked about the new categories of QTSPs and whether everything was in place to certify those new types of QTSPs and also about the first category of QTSPs, which are Attribute Providers.  Do these Attribute Providers provide services for identity, or is this category for a more general type of attribute? 
+
+Arno provided the normative part of the answer.  ETSI has started to develop the normative requirements documents, which his slide presentation did not show.  There are many new types of qualified services besides just Attribute Services. ETSI is waiting for implementing acts that will provide them with more guidance. So, if you want to offer this type of service, you’ll have to wait about 9 months to put it into practice. 
+
+Clemens said that the same is true for auditing these four new types of trust services.  They are waiting for secondary legislation/ implementing acts/regulations that will provide guidance.  EIDAS2 was put into place without a grace period.  Regarding Scott’s question, the concept is to source the wallet with additional identity documents.  So, an attribute must be immediately linked with an electronic identity. For example, the wallet ordinarily just comes with my identity as a natrual person, but if I want to add a drivers license, then that attrbitute can be added on top for me as an attestation by a qualified TSP that provides that Attribute Service. Other examples include Powers of Attorney, as a legal person. 
+
+Scott asked whether mdocs and vcals would be accomodated. 
+
+Arno said that there is an architectural reference for these, as well as for JSON web tokens, OpenID for verified credential formats, etc.  Arno said there are many aspects to discuss, which should be taken offline.
+
 
 ### WebTrust Update  
 
