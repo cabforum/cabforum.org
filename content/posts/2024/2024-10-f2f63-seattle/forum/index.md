@@ -153,7 +153,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
       * Trev mentioned that the only relevant one is key compromise, the others seem to be insignificant. Key compromise seems to be the only one consumers are not confused about.   
       * LetsEncrypt remarked that 99% of revocations are at the request of the ACME client. Their distribution has very little to do with their policy, but more with ACME client implementation. For the unspecified, a huge chunk of that is their own testing.
       * Trev remarked that CA can't educate users on the reasons.  
-      * Ryan Dickinson said if we want to group everything security sensitive under key\_compromise this might unintentionally blacklist certain keys for no further issuance even if that is not required  
+      * Ryan D said if we want to group everything security sensitive under key\_compromise this might unintentionally blocklist certain keys for no further issuance even if that is not required  
       * Trev remarked that key compromise is the only one that consumers seem to be able to properly understand / comprehend  
       * Aaron said that even key compromise is not properly understood as their are ACME clients that always revoke with key compromise whatever the proper reason. Also there is some other improper behaviour in ACME clients that enforces LE to use the key compromise reason, even if it wasn't a proper one  
       * Trev suggested that we could specify a specific reason for CAs revocation test infrastructure so that the data is more representative  
