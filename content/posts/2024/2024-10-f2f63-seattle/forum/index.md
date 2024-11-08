@@ -167,6 +167,32 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 **Presentation link:** [Chrome Root Program update](6-chrome-root-program-update.pdf)  
 **Discussion outside the presentation:**
 
+* Dimitris: Phasing out clientAuth use-cases, is this related to the EKU that are not also server certificates?
+* Chrome Root Program: Our proposed change is to remove the clientAuth EKU from all TLS server certificates.
+
+* Dean: What are the plans for the shorter validity period for leaf certificates? There seem to be people floating some dates, but we don’t see anything from the Chrome side yet
+* Chrome Root Program: We have no date set for this and cannot speculate this at the moment. We do think it's important for the community to take this transition seriously.
+
+* Wayne: The concern I have is that without a date, the industry might not get ready. It seems like when we do get a date out, it might be near-term, which is something that does worry people.
+* Chrome Root Program: We do understand that concern. We would note that anyone in this community that does believe in this change, is free to put forward a ballot to start such a process. You don’t need to wait for us, and we encourage everyone who does believe this is the way forward to do so.
+
+* Trev: I would generalize Wayne’s point as a point to take into account for any change. We expect clientAuth EKU deprecation to have a fairly large impact as well. I do wonder what exactly you do intend by the phasing out of multi-purpose roots?
+* Chrome Root Program: We do consider this the time for CAs to take a path forward themselves, so we don’t need to force them, that may however occur in the future.
+* Trev: I do expect such a change might also be a fairly large impact.
+* Chrome Root Program: With exception to pinning, we don’t believe this should be too much of a pain for customers. If CAs know of other pain points around this we strongly encourage them to reach out to us.
+
+* Dustin: Back to clientAuth, I’m already hearing from Subscribers. What timeline would you expect for this, was that 90 days?
+* Chrome Root Program: No the 90 days would be our preflight period for any policy changes. We envision an effective date on clientAuth deprecation of 18 months. 
+
+* Tobias: The reduction of lifetime is a general concern to actors within the ecosystem. The problem with the proposal is that it’s scary for these actors. And while we generally agree this is the way forward, we don’t have the leaver to bring about. So the question to all here is how can we make this a seamless transition.
+* Chrome Root Program: We already have automation requirements for new participants in our current policy to aid with this. We also encourage the use of ACME and ARI for all CAs.
+* Tobias: I don’t just mean CAs however, there’s also the infrastructure side. There’s a lack of solutions and preparation. How can we make that happen.
+* Trev: We do focus a lot on the reduction, because it seems we at least understand it, but we’re just not acting on it yet. Sadly for us the ClientAuth deprecation is more scary, since CAs don’t know where there roots are embedded, what they’re being used for, and thus what might break.
+* Paul: We don’t really do this type of ourreach as a Forum to external parties. So one of the questions is what can we as a group do to ephasize this more. 
+* Slaughter: To emphasise on what Trev says, indeed we do need to seriously consider what impact some of these items will have, since CAs really don’t always know where their roots are deployed.
+* Emily: To clarify, with that do you mean the Subscribers own trust stores?
+* Slaughter: Yes
+
       
 ### Apple Root Program Update
 
