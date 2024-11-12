@@ -198,7 +198,7 @@ Aaron Poulsen (Amazon Trust Services), Abhishek Bhat - (eMudhra), Adam Jones (Mi
 
 **Presenter:** Clint Wilson (Apple)  
 **Minutes:** Corey  
-**Presentation link:** [Apple Root Program update](7-)  
+**Presentation link:** [Apple Root Program update](7-October-2024-Apple.pdf)  
 **Discussion outside the presentation:**  
       
 Policy Updates slide:
