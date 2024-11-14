@@ -37,8 +37,8 @@ This ballot proposes a Final Maintenance Guideline. This ballot does not conflic
 
 ### Vote for approval (7 days):
 
-*	TBD
-*	TBD
+* Start time: November 14, 2024 at 20:00:00 UTC
+* End time: November 21, 2024 at 20:00:00 UTC
 
 ### IPR Review (30 days)
 
