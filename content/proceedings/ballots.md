@@ -20,9 +20,9 @@ Beginning with the adoption of the Extended Validation Guidelines in June 2007, 
 
 {{< ballots status="Voting Period">}}
 
-### Review Period
+### IPR Review Period
 
-{{< ballots status="Review Period">}}
+{{< ballots status="IPR Review Period">}}
 
 ### Discussion Period
 
