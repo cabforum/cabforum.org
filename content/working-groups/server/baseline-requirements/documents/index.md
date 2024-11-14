@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.0.9][TBR209] ([redlined][TBR209r]) – adopted by Ballot [SC78][sc78]
+[CA-Browser-Forum TLS BR 2.1.0][TBR210] ([redlined][TBR210r]) – adopted by Ballot [SC76][sc76]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.0.9][TBR209] ([redlined][TBR209r]) – adopted by Ballot [SC78][sc78]
 
 [CA-Browser-Forum TLS BR 2.0.8][TBR208] ([redlined][TBR208r]) – adopted by Ballot [SC77][sc77]
 
@@ -193,6 +195,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR210]: CA-Browser-Forum-TLS-BR-2.1.0.pdf
+[TBR210r]: CA-Browser-Forum-TLS-BR-2.1.0-redlined.pdf
+[sc76]: /2024/10/14/ballot-sc-76v2-clarify-and-improve-ocsp-requirements/
 [TBR209]: CA-Browser-Forum-TLS-BR-2.0.9.pdf
 [TBR209r]: CA-Browser-Forum-TLS-BR-2.0.9-redlined.pdf
 [sc78]: /2024/10/02/ballot-sc-78-subject-organizationname-alignment-for-dba-/-assumed-name/
