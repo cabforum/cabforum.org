@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.1.0][TBR210] ([redlined][TBR210r]) – adopted by Ballot [SC76][sc76]
+[CA-Browser-Forum TLS BR 2.1.1][TBR211] ([redlined][TBR211r]) – adopted by Ballot [SC79][sc79]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.1.0][TBR210] ([redlined][TBR210r]) – adopted by Ballot [SC76][sc76]
 
 [CA-Browser-Forum TLS BR 2.0.9][TBR209] ([redlined][TBR209r]) – adopted by Ballot [SC78][sc78]
 
@@ -195,6 +197,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR211]: CA-Browser-Forum-TLS-BR-2.1.1.pdf
+[TBR211r]: CA-Browser-Forum-TLS-BR-2.1.1-redlined.pdf
+[sc79]: /2024/10/14/ballot-sc-79v2-allow-more-than-one-certificate-policy-in-a-cross-certified-subordinate-ca-certificate/
 [TBR210]: CA-Browser-Forum-TLS-BR-2.1.0.pdf
 [TBR210r]: CA-Browser-Forum-TLS-BR-2.1.0-redlined.pdf
 [sc76]: /2024/10/14/ballot-sc-76v2-clarify-and-improve-ocsp-requirements/
