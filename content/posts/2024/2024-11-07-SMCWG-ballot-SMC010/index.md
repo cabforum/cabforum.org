@@ -14,10 +14,11 @@ type: post
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice in red-line is at [https://cabforum.org/2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf](https://cabforum.org/2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf).
 
-Start of Review Period: 1600 UTC on November 22, 2024
-End of Review Period: 1600 UTC on December 22, 2024
+* Start of Review Period: 1600 UTC on November 22, 2024
 
-Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to Iñigo Barreira ) and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
+* End of Review Period: 1600 UTC on December 22, 2024
+
+Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair and also submit a copy to the CA/B Forum public mailing list (public at cabforum.org) before the end of the Review Period.
 
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
 
