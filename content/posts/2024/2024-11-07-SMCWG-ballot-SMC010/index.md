@@ -9,6 +9,20 @@ tags:
 title: 'Ballot SMC010 - Introduction of Multi-Perspective Issuance Corroboration'
 type: post
 ---
+
+## IPR Review of Ballot SMC010: Introduction of Multi-Perspective Issuance Corroboration 
+
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice in red-line is at https://cabforum.org/posts/2024/2024-11-07-SMCWG-ballot-SMC010/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf.
+
+Start of Review Period: 1600 UTC on November 22, 2024
+End of Review Period: 1600 UTC on December 22, 2024
+
+Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to Iñigo Barreira ) and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
+
+For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
+
+(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf)
+
 ## Results of Ballot SMC010: Introduction of Multi-Perspective Issuance Corroboration 
 
 The voting period for SMC010: Introduction of Multi-Perspective Issuance Corroboration has completed. The ballot has: PASSED
