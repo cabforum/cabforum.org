@@ -12,7 +12,7 @@ type: post
 
 ## IPR Review of Ballot SMC010: Introduction of Multi-Perspective Issuance Corroboration 
 
-This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice in red-line is at https://cabforum.org/posts/2024/2024-11-07-SMCWG-ballot-SMC010/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf.
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice in red-line is at [https://cabforum.org/2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf](https://cabforum.org/2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf).
 
 Start of Review Period: 1600 UTC on November 22, 2024
 End of Review Period: 1600 UTC on December 22, 2024
