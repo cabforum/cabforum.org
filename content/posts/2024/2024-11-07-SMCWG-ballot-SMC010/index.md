@@ -9,6 +9,36 @@ tags:
 title: 'Ballot SMC010 - Introduction of Multi-Perspective Issuance Corroboration'
 type: post
 ---
+## Results of Ballot SMC010: Introduction of Multi-Perspective Issuance Corroboration 
+
+The voting period for SMC010: Introduction of Multi-Perspective Issuance Corroboration has completed. The ballot has: PASSED
+
+### Voting Results
+
+#### Certificate Issuers
+16 votes in total:
+* 16 voting YES: Actalis S.p.A., Chunghwa Telecom, DigiCert, Disig, eMudhra, Entrust, GlobalSign, HARICA, IdenTrust, Logius PKIoverheid, OISTE Foundation, SECOM Trust Systems, Sectigo, SwissSign, TWCA, VikingCloud
+* 0 voting NO:
+* 0 ABSTAIN:
+
+#### Certificate Consumers
+4 votes in total:
+* 4 voting YES: Apple, Google, Mozilla, rundQuadrat
+* 0 voting NO:
+* 0 ABSTAIN:
+
+### Bylaws Requirements
+
+1. Bylaw 2.3(6) requires:
+* In order for a ballot to be adopted by the Forum, two‐thirds (2/3) or more of the votes cast by the Voting Members in the Certificate Issuer category must be in favour of the ballot. This requirement was MET.
+* at least fifty percent (50%) plus one (1) of the votes cast by the Voting Members in the Certificate Consumer category must be in favour of the ballot. This requirement was MET.
+* At least one (1) Voting Member in each category must vote in favour of a ballot for the ballot to be adopted. This requirement was MET.
+2. Bylaw 2.3(7) requires:
+* A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
+* The quorum was 11 for this ballot. This requirement was MET.
+
+This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues. This will be notified in a separate email.
+
 ## Ballot SMC010: Introduction of Multi-Perspective Issuance Corroboration 
 
 ### Summary: 
