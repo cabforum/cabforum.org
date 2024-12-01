@@ -11,38 +11,38 @@ The CA/Browser Forum strives to be a consensus-driven organization. There is no 
 
 ## Current CA/Browser Forum Chair and Vice Chair
 
-- Chairperson: Dimitris Zacharopoulos ([HARICA][3])
-- Vice-Chairperson: Paul van Brouwershaven ([Entrust][4])
+- Chairperson: Dean Coclin ([Digicert][7])
+- Vice-Chairperson: Tim Callan ([Sectigo][5])
 
-_Term begins Nov 1, 2022 and ends Oct 31, 2024._
+_Term begins Dec 1, 2024 and ends Nov 30, 2026._
 
 ## Server Certificate Working Group
 
-- Chairperson: Iñigo Barreira ([Sectigo][5])
-- Vice-Chairperson: Kiran Tummala ([Microsoft][6])
+- Chairperson: Dimitris Zacharopoulos ([HARICA][3])
+- Vice-Chairperson: Wayne Thayer ([Fastly][9])
 
-_Term begins Nov 1, 2022 and ends Oct 31, 2024_
+_Term begins Dec 1, 2024 and ends Nov 30, 2026._
 
 ## Code-Signing Certificate Working Group
 
-- Chairperson: Dean Coclin ([Digicert][7])
-- Vice-Chairperson: Bruce Morton ([Entrust][4])
+- Chairperson: Martijn Katerbarg ([Sectigo][5])
+- Vice-Chairperson: Thomas Zermeno ([SSL.com][10])
 
-_Term begins _Nov 1, 2022 and ends Oct 31, 2024_._
+_Term begins Dec 1, 2024 and ends Nov 30, 2026._
 
 ## SMIME Certificate Working Group
 
 - Chairperson: Stephen Davidson ([Digicert][7])
 - Vice-Chairperson: Martijn Katerbarg ([Sectigo][5])
 
-_Term begins _Nov 1, 2022 and ends Oct 31, 2024__
+_Term begins Dec 1, 2024 and ends Nov 30, 2026._
 
 ## Network Security Working Group 
 
 - Chairperson: Clint Wilson ([Apple][8])
 - Vice-Chairperson: David Kluge ([Google Trust Services](https://pki.goog/))
 
-_Term begins Nov 1, 2022 and ends Oct 31, 2024_
+_Term begins Dec 1, 2024 and ends Nov 30, 2026._
 
 [1]: /about/bylaws-history/ "Bylaws"
 [2]: /about/leadership/past-chairs/
@@ -52,3 +52,5 @@ _Term begins Nov 1, 2022 and ends Oct 31, 2024_
 [6]: https://www.microsoft.com
 [7]: https://www.digicert.com
 [8]: https://www.apple.com/
+[9]: https://www.fastly.com/
+[10]: https://www.ssl.com/
