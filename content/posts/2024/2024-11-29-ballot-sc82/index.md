@@ -12,7 +12,7 @@ type: post
 
 ## Voting Results
 
-The voting period for Ballot SC82: Clarify CA Assisted DNS Validation under 3.2.2.4.7 has completed. The ballot has: ***FAILED***
+The voting period for Ballot SC82: Clarify CA Assisted DNS Validation under 3.2.2.4.7 has completed. The ballot has: **FAILED**
 
 ### Certificate Issuers
 
@@ -46,11 +46,11 @@ The quorum was 16 for this ballot. This requirement was **MET**.
 ## Ballot Contents
 Ballot SC-082 is proposed by Michael Slaughter (Amazon Trust Services) and endorsed by Martijn Katerbarg (Sectigo) and Wayne Thayer (Fastly).
 
-***Purpose of Ballot SC-082***
+**Purpose of Ballot SC-082**
 
 The purpose of this ballot is to clarify the practice of CA Assisted DNS Validation and add constraints under Method 7 (3.2.4.4.7 DNS Change). Modification of other domain validation methods and the introduction of new domain validation methods are not in scope of this ballot but may be addressed in a future ballot.
 
-***Background***
+**Background**
 
 CA Assisted DNS Validation is the practice where Certification Authorities (CAs) instruct Applicants to create Canonical Name (CNAME) records specifically for the purpose of assisting the Applicant with Domain Control Verification (DCV) of their domain.
 
@@ -63,7 +63,7 @@ At F2F 59 (July 23’), the Validation Subcommittee of the Server Certificate WG
 
 A tiger team was formed to threat model CA Assisted DNS Validation and propose modifications to the BRs to add clarity and constraints around the practice under section 3.2.2.4.7. The results of the threat model exercise [1] were presented and discussed at F2F 60 [2] and F2F 61 [3].
 
-***Overview of Changes***
+**Overview of Changes**
 
 * New definition: Canonical Authorization Domain Name
 * Add Canonical Authorization Domain Names into section 3.2.2.4.7 (DNS Change)
@@ -72,7 +72,7 @@ A tiger team was formed to threat model CA Assisted DNS Validation and propose m
    * Expire DNS lookup results after 8 hours
    * Restrict the type of DNS records located in zones used for this purpose.
 
-***References***
+**References**
 
 [1]: Validation SC Threat Modeling Doc: https://docs.google.com/document/d/1G2GYb0eg0rqE23f844J8qs7RYGU1jFVDsU5Pf7UYg3g/edit
 
