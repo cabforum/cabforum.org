@@ -18,7 +18,7 @@ outputs:
 
 ### IPR Review Period
 
-{{< ballots status="IPR Review Period">}}
+{{< ballots status="IPR Review">}}
 
 ### Discussion Period
 
@@ -31,7 +31,7 @@ outputs:
 
 ### Passed
 
-{{< ballots status="Ballot Passed">}}
+{{< ballots status="Ballot Passed - IPR Review Period Cleared">}}
 
 ### Cancelled
 
