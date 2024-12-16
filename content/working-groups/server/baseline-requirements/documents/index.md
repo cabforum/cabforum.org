@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.1.1][TBR211] ([redlined][TBR211r]) – adopted by Ballot [SC79][sc79]
+[CA-Browser-Forum TLS BR 2.1.2][TBR212] ([redlined][TBR212r]) – adopted by Ballot [SC80][sc80]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.1.1][TBR211] ([redlined][TBR211r]) – adopted by Ballot [SC79][sc79]
 
 [CA-Browser-Forum TLS BR 2.1.0][TBR210] ([redlined][TBR210r]) – adopted by Ballot [SC76][sc76]
 
@@ -197,9 +199,12 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR212]: CA-Browser-Forum-TLS-BR-2.1.2.pdf
+[TBR212r]: CA-Browser-Forum-TLS-BR-2.1.2-redlined.pdf
 [TBR211]: CA-Browser-Forum-TLS-BR-2.1.1.pdf
 [TBR211r]: CA-Browser-Forum-TLS-BR-2.1.1-redlined.pdf
 [sc79]: /2024/10/14/ballot-sc-79v2-allow-more-than-one-certificate-policy-in-a-cross-certified-subordinate-ca-certificate/
+[sc80]: /2024/10/14/ballot-sc-80-Sunset-the-use-of-WHOIS-to-identify-Domain-Contacts-and-relying-DCV-Methods
 [TBR210]: CA-Browser-Forum-TLS-BR-2.1.0.pdf
 [TBR210r]: CA-Browser-Forum-TLS-BR-2.1.0-redlined.pdf
 [sc76]: /2024/10/14/ballot-sc-76v2-clarify-and-improve-ocsp-requirements/
