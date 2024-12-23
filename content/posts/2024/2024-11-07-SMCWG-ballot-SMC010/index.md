@@ -10,6 +10,13 @@ title: 'Ballot SMC010 - Introduction of Multi-Perspective Issuance Corroboration
 type: post
 ---
 
+The Intellectual Property Review (IPR) period for Ballot SMC010 (Introduction of Multi-Perspective Issuance Corroboration) has completed. 
+
+No IPR Exclusion Notices were filed, and the ballot is adopted as of December 22, 2024.
+
+The new S/MIME BR v.1.0.8 have been published to the CABF public website in accordance with the Bylaws:  https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.8.pdf
+
+
 ## IPR Review of Ballot SMC010: Introduction of Multi-Perspective Issuance Corroboration 
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice in red-line is at [https://cabforum.org/2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf](https://cabforum.org/2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf).
