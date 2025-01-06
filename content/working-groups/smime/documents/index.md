@@ -50,7 +50,7 @@ NA
 [12]: /2024/05/24/ballot-smc07-align-logging-requirement-and-key-escrow-clarification/
 [13]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.6.pdf
 [14]: /2024/07/15/ballot-smc08-deprecate-legacy-generation-profiles-and-minor-updates/
-[15]: /2024/2024-10-23-SMCWG-ballot-SMC09/CA-Browser-Forum-SMIMEBR-1.0.7-Redline.pdf
+[15]: /posts/2024/2024-10-23-SMCWG-ballot-SMC09/CA-Browser-Forum-SMIMEBR-1.0.7-Redline.pdf
 [16]: /2024/2024-10-09-SMCWG-ballot-SMC09/
 [17]: /2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/CA-Browser-Forum-SMIMEBR-1.0.8-Redline.pdf
 [18]: /2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/
