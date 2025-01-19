@@ -6,7 +6,7 @@ date: 2019-09-10 20:26:45
 tags:
 - Ballot
 - Server Certificates
-title: Ballot SC022v2: Reduce Certificate Lifetimes
+title: 'Ballot SC022v2: Reduce Certificate Lifetimes'
 type: post
 ---
 

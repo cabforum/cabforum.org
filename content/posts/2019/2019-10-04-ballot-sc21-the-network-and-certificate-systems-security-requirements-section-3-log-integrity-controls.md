@@ -6,8 +6,7 @@ date: 2019-10-04 03:49:15
 tags:
 - Ballot
 - Server Certificates
-title: Ballot SC021: The Network and Certificate Systems Security Requirements section
-  3 (Log Integrity Controls)
+title: 'Ballot SC021: The Network and Certificate Systems Security Requirements section 3 (Log Integrity Controls)'
 type: post
 ---
 

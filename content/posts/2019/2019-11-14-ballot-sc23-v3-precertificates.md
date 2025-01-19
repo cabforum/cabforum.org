@@ -6,7 +6,7 @@ date: 2019-11-14 16:40:22
 tags:
 - Ballot
 - Server Certificates
-title: Ballot SC023v3: Precertificates
+title: 'Ballot SC023v3: Precertificates'
 type: post
 ---
 
