@@ -6,7 +6,7 @@ date: 2024-10-14
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-79v2: Allow more than one Certificate Policy in a Cross-Certified Subordinate CA Certificate'
+title: 'Ballot SC079v2: Allow more than one Certificate Policy in a Cross-Certified Subordinate CA Certificate'
 type: post
 ---
 

@@ -6,7 +6,7 @@ date: 2021-06-30 04:11:34
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC47v2: Sunset subject:organizationalUnitName'
+title: 'Ballot SC047v2: Sunset subject:organizationalUnitName'
 type: post
 ---
 

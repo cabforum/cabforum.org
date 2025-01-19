@@ -6,7 +6,7 @@ date: 2021-09-27 14:36:33
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC49: Special Election for Server Certificate Working Group Vice-Chair'
+title: 'Ballot SC049: Special Election for Server Certificate Working Group Vice-Chair'
 type: post
 ---
 

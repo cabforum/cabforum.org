@@ -6,7 +6,7 @@ date: 2022-01-01 15:46:45
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-52 v 2: Specify CRL Validity Intervals in Seconds'
+title: 'Ballot SC052v2: Specify CRL Validity Intervals in Seconds'
 type: post
 ---
 

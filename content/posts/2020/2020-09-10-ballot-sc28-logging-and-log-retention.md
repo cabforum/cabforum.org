@@ -6,7 +6,7 @@ date: 2020-09-10 18:03:17
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC28: Logging and Log Retention'
+title: 'Ballot SC028: Logging and Log Retention'
 type: post
 ---
 

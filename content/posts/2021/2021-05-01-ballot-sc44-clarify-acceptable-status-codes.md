@@ -6,7 +6,7 @@ date: 2021-05-01 01:13:13
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC44: Clarify Acceptable Status Codes'
+title: 'Ballot SC044: Clarify Acceptable Status Codes'
 type: post
 ---
 

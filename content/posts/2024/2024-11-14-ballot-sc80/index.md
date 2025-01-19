@@ -6,7 +6,7 @@ date: 2024-11-14
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-80v3: Sunset the use of WHOIS to identify Domain Contacts and relying DCV Methods'
+title: 'Ballot SC080v3: Sunset the use of WHOIS to identify Domain Contacts and relying DCV Methods'
 type: post
 ---
 

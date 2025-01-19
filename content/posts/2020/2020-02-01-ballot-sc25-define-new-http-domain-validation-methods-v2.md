@@ -6,7 +6,7 @@ date: 2020-02-01 15:06:46
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC25: Define New HTTP Domain Validation Methods v2'
+title: 'Ballot SC025: Define New HTTP Domain Validation Methods v2'
 type: post
 ---
 

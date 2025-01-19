@@ -7,7 +7,7 @@ tags:
 - Ballot
 - Network Security
 - Server Certificates
-title: 'Ballot SC51: Reduce and Clarify Audit Log and Records Archival Retention Requirements'
+title: 'Ballot SC051: Reduce and Clarify Audit Log and Records Archival Retention Requirements'
 type: post
 ---
 

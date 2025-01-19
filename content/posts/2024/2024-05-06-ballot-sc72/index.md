@@ -6,7 +6,7 @@ date: 2024-03-25
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-72: Delete except to policyQualifiers in EVGs; align with BRs by making them NOT RECOMMENDED'
+title: 'Ballot SC072: Delete except to policyQualifiers in EVGs; align with BRs by making them NOT RECOMMENDED'
 type: post
 ---
 

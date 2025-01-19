@@ -6,7 +6,7 @@ date: 2019-11-12 20:51:18
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC24: Fall Cleanup V2'
+title: 'Ballot SC024v2: Fall Cleanup'
 type: post
 ---
 

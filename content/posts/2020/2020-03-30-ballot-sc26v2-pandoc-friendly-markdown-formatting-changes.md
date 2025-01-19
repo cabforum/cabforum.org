@@ -6,7 +6,7 @@ date: 2020-03-30 15:41:57
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC26v2: Pandoc-Friendly Markdown Formatting Changes'
+title: 'Ballot SC026v2: Pandoc-Friendly Markdown Formatting Changes'
 type: post
 ---
 

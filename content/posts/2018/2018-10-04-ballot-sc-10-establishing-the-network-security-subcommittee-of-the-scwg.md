@@ -7,7 +7,7 @@ tags:
 - Network Security
 - Ballot
 - Server Certificates
-title: 'Ballot SC-10: Establishing the Network Security Subcommittee of the SCWG'
+title: 'Ballot SC010: Establishing the Network Security Subcommittee of the SCWG'
 type: post
 ---
 

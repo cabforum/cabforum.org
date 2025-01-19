@@ -7,7 +7,7 @@ tags:
 - Ballot
 - Network Security
 - Server Certificates
-title: Ballot SC32 – NCSSRs Zones
+title: 'Ballot SC032: NCSSRs Zones'
 type: post
 ---
 

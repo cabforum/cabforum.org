@@ -6,7 +6,7 @@ date: 2024-08-05
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-75: Pre-sign linting'
+title: 'Ballot SC075: Pre-sign linting'
 type: post
 ---
 

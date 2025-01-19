@@ -6,7 +6,7 @@ date: 2019-05-01 20:47:15
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC18: Phone Contact with DNS CAA Phone Contact'
+title: 'Ballot SC018: Phone Contact with DNS CAA Phone Contact'
 type: post
 ---
 

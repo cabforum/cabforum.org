@@ -6,7 +6,7 @@ date: 2018-09-24 03:35:00
 tags:
 - Ballot
 - Server Certificates
-title: Ballot SC11 – Update ETSI requirements in the SCWG Charter
+title: 'Ballot SC011: Update ETSI requirements in the SCWG Charter'
 type: post
 ---
 

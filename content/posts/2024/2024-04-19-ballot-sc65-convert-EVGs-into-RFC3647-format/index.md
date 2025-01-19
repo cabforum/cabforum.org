@@ -6,7 +6,7 @@ date: 2024-03-15
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-65v2: Convert EVGs into RFC 3647 format'
+title: 'Ballot SC065v2: Convert EVGs into RFC 3647 format'
 type: post
 ---
 

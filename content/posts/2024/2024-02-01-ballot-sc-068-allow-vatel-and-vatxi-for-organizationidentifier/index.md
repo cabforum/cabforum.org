@@ -6,7 +6,7 @@ date: 2024-02-01
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-68: Allow VATEL and VATXI for organizationIdentifier'
+title: 'Ballot SC068: Allow VATEL and VATXI for organizationIdentifier'
 type: post
 ---
 

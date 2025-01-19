@@ -6,7 +6,7 @@ date: 2021-04-22 15:47:00
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC42: 398-day Re-use Period'
+title: 'Ballot SC042: 398-day Re-use Period'
 type: post
 ---
 

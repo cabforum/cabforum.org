@@ -4,7 +4,7 @@ date: 2024-10-02
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-78: Subject organizationName alignment for DBA / Assumed Name'
+title: 'Ballot SC078: Subject organizationName alignment for DBA / Assumed Name'
 type: post
 ---
 

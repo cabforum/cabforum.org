@@ -6,7 +6,7 @@ date: 2024-09-02
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-77: Update WebTrust Audit name in Section 8.4 and References'
+title: 'Ballot SC077: Update WebTrust Audit name in Section 8.4 and References'
 type: post
 ---
 
