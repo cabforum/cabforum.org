@@ -6,7 +6,7 @@ date: 2018-11-06 18:34:17
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC4: CAA Contact Property and Associated E-mail Validation Method'
+title: 'Ballot SC004: CAA Contact Property and Associated E-mail Validation Method'
 type: post
 ---
 

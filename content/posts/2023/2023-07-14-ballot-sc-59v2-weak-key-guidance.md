@@ -6,7 +6,7 @@ date: 2023-07-14 13:54:33
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-59v2: Weak key guidance'
+title: 'Ballot SC059v2: Weak key guidance'
 type: post
 ---
 

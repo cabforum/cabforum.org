@@ -7,7 +7,7 @@ tags:
 - Ballot
 - Network Security
 - Server Certificates
-title: Ballot SC34 – Account Management
+title: Ballot SC034: Account Management
 type: post
 ---
 

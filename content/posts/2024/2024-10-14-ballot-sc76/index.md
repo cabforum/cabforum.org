@@ -6,7 +6,7 @@ date: 2024-10-14
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-76v2: Clarify and improve OCSP requirements'
+title: 'Ballot SC076v2: Clarify and improve OCSP requirements'
 type: post
 ---
 

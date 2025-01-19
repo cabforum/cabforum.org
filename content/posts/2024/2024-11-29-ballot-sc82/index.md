@@ -6,7 +6,7 @@ date: 2024-11-29
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-82: Clarify CA Assisted DNS Validation under 3.2.2.4.7'
+title: 'Ballot SC082: Clarify CA Assisted DNS Validation under 3.2.2.4.7'
 type: post
 ---
 

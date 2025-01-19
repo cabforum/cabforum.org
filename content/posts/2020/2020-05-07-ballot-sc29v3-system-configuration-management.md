@@ -6,7 +6,7 @@ date: 2020-05-07 22:10:12
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC29v3: System Configuration Management'
+title: 'Ballot SC029v3: System Configuration Management'
 type: post
 ---
 

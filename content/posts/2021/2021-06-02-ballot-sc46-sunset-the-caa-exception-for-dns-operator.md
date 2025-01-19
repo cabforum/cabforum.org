@@ -6,7 +6,7 @@ date: 2021-06-02 23:08:22
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC46: Sunset the CAA exception for DNS Operator'
+title: 'Ballot SC046: Sunset the CAA exception for DNS Operator'
 type: post
 ---
 

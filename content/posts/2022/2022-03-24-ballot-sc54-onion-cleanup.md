@@ -6,7 +6,7 @@ date: 2022-03-24 19:23:01
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC54: Onion Cleanup'
+title: 'Ballot SC054: Onion Cleanup'
 type: post
 ---
 

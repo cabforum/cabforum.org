@@ -6,7 +6,7 @@ date: 2022-01-26 16:07:00
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC53: Sunset for SHA-1 OCSP Signing'
+title: 'Ballot SC053: Sunset for SHA-1 OCSP Signing'
 type: post
 ---
 

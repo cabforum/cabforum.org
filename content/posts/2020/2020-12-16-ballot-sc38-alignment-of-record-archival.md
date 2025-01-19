@@ -7,7 +7,7 @@ tags:
 - Ballot
 - Network Security
 - Server Certificates
-title: 'Ballot SC38: Alignment of Record Archival'
+title: 'Ballot SC038: Alignment of Record Archival'
 type: post
 ---
 

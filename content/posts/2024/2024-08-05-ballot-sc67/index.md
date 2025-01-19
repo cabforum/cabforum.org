@@ -6,7 +6,7 @@ date: 2024-08-05
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-67 v3: Require domain validation and CAA checks to be performed from multiple Network Perspectives Corroboration'
+title: 'Ballot SC067v3: Require domain validation and CAA checks to be performed from multiple Network Perspectives Corroboration'
 type: post
 ---
 

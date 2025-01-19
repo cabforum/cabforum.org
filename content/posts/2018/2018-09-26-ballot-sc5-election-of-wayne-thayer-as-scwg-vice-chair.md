@@ -6,7 +6,7 @@ date: 2018-09-26 03:25:00
 tags:
 - Ballot
 - Server Certificates
-title: Ballot SC5 – Election of Wayne Thayer as SCWG Vice Chair
+title: Ballot SC005: Election of Wayne Thayer as SCWG Vice Chair
 type: post
 ---
 

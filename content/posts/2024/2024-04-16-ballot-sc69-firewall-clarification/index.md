@@ -6,7 +6,7 @@ date: 2024-03-12
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-69: Clarify router and firewall logging requirements'
+title: 'Ballot SC069: Clarify router and firewall logging requirements'
 type: post
 ---
 

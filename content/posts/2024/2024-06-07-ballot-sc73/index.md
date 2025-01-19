@@ -6,7 +6,7 @@ date: 2024-06-07
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-73: Compromised and weak keys'
+title: 'Ballot SC073: Compromised and weak keys'
 type: post
 ---
 

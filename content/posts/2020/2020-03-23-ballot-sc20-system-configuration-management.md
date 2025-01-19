@@ -7,7 +7,7 @@ tags:
 - Ballot
 - Network Security
 - Server Certificates
-title: 'Ballot SC20: System Configuration Management'
+title: 'Ballot SC020: System Configuration Management'
 type: post
 ---
 

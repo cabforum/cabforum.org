@@ -6,7 +6,7 @@ date: 2021-07-22 15:53:14
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC48 v2: Domain Name and IP Address Encoding'
+title: 'Ballot SC048v2: Domain Name and IP Address Encoding'
 type: post
 ---
 

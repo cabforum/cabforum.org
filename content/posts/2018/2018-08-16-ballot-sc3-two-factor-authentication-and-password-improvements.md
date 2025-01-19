@@ -6,7 +6,7 @@ date: 2018-08-16 14:12:36
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC3: Two-Factor Authentication and Password Improvements'
+title: 'Ballot SC003: Two-Factor Authentication and Password Improvements'
 type: post
 ---
 
