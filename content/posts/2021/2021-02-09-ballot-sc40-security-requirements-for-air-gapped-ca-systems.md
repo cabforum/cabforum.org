@@ -7,7 +7,7 @@ tags:
 - Ballot
 - Network Security
 - Server Certificates
-title: Ballot SC040: Security Requirements for Air-Gapped CA Systems
+title: 'Ballot SC040: Security Requirements for Air-Gapped CA Systems'
 type: post
 ---
 

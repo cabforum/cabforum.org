@@ -6,7 +6,7 @@ date: 2021-04-08 03:53:00
 tags:
 - Ballot
 - Server Certificates
-title: Ballot SC043: Clarify Acceptable Status Codes
+title: 'Ballot SC043: Clarify Acceptable Status Codes'
 type: post
 ---
 
