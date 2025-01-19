@@ -6,7 +6,7 @@ date: 2024-02-23
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-70: Clarify the use of DTPs for Domain Control Validation'
+title: 'Ballot SC070: Clarify the use of DTPs for Domain Control Validation'
 type: post
 ---
 
