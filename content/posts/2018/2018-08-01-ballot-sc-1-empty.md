@@ -6,7 +6,7 @@ date: 2018-08-01 03:20:00
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-1: [Empty]'
+title: 'Ballot SC001: [Empty]'
 type: post
 ---
 
