@@ -6,7 +6,7 @@ date: 2018-09-06 03:31:00
 tags:
 - Ballot
 - Server Certificates
-title: Ballot SC008: Election of Dimitris Zacharopoulos as SCWG Chair
+title: 'Ballot SC008: Election of Dimitris Zacharopoulos as SCWG Chair'
 type: post
 ---
 
