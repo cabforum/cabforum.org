@@ -45,13 +45,13 @@ In preparation for moving to SCWG chair, Dimitris reviewed the current slate of 
 
 ### Ballot Status
 
--   SC80 (Sunset the use of WHOIS) had passed since the last meeting. It is currently in IPR; there was an inquiry received to `questions@` about this particular requirement. Ryan Dickson volunteered to draft a response to that inquiry.
--   SC82 (Clarify CA-Assisted DNS Validation) had failed since the last meeting. Dimitris asked for any comments or discussions on it. The group agreed that there was a need for this method, but not about whether it was already a thing permitted or in place under the BRs. This required more discussion, and was relegated to the Validation Subcommittee for review and re-introduction.
--   SC81 is still in discussion and was receiving active feedback. Clint indicated he planned an extended discussion period on this ballot owing to both the holidays and the need for considerable review and discussion around the problem. Since much of the discussion was taking place in the Validation Subcommittee, Clint agreed to share the new version with both the Validation Subcommittee and the larger Server-Cert community, albeit likely after the holiday break.
+- SC80 (Sunset the use of WHOIS) had passed since the last meeting. It is currently in IPR; there was an inquiry received to `questions@` about this particular requirement. Ryan Dickson volunteered to draft a response to that inquiry.
+- SC82 (Clarify CA-Assisted DNS Validation) had failed since the last meeting. Dimitris asked for any comments or discussions on it. The group agreed that there was a need for this method, but not about whether it was already a thing permitted or in place under the BRs. This required more discussion, and was relegated to the Validation Subcommittee for review and re-introduction.
+- SC81 is still in discussion and was receiving active feedback. Clint indicated he planned an extended discussion period on this ballot owing to both the holidays and the need for considerable review and discussion around the problem. Since much of the discussion was taking place in the Validation Subcommittee, Clint agreed to share the new version with both the Validation Subcommittee and the larger Server-Cert community, albeit likely after the holiday break.
 
 ## Any Other Business
 
--       Nicol noted that we may have come to the wrong conclusion around issue 496 earlier; this was referred to the next meeting for further discussion.
+- Nicol noted that we may have come to the wrong conclusion around issue 496 earlier; this was referred to the next meeting for further discussion.
 
 ## Next call
 
