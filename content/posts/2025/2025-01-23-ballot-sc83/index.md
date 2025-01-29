@@ -6,7 +6,7 @@ date: 2025-01-23
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC-083v3: Winter 2024-2025 Cleanup Ballot'
+title: 'Ballot SC083v3: Winter 2024-2025 Cleanup Ballot'
 type: post
 ---
 
