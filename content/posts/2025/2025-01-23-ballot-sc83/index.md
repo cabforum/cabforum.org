@@ -105,7 +105,7 @@ The following motion has been proposed by Martijn Katerbarg (Sectigo) and endors
 
 MODIFY the "Baseline Requirements for the Issuance and Management of Publicly-Trusted TLS Server Certificates" ("TLS Baseline Requirements") based on Version 2.1.1 as specified in the following redline:
 
-https://github.com/cabforum/servercert/compare/096810820d605d1a2c90a9b10e4ef36ed65bd6cc…9ffa7711bb1a2fe07d93593c7d603ffc15aaf298
+[https://github.com/cabforum/servercert/compare/096810820d605d1a2c90a9b10e4ef36ed65bd6cc…9ffa7711bb1a2fe07d93593c7d603ffc15aaf298](https://github.com/cabforum/servercert/compare/096810820d605d1a2c90a9b10e4ef36ed65bd6cc…9ffa7711bb1a2fe07d93593c7d603ffc15aaf298)
 
 **Motion Ends**
 
