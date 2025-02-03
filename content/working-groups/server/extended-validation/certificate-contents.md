@@ -27,6 +27,4 @@ An EV SSL Certificate authenticates a web site (by domain name) and the entity c
 
 **Domain name** – This field must contain one or more host domain name(s) owned or controlled by the Subject for association with the Subject’s publicly accessible server. Such server may be owned and operated by the Subject or another entity (e.g., a hosting service). Wildcard characters in domain names are not allowed for EV SSL Certificates.
 
-**EV Certificate Policy Object Identifier** – Each EV SSL Certificate will also contain a EV Certificate Policy Identifier (EV CP OID). Here is a list of some of the EV certificate issuers and their EV CP OIDs: [http://en.wikipedia.org/wiki/Extended_Validation_Certificate#Extended_Validation_certificate_identification][1].
-
-[1]: http://en.wikipedia.org/wiki/Extended_Validation_Certificate#Extended_Validation_certificate_identification
+**EV Certificate Policy Object Identifier** – Each EV SSL Certificate must also contain the CA/Browser Forum's EV Certificate Policy Identifier (EV CP OID), which is 2.23.140.1.1.
