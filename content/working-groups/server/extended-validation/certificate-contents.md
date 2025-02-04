@@ -27,5 +27,4 @@ An EV TLS Certificate authenticates a web site (by domain name) and the entity c
 
 6. **Domain name in Subject Alternative Name** – (Old EVG 9.8.1 - New EVG 7.1.2.1) This field must contain one or more host domain name(s) owned or controlled by the Subject for association with the Subject’s publicly accessible server. Such server may be owned and operated by the Subject or another entity (e.g., a hosting service). Wildcard characters in domain names are not allowed for EV TLS Certificates (unless the FQDN portion of the Wildcard Domain Name is an Onion Domain Name).
 
-7. **EV Certificate Policy Object Identifier** – (Old EVG 9.3.2 - New EVG 7.1.6.1) Each EV TLS Certificate must also contain the CA/Browser Forum's EV Certificate Policy Identifier (EV CP OID) of 2.23.140.1.1 (or a policy identifier that, by
-pre‐agreement with an Application Software Supplier, marks the Certificate as being an EV Certificate).
+7. **EV Certificate Policy Object Identifier** – (Old EVG 9.3.2 - New EVG 7.1.6.1) Each EV TLS Certificate must also contain the CA/Browser Forum's EV Certificate Policy Identifier (EV CP OID) of 2.23.140.1.1.
