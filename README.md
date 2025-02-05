@@ -163,6 +163,14 @@ This shortcode supports the following parameters:
 - state: 'open' or 'closed' (default: open)
 - labels: comma separated list of labels (default: all labels)
 
+### Link to a ballot
+
+Lookup a page with the tag `ballot` and the string `SC000` in the title. Returning a string `SC000` linking to the first matching page.
+
+```
+{{< ballot name="SC000" >}}
+```
+ 
 ### Button
 
 To create a button you can use the `button` shortcode.
