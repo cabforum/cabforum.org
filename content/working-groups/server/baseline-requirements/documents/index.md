@@ -230,7 +230,7 @@ title: Baseline Requirements for TLS Server Certificates
 [TBR203r]: BR-203-redlined.pdf
 [sc69]: /2024/03/12/ballot-sc069-clarify-router-and-firewall-logging-requirements/
 [202r]: CA-Browser-Forum-2.0.2-redlined.pdf
-[sc66]: /2023/11/24/ballot-sc-066-v4-fall-2023-clean-up/
+[sc66]: /2023/2023-11-24-ballot-sc-066-v4-fall-2023-clean-up.md
 [1]: /uploads/CA-Browser-Forum-BR-v2.0.1.pdf
 [2]: /uploads/CA-Browser-Forum-BR-v2.0.1-redlined.pdf
 [3]: /2023/2023-07-14-ballot-sc-063-v4make-ocsp-optional-require-crls-and-incentivize-automation.md
