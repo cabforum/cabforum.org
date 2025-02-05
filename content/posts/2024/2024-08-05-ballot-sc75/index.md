@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2024/08/05/ballot-sc-75-Pre-sign-linting
+- /2024/08/05/ballot-sc-075-pre-sign-linting
 author: Iñigo Barreira
 date: 2024-08-05
 tags:
