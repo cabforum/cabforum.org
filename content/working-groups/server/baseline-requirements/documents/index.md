@@ -216,10 +216,10 @@ title: Baseline Requirements for TLS Server Certificates
 [sc77]: /2024/09/02/ballot-sc077-update-webtrust-audit-name-in-section-8.4-and-references/
 [TBR207]: CA-Browser-Forum-TLS-BR-2.0.7.pdf
 [TBR207r]: CA-Browser-Forum-TLS-BR-2.0.7-redlined.pdf
-[sc67]: /2024/2024-08-05-ballot-sc67/
+[sc67]: /2024/08/05/ballot-sc-67-Require-Multi-Perspective-Issuance-Corroboration/
 [TBR206]: CA-Browser-Forum-TLS-BR-2.0.6.pdf
 [TBR206r]: CA-Browser-Forum-TLS-BR-2.0.6-redlined.pdf
-[sc75]: /2024/2024-08-05-ballot-sc75/
+[sc75]: /2024/08/05/ballot-sc-075-pre-sign-linting/
 [TBR205]: CA-Browser-Forum-TLS-BR-2.0.5.pdf
 [TBR205r]: CA-Browser-Forum-TLS-BR-2.0.5-redlined.pdf
 [sc73]: /2024/06/07/ballot-sc073-compromised-and-weak-keys/
@@ -230,10 +230,10 @@ title: Baseline Requirements for TLS Server Certificates
 [TBR203r]: BR-203-redlined.pdf
 [sc69]: /2024/03/12/ballot-sc069-clarify-router-and-firewall-logging-requirements/
 [202r]: CA-Browser-Forum-2.0.2-redlined.pdf
-[sc66]: /2023/2023-11-24-ballot-sc-066-v4-fall-2023-clean-up.md
+[sc66]: /2023/11/24/ballot-sc-066-v4-fall-2023-clean-up/
 [1]: /uploads/CA-Browser-Forum-BR-v2.0.1.pdf
 [2]: /uploads/CA-Browser-Forum-BR-v2.0.1-redlined.pdf
-[3]: /2023/2023-07-14-ballot-sc-063-v4make-ocsp-optional-require-crls-and-incentivize-automation.md
+[3]: /2023/07/14/ballot-sc-063-v4make-ocsp-optional-require-crls-and-incentivize-automation/
 [4]: /uploads/CA-Browser-Forum-BR-v2.0.0.pdf
 [5]: /uploads/CA-Browser-Forum-BR-2.0.0-redlined.pdf
 [6]: /2023/03/17/ballot-sc62v2-certificate-profiles-update/
