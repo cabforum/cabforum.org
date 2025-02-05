@@ -2,7 +2,7 @@
 aliases:
 - /scwg/
 - /working-groups/scwg/
-date: 2018-07-12 16:39:37
+date: 2025-02-05 16:39:37
 linkTitle: Server Cert WG
 menu:
   main:
@@ -12,9 +12,8 @@ title: Server Certificate Working Group
 
 ## Officers
 
-**Chair**: Iñigo Barreira ([Sectigo](https://sectigo.com/))
-
-**Vice Chair**: Kiran Tummala ([Microsoft](https://www.microsoft.com))
+- **Chair**: Dimitris Zacharopoulos ([HARICA](https://harica.gr/))
+- **Vice Chair**: Wayne Thayer ([Fastly](https://www.fastly.com))
 
 ## Charter
 
