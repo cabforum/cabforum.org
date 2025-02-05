@@ -1,7 +1,7 @@
 ---
 aliases:
 - /code-signing-working-group/
-date: 2013-09-04 03:49:36
+date: 2025-02-05 16:39:37
 linkTitle: Code Signing Cert WG
 menu:
   main:
@@ -13,8 +13,8 @@ The CA/Browser Forum’s Code Signing Certificate Working Group was chartered to
 
 ## Officers
 
-- **Chair**: Dean Coclin ([Digicert](https://www.digicert.com))
-- **Vice-Chair**: Bruce Morton ([Entrust](https://www.entrust.com))
+- **Chair**: Martijn Katerbarg ([Sectigo](https://www.sectigo.com))
+- **Vice-Chair**: Thomas Zermeno ([SSL.com](https://www.ssl.com))
 
 ## Charter
 
