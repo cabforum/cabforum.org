@@ -1,0 +1,7 @@
+{{- $name := .Get "name" -}}
+{{- $p := where site.RegularPages "Params.tags" "intersect" (slice "ballot") -}}
+{{- $p = where $p "Title" "in" (slice $name) -}}
+
+{{- with index $p 0 -}}
+    <a href="{{ .Permalink }}" title="{{ .Title }}">{{ $name }}</a>
+{{- end -}}
