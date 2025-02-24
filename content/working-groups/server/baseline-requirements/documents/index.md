@@ -9,87 +9,89 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.1.2][TBR212] ([redlined][TBR212r]) – adopted by Ballot [SC80][sc80]
+[CA-Browser-Forum TLS BR 2.1.3][TBR213] ([redlined][TBR213r]) – adopted by Ballot [SC083][sc083]
 
 ### Previous Versions
 
-[CA-Browser-Forum TLS BR 2.1.1][TBR211] ([redlined][TBR211r]) – adopted by Ballot [SC79][sc79]
+[CA-Browser-Forum TLS BR 2.1.2][TBR212] ([redlined][TBR212r]) – adopted by Ballot [SC080][sc080]
 
-[CA-Browser-Forum TLS BR 2.1.0][TBR210] ([redlined][TBR210r]) – adopted by Ballot [SC76][sc76]
+[CA-Browser-Forum TLS BR 2.1.1][TBR211] ([redlined][TBR211r]) – adopted by Ballot [SC079][sc079]
 
-[CA-Browser-Forum TLS BR 2.0.9][TBR209] ([redlined][TBR209r]) – adopted by Ballot [SC78][sc78]
+[CA-Browser-Forum TLS BR 2.1.0][TBR210] ([redlined][TBR210r]) – adopted by Ballot [SC076][sc076]
 
-[CA-Browser-Forum TLS BR 2.0.8][TBR208] ([redlined][TBR208r]) – adopted by Ballot [SC77][sc77]
+[CA-Browser-Forum TLS BR 2.0.9][TBR209] ([redlined][TBR209r]) – adopted by Ballot [SC078][sc078]
 
-[CA-Browser-Forum TLS BR 2.0.7][TBR207] ([redlined][TBR207r]) – adopted by Ballot [SC67][sc67]
+[CA-Browser-Forum TLS BR 2.0.8][TBR208] ([redlined][TBR208r]) – adopted by Ballot [SC077][sc077]
 
-[CA-Browser-Forum TLS BR 2.0.6][TBR206] ([redlined][TBR206r]) – adopted by Ballot [SC75][sc75]
+[CA-Browser-Forum TLS BR 2.0.7][TBR207] ([redlined][TBR207r]) – adopted by Ballot [SC067][sc067]
 
-[CA-Browser-Forum TLS BR 2.0.5][TBR205] ([redlined][TBR205r]) – adopted by Ballot [SC73][sc73]
+[CA-Browser-Forum TLS BR 2.0.6][TBR206] ([redlined][TBR206r]) – adopted by Ballot [SC075][sc075]
 
-[CA-Browser-Forum TLS BR 2.0.4][TBR204] ([redlined][TBR204r]) – adopted by Ballot [SC65][sc65]
+[CA-Browser-Forum TLS BR 2.0.5][TBR205] ([redlined][TBR205r]) – adopted by Ballot [SC073][sc073]
 
-[CA-Browser-Forum TLS BR 2.0.3][TBR203] ([redlined][TBR203r]) – adopted by Ballot [SC69][sc69]
+[CA-Browser-Forum TLS BR 2.0.4][TBR204] ([redlined][TBR204r]) – adopted by Ballot [SC065][sc065]
 
-[CA-Browser-Forum TLS BR 2.0.2][228] ([redlined][202r]) – adopted by Ballot [SC66][sc66]
+[CA-Browser-Forum TLS BR 2.0.3][TBR203] ([redlined][TBR203r]) – adopted by Ballot [SC069][sc069]
 
-[CA-Browser-Forum BR 2.0.1][1] ([redlined][2]) – adopted by Ballot [SC63][3]
+[CA-Browser-Forum TLS BR 2.0.2][228] ([redlined][202r]) – adopted by Ballot [SC066][sc066]
 
-[CA-Browser-Forum BR 2.0.0][4] ([redlined][5]) – adopted by Ballot [SC62][6]
+[CA-Browser-Forum BR 2.0.1][1] ([redlined][2]) – adopted by Ballot [SC063][3]
 
-[CA-Browser-Forum BR 1.8.7][7] ([redlined][8]) – adopted by Ballot [SC61][9]
+[CA-Browser-Forum BR 2.0.0][4] ([redlined][5]) – adopted by Ballot [SC062][6]
 
-[CA-Browser-Forum BR 1.8.6][10] ([redlined][11]) – adopted by Ballot [SC58][12]
+[CA-Browser-Forum BR 1.8.7][7] ([redlined][8]) – adopted by Ballot [SC061][9]
 
-[CA-Browser-Forum BR 1.8.5][13] ([redlined][14]) – adopted by Ballot [SC56][15]
+[CA-Browser-Forum BR 1.8.6][10] ([redlined][11]) – adopted by Ballot [SC058][12]
 
-[CA-Browser-Forum BR 1.8.4][16] ([redlined][17]) – adopted by Ballot [SC54][18]
+[CA-Browser-Forum BR 1.8.5][13] ([redlined][14]) – adopted by Ballot [SC056][15]
 
-[CA-Browser-Forum BR 1.8.3][19] ([redlined][20]) – adopted by Ballot [SC51][21]
+[CA-Browser-Forum BR 1.8.4][16] ([redlined][17]) – adopted by Ballot [SC054][18]
 
-[CA-Browser-Forum BR 1.8.2][22] ([redlined][23]) – adopted by Ballot [SC53][24]
+[CA-Browser-Forum BR 1.8.3][19] ([redlined][20]) – adopted by Ballot [SC051][21]
 
-[CA-Browser-Forum BR 1.8.1][25] ([redlined][26]) – adopted by Ballot [SC50][27]
+[CA-Browser-Forum BR 1.8.2][22] ([redlined][23]) – adopted by Ballot [SC053][24]
 
-[CA-Browser-Forum BR 1.8.0][28] ([redlined][29]) – adopted by Ballot [SC48][30]
+[CA-Browser-Forum BR 1.8.1][25] ([redlined][26]) – adopted by Ballot [SC050][27]
 
-[CA-Browser-Forum BR 1.7.9][31] ([redlined][32]) – adopted by Ballot [SC47][33]
+[CA-Browser-Forum BR 1.8.0][28] ([redlined][29]) – adopted by Ballot [SC048][30]
 
-[CA-Browser-Forum BR 1.7.8][34] ([redlined][35]) – adopted by Ballot [SC45][36]
+[CA-Browser-Forum BR 1.7.9][31] ([redlined][32]) – adopted by Ballot [SC047][33]
 
-[CA-Browser-Forum BR 1.7.7][37] ([redlined][38]) – adopted by Ballot [SC46][39]
+[CA-Browser-Forum BR 1.7.8][34] ([redlined][35]) – adopted by Ballot [SC045][36]
 
-[CA-Browser-Forum BR 1.7.6][40] ([redlined][41]) – adopted by Ballot [SC44][42]
+[CA-Browser-Forum BR 1.7.7][37] ([redlined][38]) – adopted by Ballot [SC046][39]
 
-[CA-Browser-Forum BR 1.7.5][43] ([redlined][44]) – adopted by Ballot [SC42][45]
+[CA-Browser-Forum BR 1.7.6][40] ([redlined][41]) – adopted by Ballot [SC044][42]
 
-[CA-Browser-Forum BR 1.7.4][46] ([redlined][47]) – adopted by Ballot [SC41][48]
+[CA-Browser-Forum BR 1.7.5][43] ([redlined][44]) – adopted by Ballot [SC042][45]
 
-[CA-Browser Forum BR 1.7.3][49] ([redlined][50]) – adopted by Ballots [SC28][51] and [SC35][52]
+[CA-Browser-Forum BR 1.7.4][46] ([redlined][47]) – adopted by Ballot [SC041][48]
 
-[CA-Browser Forum BR 1.7.2][53] ([redlined][54]) – adopted by Ballot [SC33][55]
+[CA-Browser Forum BR 1.7.3][49] ([redlined][50]) – adopted by Ballots [SC028][51] and [SC035][52]
 
-[CA-Browser Forum BR 1.7.1][56] ([redlined][57]) – adopted by Ballots [SC30][58] and [SC31][59]
+[CA-Browser Forum BR 1.7.2][53] ([redlined][54]) – adopted by Ballot [SC033][55]
 
-[CA-Browser Forum BR 1.7.0][60] ([redlined][61]) – adopted by Ballot [SC26][62]
+[CA-Browser Forum BR 1.7.1][56] ([redlined][57]) – adopted by Ballots [SC030][58] and [SC031][59]
 
-[CA-Browser Forum BR 1.6.9][63] ([redlined][64]) – adopted by Ballot [SC27][65]
+[CA-Browser Forum BR 1.7.0][60] ([redlined][61]) – adopted by Ballot [SC026][62]
 
-[CA-Browser Forum BR 1.6.8][66] ([redlined][67]) – adopted by Ballot [SC25][68]
+[CA-Browser Forum BR 1.6.9][63] ([redlined][64]) – adopted by Ballot [SC027][65]
 
-[CA-Browser Forum BR 1.6.7][69] ([redlined][70]) – adopted by Ballots [SC23][71], [SC24][72]
+[CA-Browser Forum BR 1.6.8][66] ([redlined][67]) – adopted by Ballot [SC025][68]
 
-[CA-Browser Forum BR 1.6.6][73] ([redlined][74]) – adopted by Ballots [SC19][75]
+[CA-Browser Forum BR 1.6.7][69] ([redlined][70]) – adopted by Ballots [SC023][71], [SC024][72]
 
-[CA-Browser Forum BR 1.6.5][76] ([redlined][77]) – adopted by Ballots [SC16][78]
+[CA-Browser Forum BR 1.6.6][73] ([redlined][74]) – adopted by Ballots [SC019][75]
 
-[CA-Browser Forum BR 1.6.4][79] ([redlined][80]) – adopted by Ballots [SC14][81], [SC15][82], [SC7][83]
+[CA-Browser Forum BR 1.6.5][76] ([redlined][77]) – adopted by Ballots [SC016][78]
 
-[CA-Browser Forum BR 1.6.3][84] ([redlined][85]) – adopted by [Ballot SC13][86]
+[CA-Browser Forum BR 1.6.4][79] ([redlined][80]) – adopted by Ballots [SC014][81], [SC015][82], [SC007][83]
 
-[CA-Browser Forum BR 1.6.2][87] ([redlined][88]) – adopted by [Ballot SC12][89]
+[CA-Browser Forum BR 1.6.3][84] ([redlined][85]) – adopted by [Ballot SC013][86]
 
-[CA-Browser Forum BR 1.6.1][90] ([redlined][91]) – adopted by [Ballot SC6][92]
+[CA-Browser Forum BR 1.6.2][87] ([redlined][88]) – adopted by [Ballot SC012][89]
+
+[CA-Browser Forum BR 1.6.1][90] ([redlined][91]) – adopted by [Ballot SC006][92]
 
 [CA-Browser Forum BR 1.6.0][93] ([redlined][94]) – adopted by [Ballot 224][95]
 
@@ -99,15 +101,15 @@ title: Baseline Requirements for TLS Server Certificates
 
 [CA-Browser Forum BR 1.5.7][102] – ([redlined][103]) – adopted by [Ballot 220][104]
 
-[CA-Browser Forum BR 1.5.6][105] – ([redlined][106]) – adopted by [Ballot 218][107]
+[CA-Browser Forum BR 1.5.6][105] – ([redlined][106]) – adopted by [Ballot 218][107]
 
-[CA-Browser Forum BR 1.5.5][108] – ([redlined][109]) – adopted by [Ballot 217][110]
+[CA-Browser Forum BR 1.5.5][108] – ([redlined][109]) – adopted by [Ballot 217][110]
 
 [CA-Browser Forum BR 1.5.4][111] – ([redlined][112]) – adopted by [Ballot 215][113]
 
 [CA-Browser Forum BR 1.5.3][114] – ([redlined][115]) – adopted by [Ballot 214][116]
 
-[CA-Browser Forum BR 1.5.2][117] – ([redlined][118]) – adopted by [Ballot 190][119]
+[CA-Browser Forum BR 1.5.2][117] – ([redlined][118]) – adopted by [Ballot 190][119]
 
 [CA-Browser Forum BR 1.5.1][120] – ([redlined][121]) – adopted by [Ballot 197][122]
 
@@ -117,9 +119,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [CA-Browser Forum BR 1.4.8][129] – ([redlined][130]) – adopted by [Ballot 199][131]
 
-[CA-Browser Forum BR 1.4.7][132] – ([redlined][133]) – adopted by [Ballot 196][134]
+[CA-Browser Forum BR 1.4.7][132] – ([redlined][133]) – adopted by [Ballot 196][134]
 
-[CA-Browser Forum BR 1.4.6][135] – ([redlined][136]) – adopted by [Ballot 195][137]
+[CA-Browser Forum BR 1.4.6][135] – ([redlined][136]) – adopted by [Ballot 195][137]
 
 [CA-Browser Forum BR 1.4.5][138] – ([redlined][139]) – adopted by [Ballot 189][140]
 
@@ -155,7 +157,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Conversion Table for RFC-3647-formatted version 1.3.0 and later][185]
 
-[Baseline Requirements 1.2.5][186] – ([redlined][187]) – adopted by [Ballot 148][188]  on 2 April 2015
+[Baseline Requirements 1.2.5][186] – ([redlined][187]) – adopted by [Ballot 148][188] on 2 April 2015
 
 [Baseline Requirements 1.2.4][189] – ([redlined][190]) – adopted by [Ballot 144][191] on 18 Feb 2015
 
@@ -163,7 +165,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements 1.2.2][195] – ([redlined][196]) – adopted by [Ballot 134][197] on 16 October 2014
 
-[Baseline Requirements 1.2.1][198] – ([redlined][199]) – adopted by [Ballot 118][200] on 16 October 2014
+[Baseline Requirements 1.2.1][198] – ([redlined][199]) – adopted by [Ballot 118][200] on 16 October 2014
 
 [Baseline Requirements 1.2.0][201] – ([redlined][202]) – adopted by [Ballot 125][203] on 14 October 2014
 
@@ -171,7 +173,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements 1.1.8][207] – ([redlined][208]) – adopted on 5 June 2014
 
-[Baseline Requirements 1.1.7][209] – ([redlined][210]) – effective 3 April 2014
+[Baseline Requirements 1.1.7][209] – ([redlined][210]) – effective 3 April 2014
 
 [Baseline Requirements 1.1.6][211] – ([redlined][212]) – effective 29 July, 2013
 
@@ -183,7 +185,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements 1.1][219] – effective 14 September, 2012
 
-[Baseline Requirements 1.1_日本語訳][220]  (translated into Japanese)
+[Baseline Requirements 1.1_日本語訳][220]  (translated into Japanese)
 [
 ][221] [Baseline Requirements 1][222] – adopted on 22 Nov. 2011 with an Effective Date of 1 July 2012
 
@@ -199,38 +201,40 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR213]: CA-Browser-Forum-TLS-BR-2.1.3.pdf
+[TBR213r]: CA-Browser-Forum-TLS-BR-2.1.3-redlined.pdf
 [TBR212]: CA-Browser-Forum-TLS-BR-2.1.2.pdf
 [TBR212r]: CA-Browser-Forum-TLS-BR-2.1.2-redlined.pdf
 [TBR211]: CA-Browser-Forum-TLS-BR-2.1.1.pdf
 [TBR211r]: CA-Browser-Forum-TLS-BR-2.1.1-redlined.pdf
-[sc79]: /2024/10/14/ballot-sc079v2-allow-more-than-one-certificate-policy-in-a-cross-certified-subordinate-ca-certificate/
-[sc80]: /2024/10/14/ballot-sc080-Sunset-the-use-of-WHOIS-to-identify-Domain-Contacts-and-relying-DCV-Methods
+[sc079]: /2024/10/14/ballot-sc079v2-allow-more-than-one-certificate-policy-in-a-cross-certified-subordinate-ca-certificate/
+[sc080]: /2024/10/14/ballot-sc080-Sunset-the-use-of-WHOIS-to-identify-Domain-Contacts-and-relying-DCV-Methods
 [TBR210]: CA-Browser-Forum-TLS-BR-2.1.0.pdf
 [TBR210r]: CA-Browser-Forum-TLS-BR-2.1.0-redlined.pdf
-[sc76]: /2024/10/14/ballot-sc076v2-clarify-and-improve-ocsp-requirements/
+[sc076]: /2024/10/14/ballot-sc076v2-clarify-and-improve-ocsp-requirements/
 [TBR209]: CA-Browser-Forum-TLS-BR-2.0.9.pdf
 [TBR209r]: CA-Browser-Forum-TLS-BR-2.0.9-redlined.pdf
-[sc78]: /2024/10/02/ballot-sc078-subject-organizationname-alignment-for-dba-/-assumed-name/
+[sc078]: /2024/10/02/ballot-sc078-subject-organizationname-alignment-for-dba-/-assumed-name/
 [TBR208]: CA-Browser-Forum-TLS-BR-2.0.8.pdf
 [TBR208r]: CA-Browser-Forum-TLS-BR-2.0.8-redlined.pdf
-[sc77]: /2024/09/02/ballot-sc077-update-webtrust-audit-name-in-section-8.4-and-references/
+[sc077]: /2024/09/02/ballot-sc077-update-webtrust-audit-name-in-section-8.4-and-references/
 [TBR207]: CA-Browser-Forum-TLS-BR-2.0.7.pdf
 [TBR207r]: CA-Browser-Forum-TLS-BR-2.0.7-redlined.pdf
-[sc67]: /2024/08/05/ballot-sc-67-Require-Multi-Perspective-Issuance-Corroboration/
+[sc067]: /2024/08/05/ballot-sc-67-Require-Multi-Perspective-Issuance-Corroboration/
 [TBR206]: CA-Browser-Forum-TLS-BR-2.0.6.pdf
 [TBR206r]: CA-Browser-Forum-TLS-BR-2.0.6-redlined.pdf
-[sc75]: /2024/08/05/ballot-sc-075-pre-sign-linting/
+[sc075]: /2024/08/05/ballot-sc-075-pre-sign-linting/
 [TBR205]: CA-Browser-Forum-TLS-BR-2.0.5.pdf
 [TBR205r]: CA-Browser-Forum-TLS-BR-2.0.5-redlined.pdf
-[sc73]: /2024/06/07/ballot-sc073-compromised-and-weak-keys/
+[sc073]: /2024/06/07/ballot-sc073-compromised-and-weak-keys/
 [TBR204]: TLSBRv2.0.4.pdf
 [TBR204r]: TLSBRv2.0.4-redlined.pdf
-[sc65]: /2024/03/15/ballot-sc065v2-convert-evgs-into-rfc-3647-format/
+[sc065]: /2024/03/15/ballot-sc065v2-convert-evgs-into-rfc-3647-format/
 [TBR203]: BRv2.0.3.pdf
 [TBR203r]: BR-203-redlined.pdf
-[sc69]: /2024/03/12/ballot-sc069-clarify-router-and-firewall-logging-requirements/
+[sc069]: /2024/03/12/ballot-sc069-clarify-router-and-firewall-logging-requirements/
 [202r]: CA-Browser-Forum-2.0.2-redlined.pdf
-[sc66]: /2023/11/24/ballot-sc-066-v4-fall-2023-clean-up/
+[sc066]: /2023/11/24/ballot-sc-066-v4-fall-2023-clean-up/
 [1]: /uploads/CA-Browser-Forum-BR-v2.0.1.pdf
 [2]: /uploads/CA-Browser-Forum-BR-v2.0.1-redlined.pdf
 [3]: /2023/07/14/ballot-sc-063-v4make-ocsp-optional-require-crls-and-incentivize-automation/
