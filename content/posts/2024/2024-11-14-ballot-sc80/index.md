@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2024/10/14/ballot-sc-80-Sunset-the-use-of-WHOIS-to-identify-Domain-Contacts-and-relying-DCV-Methods
+- /2024/11/14/ballot-sc-80-Sunset-the-use-of-WHOIS-to-identify-Domain-Contacts-and-relying-DCV-Methods
 author: Iñigo Barreira
 date: 2024-11-14
 tags:
