@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2024/01/28/ballot-sc-84-DNS-Labeled-with-ACME-Account-ID-Validation-Method
+- /2025/01/28/ballot-sc-84-DNS-Labeled-with-ACME-Account-ID-Validation-Method
 author: Wayne Thayer
 date: 2025-01-28
 tags:
