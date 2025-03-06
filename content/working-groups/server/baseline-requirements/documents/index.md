@@ -205,7 +205,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [TBR214]: CA-Browser-Forum-TLS-BR-2.1.4.pdf
 [TBR214r]: CA-Browser-Forum-TLS-BR-2.1.4-redlined.pdf
-[sc084]: /2025/01/28/ballot-sc-84-DNS-Labeled-with-ACME-Account-ID-Validation-Method-Ballot
+[sc084]: /2025/01/28/ballot-sc-84-DNS-Labeled-with-ACME-Account-ID-Validation-Method
 [TBR213]: CA-Browser-Forum-TLS-BR-2.1.3.pdf
 [TBR213r]: CA-Browser-Forum-TLS-BR-2.1.3-redlined.pdf
 [TBR212]: CA-Browser-Forum-TLS-BR-2.1.2.pdf
