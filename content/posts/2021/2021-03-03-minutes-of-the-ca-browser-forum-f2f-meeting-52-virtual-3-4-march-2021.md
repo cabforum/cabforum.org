@@ -169,7 +169,7 @@ Jos Purvis: Revocation has been an issue in the industry for a while. Lots of di
 
 **Presenters:** Ryan Sleevi, Devon O’Brien (Google)  
 **Note Taker:** Neil Dunbar (TrustCor)  
-**Presentation:** [/uploads/CABF_F2F_52_Chrome_Browser_Update.pdf]
+**Presentation:** [/uploads/CABF_F2F_52_Chrome_Browser_Update.pdf][2]
 
 #### Devon’s update on CT Plans shared to ct-policy@chromium.org Key Points
 
@@ -251,7 +251,7 @@ Google recognize that root programs may have different requirements on size of h
 
 **Presenter:** Karina Sirota (Microsoft)  
 **Note Taker:** Ryan Sleevi (Google)  
-**Presentation:** [/uploads/microsoft_cabf_52_update.pdf][2]  
+**Presentation:** [/uploads/microsoft_cabf_52_update.pdf][3]  
 
 Sebastian (GlobalSign): When you say you require testing, what e-mail do you use to notify the CA?
 Karina: We use the alias for the CA from CCADB to communicate with the CA that may need to be impacted by testing.
@@ -262,7 +262,7 @@ Mike Reilly (Microsoft): To the testing point, we really want to encourage CAs t
 **Presenter:** Ben Wilson (Mozilla)    
 **Note Taker:** Clint Wilson (Apple)  
 **Presentation:** https://docs.google.com/document/d/1PLTai4NQuucRvEIRxoV0gK4G5JXh7CbyqJMSO9tZmKw    
-**Uploaded as PDF:** </uploads/mozillaupdate-march2021.pdf>  
+**Uploaded as PDF:** [/uploads/mozillaupdate-march2021.pdf][4]
 
 (No questions were asked following the presentation)
 
@@ -271,7 +271,7 @@ Mike Reilly (Microsoft): To the testing point, we really want to encourage CAs t
 **Presenter:** Kathleen Wilson (Mozilla)    
 **Note Taker:** Dimitris Zacharopoulos (HARICA)  
 **Presentation:**  https://docs.google.com/document/d/1wWmhVdVKf7Dflau4ka3_VUo-X8U6mAQgAxVExb9rZxY    
-**Uploaded as PDF:** </uploads/ccadb-news-march2021.pdf>  
+**Uploaded as PDF:** [/uploads/ccadb-news-march2021.pdf][5]
 
 - CCADB release notes, includes a summary of updates from November 2020 and on
 - CCADB API has a sandbox for CAs to test before switching to production. Contact Kathleen for access.
@@ -300,7 +300,7 @@ The Antitrust statement was read.
 ### Guest Speaker: “Cryptography in a post quantum world”
 
 **Presenter:** Dustin Moody, NIST  
-**Presentation:** [/uploads/nist_pqc\_-\_30.pptx][3]  
+**Presentation:** [/uploads/nist_pqc\_-\_30.pptx][6]  
 
 ### ETSI Update
 
@@ -341,7 +341,7 @@ In addition to the information in the slides, the following was reported by Clem
 
 **Presenter:** Jeff Ward (BDO), Don Sheehy (CPA Canada)
 **Note Taker:** Andrea Holland (SecureTrust)
-**Presentation:** </uploads/F2F52-WebTrust-Update-March-2021.pdf>  
+**Presentation:** [/uploads/F2F52-WebTrust-Update-March-2021.pdf][7]
 
 #### Items mentioned in addition to slides
 
@@ -435,5 +435,9 @@ Jos: I would encourage anyone that has more feedback to contact the members of t
 ## The Server Certificate Working Group was adjourned
 
 [1]: /uploads/f2f_52_summary_presentation.pdf
-[2]: /uploads/microsoft_cabf_52_update.pdf
-[3]: /uploads/nist_pqc_-_30.pptx
+[2]: /uploads/CABF_F2F_52_Chrome_Browser_Update.pdf
+[3]: /uploads/microsoft_cabf_52_update.pdf
+[4]: /uploads/mozillaupdate-march2021.pdf
+[5]: /uploads/ccadb-news-march2021.pdf
+[6]: /uploads/nist_pqc_-_30.pptx
+[7]: /uploads/F2F52-WebTrust-Update-March-2021.pdf
