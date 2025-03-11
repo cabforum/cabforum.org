@@ -169,7 +169,7 @@ Jos Purvis: Revocation has been an issue in the industry for a while. Lots of di
 
 **Presenters:** Ryan Sleevi, Devon O’Brien (Google)  
 **Note Taker:** Neil Dunbar (TrustCor)  
-**Presentation:** (note: Green arrows added post-meeting for clarification of the discussion)    
+**Presentation:** [/uploads/CABF_F2F_52_Chrome_Browser_Update.pdf]
 
 #### Devon’s update on CT Plans shared to ct-policy@chromium.org Key Points
 
