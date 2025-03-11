@@ -5,9 +5,9 @@
 
     {{- $summary := " " -}}
     {{- if .Description -}}
-        {{- $summary = .Description -}}
+        {{- $summary = (.Description | plainify) -}}
     {{- else if .Summary -}}
-        {{- $summary = .Summary -}}
+        {{- $summary = (.Summary | plainify) -}}
     {{- else if eq .Data.Singular "author" -}}
         {{- $summary = (printf "View all articles authored by %s" .Data.Term ) -}}
     {{- else if eq .Data.Singular "tag" -}}
