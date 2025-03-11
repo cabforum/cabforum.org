@@ -70,16 +70,16 @@ On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certifi
 
 [26]: /posts/2024/2024-12-16-NSWG-Ballot-NS-004/CA-Browser-Forum-FG-NCSSR-2.0.2.pdf
 [27]: /posts/2024/2024-12-16-NSWG-Ballot-NS-004/CA-Browser-Forum-NCSSR-2.0.2-redline.pdf
-[28]: /2024/11/13/ballot-ns-004/
+[28]: /posts/2024/2024-12-16-NSWG-Ballot-NS-004/Ballot-NS-004/
 
 [29]: /posts/2024/2024-11-11-NSWG-Ballot-NS-005/CA-Browser-Forum-FG-NCSSR-2.0.1.pdf
 [30]: /posts/2024/2024-11-11-NSWG-Ballot-NS-005/CA-Browser-Forum-NCSSR-2.0.1-redline.pdf
-[31]: /2024/10/12/ballot-ns-005/
+[31]: /posts/2024/2024-11-11-NSWG-Ballot-NS-005/Ballot-NS-005/
 
 [32]: /posts/2024/2024-12-16-NSWG-Ballot-NS-006/CA-Browser-Forum-FG-NCSSR-2.0.3.pdf
 [33]: /posts/2024/2024-12-16-NSWG-Ballot-NS-006/CA-Browser-Forum-NCSSR-2.0.3-redline.pdf
-[34]: /2024/11/13/ballot-ns-006/
+[34]: /posts/2024/2024-12-16-NSWG-Ballot-NS-006/Ballot-NS-006/
 
 [35]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-FG-NCSSR-2.0.4.pdf
 [36]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-NCSSR-2.0.4-redline.pdf
-[37]: /2025/02/05/ballot-ns-007/
+[37]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/Ballot-NS-007/
