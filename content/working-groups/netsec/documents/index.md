@@ -12,9 +12,17 @@ On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certifi
 
 ### Current Version
 
-**[Network and Certificate System Security Requirements v2.0][23]** ([redlined][24]) (adopted with [Ballot NS-003][25])
+**[Network and Certificate System Security Requirements v2.0.4][35]** ([redlined][36]) (adopted with [Ballot NS-007][37])
 
 ### Previous Versions
+
+**[Network and Certificate System Security Requirements v2.0.3][32]** ([redlined][33]) (adopted with [Ballot NS-006][34])
+
+**[Network and Certificate System Security Requirements v2.0.2][26]** ([redlined][27]) (adopted with [Ballot NS-004][28])
+
+**[Network and Certificate System Security Requirements v2.0.1][29]** ([redlined][30]) (adopted with [Ballot NS-005][31])
+
+**[Network and Certificate System Security Requirements v2.0][23]** ([redlined][24]) (adopted with [Ballot NS-003][25])
 
 **[Network Security Controls v1.7][1]** ([redlined][2]) (adopted with [Ballot SC41][3])
 
@@ -59,3 +67,19 @@ On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certifi
 [23]: /posts/2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-FG-NCSSR-2.0.pdf
 [24]: /posts/2024/2024-05-06-NSWG-Ballot-NS-003/CA-Browser-Forum-NCSSR-2.0-redline.pdf
 [25]: /2024/04/09/ballot-ns-003/
+
+[26]: /posts/2024/2024-12-16-NSWG-Ballot-NS-004/CA-Browser-Forum-FG-NCSSR-2.0.2.pdf
+[27]: /posts/2024/2024-12-16-NSWG-Ballot-NS-004/CA-Browser-Forum-NCSSR-2.0.2-redline.pdf
+[28]: /2024/11/13/ballot-ns-004/
+
+[29]: /posts/2024/2024-11-11-NSWG-Ballot-NS-005/CA-Browser-Forum-FG-NCSSR-2.0.1.pdf
+[30]: /posts/2024/2024-11-11-NSWG-Ballot-NS-005/CA-Browser-Forum-NCSSR-2.0.1-redline.pdf
+[31]: /2024/10/12/ballot-ns-005/
+
+[32]: /posts/2024/2024-12-16-NSWG-Ballot-NS-006/CA-Browser-Forum-FG-NCSSR-2.0.3.pdf
+[33]: /posts/2024/2024-12-16-NSWG-Ballot-NS-006/CA-Browser-Forum-NCSSR-2.0.3-redline.pdf
+[34]: /2024/11/13/ballot-ns-006/
+
+[35]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-FG-NCSSR-2.0.4.pdf
+[36]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-NCSSR-2.0.4-redline.pdf
+[37]: /2025/02/05/ballot-ns-007/
