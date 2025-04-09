@@ -12,6 +12,8 @@ type: post
 
 ## Voting Results
 
+This ballot is considered to have FAILED. This resolution was decided at F2F#64.
+
 ### Certificate Issuers
 
 28 votes total, with no abstentions:
