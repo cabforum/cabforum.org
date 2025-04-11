@@ -175,47 +175,133 @@ Aaron: people use CNAME for ..... there are ways to automate even outside of ACM
 **Minute taker:** Marco Schambach (IdenTrust)
 **Discussion:**
 
-Dimitris: current requirements for CRL & OCSP services are not as reliable
+Dimitris: 
+-	Determine the effectiveness of certificate revocation at scale and its relevance to browser requirements for OCSP support.
+-	Discussed the agenda item related to scope and current requirements for CRL and OCSP in the last two teleconferences.
+-	Uncertainty about whether these services are used by browsers, but they are heavily utilized by operating systems and other non-browser applications.
+-	Repeatedly heard in chats and comments on GitHub and elsewhere that revocation doesn't work effectively at Internet scale.
+-	OCSP services have been unstable, sometimes functioning well and other times not, depending on the region.
+-	Potential delays in responses from Certificate Authorities (CAs).
+-	If the group agrees that OCSP is a necessary service, consider adding more requirements and controls.
+-	If we decide to leave it as a best-effort service, no changes are needed.
+-	Opening this issue for discussion.
 
-If team think these are necessary we should enhance the BRs, otherwise leave them untouched
+Scott R.:
+-	I don't agree with the notion that OCSP doesn't work.
+-	With the right resources, it functions well for me.
+-	The real issue has always been the potential leakage of information when using OCSP, and whether we want to encourage its use given this concern.
+stable & have privacy issues. should consider deprecation
 
-Scott: does not agree they are as reliable
+Dimitris Z.:
+- We do not allow issuance without OCSP
 
-Ben: Does not agree... revocation information is in browser so may not need a CRL
+Ben W.:
+-	Disagree with the notion that OCSP doesn't work.
+-	Believe revocation can be effective at scale, especially with solutions like CRL Lite, which efficiently handle large amounts of data using algorithms that condense information with filters.
+-	Having revocation information directly in the browser means we wouldn't need to rely on OCSP or download large CRLs, as the browser can check it.
+-	With Signed Certificate Timestamps (SCTs), we can scan certificates for misissuances and other issues.
+-	Is the topic of discussion around phasing out OCSP?
 
-Certificate Transparency is also available to validate certificate status
+Dimitris Z.:
+-	The topic of discussion is whether OCSP is broken, as there is disagreement despite its widespread use.
+-	I believe that revocation can be effective at scale, and some browsers have demonstrated technologies that do this efficiently.
+-	We have a browser member that is not implementing revocation at all, so I wanted to hear opinions on whether we should make any changes to the BR in this area.
+-	If CRL is the future for effective revocation at scale, I’m unsure if other IT protocols are being discussed or designed without considering it.
+-	We should explore other solutions for effective revocation.
+-	OCSP is not very stable and has privacy issues; we should probably work on and plan its deprecation.
+-	OCSP is optional today, but maybe we need to consider additional factors.
 
-Dimitris: some browser support it, others not
+Trev.: 
+-	Thinking that revocation is dead is interesting – it depends.
+-	Privacy concerns also depend on the use case.
+-	For people who check status, revocation is clearly very important.
+-	We offer both CRL and OCSP because we recognize different infrastructures and these two services meet different needs, so we may want to keep both.
+-	Regardless of agreement or disagreement, the fact is that there’s a set of relying parties that don’t care.
+-	For privacy, it is confusing that some people check revocation status for certificates they don’t control.
+-	Also confusing in the case of enterprise customers; not sure if that’s the same privacy concern as they have the same domain/set of domains.
+-	People should be able to use an OCSP service to check certificate status if they want as an important security control.
+-	If we are going to keep it, we should put more controls in place, like SLA requirements for OCSP.
+-	Agree with Scott: you get out what you put in, so the OCSP service will be as stable as the service offered
 
-OCSP not stable & have privacy issues. should consider deprecation
+Aaron G.: 
+-	Disagree with the statement that revocation is dead.
+- Believe that revocation has been broken for many years.
+-	Many relying parties either don’t check OCSP or fail to contact the OCSP server, preventing anyone from realizing that the certificate has been revoked.
+-	Many relying parties either don’t check OCSP or fail to contact the OCSP server, preventing anyone from realizing that the certificate has been revoked.
+-	Think OCSP has real privacy problems.
+-	Not excited about maintaining OCSP services and looking forward to shutting them down.
+-	Recent efforts like CRL Lite and One CRL are changing the situation.
+-	These efforts are making it possible for revocation information to reach relying parties quickly and efficiently, which is very important.
+-	The single biggest improvement for supporting revocation would be to build support for receiving CRL Lite updates into the Linux CA Certificate package.
 
-Trev: for cert status, revocation is very important - For enterprise, not sure if it is the same privacy concern; if user wants to check the revocation status, it should be available.
+Clint W.:
+-	Also agree that we should not deprecate or disallow OCSP.
+-	OK with the current state of OCSP being optional.
+-	The reason is that we still opportunistically query OCSP and don’t have the same privacy concerns because we use private relay, which works for us.
+-	Very supportive of and continue to invest in shifting away from OCSP and CRLs towards CRL Lite, as the bloom function filters lack certificate transparency availability for other certificate types.
 
-Aaron Gable: disagree w/statement that revocation is dead; it is broken; it has privacy issues; recent efforts such CRL lite are good. should keep revocation for all TLS clients
+Wayne T.:
+-	Asking if people notice the time it takes to deliver a revoked status; is this something we should try to improve?
+-	Considering the perceived timing for an OCSP response showing a revoked status – not immediately but within hours – versus publishing a CRL, having that CRL in a browser, and processing it.
+-	Unsure how long that takes, but the impression is that it's quite a bit longer. Is there an opportunity for us to improve the timing when using these more modern out-of-band revocation systems? Are there opportunities for improvement?
 
-Clint: Agree should keep it; support investing in keeping CRL lite and other cert types
+Dimitris Z.:
+-	There are limitations on how quickly the revocation status becomes available.
 
-Wayne: timing for OCSP is not immediate; impression timing is longer and it should be improve to revoke certificates
+Clint W.:
+-	This is an area where we can improve.
+-	We need to implement improvements in our infrastructure that processes all CRLs, which aligns with our brainstorming efforts.
+-	We have a revocation feed for the next generation of revocation.
+-	We will want to focus more on this in the coming years.
 
-Dimitris: Browser should have improvement in signaling revoked certificates
+Trev.: 
+-	When giving opinions on how people check revocation status, I'm sometimes amazed because people check more than once a minute. They don't update that often, so don't do that.
+-	There are limitations on how soon the revocation status is available.
 
-Clint; agree this needs improvement in upcoming years
+Dimitris Z.:
+-	The "next update" field in the CRL is currently set to 7 days.
+-	Propose reducing this period if most browsers are utilizing it.
 
-Trev: When asked about opinion on how to check revocation status, surprised on answer to check CRLs as they are not as reliable. Not enough information there to confirm true revocation status; should keep both
+Ben W.:
+-	The understanding is that this field is used as an indicator, as browsers cache the information for that period.
+-	There may be a two-way approach involving both the browser side and the CA side.
 
-Dimitris: next update field in CRL is 7 days... should reduce
+Dimitris Z.:
+-	The check decision is on the CRL side; the caching decision is on the browser or consumer side.
+-	Uncertainty about server-to-server communications and revocation checks.
+-	Manual configuration of service check verification through CRL or OCSP in some cases.
+-	Subscribers using the certificate are both subscribers and relying parties, as they check each other's server communication.
+-	This is the scoping problem.
+-	How should we treat our document?
+-	Should we consider server-to-server communication or just server-to-browser communication?
+-	We have browser representatives here; we can ask them their preferences for caching and get their feedback.
+-	For other cases, the CA needs to represent these scenarios. It's challenging to focus on this problem
 
-Ben: Maybe the issue is with cache... may need to be fined tuned
+A good outcome is that we have to:
+-	Increase focus on CRLs.
+-	OCSP has many privacy issues and other challenges, but is still required by some relying parties.
+-	Emphasize the quality of OCSP services.
 
-Dimitris: caching happening at the other side; how to approach the issue: CA/ or Caching. Should focus more on CRL but require several parties to enhance the revocation process
+Trev.: 
+-	Discussed clarifying in the logging section that CAs should not retain IP addresses.
+-	Net benefit and easy solutions.
+-	IP addresses related to certificate status queries: both OCSP and CRL.
 
-Trev: agree.
+Nick, Sectigo 
+-	Do not disagree.
+-	We are not alone in using a CDN; we use Cloudflare and do not have any logging.
+-	We do not keep any logs and do not think we could ask Subscribers not to do it; the CA does not do it.
 
-...
+Scott R.:
+-	Bit of a tangled web.
+-	Beneficial to the community to have discussions that are made public, including the reasons and efficiencies discussed here.
+-	As Ryan mentioned, if we revoke a certificate, a CA must publish a CRL within 24 hours. This information should be published to advise relying parties. For the most up-to-date information, even if a certificate is cached for seven days, it should be pulled every 24 hours.
+-	Implementing OCSP could help mitigate some privacy issues. It's beneficial for relying parties to have this information conveyed to them. This is a good practice.
 
-Scott: discuss the reasons behind revocation timing... if want the more up to date from CA's maybe check every 24 hours  or enhance OCSP implementations. 
-
-Dimitris: Relaying parties can check CRL more frequently
+Dimitris Z., Harica
+-	Relying parties have access to the CRL distribution point.
+-	They can query the CRL multiple times a day if desired.
+-	There may be a more efficient way to solve these problems.
 
 ### Removal of id-kp-clientAuth KeyPurposeId from TLS server authentication certificates
 
