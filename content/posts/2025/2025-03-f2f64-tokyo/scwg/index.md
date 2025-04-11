@@ -42,9 +42,12 @@ Aaron Gable, the ballot's author said that we should consider the ballot to have
 
 (Browser vs non-Browser use cases, websites accessible to the Internet vs websites accessible to specific networks, relationship with "WebPKI")
 
-**Presenter:** Dimitris Zacharopoulos (HARICA) 
+**Presenter:** Dimitris Zacharopoulos (HARICA)
+
 **Minute taker:** Wayne Thayer (Fastly)
-**Presentation link:** [Clarify the scope of TLS BRs](Clarify-the-scope-of-TLS-Baseline-Requirements.pdf)  
+
+**Presentation link:** [Clarify the scope of TLS BRs](Clarify-the-scope-of-TLS-Baseline-Requirements.pdf)
+
 **Discussion outside the presentation:**
 
 Ben Wilson asked if it would be better to have a new WG for non-publicly trusted TLS certificates?
@@ -107,8 +110,11 @@ Dimitris summarized two perspectives:
 We could separate requirements for general and browser-specific use cases. It's not good to continue with this confusion. We didn't even touch on folks using publicly-trusted certs for servers not accessible to the internet
 
 ### Ballot SC081: Introduce Schedule of Reducing Validity and Data Reuse Periods
+
 **Presenter:** Clint Wilson (Apple)
+
 **Minute taker:** Kateryna Aleksieieva (Certum by Asseco Data Systems S.A.)
+
 **Discussion:**
 
 Update of the ballot was sent by Clint Wilson on 25.03.2025, which included the ...
@@ -306,7 +312,9 @@ Dimitris Z., Harica
 ### Removal of id-kp-clientAuth KeyPurposeId from TLS server authentication certificates
 
 **Presenter:** Dimitris Zacharopoulos (HARICA)
+
 **Minute taker:** Adrian Mueller (SwissSign)
+
 **Discussion:**
 
 Dimitris Zacharopulos started a discussion about the topic of removal of id-kp-clientAuth KeyPurposeId from TLS server authentication certificates. As the Chrome rootstore program is banning the clientAuth for webserver certificates in 2026 and we strive for as few as possible differences between TLS BR and the rootstore programs, the question arises if this ban should be included in the TLS BR.
