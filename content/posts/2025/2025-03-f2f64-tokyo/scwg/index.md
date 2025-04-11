@@ -242,7 +242,7 @@ Clint W.:
 
 Wayne T.:
 -	Asking if people notice the time it takes to deliver a revoked status; is this something we should try to improve?
--	Considering the perceived timing for an OCSP response showing a revoked status – not immediately but within hours – versus publishing a CRL, having that CRL in a browser, and processing it.
+-	Considering the perceived timing for an OCSP response showing a revoked status – not immediately but within hours – versus publishing a CRL, having that CRL downloaded, processed, and pushed to the browser via that browser's out-of-band mechanism (e.g. CRLite, CRLSets, Valid).
 -	Unsure how long that takes, but the impression is that it's quite a bit longer. Is there an opportunity for us to improve the timing when using these more modern out-of-band revocation systems? Are there opportunities for improvement?
 
 Dimitris Z.:
