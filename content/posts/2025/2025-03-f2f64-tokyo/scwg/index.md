@@ -309,9 +309,8 @@ Dimitris Z., Harica
 
 ### Removal of id-kp-clientAuth KeyPurposeId from TLS server authentication certificates
 
-**Presenter:** Dimitris Zacharopoulos (HARICA)
-
-**Minute taker:** Adrian Mueller (SwissSign)
+**Presenter:** Dimitris Zacharopoulos (HARICA)  
+**Minute taker:** Adrian Mueller (SwissSign)  
 
 **Discussion:**
 
