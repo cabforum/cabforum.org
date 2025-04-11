@@ -42,11 +42,9 @@ Aaron Gable, the ballot's author said that we should consider the ballot to have
 
 (Browser vs non-Browser use cases, websites accessible to the Internet vs websites accessible to specific networks, relationship with "WebPKI")
 
-**Presenter:** Dimitris Zacharopoulos (HARICA)
-
-**Minute taker:** Wayne Thayer (Fastly)
-
-**Presentation link:** [Clarify the scope of TLS BRs](Clarify-the-scope-of-TLS-Baseline-Requirements.pdf)
+**Presenter:** Dimitris Zacharopoulos (HARICA)  
+**Minute taker:** Wayne Thayer (Fastly)  
+**Presentation link:** [Clarify the scope of TLS BRs](Clarify-the-scope-of-TLS-Baseline-Requirements.pdf)  
 
 **Discussion outside the presentation:**
 
@@ -111,9 +109,8 @@ We could separate requirements for general and browser-specific use cases. It's 
 
 ### Ballot SC081: Introduce Schedule of Reducing Validity and Data Reuse Periods
 
-**Presenter:** Clint Wilson (Apple)
-
-**Minute taker:** Kateryna Aleksieieva (Certum by Asseco Data Systems S.A.)
+**Presenter:** Clint Wilson (Apple)  
+**Minute taker:** Kateryna Aleksieieva (Certum by Asseco Data Systems S.A.)  
 
 **Discussion:**
 
@@ -177,8 +174,9 @@ Aaron: people use CNAME for ..... there are ways to automate even outside of ACM
 
 ### Certificate Revocation: Is it effective at Internet scale? Browser requirements related to ongoing support of OCSP
 
-**Presenter:** Dimitris Zacharopoulos (HARICA)
-**Minute taker:** Marco Schambach (IdenTrust)
+**Presenter:** Dimitris Zacharopoulos (HARICA)  
+**Minute taker:** Marco Schambach (IdenTrust)  
+
 **Discussion:**
 
 Dimitris: 
