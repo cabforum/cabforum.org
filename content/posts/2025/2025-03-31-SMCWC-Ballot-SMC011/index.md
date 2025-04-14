@@ -10,6 +10,55 @@ title: 'Ballot SMC011 - Add EUID as Registration Reference'
 type: post
 ---
 
+## IPR Review of Ballot SMC011: Add EUID as Registration Reference
+
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This 30-day Review Period is for the Final Maintenance Guideline that is attached to this Review Notice.
+
+•	Ballot for Review: Ballot SMC09, redline at https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.9-Redline.pdf 
+•	Start of Review Period: April 14, 2025
+•	End of Review Period: May 14, 2025 at 1700 UTC
+
+Members with any Essential Claims must forward a written notice to exclude Essential Claims by email to the SMCWG Chair (Stephen Davidson) and a copy to the CA/B Forum public mailing list public@groups.cabforum.org before the end of the Review Period.
+
+See current version of CA/Browser Forum Intellectual Property Rights Policy for details. See also https://cabforum.org/about/ipr-policy/. 
+
+## Results of Ballot SMC011: Add EUID as Registration Reference
+
+The voting period for Ballot SMC011: Add EUID as Registration Reference has completed. The ballot has: PASSED
+
+**Voting Results**
+
+Certificate Issuers
+
+17 votes in total:
+
+* 15 voting YES: Asseco Data Systems SA (Certum), Chunghwa Telecom, DigiCert, Disig, D-TRUST, eMudhra, Entrust, GlobalSign, HARICA, IdenTrust, MSC Trustgate Sdn Bhd, SECOM Trust Systems, SwissSign, Telia Company, TWCA
+* 2 voting NO: OISTE, Sectigo
+* 0 ABSTAIN:
+
+Certificate Consumers
+
+2 votes in total:
+
+* 2 voting YES: Mozilla, rundQuadrat
+* 0 voting NO:
+* 0 ABSTAIN:
+
+Bylaws Requirements
+
+1. Bylaw 2.3(6) requires:
+
+* In order for a ballot to be adopted by the Forum, two‐thirds (2/3) or more of the votes cast by the Voting Members in the Certificate Issuer category must be in favour of the ballot. This requirement was MET.
+* at least fifty percent (50%) plus one (1) of the votes cast by the Voting Members in the Certificate Consumer category must be in favour of the ballot. This requirement was MET.
+* At least one (1) Voting Member in each category must vote in favour of a ballot for the ballot to be adopted. This requirement was MET.
+
+2. Bylaw 2.3(7) requires:
+* A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
+* The quorum was 11 for this ballot. This requirement was MET.
+
+This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues. This will be notified in a separate email.
+
+
 ## Ballot SMC011: Add EUID as Registration Reference
 
 ### Summary: 
