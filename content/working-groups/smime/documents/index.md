@@ -56,4 +56,4 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 [18]: /2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/
 [19]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.7.pdf
 [20]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.8.pdf
-[21]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.9.pdf
+[21]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.9-Redline.pdf
