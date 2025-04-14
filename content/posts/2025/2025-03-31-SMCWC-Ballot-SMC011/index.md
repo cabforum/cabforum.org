@@ -38,3 +38,9 @@ This ballot proposes a Final Maintenance Guideline. The procedure for approval o
 * Start time: March 31, 2025 at 13:00:00 UTC
 * End time: April 7, 2025 at 17:00:00 UTC
 
+### Voting for Approval 
+
+* Start time: April 7, 2025 at 17:00:00 UTC
+* End time: April 14, 2025 at 17:00:00 UTC
+
+### IP Review (30 Days)
