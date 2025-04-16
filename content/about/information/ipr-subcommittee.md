@@ -39,4 +39,4 @@ The FIPR will communicate primarily through listserv-based email and shall condu
 
 **6. End Date**
 
-The FIPR will submit its Deliverables to the Forum prior to April 1, 2025, and upon such date the Subcommittee is deemed dissolved.
+The FIPR will submit its Deliverables to the Forum prior to December 1, 2025, and upon such date the Subcommittee is deemed dissolved.
