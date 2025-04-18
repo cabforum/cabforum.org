@@ -114,63 +114,77 @@ We could separate requirements for general and browser-specific use cases. It's 
 
 **Discussion:**
 
-Update of the ballot was sent by Clint Wilson on 25.03.2025, which included the ...
+**Clint Wilson (Apple):** An update on the ballot was sent on 25.03.2025. It included a reduction in domain validation data reuse, dropping from 100 to 10 days between 2028 and 2029. Additionally, the preamble (background description of the ballot) was updated with additional text explaining the benefits and the reasons why this ballot does not focus on revocation.
+The discussion has been ongoing for a week, starting today, and will continue until April 1, 2025. If there is anything people would like to discuss, we can do so here or on the mailing list.
 
-update preamble (background description of the ballot).. explained why this ballot doesn't focus on revocation.
+**Dimitris Zacharopoulos (HARICA):** There was a request for you to elaborate a bit on the 10-day reuse period and the 45-day validity period, and why these are not considered close to each other. Is your argument that these two are different things—reuse of domain validation evidence and certificate validity—that should not be combined? Have you addressed this distinction in the updated preamble?
 
-Discussion is going on for a week from today, until April 1, 2025.
+**Clint Wilson (Apple):** I don’t believe there is exact language on this in the preamble. However, there was a discussion in one of the prior email threads before the current discussion period, which I can copy and paste here to provide some of that background.
 
-Dimitris there was a request to elaborate 10-day reuse period and 45 days, is your argument that those a 2 different things, have you addressed that in the preamble?
+**Dimitris Zacharopoulos (HARICA):** Why can't we have 45 days in both cases?
 
-Why can't we have 45 days in both cases?
+**Clint Wilson (Apple):** We can do that. This was part of the discussion that occurred before the official discussion period, which led to the current proposal. Ultimately, the reason is that DCV is intended to be highly automated, and it represents the core identity presented in the certificate—the identity used by any relying party or certificate consumer. The goal is to keep this information as fresh as possible. As mentioned in the preamble, the certificate represents what was true at the point in time it was issued. Currently, it represents what was true at some point in the preceding 796 days. After this ballot, we will know that the information was accurate within the last 20 days, which is meaningful for certificate consumers in terms of understanding the reliability of the information certified by the CA.
+Addressing the validity period of the certificate is a larger step, and I didn't want to take that on in this ballot. Certificate rotation is a different process involving different systems and could potentially impact on the availability of sites on the web. On the other hand, domain validation is a separate process that involves DNS records or files on a site, which is distinct from certificate replacement. This difference is substantial enough to treat them differently. 
+If we could have ten-day certificates, that would be great, but there are other concerns that need to be addressed first. As a result, I limited the reduction of the domain validity period to 47 days. However, I’m not aware of the same concerns applying to domain validation, so I reduced that period to ten days. That’s my answer.
 
-Clint: I guess we could, that's part of the discussion, domain validation is certainly attend to be highly automateable and it's core of the certificate. Having that as fresh a possible, should be a goal.
+**Trevoli Ponds-White (Amazon):** I noticed your question in the email about the new ballot version and whether we should start a new discussion thread, since the old one is quite long, maybe we should discuss that here too?
 
-Right now it says that it was verified at some point pretty long time ago, that is something very meaningful to certificate consumers, shows how reliable CA is.
+**Clint Wilson (Apple):** Technically, the ballot is now SC081-v3. There’s a fairly long discussion in the thread, and I kept it in to preserve the context. However, if people prefer to move it to a separate discussion thread, I’m fine with either option.
 
-Rotation of certificates is a different process..
+**Dimitris Zacharopoulos (HARICA):** My argument regarding the reuse period is that, first of all, I agree with you. The issues of certificate and domain validation are a point-in-time check, and this applies to any system that verifies information—it is verified at the moment of verification.
+The period for how long you can reuse that information is typically a risk evaluation issue. How frequently does this information change? What are the risks of using falsified information, and so on? In domain validation, we’re checking base domain names, and the change of ownership in domain validation is very minimal. I don’t recall the exact statistics, but it’s less than 0.1% of domain names in ICANN TLDs, like .com and .int.
+If we require domain validation to be renewed every 10 days, it needs to be automated. Is it reasonable to re-validate so frequently for something that changes so rarely?
 
-Trev: mentioned that there was a question in the new ballot version if we want to start a new discussion thread, because old one is really long, maybe we should discuss that here?
+**Clint Wilson (Apple):** Part of a risk assessment also involves a benefit analysis. Ideally, the cost of performing domain validation will be low enough that the benefits will more than justify it. But that’s only one aspect of the situation.
 
-Client confirmed that we can discuss that, he's ok with both options
+**Andrew Chen (Netflix):** Hi, I’m Andrew from Netflix, and we're an interested party here. I’d like to discuss the whole process of domain ownership change and validation.
+One of our common use cases involves delegating a subdomain to a third-party vendor, which has a contract with us for a certain period of time. At the end of the contract, we remove all delegations. However, because the domain validation continues, the vendor can still issue certificates for any subdomain we delegated to them during that period. This won’t be reflected in ICANN records or anything that can be easily scanned across the internet.
+My point is that these changes in control are likely happening much more frequently than can be recognized by, for example, ICANN domain scans.
 
-Dimitris: ... it is verified at the point when you do the verification, data reuse is a risk evaluation.
+**Ryan Dickson (Google):** Dimitris, you mentioned that some subscribers would be revalidating DCV every 10 days, and I understand that this is a practice some subscribers follow so that at any point in time, when they need a new certificate, they’re eligible to get one instantly.
+If we imagine a world with reduced validity and increased automation, prevalidation really isn’t necessary, it could even be seen as wasteful. If clients can reliably get new certificates and, as part of that process, demonstrate control over the domain in real time, in a matter of seconds, performing the same validation step every 10 days doesn't offer much additional value. It might demonstrate that automation is still working, which could be valuable, but ultimately, I don’t see it as essential in a world with such automation.
 
-Change of ownership in the domain validation is very small, we will require to renew domain validation every 10 days, is that reasonable to re-validate it so often for something that changes so rarely?
+**Dimitris Zacharopoulos (HARICA):** I'm not even going to mention technically constrained subCAs, but what would they need to do? Normally, the CA relies on the reuse of domain validation information to keep those certificates alive. Without this, they would need to stop issuance.
+Like you said, it could be wasteful, but I’ve seen that some subscribers are concerned. They don’t want to wait until the last minute to issue the certificate because there could be a technical glitch or some other unexpected situation that prevents them from issuing it. They prefer to have that part validated and ready in advance, as it depends on other systems they don’t always control.
 
-Clint: part of a risk assessment is a benefit analysis, benefit is more than enough to justify
+**Aaron Gable (ISRG):** Ryan covered most of what I was going to say, but in general, subscribers should not rely on having a valid domain control validation (DCV) document at any given time. It’s possible that the CA could discover a failure in DCV and have to perform a mass revocation. In that case, they would need to deactivate all validation documents to prevent them from being reused, as the validation was performed incorrectly. Any validation that a subscriber thinks they can rely on might vanish at any time.
+Any subscriber issuing certificates frequently must be prepared to reperform validation instantly whenever a certificate issuance request arises. The flow should be like this: attempt to issue the certificate, and if you’re told validation is missing, conduct the validation and then continue issuing the certificate. With this approach in mind, the idea of validating every 10 days on a cron job becomes irrelevant. Issue certificates until you can’t, then perform validation and continue issuing until you can’t. This is the mode used by ACME, and I think it's a valuable approach that increases resilience.
+The fewer assumptions a subscriber makes about the state of their validations, the better. The more agility they have to react to changes in the state of their validations, the better. In my view, the concept of constantly revalidating isn’t doing subscribers any favors. Reducing validation document reuse to 10 days won’t have any meaningful impact on subscribers who are using best practices and reacting swiftly as they should be.
 
-Andrew from Netflix, Interested party: .. they remove all delegation after the finish of the contract. Change of controls might happen more often than can be recognized
+**Nick France (Sectigo):** I completely agree with what Aaron said, and I want to add to Andrew’s earlier point as well.
+To your point, Dimitris, domain verification is about verifying an FQDN, it’s tied to DNS records, not domain ownership, and has nothing to do with ICANN. Many certificates are issued for subdomains or domains that the requester doesn’t technically “own.” For example, someone could obtain a certificate for an S3 bucket on AWS, which has no real connection to the root domain.
+I’d like to explore how domain validation reuse periods could be scoped based on the type of subscriber.
+If you’re an Enterprise RA and validate your domain every 10 days, that’s generally fine. You can issue certificates as needed for your own domains, and the BRs already contain language allowing issuance for affiliates or legal subsidiaries.
+But if you’re a reseller, someone who’s just signed up with a CA to offer certificates alongside other services, then it doesn’t make sense for you to benefit from extended domain validation reuse. There shouldn’t be a situation where I, as a reseller, validate a domain on behalf of someone else (say, Tim), and then get to issue certificates for tim.com for the next year. That’s clearly inappropriate.
+Martijn and I have been discussing internally the idea of scoping domain validation reuse specifically to Enterprise RAs, since the BRs don’t currently define “reseller” as a concept. Rather than trying to introduce a new concept into the BRs, it would make more sense to limit reuse of domain validation to entities that are clearly defined, like Enterprise RAs.
+As Aaron said, all subscribers should ideally validate each SAN entry and DNS name at the time of the request. A 10-day reuse period might be a reasonable concession for some of the practical issues we've discussed, but only in contexts where it's appropriate and secure to allow that reuse.
 
-Ryan: ..In a world with reused validity and automation, if clients can reliably ... I
+**Andrew Chen (Netflix):** I completely agree with everything Aaron said, and I want to clarify my position regarding domain validation reuse.
+I do think reuse is valuable, I wouldn't want to end up in a situation where validation has to be redone for every single certificate issuance, with no reuse allowed at all. That model just wouldn't work well at scale.
+As we move toward shorter-lived certificates, the volume of issuances increases. In my case, I’m likely issuing around 40,000 certificates per day using the same set of SANs. Ideally, I want to be able to reuse the validation data at least within that one-day window, so I don’t have to revalidate the same SANs for each of those 40,000 certificates.
+As Aaron mentioned, automation helps here, once things are running, I’ll just be continually refreshing the validation data, say, once per day. Even if I get challenged to revalidate at some point, it’s just a small bump that I can handle in a matter of minutes.
 
-Dimitris: not mentioning technically constrained CAs, normally CAs rely on .. like you said it would be a waste, some subscribers are worried, they want to have that validated part ready
+**Dimitris Zacharopoulos (HARICA):** In response to Nick, in most cases, the reseller issue is an entirely different matter. We've seen numerous incidents involving delegated authority to resellers, who then reused that information for compromised websites or other problematic behavior. It's a difficult issue that hasn’t been fully addressed, and I acknowledge the concerns you're raising.
+My original comment was primarily focused on enterprise cases, where organizations validate the base domain and then want to issue certificates for any subdomains under their control. These entities often prefer not to repeat the same validation daily. Some level of efficiency is important, and a 10-day reuse period feels like a reasonable upper limit. I understand and respect the general sentiment and emerging consensus around that being acceptable.
 
-Aaron: Ryan said most of Ryan was about to say, in general subscriber should not count on a domain validation document, it is possible that if CA discovers that they failed to do DCV correctly and have to do mass revocation
+**Nick France (Sectigo):** I think that if enterprises had their way, they’d prefer to go back to the model we had 15 years ago—issuing certificates with 10–20-year validity and only having to go through validation once every couple of decades. But we need to move forward. A 10-day domain control validation (DCV) reuse period is a reasonable step in that direction, rather than requiring fresh DCV for every single issuance.
 
-.... every validation subscriber needs to be ready to re-perform validation and then finish trying to issue the certificate. You continue issuing certificates until you can't, that's the way it's done in ACME, ...
+**Trevoli Ponds-White (Amazon):** The only caution I want to raise is that I feel we sometimes stray into the territory of what some of us call “shared responsibility.” I think trying to over-solve the problem, where someone delegates control of a domain to someone else, falls into that category. I don’t necessarily think it’s a problem we should be solving through the BRs.
+This is like earlier discussions we’ve had about trying to police the internet, debates around what constitutes “misuse” of a certificate, or whether we should create extra rules to guess at user intent. I don’t have a strong opinion about the exact reuse timeframe, but I don’t think it's appropriate for us to step in when someone delegates control of their domain for a long period. We simply don’t know how long they intend that delegation to last. Some use cases might only require 10 days, others might involve contracts with service providers lasting years, and that should be up to them.
+That said, I’m looking forward to wrapping up this discussion. I think we should move on to other important topics we’ve touched on previously—like the ability to rekey a certificate without redoing validation. A big concern that keeps coming up in these discussions is how to respond to incidents, especially when you need to quickly replace a certificate. In my view, key compromise is the primary incident we’re trying to address.
+So, one of the next things we should consider is the proposal Ryan raised, which I believe Slaughter will discuss later, about allowing multiple validations to support rekeying without revalidation. Especially in a world of shorter-lived certs, like the proposed 47-day certificates, that would be a very useful tool to address many of the concerns we're discussing now.
 
-Nick from Sectigo: agree, ... domain validation reuse period in the terms of how they are scoped ...
+**Dimitris Zacharopoulos (HARICA):** We have at least 2 years to get CA assisted validation ready.
 
-Legal subsidiary, ... let's scope domain reuse to enterprise RA, maybe 10 day reuse will be solving..
+**Aaron Gable (ISRG):** I was just looking at some of our metrics, we’re performing a large number of DCV each day. At the 75th percentile, the time to complete a validation is approximately 1 second for HTTP and 0.5 seconds for DNS. So, domain validation via automation is incredibly fast, easy, and cheap. I have no concerns about having to do it every 10 days. It consumes virtually no CPU or network resources. Those timings—even 0.5 and 1 second—include full multi-perspective validation from four global perspectives. In an automated environment, the cost of redoing validation isn’t a meaningful burden.
 
-Andrew from Netflix: agreed to Aaron, ...
+**Adrian Mueller (SwissSign):** I see how ACME validation can be easily automated. But I don’t understand how DNS validation can be fully automated. When I look at our customers, in many cases the certificate administrator is not the same person responsible for DNS. Often someone has to manually email the validation token to someone else who can update DNS.
 
-Dimitris: most use cases, delegating things to resellers, we haven't really addressed this issue here and it's difficult to address. .... some efficiency, it's good, 10-days is kind of a limit to that, but I understand the
+**Dimitris Zacharopoulos (HARICA):** Only if you do the automation, it works like that.
 
-Nick: 10 day is a reasonable way forward that having a new DCV any single time
+**Aaron Gable (ISRG):** Exactly. For DNS validation, many people use CNAME delegation for the _well-known or _acme-challenge subdomain to a separate DNS server they directly control. So instead of emailing a token to a DNS provider that controls example.com, they ask that provider once to delegate something like _acme-challenge.subdomain.example.com to a lightweight DNS server under their control, which supports fast updates and no caching. After that, all DCV requests are routed to this delegated DNS, enabling full automation.
+This approach doesn’t require ACME, you can use it for method 3.2.2.4.7 under any protocol. So even in cases where customers use DNS providers with slow update processes, there are ways to automate DNS validation effectively.
 
-Trev: the only caution is when we try to solve the problem, where someone delegates the responsibility .... trying to make rules to guess this things.. we also don't know how long they want to do that. Someone is contracting the service and wants to do this for years. Trev is looking for this topic to end and start discussing other ideas, big concerns are biggest incidents like key compromise, ...
-
-Dimitris: we have at least 2 years to get CA assisted validation ready
-
-Aaron Gable: I was looking at our matrix, we are doing a lot of DCV, timing is , domain validation via automation is fast and easy and cheap, so I don't have concerns.
-
-Adrian Miller: doesn't understand how DCV validation can be fully validated, some
-
-Dimitris: only if you do the automation, it works
-
-Aaron: people use CNAME for ..... there are ways to automate even outside of ACME
 
 ### Certificate Revocation: Is it effective at Internet scale? Browser requirements related to ongoing support of OCSP
 
