@@ -13,7 +13,7 @@ In order to participate as an Interested Party in the Forum / Working Group, you
 
 1. Review the [Intellectual Property Rights policy][2] and complete the IPR agreement found there. If applying as an entity, the IPR Policy Agreement MUST be signed by a representative that is authorized to bind the entity to the agreement.
 
-1. Send an email to questions@cabforum.org with your name, organization (if applicable), contact details and the signed IPR agreement with the subject: Participation as an Interested Party in the \[Working Group Name\] Working Group.
+1. Send an email to questions@cabforum.org with your name, organization (if applicable), contact details and the signed IPR agreement with the subject: Participation as an Interested Party in the \[Working Group Name\] Working Group. Be sure to specify the name(s) of the working group(s) that you would like to participate in.
 
 ### Current Interested Parties at the Forum level
 
