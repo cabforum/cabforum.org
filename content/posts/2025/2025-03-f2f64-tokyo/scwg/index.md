@@ -90,9 +90,9 @@ Dustin said that he can envision use cases where a CA may have roots only truste
 
 Rich Smith said that TLS certs are for browsers - this is not a question. The problem for CAs is that browser root stores are what there is - no other use cases are represented by root stores.
 
-Ryan Dickson said that web browsers are fundamentally the same in their reliance on TLS. Operating systems extend this. Ryan said that they did not prohibit roots containing clientAuth and nothing is broken now since there are 1000 days for this transition.
+Ryan Dickson said that earlier comments misrepresented the Chrome Root Program policy and the views of the Chrome Root Program. Ryan described that web browsers are fundamentally the same in that they rely on TLS server authentication certificates to establish secure connections to websites. He said it is also true that operating systems extend this to also consider other TLS use cases like client authentication. It is possible to accomplish both of these things. Chrome has not made a blanket prohibition against use of clientAuth in roots that are not included in the Chrome Root Store - and that can be handled in a number of ways. It’s inaccurate to say things are broken now because of the future policy, which will offer 1000 days of transition time from the time it was announced. 
 
-Clint WIlson said that Apple approaches the TLS root program as supporting more than browser use cases - most are applications and it's working fine. Clint said that Apple would be happy to ban clientAuth if that would help - it wouldn't affect their program - and they added clientAuth only root support to allow for separattion
+Clint Wilson said that Apple approaches the TLS root program as supporting more than browser use cases - most are applications and it's working fine. Clint said that Apple would be happy to ban clientAuth if that would help - it wouldn't affect their program - and they added clientAuth only root support to allow for separattion
 
 Jeremy Rowley said that membership is not limited to browsers. The CAB Forum controls the serverAuth EKU. for all server use cases. Hope we don't require a different root store for OS and browser. Be careful not to let Chrome requirement impact all consumers.
 
@@ -244,7 +244,6 @@ Trev.:
 Aaron G.: 
 -	Disagree with the statement that revocation is dead.
 - Believe that revocation has been broken for many years.
--	Many relying parties either don’t check OCSP or fail to contact the OCSP server, preventing anyone from realizing that the certificate has been revoked.
 -	Many relying parties either don’t check OCSP or fail to contact the OCSP server, preventing anyone from realizing that the certificate has been revoked.
 -	Think OCSP has real privacy problems.
 -	Not excited about maintaining OCSP services and looking forward to shutting them down.
