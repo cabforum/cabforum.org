@@ -4,7 +4,7 @@ date: 2025-03-12 00:00:00
 tags:
 - Minutes
 - S/MIME
-title: 2025-02-26 Minutes of the S/MIME Certificate Working Group
+title: 2025-03-12 Minutes of the S/MIME Certificate Working Group
 slug: minutes-of-the-s-mime-certificate-working-group
 type: post
 ---
