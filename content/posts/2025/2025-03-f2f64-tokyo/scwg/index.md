@@ -9,7 +9,7 @@ title: Minutes of the F2F 64 Meeting in Tokyo, Japan - SCWG, March 26, 27, 2025
 type: post
 ---
 
-# THESE ARE DRAFT MINUTES THAT HAVE NOT BEEN APPROVED OR FINALIZED YET
+# SCWG Minutes on Day 2 Wednesday, 26 March 2025, of the F2F 64 Meeting in Tokyo, Japan
 
 ## Attendance
 
