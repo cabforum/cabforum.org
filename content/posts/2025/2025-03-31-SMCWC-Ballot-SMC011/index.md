@@ -10,6 +10,13 @@ title: 'Ballot SMC011 - Add EUID as Registration Reference'
 type: post
 ---
 
+The Intellectual Property Review (IPR) period for Ballot SMC011 (Add EUID as Registration Reference) has completed.
+
+No IPR Exclusion Notices were filed, and the ballot is adopted as of May 14, 2025.
+
+The new S/MIME BR v.1.0.9 have been published to the CABF public website in accordance with the Bylaws:  https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.9.pdf
+
+
 ## IPR Review of Ballot SMC011: Add EUID as Registration Reference
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This 30-day Review Period is for the Final Maintenance Guideline that is attached to this Review Notice.
