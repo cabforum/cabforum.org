@@ -1,3 +1,13 @@
+---
+title: 'Ballot SMC012: Introduce ACME for S/MIME'
+author: Stephen Davidsoon
+date: 2025-05-19
+tags:
+- S/MIME
+- Ballot
+type: post
+slug: Ballot-SMC-012
+---
 ## Ballot SMC012: Introduce ACME for S/MIME
 
 ### Summary: 
