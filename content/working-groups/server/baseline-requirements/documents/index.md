@@ -9,7 +9,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.1.5][TBR215] ([redlined][TBR25r]) – adopted by Ballot [SC081v3][sc081v3]
+[CA-Browser-Forum TLS BR 2.1.5][TBR215] ([redlined][TBR215r]) – adopted by Ballot [SC081v3][sc081v3]
 
 ### Previous Versions
 
