@@ -50,11 +50,11 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 **Ballot for Review**:  SC-081v3: Introduce Schedule of Reducing Validity and Data Reuse Periods
 
-[TBR-SC81.pdf](BR-SC81v3.pdf)
+[TBR-SC81.pdf](BR-SC081v3.pdf)
 
-[TBR-SC81-redlined.pdf](BR-SC81v3-redlined.pdf)
+[TBR-SC81-redlined.pdf](BR-SC081v3-redlined.pdf)
 
-[TBR-SC81.docx](BR-SC81v3.docx)
+[TBR-SC81.docx](BR-SC081v3.docx)
 
 **Start of Review Period**: 2025-04-13 03:00:00 UTC
 
