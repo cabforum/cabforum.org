@@ -64,12 +64,29 @@ jobs:
         run: |
           PANDOC_PATH=$(which pandoc)
           NEW_PATH="${HOME}/.local/bin"
-          mkdir -p $NEW_PATH
+          mkdir -p "$NEW_PATH" # Ensures the directory exists
 
-          echo -e '#!/bin/bash\n'${PANDOC_PATH}' -f markdown+gfm_auto_identifiers --table-of-contents --lua-filter=pandoc/filters/headers.lua "$@"' > "${NEW_PATH}/pandoc"
-          chmod +x "${NEW_PATH}/pandoc"
+          WRAPPER_SCRIPT="${NEW_PATH}/pandoc"
+          FILTER_DIR="pandoc/filters"
 
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
+          # Build the string of --lua-filter arguments by iterating through the filter directory
+          LUA_FILTER_ARGS=""
+          for filter_file in "${FILTER_DIR}"/*.lua; do
+            # Check if the file exists (important if no .lua files are present)
+            if [ -f "$filter_file" ]; then
+              LUA_FILTER_ARGS+=" --lua-filter=${filter_file}"
+            fi
+          done
+
+          # Write the Pandoc wrapper script using a heredoc
+          cat << 'EOF' > "${WRAPPER_SCRIPT}"
+          #!/bin/bash
+          "${PANDOC_PATH}" -f markdown+gfm_auto_identifiers --table-of-contents${LUA_FILTER_ARGS} "$@"
+          EOF
+
+          chmod +x "${WRAPPER_SCRIPT}"
+
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
