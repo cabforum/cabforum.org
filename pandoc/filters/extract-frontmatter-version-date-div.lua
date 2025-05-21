@@ -3,9 +3,9 @@ function Doc(doc)
   local date_text = ""
 
   -- Extract version
-  if doc.meta.version and doc.meta.version.c then
+  if doc.meta.version then
     version_text = pandoc.utils.stringify(doc.meta.version)
-  elseif doc.meta.subtitle and doc.meta.subtitle.c then
+  elseif doc.meta.subtitle then
     local subtitle_str = pandoc.utils.stringify(doc.meta.subtitle)
     local semantic_version = subtitle_str:match("([%d%.]+)")
     if semantic_version then
@@ -16,7 +16,7 @@ function Doc(doc)
   end
 
   -- Extract date
-  if doc.meta.date and doc.meta.date.c then
+  if doc.meta.date then
     date_text = pandoc.utils.stringify(doc.meta.date)
   end
 
