@@ -6,11 +6,11 @@
     )
 -}}
 
-{{- with resources.GetRemote $url $opts -}}
+{{- with try (resources.GetRemote $url $opts) -}}
     {{- with .Err -}}
-        {{- warnf "%s - %s" . $url -}}
-        Unable to retrieve members of working-group {{ $.Get `forum_group_name` }} from the membership tools.
-    {{- else -}}
+        {{- warnf "Failed to retrieve members: %s - %s" . $url -}}
+        Unable to retrieve members of working-group {{ $.Get `wg` }} from the membership tools.
+    {{- else with .Value -}}
         {{- with . | transform.Unmarshal -}}
             <ul>
                 {{- range . -}}
@@ -31,4 +31,6 @@
             {{- end -}}
         {{- end -}}
     {{- end -}}
+{{- else -}}
+    Unable to retrieve members of working-group {{ $.Get `wg` }} from the membership tools.
 {{- end -}}

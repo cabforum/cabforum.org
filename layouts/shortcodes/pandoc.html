@@ -1,13 +1,47 @@
 {{- $url := (.Get `url`) -}}
-{{- with resources.GetRemote $url -}}
+{{- with try (resources.GetRemote $url) -}}
     {{- with .Err -}}
-        {{- warnf "%s - %s" . $url -}}
-    {{ else }}
-        {{ $opts := dict "markup" "markdown" }}
-        {{ if os.Getenv "CABF_PANDOC_ENABLED" }}
-            {{ $opts = dict "markup" "pandoc" }}
-        {{ end }}
-        {{ .Content | $.Page.RenderString $opts }}
+        {{- warnf "Failed to retrieve pandoc: %s - %s" . $url -}}
+        Unable to retrieve pandoc from {{ $url }}.
+    {{- else with .Value -}}
+        {{- $frontmatterPattern := `(?s)^\s*---\s*\n(.*?)\n\s*---\s*\n?` -}}
+        {{- $frontmatterMatch := findRE $frontmatterPattern .Content 1 -}}
+        {{- $frontmatterData := dict -}}
+        {{- $content := .Content -}}
+        
+        {{- if $frontmatterMatch -}}
+            {{- $frontmatterYaml := replaceRE $frontmatterPattern "$1" (index $frontmatterMatch 0) -}}
+            {{- $frontmatterData = transform.Unmarshal $frontmatterYaml -}}
+            {{- $content = replaceRE $frontmatterPattern "" $content -}}
+        {{- else -}}
+            {{- warnf "No frontmatter found in pandoc content (%s)" $url -}}
+        {{- end -}}
+
+        {{- $opts := dict "markup" "markdown" -}}
+        {{- if os.Getenv "CABF_PANDOC_ENABLED" -}}
+            {{- $opts = dict "markup" "pandoc" -}}
+        {{- else -}}
+            {{- warnf "Pandoc is not enabled. Using markdown instead." -}}
+        {{- end -}}
+
+        {{- $version := $frontmatterData.version -}}
+        {{- if not $version -}}
+            {{- $matches := findRE `\d+\.\d+\.\d+(?:-[A-Za-z0-9.-]+)?` $frontmatterData.subtitle -}}
+            {{- if $matches -}}
+                {{- $version = index $matches 0 -}}
+            {{- end -}}
+        {{- end -}}
+
+        <div class="d-flex justify-content-end align-items-center">
+            {{- with $version -}}
+                <span class="badge bg-primary me-2">Version: {{ . }}</span>
+            {{- end -}}
+            {{- with $frontmatterData.date -}}
+                <span class="badge bg-secondary">Date: {{ . }}</span>
+            {{- end -}}
+        </div>
+
+        {{- $content | $.Page.RenderString $opts -}}
     {{- end -}}
 {{- else -}}
     Unable to retrieve markdown from {{ $url }}.

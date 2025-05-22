@@ -13,16 +13,13 @@
 -}}
 
 {{- $ballots := "" -}}
-{{- with resources.GetRemote $url $opts -}}
+{{- with try (resources.GetRemote $url $opts) -}}
     {{- with .Err -}}
-        {{- warnf "%s - %s" . $url -}}
-        Unable to retrieve ballots for working-group {{ $forum_group_name }} from the membership tools.
-    {{- else -}}
-
+        {{- warnf "Failed to retrieve ballots: %s - %s" . $url -}}
+    {{- else with .Value -}}
         {{- with . | transform.Unmarshal -}}
             {{- $ballots = . -}}
         {{- end -}}
-
     {{- end -}}
 {{- else -}}
     {{- warnf "Unable to retrieve the response from %s" $url -}}
