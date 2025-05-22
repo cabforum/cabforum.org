@@ -21,9 +21,9 @@ The new S/MIME BR v.1.0.9 have been published to the CABF public website in acco
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This 30-day Review Period is for the Final Maintenance Guideline that is attached to this Review Notice.
 
-•	Ballot for Review: Ballot SMC09, redline at https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.9-Redline.pdf 
-•	Start of Review Period: April 14, 2025
-•	End of Review Period: May 14, 2025 at 1700 UTC
+* Ballot for Review: Ballot SMC09, redline at https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.9-Redline.pdf 
+* Start of Review Period: April 14, 2025
+* End of Review Period: May 14, 2025 at 1700 UTC
 
 Members with any Essential Claims must forward a written notice to exclude Essential Claims by email to the SMCWG Chair (Stephen Davidson) and a copy to the CA/B Forum public mailing list public@groups.cabforum.org before the end of the Review Period.
 
