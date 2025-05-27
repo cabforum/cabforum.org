@@ -13,6 +13,7 @@ slug: Ballot-SMC-012
 ### Summary: 
 
 This ballot introduces a new method for validation of mailbox control, using ACME for S/MIME as defined in RFC 8823: Extensions to Automatic Certificate Management Environment for End-User S/MIME Certificates.
+
 Although similar to the existing method (3.2.2.2) “Validating control over mailbox via email”, ACME for S/MIME has been defined in a new method in order to better describe how a CA’s ACME server may respond to a POST request by sending the Random Value token components via email and SMTP.
 
 The S/MIME Certificate Working Group encourages the proposal of new methods to facilitate the validation of mailbox authorization or control.
@@ -32,10 +33,17 @@ https://github.com/cabforum/smime/compare/8c8fab7993de3c1c423e704947ce880165924a
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-Discussion (at least 7 days)
+**Discussion (at least 7 days)**
 
 * Start time: May 19, 2025 at 17:00:00 UTC
 
 * End time: May 26, 2025 at 17:00:00 UTC
 
+**Voting for Approval**
+
+* Start time: May 26, 2025 at 17:00:00 UTC
+
+* End time: June 2, 2025 at 17:00:00 UTC
+
+**IP Review (30 Days)**
 
