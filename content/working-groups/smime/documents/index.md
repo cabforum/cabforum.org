@@ -59,5 +59,5 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 [21]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.9-Redline.pdf
 [22]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.9.pdf
 [23]: /2025/2025-03-31-SMCWC-Ballot-SMC011/
-[24]: 
+[24]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.10-Redline.pdf
 [25]: /2025/2025-05-19-SMCWC-Ballot-SMC012/
