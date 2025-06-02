@@ -9,6 +9,19 @@ type: post
 slug: Ballot-SMC-012
 ---
 
+## IPR Review of Ballot SMC012: Introduce ACME for S/MIME
+
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email.
+
+**Summary of Review**
+
+Ballot for Review: https://cabforum.org/2025/05/19/ballot-smc-012/. A redline is available at https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.10-Redline.pdf
+
+* Start of Review Period: 2025-06-02 18:00:00 UTC
+* End of Review Period: 2025-07-02 18:00:00 UTC
+
+Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (Stephen Davidson) and also submit a copy to the CA/B Forum public mailing list (public@groups.cabforum.org) before the end of the Review Period. For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.  (An optional template for submitting an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf)
+
 ## Results of Ballot SMC012: Introduce ACME for S/MIME
 
 The voting period for SMC012: Introduce ACME for S/MIME has completed. The ballot has: PASSED
