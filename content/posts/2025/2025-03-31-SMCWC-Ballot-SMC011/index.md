@@ -1,6 +1,7 @@
 ---
 aliases:
 - /2025/03/31/Ballot SMC011 - Add EUID as Registration Reference
+- SMC011
 author: Stephen Davidson
 date: 2025-03-31
 tags:

@@ -7,6 +7,8 @@ tags:
 - Ballot
 type: post
 slug: Ballot-SMC-012
+Aliases: 
+- SMC012
 ---
 
 ## IPR Review of Ballot SMC012: Introduce ACME for S/MIME
