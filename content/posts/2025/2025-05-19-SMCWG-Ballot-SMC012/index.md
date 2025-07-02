@@ -11,6 +11,12 @@ Aliases:
 - SMC012
 ---
 
+The Intellectual Property Review (IPR) period for Ballot SMC012 (Ballot SMC012: Introduce ACME for S/MIME) has completed.
+
+No IPR Exclusion Notices were filed, and the ballot is adopted as of July 2, 2025.
+
+The new S/MIME BR v.1.0.10 have been published to the CABF public website in accordance with the Bylaws:  https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.10.pdf
+
 ## IPR Review of Ballot SMC012: Introduce ACME for S/MIME
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email.
