@@ -32,37 +32,50 @@
         {{- end -}}
     {{- end -}}
     
-    {{- $robotoBlack := resources.Get "/fonts/Roboto-Black.ttf" -}}
-    {{- with $robotoBlack.Err -}}
-        {{- errorf "Failed to load font: %s" . -}}
+    {{- $robotoBlack := false -}}
+    {{- $robotoLight := false -}}
+    
+    {{- with try (resources.Get "/fonts/Roboto-Black.ttf") -}}
+        {{- with .Err -}}
+            {{- warnf "Failed to load font: %s" . -}}
+        {{- else -}}
+            {{- $robotoBlack = .Value -}}
+        {{- end -}}
     {{- end -}}
 
-    {{- $robotoLight := resources.Get "/fonts/Roboto-Light.ttf" -}}
-    {{- with $robotoLight.Err -}}
-        {{- errorf "Failed to load font: %s" . -}}
+    {{- with try (resources.Get "/fonts/Roboto-Light.ttf") -}}
+        {{- with .Err -}}
+            {{- warnf "Failed to load font: %s" . -}}
+        {{- else -}}
+            {{- $robotoLight = .Value -}}
+        {{- end -}}
     {{- end -}}
 
-    {{- $img := resources.Get "/images/cabforum-og.png"  -}}
-    {{- $img = $img | images.Filter (
-    images.Text .Title (dict 
-            "color" "#333333" 
-            "size" $titleSize
-            "linespacing" 8
-            "x" 70 "y" 100
-            "font" $robotoBlack ))              
-    | images.Filter (images.Text (string ($summary | truncate $summaryTruncate)) (dict 
-            "color" "#333333" 
-            "size" 30
-            "linespacing" 10
-            "x" 70 "y" $summaryY
-            "font" $robotoLight ))               
-    -}}
+    {{- if and $robotoBlack $robotoLight -}}
+        {{- $img := resources.Get "/images/cabforum-og.png"  -}}
+        {{- $img = $img | images.Filter (
+        images.Text .Title (dict 
+                "color" "#333333" 
+                "size" $titleSize
+                "linespacing" 8
+                "x" 70 "y" 100
+                "font" $robotoBlack ))              
+        | images.Filter (images.Text (string ($summary | truncate $summaryTruncate)) (dict 
+                "color" "#333333" 
+                "size" 30
+                "linespacing" 10
+                "x" 70 "y" $summaryY
+                "font" $robotoLight ))               
+        -}}
 
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:title" content="{{ .Title }}"/>
-    <meta name="twitter:description" content="{{ $summary }}"/>
-    <meta name="twitter:site" content="@PKIConsortium"/>
-    <meta name="twitter:image" content="{{ $img.Permalink }}"/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="{{ .Title }}"/>
+        <meta name="twitter:description" content="{{ $summary }}"/>
+        <meta name="twitter:site" content="@PKIConsortium"/>
+        <meta name="twitter:image" content="{{ $img.Permalink }}"/>
 
-    <meta property="og:image" content="{{- $img.Permalink -}}" data-pagefind-default-meta="image[content]"/>
+        <meta property="og:image" content="{{- $img.Permalink -}}" data-pagefind-default-meta="image[content]"/>
+    {{- else -}}
+        {{- warnf "Could not generate social media image: missing fonts" -}}
+    {{- end -}}
 {{- end -}}

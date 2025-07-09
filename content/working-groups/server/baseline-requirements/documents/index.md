@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.1.4][TBR214] ([redlined][TBR214r]) – adopted by Ballot [SC084][sc084]
+[CA-Browser-Forum TLS BR 2.1.5][TBR215] ([redlined][TBR215r]) – adopted by Ballot [SC081v3][sc081v3]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.1.4][TBR214] ([redlined][TBR214r]) – adopted by Ballot [SC084][sc084]
 
 [CA-Browser-Forum TLS BR 2.1.3][TBR213] ([redlined][TBR213r]) – adopted by Ballot [SC083][sc083]
 
@@ -203,6 +205,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR215]: CA-Browser-Forum-TLS-BR-2.1.5.pdf
+[TBR215r]: CA-Browser-Forum-TLS-BR-2.1.5-redlined.pdf
+[sc081v3]: /2025/04/11/ballot-sc-81v3-Introduce-Schedule-of-Reducing-Validity-and-Data-Reuse-Periods
 [TBR214]: CA-Browser-Forum-TLS-BR-2.1.4.pdf
 [TBR214r]: CA-Browser-Forum-TLS-BR-2.1.4-redlined.pdf
 [sc084]: /2025/01/28/ballot-sc-84-DNS-Labeled-with-ACME-Account-ID-Validation-Method
