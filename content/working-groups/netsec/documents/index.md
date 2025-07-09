@@ -84,9 +84,8 @@ On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certifi
 
 [35]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-FG-NCSSR-2.0.4.pdf
 [36]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-NCSSR-2.0.4-redline.pdf
-[37]: /2025/02/05/ballot-ns-007/
+[37]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/ballot-ns-007/
 
 [38]: /posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-FG-NCSSR-2.0.5.pdf
 [39]: /posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-NCSSR-2.0.5-redline.pdf
-[40]: /2025/06/03/ballot-ns-008/
-
+[40]: /posts/2025/2025-06-03-NSWG-Ballot-NS-008/ballot-ns-008/

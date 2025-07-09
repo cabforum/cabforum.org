@@ -1,12 +1,15 @@
 ---
 title: 'Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements'
 author: Clint Wilson
-date: 2025-06-03 16:00:00
+date: 2025-06-03
 tags:
 - Network Security
 - Ballot
 type: post
 slug: Ballot-NS-008
+Aliases: 
+- NS-008
+- NS008
 ---
 
 ## IPR Review of Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems
