@@ -12,13 +12,15 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 
 NA
 
-
 ### Current Version 
 
-[S/MIME Baseline Requirements v. 1.0.8][20] [(redlined)][17] – adopted by Ballot [SMC010][18]
-
+[S/MIME Baseline Requirements v. 1.0.10][26] [(redlined)][24] – adopted by Ballot [SMC012][25]
 
 ### Previous Versions 
+
+[S/MIME Baseline Requirements v. 1.0.9][22] [(redlined)][21] – adopted by Ballot [SMC011][23]
+
+[S/MIME Baseline Requirements v. 1.0.8][20] [(redlined)][17] – adopted by Ballot [SMC010][18]
 
 [S/MIME Baseline Requirements v. 1.0.7][19] [(redlined)][15] – adopted by Ballot [SMC09][16]
 
@@ -56,3 +58,9 @@ NA
 [18]: /2024/11/07/ballot-smc010-introduction-of-multi-perspective-issuance-corroboration/
 [19]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.7.pdf
 [20]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.8.pdf
+[21]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.9-Redline.pdf
+[22]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.9.pdf
+[23]: /2025/03/31/ballot-smc011-add-euid-as-registration-reference/
+[24]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.10-Redline.pdf
+[25]: /2025/05/19/ballot-smc-012/
+[26]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.10.pdf

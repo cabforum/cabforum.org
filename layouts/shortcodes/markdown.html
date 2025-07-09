@@ -1,10 +1,23 @@
 {{- $url := (.Get `url`) -}}
-{{- with resources.GetRemote $url -}}
+{{- with try (resources.GetRemote $url) -}}
     {{- with .Err -}}
-        {{- warnf "%s - %s" . $url -}}
-    {{ else }}
-        {{ $content := (strings.ReplaceRE "^---[\\s\\S]*?---" "" .Content )}}
-        {{ $content | markdownify }}
+        {{- warnf "Failed to retrieve markdown: %s - %s" . $url -}}
+        Unable to retrieve markdown from {{ $url }}.
+    {{- else with .Value -}}
+        {{- $frontmatterPattern := `(?s)^\s*---\s*\n(.*?)\n\s*---\s*\n?` -}}
+        {{- $frontmatterMatch := findRE $frontmatterPattern .Content 1 -}}
+        {{- $frontmatterData := dict -}}
+        {{- $content := .Content -}}
+        
+        {{- if $frontmatterMatch -}}
+            {{- $frontmatterYaml := replaceRE $frontmatterPattern "$1" (index $frontmatterMatch 0) -}}
+            {{- $frontmatterData = transform.Unmarshal $frontmatterYaml -}}
+            {{- $content = replaceRE $frontmatterPattern "" $content -}}
+        {{- else -}}
+            {{- warnf "No frontmatter found in markdown content (%s)" $url -}}
+        {{- end -}}
+
+        {{- $content | markdownify -}}
     {{- end -}}
 {{- else -}}
     Unable to retrieve markdown from {{ $url }}.
