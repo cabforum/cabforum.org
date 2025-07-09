@@ -1,5 +1,5 @@
 ---
-title: 'Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements'
+title: 'Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems Applicability, and various other improvements'
 author: Clint Wilson
 date: 2025-06-03
 tags:
@@ -12,7 +12,7 @@ Aliases:
 - NS008
 ---
 
-## IPR Review of Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems
+## IPR Review of Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is:
 
@@ -20,7 +20,7 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 ### Summary of Review
 
-- Ballot for Review: [Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems](https://cabforum.org/posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-NCSSR-2.0.5-redline.pdf)
+- Ballot for Review: [Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements](https://cabforum.org/posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-NCSSR-2.0.5-redline.pdf)
 - Start of Review Period: 2025-06-03 15:00:00 UTC
 - End of Review Period: 2025-07-03 15:00:00 UTC
 
@@ -32,9 +32,9 @@ For details, please see the current version of the CA/Browser Forum Intellectual
 
 (An optional template for submitting an Exclusion Notice is available at <https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf>)
 
-## Voting Results of Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems
+## Voting Results of Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements
 
-The voting period for `Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems` has ended and the Ballot has **Passed**. The following votes were cast:
+The voting period for `Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements` has ended and the Ballot has **Passed**. The following votes were cast:
 
 ### 3 votes by Certificate Consumers
 
@@ -62,7 +62,7 @@ The voting period for `Ballot NS-008: Updates to CA Infrastructure Scope, Truste
     - A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
         - the quorum was **9** for this ballot. This requirement was **MET**.
 
-## Ballot NS-008: Updates to CA Infrastructure Scope, Trusted Roles, Systems
+## Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements
 
 Ballot NS-008v3 is proposed by Clint Wilson (Apple) and endorsed by Ben Wilson (Mozilla), Cade Cairns (Google Trust Services), and Daniel Jeffery (Fastly).
 
