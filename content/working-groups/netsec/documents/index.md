@@ -8,13 +8,15 @@ title: Network and Certificate System Security Requirements
 
 ## Network and Certificate System Security Requirements
 
-On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certificate System Security Requirements** with an effective date of 1 January 2013. Since then, the Network Security Requirements have outlined best practices for the general protection of CA networks and supporting systems, including those touching on trusted roles, delegated third parties, system accounts, logging, monitoring, alerting, vulnerability detection and patch management within a CA’s infrastructure.
+On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certificate System Security Requirements** with an effective date of 1 January 2013. Since then, the Network and Certificate System Security Requirements (NCSSRs) have outlined best practices for the general protection of CA networks and supporting systems, including those touching on trusted roles, delegated third parties, system accounts, logging, monitoring, alerting, vulnerability detection and patch management within a CA’s infrastructure.
 
 ### Current Version
 
-**[Network and Certificate System Security Requirements v2.0.4][35]** ([redlined][36]) (adopted with [Ballot NS-007][37])
+**[Network and Certificate System Security Requirements v2.0.5][38]** ([redlined][39]) (adopted with [Ballot NS-008][40])
 
 ### Previous Versions
+
+**[Network and Certificate System Security Requirements v2.0.4][35]** ([redlined][36]) (adopted with [Ballot NS-007][37])
 
 **[Network and Certificate System Security Requirements v2.0.3][32]** ([redlined][33]) (adopted with [Ballot NS-006][34])
 
@@ -82,4 +84,8 @@ On 3 August 2012 the CA/Browser Forum adopted the original **Network and Certifi
 
 [35]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-FG-NCSSR-2.0.4.pdf
 [36]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/CA-Browser-Forum-NCSSR-2.0.4-redline.pdf
-[37]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/Ballot-NS-007/
+[37]: /posts/2025/2025-03-11-NSWG-Ballot-NS-007/ballot-ns-007/
+
+[38]: /posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-FG-NCSSR-2.0.5.pdf
+[39]: /posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-NCSSR-2.0.5-redline.pdf
+[40]: /posts/2025/2025-06-03-NSWG-Ballot-NS-008/ballot-ns-008/
