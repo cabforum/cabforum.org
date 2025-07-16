@@ -11,9 +11,9 @@ Aliases:
 - SMC013
 ---
 
-Ballot SMC013: Enable PQC Algorithms for S/MIME 
+## Ballot SMC013: Enable PQC Algorithms for S/MIME 
 
-Summary: 
+### Summary: 
 
 This ballot introduces specifications for the use of two post-quantum cryptography (PQC) algorithms, as standardized by the U.S. National Institute of Standards and Technology (NIST), in the S/MIME BR:
 
