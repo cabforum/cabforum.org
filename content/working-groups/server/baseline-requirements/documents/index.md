@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.1.5][TBR215] ([redlined][TBR215r]) – adopted by Ballot [SC081v3][sc081v3]
+[CA-Browser-Forum TLS BR 2.1.6][TBR216] ([redlined][TBR216r]) – adopted by Ballot [SC085v2][sc085v2]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.1.5][TBR215] ([redlined][TBR215r]) – adopted by Ballot [SC081v3][sc081v3]
 
 [CA-Browser-Forum TLS BR 2.1.4][TBR214] ([redlined][TBR214r]) – adopted by Ballot [SC084][sc084]
 
@@ -205,6 +207,8 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[TBR216]: CA-Browser-Forum-TLS-BR-2.1.6.pdf
+[TBR216r]: CA-Browser-Forum-TLS-BR-2.1.6-redlined.pdf
 [TBR215]: CA-Browser-Forum-TLS-BR-2.1.5.pdf
 [TBR215r]: CA-Browser-Forum-TLS-BR-2.1.5-redlined.pdf
 [sc081v3]: /2025/04/11/ballot-sc-81v3-Introduce-Schedule-of-Reducing-Validity-and-Data-Reuse-Periods
