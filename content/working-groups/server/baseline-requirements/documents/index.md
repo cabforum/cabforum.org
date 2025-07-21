@@ -209,6 +209,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [TBR216]: CA-Browser-Forum-TLS-BR-2.1.6.pdf
 [TBR216r]: CA-Browser-Forum-TLS-BR-2.1.6-redlined.pdf
+[SC085v2]: /2025/06/18/ballot-sc-085v2-require-validation-of-dnssec-when-present-for-caa-and-dcv-lookups
 [TBR215]: CA-Browser-Forum-TLS-BR-2.1.5.pdf
 [TBR215r]: CA-Browser-Forum-TLS-BR-2.1.5-redlined.pdf
 [sc081v3]: /2025/04/11/ballot-sc-81v3-Introduce-Schedule-of-Reducing-Validity-and-Data-Reuse-Periods
