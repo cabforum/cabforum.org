@@ -52,11 +52,11 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 [TBR-SC85v2.pdf](BR-SC085v2.pdf)
 
-[TBR-SC85v2-redlined.pdf](BR-SC085v2-redlined.pdf)
+[TBR-SC85v2-redlined.pdf](BR-SC085v2-redline.pdf)
 
 [TBR-SC85v2.docx](BR-SC085v2.docx)
 
-[TBR-SC85v2-redlined.docx](BR-SC085v2-redlined.docx)
+[TBR-SC85v2-redlined.docx](BR-SC085v2-redline.docx)
 
 **Start of Review Period**: 2025-06-19 19:00:00 UTC
 
