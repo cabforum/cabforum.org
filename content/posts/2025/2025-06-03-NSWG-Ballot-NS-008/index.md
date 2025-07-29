@@ -16,11 +16,11 @@ Aliases:
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is:
 
-<https://cabforum.org/posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-NCSSR-2.0.5-redline.pdf>
+<CA-Browser-Forum-NCSSR-2.0.5-redline.pdf>
 
 ### Summary of Review
 
-- Ballot for Review: [Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements](https://cabforum.org/posts/2025/2025-06-03-NSWG-Ballot-NS-008/CA-Browser-Forum-NCSSR-2.0.5-redline.pdf)
+- Ballot for Review: [Ballot NS-008v3: Updates to CA Infrastructure Scope, Trusted Roles, Systems' Applicability, and various other improvements](CA-Browser-Forum-NCSSR-2.0.5-redline.pdf)
 - Start of Review Period: 2025-06-03 15:00:00 UTC
 - End of Review Period: 2025-07-03 15:00:00 UTC
 
