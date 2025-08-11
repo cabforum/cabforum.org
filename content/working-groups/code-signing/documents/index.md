@@ -10,15 +10,15 @@ title: Baseline Requirements (Code Signing)
 
 ### Current Version 
 
-[Baseline Requirements for Code-Signing Certificates, v.3.9][51] ([redline][52]) adopted by [ballot CSCWG-26][/2024/07/01/ballots-csc-26].
+[Baseline Requirements for Code-Signing Certificates, v.3.9][51] ([redline][52]) adopted by [ballot CSCWG-26](/2024/07/01/ballots-csc-26).
 
 ### Previous Versions 
 
-[Baseline Requirements for Code-Signing Certificates, v.3.8][48] ([redline][49]) adopted by [ballot CSCWG-25][/2024/07/01/ballots-csc-25/].
+[Baseline Requirements for Code-Signing Certificates, v.3.8][48] ([redline][49]) adopted by [ballot CSCWG-25](/2024/07/01/ballots-csc-25/).
 
-[Baseline Requirements for Code-Signing Certificates, v.3.7][46] ([redline][47]) adopted by [ballot CSCWG-22][/2024/01/18/ballots-csc-22/].
+[Baseline Requirements for Code-Signing Certificates, v.3.7][46] ([redline][47]) adopted by [ballot CSCWG-22](/2024/01/18/ballots-csc-22/).
 
-[Baseline Requirements for Code-Signing Certificates, v.3.6][43] ([redline][44]) adopted by [ballot CSCWG-21][/2024/01/18/ballots-csc-21/].
+[Baseline Requirements for Code-Signing Certificates, v.3.6][43] ([redline][44]) adopted by [ballot CSCWG-21](/2024/01/18/ballots-csc-21/).
 
 [Baseline Requirements for Code-Signing Certificates, v.3.5][1] ([redline][2]) adopted by [ballot CSCWG-20][3].
 
