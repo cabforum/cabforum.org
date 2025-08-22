@@ -29,7 +29,7 @@ https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.11-Redline.pdf
 * Start of Review Period: 2025-07-21 20:00:00 UTC
 * End of Review Period: 2025-08-20 20:00:00 UTC
 
-Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to Iñigo Barreira ) and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
+Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to Stephen Davidson) and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
 
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
 
