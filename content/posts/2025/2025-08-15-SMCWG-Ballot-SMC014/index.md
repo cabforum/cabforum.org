@@ -15,6 +15,30 @@ Aliases:
 
 ### Summary: 
 
+New version of the ballot text with minor text changes, restarting discussion period.
+
+— Motion Begins —
+
+This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates” (“S/MIME Baseline Requirements”), based on Version 1.0.10.
+
+MODIFY the Baseline Requirements as specified in the following Redline:
+
+https://github.com/cabforum/smime/compare/59687c5e3835f889cdbb0ff0f0a24cfffc684084...5feb1c76b8513dfb54111463eeff681be381f151 
+
+— Motion Ends —
+
+This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
+
+Discussion (at least 7 days)
+
+* Start time: August 27, 2025 at 17:00:00 UTC
+* End time: September 3, 2025 at 17:00:00 UTC
+
+
+# Ballot SMC014: DNSSEC for CAA 
+
+### Summary: 
+
 This ballot introduces requirements that a Certificate Issuer MUST deploy DNSSEC validation back to the IANA DNSSEC root trust anchor on all DNS queries associated with CAA record lookups performed by the Primary Network Perspective, effective March 15, 2026.
 
 The ballot is intended to maintain consistency in the S/MIME Baseline Requirements with the requirements of Ballot SC-085 which implemented identical requirements in the TLS Baseline Requirements.  
