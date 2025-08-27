@@ -17,11 +17,11 @@ type: post
 
 # Guest speaker: Chrome’s views on PQC  
 **Presenter:** David Adrian  
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/Chrome_PQC_CABF_F2F_Toronto_2025_EXTERNAL.pdf  
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/Chrome_PQC_CABF_F2F_Toronto_2025_EXTERNAL.pdf  
  
 # Guest speaker: The Future of ZLint  
 **Presenter:** Zakir Durumeric  
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/The_Future_of_ZLint_CABF_F2F_Toronto_2025.pdf  
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/The_Future_of_ZLint_CABF_F2F_Toronto_2025.pdf  
  
 # Remedies for CPS Errors
 **Presenter:** Tim Callan  
@@ -37,7 +37,7 @@ No additional discussion.
  
 # Mozilla Root Program Update
 **Presenter:** Ben Wilson  
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/June-2025-Mozilla-News.pdf  
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/June-2025-Mozilla-News.pdf  
 **Minute taker:** Scott Rea  
 **Ben's curated notes (presented in the meeting) can be found at: https://drive.google.com/file/d/1zv6XlzitsQdaBp6gf_u3ND7Fzum1pPLY/view**
  
@@ -69,7 +69,7 @@ No specific questions were fielded to Ben in the live session.
  
 # Cisco Root Program Update
 **Presenter:** Chad Dandar  
-**P**resentation Link:** https://cabforum.org/2025/06/10/presentations/Cisco_CABF_F2F_Toronto.pptx  
+**P**resentation Link:** https://cabforum.org/2025/06/10/forum-f2f/Cisco_CABF_F2F_Toronto.pptx  
 **Minute taker:** Chris Clements
  
 Previously, root bundles were fetched and loaded during the initial software build and release, with updates only occurring in new software versions. This meant users were locked into a static trust store until a new software update was released and deployed. Cisco is now developing a more dynamic solution for our products and services to address this limitation.
@@ -89,7 +89,7 @@ Some metrics for the traffic hitting the repository for certificates and bundles
  
 # Apple Root Program Update
 **Presenter:** Clint Wilson  
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/2025-June-Apple.pdf  
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/2025-June-Apple.pdf  
 **Minute taker:** Stephen Davidson
 
  
@@ -111,7 +111,7 @@ Apple has a call out for 2027 sharded logs.
  
 # Microsoft Root Program Update
 **Presenter:** Karina Sirota  
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/Microsoft_F2F_65_Presentation.pdf  
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/Microsoft_F2F_65_Presentation.pdf  
 **Minute taker:** Martijn
 
 ## 1. Current Initiatives  
@@ -158,7 +158,7 @@ Apple has a call out for 2027 sharded logs.
  
 # CCADB Update
 **Presenter:** Karina Sirota  
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/CAB_F2F_65_CCADB_Update.pdf    
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/CAB_F2F_65_CCADB_Update.pdf    
 **Minute taker:** Tim Callan
  
 Karina Sirota:
@@ -306,7 +306,7 @@ There is no check that says have you observed the new checkboxes?
  
 # ETSI Update
 **Presenter:** Iñigo Barreira   
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/ETSI-ESI_Standardisation_Update_for_CAB-Forum-Toronto.pptx 
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/ETSI-ESI_Standardisation_Update_for_CAB-Forum-Toronto.pptx 
 **Minute taker:** Clemens Wanko
 
 Iñigo Barreira (ETSI ESI Vice Chair) provided a comprehensive overview outlining the latest developments in ETSI ESI’s standardization work, focusing on electronic signatures and trust services in light of evolving EU regulations. With the introduction of eIDAS 2, NIS2, the Cyber Resilience Act (CRA), and DORA, the regulatory landscape has become increasingly complex. ETSI plays a key role in aligning technical standards with these legislative frameworks to support compliance, interoperability, and security.
@@ -325,7 +325,7 @@ For Batch 3 of the drafted Implementing Acts released from the European Commissi
  
 # ACAB'c Program Update
 **Presenter:** Clemens Wanko  
-**Presentation Link:** https://cabforum.org/2025/06/10/presentations/20250610_CAB-Forum_65_ACAB'c_presentation_V1.0.pptx    
+**Presentation Link:** https://cabforum.org/2025/06/10/forum-f2f/20250610_CAB-Forum_65_ACAB'c_presentation_V1.0.pptx    
 **Minute taker:** Iñigo Barreira
 
 Clemens Wanko (ACABc) thanks ETSI for the development activities
@@ -434,7 +434,7 @@ Questions/Comments:
  
 # IPR Subcommittee
 **Presenter:** Ben Wilson  
-**Presentation:** https://cabforum.org/2025/06/10/presentations/Bylaws-F2F-65.pdf    
+**Presentation:** https://cabforum.org/2025/06/10/forum-f2f/Bylaws-F2F-65.pdf    
 **Minute taker:** Jeremy
 
 ## Invited Participants and Experts
