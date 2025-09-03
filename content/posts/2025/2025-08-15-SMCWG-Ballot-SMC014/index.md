@@ -29,10 +29,17 @@ https://github.com/cabforum/smime/compare/59687c5e3835f889cdbb0ff0f0a24cfffc6840
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-Discussion (at least 7 days)
+**Discussion (at least 7 days)**
 
 * Start time: August 27, 2025 at 17:00:00 UTC
 * End time: September 3, 2025 at 17:00:00 UTC
+
+**Voting for Approval**
+
+* Start time: September 3, 2025 at 17:00:00 UTC
+* End time: September 10, 2025 at 17:00:00 UTC
+
+**IP Review (30 Days)**
 
 
 # Ballot SMC014: DNSSEC for CAA 
