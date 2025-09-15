@@ -9,6 +9,10 @@ title: IPR Policy
 
 [**CAB Forum Agreement for IPR Policy v.1.3**][2]
 
+[**CAB Forum Invited Experts Policy**][11]
+
+[**CAB Forum Invited Experts Agreement**][12]
+
 The CA/Browser Forum’s IPR Policy governs Contributions by members of the Forum during the drafting and adoption process of Normative Requirements by a Working Group. A Contribution is any material “made verbally or in a tangible form of expression (including in electronic media) which is provided by a Participant in the process of developing a Draft Guideline for the purpose of incorporating such material into a Draft Guideline or a Final Guideline or Final Maintenance Guideline.” The term “Draft Guideline” includes ballots that are being considered for adoption by a Working Group as either a “Final Guideline” or a “Final Maintenance Guideline”.
 
 When a ballot to amend an existing Final Guideline is adopted by a Working Group, that amendment is considered a Final Maintenance Guideline, and each of the above guideline documents, as amended, is then considered a “Final Guideline” of the CA/Browser Forum.
@@ -48,3 +52,5 @@ Each of the following documents is considered a “Final Guideline”:
 [8]: /uploads/IPR_Policy_V1.pdf
 [9]: /working-groups/code-signing/documents/requirements/
 [10]: /working-groups/smime/documents/requirements/
+[11]: /2025/07/09/ballot-forum-036-adopt-invited-experts-policy/Invited-Experts-Policy.pdf
+[12]: /2025/07/09/ballot-forum-036-adopt-invited-experts-policy/Invited-Experts-Agreement.pdf
