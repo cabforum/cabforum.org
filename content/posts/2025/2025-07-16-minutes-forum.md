@@ -95,7 +95,6 @@ type: post
 ## 15. Adjourn
 Next call: July 31, 2025
 
----
 
 ## Attendees
 Aaron Gable – ISRG, Aaron Poulsen (Amazon Trust Services), Adam Jones (Microsoft), Adrian Mueller (SwissSign), Atsushi INABA (GlobalSign), Ben Wilson (Mozilla), Brianca Martin (Amazon), Bruce Morton (Entrust), Chris Clements (Google), Clint Wilson (Apple), Cynetheia Brown (FPKIMA), Dean Coclin (DigiCert), Enrico Entschew (D-Trust), Greg Tomko (GlobalSign), Inigo Barreira (Sectigo), Jaime Hablutzel (WiseKey), Jeanette Snook (Visa Inc), Johnny Reading (GoDaddy), Jozef Nigut (Disig), Jun Okura (Cybertrust), Karina Sirota Goodley (Microsoft), Kate Xu (TrustAsia), Kateryna Aleksieieva (Certum by Asseco), Lucy Buecking (IdenTrust), Luis Cervantes (SSL.com), Mahua Chaudhuri (Microsoft), Marco Schambach (IdenTrust), Matthew McPherrin, Michael Slaughter (Amazon Trust Services), Michelle Coon (OATI), Mrugesh Chandarana (IdenTrust), Nargis Mannan (Viking Cloud), Nicol So (CommScope), Nome huang (TrustAsia), ONO Fumiaki (SECOM), Peter Miskovic (Disig), Rebecca Kelley (SSL.com), Rich Smith (DigiCert), Rollin Yu (TrustAsia), Ryan Dickson (Google Chrome), Scott Rea (eMudhra), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM), Tim Callan (Sectigo), Tim Hollebeek (DigiCert), Tobias Josefowitz (Opera), Wayne Thayer (Fastly), Wendy brown (FPKIMA)
