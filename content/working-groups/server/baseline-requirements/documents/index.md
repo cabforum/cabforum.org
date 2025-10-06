@@ -228,7 +228,7 @@ title: Baseline Requirements for TLS Server Certificates
 [TBR211r]: CA-Browser-Forum-TLS-BR-2.1.1-redlined.pdf
 [sc083]: /2025/01/23/ballot-sc-83-Winter-2024-2025-Cleanup-Ballot
 [sc079]: /2024/10/14/ballot-sc079v2-allow-more-than-one-certificate-policy-in-a-cross-certified-subordinate-ca-certificate/
-[sc080]: /2024/11/14/ballot-sc080-Sunset-the-use-of-WHOIS-to-identify-Domain-Contacts-and-relying-DCV-Methods
+[sc080]: /2024/11/14/ballot-sc-80-Sunset-the-use-of-WHOIS-to-identify-Domain-Contacts-and-relying-DCV-Methods
 [TBR210]: CA-Browser-Forum-TLS-BR-2.1.0.pdf
 [TBR210r]: CA-Browser-Forum-TLS-BR-2.1.0-redlined.pdf
 [sc076]: /2024/10/14/ballot-sc076v2-clarify-and-improve-ocsp-requirements/
