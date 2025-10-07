@@ -418,7 +418,7 @@ title: Baseline Requirements for TLS Server Certificates
 [161]: /2016/08/05/ballot-169-revised-validation-requirements/
 [162]: /uploads/CA-Browser-Forum-BR-1.3.7.pdf
 [163]: /uploads/CA-Browser-Forum-BR-1.3.7-redlined.pdf
-[164]: /2016/07/08/ballot-164/
+[164]: /2016/03/31/ballot-164/
 [165]: /uploads/CA-Browser-Forum-BR-1.3.6.pdf
 [166]: /uploads/CA-Browser-Forum-BR-1.3.6-redlined.pdf
 [167]: /2016/07/01/ballot-171-updating-etsi-standards-cabf-documents/
