@@ -209,6 +209,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[sc089]: /2025/07/22/ballot-sc-89-Mass-Revocation-Planning
 [TBR217]: CA-Browser-Forum-TLS-BR-2.1.7.pdf
 [TBR217r]: CA-Browser-Forum-TLS-BR-2.1.7-redlined.pdf
 [TBR216]: CA-Browser-Forum-TLS-BR-2.1.6.pdf
