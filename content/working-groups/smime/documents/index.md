@@ -14,7 +14,7 @@ NA
 
 ### Current Version 
 
-[S/MIME Baseline Requirements v. 1.0.12][31] [(redline)][27] - adopted by Ballot [SMC014][30]
+[S/MIME Baseline Requirements v. 1.0.12][31] [(redline)][32] - adopted by Ballot [SMC014][30]
 
 ### Previous Versions 
 
@@ -73,3 +73,4 @@ NA
 [29]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.11.pdf
 [30]: /2025/08/15/ballot-smc-014/
 [31]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.12.pdf
+[32]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.12-Redline.pdf
