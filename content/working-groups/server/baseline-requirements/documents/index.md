@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.1.7][TBR217] ([redlined][TBR217r]) – adopted by Ballot [SC089][sc089]
+[CA-Browser-Forum TLS BR 2.1.8][TBR218] ([redlined][TBR218r]) – adopted by Ballot [SC092][sc092]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.1.7][TBR217] ([redlined][TBR217r]) – adopted by Ballot [SC089][sc089]
 
 [CA-Browser-Forum TLS BR 2.1.6][TBR216] ([redlined][TBR216r]) – adopted by Ballot [SC085v2][sc085v2]
 
@@ -209,6 +211,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[sc092]: /2025/09/02/ballot-sc-92-sunset-use-of-precertificate-signing-cas
+[TBR218]: CA-Browser-Forum-TLS-BR-2.1.8.pdf
+[TBR218r]: CA-Browser-Forum-TLS-BR-2.1.8-redlined.pdf
 [sc089]: /2025/07/22/ballot-sc-89-Mass-Revocation-Planning
 [TBR217]: CA-Browser-Forum-TLS-BR-2.1.7.pdf
 [TBR217r]: CA-Browser-Forum-TLS-BR-2.1.7-redlined.pdf
