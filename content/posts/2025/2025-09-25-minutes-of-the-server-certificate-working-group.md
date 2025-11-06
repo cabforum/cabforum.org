@@ -1,6 +1,6 @@
 ---
 author: Wayne Thayer
-date: 2025-09-11 00:00:00
+date: 2025-09-25 00:00:00
 tags:
   - Minutes
   - Server Certificates
