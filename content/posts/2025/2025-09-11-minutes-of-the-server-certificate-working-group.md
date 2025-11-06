@@ -9,8 +9,6 @@ type: post
 ---
 
 
-# Minutes of the Server Certificate Working Group teleconference - September 11, 2025
-
 ## Meeting Date:
 
 - 2025-09-11
