@@ -10,9 +10,11 @@ title: Baseline Requirements (Code Signing)
 
 ### Current Version 
 
-[Baseline Requirements for Code-Signing Certificates, v.3.9][51] ([redline][52]) adopted by [ballot CSCWG-26](/2024/07/01/ballots-csc-26).
+[Baseline Requirements for Code-Signing Certificates, v.3.10](https://cabforum.org/uploads/CA-Browser-Forum-CSCBR-3.10.0.pdf) ([redline](https://cabforum.org/uploads/CA-Browser-Forum-CSCBR-3.10.0-Redline.pdf)) adopted by [ballot CSCWG-31](/2025/11/17/ballot-csc-31-maximum-validity-reduction/).
 
 ### Previous Versions 
+
+[Baseline Requirements for Code-Signing Certificates, v.3.9][51] ([redline][52]) adopted by [ballot CSCWG-26](/2024/07/01/ballots-csc-26).
 
 [Baseline Requirements for Code-Signing Certificates, v.3.8][48] ([redline][49]) adopted by [ballot CSCWG-25](/2024/07/01/ballots-csc-25/).
 
