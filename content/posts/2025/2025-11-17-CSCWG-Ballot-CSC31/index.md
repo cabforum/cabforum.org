@@ -21,7 +21,7 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 
 **Summary of Review**
 
-Ballot for Review: https://cabforum.org/2025/11/17/CSCWG-Ballot-CSC31/. A redline is available at https://cabforum.org/uploads/CA-Browser-Forum-CSCBR-3.10.0-Redline.pdf
+Ballot for Review: https://cabforum.org/2025/11/17/ballot-csc-31-maximum-validity-reduction/. A redline is available at https://cabforum.org/uploads/CA-Browser-Forum-CSCBR-3.10.0-Redline.pdf
 
 * Start of Review Period: 2025-10-14 08:00:00 UTC
 * End of Review Period: 2025-11-13 08:00:00 UTC
@@ -42,9 +42,9 @@ The voting period for CSC-31: Maximum Validity Reduction has completed. The ball
 
 **Certificate Consumers**
 1 votes in total: 
- * 1 voting YES: Microsoft
- * 0 voting NO: 
- * 0 ABSTAIN: 
+* 1 voting YES: Microsoft
+* 0 voting NO: 
+* 0 ABSTAIN: 
 
 Bylaws Requirements
 
@@ -85,7 +85,7 @@ End Time: 2025-10-06 18:00 UTC
 
 Start Time: 2025-10-06 18:00 UTC
 
-End Time: 2025-10-13 18:00
+End Time: 2025-10-13 18:00 UTC
 
 **IP Review (30 Days)**
 
