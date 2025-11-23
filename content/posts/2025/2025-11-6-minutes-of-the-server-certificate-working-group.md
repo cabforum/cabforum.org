@@ -17,11 +17,11 @@ type: post
 
 5. Membership applications
 
-  Ronald Koorn (Interested Party, individual). Approved
+  - Ronald Koorn (Interested Party, individual). Approved
 
-  Saudi Data and Artificial Intelligence Authority (SDAIA), previously known as National Center for Digital Certification (NCDC) (Root Certificate Issuer). Question: Is this a meaningful transfer of key material and should this be reviewed again? Answer: No, this is not what happened. It’s a reorg within the Saudi government. The root is trusted by Microsoft and CCADB shows the root is now listed as SDAIA. Membership approved.
+  - Saudi Data and Artificial Intelligence Authority (SDAIA), previously known as National Center for Digital Certification (NCDC) (Root Certificate Issuer). Question: Is this a meaningful transfer of key material and should this be reviewed again? Answer: No, this is not what happened. It’s a reorg within the Saudi government. The root is trusted by Microsoft and CCADB shows the root is now listed as SDAIA. Membership approved.
 
-  Digitorus (Interested Party, organization). Approved, however, applicant has asked for a standing invite to all meetings. Chairs were reminded that they have discretion to decide if an interested party should attend every meeting. A question regarding adding this exception for this applicant came up and whether we should have rules around this. Dean commented that he is working on a proposal that may accommodate this. For SCWG, Digitorus was accepted to attend all meetings.
+  - Digitorus (Interested Party, organization). Approved, however, applicant has asked for a standing invite to all meetings. Chairs were reminded that they have discretion to decide if an interested party should attend every meeting. A question regarding adding this exception for this applicant came up and whether we should have rules around this. Dean commented that he is working on a proposal that may accommodate this. For SCWG, Digitorus was accepted to attend all meetings.
 
 6. Ballot Status – see list below
 7. Any Other Business: None
@@ -33,27 +33,27 @@ type: post
 This is the latest status of ballots since the last meeting.
 ### In Discussion Period
 
-    SC090: Gradually sunset all remaining email-based, phone-based, and 'crossover' validation methods from Sections 3.2.2.4 and 3.2.2.5 (Ryan).
-    SC091: Sunset 3.2.2.5.3 Reverse Address Lookup Validation, proposal of new DNS-based validation using Persistent DCV TXT Record for IP addresses: Now in voting period.
+ - SC090: Gradually sunset all remaining email-based, phone-based, and 'crossover' validation methods from Sections 3.2.2.4 and 3.2.2.5 (Ryan).
+ - SC091: Sunset 3.2.2.5.3 Reverse Address Lookup Validation, proposal of new DNS-based validation using Persistent DCV TXT Record for IP addresses: Now in voting period.
 
 ### In Voting Period
 
-    SC086: Sunset the Inclusion of Address and Routing Parameter Area Names (Corey)
+ - SC086: Sunset the Inclusion of Address and Routing Parameter Area Names (Corey)
 
 ### Under IPR review
 
-    SC088: Persistent DNS DCV (Slaughter) (IPR Review ends 2025-11-08 18:00:00 UTC)
+ - SC088: Persistent DNS DCV (Slaughter) (IPR Review ends 2025-11-08 18:00:00 UTC)
 
 ### Cleared IPR review, new Guidelines
 
-    SC092: Sunset use of Precertificate Signing CAs (BRs 2.1.8 was published)
+ - SC092: Sunset use of Precertificate Signing CAs (BRs 2.1.8 was published)
 
 ### Draft / Under Consideration
 
-    SC087: Registration Number Improvement for EV Certificates (Corey). No changes.
-    SC0XX: Cleanup for ADN CNAME use (Rich). Rich/Martijn will writeup some examples for review and discussion. Jacob from Let’s Encrypt (https://github.com/cabforum/servercert/pull/627) has put together an alternative to this for review. Dimitris said he’s not sure this addresses all the corner cases. Details of this proposal can be presented on the next call.
-    SC0XX: Improve Certificate Problem Reports and Clarify the Meaning of Revocation (Martijn). No progress.
-    SC0XX: Validation method in TLS Certificates (Clint). Writeup has been drafted and will be shared to the list soon.
+ - SC087: Registration Number Improvement for EV Certificates (Corey). No changes.
+ - SC0XX: Cleanup for ADN CNAME use (Rich). Rich/Martijn will writeup some examples for review and discussion. Jacob from Let’s Encrypt (https://github.com/cabforum/servercert/pull/627) has put together an alternative to this for review. Dimitris said he’s not sure this addresses all the corner cases. Details of this proposal can be presented on the next call.
+ - SC0XX: Improve Certificate Problem Reports and Clarify the Meaning of Revocation (Martijn). No progress.
+ - SC0XX: Validation method in TLS Certificates (Clint). Writeup has been drafted and will be shared to the list soon.
     Katerina and Carolina from Asseco have volunteered to help with an upcoming cleanup ballot (2025).
 
 ## Attendees
