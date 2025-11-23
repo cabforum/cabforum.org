@@ -13,7 +13,7 @@ type: post
 3. Review of Agenda. Agenda reviewed, no changes
 4. Minutes approval
 
-         October 16, 2025, F2F#66 (Draft minutes have not been distributed yet). Nothing to review yet. Will be reviewed at future meeting.
+  - October 16, 2025, F2F#66 (Draft minutes have not been distributed yet). Nothing to review yet. Will be reviewed at future meeting.
 
 5. Membership applications
 
