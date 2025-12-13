@@ -12,9 +12,13 @@ type: post
 # SCWG Minutes on 16 October 2025, of the F2F 66 Meeting in Warsaw, Poland
 
 **Date:** October 16, 2024
+
 **Chair:** Dimitris
+
 **Next Meeting:** November 6, 2025
+
 **Prior Minutes:** September 25 minutes approved without objection.
+
 **Administrative:** Antitrust statement read; in-person sign-in sheet circulated.
 
 ## 1. Progress Since the Last F2F Meeting
@@ -105,65 +109,65 @@ Proposal: https://github.com/cabforum/servercert/issues/492
 
 Ryan provided background to the discussion.
 
-    Ballot 105 in 2013 added the definition of a TC Sub CA and added a third-party audit exemption for these CAs.  He noted that this latter item was a concern.
-    Ballot 187 in 2017 introduced CAA record checking with an exemption for TC Sub CA, which also was a concern.
-    Ballot SC-062 in 2023 was a multiyear effort to align certificate content expectations across issuers with a more concise cert profile specification.  This introduced 7.1.2.3 non TLS subCA profile, and 7.1.2.5 categorizes a TC as using Name Constraints. 
+* Ballot 105 in 2013 added the definition of a TC Sub CA and added a third-party audit exemption for these CAs.  He noted that this latter item was a concern.
+* Ballot 187 in 2017 introduced CAA record checking with an exemption for TC Sub CA, which also was a concern.
+* Ballot SC-062 in 2023 was a multiyear effort to align certificate content expectations across issuers with a more concise cert profile specification.  This introduced 7.1.2.3 non TLS subCA profile, and 7.1.2.5 categorizes a TC as using Name Constraints. 
 
 Ryan laid out a problem statement:
 
-    The construct of a "technically constrained subordinate CA" is manufactured and only known to this community.
-    By treating "technically constrained" subordinate CAs differently than "ordinary" subordinate CAs, we are contributing to unnecessary ecosystem complexity.
-    Allowing exemptions for technically constrained subordinate CAs should be seen as reducing transparency, weakening security assumptions, and creating opportunities for problems.
-    The TLS BRs are misaligned with existing root store policies such as Chrome.
+* The construct of a "technically constrained subordinate CA" is manufactured and only known to this community.
+* By treating "technically constrained" subordinate CAs differently than "ordinary" subordinate CAs, we are contributing to unnecessary ecosystem complexity.
+* Allowing exemptions for technically constrained subordinate CAs should be seen as reducing transparency, weakening security assumptions, and creating opportunities for problems.
+* The TLS BRs are misaligned with existing root store policies such as Chrome.
 
 Ryan provided some stats on the use of Name Constrained CAs:
 
-    12/1719 (~7%) of subordinate CA certificates trusted in Chrome have Name Constraints present.  9 of these 12 contain the same public key.
-    This represents:
-        4 constrained CA public keys, belonging to 3 CA Owners.
-        ~150 leafs, or 0.000011% of unexpired precertificates known to our monitoring solution.
+* 12/1719 (~7%) of subordinate CA certificates trusted in Chrome have Name Constraints present.  9 of these 12 contain the same public key.
+* This represents:
+  * 4 constrained CA public keys, belonging to 3 CA Owners.
+  * ~150 leafs, or 0.000011% of unexpired precertificates known to our monitoring solution.
 
 He described an additional opportunity:
 
-    Further simplify the TLS BR profiles and promote alignment with root store operator policies that expect purpose-specific PKI hierarchies.
-    Fewer profiles
-    Less or no Inheritance across sections
+* Further simplify the TLS BR profiles and promote alignment with root store operator policies that expect purpose-specific PKI hierarchies.
+* Fewer profiles
+* Less or no Inheritance across sections
 
 Ryan described what he meant "simplify"?
 
-    We should sunset practices that have largely been abandoned, for example, IV certificates (where adoption appears very, very low), just as we did with the precertificate signing CA profile in SC-092.
-    We should sunset practices that no longer make sense in the context of the public TLS ecosystem in the year 2025, for example, use of SHA-1.
-    We should move "profile" related requirements to Section 7.
-        Why is it better to have certificate lifetime described in Section 6.3.2 ("Certificate operational periods and key pair usage periods") and referenced by each profile than directly in each profile?
+* We should sunset practices that have largely been abandoned, for example, IV certificates (where adoption appears very, very low), just as we did with the precertificate signing CA profile in SC-092.
+* We should sunset practices that no longer make sense in the context of the public TLS ecosystem in the year 2025, for example, use of SHA-1.
+* We should move "profile" related requirements to Section 7.
+  * Why is it better to have certificate lifetime described in Section 6.3.2 ("Certificate operational periods and key pair usage periods") and referenced by each profile than directly in each profile?
 
 Ryan described what Section 7 might look like:
 
-    Section 7.1.2.1 CA Certificates
-        Section 7.1.2.1.1 - Root CA Certificate Profile
-        Section 7.1.2.1.2 - TLS Server Authentication Subordinate CA Certificate Profile
-        Section 7.1.2.1.3 - TLS Server Authentication and Client Authentication Subordinate CA Certificate Profile
-    Section 71.2.2 - Subscriber (End-Entity) Certificates
-        Section 7.1.2.2.1 - Domain Validated Certificate Profile
-        Section 71.2.2.2 - Organization Validated Certificate Profile
-        Section 7.1.2.2.3 - Extended Validation Certificate Profile
-    Section 7.1.2.3 Infrastructure Certificates
-        Section 7.1.2.3.1 - Precertificate Profile
-        Section 7.1.2.3.2 - OCSP Responder Certificate Profile
+* Section 7.1.2.1 CA Certificates
+  * Section 7.1.2.1.1 - Root CA Certificate Profile
+  * Section 7.1.2.1.2 - TLS Server Authentication Subordinate CA Certificate Profile
+  * Section 7.1.2.1.3 - TLS Server Authentication and Client Authentication Subordinate CA Certificate Profile
+* Section 71.2.2 - Subscriber (End-Entity) Certificates
+  * Section 7.1.2.2.1 - Domain Validated Certificate Profile
+  * Section 71.2.2.2 - Organization Validated Certificate Profile
+  * Section 7.1.2.2.3 - Extended Validation Certificate Profile
+* Section 7.1.2.3 Infrastructure Certificates
+  * Section 7.1.2.3.1 - Precertificate Profile
+  * Section 7.1.2.3.2 - OCSP Responder Certificate Profile
 
 Ryan described what he meant by "less inheritance"?
 
-    Today, an ecosystem participant needs to navigate across 10+ tables, scattered across multiple subsections, to "understand" the expected contents of a DV certificate.
-    Rather than prioritizing simplicity, we're prioritizing the avoidance of redundancy.
+* Today, an ecosystem participant needs to navigate across 10+ tables, scattered across multiple subsections, to "understand" the expected contents of a DV certificate.
+* Rather than prioritizing simplicity, we're prioritizing the avoidance of redundancy.
 
 He asked if this is working as intended?
 
 Ryan summarised that:
 
-    Section 7.1.2.3 Is the non-TLS subordinate CA certificate profile, and should be considered out of scope.
-    Section 7.1.2.5:
-        categorizes a CA being "technically constrained" by the presence of Name Constraints (RFC 5280).
-        vaguely points to 3.2.2.4 to describe how an Applicant has registered a permitted Subtree or has been assigned an ipAddress block.
-        does not clearly describe how CA certificate validity interplays with validation reuse periods.
+* Section 7.1.2.3 Is the non-TLS subordinate CA certificate profile, and should be considered out of scope.
+* Section 7.1.2.5:
+  * categorizes a CA being "technically constrained" by the presence of Name Constraints (RFC 5280).
+  * vaguely points to 3.2.2.4 to describe how an Applicant has registered a permitted Subtree or has been assigned an ipAddress block.
+  * does not clearly describe how CA certificate validity interplays with validation reuse periods.
 
 Ben Wilson asked if the definition should be changed to an EKU constrained CA as there were more than 600 such (nonTLS) CAs.  Ryan said he was not sure the complexity was worth it. He asked why the TLS BRs deal with CAs that are not part of the TLS BRs.
 
@@ -183,16 +187,16 @@ Responding to a question from Dimitris, Ryan said there may be some interest fro
 
 Minutes by Yamian Quintero (Microsoft)
 
-    [Minutes](https://cabforum.org/2025/06/11/minutes-of-the-f2f-65-meeting-in-toronto-canada-scwg-june-11-2025/#alternative-interim-proposal) from previous F2F on this topic
-    Draft [proposal](https://docs.google.com/document/d/1xZfSHEm4O7QMa677CeGpzkOaf5uvWg0MTi8H3F2GkF8)
+* [Minutes](https://cabforum.org/2025/06/11/minutes-of-the-f2f-65-meeting-in-toronto-canada-scwg-june-11-2025/#alternative-interim-proposal) from previous F2F on this topic
+* Draft [proposal](https://docs.google.com/document/d/1xZfSHEm4O7QMa677CeGpzkOaf5uvWg0MTi8H3F2GkF8)
 
 Dimitris
 
-    Provided background to the [presentation](https://cabforum.org/2025/06/11/minutes-of-the-f2f-65-meeting-in-toronto-canada-scwg-june-11-2025/#alternative-interim-proposal), mentioning minutes from the [F2F#65](https://cabforum.org/2025/06/11/minutes-of-the-f2f-65-meeting-in-toronto-canada-scwg-june-11-2025/#alternative-interim-proposal) meeting minutes as a context as well as a few prior meetings.
-    Mentions the indicative case of the CA that was found in violation of its own CPS because an implementation error resulted in 1 extra second in the validity of the certificates while the certificates were perfectly valid in accordance with the BRs
-    Proposes to change section 4.9.1.1 of the BRs separate the requirements for TLS BRs violations and the CP/CPS violations. Including removal of item (15)
-    Proposes to change 4.9.1.1 to allow for 90 days revocation period for certificates that are valid in the TLS BRs but violate the CA's CP/CPS
-    Change section 5.7.1 to explicitly declare any violation of the CP/CPS as an incident
+* Provided background to the [presentation](https://cabforum.org/2025/06/11/minutes-of-the-f2f-65-meeting-in-toronto-canada-scwg-june-11-2025/#alternative-interim-proposal), mentioning minutes from the [F2F#65](https://cabforum.org/2025/06/11/minutes-of-the-f2f-65-meeting-in-toronto-canada-scwg-june-11-2025/#alternative-interim-proposal) meeting minutes as a context as well as a few prior meetings.
+* Mentions the indicative case of the CA that was found in violation of its own CPS because an implementation error resulted in 1 extra second in the validity of the certificates while the certificates were perfectly valid in accordance with the BRs
+* Proposes to change section 4.9.1.1 of the BRs separate the requirements for TLS BRs violations and the CP/CPS violations. Including removal of item (15)
+* Proposes to change 4.9.1.1 to allow for 90 days revocation period for certificates that are valid in the TLS BRs but violate the CA's CP/CPS
+* Change section 5.7.1 to explicitly declare any violation of the CP/CPS as an incident
 
 Upon concerns of changing validity of certificates, it's agreed that we will need to amend this when the certificate life is shorter.
 
@@ -202,13 +206,13 @@ Clint disagrees with the insertion in 5.7.1 and Ben agrees that is redundant. Di
 
 Ryan disagrees with the whole proposal because:
 
-    CP/CPS is a document that all parties rely upon for making risk decisions, potentially on behave of their own users
-    If the content of the policy documents is less reliable then it undermines the intended security functions
-    They don't see revocation as punitive, but rather as a risk contention mechanism as well as taking a stance based on principles of upholding security, reliability and interoperability.
-    It degrades the value of the document.
-    It doesn't address the root issue of policy pitfalls.
-    It doesn't promote automation
-    It doesn't show how extending the revocation period is better for user security
+* CP/CPS is a document that all parties rely upon for making risk decisions, potentially on behave of their own users
+* If the content of the policy documents is less reliable then it undermines the intended security functions
+* They don't see revocation as punitive, but rather as a risk contention mechanism as well as taking a stance based on principles of upholding security, reliability and interoperability.
+* It degrades the value of the document.
+* It doesn't address the root issue of policy pitfalls.
+* It doesn't promote automation
+* It doesn't show how extending the revocation period is better for user security
 
 Dimitris responds that indeed the proposal is not intended to address the root cause. Current TLS BRs do allow for errors, but remediation is shorter just 5 days, this proposal is to increase that since for all relying parties this value should be irrelevant. In agreement that agility and other aspects still need to be addressed.
 
@@ -234,32 +238,32 @@ Dimitris doesn't see this change like something reducing the significance of the
 
 Minutes by Dimitris Zacharopoulos (HARICA)
 
-    [SC086](https://github.com/cabforum/servercert/pull/573): Sunset the Inclusion of IP Reverse Address Domain Names (Corey)
-        The ballot will basically disallow Domain Names ending in ip-addr.arpa and ip6.arpa
-        It is ready for a final discussion and go to a vote.
-    [SC087](https://github.com/cabforum/servercert/pull/587/files): Registration Number Improvement for EV Certificates (Corey)
-        Not much progress, will wait for SC086 to move first
-        Some comments on GH need to be incorporated
-    [SC090](https://docs.google.com/document/d/1B7ZwGa-lZRlSJFhzbb5PgXbHAnVFH4-7mKPcXAMmaCo): Gradually sunset all remaining email-based, phone-based, and 'crossover' validation methods from Sections 3.2.2.4 and 3.2.2.5 (Ryan)
-        Introduced in July, document contains motivation. Waited for SC88 with additional options and automation
-        Now that SC88 has passed, ballot can proceed to the discussion period. No rush for voting and will wait for feedback
-        Proposed dates March 2026 deprecated IP address, March 2027 deprecation of phone methods, March 2028 deprecation of email methods. 
-        Ryan provided some background motivating those dates starting with March 2026 for the cross-over vulnerability to close the security gap presented in previous meetings. Motivate users to move away from methods that cannot be automated in light of the March 2029 47-day certificates.
-        No comments or concerns were raised by the participants.
-    [SC-XX]https://github.com/cabforum/servercert/pull/619(https://github.com/cabforum/servercert/pull/619): Cleanup for ADN CNAME use (Rich)
-        Rich said the ballot needs a little more work. Aaron Gable and Jacob have added some useful feedback
-        Jacob suggested an algorithm style formulation of the ADN.
-        Several combinations need to be reviewed, especially when CNAMEs are involved. Tobi explained some cases with webhosting providers that need to be carefully examined. 
-        The conversation quickly became very complicated with various use cases and Dimitris proposed using the GitHub PR or the mailing list and asked Members with concerns to describe specific examples of possible scenarios to discuss the associated risks.
-    [SC-XX](https://github.com/cabforum/servercert/pull/622): Improve Certificate Problem Reports and Clarify the Meaning of Revocation (Martijn)
-        This ballot was written by Chrome originally
+* [SC086](https://github.com/cabforum/servercert/pull/573): Sunset the Inclusion of IP Reverse Address Domain Names (Corey)
+  * The ballot will basically disallow Domain Names ending in ip-addr.arpa and ip6.arpa
+  * It is ready for a final discussion and go to a vote.
+* [SC087](https://github.com/cabforum/servercert/pull/587/files): Registration Number Improvement for EV Certificates (Corey)
+  * Not much progress, will wait for SC086 to move first
+  * Some comments on GH need to be incorporated
+* [SC090](https://docs.google.com/document/d/1B7ZwGa-lZRlSJFhzbb5PgXbHAnVFH4-7mKPcXAMmaCo): Gradually sunset all remaining email-based, phone-based, and 'crossover' validation methods from Sections 3.2.2.4 and 3.2.2.5 (Ryan)
+  * Introduced in July, document contains motivation. Waited for SC88 with additional options and automation
+  * Now that SC88 has passed, ballot can proceed to the discussion period. No rush for voting and will wait for feedback
+  * Proposed dates March 2026 deprecated IP address, March 2027 deprecation of phone methods, March 2028 deprecation of email methods. 
+  * Ryan provided some background motivating those dates starting with March 2026 for the cross-over vulnerability to close the security gap presented in previous meetings. Motivate users to move away from methods that cannot be automated in light of the March 2029 47-day certificates.
+  * No comments or concerns were raised by the participants.
+* [SC-XX]https://github.com/cabforum/servercert/pull/619(https://github.com/cabforum/servercert/pull/619): Cleanup for ADN CNAME use (Rich)
+  * Rich said the ballot needs a little more work. Aaron Gable and Jacob have added some useful feedback
+  * Jacob suggested an algorithm style formulation of the ADN.
+  * Several combinations need to be reviewed, especially when CNAMEs are involved. Tobi explained some cases with webhosting providers that need to be carefully examined. 
+  * The conversation quickly became very complicated with various use cases and Dimitris proposed using the GitHub PR or the mailing list and asked Members with concerns to describe specific examples of possible scenarios to discuss the associated risks.
+* [SC-XX](https://github.com/cabforum/servercert/pull/622): Improve Certificate Problem Reports and Clarify the Meaning of Revocation (Martijn)
+  * This ballot was written by Chrome originally
         defines how much time a CA has since the report is picked up, processed. It also loosens the language regarding subscriber notification because in some cases tipping off a subscriber that is abusing a certificate is not wanted, especially cases where law enforcement agencies are involved.
         It also clarifies what revocation means. Is it when the CA marks a certificate for revocation? Is the signing of the CRLs? The publication to possible CDNs?
         Comments are welcome and will be discussed in the next weeks.
         Dimitris asked if there is anything controversial in this ballot that should be highlighted, because the current BRs already have language around CPRs, like when the clock starts, etc.
-        Martijn responded that it widens the timeline a bit
-        Tobi asked if it would be ok to add some language for accepting CPRs via phone, and if the content is actionable and perfectly understandable, then it should also be processed.
-        Martijn generally agreed but mentioned it would be challenging to define without becoming overly complicated. Tobi said this is one issue where he would accept good intentions.
+  * Martijn responded that it widens the timeline a bit
+  * Tobi asked if it would be ok to add some language for accepting CPRs via phone, and if the content is actionable and perfectly understandable, then it should also be processed.
+  * Martijn generally agreed but mentioned it would be challenging to define without becoming overly complicated. Tobi said this is one issue where he would accept good intentions.
 
 ## Adjournment:
 With no further discussion, the meeting was adjourned early. The next Server Certificate Working Group Teleconference is scheduled for November 5, 2025.
