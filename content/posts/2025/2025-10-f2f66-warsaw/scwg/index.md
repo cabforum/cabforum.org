@@ -250,7 +250,7 @@ Minutes by Dimitris Zacharopoulos (HARICA)
   * Proposed dates March 2026 deprecated IP address, March 2027 deprecation of phone methods, March 2028 deprecation of email methods. 
   * Ryan provided some background motivating those dates starting with March 2026 for the cross-over vulnerability to close the security gap presented in previous meetings. Motivate users to move away from methods that cannot be automated in light of the March 2029 47-day certificates.
   * No comments or concerns were raised by the participants.
-* [SC-XX]https://github.com/cabforum/servercert/pull/619(https://github.com/cabforum/servercert/pull/619): Cleanup for ADN CNAME use (Rich)
+* [SC-XX](https://github.com/cabforum/servercert/pull/619): Cleanup for ADN CNAME use (Rich)
   * Rich said the ballot needs a little more work. Aaron Gable and Jacob have added some useful feedback
   * Jacob suggested an algorithm style formulation of the ADN.
   * Several combinations need to be reviewed, especially when CNAMEs are involved. Tobi explained some cases with webhosting providers that need to be carefully examined. 
