@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2025/11/10/ballot-sc-86v3-sunset-the-inclusion of-ip-reverse-address-domain-names
+- /2025/11/10/ballot-sc-86v3-sunset-the-inclusion-of-ip-reverse-address-domain-names
 
 author: Wayne Thayer
 date: 2025-11-10

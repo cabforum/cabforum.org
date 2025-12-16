@@ -215,7 +215,7 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
-[sc086v3]: /2025/11/10/ballot-sc-86v3-sunset-the-inclusion of-ip-reverse-address-domain-names
+[sc086v3]: /2025/11/10/ballot-sc-86v3-sunset-the-inclusion-of-ip-reverse-address-domain-names
 [TBR220]: CA-Browser-Forum-TLS-BR-2.2.0.pdf
 [TBR220r]: CA-Browser-Forum-TLS-BR-2.2.0-redlined.pdf
 [sc088v3]: /2025/10/09/ballot-sc-088v3-dns-txt-record-with-persistent-value-dcv-method
