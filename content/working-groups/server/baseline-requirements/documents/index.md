@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.2.0][TBR220] ([redlined][TBR220r]) – adopted by Ballot [SC086v3][sc086v3]
+[CA-Browser-Forum TLS BR 2.2.1][TBR221] ([redlined][TBR221r]) – adopted by Ballot [SC091][sc0891]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.2.0][TBR220] ([redlined][TBR220r]) – adopted by Ballot [SC086v3][sc086v3]
 
 [CA-Browser-Forum TLS BR 2.1.9][TBR219] ([redlined][TBR219r]) – adopted by Ballot [SC088v3][sc088v3]
 
@@ -215,6 +217,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[sc091]: /2025/11/12/ballot-sc-91-sunset-3.2.2.5.3-reverse-address-lookup-validation-proposal-of-new-dns-based-validation-using-persistent-dcv-txt-record-for-ip-addresses
+[TBR221]: CA-Browser-Forum-TLS-BR-2.2.1.pdf
+[TBR221r]: CA-Browser-Forum-TLS-BR-2.2.1-redlined.pdf
 [sc086v3]: /2025/11/10/ballot-sc-86v3-sunset-the-inclusion-of-ip-reverse-address-domain-names
 [TBR220]: CA-Browser-Forum-TLS-BR-2.2.0.pdf
 [TBR220r]: CA-Browser-Forum-TLS-BR-2.2.0-redlined.pdf
