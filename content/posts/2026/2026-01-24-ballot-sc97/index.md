@@ -61,9 +61,9 @@ Ballot for Review: SC097: Sunset all remaining use of SHA-1 signatures in Certif
 
 [TBR-SC97-redlined.docx](BR-SC097-redline.docx)
 
-**Start of Review Period: 2026-01-15 18:00:00 UTC**
+**Start of Review Period: 2026-01-26 09:00:00 UTC**
 
-**End of Review Period: 2026-02-14 18:00:00 UTC**
+**End of Review Period: 2026-02-25 09:00:00 UTC**
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
