@@ -51,7 +51,7 @@ type: post
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email, both in red-line and changes-accepted draft format, in Word and PDF versions.
 
 ### Summary of Review
-Ballot for Review: SC094v2: DNSSEC exception in email DCV methods
+Ballot for Review: SC097: Sunset all remaining use of SHA-1 signatures in Certificates and CRLs
 
 [TBR-SC97.pdf](BR-SC097.pdf)
 
@@ -76,11 +76,13 @@ For details, please see the current version of the CA/Browser Forum Intellectual
 This ballot proposes updates to the Baseline Requirements for the Issuance and Management of Publicly-Trusted TLS Server Certificates (TLS BRs) to sunset all remaining use of SHA-1 signatures. 
 
 
-### Background: Over the years, various sunsets have limited the use of SHA-1 within the TLS BRs, including:
+### Background:
 
-    Ballot 118 (2014), which prevented the issuance of any new Subscriber certificates or Subordinate CA certificates using the SHA-1 signing algorithm.
+Over the years, various sunsets have limited the use of SHA-1 within the TLS BRs, including:
 
-    SC-053 (2022), which prevented delegated OCSP signing using the SHA-1 signing algorithm.
+ * Ballot 118 (2014), which prevented the issuance of any new Subscriber certificates or Subordinate CA certificates using the SHA-1 signing algorithm.
+
+ * SC-053 (2022), which prevented delegated OCSP signing using the SHA-1 signing algorithm.
 
 
 Despite these sunsets, unexpired and unrevoked Subordinate CA certificates containing the SHA-1 signature algorithm still exist (examples). Additionally, Certificate Revocation List (CRL) Distribution Points disclosed to the CCADB are serving CRLs signed with SHA-1 (examples).
