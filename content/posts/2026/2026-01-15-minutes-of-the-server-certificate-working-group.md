@@ -190,66 +190,129 @@ Dimitris: meeting adjourned.
     **Attendees**
 
 Aaron Gable - (Let's Encrypt)
+
 Adam Folson - (IdenTrust)
+
 Adam Jones - (Microsoft)
+
 Adriano Santoni - (Actalis S.p.A.)
+
 Alvin Wang - (SHECA)
+
 Antti Backman - (Telia Company)
+
 Arman Asemani - (Apple)
+
 Ben Wilson - (Mozilla)
+
 Chris Clements - (Google)
+
 Corey Bonnell - (DigiCert)
+
 Corey Rasmussen - (OATI)
+
 Cynethia Brown - (US Federal PKI Management Authority)
+
 Daryn Wright - (Apple)
+
 David Kluge - (Google)
+
 Dean Coclin - (DigiCert)
+
 Dimitris Zacharopoulos - (HARICA)
+
 Dustin Hollenback - (Apple)
+
 Enrico Entschew - (D-TRUST)
+
 Eric Kramer - (Sectigo)
+
 Hogeun Yoo - (NAVER Cloud Trust Services)
+
 Inaba Atsushi - (GlobalSign)
+
 Iñigo Barreira - (Sectigo)
+
 Jeanette Snook - (Visa)
+
 Jeff Ward - (CPA Canada/WebTrust)
+
 Jieun Seong - (MOIS (Ministry of Interior and Safety) of the republic of Korea)
+
 John Mason - (Microsoft)
+
 Johnny Reading - (GoDaddy)
+
 Jos Purvis - (Fastly)
+
 Josselin Allemandou - (Certigna (DHIMYOTIS))
+
 Julie Olson - (GlobalSign)
+
 Jun Okura - (Cybertrust Japan)
+
 Karina Sirota - (Microsoft)
+
 Kateryna Aleksieieva - (Asseco Data Systems SA (Certum))
+
 Lilia Dubko - (CPA Canada/WebTrust)
+
 Lucy Buecking - (IdenTrust)
+
 Luis Cervantes - (SSL.com)
+
 Mahua Chaudhuri - (Microsoft)
+
 Marco Schambach - (IdenTrust)
+
 Martijn Katerbarg - (Sectigo)
+
 Masaru Sakamoto - (Cybertrust Japan)
+
 Michael Slaughter - (Amazon)
+
 Michelle Coon - (OATI)
+
 Miguel Sanchez - (Google)
+
 Nate Smith - (GoDaddy)
+
 Nome Huang - (TrustAsia)
+
 Ono Fumiaki - (SECOM Trust Systems)
+
 Paul van Brouwershaven - (Entrust)
+
 Peter Miskovic - (Disig)
+
 Rebecca Kelly - (SSL.com)
+
 Rich Smith - (DigiCert)
+
 Ryan Dickson - (Google)
+
 Sándor Szőke - (Microsec)
+
 Sandy Balzer - (SwissSign)
+
 Scott Rea - (eMudhra)
+
 Sean Huang - (TWCA)
+
 Stephen Davidson - (DigiCert)
+
 Sven Rajala - (Keyfactor)
+
 Tathan Thacker - (IdenTrust)
+
 Thomas Zermeno - (SSL.com)
+
 Tim Hollebeek - (DigiCert)
+
 Tobias Josefowitz - (Opera Software AS)
+
 Trevoli Ponds-White - (Amazon)
+
 Wayne Thayer - (Fastly)
+
 Wendy Brown - (US Federal PKI Management Authority)
