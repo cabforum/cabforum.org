@@ -1,0 +1,41 @@
+---
+title: 'Ballot SMC015: Allow mDL for authentication of individual identity'
+author: Stephen Davidsoon
+date: 2026-01-10
+tags:
+- S/MIME
+- Ballot
+type: post
+slug: Ballot-SMC-015
+Aliases: 
+- SMC015
+---
+
+#Ballot SMC015: Allow mDL for authentication of individual identity
+
+###Summary: 
+
+This ballot introduces requirements that a CA or RA must follow to rely upon a Mobile Drivers License (mDL) to provide evidence for the authentication of individual identity.  It allows the use of mDL that conform to ISO/IEC 18013-5 and which may be verified by the CA or RA in conformance with ISO/IEC 18013-7.  The CA or RA shall only accept mDL from an Issuing Authority that is legally authorized by the relevant government or jurisdiction to issue driving licenses.
+
+The draft also aligns the subsections of 3.2.4.2 (Validation of individual identity) to correspond more closely with those in 3.2.4.1 (Attribute collection of individual identity). It also includes minor editorial corrections.
+
+This ballot is proposed by Stephen Davidson (DigiCert) and endorsed by Ben Wilson (Mozilla) and Scott Rea (eMudhra).
+
+**— Motion Begins —**
+
+This ballot modifies the “Baseline Requirements for the Issuance and Management of Publicly-Trusted S/MIME Certificates” (“S/MIME Baseline Requirements”), based on Version 1.0.12.
+
+MODIFY the Baseline Requirements as specified in the following Redline:
+
+https://github.com/cabforum/smime/compare/be9a18ab2b48eb0cbff41d3a268202f700c06c05...42b87e06b876e8808d61cd4735c317b1cfa6d363
+
+**— Motion Ends —**
+
+This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
+
+###Discussion (at least 7 days)
+
+* Start time: February 10, 2026 at 21:00:00 UTC
+
+* End time: February 17, 2026 at 21:00:00 UTC
+
