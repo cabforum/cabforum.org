@@ -11,9 +11,9 @@ Aliases:
 - SMC015v2
 ---
 
-#Ballot SMC015v2: Allow mDL for authentication of individual identity
+# Ballot SMC015v2: Allow mDL for authentication of individual identity
 
-###Summary: 
+### Summary: 
 
 This ballot introduces requirements that a CA or RA must follow to rely upon a Mobile Drivers License (mDL) to provide evidence for the authentication of individual identity.  It allows the use of mDL that conform to ISO/IEC 18013-5 and which may be verified by the CA or RA in conformance with ISO/IEC 18013-7.  The CA or RA shall only accept mDL from an Issuing Authority that is legally authorized by the relevant government or jurisdiction to issue driving licenses.
 
@@ -33,7 +33,7 @@ https://github.com/cabforum/smime/compare/be9a18ab2b48eb0cbff41d3a268202f700c06c
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-###Discussion (at least 7 days)
+### Discussion (at least 7 days)
 
 * Start time: February 11, 2026 at 18:30:00 UTC
 
