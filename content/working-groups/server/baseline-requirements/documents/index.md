@@ -9,9 +9,13 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.2.2][TBR222] ([redlined][TBR222r]) – adopted by Ballot [SC090][sc090]
+[CA-Browser-Forum TLS BR 2.2.4][TBR224] ([redlined][TBR224r]) – adopted by Ballot [SC096][sc096]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.2.3][TBR223] ([redlined][TBR223r]) – adopted by Ballot [SC094][sc094]
+
+[CA-Browser-Forum TLS BR 2.2.2][TBR222] ([redlined][TBR222r]) – adopted by Ballot [SC090][sc090]
 
 [CA-Browser-Forum TLS BR 2.2.1][TBR221] ([redlined][TBR221r]) – adopted by Ballot [SC091][sc091]
 
@@ -219,6 +223,12 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[sc096]: /2026/01/14/ballot-sc-96-carve-out-for-dnssec-verification-logging-requirements
+[TBR224]: CA-Browser-Forum-TLS-BR-2.2.4.pdf
+[TBR224r]: CA-Browser-Forum-TLS-BR-2.2.4-redlined.pdf
+[sc094]: /2026/01/15/ballot-sc-094v2-dnssec-exception-in-email-dcv-methods
+[TBR223]: CA-Browser-Forum-TLS-BR-2.2.3.pdf
+[TBR223r]: CA-Browser-Forum-TLS-BR-2.2.3-redlined.pdf
 [sc090]: /2025/11/20/ballot-sc-90-gradually-sunset-all-remaining-email-based,-phone-based,-and-‘crossover’-validation-methods-from-sections-3.2.2.4-and-3.2.2.5
 [TBR222]: CA-Browser-Forum-TLS-BR-2.2.2.pdf
 [TBR222r]: CA-Browser-Forum-TLS-BR-2.2.2-redlined.pdf
