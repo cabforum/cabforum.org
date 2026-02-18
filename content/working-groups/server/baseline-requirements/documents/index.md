@@ -11,9 +11,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [CA-Browser-Forum TLS BR 2.2.4][TBR224] ([redlined][TBR224r]) – adopted by Ballot [SC096][sc096]
 
-[CA-Browser-Forum TLS BR 2.2.3][TBR223] ([redlined][TBR223r]) – adopted by Ballot [SC094][sc094]
-
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.2.3][TBR223] ([redlined][TBR223r]) – adopted by Ballot [SC094][sc094]
 
 [CA-Browser-Forum TLS BR 2.2.2][TBR222] ([redlined][TBR222r]) – adopted by Ballot [SC090][sc090]
 
