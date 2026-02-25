@@ -19,6 +19,7 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 Ballot for Review: Ballot SMC015v2: Allow mDL for authentication of individual identity
 
 Start of Review Period: 2026-02-25 22:00:00 UTC
+
 End of Review Period: 2026-03-27 22:00:00 UTC
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to stephen.davidson at digicert.com) and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
