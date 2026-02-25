@@ -11,7 +11,22 @@ Aliases:
 - SMC015v2
 ---
 
-# Ballot SMC015v2: Allow mDL for authentication of individual identity
+# [IPR Review] Ballot SMC015v2: Allow mDL for authentication of individual identity
+
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email, and may be found at: https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.13-Redline.pdf.
+
+### Summary of Review
+Ballot for Review: Ballot SMC015v2: Allow mDL for authentication of individual identity
+
+Start of Review Period: 2026-02-25 22:00:00 UTC
+End of Review Period: 2026-03-27 22:00:00 UTC
+
+Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to stephen.davidson at digicert.com) and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
+
+For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
+(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf) 
+
+# [Voting Results] Ballot SMC015v2: Allow mDL for authentication of individual identity
 
 The voting period for SMC015v2: Allow mDL for Authentication of Individual Identity has completed. The ballot has: PASSED
 
