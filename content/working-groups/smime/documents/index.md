@@ -10,7 +10,7 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 
 ### Draft Version (undergoing IPR Review)
 
-NA
+S/MIME Baseline Requirements v. 1.0.13 [(redline)][34] - adopted by Ballot [SMC015v2][33]
 
 ### Current Version 
 
@@ -74,3 +74,5 @@ NA
 [30]: /2025/08/15/ballot-smc-014/
 [31]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.12.pdf
 [32]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.12-Redline.pdf
+[33]: /2026/02/10/SMCWG-Ballot-SMC015/
+[34]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.13-Redline.pdf
