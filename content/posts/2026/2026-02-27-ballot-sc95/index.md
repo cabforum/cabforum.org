@@ -2,7 +2,7 @@
 aliases:
 - /2026/02/27/ballot-sc-95-clean-up-2025
 author: Wayne Thayer
-date: 2026-01-14
+date: 2026-02-27
 tags:
 - Ballot
 - Server Certificates
@@ -57,7 +57,7 @@ Ballot for Review: SC095v3: Clean-Up 2025
 
 [TBR-SC95-redlined.pdf](BR-SC095-redline.pdf)
 
-[TBR-SC96.docx](BR-SC096.docx)
+[TBR-SC95.docx](BR-SC095.docx)
 
 [TBR-SC95-redlined.docx](BR-SC095-redline.docx)
 
