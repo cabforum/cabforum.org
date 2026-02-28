@@ -12,7 +12,7 @@ type: post
 
 Minutes by Jos Purvis (Fastly)
 
-## BI. Meeting Logistics
+## I. Meeting Logistics
 
  * Dimitris read the note-well.
  * No changes were requested for the agenda.
