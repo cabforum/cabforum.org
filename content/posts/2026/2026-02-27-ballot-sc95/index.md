@@ -67,9 +67,9 @@ Ballot for Review: SC095v3: Clean-Up 2025
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
-(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf) ## Summary of the Ballot
+(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf)
 
-## Ballot Contents
+## Summary of the Ballot
 
 This ballot introduces a set of updates across the Baseline Requirements and EV Guidelines to improve clarity, consistency, definitions, and structural correctness. More details are available in the Pull Request. Changes fall into the following categories:
 
