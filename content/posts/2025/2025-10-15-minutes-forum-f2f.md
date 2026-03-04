@@ -3,7 +3,8 @@ date: 2025-10-15 00:00:00
 tags:
   - Minutes
   - Forum
-title: 2025-10-15 Minutes of the Forum - F2F#66
+  - F2F
+title: 2025-10-15 Minutes of the Forum - F2F66
 type: post
 ---
 
