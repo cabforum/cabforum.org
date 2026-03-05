@@ -221,6 +221,7 @@ Ben: It’s up to the CA to decide. Most importantly, CAs need to prepare for Po
 *Minutes by Martijn Katerbarg*
 
 Presented by Clint Wilson and Dustin Hollenback
+[Apple’s presentation](https://www.cabforum.org/uploads/2025/2025-10_OctoberF2F/2025-October-Apple.pdf)
 
 Staffing Update: Root Program Lead role will transition from Clint to Dustin
 Clint will stay around and will remain chain of NetSec
