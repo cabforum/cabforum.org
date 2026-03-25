@@ -40,3 +40,9 @@ This ballot proposes a Final Maintenance Guideline. The procedure for approval o
 * Start time: March 17, 2026 at 23:00 UTC
 
 * End time: March 25, 2026 at 18:00 UTC
+
+### Voting for Approval
+
+* Start time: March 25, 2026 at 18:00 UTC
+
+* End time: April 1, 2026 at 18:00 UTC
