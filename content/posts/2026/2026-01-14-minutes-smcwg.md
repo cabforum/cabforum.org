@@ -1,9 +1,9 @@
 ---
-date: 2024-01-14 00:00:00
+date: 2026-01-14 00:00:00
 tags:
   - Minutes
   - S/MIME
-title: 2024-01-14 Minutes of the S/MIME Certificate Working Group
+title: 2026-01-14 Minutes of the S/MIME Certificate Working Group
 type: post
 ---
 ## Minutes of SMCWG
