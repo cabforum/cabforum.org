@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.2.5][TBR225] ([redlined][TBR225r]) – adopted by Ballot [SC097][sc097]
+[CA-Browser-Forum TLS BR 2.2.6][TBR226] ([redlined][TBR226r]) – adopted by Ballot [SC095][sc095]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.2.5][TBR225] ([redlined][TBR225r]) – adopted by Ballot [SC097][sc097]
 
 [CA-Browser-Forum TLS BR 2.2.4][TBR224] ([redlined][TBR224r]) – adopted by Ballot [SC096][sc096]
 
@@ -225,6 +227,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[sc095]: /2026/02/27/ballot-sc-95-clean-up-2025
+[TBR226]: CA-Browser-Forum-TLS-BR-2.2.6.pdf
+[TBR226r]: CA-Browser-Forum-TLS-BR-2.2.6-redlined.pdf
 [sc097]: /2026/01/24/ballot-sc-097-sunset-all-remaining-use-of-sha-1-signatures-in-certificates-and-crls
 [TBR225]: CA-Browser-Forum-TLS-BR-2.2.5.pdf
 [TBR225r]: CA-Browser-Forum-TLS-BR-2.2.5-redlined.pdf
