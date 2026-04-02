@@ -80,4 +80,4 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 [34]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.13-Redline.pdf
 [35]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.13.pdf
 [36]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.14-Redline.pdf
-[37]: /2026/03/17/Ballot-SMC-016/
+[37]: /2026/03/17/ballot-smc-016/
