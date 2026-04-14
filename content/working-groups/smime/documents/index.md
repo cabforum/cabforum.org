@@ -76,7 +76,7 @@ title: S/MIME Baseline Requirements (S/MIME BR)
 [30]: /2025/08/15/ballot-smc-014/
 [31]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.12.pdf
 [32]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.12-Redline.pdf
-[33]: /2026/02/10/Ballot-SMC-015v2/
+[33]: /2026/01/10/ballot-smc-015v2/
 [34]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.13-Redline.pdf
 [35]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.13.pdf
 [36]: /uploads/CA-Browser-Forum-SMIMEBR-1.0.14-Redline.pdf
