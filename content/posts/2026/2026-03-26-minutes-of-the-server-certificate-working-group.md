@@ -30,14 +30,14 @@ No changes
 
 ## Minutes approval
 
-    February 26, 2026 (Draft minutes have not been distributed yet)
-    F2F#67 March 10, 2026 (Draft minutes have not been distributed yet)
+* February 26, 2026 (Draft minutes have not been distributed yet)
+* F2F#67 March 10, 2026 (Draft minutes have not been distributed yet)
 
  
 
 ## Membership applications
 
-    None
+None
 
  
 
@@ -79,7 +79,7 @@ This is the latest status of ballots since the last meeting.
 
 ## Any Other Business
 
-    Dimitris brought up the size of ballot titles.  Within the table that shows the ballots that are passed, long titles mess up the formatting of the table.  Requested submitters to limit the size of the title as much as possible.  Dimitris will check if there's an advisable number for how markdown renders the table (approx 64 characters).
+Dimitris brought up the size of ballot titles.  Within the table that shows the ballots that are passed, long titles mess up the formatting of the table.  Requested submitters to limit the size of the title as much as possible.  Dimitris will check if there's an advisable number for how markdown renders the table (approx 64 characters).
 
  
 
@@ -94,7 +94,3 @@ Dimitris: meeting adjourned.
 # Attendees
 
 Adam Jones (Microsoft), Arman Asemani (Apple), Ben Wilson (Mozilla), Chris Clements (Google), Chya-Hung Tsai (TWCA), Clint Wilson (Apple), Corey Bonnell (DigiCert), Corey Rasmussen (OATI), Cynethia Brown (US Federal PKI Management Authority), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Apple), Eric Kramer (Sectigo), Gurleen Grewal (Google), Hogeun Yoo (NAVER Cloud Trust Services), Inaba Atsushi (GlobalSign), Iñigo Barreira (Sectigo), Jaime Hablutzel (OISTE Foundation), Janet Hines (SSL.com), Jeanette Snook (Visa), Jeff Ward (CPA Canada/WebTrust), John Mason (Microsoft), Jozef Nigut (Disig), Jun Okura (Cybertrust Japan), Karina Sirota (Microsoft), Karolina Ruszczyńska (Asseco Data Systems SA (Certum)), Kateryna Aleksieieva (Asseco Data Systems SA (Certum)), Lilia Dubko (CPA Canada/WebTrust), Lucy Buecking (IdenTrust), Martijn Katerbarg (Sectigo), Masaru Sakamoto (Cybertrust Japan), Matthew McPherrin (Let's Encrypt), Michelle Coon (OATI), Mrugesh Chandarana (IdenTrust), Nome Huang (TrustAsia), Ono Fumiaki (SECOM Trust Systems), Puja Sehgal (Microsoft), Rich Smith (DigiCert), Roman Fischer (SwissSign), Sandy Balzer (SwissSign), Scott Rea (eMudhra), Sean Huang (TWCA), Stephen Davidson (DigiCert), Steven Deitte (GoDaddy), Tadahiko Ito (SECOM Trust Systems), Tathan Thacker (IdenTrust), Tim Callan (Sectigo), Tobias Josefowitz (Opera Software AS), Trevoli Ponds-White (Amazon), Wayne Thayer (Fastly), Wendy Brown (US Federal PKI Management Authority)
-
-
-
-## Attendees
