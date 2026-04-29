@@ -1,7 +1,7 @@
 ---
 aliases:
 - /ipr-policy/
-date: 2026-04-09
+date: 2026-04-29
 title: IPR Policy
 ---
 
@@ -21,6 +21,8 @@ The document above is the authoritative version of the CA/Browser Forum IPR Poli
 <br>
 
 ### IPR Policy Agreement
+
+[**IPR Agreement Upload Page**][21]
 
 [**CAB Forum Agreement for IPR Policy v.1.4 (pdf)**][14]
 
@@ -105,3 +107,4 @@ Each of the following documents is considered a “Final Guideline”:
 [18]: https://github.com/cabforum/forum/blob/main/IPR-Policy.md
 [19]: https://github.com/cabforum/forum/blob/main/IPR_Policy_Agreement_v.1.4.md
 [20]: https://github.com/cabforum/forum/blob/main/Exclusion_Notice_Template_v.2.1.md
+[21]: https://forms.gle/S1i4j635VVuh3SMP6
