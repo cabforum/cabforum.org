@@ -7,9 +7,11 @@ title: EV Guidelines for TLS Server Certificates
 
 ### Current Version
 
-[EV TLS Server Certificate Guidelines 2.0.1][201] – ([redlined][201r]) - adopted by Ballot [SC72][sc72]
+[EV TLS Server Certificate Guidelines 2.0.2][202] – ([redlined][202r]) - adopted by Ballot [SC95][sc95]
 
 ### Previous Versions
+
+[EV TLS Server Certificate Guidelines 2.0.1][201] – ([redlined][201r]) - adopted by Ballot [SC72][sc72]
 
 [EV TLS Server Certificate Guidelines 2.0.0][200] – ([redlined][200r]) - adopted by Ballot [SC65][sc65]
 
@@ -113,6 +115,9 @@ EV SSL Certificate Guidelines 1.4.1 – None (see [version 1.1 of the Baseline R
 [Erratum to Guidelines 1][123]
 [EV SSL Certificate Guidelines Draft 11][124] – valid through June 11, 2007
 
+[202]: CA-Browser-Forum-EV-Guidelines-2.0.2.pdf
+[202r]: CA-Browser-Forum-EV-Guidelines-2.0.2-redlined.pdf
+[sc95]: /2026/02/27/ballot-sc095v3-clean-up-2025/
 [201]: CA-Browser-Forum-EV-Guidelines-2.0.1.pdf
 [201r]: CA-Browser-Forum-EV-Guidelines-2.0.1-redlined.pdf
 [sc72]: /2024/03/25/ballot-sc-72-delete-except-to-policyqualifiers-in-evgs-align-with-brs-by-making-them-not-recommended/
