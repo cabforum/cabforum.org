@@ -38,3 +38,10 @@ Discussion (at least 7 days)
 * Start time: April 29, 2026 at 18:30:00 UTC
 
 * End time: May 6, 2026 at 18:30:00 UTC
+
+Voting for Approval 
+
+* Start time: May 6, 2026 at 21:30:00 UTC
+
+* End time: May 13, 2026 at 21:30:00 UTC
+
