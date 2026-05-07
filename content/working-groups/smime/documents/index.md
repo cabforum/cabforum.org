@@ -15,7 +15,7 @@ NA
 
 ### Current Version 
 
-S/MIME Baseline Requirements v. 1.0.14 [38] [(redline)][36] - adopted by Ballot [SMC016][37]
+[S/MIME Baseline Requirements v. 1.0.14][38] [(redline)][36] - adopted by Ballot [SMC016][37]
 
 ### Previous Versions 
 
