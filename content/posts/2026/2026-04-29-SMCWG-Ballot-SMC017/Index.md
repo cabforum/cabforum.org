@@ -13,6 +13,10 @@ Aliases:
 
 # Ballot SMC017: Increase Minimum RSA CA Key Size
 
+Ballot SMC017 was withdrawn on May 12, 2026.
+
+# Ballot SMC017: Increase Minimum RSA CA Key Size
+
 ### Summary: 
 
 This ballot increases the minimum RSA key size for Root and Subordinate CA certificates in the S/MIME BRs from 2048 to 4096 bits for keys created on or after September 15, 2026, while retaining the 2048-bit minimum for Subscriber certificates. 
