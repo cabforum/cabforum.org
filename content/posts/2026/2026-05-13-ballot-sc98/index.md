@@ -2,7 +2,7 @@
 aliases:
 - /2026/05/13/ballot-sc-98-process-rfc-8657-caa-parameters
 author: Wayne Thayer
-date: 2026-04-18
+date: 2026-05-13
 tags:
 - Ballot
 - Server Certificates
@@ -61,9 +61,9 @@ Ballot for Review: SC098v2: Process RFC 8657 CAA Parameters
 
 [TBR-SC98-redlined.docx](BR-SC098-redline.docx)
 
-**Start of Review Period: 2026-05-13 15:00:00 UTC**
+**Start of Review Period:** 2026-05-13 15:00:00 UTC
 
-**End of Review Period: 2026-06-12 15:00:00 UTC**
+**End of Review Period:** 2026-06-12 15:00:00 UTC
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
@@ -85,11 +85,15 @@ The ballot also consolidates CAA requirements into section 4.2.1.
 
 ### Summary of Discussion
 
-    This ballot has undergone extensive discussion in the Validation Working Group dating back to 2024, and in https://github.com/cabforum/servercert/pull/567.
-    The full value of the CAA extensions defined in RFC 8657 will only be realized if CAs process the parameters rather than ignoring them.
-    We originally considered including DNSSEC requirements in this ballot but decided to separate them into ballot SC-085.
-    Consensus formed that Non-ACME validation methods must use a specific syntax to avoid conflicts and provide consistency across CAs.
-    An allowance was added for ACME CAs to recognize “parent” accounts that authorize multiple ACME accounts.
+This ballot has undergone extensive discussion in the Validation Working Group dating back to 2024, and in https://github.com/cabforum/servercert/pull/567.
+
+The full value of the CAA extensions defined in RFC 8657 will only be realized if CAs process the parameters rather than ignoring them.
+
+We originally considered including DNSSEC requirements in this ballot but decided to separate them into ballot SC-085.
+
+Consensus formed that Non-ACME validation methods must use a specific syntax to avoid conflicts and provide consistency across CAs.
+
+An allowance was added for ACME CAs to recognize “parent” accounts that authorize multiple ACME accounts.
 
 Special thanks to Grace Cimaszewski for helping to move this ballot forward.
 
