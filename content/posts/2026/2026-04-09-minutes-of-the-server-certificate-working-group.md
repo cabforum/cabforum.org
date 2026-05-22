@@ -10,8 +10,6 @@ type: post
 
 **Minutes:**
 
-*Minutes*
-
 Meeting Logistics
 
   * Wayne Thayer leading the Meeting as Dimitris is not available.
@@ -35,7 +33,7 @@ Membership Applications
 
 *In Discussion Period*
 
-SC098 Process RFC 8657 CAA Parameters
+  * SC098 Process RFC 8657 CAA Parameters
 
 The ballot was in discussion and largely considered ready for voting. A
 comment was received about disambiguating the validation methods and
