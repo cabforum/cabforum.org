@@ -32,44 +32,43 @@ No changes
 
 ## 4. Minutes approval
 
-    March 10, 2026 F2F#67 SCWG Meeting - Approved
+March 10, 2026 F2F#67 SCWG Meeting - Approved
     
-    April 9, 2026 Teleconference – Draft minutes have not been distributed yet
+April 9, 2026 Teleconference – Draft minutes have not been distributed yet
     
-    April 23, 2026 Teleconference - Draft minutes have not been distributed yet
+April 23, 2026 Teleconference - Draft minutes have not been distributed yet
 
 ## 5. Membership applications
 
-    No application
+No application
 
 ## 6. Ballot Status
 
 In Voting Period
 
-    * SC098v2: Process RFC 8657 CAA Parameters (End of voting : May 11)
-
+ * SC098v2: Process RFC 8657 CAA Parameters (End of voting : May 11)
 
 Under IPR Review
 
-    * SC099: Improve Recording of Validation Method (IPR Review ends 2026-05-18 18:00:00 UTC)
+ * SC099: Improve Recording of Validation Method (IPR Review ends 2026-05-18 18:00:00 UTC)
 
 Cleared IPR Review, New Guidelines
 
-    * SC095: Clean-up 2025 (EV Guidelines version 2.0.2 with effective date 2026-05-04 to be published)
+ * SC095: Clean-up 2025 (EV Guidelines version 2.0.2 with effective date 2026-05-04 to be published)
 
 Draft / Under Consideration
 
-    * SC087: Registration Number Improvement for EV Certificates - Corey resolved all cleanup ballot merge conflicts, adjusted the effective date to avoid a validation cliff, confirmed alignment with endorsers, and plans to start the discussion period by Monday.
-    * SC101: Clarify Authorization Domain Names – No update
-    * SC0XX: Improve Certificate Problem Reports and Clarify the Meaning of Revocation – No update
-    * SC0XX: Allow ML-DSA(PR#622, PR#624)
-    - Corey noted differences between the two proposals and emphasized the need to align them and clarify overall motivation.
-    - Dimitris expressed preference for a more flexible approach in algorithm handling.
-    - Chris raised concerns about unclear justification and highlighted risks to the Certificate Transparency (CT) ecosystem, especially scalability impacts.
-    - Martijn warned that larger ML-DSA signatures could significantly strain CT log infrastructure.
-    - Trevoli Ponds questioned whether CT-related constraints should influence Baseline Requirements decisions.
-    - Participants noted uncertainty around the Microsoft pilot program and overall ecosystem readiness.
-    - Further discussion is required to clarify motivation, address CT concerns, and gather additional input (including Microsoft feedback) before proceeding.
+ * SC087: Registration Number Improvement for EV Certificates - Corey resolved all cleanup ballot merge conflicts, adjusted the effective date to avoid a validation cliff, confirmed alignment with endorsers, and plans to start the discussion period by Monday.
+ * SC101: Clarify Authorization Domain Names – No update
+ * SC0XX: Improve Certificate Problem Reports and Clarify the Meaning of Revocation – No update
+ * SC0XX: Allow ML-DSA(PR#622, PR#624)
+  - Corey noted differences between the two proposals and emphasized the need to align them and clarify overall motivation.
+  - Dimitris expressed preference for a more flexible approach in algorithm handling.
+  - Chris raised concerns about unclear justification and highlighted risks to the Certificate Transparency (CT) ecosystem, especially scalability impacts.
+  - Martijn warned that larger ML-DSA signatures could significantly strain CT log infrastructure.
+  - Trevoli Ponds questioned whether CT-related constraints should influence Baseline Requirements decisions.
+  - Participants noted uncertainty around the Microsoft pilot program and overall ecosystem readiness.
+  - Further discussion is required to clarify motivation, address CT concerns, and gather additional input (including Microsoft feedback) before proceeding.
 
 ## 7. Any other business
 
