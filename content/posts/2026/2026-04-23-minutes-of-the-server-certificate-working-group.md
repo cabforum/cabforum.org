@@ -30,7 +30,9 @@ No changes
 ## Membership applications
 
 Cigan Joseph, Interested Party - approved
+
 Nova Vanguard Technology Corporation, Interested party - approved
+
 Wayne Thayer will contact and inform the applicants of their acceptance.
 
 ## Ballot Status
@@ -68,7 +70,7 @@ Services
 
 Next meeting: May 7, 2026
 
-**Attendees**
+## Attendees
 
 Aaron Gable (ISRG), Adam Folsom (IdenTrust), Antti Backman (Telia
 Company), Antti Backman (Telia Company), Antti Backman (Telia Company),
