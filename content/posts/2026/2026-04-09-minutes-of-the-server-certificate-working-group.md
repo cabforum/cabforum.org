@@ -45,15 +45,13 @@ that can be represented by multiple labels, the CA should accept any of
 the labels as granting permission to issue.
 
 Dimitris suggested that clarity could be improved by defining the ACME
-DNS-01 validation method as a BR validation method and proposed hol=
-ding
+DNS-01 validation method as a BR validation method and proposed holding
 this ballot until a separate ballot encoding this ACME method in the BRs
 is completed.
 
 Aaron Gable stated that the ambiguity is largely theoretical and
 unlikely to cause practical issues, noting that a CA would not accept
-the DNS-01 label unless it implements the ACME DNS-01 valid=
-ation method.
+the DNS-01 label unless it implements the ACME DNS-01 validation method.
 He cautioned that defining DNS-01 as a separate BR validation method
 could introduce overlapping validation methods and additional audit and
 logging complexity. He suggested adjusting the example language rather
@@ -68,8 +66,8 @@ method 7 and expressed concern that ambiguity could lead to compliance
 incidents. He supported defining DNS-01 explicitly as a BR method for
 clarity.
 
-Michael Slaughter agreed that the issue warranted further consideration=20
-and supported handling DNS-01 in a separate discussion to avoid=20
+Michael Slaughter agreed that the issue warranted further consideration
+and supported handling DNS-01 in a separate discussion to avoid
 unintended consequences.
 
 Wayne summarized that he would update the example language as suggested,
@@ -93,16 +91,16 @@ Trevoli Ponds-White stated that the ballot primarily clarified existing
 expectations and did not require significant code changes. She indicated 
 she was open to moving the effective date if strong consensus emerged.
 
-Wayne stated that members who felt strongly about changing the effective=20
-date should comment on the mailing list before the discussion period=20
+Wayne stated that members who felt strongly about changing the effective
+date should comment on the mailing list before the discussion period
 ended. Otherwise, the ballot would proceed.
 
 Aaron noted that the discussion period for SC-99 was expected to
-conclude the following day, after which the ballot would be moved to the=20
+conclude the following day, after which the ballot would be moved to the
 voting stage unless additional concerns were raised.
 
-About informal or unwritten conventions (e.g. summer timing=20
-considerations), participants noted that these practices are not=20
+About informal or unwritten conventions (e.g. summer timing
+considerations), participants noted that these practices are not
 documented and that there is no formal consensus. It was suggested that
 such conventions should either be discussed at a future face-to-face
 meeting or formalized through a ballot and incorporated into the bylaws.
@@ -110,12 +108,12 @@ meeting or formalized through a ballot and incorporated into the bylaws.
 *Cleared IPR review, new Guidelines*
 
   * SC095
-Clean-up 2025 (cleared IPR Review for the TLS BRs). BRs 2.2.6 were released=
+Clean-up 2025 (cleared IPR Review for the TLS BRs). BRs 2.2.6 were released
 
-Wayne reported that the original IPR review covered only the TLS=20
-Baseline Requirements and did not include the EV Guidelines. The TLS BR=20
-portion has cleared IPR review and BR version 2.2.6 has been released.=20
-To correct this issue, a new IPR review period has been initiated for=20
+Wayne reported that the original IPR review covered only the TLS
+Baseline Requirements and did not include the EV Guidelines. The TLS BR
+portion has cleared IPR review and BR version 2.2.6 has been released.
+To correct this issue, a new IPR review period has been initiated for
 the EV Guidelines portion.
 
 *Draft / Under Consideration*
@@ -123,7 +121,7 @@ the EV Guidelines portion.
   * SC087
     Registration Number Improvement for EV Certificates (Corey)
 
-On hold pending SC=E2=80=9195 IPR completion.
+On hold pending SC-95 IPR completion.
 
   * SC0XX
     Cleanup for ADN CNAME (Aaron)
@@ -150,32 +148,13 @@ Draft in progress; removed from agenda until ready.
 
 *Any other business*
 
-Wayne Thayer asked for any other business and stated that the next=20
+Wayne Thayer asked for any other business and stated that the next
 Server Certificate Working Group call is scheduled for 23 April.
 
-Wayne adjourned the Server Certificate Working Group meeting and handed=20
-the meeting over to Dean to continue with the CA/Browser Forum plenary=20
+Wayne adjourned the Server Certificate Working Group meeting and handed
+the meeting over to Dean to continue with the CA/Browser Forum plenary
 session.
 
 *Attendees*
 
-Tadahiko ITO-SECOM, Wayne Thayer, Luis Cervantes (SSL.com), Luis Osses=20
-(Amazon Trust Services), Mahua Chaudhuri (Microsoft), Sandy Balzer -=20
-SwissSign, Michael Slaughter (Amazon Trust Services), Sean Huang (TWCA),=20
-Janet Hines - SSL.com, Rebecca Kelley - SSL, Karolina Ruszczynska -=20
-Certum, Greg Tomko (GlobalSign), Jozef Nigut - Disig, S=C3=A1ndor SZ=C5=90K=
-E, dr.=20
-(Microsec), Enrico Entschew/ D-Trust, Ben Wilson - Mozilla, Adam Folsom,=20
-Dustin Hollenback, Kateryna Aleksieieva (Certum by Asseco), Tobias=20
-Josefowitz (Opera), Inigo Barreira, Jos Purvis (Fastly), Dean, Trevoli=20
-Ponds-White [Amazon Trust Services], wendy brown - FPKIMA, Stephen=20
-Davidson (DigiCert), Peter Miskovic - Disig, Scott Rea - eMudhra, Roman=20
-Fischer - SwissSign, Paul van Brouwershaven (Digitorus), [WISeKey] Jaime=20
-Hablutzel, Rich Smith (DigiCert), Aaron Gable (ISRG), Steven Deitte -=20
-GoDaddy, Lucy Buecking - IdenTrust, Nome Huang-TrustAsia, Chad Dandar,=20
-Atsushi INABA - GlobalSign, Hogeun Yoo - NAVER Cloud Trust Services,=20
-Clint Wilson, Corey Bonnell [DigiCert], ONO Fumiaki - SECOM Trust=20
-Systems, Nate Smith - GoDaddy, Jeff Ward (Aprio), Georgy Sebastian(AWS),=20
-Lilia Dubko, Cynetheia Brown(FPKIMA), Rollin Yu - TrustAsia,=20
-Alvin.Wang(SHECA), Antti Backman - Telia Company, Tim Callan (Sectigo),=20
-Chunghwa Telecom / Tsung-Min Kuo.
+Tadahiko ITO-SECOM, Wayne Thayer, Luis Cervantes (SSL.com), Luis Osses (Amazon Trust Services), Mahua Chaudhuri (Microsoft), Sandy Balzer - SwissSign, Michael Slaughter (Amazon Trust Services), Sean Huang (TWCA), Janet Hines - SSL.com, Rebecca Kelley - SSL, Karolina Ruszczynska - Certum, Greg Tomko (GlobalSign), Jozef Nigut - Disig, Sándor SZŐKE, dr. (Microsec), Enrico Entschew/ D-Trust, Ben Wilson - Mozilla, Adam Folsom, Dustin Hollenback, Kateryna Aleksieieva (Certum by Asseco), Tobias Josefowitz (Opera), Inigo Barreira, Jos Purvis (Fastly), Dean, Trevoli Ponds-White [Amazon Trust Services], wendy brown - FPKIMA, Stephen Davidson (DigiCert), Peter Miskovic - Disig, Scott Rea - eMudhra, Roman Fischer - SwissSign, Paul van Brouwershaven (Digitorus), [WISeKey] Jaime Hablutzel, Rich Smith (DigiCert), Aaron Gable (ISRG), Steven Deitte - GoDaddy, Lucy Buecking - IdenTrust, Nome Huang-TrustAsia, Chad Dandar, Atsushi INABA - GlobalSign, Hogeun Yoo - NAVER Cloud Trust Services, Clint Wilson, Corey Bonnell [DigiCert], ONO Fumiaki - SECOM Trust Systems, Nate Smith - GoDaddy, Jeff Ward (Aprio), Georgy Sebastian(AWS), Lilia Dubko, Cynetheia Brown(FPKIMA), Rollin Yu - TrustAsia, Alvin.Wang(SHECA), Antti Backman - Telia Company, Tim Callan (Sectigo), Chunghwa Telecom / Tsung-Min Kuo.
