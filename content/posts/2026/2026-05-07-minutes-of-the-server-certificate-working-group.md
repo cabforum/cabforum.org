@@ -62,13 +62,13 @@ Draft / Under Consideration
  * SC101: Clarify Authorization Domain Names – No update
  * SC0XX: Improve Certificate Problem Reports and Clarify the Meaning of Revocation – No update
  * SC0XX: Allow ML-DSA(PR#622, PR#624)
-  - Corey noted differences between the two proposals and emphasized the need to align them and clarify overall motivation.
-  - Dimitris expressed preference for a more flexible approach in algorithm handling.
-  - Chris raised concerns about unclear justification and highlighted risks to the Certificate Transparency (CT) ecosystem, especially scalability impacts.
-  - Martijn warned that larger ML-DSA signatures could significantly strain CT log infrastructure.
-  - Trevoli Ponds questioned whether CT-related constraints should influence Baseline Requirements decisions.
-  - Participants noted uncertainty around the Microsoft pilot program and overall ecosystem readiness.
-  - Further discussion is required to clarify motivation, address CT concerns, and gather additional input (including Microsoft feedback) before proceeding.
+    - Corey noted differences between the two proposals and emphasized the need to align them and clarify overall motivation.
+    - Dimitris expressed preference for a more flexible approach in algorithm handling.
+    - Chris raised concerns about unclear justification and highlighted risks to the Certificate Transparency (CT) ecosystem, especially scalability impacts.
+    - Martijn warned that larger ML-DSA signatures could significantly strain CT log infrastructure.
+    - Trevoli Ponds questioned whether CT-related constraints should influence Baseline Requirements decisions.
+    - Participants noted uncertainty around the Microsoft pilot program and overall ecosystem readiness.
+    - Further discussion is required to clarify motivation, address CT concerns, and gather additional input (including Microsoft feedback) before proceeding.
 
 ## 7. Any other business
 
