@@ -42,6 +42,14 @@
         <div class="modal-body">
           <div id="search"></div>
 
+    {{ $css := resources.Get "pagefind/pagefind-ui.css" | resources.ExecuteAsTemplate "pagefind/pagefind-ui.css" . }}
+    {{ $params := dict }}
+    {{ $sourceMap := cond hugo.IsProduction "" "inline" }}
+    {{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2018" "params" $params }}
+    {{ $css = $css | $css.Build $opts }}
+    {{ if hugo.IsProduction }}
+    {{ $css = $css | fingerprint }}
+    {{ end }} 
           <link href="{{ relURL "" }}pagefind/pagefind-ui.css" rel="stylesheet">
           <script src="{{ relURL "" }}pagefind/pagefind-ui.js" type="text/javascript"></script>         
         </div>
