@@ -60,9 +60,9 @@ Ballot for Review: SC087v2: Registration Number Improvement for EV Certificates
 
 [TBR-SC87-redlined.docx](BR-SC087-redline.docx)
 
-**Start of Review Period: 2026-06-03 11:00:00 UTC**
+**Start of Review Period:** 2026-06-03 11:00:00 UTC
 
-**End of Review Period: 2026-07-03 11:00:00 UTC**
+**End of Review Period:** 2026-07-03 11:00:00 UTC
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
