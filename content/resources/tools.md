@@ -27,6 +27,8 @@ SSL Labs – https://www.ssllabs.com/ssltest
 
 SSLyze – https://github.com/nabla-c0d3/sslyze
 
+SSLTrust – https://www.ssltrust.com.au/ssl-tools/ssl-checker
+
 TestSSL – https://testssl.sh/
 
 Wormly – https://www.wormly.com/test_ssl
@@ -64,6 +66,8 @@ Mozilla Certsplainer – https://tls-observatory.services.mozilla.com/static/cer
 Mozilla EV certificate checker – https://tls-observatory.services.mozilla.com/static/ev-checker.html (requires certificate PEM and EV OID)
 
 Sectigo – https://secure.sectigo.com/utilities/decodeCSR.html
+
+SSLTust - https://www.ssltrust.com.au/ssl-tools/certificate-key-matcher ( Checks if certificate matches CSR or Private Key )
 
 ## CA Information
 
