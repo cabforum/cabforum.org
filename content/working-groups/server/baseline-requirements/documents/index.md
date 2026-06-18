@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.2.7][TBR227] ([redlined][TBR227r]) – adopted by Ballot [SC099][sc099]
+[CA-Browser-Forum TLS BR 2.2.8][TBR228] ([redlined][TBR228r]) – adopted by Ballot [SC098][sc098]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.2.7][TBR227] ([redlined][TBR227r]) – adopted by Ballot [SC099][sc099]
 
 [CA-Browser-Forum TLS BR 2.2.6][TBR226] ([redlined][TBR226r]) – adopted by Ballot [SC095][sc095]
 
@@ -229,6 +231,9 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
+[sc098]: /2026/05/13/ballot-sc-98-process-rfc-8657-caa-parameters
+[TBR228]: CA-Browser-Forum-TLS-BR-2.2.8.pdf
+[TBR228r]: CA-Browser-Forum-TLS-BR-2.2.8-redlined.pdf
 [sc099]: /2026/04/18/ballot-sc-99-improve-recording-of-validation-method
 [TBR227]: CA-Browser-Forum-TLS-BR-2.2.7.pdf
 [TBR227r]: CA-Browser-Forum-TLS-BR-2.2.7-redlined.pdf
