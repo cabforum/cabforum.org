@@ -11,6 +11,51 @@ Aliases:
 - SMC017v2
 ---
 
+# [Voting Results] Ballot SMC017v2: Increase Minimum RSA CA Key Size
+
+The voting period for Ballot SMC017v2: Increase Minimum RSA CA Key Size has completed. The ballot has: PASSED.
+
+### Voting Results
+
+**Certificate Issuers**
+
+17 votes in total:
+
+ * 17 voting YES: Actalis S.p.A., Asseco Data Systems SA (Certum), DigiCert, D-TRUST, eMudhra, GlobalSign, HARICA, IdenTrust, MSC Trustgate Sdn Bhd, OISTE Foundation, SECOM Trust Systems, Sectigo, SSL.com, SwissSign, Telia Company, TrustAsia, TWCA
+
+ * 0 voting NO:
+
+ * 0 ABSTAIN:
+
+**Certificate Consumers**
+
+4 votes in total:
+
+ * 4 voting YES: Apple, Microsoft, Mozilla, rundQuadrat
+
+ * 0 voting NO:
+
+ * 0 ABSTAIN:
+
+**Bylaws Requirements**
+
+1. Bylaw 2.3(6) requires:
+
+ * In order for a ballot to be adopted by the Forum, two‐thirds (2/3) or more of the votes cast by the Voting Members in the Certificate Issuer category must be in favor of the ballot. This requirement was MET.
+
+ * at least fifty percent (50%) plus one (1) of the votes cast by the Voting Members in the Certificate Consumer category must be in favor of the ballot. This requirement was MET.
+
+ * At least one (1) Voting Member in each category must vote in favor of a ballot for the ballot to be adopted. This requirement was MET.
+
+2. Bylaw 2.3(7) requires:
+
+ * A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
+
+  * the quorum was 10 for this ballot. This requirement was MET.
+
+This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues. This will be notified in a separate email.
+
+
 # Ballot SMC017v2: Increase Minimum RSA CA Key Size
 
 ### Summary: 
