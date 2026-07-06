@@ -13,8 +13,6 @@ type: post
 
 ### 1. Roll Call – from recording
 
-Aaron Gable (ISRG), Aaron Poulsen (SSL.com), Andrea Holland (IdenTrust), Antti Backman (Telia Company), Arno Fiedler (ETSI), Atsushi INABA (GlobalSign), Ben Wilson (Mozilla), Chad Dandar (Cisco), Corey Rasmussen (OATI), Dean Coclin (DigiCert), Dimitris Zacharopoulos (HARICA), Dustin Hollenback (Apple), Ethan Davis (Google Trust Services), Georgy Sebastian (Amazon Trust Services), Greg Tomko (GlobalSign), Hazhar Ismail (MSC Trustgate), Hogeun Yoo (NAVER Cloud Trust Services), Inigo Barreira (Sectigo), Janet Hines (SSL.com), Jun Okura (Cybertrust), Karina Sirota Goodley (Microsoft), Li-Chun Chen (Chunghwa Telecom), Lilia Dubko (CPA Canada), Logan Mabe (Microsoft), Lucy Buecking (IdenTrust), Luis Osses (Amazon Trust Services), Mahua Chaudhuri (Microsoft), Martijn Katerbarg (Sectigo), Masaru Sakamoto (Cybertrust), Michelle Coon (OATI), Naresh Charugundla (Microsoft), Nate Smith (GoDaddy), Nome Huang (TrustAsia), ONO Fumiaki (SECOM Trust Systems), Paul van Brouwershaven (Digitorus), Peter Miskovic (Disig), Polina Glazyrina (Sectigo), Rajeev Mohindra (Microsoft), Rebecca Kelley (SSL.com), Rob White (GoDaddy), Rollin Yu (TrustAsia), Roman Fischer (SwissSign), Sandy Balzer (SwissSign), Sándor SZŐKE, dr. (Microsec), Scott Rea (eMudhra), Sean Huang (TWCA), Stephen Davidson (DigiCert), Tadahiko Ito (SECOM trust Systems), Tobias Josefowitz (Opera), Trevoli Ponds-White (Amazon Trust Services), Wayne Thayer (Fastly), Wendy Brown (FPKIMA), Wiktoria Wieckowska (Certum by Asseco)
-
 ### 2. Read note-well
 
 The note-well was read by Dimitris in prior session.
@@ -83,9 +81,7 @@ The Agenda as provided on list prior to the call (see above).
 
 Next call is July 2nd, 2026. 
 
- 
-
-14. Meeting Adjournment
+### 14. Meeting Adjournment
 
 Meeting adjourned.
 
