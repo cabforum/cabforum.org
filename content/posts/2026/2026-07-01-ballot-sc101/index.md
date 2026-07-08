@@ -52,13 +52,13 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 ### Summary of Review
 Ballot for Review: SC0101v2: Clarify Authorization Domain Names
 
-[TBR-SC101.pdf](BR-SC101.pdf)
+[TBR-SC101.pdf](TBR-SC101.pdf)
 
-[TBR-SC101-redlined.pdf](BR-SC101-redline.pdf)
+[TBR-SC101-redlined.pdf](TBR-SC101-redline.pdf)
 
-[TBR-SC101.docx](BR-SC101.docx)
+[TBR-SC101.docx](TBR-SC101.docx)
 
-[TBR-SC101-redlined.docx](BR-SC101-redline.docx)
+[TBR-SC101-redlined.docx](TBR-SC101-redline.docx)
 
 **Start of Review Period:** 2026-07-07 08:00:00 UTC
 
