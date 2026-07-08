@@ -60,9 +60,9 @@ Ballot for Review: SC0101v2: Clarify Authorization Domain Names
 
 [TBR-SC101-redlined.docx](BR-SC101-redline.docx)
 
-**Start of Review Period:** 2026-06-03 11:00:00 UTC
+**Start of Review Period:** 2026-07-07 08:00:00 UTC
 
-**End of Review Period:** 2026-07-03 11:00:00 UTC
+**End of Review Period:** 2026-08-06 08:00:00 UTC
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
@@ -70,30 +70,61 @@ For details, please see the current version of the CA/Browser Forum Intellectual
 
 ## Ballot Contents
 
-### Purpose of Ballot
+### Summary of the Ballot
 
-There have been varying interpretations of the EV Guidelines on the inclusion of values in the serialNumber attribute. This ballot explicitly specifies how to encode Registration Numbers, Dates of Formation, and other values in the serialNumber attribute. Additionally, the ballot mandates a standard encoding for date values encoded within this attribute.
+In Section 3.2.2.4, explicitly describe the algorithm by which a CA may derive an Authorization Domain Name from an applied-for FQDN. The algorithm described is consistent with the most common interpretation of the current definition of ADN, so this is not expected to be a disruptive change for most CAs, but it removes ambiguity and closes one security issue (described below).
 
-The following motion has been proposed by Corey Bonnell (DigiCert) and endorsed by Ben Wilson (Mozilla) and Dimitris Zacharopoulos (HARICA).
+Simplify the definition of Authorization Domain Name to be merely descriptive. Update all validation methods to describe how they validate control of the selected ADN. Collapse all previous statements about validation method suitability for wildcard and ending-in-the-same-suffix validation into a table in Section 3.2.2.4. As a knock-on effect, simplify the definitions of Base Domain Name and Domain Contact.
 
-**Motion Begins**
+Although these changes are simple, they are also sweeping. As such, the ballot includes a provision that CAs may comply with Section 3.2.2.4 of the previous version of the Baseline Requirements until November 15, 2026. This is derived from the approach taken by v2.0 of the Network Security Requirements.
 
-MODIFY the " Guidelines for the Issuance and Management of Extended Validation Certificates" ("EV Guidelines") based on Version 2.0.2 as specified in the following redline:
+### Background of the Ballot
 
-https://github.com/cabforum/servercert/compare/f88428082c4411d7a1cebfd52fca7f5f420efab2...a8bd03e741bc79ba0f1606dc4d2ec0bea4fc0fca
+The existing definition of Authorization Domain Name has two severe issues:
 
-**Motion Ends**
+a) It contains normative policy language (describing how to derive an ADN) but attempts to be a concise and descriptive definition, leading to ambiguity as to whether parts of the definition can be performed exclusively, in sequence, repeatedly, or otherwise.
+
+b) Under some interpretations, it allows for issuance of certificates for names over which the applicant has not demonstrated any control.
+
+Specifically, one interpretation of the current definition of an ADN is that a CA may prune labels from the left-hand side of the FQDN, then follow one or more CNAMEs, and then use the resulting FQDN as the ADN. However, just because `example.com` has a CNAME pointing to `example.org`, that does not give the operators of `example.org` any control over subdomains of such as `blog.example.com`. Under this interpretation, an entity capable of demonstrating control of a CNAME (such as a CDN operator) might be able to get issuance of certificates for arbitrary subdomains of names that are CNAMEd to them. This is not good.
+
+This ballot resolves the issue by much more strictly describing the acceptable ADN derivation algorithm. In particular:
+
+- The ADN must be selected after the validation method has been selected.
+
+- Only certain methods (those which perform validation at the name itself, not at a underscore-prefixed subdomain of it) can use the "cname" step of the ADN algorithm.
+
+- Only certain methods (those which currently allow issuance for "other FQDNs that end with all the Domain Labels of the validated FQDN") can use the "prune" step of the ADN algorithm.
+
+- Following CNAMEs must happen before pruning labels, if both operations are performed.
+
+This makes it much easier for CAs to implement provably-compliant ADN derivation algorithms, and closes the security hole described above.
+
+This ballot also explicitly acknowledges something that has always been true: that all validation methods are in fact validating control over the ADN, not the applied-for FQDN (unless the CA has selected the ADN to be exactly equal to the applied-for FQDN). This means that validation data reuse also works at the ADN level: if two applied-for FQDNs can both be turned into the same ADN, then demonstrating control of that ADN is valid for the issuance of both applied-for FQDNs.
+
+
+This ballot differs from the original SC-101 in only one substantive way: it adds an effective date for the change to Section 3.2.2.5.3, which is not covered by the general effective date covering all of Section 3.2.2.4. The other changes are merely editorial. You can see a diff from SC-101 to SC-101v2 here.
+
+The following motion is proposed by Aaron Gable (Let's Encrypt / ISRG) and endorsed by Rich Smith (DigiCert) and Chris Clements (Google).
+
+**--- Motion Begins ---**
+
+Modify the "Baseline Requirements for the Issuance and Management of Publicly-Trusted Server Certificates", based on Version 2.2.7, per the following redline:
+
+https://github.com/cabforum/servercert/compare/1bcb34993331313c92ac7d6af778e81ca3d5faff...0a66f1dfad21cc9964738ce753b5ac8859d9a265
+
+**--- Motion Ends ---**
 
 This ballot proposes a Final Maintenance Guideline. The procedure for approval of this ballot is as follows:
 
-Discussion (at least 7 days)
+Discussion (at least 7 days):
 
- * Start time: 2026-05-19 12:00 UTC
+ * Start time: 2026-06-12 17:00 UTC
 
- * End time: 2026-05-26 12:30 UTC
+ * End time: 2026-06-19 17:00 UTC or later
 
-Vote for approval (7 days)
+Vote for approval (7 days):
 
- * Start time: 2026-05-26 12:30 UTC
+ * Start time: 2026-06-23 23:20 UTC
 
- * End time: 2026-06-02 12:30 UTC
+ * End time: 2026-06-30 23:20 UTC
