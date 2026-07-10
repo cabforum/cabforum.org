@@ -20,6 +20,7 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 Ballot for Review: Ballot SMC017v2: Increase Minimum RSA CA Key Size
 
 Start of Review Period: 2026-06-30 20:00:00 UTC
+
 End of Review Period: 2026-07-30 20:00:00 UTC
 
 Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair (email to stephen.davidson at digicert.com) and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
@@ -36,9 +37,9 @@ The voting period for Ballot SMC017v2: Increase Minimum RSA CA Key Size has comp
 
 **Certificate Issuers**
 
-17 votes in total:
+18 votes in total:
 
- * 17 voting YES: Actalis S.p.A., Asseco Data Systems SA (Certum), DigiCert, D-TRUST, eMudhra, GlobalSign, HARICA, IdenTrust, MSC Trustgate Sdn Bhd, OISTE Foundation, SECOM Trust Systems, Sectigo, SSL.com, SwissSign, Telia Company, TrustAsia, TWCA
+ * 18 voting YES: Actalis S.p.A., Asseco Data Systems SA (Certum), DigiCert, D-TRUST, eMudhra, GlobalSign, HARICA, IdenTrust, Logius PKIoverheid, MSC Trustgate Sdn Bhd, OISTE Foundation, SECOM Trust Systems, Sectigo, SSL.com, SwissSign, Telia Company, TrustAsia, TWCA
 
  * 0 voting NO:
 
