@@ -1,7 +1,7 @@
 ---
 aliases:
 - /information-for-potential-members/
-date: 2013-08-30 22:34:32
+date: 2026-07-14 12:00:00
 linkTitle: Potential Members
 title: Information for Potential Members
 ---
@@ -36,7 +36,7 @@ Please email "questions@cabforum.org" with “Membership Application of \[Name o
 
 Here are the items that should be provided in all applications:
 
-- a completed IPR Policy Agreement, duly signed by a person with authority to bind the organization. The form may be found here – [CAB Forum Agreement for IPR Policy v.1.3][6]. We will accept either a scanned/digitized signature or a digital signature. Our IPR Policy and the IPR Policy Agreement are also found [here][7];
+- a completed IPR Policy Agreement, duly signed by a person with authority to bind the organization. The form may be found here – [CAB Forum Agreement for IPR Policy][6]. We will accept either a scanned/digitized signature or a digital signature. Our IPR Policy and the IPR Policy Agreement are also found [here][7];
 - an indication of the Working Group(s) to which you are applying. At least one working group ([Server Certificate WG][2], [Code Signing Certificate Working Group][3], or [S/MIME Certificate Working Group][4]) must be indicated;
 - organization name, as you wish it to appear on the Forum website and in official Forum documents;
 - the URL of your main website;
@@ -90,5 +90,5 @@ For any other questions you may have about membership or participation in the CA
 [3]: /working-groups/code-signing/
 [4]: /working-groups/smime-certificate-wg/
 [5]: /about/membership/interested-parties/
-[6]: /uploads/CAB-Forum-Agreement-for-IPR-Policy_20FEB18.pdf
-[7]: /about/ipr-policy/ "IPR Policy"
+[6]: /about/ipr-policy/#ipr-policy-agreement
+[7]: /about/ipr-policy/
