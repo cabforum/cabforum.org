@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2026/07/14/ballot-sc-102-ev-domain-reuse-and-validity-alignment
-date: 2026-07-01
+date: 2026-07-14
 tags:
 - Ballot
 - Server Certificates
