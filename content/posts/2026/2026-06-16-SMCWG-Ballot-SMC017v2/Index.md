@@ -11,6 +11,10 @@ Aliases:
 - SMC017v2
 ---
 
+# [Adopted] Ballot SMC017v2: Increase Minimum RSA CA Key Size
+
+The Intellectual Property Review (IPR) period for Ballot SMC017v2 (Increase Minimum RSA CA Key Size) has completed. No IPR Exclusion Notices were filed, and the ballot is adopted as of July 30, 2026. The new S/MIME BR v.1.0.15 have been published to the CABF public website in accordance with the Bylaws:  https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.15.pdf 
+
 # [IPR Review] Ballot SMC017v2: Increase Minimum RSA CA Key Size
 
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.4). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice may be found at https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.15-Redline.pdf.
