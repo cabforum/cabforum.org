@@ -42,19 +42,19 @@ No objections were raised. The application was approved by consensus. Wayne woul
 
 SC-100 – DNSSEC Clarification and Consolidation
 
-Rich Smith provided an update on the remaining discussion surrounding evidence retention for DNSSEC validation.
+ * Rich Smith provided an update on the remaining discussion surrounding evidence retention for DNSSEC validation.
 
-The principal remaining issue was whether the ballot should prescribe specific logging requirements. Following discussions with Trevoli Ponds-White (Amazon), the proposal will be to avoid mandating a particular implementation or logging mechanism. Instead, the ballot will be revised to require that CAs retain sufficient evidence demonstrating that DNSSEC validation was performed, while allowing flexibility regarding how that evidence is maintained.
+ * The principal remaining issue was whether the ballot should prescribe specific logging requirements. Following discussions with Trevoli Ponds-White (Amazon), the proposal will be to avoid mandating a particular implementation or logging mechanism. Instead, the ballot will be revised to require that CAs retain sufficient evidence demonstrating that DNSSEC validation was performed, while allowing flexibility regarding how that evidence is maintained.
 
-Participants generally agreed that this approach would appropriately balance assurance with implementation flexibility.
+ * Participants generally agreed that this approach would appropriately balance assurance with implementation flexibility.
 
-Dimitris noted that the proposed revision also appeared to address concerns previously raised by Henry Birge-Lee on the mailing list regarding acceptable evidence.
+ * Dimitris noted that the proposed revision also appeared to address concerns previously raised by Henry Birge-Lee on the mailing list regarding acceptable evidence.
 
-Rich indicated that revised ballot language would be posted, after which the required discussion period would restart before the ballot could proceed to voting.
+ * Rich indicated that revised ballot language would be posted, after which the required discussion period would restart before the ballot could proceed to voting.
 
 SC-103 – Require EKUs for Cross-Certified Subordinate CAs
 
-No update was provided because the ballot sponsor was not present.
+ * No update was provided because the ballot sponsor was not present.
 
 ### Ballots Under IPR Review
 
@@ -68,26 +68,25 @@ SC-087 (Registration Number Improvement for EV Certificates) has completed IPR r
 
 Certificate Problem Reports / Revocation Clarification
 
-Martijn Katerbarg reported no update due to being on holiday.
+ * Martijn Katerbarg reported no update due to being on holiday.
 
 ML-DSA
 
-Gurleen Grewal reported that work continues on preparing the ballot preamble before publication.
+ * Gurleen Grewal reported that work continues on preparing the ballot preamble before publication.
 
 Revocation Timeline for CP/CPS Deviations
 
-Dimitris reported that work has been slower than anticipated and noted that HARICA expects to publish an incident soon involving a CP/CPS documentation mistake, highlighting the practical importance of the proposal.
+ * Dimitris reported that work has been slower than anticipated and noted that HARICA expects to publish an incident soon involving a CP/CPS documentation mistake, highlighting the practical importance of the proposal.
 
-Any Other Business
+## Any Other Business
 
 None.
 
-Next Meeting
+## Next Meeting
 
 The next Server Certificate Working Group meeting will be held on 30 July 2026.
 
 Meeting Adjourned
-
 
 
 ## Attendees:
