@@ -14,7 +14,7 @@ type: post
 ### Certificate Issuers
 22 votes in total:
 
- * 22 voting YES: Actalis S.p.A., Asseco Data Systems SA (Certum), CFCA, Chunghwa Telecom, Cybertrust Japan, DigiCert, Disig, eMudhra, Fastly, HARICA, IdenTrust, iTrusChina, Japan Registry Services, Kamu SM, NAVER Cloud Trust Services, OISTE Foundation, SECOM Trust Systems, SHECA, SwissSign, Telia Company, TrustAsia, TWCA
+ * 22 voting YES: Actalis S.p.A., Asseco Data Systems SA (Certum), CFCA, Chunghwa Telecom, Cybertrust Japan, DigiCert, Disig, eMudhra, Fastly, HARICA, IdenTrust, iTrusChina, Japan Registry Services, Kamu SM, NAVER Cloud Trust Services, OISTE Foundation, SECOM Trust Systems, SHECA, SwissSign, Telia Company, TrustAsia, TWCA 
  * 0 voting NO: 
 
  * 0 ABSTAIN:
