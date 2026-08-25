@@ -24,21 +24,21 @@ Plenary Attendance: Ben Wilson (Mozilla), Dustin Ward (SSL.com), Iñigo Barreira
  
 # Guest Presentation: The practical impact of SC-85 and DNSSEC validation requirements effective March 15
 - Presenter: Shane Barbetta
-- [https://www.cabforum.org/uploads/2026/DNSSEC SC85 CABF presentation.pptx](Presentation)
+- [https://www.cabforum.org/uploads/2026/DNSSEC SC85 CABF presentation.pptx](https://www.cabforum.org/uploads/2026/DNSSEC SC85 CABF presentation.pptx)
 
 # Guest Presentation: The state of the HSM industry and where it’s going 
 - Presenter: Bruno Coulliard
-- [https://www.cabforum.org/uploads/2026/20260211 - Crypt4A CAB Forum slides-1.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/20260211 - Crypt4A CAB Forum slides-1.pdf](https://www.cabforum.org/uploads/2026/20260211 - Crypt4A CAB Forum slides-1.pdf)
  
 # Guest Presentation: Use of Mobile Driver's Licenses as proof of Identity
 - Presenter: Ryan Hurst 
-- [https://www.cabforum.org/uploads/2026/[Final] mDL Meets the WebPKI Ecosystem.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/[Final] mDL Meets the WebPKI Ecosystem.pdf](https://www.cabforum.org/uploads/2026/[Final] mDL Meets the WebPKI Ecosystem.pdf)
     
 # Mozilla Root Program
 - Presenter: Ben Wilson
 - Minute taker: Kateryna
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/March-2026-Mozilla-News.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/March-2026-Mozilla-News.pdf](https://www.cabforum.org/uploads/2026/March-2026-Mozilla-News.pdf)
 
 Summary of Ben’s presentation:
  
@@ -70,7 +70,7 @@ Ben responded that he did not have information on that topic.
 - Presenter: Dustin Hollenback
 - Minute taker: Ben Wilson
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/2026-March-Apple.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/2026-March-Apple.pdf](ttps://www.cabforum.org/uploads/2026/2026-March-Apple.pdf)
 
 Minutes by Ben Wilson
 
@@ -282,7 +282,7 @@ Dustin concluded by inviting further questions and reiterating that formal feedb
 - Presenter: Karina Sirota
 - Minute taker: Daryn Wright
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/Microsoft F2F 67 Presentation.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/Microsoft F2F 67 Presentation.pdf](https://www.cabforum.org/uploads/2026/Microsoft F2F 67 Presentation.pdf)
     
 Microsoft stated formally that they have no formal information about Merkle Tree Certs, but they are looking into them along with requirements that TLS roots must be associated with Trust Anchors.
  
@@ -308,7 +308,7 @@ Karina answered yes.
 - Presenter: Dustin Hollenback
 - Minute taker: Steven Diette
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/CAB F2F 67 CCADB Update.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/CAB F2F 67 CCADB Update.pdf](https://www.cabforum.org/uploads/2026/CAB F2F 67 CCADB Update.pdf)
     
 Dustin Hollenback covered the following topics, for details please see the presentation slides.
 - CCADB Policy and IRG Goals, Updates and Timeline for Effective Date March 20th
@@ -364,7 +364,7 @@ Dimitris -
 - Presenter: Iñigo Barreira
 - Minute taker: Mattias Wiedenhorst
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/ETSI-ESI_Standardisation_Update_for_CAB-Forum-Houston-2026.pptx](Presentation)
+- [https://www.cabforum.org/uploads/2026/ETSI-ESI_Standardisation_Update_for_CAB-Forum-Houston-2026.pptx](https://www.cabforum.org/uploads/2026/ETSI-ESI_Standardisation_Update_for_CAB-Forum-Houston-2026.pptx)
  
 Inigo covered the following topics, for details refer to the presentation slides.
 - European legislative documents released 2025
@@ -380,7 +380,7 @@ No questions asked.
 - Presenter: Matthias Wiedenhorst
 - Minute taker: Iñigo Barreira
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/20260311_CAB-Forum_67_ACAB'c_presentation_V1.0.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/20260311_CAB-Forum_67_ACAB'c_presentation_V1.0.pdf](https://www.cabforum.org/uploads/2026/20260311_CAB-Forum_67_ACAB'c_presentation_V1.0.pdf)
 - Legislation
   - eIDAS and NIS2 effective immediately
   - DORA, CRA on demand
@@ -403,7 +403,7 @@ No questions asked.
 - Presenter: Tim Crawford / Lilia Dubko
 - Minute taker: Stephen Davidson
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/WebTrust - CABF Houston 67 FINAL March 2026.pptx](Presentation)
+- [https://www.cabforum.org/uploads/2026/WebTrust - CABF Houston 67 FINAL March 2026.pptx](https://www.cabforum.org/uploads/2026/WebTrust - CABF Houston 67 FINAL March 2026.pptx)
  
 They reminded that there is guidance for auditors covering Force Majeure situations, that has evolved since the COVID time.
  
@@ -473,7 +473,7 @@ They conducted a survey of WebTrust practitioners on PQC considerations
 - Presenter: Ben Wilson
 - Minute taker: Dean Coclin
 - Minutes: 
-- [https://www.cabforum.org/uploads/2026/IPR-Policy-F2F-67.pdf](Presentation)
+- [https://www.cabforum.org/uploads/2026/IPR-Policy-F2F-67.pdf](https://www.cabforum.org/uploads/2026/IPR-Policy-F2F-67.pdf)
 
 The meeting discussed updates to the intellectual property rights (IPR) policy, emphasizing its importance for protecting implementers.
 Proposed changes include adopting a new patent exclusion notice template and aligning language with existing bylaws.
