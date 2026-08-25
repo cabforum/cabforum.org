@@ -11,21 +11,42 @@ Aliases:
 - SMC018
 ---
 
+# [IPR Review] Ballot SMC018: Realignment of Multipurpose use cases
+
+his Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.4). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email.
+
+## Summary of Review
+
+**Ballot for Review**: SMC018: Realignment of Multipurpose use cases
+
+Start of Review Period: 2026-08-25 23:00:00 UTC
+
+End of Review Period: 2026-09-24 23:00:00 UTC
+
+Members with any Essential Claim(s) to exclude must forward a written Notice to Exclude Essential Claims to the Working Group Chair and also submit a copy to the CA/B Forum public mailing list (email to public at cabforum.org) before the end of the Review Period.
+For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy.
+
+(An optional template for submitting an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf)
+
+
 # [Voting Results] Ballot SMC018: Realignment of Multipurpose use cases
 
-Based on the current results, the ballot has PASSED. Please use the below generated email to send the results to the member list:
 The voting period for SMC018: Realignment of Multipurpose use cases has completed. The ballot has: PASSED
 
-### Voting Results
+## Voting Results
 
 **Certificate Issuers**
+
 15 votes in total:
+
  * 15 voting YES: Actalis S.p.A., Asseco Data Systems SA (Certum), Deutsche Telekom Security GmbH, DigiCert, Disig, eMudhra, GlobalSign, HARICA, IdenTrust, SECOM Trust Systems, SSL.com, SwissSign, Telia Company, TrustAsia, TWCA
  * 0 voting NO:
  * 0 ABSTAIN:
 
 **Certificate Consumers**
+
 3 votes in total:
+
  * 3 voting YES: Apple, Mozilla, rundQuadrat
  * 0 voting NO:
  * 0 ABSTAIN:
@@ -43,9 +64,8 @@ The voting period for SMC018: Realignment of Multipurpose use cases has complete
  * A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
   * the quorum was 9 for this ballot. This requirement was MET.
 
-This ballot now enters the IP Rights Review Period to permit members to review the ballot for relevant IP rights issues. This will be notified in a separate email.
 
-# Ballot SMC018: Realignment of Multipurpose use cases
+# [Voting for Approval] Ballot SMC018: Realignment of Multipurpose use cases
 
 ## Summary: 
 
