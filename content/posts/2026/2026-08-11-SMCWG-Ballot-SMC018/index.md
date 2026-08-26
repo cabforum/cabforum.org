@@ -13,7 +13,7 @@ Aliases:
 
 # [IPR Review] Ballot SMC018: Realignment of Multipurpose use cases
 
-his Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.4). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email.
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.4). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is [here](https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.16-Redline.pdf).
 
 ## Summary of Review
 
