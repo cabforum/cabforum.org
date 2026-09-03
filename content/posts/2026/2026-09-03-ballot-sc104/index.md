@@ -5,7 +5,7 @@ date: 2026-09-03
 tags:
 - Ballot
 - Server Certificates
-title: 'Ballot SC104: Set presence of AIA extension to SHOULD for Subscriber Certificates
+title: 'Ballot SC104: Set presence of AIA extension to SHOULD for Subscriber Certificates'
 type: post
 ---
 
