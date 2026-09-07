@@ -3,6 +3,7 @@ date: 2026-03-11 00:00:00
 tags:
   - Minutes
   - Forum
+  - Face-to-Face
 title: 2026-03-11 Minutes of the Forum F2F Meeting 67
 type: post
 ---
