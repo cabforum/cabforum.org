@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.2.9][TBR229] ([redlined][TBR229r]) – adopted by Ballot [SC101v2][sc101v2]
+[CA-Browser-Forum TLS BR 2.3.0][TBR230] ([redlined][TBR230r]) – adopted by Ballot [SC100][sc100]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.2.9][TBR229] ([redlined][TBR229r]) – adopted by Ballot [SC101v2][sc101v2]
 
 [CA-Browser-Forum TLS BR 2.2.8][TBR228] ([redlined][TBR228r]) – adopted by Ballot [SC098][sc098]
 
@@ -233,7 +235,10 @@ title: Baseline Requirements for TLS Server Certificates
 
 [Baseline Requirements Draft 30b][227]
 
-
+ 	
+[sc100]: /2026/08/06/ballot-sc-100-dnssec-clarification-and-consolidation
+[TBR230]: CA-Browser-Forum-TLS-BR-2.3.0.pdf
+[TBR230r]: CA-Browser-Forum-TLS-BR-2.3.0-redlined.pdf
 [sc101v2]: /2026/07/01/ballot-sc-101v2-clarify-authorization-domain-names
 [TBR229]: CA-Browser-Forum-TLS-BR-2.2.9.pdf
 [TBR229r]: CA-Browser-Forum-TLS-BR-2.2.9-redlined.pdf
