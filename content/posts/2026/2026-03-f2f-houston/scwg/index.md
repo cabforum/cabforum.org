@@ -17,7 +17,7 @@ type: post
 
 - **Minute taker:** Aaron Gable
 
-- **Slides:** [BRedits4.9.1.1and7.2.2.pdf](BRedits4.9.1.1and7.2.2.pdf)
+- **Slides:** [SCWG-Update-F2F67.pdf](SCWG-Update-F2F67.pdf)
 
 - Since F2F 66 in October 2025, we have passed 7 ballots:
 
@@ -319,7 +319,7 @@ another meeting. Hopefully root programs will also attend.
 
 - **Minute taker:** Nate Smith
 
-- **Slides:** https://wiki.cabforum.org/attachments/251
+- **Slides:** [Revocation-timelines-for-CP-CPS-discrepancies-F2F67.pdf](Revocation-timelines-for-CP-CPS-discrepancies-F2F67.pdf)
 
 - Dimitris - Opening and proposal - (insert slide presentation from
    Dimitris) Referenced links to minutes of previous F2F meetings. Indicative
