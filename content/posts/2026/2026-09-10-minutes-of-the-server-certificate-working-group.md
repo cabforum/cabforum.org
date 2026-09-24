@@ -1,10 +1,10 @@
 ---
 author: Wayne Thayer
-date: 2026-08-13 00:00:00
+date: 2026-09-10 00:00:00
 tags:
   - Minutes
   - Server Certificates
-title: 2026-08-13 Minutes of the Server Certificate Working Group
+title: 2026-09-10 Minutes of the Server Certificate Working Group
 type: post
 ---
 
