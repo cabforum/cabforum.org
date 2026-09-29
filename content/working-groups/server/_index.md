@@ -47,6 +47,10 @@ Mailing list - [https://groups.google.com/a/groups.cabforum.org/g/validation](ht
 
 {{< members wg="Server Certificate Working Group" type="Consumer" >}}
 
+### Probationary Members
+
+{{< members wg="Server Certificate Working Group" type="Probationary Member" >}}
+
 ### Associates
 
 {{< members wg="Server Certificate Working Group" type="Associate" >}}
