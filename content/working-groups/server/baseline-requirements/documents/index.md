@@ -9,9 +9,11 @@ title: Baseline Requirements for TLS Server Certificates
 
 ### Current Version
 
-[CA-Browser-Forum TLS BR 2.3.0][TBR230] ([redlined][TBR230r]) – adopted by Ballot [SC100][sc100]
+[CA-Browser-Forum TLS BR 2.3.1][TBR230] ([redlined][TBR231r]) – adopted by Ballot [SC104][sc104]
 
 ### Previous Versions
+
+[CA-Browser-Forum TLS BR 2.3.0][TBR230] ([redlined][TBR230r]) – adopted by Ballot [SC100][sc100]
 
 [CA-Browser-Forum TLS BR 2.2.9][TBR229] ([redlined][TBR229r]) – adopted by Ballot [SC101v2][sc101v2]
 
@@ -236,6 +238,9 @@ title: Baseline Requirements for TLS Server Certificates
 [Baseline Requirements Draft 30b][227]
 
  	
+[sc104]: /2026/09/03/ballot-sc-104-set-presence-of-aia-extension-to-should-for-subscriber-certificates
+[TBR231]: CA-Browser-Forum-TLS-BR-2.3.1.pdf
+[TBR231r]: CA-Browser-Forum-TLS-BR-2.3.1-redlined.pdf
 [sc100]: /2026/08/06/ballot-sc-100-dnssec-clarification-and-consolidation
 [TBR230]: CA-Browser-Forum-TLS-BR-2.3.0.pdf
 [TBR230r]: CA-Browser-Forum-TLS-BR-2.3.0-redlined.pdf
