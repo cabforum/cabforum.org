@@ -11,7 +11,7 @@ Aliases:
 - SMC020
 ---
 
-# Ballot SMC020: Remove Requirement to Record BR Version of Validation Method
+# [Discussion] Ballot SMC020: Remove Requirement to Record BR Version of Validation Method
 
 ## Summary:
 
