@@ -90,7 +90,7 @@ jobs:
       - name: Create search index
         run: npx -y pagefind --site public
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
