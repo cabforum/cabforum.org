@@ -41,7 +41,7 @@ Discussion (at least 7 days)
 
 Voting for Approval
 
-* Start time: TBD
+* Start time: 2026-10-12 19:00 UTC
 
-* End time: TBD
+* End time: 2026-10-19 19:00 UTC
 
