@@ -13,7 +13,7 @@ Aliases:
 
 # [Voting Results] Ballot SMC020: Remove Requirement to Record BR Version of Validation Method
 
-This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.4). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email.
+This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.4). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is at https://cabforum.org/uploads/CA-Browser-Forum-SMIMEBR-1.0.17-Redline.pdf
 
 ### Summary of Review
 
@@ -27,14 +27,13 @@ Members with any Essential Claim(s) to exclude must forward a written Notice to 
 
 For details, please see the current version of the CA/Browser Forum Intellectual Property Rights Policy. An optional template for submitting an Exclusion Notice is available at https://cabforum.org/wp-content/uploads/Template-for-Exclusion-Notice.pdf
 
-
 # [Voting Results] Ballot SMC020: Remove Requirement to Record BR Version of Validation Method
 
 The voting period for Ballot SMC020: Remove requirement to record BR version of validation method has completed. The ballot has: PASSED
 
-### Voting Results
+## Voting Results
 
-Certificate Issuers
+**Certificate Issuers**
 
 16 votes in total:
 
@@ -44,7 +43,7 @@ Certificate Issuers
 
  * 0 ABSTAIN:
 
-Certificate Consumers
+**Certificate Consumers**
 
 3 votes in total:
 
@@ -54,7 +53,7 @@ Certificate Consumers
 
  * 0 ABSTAIN:
 
-Bylaws Requirements
+### Bylaws Requirements
 
 1. Bylaw 2.3(6) requires:
 
