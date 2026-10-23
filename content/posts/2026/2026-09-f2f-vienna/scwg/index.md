@@ -78,7 +78,7 @@ Ben proposed, as a first-phase effort, methodically cataloguing the real-world, 
 
 - **Presenters:** Ryan Dickson and Chris Clements (Google Chrome)
 
-- **Slides:** [Further_improving_Section_7_of_the_TLS BRs.pdf](Further_improving_Section_7_of_the_TLS BRs.pdf)
+- **Slides:** [Further_improving_Section_7_of_the_TLS_BRs.pdf](Further_improving_Section_7_of_the_TLS_BRs.pdf)
 
 Ryan Dickson and Chris Clements, framed the discussion as a direct follow-on to the CP/CPS conversation and to recent certificate-problem reports in Bugzilla, and explicitly asked for active community discussion rather than a one-way presentation.
 
