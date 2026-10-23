@@ -5,7 +5,7 @@ tags:
 - Minutes
 - Server Certificates
 - Face-to-Face
-title: Minutes of the F2F 67 Meeting in Houston, Texas, USA - SCWG, March 10, 2025
+title: Minutes of the F2F 67 Meeting in Houston, Texas, USA - SCWG, March 10, 2026
 type: post
 ---
 
