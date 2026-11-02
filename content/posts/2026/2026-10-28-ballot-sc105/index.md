@@ -49,7 +49,7 @@ type: post
 This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s Intellectual Property Rights Policy (v1.3). This Review Period of 30 days is for one Final Maintenance Guidelines. The complete Draft Maintenance Guideline that is the subject of this Review Notice is attached to this email, both in red-line and changes-accepted draft format, in Word and PDF versions.
 
 ### Summary of Review
-Ballot for Review: SC104: Set presence of AIA extension to SHOULD for Subscriber Certificates
+Ballot for Review: SC105: Remove High Risk language from TLS BR and EVG
 
 [TBR-SC105.pdf](TBR-SC105.pdf)
 
