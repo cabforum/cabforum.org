@@ -52,13 +52,13 @@ This Review Notice is sent pursuant to Section 4.1 of the CA/Browser Forum’s I
 ### Summary of Review
 Ballot for Review: SC0102: EV Domain Reuse and Validity Alignment
 
-[TBR-SC102.pdf](TBR-SC102.pdf)
+[EVG-SC102.pdf](TBR-SC102.pdf)
 
-[TBR-SC102-redlined.pdf](TBR-SC102-redline.pdf)
+[EVG-SC102-redlined.pdf](TBR-SC102-redline.pdf)
 
-[TBR-SC102.docx](TBR-SC102.docx)
+[EVG-SC102.docx](TBR-SC102.docx)
 
-[TBR-SC102-redlined.docx](TBR-SC102-redline.docx)
+[EVG-SC102-redlined.docx](TBR-SC102-redline.docx)
 
 **Start of Review Period:** 2026-07-14 08:00:00 UTC
 
