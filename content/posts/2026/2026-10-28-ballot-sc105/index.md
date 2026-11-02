@@ -1,6 +1,6 @@
 ---
 aliases:
-- /2026/10/28/ballot-sc-remove-high-risk-language-from-tls-br-and-evg
+- /2026/10/28/ballot-sc105-remove-high-risk-language-from-tls-br-and-evg
 date: 2026-10-28
 tags:
 - Ballot
