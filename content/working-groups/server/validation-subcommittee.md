@@ -6,6 +6,16 @@ date: 2018-10-06 22:36:48
 title: Validation Subcommittee
 ---
 
+
+## Officers
+
+Current Chair: Stephen Davidson
+
+Past Chairs: Tim Hollebeek, Corey Bonnell
+
+
+## Charter
+
 **Validation Subcommittee of the Server Certificate Working Group**
 
 The Server Certificate Working Group hereby establishes the Validation Subcommittee as an official Subcommittee of the Server Certificate Working Group (SCWG).
@@ -25,3 +35,5 @@ Participation: Any member of the SCWG is eligible and may declare their particip
 Communication: Subcommittee communications and documents shall be posted on mailing lists where the mail-archives are publicly accessible. The Subcommittee shall publish minutes of its meetings.
 
 - Effect of SCWG Charter or Forum Bylaws Amendment for Subcommittees: In the event the SCWG Charter or the CA/Browser Forum Bylaws is amended to add general rules governing Chartered Working Group Subcommittees and how they operate (“General Rules”), the provisions of the General Rules shall take precedence over this charter.
+
+
